@@ -733,7 +733,6 @@ class CyberDocument(Document):
                 self.sent2subtok_bdry.append((sentence_idx, i))
                 sentence_idx = i+1
 
-
     def truncate(self):
         """ 
         子类重构自裁

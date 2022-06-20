@@ -89,7 +89,6 @@ class SentCorelScore(nn.Module):
 
         return self.score_together(together)
 
-
 class Distance(nn.Module):
     """ Learned, continuous representations for: distance
     between spans
@@ -151,11 +150,13 @@ class Type(nn.Module):
 class BertDocumentEncoder(nn.Module):
     """ Document encoder for tokens
     """
-    def __init__(self, distribute_model=False):
+    def __init__(self, distribute_model=False, TypePredictor=None):
         super().__init__()
         self.distribute_model = distribute_model
 
-        if args.bert_name=='bert-base':
+        if args.tp_all_in_one:
+            self.bert = TypePredictor.encoder.bert
+        elif args.bert_name=='bert-base':
             self.bert, _ = BertModel.from_pretrained("bert-base-cased", output_loading_info=True)
         elif args.bert_name=='bert-large':
             self.bert, _ = BertModel.from_pretrained("bert-large-cased", output_loading_info=True)
@@ -422,25 +423,26 @@ class typePred():
     def gold_types(self, doc, start_toks, end_toks):
         with open('./Dataset/others/type2label.json', 'r') as fs:
             type2label = json.load(fs)
-
-        entity_bdrys = [(doc.word2subtok[entity[5][0]][0], doc.word2subtok[entity[5][-1]][-1]) for entity in doc.entities]
+        
+        entity_types = {}
+        for entity in doc.entities:
+            for coref in doc.corefs:
+                try:
+                    if coref['span'][0]==entity[5][0] and coref['span'][-1]==entity[5][-1]:
+                        entity_types[(doc.word2subtok[coref['span'][0]][0], doc.word2subtok[coref['span'][-1]][-1])]=entity[1]
+                except(IndexError):
+                    continue
+        # entity_types = {(doc.word2subtok[coref['span'][0]][0], doc.word2subtok[coref['span'][-1]][-1]):entity[1] for entity in doc.entities for coref in doc.corefs if coref['span'][0]==entity[5][0] and coref['span'][-1]==entity[5][-1]}
 
         result = []
         for s,e in zip(start_toks, end_toks):
-            if (s,e) in entity_bdrys:
-                for i, ebd in enumerate(entity_bdrys):
-                    if (s,e) == ebd:
-                        result.append(type2label[doc.entities[i][1]])
-                        break
+            if (s,e) in entity_types.keys():
+                result.append(type2label[entity_types[(s,e)]])
             else:
                 result.append(type2label['None'])
 
-        result = F.one_hot(torch.tensor(result))
+        result = F.one_hot(torch.tensor(result)).float().to(args.device)
         return result
-
-
-        
-
       
 class MentionScore(nn.Module):
     """ Mention scoring module
@@ -839,7 +841,10 @@ class CyberCorefScorer(nn.Module):
         super().__init__()
         assert embeds_dim == 768, 'For bert-based model, embeds_dim should match the size with pre-trained BERT-based Model.'
         
-        self.encoder = BertDocumentEncoder(distribute_model)
+        if args.tp_all_in_one:
+            self.encoder = BertDocumentEncoder(distribute_model, typePredictor)
+        else:
+            self.encoder = BertDocumentEncoder(distribute_model)
 
         self.typePredictor = typePredictor
 

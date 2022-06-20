@@ -34,8 +34,9 @@ class cyberCorefModel(pl.LightningModule):
         # -------------Model-Related--------------------------------
         if args.tp_solution not in ['None', 'gold']:
             self.typePredictor = typePredModel().load_from_checkpoint('./Weights/tp-spanbert-without-tag-md-epoch=19-valid_weighted_f1=0.79.ckpt').to(args.device)
-            for para in self.typePredictor.parameters():
-                para.requires_grad = False
+            if not args.tp_all_in_one:
+                for para in self.typePredictor.parameters():
+                    para.requires_grad = False
         else:
             self.typePredictor = None
 

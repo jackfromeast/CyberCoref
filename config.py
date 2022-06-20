@@ -69,6 +69,7 @@ def arg_parse():
     parser.add_argument('--sent_corel_dim', default=32)
 
     # Experiments for type prediction
+    parser.add_argument('--tp_all_in_one', action='store_true', default=False)
     parser.add_argument('--insertTag', action='store_true', default=False)
     parser.add_argument('--type_dim', default=64, type=int, help='')
     parser.add_argument('--tp_solution', default='gold', choices = ['without-tag-mean', 'without-tag-md', 'tagged-mean', 'tagged-token-md', 'tag', 'gold', 'None'])
