@@ -1,0 +1,112 @@
+T1	Organization 9 22	UK university
+T3	Campaign 47 64	ransomware attack
+T4	Time 65 74	this week
+T10	Malware 144 156	 the malware
+T11	Location 160 166	Europe
+T6	Organization 202 238	Northern Ireland’s Ulster University
+T7	Time 241 254	 the same day
+T8	Campaign 254 274	 a ransomware outage
+T7	Time 241 254	 the same day
+T2	Number 83 90	figures
+T12	Organization 97 109	 the country
+T5	Campaign 167 178	 The attack
+T15	Organization 389 404	 its AV partner
+T16	Vulnerability 413 431	 a zero-day threat
+T17	Organization 484 487	UCL
+T14	Time 375 384	yesterday
+T18	Number 489 494	Three
+T19	File 495 512	departmental file
+T20	Attack-Pattern 495 597	departmental file shares have been affected and remained at “read only” access at the time of writing.
+T21	Time 574 588	at the time of
+T22	Organization 602 626	 its counterparts at UCL
+T24	Course-of-Action 663 759	be following best practice regarding back-ups, which will help mitigate the impact of the attack
+T25	Campaign 748 759	 the attack
+T26	Organization 776 779	ISD
+T27	Course-of-Action 780 896	take backups of all our shared drives and this should protect most data even if it has been encrypted by the malware
+T28	Malware 884 896	 the malware
+T29	Device 800 817	our shared drives
+T30	Information 842 851	most data
+T31	Information 860 862	it
+T32	Campaign 919 934	 the infections
+T33	File 1003 1012	 the file
+T34	Course-of-Action 969 1012	restore the most recent back up of the file
+T35	Organization 1014 1017	ISD
+T36	Time 1081 1123	at close of business on Tuesday 12th June.
+T37	Person 1125 1136	Fraser Kyne
+T38	Person 1138 1157	EMEA CTO at Bromium
+T39	Course-of-Action 1159 1232	urged all UK university IT teams to be on high alert for possible attacks
+T40	Organization 1169 1191	UK university IT teams
+T41	Campaign 1225 1232	attacks
+T42	Malware 1274 1289	 the ransomware
+T43	Vulnerability 1323 1342	 a zero-day exploit
+T44	Organization 1312 1315	UCL
+T45	Attack-Pattern 1302 1389	get in at UCL through a zero-day exploit, which allowed it to bypass antivirus software
+T46	Software 1371 1389	antivirus software
+T47	Person 1392 1394	he
+T48	Software 1446 1455	antivirus
+T49	Course-of-Action 1484 1517	stop things that it knows are bad
+T50	Software 1501 1503	it
+T51	Malware 1535 1542	malware
+T52	Number 1530 1534	most
+T53	Malware 1580 1582	it
+T55	Software 1642 1651	antivirus
+T56	Organization 1689 1692	UCL
+T57	Person 1738 1745	 a user
+T58	Domain 1754 1776	 a compromised website
+T59	File 1796 1824	 a phishing email attachment
+T60	Organization 1865 1877	Malwarebytes
+T61	Location 1882 1889	 the UK
+T62	Location 1912 1918	Europe
+T63	Campaign 1892 1908	 the hardest hit
+T64	Malware 1936 1946	ransomware
+T65	Number 1959 1970	three-times
+T66	Location 1992 1999	 the UK
+T67	Time 2003 2010	Q1 2017
+T68	Organization 2030 2046	impacted country
+T69	Location 2048 2054	France
+T70	Malware 2071 2081	ransomware
+T71	Number 2101 2103	4%
+T72	Location 2111 2117	Europe
+T73	Campaign 2082 2092	infections
+T74	Campaign 2118 2122	they
+T75	Number 2133 2136	57%
+T76	Location 2139 2146	 the UK
+T77	Time 2147 2159	year-on-year
+T78	Number 2160 2180	 The total volume of
+T79	Campaign 2181 2194	cyber-attacks
+T80	Organization 2198 2206	UK firms
+T81	Number 2214 2218	500%
+T82	Time 2219 2232	year-on-year,
+T83	Location 2278 2284	Europe
+T84	Location 2286 2291	Italy
+T85	Location 2295 2302	 the UK
+T86	Number 2329 2348	 the highest number
+T87	Location 2374 2380	Europe
+T88	Campaign 2352 2370	malware detections
+T89	Number 2382 2387	16.3%
+T90	Number 2392 2397	16.2%
+T91	Organization 761 763	It
+T92	File 1034 1043	 a backup
+T93	Person 903 905	we
+T95	Person 961 963	we
+T97	Pronoun 1358 1360	it
+T104	Software 1465 1467	it
+T9	Organization 284 309	University College London
+T96	Organization 311 314	UCL
+T13	Organization 317 359	Ulster Uni’s Information Services Division
+T98	Organization 361 364	ISD
+T23	Organization 648 651	ISD
+T102	Organization 628 645	Ulster University
+*	Coreference T26 T35 T23 T98 T13
+*	Coreference T61 T85 T76 T66
+*	Coreference T87 T72 T11 T62 T83
+*	Coreference T89 T90
+*	Coreference T31 T30
+*	Coreference T47 T38 T37
+*	Coreference T55 T50 T48 T46 T104
+*	Coreference T53 T51
+*	Coreference T73 T32 T74
+*	Coreference T5 T3 T25
+*	Coreference T9 T96 T56 T44 T17
+*	Coreference T91 T102
+*	Coreference T95 T93

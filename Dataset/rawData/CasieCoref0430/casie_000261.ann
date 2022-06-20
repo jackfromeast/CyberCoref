@@ -1,0 +1,188 @@
+T22	Organization 1539 1554	 the government
+T21	Person 1520 1536	 the asset owner
+T15	Attack-Pattern 1301 1319	seize the controls
+T16	System 1322 1354	 a critical infrastructure asset
+T20	Hacker-Group 1280 1287	hackers
+T18	Organization 1372 1379	airport
+T32	Campaign 2696 2714	ransomware attacks
+T34	Organization 2723 2740	local governments
+T7	Campaign 655 673	ransomware attacks
+T8	Attack-Pattern 683 741	hackers seize and lock an organization’s data and networks
+T1	Purpose 403 409	pay up
+T5	Attack-Pattern 331 376	threaten to trigger a major leak or explosion
+T4	Person 380 396	the plant owners
+T2	Money 411 422	$50 million
+T42	Hacker-Group 3526 3535	 a hacker
+T43	Organization 3478 3496	industrial targets
+T33	Campaign 2811 2831	 a ransomware attack
+T36	Attack-Pattern 2868 2896	threatened major destruction
+T35	Organization 2839 2862	 the federal government
+T44	Campaign 4633 4653	 a ransomware attack
+T45	System 4579 4592	their systems
+T46	Organization 4612 4616	they
+T38	Information 3142 3164	marketable information
+T39	Hacker-Group 3102 3118	criminal hackers
+T40	Information 3173 3192	credit card numbers
+T28	Money 1909 1913	$100
+T29	Money 1917 1921	$200
+T30	Person 1927 1938	individuals
+T31	Attack-Pattern 1943 1965	clicked the wrong link
+T11	Malware 854 864	ransomware
+T24	Campaign 1846 1864	ransomware attacks
+T25	Time 1865 1874	for years
+T14	Hacker-Group 1235 1239	they
+T12	System 1199 1222	critical infrastructure
+T3	Malware 15 25	ransomware
+T47	Organization 32 42	government
+T48	Organization 47 80	critical infrastructure providers
+T49	Person 117 131	cyber watchers
+T50	Hacker-Group 148 172	shadowy criminal hackers
+T51	Number 137 147	A cadre of
+T52	Attack-Pattern 173 206	seizes control of an energy plant
+T53	Organization 190 206	 an energy plant
+T54	Hacker-Group 208 212	They
+T55	Hacker-Group 218 228	themselves
+T56	Attack-Pattern 213 253	give themselves administrator privileges
+T57	Person 262 289	 the genuine administrators
+T58	Person 305 313	everyone
+T60	Money 426 433	bitcoin
+T61	Time 523 532	 the 1965
+T62	Time 566 575	 the 1997
+T63	Person 533 543	James Bond
+T64	Person 598 615	International Man
+T65	Time 629 632	Yet
+T66	Hacker-Group 683 690	hackers
+T67	Organization 705 721	 an organization
+T68	Information 724 728	data
+T69	System 733 741	networks
+T70	Hacker-Group 758 762	them
+T71	Person 779 793	cyber watchers
+T72	Malware 873 875	it
+T73	Money 928 933	money
+T9	Person 971 1016	McAfee Chief Technology Officer Steve Grobman
+T10	Person 1022 1031	reporters
+T75	Time 1063 1071	Thursday
+T77	Hacker-Group 1157 1166	criminals
+T13	Money 1253 1259	ransom
+T79	Person 1262 1269	Grobman
+T80	Purpose 1244 1259	hold for ransom
+T17	Hacker-Group 1386 1390	they
+T81	Attack-Pattern 1397 1446	cause major property destruction and loss of life
+T19	Money 1447 1458	 the ransom
+T82	Purpose 1447 1465	 the ransom demand
+T83	Person 1481 1488	Grobman
+T84	Organization 1577 1600	Critical infrastructure
+T85	Organization 1627 1660	 the Homeland Security Department
+T86	Number 1678 1680	16
+T87	Organization 1681 1688	sectors
+T88	Organization 1717 1732	financial firms
+T89	Organization 1697 1712	chemical plants
+T90	Organization 1821 1827	McAfee
+T26	Purpose 1899 1921	extorting $100 or $200
+T91	URL 1961 1965	link
+T92	Organization 1992 2001	hospitals
+T93	Organization 2003 2015	universities
+T94	Organization 2020 2035	police stations
+T95	Number 2039 2046	some of
+T96	Organization 2046 2076	 the major global corporations
+T97	Organization 2076 2095	 the antivirus firm
+T98	Person 2108 2122	 its customers
+T99	Course-of-Action 1837 1864	tracking ransomware attacks
+T100	Organization 2151 2170	government agencies
+T101	Organization 2174 2207	critical infrastructure providers
+T102	Person 2235 2237	he
+T103	Person 2244 2255	John Felker
+T104	Person 2257 2309	director of the DHS’ main cybersecurity nerve center
+T105	Organization 2311 2337	the National Cybersecurity
+T106	Organization 2342 2375	Communications Integration Center
+T107	Person 2384 2391	Grobman
+T108	Person 2410 2415	Steve
+T109	Person 2473 2475	we
+T111	Person 2580 2582	he
+T110	Organization 2628 2657	 the National Security Agency
+T112	Organization 2668 2678	Fort Meade
+T113	Location 2680 2688	Maryland
+T114	Organization 2780 2785	NCCIC
+T115	Person 2898 2904	Felker
+T117	Organization 2928 2951	critical infrastructure
+T118	Campaign 2992 3002	 an attack
+T119	Hacker-Group 3005 3025	 an adversary nation
+T120	Hacker-Group 3029 3044	terrorist group
+T121	Purpose 3056 3084	cause destruction and mayhem
+T37	Attack-Pattern 3133 3192	stealing marketable information such as credit card numbers
+T124	System 3230 3248	Industrial systems
+T125	System 3292 3296	they
+T126	System 3325 3359	obscure industrial control systems
+T127	Hacker-Group 3395 3402	hackers
+T128	Attack-Pattern 3411 3441	manipulating consumer software
+T129	Person 3424 3432	consumer
+T130	Software 3433 3441	software
+T131	Hacker-Group 3447 3467	ransomware attackers
+T133	Organization 3552 3556	them
+T41	Money 3613 3624	 the ransom
+T134	Person 3638 3645	Grobman
+T136	Location 3673 3681	New York
+T137	Hacker-Group 3700 3709	Criminals
+T138	Organization 3754 3767	nation-states
+T139	Person 3811 3818	Grobman
+T140	Hacker-Group 3781 3785	them
+T141	Organization 3824 3847	 The Justice Department
+T142	Hacker-Group 3861 3868	hackers
+T143	Organization 3878 3914	 the Chinese and Iranian governments
+T145	Organization 3950 3975	 The Obama administration
+T146	Person 3992 4014	North Korean officials
+T147	Campaign 4018 4055	 the Sony Pictures Entertainment hack
+T148	Person 4060 4077	Russian officials
+T149	Campaign 4082 4111	meddling in the 2016 election
+T150	Person 4118 4140	President Barack Obama
+T151	Person 4145 4169	Vice President Joe Biden
+T152	Organization 4185 4200	 the government
+T153	Location 4229 4235	Russia
+T154	Campaign 4245 4253	meddling
+T155	Hacker-Group 4254 4265	 A criminal
+T156	Hacker-Group 4269 4283	criminal group
+T159	Person 4473 4480	Grobman
+T160	Organization 4493 4508	 the government
+T161	Organization 4513 4546	critical infrastructure providers
+T162	Course-of-Action 4570 4592	securing their systems
+T163	Person 4663 4665	we
+T164	Course-of-Action 4666 4716	get the defenses in place before the breach occurs
+T165	Campaign 4698 4709	 the breach
+T166	Person 4719 4721	he
+T167	Person 4732 4734	we
+T168	Person 4768 4770	we
+T169	Campaign 4795 4832	Office of Personnel Management breach
+T170	Person 4849 4851	we
+T171	Money 4891 4900	 the cost
+T172	Campaign 4903 4914	 the breach
+T173	System 3257 3261	dams
+T179	Hacker-Group 326 330	they
+T188	Campaign 1878 1882	they
+T190	Attack-Pattern 258 318	lock the genuine administrators out along with everyone else
+T6	Attack-Pattern 746 778	only unlock them for a hefty fee
+T59	Organization 1362 1368	 a dam
+T23	Person 3193 3207	 these targets
+T27	Purpose 3581 3610	unleash terrible consequences
+T74	Purpose 4387 4406	diplomatic pressure
+T76	Purpose 4355 4375	public embarrassment
+T78	Course-of-Action 4597 4653	gaming out how they would respond to a ransomware attack
+*	Coreference T28 T29
+*	Coreference T32 T7 T44 T131 T33 T24 T188
+*	Coreference T49 T71
+*	Coreference T105 T110
+*	Coreference T79 T134 T83 T159 T139 T107 T102 T166
+*	Coreference T22 T34 T35 T47 T160 T143 T100 T152 T46
+*	Coreference T165 T172
+*	Coreference T12 T48
+*	Coreference T72 T3 T11
+*	Coreference T108 T109 T111
+*	Coreference T125 T173 T124 T126
+*	Coreference T133 T43
+*	Coreference T54 T50 T55 T179
+*	Coreference T14 T77 T20 T17
+*	Coreference T15 T52
+*	Coreference T19 T13
+*	Coreference T140 T137
+*	Coreference T154 T149
+*	Coreference T161 T101
+*	Coreference T168 T167 T163 T170

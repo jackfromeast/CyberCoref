@@ -1,0 +1,72 @@
+T1	Campaign 126 146	 a ransomware attack
+T2	Device 171 188	City Hall servers
+T5	Location 43 48	Texas
+T3	Organization 18 38	 the City of Del Rio
+T4	Person 0 9	Officials
+T8	Organization 247 256	 The city
+T7	Malware 270 285	 the ransomware
+T9	Time 289 297	Thursday
+T10	Device 314 321	servers
+T20	File 1559 1575	 the ransom note
+T21	Malware 1523 1535	 the malware
+T22	Device 1602 1605	PCs
+T23	Organization 1475 1495	 a Del Rio City Hall
+T12	Information 1138 1151	personal data
+T11	Malware 1095 1102	malware
+T27	Person 1790 1797	victims
+T16	Malware 1219 1234	 the ransomware
+T15	Organization 1173 1188	 The Texan city
+T17	Malware 1308 1315	malware
+T18	Money 1317 1324	Ransoms
+T26	Attack-Pattern 65 120	abandon electronic services and switch to pen and paper
+T28	Person 190 210	City representatives
+T29	Campaign 220 236	 the cyberattack
+T30	Time 237 246	last week
+T6	Purpose 310 362	all servers being disabled to prevent further spread
+T33	Course-of-Action 441 527	isolate the malware by turning off all Internet connections for other city departments
+T34	Malware 448 460	 the malware
+T35	Organization 511 527	city departments
+T36	Person 557 564	members
+T37	Person 568 573	staff
+T38	System 592 610	government systems
+T39	Person 625 653	employees of each department
+T41	Course-of-Action 669 758	use pen and paper in their work and go back to manual entry for transactions taking place
+T42	Campaign 733 745	transactions
+T43	Person 774 778	they
+T44	Information 820 838	historical records
+T45	Malware 847 862	 the ransomware
+T46	Person 878 892	City officials
+T47	Course-of-Action 537 610	 this prevented any members of staff from logging into government systems
+T48	Organization 906 933	 the FBI of the cyberattack
+T49	Campaign 917 933	 the cyberattack
+T50	Organization 937 956	 the Secret Service
+T51	Time 1041 1051	at present
+T52	Malware 1065 1080	 the ransomware
+T13	Money 1247 1254	payment
+T14	Purpose 1317 1377	Ransoms are usually requested in return for a decryption key
+T53	Information 1360 1377	 a decryption key
+T54	System 1429 1446	encrypted systems
+T55	Person 1496 1507	spokeswoman
+T56	Number 1594 1601	30 - 45
+T57	Number 1615 1630	 a phone number
+T19	Money 1648 1666	 the blackmail fee
+T58	Organization 1896 1900	City
+T59	Time 1668 1684	Most of the time
+T24	Money 1761 1767	ransom
+T25	Attack-Pattern 1754 1889	paying ransom in cryptocurrency and victims will be given a wallet address, rather than a means to directly call the malware's operator
+T61	Hacker-Group 1866 1889	 the malware's operator
+T60	Course-of-Action 1915 2000	working on finding the best solution to resolve this situation and restore the system
+T62	System 1989 2000	 the system
+T63	Person 2039 2050	 the public
+T64	Person 2070 2072	us
+T65	Time 2116 2128	at this time
+T66	URL 480 500	Internet connections
+T67	Person 2076 2078	we
+T68	Person 2033 2035	We
+T31	Organization 364 422	Del Rio's Management Information Services (MIS) department
+*	Coreference T8 T58 T3 T15
+*	Coreference T34 T17 T11 T21 T7 T45 T52 T16
+*	Coreference T18 T24
+*	Coreference T29 T49 T1
+*	Coreference T43 T39
+*	Coreference T64 T68 T67

@@ -1,0 +1,67 @@
+T8	Person 864 887	United States residents
+T10	Domain 1010 1017	website
+T12	Purpose 1121 1138	collect this data
+T11	Domain 1057 1077	human resources page
+T24	Person 1046 1054	employer
+T20	Hacker-Group 1278 1290	conspirators
+T18	Organization 1242 1245	IRS
+T16	Hacker-Group 1206 1218	conspirators
+T13	Person 1146 1152	people
+T14	Attack-Pattern 1153 1200	entered their information into the fake website
+T27	Information 951 968	IRS form W-2 data
+T25	Person 980 988	employer
+T6	Domain 991 998	website
+T4	Person 11 20	Nigerians
+T2	Information 73 93	personal information
+T3	Person 99 122	Vermont state employees
+T5	Person 133 147	U.S. residents
+T1	Purpose 67 93	steal personal information
+T15	Time 163 170	Tuesday
+T21	Organization 174 195	Rutland federal court
+T22	Person 234 250	Osariemen Isibor
+T28	Time 215 224	14 months
+T29	Number 252 254	32
+T32	Time 294 302	in March
+T30	Organization 274 293	U.S. District Court
+T31	Person 352 363	Eneye Dania
+T34	Number 365 367	31
+T35	Time 392 397	March
+T36	Campaign 419 434	same conspiracy
+T37	Time 436 445	Last week
+T38	Person 447 452	Dania
+T39	Time 476 485	17 months
+T40	Person 495 500	Dania
+T41	Time 533 542	14 months
+T42	Person 550 556	Isibor
+T43	Person 605 610	Dania
+T44	Person 672 676	both
+T45	Organization 715 737	custody of Immigration
+T46	Organization 742 761	Customs Enforcement
+T47	Location 787 794	Nigeria
+T9	Person 1296 1307	prosecutors
+T17	Organization 1358 1361	IRS
+T19	Attack-Pattern 1232 1290	trick the IRS into sending tax refunds to the conspirators
+T26	Number 0 10	One of two
+T33	Campaign 327 337	wire fraud
+T48	Campaign 840 850	conspiracy
+T49	Information 907 924	logon information
+T50	Campaign 1107 1117	conspiracy
+T51	Information 1134 1138	data
+T52	Domain 1188 1200	fake website
+T53	Information 1167 1178	information
+T54	Money 1259 1270	tax refunds
+T55	Course-of-Action 1313 1337	fraud detection controls
+T56	Money 1404 1407	tax
+T57	Person 925 929	they
+*	Coreference T8 T5 T57 T13
+*	Coreference T24 T25
+*	Coreference T20 T16
+*	Coreference T18 T17
+*	Coreference T32 T35
+*	Coreference T40 T43 T31 T38
+*	Coreference T50 T36 T48 T58
+T58	Campaign 53 63	conspiracy
+T7	Purpose 856 968	fooling United States residents … into sending the logon information they used to access their IRS form W-2 data
+*	Coreference T51 T49 T53
+*	Coreference T52 T10
+*	Coreference T54 T56

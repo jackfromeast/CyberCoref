@@ -1,0 +1,131 @@
+T4	Money 58 64	ransom
+T5	Hacker-Group 68 75	hackers
+T6	Attack-Pattern 80 101	hijacked patient data
+T1	Organization 18 34	Indiana hospital
+T2	Money 50 57	$50,000
+T7	Campaign 107 124	ransomware attack
+T12	Time 216 224	Thursday
+T10	Location 169 179	Greenfield
+T9	Organization 151 165	Hancock Health
+T8	Device 138 147	computers
+T11	Organization 191 205	outside vendor
+T15	Money 360 373	four bitcoins
+T13	Malware 345 350	virus
+T17	Attack-Pattern 237 256	infected the system
+T16	Attack-Pattern 260 276	locking out data
+T19	Organization 473 481	hospital
+T20	Money 505 512	$50,000
+T21	Time 526 548	early Saturday morning
+T37	Time 2190 2196	Monday
+T22	Money 877 883	ransom
+T27	Attack-Pattern 1487 1503	phishing methods
+T28	Hacker-Group 1465 1474	Criminals
+T26	Purpose 1537 1575	infect victims with malicious software
+T33	Person 1716 1720	them
+T30	Person 1776 1780	they
+T31	Attack-Pattern 1725 1749	files have been hijacked
+T32	Person 1671 1678	Victims
+T24	Information 1197 1209	patient data
+T38	Location 0 12	INDIANAPOLIS
+T39	Organization 40 42	it
+T3	Information 89 101	patient data
+T41	Attack-Pattern 281 340	changing the names of more than 1,400 files to "I'm sorry."
+T42	Number 313 318	1,400
+T43	File 319 324	files
+T14	Information 404 408	data
+T44	Information 425 448	patient medical records
+T45	Information 453 467	company emails
+T49	Purpose 351 373	demanded four bitcoins
+T50	Time 513 524	at the time
+T51	Person 555 563	Rob Matt
+T52	Person 565 586	senior vice president
+T53	Person 591 613	chief strategy officer
+T54	Person 645 649	Matt
+T55	Money 676 680	cost
+T56	Money 751 763	consequences
+T57	System 769 779	new system
+T58	Information 786 790	data
+T59	Time 814 845	after the money was transferred
+T60	Person 847 851	Matt
+T18	Money 917 921	cost
+T61	Person 977 985	patients
+T62	Person 988 992	Matt
+T63	Organization 999 1013	Hancock Health
+T64	Number 1029 1038	two dozen
+T65	Organization 1039 1061	health care facilities
+T66	Organization 1073 1098	Hancock Regional Hospital
+T67	Location 1102 1112	Greenfield
+T69	Location 1120 1149	15 miles east of Indianapolis
+T68	Organization 1155 1168	health system
+T23	Person 1304 1311	patient
+T70	Malware 1338 1348	Ransomware
+T71	Attack-Pattern 1362 1389	digital extortion technique
+T72	Number 1404 1424	tens of thousands of
+T73	Time 1438 1442	2016
+T74	Organization 1444 1453	USA TODAY
+T75	System 250 256	system
+T76	Information 272 276	data
+T77	Email 1512 1518	emails
+T78	URL 1522 1533	bogus links
+T79	Malware 1557 1575	malicious software
+T80	Malware 1581 1586	virus
+T81	Purpose 1587 1615	infects the computer network
+T82	Attack-Pattern 1619 1669	encrypting files or locking down the entire system
+T83	File 1630 1635	files
+T84	System 1656 1669	entire system
+T85	File 1725 1730	files
+T86	File 1765 1770	files
+T29	Organization 1799 1808	Hospitals
+T87	Campaign 1840 1847	attacks
+T88	Time 1852 1855	May
+T89	Malware 1859 1875	ransomware virus
+T90	Attack-Pattern 1876 1987	affected more than 200,000 victims in 150 countries, including more than 20% of hospitals in the United Kingdom
+T91	Number 1895 1902	200,000
+T92	Person 1903 1910	victims
+T93	Number 1914 1917	150
+T94	Organization 1918 1927	countries
+T95	Number 1949 1952	20%
+T96	Organization 1956 1965	hospitals
+T97	Location 1973 1987	United Kingdom
+T98	Campaign 1994 2000	attack
+T99	Location 2021 2032	North Korea
+T100	Organization 2034 2048	Hancock Health
+T101	Organization 2054 2056	it
+T102	Organization 2073 2076	FBI
+T104	Campaign 2160 2166	attack
+T105	Course-of-Action 2081 2166	hired an Indianapolis cybersecurity expert for advice on how to respond to the attack
+T35	System 2172 2179	systems
+T34	Money 2214 2220	ransom
+T106	Time 2262 2276	at the time of
+T107	Campaign 2281 2287	attack
+T109	System 2460 2467	systems
+T110	Person 2499 2517	Hospital officials
+T111	File 2539 2552	back up files
+T112	Person 2558 2562	Long
+T113	Person 2568 2572	they
+T114	Course-of-Action 2580 2607	restoring the hijacked data
+T115	Person 2664 2668	Long
+T116	Course-of-Action 2679 2735	pay the ransom to expedite our return to full operations
+T36	Money 2687 2693	ransom
+T117	Campaign 226 228	It
+T120	Person 2630 2632	We
+T126	Person 2435 2437	we
+*	Coreference T10 T67
+*	Coreference T55 T18
+*	Coreference T51 T60 T54 T62 T52 T53
+*	Coreference T100 T9 T66 T63 T68 T101
+*	Coreference T86 T85
+*	Coreference T4 T2 T20 T22
+*	Coreference T92 T30 T32 T33
+*	Coreference T7 T117
+*	Coreference T14 T76
+*	Coreference T39 T1 T19
+*	Coreference T80 T79 T70
+*	Coreference T104 T98 T107
+T25	Person 2290 2308	Hancock Health CEO
+T46	Person 2309 2319	Steve Long
+*	Coreference T25 T46 T112 T115 T120 T126
+*	Coreference T109 T35
+*	Coreference T113 T110
+T47	Information 191 215	outside vendor's account
+T48	Person 2090 2123	Indianapolis cybersecurity expert

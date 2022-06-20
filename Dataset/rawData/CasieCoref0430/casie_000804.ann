@@ -1,0 +1,111 @@
+T1	Campaign 266 286	 a ransomware attack
+T5	Malware 313 329	computer malware
+T6	Organization 229 249	 the school district
+T2	Campaign 481 503	 a request for payment
+T4	Attack-Pattern 411 443	turning documents into gibberish
+T3	Attack-Pattern 370 406	locking up access to network servers
+T10	Campaign 1281 1298	the ransom demand
+T11	Organization 1230 1242	the district
+T12	Time 1209 1223	Monday, Aug 13
+T13	Campaign 2060 2075	paying a ransom
+T7	Organization 2112 2119	schools
+T14	Organization 2124 2137	the community
+T8	Campaign 1074 1085	was "stolen
+T9	Information 1062 1073	information
+T15	Time 558 568	March 2016
+T16	Time 80 101	 the morning of Aug 3
+T17	Person 5 29	Cloquet school officials
+T18	Device 348 356	computer
+T19	Device 360 368	computer
+T20	Number 731 749	 its more than 600
+T21	Device 750 759	computers
+T22	Person 924 933	T.J.Smith
+T23	Person 880 923	Cloquet School District Technology Director
+T24	Time 784 804	over summer vacation
+T25	Campaign 809 820	 the attack
+T26	Device 696 719	 the district's servers
+T27	Malware 660 672	 the malware
+T28	Person 623 639	technology staff
+T29	Course-of-Action 648 655	recover
+T30	Person 1124 1129	users
+T31	File 1149 1159	 the files
+T32	Person 1161 1166	Smith
+T33	Person 1180 1208	Cloquet School Board members
+T34	Money 1930 1937	$15,000
+T35	Campaign 2467 2474	attacks
+T36	Email 2500 2506	emails
+T37	Person 2555 2568	board members
+T38	Time 2783 2789	Sept 5
+T39	Course-of-Action 2691 2722	recreate the data that was lost
+T40	Person 2320 2347	Board member Duane Buytaert
+T41	Course-of-Action 2640 2667	recover quite a bit of data
+T42	Person 2437 2442	users
+T43	Hacker-Group 2208 2215	hackers
+T44	Person 2308 2313	Lammi
+T45	File 532 542	 the files
+T46	Device 1595 1607	 the servers
+T47	Person 1633 1646	Board members
+T48	Money 1958 1963	money
+T49	Device 1728 1740	 the servers
+T50	Malware 1833 1843	 the virus
+T51	File 955 960	files
+T52	Malware 934 944	 the virus
+T53	Organization 2241 2253	institutions
+T54	Person 2610 2626	technology staff
+T55	Device 1464 1471	servers
+T56	Person 2138 2140	we
+T57	Organization 2477 2479	We
+T58	Malware 772 774	it
+T60	Person 1473 1475	He
+T61	Person 2509 2511	he
+T62	Information 1098 1100	it
+T63	Person 1742 1746	they
+T64	Campaign 2303 2305	it
+T65	Person 2179 2181	he
+T66	Person 39 44	staff
+T67	File 75 80	files
+T68	Organization 13 19	school
+T69	Organization 252 263	 the target
+T70	File 419 428	documents
+T71	Organization 569 582	 the district
+T72	Device 399 406	servers
+T73	Device 968 975	servers
+T74	Software 998 1019	network shared drives
+T75	Information 1321 1330	 the data
+T76	Money 1393 1398	money
+T77	Information 1429 1438	 the data
+T78	Information 1516 1530	 the lost data
+T81	Information 1702 1713	information
+T82	Organization 1765 1775	 a company
+T83	Organization 1869 1889	 the school district
+T84	Money 1851 1866	 The total cost
+T85	Person 1998 2025	Superintendent Michael Cary
+T86	Money 2196 2204	payments
+T87	Money 2264 2273	big bucks
+T88	Organization 2030 2043	 the district
+T89	Organization 2362 2391	technology for Carlton County
+T90	Person 2599 2604	Smith
+T91	Person 2681 2686	staff
+T92	Person 2518 2523	Staff
+T93	Information 2699 2708	 the data
+T94	Information 2663 2667	data
+T95	Organization 2776 2782	school
+T96	Hacker-Group 2288 2299	 these guys
+T59	Campaign 2398 2400	it
+*	Coreference T5 T27 T58 T52 T50
+*	Coreference T7 T11 T6 T68 T69 T71 T83 T56 T88 T95
+*	Coreference T10 T13 T2
+*	Coreference T22 T32 T23 T60
+*	Coreference T25 T35 T1 T64 T59
+*	Coreference T28 T54
+*	Coreference T30 T42 T66
+*	Coreference T37 T17 T47 T33 T63
+*	Coreference T67 T70 T45 T31 T51
+*	Coreference T72 T26 T73 T49 T55 T46
+*	Coreference T84 T34 T48 T86 T87
+*	Coreference T65 T85
+*	Coreference T89 T57
+*	Coreference T61 T40
+*	Coreference T92 T91
+*	Coreference T94 T93 T9 T62 T75 T77 T78 T81
+*	Coreference T43 T96

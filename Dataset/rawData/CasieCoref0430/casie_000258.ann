@@ -1,0 +1,77 @@
+T10	Organization 670 679	Microsoft
+T11	Course-of-Action 692 711	 an immediate patch
+T14	Course-of-Action 917 925	 a patch
+T12	Organization 901 910	Microsoft
+T15	System 944 951	systems
+T16	Time 955 960	March
+T3	Organization 36 45	Microsoft
+T2	Organization 4 28	National Security Agency
+T5	System 71 78	Windows
+T19	Vulnerability 1400 1425	 a zero-day vulnerability
+T20	Organization 1349 1372	 the federal government
+T21	Organization 1443 1455	manufacturer
+T6	Campaign 303 332	“Wanna Cry” ransomware attack
+T7	System 357 372	hospital system
+T8	Organization 347 354	Britain
+T22	Campaign 1569 1591	 the ransomware attack
+T17	Campaign 1113 1130	ransomware attack
+T23	Hacker-Group 84 99	 a hacker group
+T24	Malware 114 127	hacking tools
+T25	Organization 135 146	 the agency
+T26	Organization 154 174	 the Washington Post
+T27	Time 184 196	late Tuesday
+T29	Time 250 264	in recent days
+T30	Number 391 403	at least 150
+T31	Location 404 413	countries
+T32	Malware 414 429	 The ransomware
+T33	Malware 475 491	NSA hacking tool
+T34	Hacker-Group 512 526	Shadow Brokers
+T35	Time 527 544	earlier this year
+T36	Organization 545 560	 The government
+T37	Organization 595 603	 the NSA
+T38	Malware 613 622	 the tool
+T39	Organization 625 628	NSA
+T40	Person 714 727	Mike McNerney
+T41	Person 728 779	 a former Defense Department cybersecurity official
+T42	Person 796 804	McNerney
+T43	Person 828 851	top government official
+T4	Vulnerability 51 67	 a vulnerability
+T28	Vulnerability 198 216	 The vulnerability
+T44	Vulnerability 881 899	 the vulnerability
+T45	Hacker-Group 975 989	Shadow Brokers
+T46	Malware 998 1010	 the exploit
+T47	System 1021 1054	computer systems around the world
+T48	System 1083 1087	them
+T49	Campaign 1131 1155	 The ransomware campaign
+T50	Location 1185 1202	the United States
+T51	Location 1208 1223	other countries
+T52	Organization 1247 1265	American companies
+T53	Organization 1276 1281	FedEx
+T18	Campaign 1282 1293	 The events
+T54	Organization 1488 1496	 the NSA
+T55	Person 1498 1541	Microsoft president and chief legal officer
+T56	Person 1542 1552	Brad Smith
+T57	Time 1558 1564	Sunday
+T58	Vulnerability 1653 1668	vulnerabilities
+T59	Organization 1628 1639	governments
+T60	Time 1670 1682	On Wednesday
+T61	Person 1684 1715	a bipartisan group of lawmakers
+T62	Vulnerability 1773 1793	 the vulnerabilities
+T1	Organization 785 794	 the Post
+T9	Time 962 974	weeks before
+T13	Number 1016 1020	many
+T63	Vulnerability 1865 1867	it
+T65	Vulnerability 664 666	it
+T64	Organization 1727 1738	legislation
+*	Coreference T10 T3 T12
+*	Coreference T22 T49 T17 T6 T18
+*	Coreference T34 T45 T23
+*	Coreference T20 T36 T59
+*	Coreference T37 T54 T39
+*	Coreference T40 T42 T41
+*	Coreference T4 T44 T28 T62 T65 T63 T19
+*	Coreference T32 T24
+*	Coreference T38 T33
+*	Coreference T14 T11
+*	Coreference T48 T47
+*	Coreference T56 T55

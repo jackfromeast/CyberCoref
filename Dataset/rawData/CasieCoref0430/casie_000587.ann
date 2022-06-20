@@ -1,0 +1,33 @@
+T7	Campaign 591 609	directly attacking
+T21	Organization 610 625	the hotel chain
+T16	Hacker-Group 636 650	cybercriminals
+T20	Person 730 739	customers
+T17	Campaign 777 794	credit card theft
+T23	Attack-Pattern 741 775	Infected computers and POS systems
+T24	Campaign 886 899	these attacks
+T22	Information 806 830	confidential information
+T5	Campaign 367 386	a ransomware attack
+T6	Attack-Pattern 392 423	overrode electronic key systems
+T2	Organization 283 297	a luxury hotel
+T1	Person 273 279	guests
+T3	Location 301 308	Austria
+T4	Person 314 318	they
+T25	Campaign 953 964	the attacks
+T26	Organization 970 983	this industry
+T8	File 98 120	 your travel documents
+T9	Campaign 228 242	 a cyberattack
+T10	Organization 201 212	 your hotel
+T11	Person 483 495	 your guests
+T12	Malware 568 578	ransomware
+T13	Campaign 547 558	 a strategy
+T14	Campaign 1111 1130	stealthy operations
+T15	Campaign 1051 1055	them
+T18	Organization 1131 1148	 The hotel sector
+T19	Organization 1159 1174	 a major target
+T27	Hacker-Group 1189 1203	cybercriminals
+T28	Malware 1221 1228	malware
+T29	System 1293 1308	payment systems
+T30	Pronoun 174 177	you
+T31	Pronoun 469 472	you
+*	Coreference T16 T27
+*	Coreference T1 T11

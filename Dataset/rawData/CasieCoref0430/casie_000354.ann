@@ -1,0 +1,162 @@
+T22	Information 2392 2400	accounts
+T28	Person 2455 2463	children
+T29	Person 2468 2475	parents
+T30	Information 2487 2496	chat logs
+T8	Information 475 491	voice recordings
+T9	Person 507 516	customers
+T6	Hacker-Group 455 464	attackers
+T37	Device 496 504	 the toy
+T36	Information 560 585	 the customer information
+T10	Software 608 631	online MongoDB database
+T4	Campaign 0 22	The most recent breach
+T5	Device 26 43	smart teddy bears
+T1	Campaign 139 153	 a data breach
+T2	Information 185 198	user accounts
+T12	Information 737 746	 the data
+T33	Attack-Pattern 3052 3073	hijack the connection
+T34	Hacker-Group 3038 3047	attackers
+T32	Information 3105 3125	personal information
+T19	Information 1897 1922	your personal information
+T20	Hacker-Group 1856 1865	criminals
+T15	Software 1131 1152	 a mobile application
+T14	Device 1098 1118	these connected toys
+T17	Vulnerability 1192 1201	weak APIs
+T3	File 74 88	voice messages
+T23	Person 94 102	children
+T38	Person 107 114	parents
+T39	Number 167 184	more than 800,000
+T40	Organization 199 211	 The company
+T41	Device 218 231	 the products
+T42	Organization 233 244	Spiral Toys
+T43	Person 266 275	customers
+T44	Person 289 300	Zach Lanier
+T45	Person 302 322	director of research
+T46	Organization 326 333	Cylance
+T47	Device 384 388	toys
+T48	Campaign 393 401	breaches
+T49	Campaign 429 433	case
+T7	Vulnerability 435 439	This
+T35	Vulnerability 531 631	making the mistake of storing the customer information in a publicly exposed online MongoDB database
+T50	Campaign 649 671	authentication process
+T51	Person 678 684	anyone
+T13	Hacker-Group 695 709	 the attackers
+T11	Purpose 723 746	view and steal the data
+T52	Device 748 757	CloudPets
+T53	Vulnerability 765 800	no requirement on password strength
+T55	Device 809 811	it
+T56	Attack-Pattern 827 845	decipher passwords
+T57	Information 836 845	passwords
+T58	Course-of-Action 852 883	Always create a secure password
+T59	Information 875 883	password
+T60	Course-of-Action 921 980	Include lowercase and uppercase letter, symbols and numbers
+T61	Course-of-Action 982 1046	Use a password manager to help create and store unique passwords
+T62	Software 985 1004	 a password manager
+T63	Information 1030 1046	unique passwords
+T64	Domain 1051 1056	sites
+T65	Software 1061 1069	services
+T66	Device 1071 1096	A line of stuffed animals
+T16	Number 1180 1191	a number of
+T67	Vulnerability 1209 1240	didn’t verify who sent messages
+T69	File 1232 1240	messages
+T70	Hacker-Group 1257 1269	 an attacker
+T71	Information 1282 1291	usernames
+T72	Information 1296 1311	email addresses
+T73	Organization 1321 1333	Fisher-Price
+T74	Device 1338 1344	server
+T75	Information 1366 1385	associated accounts
+T76	Purpose 1317 1409	ask Fisher-Price for server return details about associated accounts and children’s profiles
+T77	Attack-Pattern 1276 1312	guess usernames, or email addresses,
+T78	Information 1426 1436	their name
+T79	Information 1390 1409	children’s profiles
+T80	Information 1438 1447	birthdate
+T81	Information 1449 1455	gender
+T82	Information 1457 1465	language
+T83	Information 1470 1496	toys they have played with
+T85	Device 1470 1474	toys
+T86	Device 1505 1520	 the IoT device
+T87	Software 1532 1545	 a mobile app
+T88	Device 1549 1565	desktop computer
+T89	Device 1598 1600	it
+T90	Course-of-Action 1586 1609	examine how it connects
+T91	URL 1626 1642	 the URL address
+T92	Version 1678 1697	 the secure version
+T93	Protocol 1701 1705	HTTP
+T94	Device 1712 1723	your device
+T95	Protocol 1646 1650	http
+T96	Protocol 1663 1668	https
+T97	Device 1759 1768	 The doll
+T98	Device 1772 1785	 a microphone
+T99	System 1798 1811	 the internet
+T100	Person 1822 1832	your child
+T18	Device 1931 1939	 the toy
+T101	Device 1953 1958	Wi-Fi
+T102	Device 1970 1972	it
+T103	Protocol 1982 2020	modern, more secure Wi-Fi capabilities
+T104	Protocol 2026 2030	WAP2
+T105	Organization 2031 2093	 Their speech-recognition software maker Nuance Communications
+T106	Organization 2195 2199	they
+T107	Information 2235 2255	personal information
+T108	Organization 2289 2294	VTech
+T109	Software 2298 2321	 its app store database
+T110	Software 2323 2337	Learning Lodge
+T24	Campaign 2361 2372	 the breach
+T111	Number 2379 2391	11.6 million
+T21	Campaign 2420 2434	 a cyberattack
+T25	Information 2445 2475	photos of children and parents
+T26	Information 2497 2521	 The profile data leaked
+T27	Information 2530 2542	 their names
+T112	Information 2544 2551	genders
+T113	Information 2556 2567	birth dates
+T114	Course-of-Action 2574 2682	Check to see if the manufacturer has had any cybersecurity issues in the past, and if so, how they responded
+T115	Organization 2589 2606	 the manufacturer
+T116	Vulnerability 2619 2639	cybersecurity issues
+T117	Time 2640 2651	in the past
+T118	Organization 2668 2672	they
+T119	Organization 2701 2713	 the company
+T120	Device 2732 2744	 your device
+T121	Device 2775 2795	 The interactive toy
+T122	Device 2884 2906	 the company’s servers
+T123	Software 2935 2945	 the cloud
+T124	Device 2946 2954	 The toy
+T125	File 2852 2872	 Those conversations
+T126	File 2838 2851	conversations
+T127	File 3001 3021	 their conversations
+T128	Person 2984 2988	kids
+T129	Person 3083 3097	 your children
+T130	Device 3031 3036	Wi-Fi
+T31	Device 3135 3162	 the microphone of the doll
+T131	Device 3167 3189	 a surveillance device
+T132	Device 3201 3212	 the device
+T133	Device 3216 3221	Wi-Fi
+T134	Course-of-Action 3231 3287	confirm if the device supports modern security protocols
+T135	Device 3241 3252	 the device
+T136	Protocol 3262 3287	modern security protocols
+T137	Device 3291 3302	 the device
+T138	Protocol 3313 3316	WEP
+T139	Protocol 3320 3323	WPA
+T140	Protocol 3333 3337	WPA2
+T141	Protocol 3339 3357	security standards
+T142	Device 3359 3361	it
+T143	Version 3386 3401	 Those versions
+T144	Time 3416 3425	over time
+T145	Campaign 3468 3474	attack
+T146	Information 2210 2219	your data
+T152	Pronoun 2668 2672	they
+*	Coreference T125 T126 T127
+*	Coreference T106 T105
+*	Coreference T44 T45
+*	Coreference T41 T5
+*	Coreference T40 T42
+*	Coreference T1 T48
+*	Coreference T51 T9
+*	Coreference T52 T55
+*	Coreference T6 T13
+*	Coreference T66 T14
+*	Coreference T93 T95
+*	Coreference T86 T89
+*	Coreference T18 T102
+*	Coreference T107 T146
+*	Coreference T109 T110
+*	Coreference T24 T21
+*	Coreference T137 T132 T124 T142
+*	Coreference T118 T115

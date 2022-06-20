@@ -1,0 +1,145 @@
+T23	Campaign 401 407	breach
+T4	Hacker-Group 452 459	hackers
+T3	Organization 527 536	companies
+T11	Attack-Pattern 542 592	specialize in surveillance or hacking technologies
+T13	Campaign 3425 3431	breach
+T12	Organization 3414 3424	Cellebrite
+T26	Information 3485 3490	files
+T22	Hacker-Group 3459 3465	hacker
+T7	Organization 594 604	Cellebrite
+T6	Device 766 799	different models of mobile phones
+T9	Organization 608 626	an Israeli company
+T15	Information 1727 1735	the data
+T16	File 1712 1717	files
+T17	System 1762 1780	Cellebrite servers
+T18	Time 1781 1790	last year
+T27	Hacker-Group 1659 1669	the hacker
+T21	Hacker-Group 3117 3122	Gamma
+T20	Email 3212 3218	emails
+T8	Malware 3129 3147	intrusion software
+T10	Attack-Pattern 3157 3193	remotely switch on a target's webcam
+T29	Organization 3278 3306	Italian company Hacking Team
+T28	Hacker-Group 3255 3268	PhineasFisher
+T31	Email 3322 3339	a trove of emails
+T32	File 3350 3368	internal documents
+T33	Organization 3374 3385	the company
+T34	Attack-Pattern 137 139	it
+T35	Organization 1944 1946	it
+T36	Hacker-Group 2876 2878	us
+*	Coreference T22 T4 T27
+T24	Organization 27 38	Motherboard
+T41	Attack-Pattern 70 95	phone cracking technology
+T42	Hacker-Group 101 107	people
+T43	Person 123 126	who
+T44	Organization 141 152	Motherboard
+T45	Number 166 172	900 GB
+T46	Information 176 180	data
+T47	Organization 192 202	Cellebrite
+T48	Organization 204 274	one of the most popular companies in the mobile phone hacking industry
+*	Coreference T48 T47 T9 T12 T7
+*	Coreference T44 T24 T90 T116
+*	Coreference T41 T34
+T49	Information 280 285	cache
+*	Coreference T49 T46 T72 T67
+T50	Information 295 315	customer information
+T51	Information 317 326	databases
+T52	Information 349 363	technical data
+T53	Malware 374 395	Cellebrite's products
+T1	Purpose 501 521	stealing information
+*	Coreference T11 T3
+T2	Device 633 645	main product
+T54	Device 659 678	laptop-sized device
+T55	Device 690 726	Universal Forensic Extraction Device
+T56	Device 728 732	UFED
+*	Coreference T56 T55 T54 T2 T85
+T57	Number 753 762	thousands
+T5	Information 739 799	rip data from thousands of different models of mobile phones
+T38	Information 743 747	data
+T58	Information 806 810	data
+T59	Information 823 835	SMS messages
+T60	Information 837 843	emails
+T61	Information 845 854	call logs
+T62	Person 886 895	UFED user
+T63	Device 929 934	phone
+T64	Organization 936 946	Cellebrite
+T65	Organization 963 973	US federal
+T66	Organization 978 999	state law enforcement
+T67	Information 1023 1034	hacked data
+T68	Organization 1055 1076	authoritarian regimes
+T69	Organization 1085 1091	Russia
+T70	Organization 1097 1117	United Arab Emirates
+T71	Organization 1123 1129	Turkey
+T72	Information 1135 1140	cache
+T73	Information 1158 1219	usernames and passwords for logging into Cellebrite databases
+T74	Software 1199 1219	Cellebrite databases
+T75	Domain 1247 1267	my.cellebrite domain
+T76	Domain 1289 1293	site
+*	Coreference T75 T76
+T77	Version 1346 1367	new software versions
+T78	Campaign 1388 1393	cases
+T79	Email 1429 1442	email address
+T80	Person 1465 1473	customer
+T81	Campaign 1532 1536	dump
+T82	File 1570 1584	evidence files
+T83	Device 1590 1610	seized mobile phones
+T84	File 1616 1620	logs
+T85	Device 1626 1644	Cellebrite devices
+*	Coreference T63 T83
+*	Coreference T16 T82
+T14	Organization 1793 1803	Cellebrite
+T86	Campaign 1825 1844	unauthorized access
+T87	Device 1851 1870	external web server
+T88	Organization 1877 1884	company
+T89	Time 1908 1916	Thursday
+T90	Organization 1923 1934	Motherboard
+T91	Campaign 1954 1960	breach
+*	Coreference T91 T86 T81 T23 T93 T13
+*	Coreference T35 T14 T88 T92
+T92	Organization 1967 1974	company
+T93	Campaign 2037 2043	breach
+T94	Course-of-Action 1978 2029	conducting an investigation to determine the extent
+T95	Device 2049 2064	impacted server
+T96	Information 2076 2098	legacy database backup
+T97	Domain 2102 2115	my.Cellebrite
+T98	System 2121 2165	company's end user license management system
+*	Coreference T98 T97
+T99	Organization 2171 2178	company
+T100	System 2208 2232	new user accounts system
+T37	Information 2266 2277	information
+T101	Information 2296 2321	basic contact information
+T102	Device 2373 2392	Cellebrite products
+T103	Information 2397 2413	hashed passwords
+T104	Person 2418 2423	users
+T105	Person 2325 2330	users
+*	Coreference T105 T104 T108
+T106	System 2457 2467	new system
+*	Coreference T106 T100
+T107	Organization 2495 2505	Cellebrite
+T108	Person 2514 2523	customers
+T109	Course-of-Action 2527 2565	change their passwords as a precaution
+T39	Organization 2582 2584	it
+*	Coreference T39 T107 T95 T87 T99 T111
+T110	Organization 2601 2621	relevant authorities
+T111	Device 2666 2686	Cellebrite's systems
+T112	Purpose 2696 2702	traded
+T113	Protocol 2725 2728	IRC
+T114	Hacker-Group 2758 2764	hacker
+T40	Organization 2828 2847	Western governments
+T115	Hacker-Group 2885 2891	hacker
+*	Coreference T115 T36 T114 T117
+T116	Organization 2897 2908	Motherboard
+T117	Hacker-Group 2914 2920	hacker
+T118	Time 2990 2994	2014
+T119	Hacker-Group 2997 3003	hacker
+T120	Hacker-Group 3012 3022	themselves
+T121	Hacker-Group 3024 3037	PhineasFisher
+T122	Number 3057 3061	40GB
+T123	Information 3065 3069	data
+T124	Organization 3075 3115	surveillance company Gamma International
+*	Coreference T121 T120 T119 T28
+T125	Attack-Pattern 3195 3218	siphon off their emails
+*	Coreference T33 T29
+T19	Hacker-Group 3568 3574	hacker
+T30	Attack-Pattern 3474 3520	dumped the files online for anyone to download
+*	Coreference T37 T15
+*	Coreference T58 T38

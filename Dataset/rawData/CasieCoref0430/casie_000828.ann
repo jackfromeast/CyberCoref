@@ -1,0 +1,111 @@
+T2	File 377 403	Microsoft Office documents
+T5	Attack-Pattern 429 458	double-click an embedded icon
+T6	Purpose 462 489	access some type of content
+T4	Person 416 425	 a victim
+T16	Campaign 1553 1557	fool
+T14	Person 1563 1577	computer users
+T15	File 1535 1548	the fake ones
+T8	Campaign 1690 1708	phishing campaigns
+T10	Campaign 1754 1777	are particularly tricky
+T12	Campaign 1870 1885	is disguised as
+T13	File 1886 1915	an unassuming Office document
+T11	Malware 1858 1869	the malware
+T19	Hacker-Group 1917 1930	threat actors
+T18	Attack-Pattern 1963 2048	bypass the IT department’s sandbox environments, detection software or analysis tools
+T20	Person 1206 1215	 a victim
+T21	Hacker-Group 5 19	cybercriminals
+T22	Organization 146 212	cybersecurity technology and services company PhishMe Intelligence
+T23	Time 127 131	2017
+T24	Malware 83 90	malware
+T25	Time 258 271	December 2016
+T26	Malware 329 336	malware
+T27	Organization 338 345	PhishMe
+T1	Attack-Pattern 351 369	 The OLE technique
+T7	Hacker-Group 679 693	cybercriminals
+T28	System 773 789	computer systems
+T29	Organization 790 802	 the company
+T30	Device 546 555	 the disk
+T31	Time 1124 1136	recent years
+T32	Attack-Pattern 561 620	facilitates the download and execution of a malware payload
+T33	Malware 921 928	malware
+T34	Hacker-Group 1429 1443	cybercriminals
+T35	File 2068 2087	malicious documents
+T36	File 2089 2100	attachments
+T37	URL 2105 2110	links
+T38	Course-of-Action 2856 2886	 the phishing defense strategy
+T39	Course-of-Action 2771 2796	phishing defense programs
+T40	Organization 2719 2735	healthcare CISOs
+T41	Person 2555 2569	 the end-users
+T42	Person 2548 2554	Humans
+T43	Organization 2149 2173	healthcare organizations
+T44	Software 2182 2211	Microsoft Office applications
+T45	System 2334 2348	e-mail systems
+T46	File 2303 2319	Office documents
+T47	Campaign 3107 3123	phishing threats
+T48	Campaign 3366 3380	 these threats
+T49	File 943 947	they
+T50	Campaign 213 229	 The cyberthreat
+T51	Attack-Pattern 58 61	OLE
+T52	File 491 504	These objects
+T53	Malware 522 543	 a script application
+T54	Organization 622 629	PhishMe
+T55	Attack-Pattern 636 647	This method
+T56	Malware 602 612	 a malware
+T57	File 809 834	The threatening documents
+T58	Code 987 993	macros
+T59	Code 902 907	macro
+T60	Organization 1003 1010	PhishMe
+T61	File 1030 1045	these documents
+T62	Malware 1088 1095	malware
+T63	Code 1150 1158	 a macro
+T64	File 1261 1272	 a document
+T65	File 1294 1305	 a document
+T66	Attack-Pattern 1311 1340	 the threatening OLE packages
+T67	Code 1392 1398	macros
+T68	Attack-Pattern 1407 1421	 The technique
+T69	File 1454 1469	malicious files
+T70	Device 1472 1491	 a victim’s machine
+T71	Person 1472 1481	 a victim
+T72	Code 1591 1599	 a macro
+T17	Attack-Pattern 1630 1638	 the OLE
+T73	Malware 1639 1646	Malware
+T74	Attack-Pattern 1731 1753	Microsoft OLE packages
+T9	Person 1797 1840	Rohyt Belani, co-founder and CEO of PhishMe
+T75	Organization 1833 1840	PhishMe
+T76	Attack-Pattern 1945 1959	this technique
+T77	Person 2113 2119	Belani
+T3	File 869 895	Microsoft Office documents
+T78	Campaign 2477 2491	 these attacks
+T79	Person 2507 2521	 the employees
+T80	Person 2534 2540	Belani
+T81	Campaign 2609 2616	attacks
+T82	Attack-Pattern 2656 2689	bypass existing technology stacks
+T83	Person 2692 2698	Belani
+T84	Organization 2706 2708	We
+T85	Person 2812 2821	employees
+T86	Person 2922 2931	employees
+T87	Email 2965 2976	 the e-mail
+T88	Email 3202 3209	e-mails
+T89	Attack-Pattern 3129 3141	OLE payloads
+T90	Person 3143 3149	Belani
+T91	Person 3171 3180	employees
+T92	Organization 3221 3247	 a healthcare organization
+T93	Person 3279 3285	Belani
+T94	Person 2257 2279	security professionals
+*	Coreference T26 T24 T56 T33 T62
+*	Coreference T27 T22 T54 T29 T60 T75 T84
+*	Coreference T1 T51 T66 T68 T17 T74 T76 T89
+*	Coreference T55 T32
+*	Coreference T7 T21 T34
+*	Coreference T57 T52 T2 T49 T61 T69 T15
+*	Coreference T59 T58 T63 T67 T72
+*	Coreference T20 T4 T71 T14
+*	Coreference T64 T65
+*	Coreference T11 T73
+*	Coreference T77 T9 T80 T83 T90 T93
+*	Coreference T46 T13 T3
+*	Coreference T42 T41 T79 T85 T86 T91
+*	Coreference T81 T78 T50 T47 T48
+*	Coreference T82 T18
+*	Coreference T38 T39
+*	Coreference T92 T43

@@ -1,0 +1,131 @@
+T36	Hacker-Group 887 899	 An attacker
+T31	URL 937 953	a malicious link
+T33	Person 966 983	 an administrator
+T34	Attack-Pattern 993 1019	logged into the web server
+T35	Attack-Pattern 1025 1040	click that link
+T57	Organization 2151 2158	Siemens
+T59	Vulnerability 2168 2195	 the reported vulnerability
+T62	Version 2228 2236	V4.0.1.1
+T7	Time 104 111	Tuesday
+T6	Organization 90 100	Siemens AG
+T4	Organization 0 22	The industrial company
+T5	Time 26 33	Tuesday
+T67	Time 2465 2472	Tuesday
+T66	Vulnerability 2446 2461	vulnerabilities
+T63	Organization 2381 2403	The industrial company
+T69	Vulnerability 2561 2575	CVE-2018-16556
+T68	Vulnerability 2538 2559	serious vulnerability
+T71	Vulnerability 2590 2624	 an improper input validation flaw
+T72	Device 2636 2655	Siemens S7-400 CPUs
+T73	Vulnerability 3127 3168	 An improper access control vulnerability
+T75	System 3201 3238	Siemens IEC 61850 system configurator
+T88	Vulnerability 3698 3739	 an improper authentication vulnerability
+T89	Vulnerability 3741 3755	CVE-2018-13804
+T90	System 3760 3787	SIMATIC IT Production Suite
+T91	Vulnerability 3791 3822	 a code injection vulnerability
+T92	Vulnerability 3823 3837	CVE-2018-13814
+T93	System 3842 3856	SIMATIC Panels
+T94	System 3861 3874	SIMATIC WinCC
+T95	Attack-Pattern 3887 3924	allow an attacker with network access
+T18	Vulnerability 803 811	the flaw
+T28	Organization 774 786	Applied Risk
+T29	Person 757 768	Researchers
+T20	Vulnerability 823 836	vulnerability
+T22	System 846 861	 the web server
+T23	Software 864 886	 the firewall software
+T13	Version 716 742	versions prior to V4.0.1.1
+T14	Software 707 715	software
+T16	Organization 651 658	Siemens
+T27	Version 677 684	S627-2M
+T26	Version 671 675	S623
+T25	Version 665 669	S612
+T24	Version 659 663	S602
+T15	Device 685 701	SCALANCE devices
+T43	Vulnerability 1336 1344	the flaw
+T44	Person 1753 1776	Applied Risk researcher
+T45	Vulnerability 1714 1728	CVE-2018-16555
+T46	Vulnerability 1694 1712	 The vulnerability
+T48	Person 1829 1840	researchers
+T50	Vulnerability 1966 1975	 the flaw
+T55	Person 2067 2078	Researchers
+T54	Vulnerability 2102 2120	 the vulnerability
+T55	Person 2067 2078	Researchers
+T75	System 3201 3238	Siemens IEC 61850 system configurator
+T73	Vulnerability 3127 3168	 An improper access control vulnerability
+T78	Vulnerability 3346 3359	CVE-2018-4858
+T79	Vulnerability 3326 3344	 The vulnerability
+T81	Device 3419 3427	products
+T82	System 3448 3477	the host’s network interfaces
+T39	Domain 1258 1274	a malicious link
+T38	Person 1215 1232	 an administrator
+T83	Person 3560 3571	an attacker
+T85	Information 3593 3605	limited data
+T86	System 3611 3621	the system
+T98	System 393 412	industrial networks
+T96	Hacker-Group 349 361	 an attacker
+T3	Course-of-Action 129 205	fixes addressing eight vulnerabilities spanning its industrial product lines
+T8	Vulnerability 216 244	serious of the patched flaws
+T9	Vulnerability 252 289	 a cross-site scripting vulnerability
+T10	Software 293 327	Siemens’ SCALANCE firewall product
+T99	Vulnerability 328 337	 The flaw
+T100	Software 466 490	 The SCALANCE S firewall
+T101	Course-of-Action 502 567	protect secure industrial networks from untrusted network traffic
+T102	System 517 567	industrial networks from untrusted network traffic
+T103	Course-of-Action 580 649	filtering incoming and outgoing network connections in different ways
+T12	Campaign 913 924	 the attack
+T17	Course-of-Action 43 80	mitigations for eight vulnerabilities
+T1	Attack-Pattern 365 412	gain unauthorized access to industrial networks
+T19	Attack-Pattern 417 465	ultimately put operations and production at risk
+T21	Campaign 1182 1212	 a cross-site scripting attack
+T30	System 1154 1175	integrated web server
+T32	Attack-Pattern 1398 1456	bypass critical security measures provided by the firewall
+T97	Course-of-Action 1414 1456	security measures provided by the firewall
+T104	Attack-Pattern 1459 1493	Exploitation of this vulnerability
+T105	Hacker-Group 1518 1531	threat actors
+T106	Attack-Pattern 1535 1594	bypass critical security functions provided by the firewall
+T107	Course-of-Action 1551 1594	security functions provided by the firewall
+T108	Vulnerability 1474 1493	 this vulnerability
+T109	Attack-Pattern 1608 1693	providing access to industrial networks and putting operations and production at risk
+T110	System 1628 1647	industrial networks
+T47	Number 1794 1797	8.2
+T49	Campaign 1845 1866	 a successful exploit
+T111	Hacker-Group 1943 1955	 an attacker
+T112	Attack-Pattern 1959 1975	exploit the flaw
+T51	Code 2089 2120	no exploit of the vulnerability
+T53	Course-of-Action 2199 2226	releasing a software update
+T52	Course-of-Action 2159 2195	addressed the reported vulnerability
+T56	Person 2255 2264	customers
+T58	System 3927 3942	 the web server
+T60	Campaign 3953 3984	 a HTTP header injection attack
+T61	Attack-Pattern 3625 3637	execute code
+T84	Attack-Pattern 3582 3605	exfiltrate limited data
+T113	Code 3633 3637	code
+T114	Information 3643 3677	Microsoft Windows user permissions
+T77	Number 3375 3378	4.2
+T64	Course-of-Action 2409 2461	released an array of fixes for other vulnerabilities
+T65	URL 2281 2307	links from trusted sources
+T74	System 2310 2322	 the browser
+T76	Domain 2340 2378	 the SCALANCE S administration website
+T70	Course-of-Action 2577 2624	addressed was an improper input validation flaw
+T80	Campaign 2668 2705	exploitation of these vulnerabilities
+T87	Attack-Pattern 2712 2728	crash the device
+T115	Device 2717 2728	 the device
+T116	Device 3005 3026	 the affected devices
+T117	Organization 3119 3126	US Cert
+T118	Information 2883 2898	crafted packets
+T2	Vulnerability 152 167	vulnerabilities
+T11	Number 59 64	eight
+T119	Number 146 151	eight
+T120	Vulnerability 65 80	vulnerabilities
+T40	Person 1301 1312	Nelson Berg
+T42	Person 1285 1300	Risk researcher
+*	Coreference T16 T57 T6
+*	Coreference T7 T67 T5
+*	Coreference T46 T108 T43 T99 T18 T9 T45 T54 T50 T59
+*	Coreference T120 T2
+*	Coreference T100 T10
+*	Coreference T42 T40
+*	Coreference T68 T69 T71
+*	Coreference T79 T78
+*	Coreference T88 T89
+*	Coreference T91 T92

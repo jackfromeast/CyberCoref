@@ -1,0 +1,96 @@
+T5	Campaign 889 921	 The WannaCry ransomware attacks
+T6	Person 944 949	users
+T8	Device 1025 1034	computers
+T10	Person 1049 1054	users
+T12	Money 1058 1068	 a $300USD
+T1	Organization 320 329	Microsoft
+T4	System 307 314	Windows
+T19	Version 289 303	older versions
+T20	System 416 418	XP
+T18	System 2450 2460	Windows XP
+T16	Organization 2416 2425	Microsoft
+T21	Campaign 577 595	WannaCrypt attacks
+T15	Campaign 1457 1483	WannaCry ransomware attack
+T14	Malware 5 15	WannaCrypt
+T17	Course-of-Action 2426 2460	patched the unsupported Windows XP
+T23	System 2471 2473	OS
+T24	Malware 92 104	 the malware
+T25	Version 118 135	older versions of
+T26	System 136 164	Microsoft's operating system
+T27	System 168 178	Windows 10
+T28	Location 73 82	countries
+T29	Malware 213 223	WannaCrypt
+T30	System 227 232	macOS
+T31	System 237 242	Linux
+T32	Person 278 284	people
+T2	Course-of-Action 354 369	issuing patches
+T3	System 374 378	them
+T33	Software 435 452	security software
+T34	Course-of-Action 457 485	protect vulnerable computers
+T35	Device 476 485	computers
+T36	Time 500 505	today
+T37	Location 961 970	countries
+T9	Attack-Pattern 1039 1109	demanding users pay a $300USD ransom in bitcoin to decrypt their files
+T38	File 1097 1109	 their files
+T11	Money 1079 1086	bitcoin
+T7	Attack-Pattern 991 1034	encrypting data files on infected computers
+T13	File 1007 1012	files
+T39	Number 566 576	22 million
+T40	Organization 507 515	Symantec
+T41	Organization 596 608	 The company
+T42	Malware 661 676	 the ransomware
+T43	Organization 677 690	 The company 
+T44	Number 724 734	22 million
+T45	Campaign 735 753	WannaCry infection
+T46	Number 770 777	300,000
+T47	Device 778 787	endpoints
+T48	Time 1908 1917	last week
+T49	Malware 1886 1894	WannaCry
+T50	Course-of-Action 1735 1763	proactive network protection
+T51	Course-of-Action 1768 1806	advanced machine learning technologies
+T52	Course-of-Action 1807 1847	provided real-time, zero-day, protection
+T53	Person 1856 1880	SEP and Norton customers
+T54	Person 819 837	Symantec customers
+T55	Course-of-Action 845 888	 its advanced exploit protection technology
+T56	Course-of-Action 789 837	providing full protection for Symantec customers
+T57	Software 1696 1729	Integrated Cyber Defense Platform
+T58	Person 1559 1577	Symantec customers
+T59	Course-of-Action 1593 1622	multiple layers of protection
+T61	Person 1382 1390	Mike Fey
+T60	Person 1392 1441	president and chief operating officer at Symantec
+T62	Device 1347 1360	 the endpoint
+T63	Software 1362 1369	network
+T64	Software 1374 1379	cloud
+T65	Organization 1243 1271	Symantec Endpoint Protection
+T66	Organization 1275 1297	 the Blue Coat ProxySG
+T67	Course-of-Action 1111 1147	The protection of Symantec customers
+T68	Software 2036 2062	Blue Coat network products
+T69	Email 2026 2031	email
+T70	Device 2007 2024	Symantec endpoint
+T71	Software 2126 2136	 the cloud
+T72	Software 2198 2215	security software
+T75	Course-of-Action 2316 2346	apply operating system updates
+T76	Course-of-Action 2385 2409	using supported software
+T77	Person 2225 2248	home and business users
+T73	Course-of-Action 2064 2115	providing full protection across all control points
+T74	Device 2101 2115	control points
+T78	Organization 704 706	it
+T79	Organization 531 533	it
+T80	Software 2250 2252	it
+T81	Person 1499 1501	we
+T82	Person 1531 1533	we
+T83	Campaign 1635 1637	it
+*	Coreference T1 T16
+*	Coreference T21 T5 T15 T45 T83
+*	Coreference T38 T13
+*	Coreference T39 T44
+*	Coreference T14 T24 T29 T49
+*	Coreference T19 T25
+*	Coreference T26 T4 T3
+*	Coreference T40 T79 T41 T43 T78
+*	Coreference T12 T11
+*	Coreference T67 T56
+*	Coreference T61 T60
+*	Coreference T81 T82
+*	Coreference T18 T20 T23
+*	Coreference T80 T72

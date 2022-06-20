@@ -1,0 +1,101 @@
+T2	Software 49 57	Facebook
+T4	Attack-Pattern 61 95	obtain cell phone numbers of users
+T3	Person 0 13	De Ceukelaire
+T7	Attack-Pattern 640 665	obtaining the cell number
+T8	Person 606 619	De Ceukelaire
+T12	Organization 1061 1083	Facebook security team
+T14	Vulnerability 1292 1305	vulnerability
+T24	Vulnerability 1191 1200	the issue
+T17	Campaign 2020 2028	did make
+T16	Organization 2011 2019	Facebook
+T15	Vulnerability 2051 2079	its privacy settings feature
+T23	Course-of-Action 2029 2047	some modifications
+T19	Time 2331 2336	today
+T1	Person 34 36	he
+T22	Information 68 86	cell phone numbers
+T25	Person 90 95	users
+T26	Person 103 107	they
+T27	Person 144 157	De Ceukelaire
+T28	Person 159 161	he
+T29	Information 186 232	cell phone numbers of well-known personalities
+T30	Person 219 232	personalities
+T31	Person 243 258	top politicians
+T32	Person 263 279	“Flemish” celebs
+T33	Attack-Pattern 295 330	checking out their Facebook profile
+T34	Purpose 173 232	identify the cell phone numbers of well-known personalities
+T35	Number 362 369	numbers
+T36	Information 395 409	their profiles
+T37	Attack-Pattern 348 409	analyzing the numbers that are associated with their profiles
+T38	Information 439 446	numbers
+T39	Information 466 490	confidential information
+T40	Person 518 524	public
+T41	Information 545 561	Facebook Account
+T6	Information 654 665	cell number
+T42	Person 669 679	Jan Jambon
+T43	Person 685 714	Interior Minister for Belgium
+T44	File 724 744	his Facebook profile
+T45	Attack-Pattern 565 604	Knowing Account Phone Number Reportedly
+T46	Person 746 748	He
+T47	Information 801 826	his number on his account
+T48	Number 880 893	20 percent of
+T49	Person 898 912	Flemish people
+T50	Person 943 949	people
+T52	Number 1015 1025	80 percent
+T53	Information 995 1002	profile
+T10	Number 1084 1089	twice
+T5	Vulnerability 1101 1106	issue
+T51	Person 1123 1125	he
+T54	Person 1149 1155	public
+T21	System 1163 1177	social network
+T9	Course-of-Action 1187 1227	fix the issue and make necessary changes
+T55	Person 1251 1277	Facebook’s representatives
+T13	Person 1345 1347	He
+T56	Organization 1362 1389	law enforcement authorities
+T57	Person 1444 1449	users
+T58	Information 1462 1483	private phone numbers
+T59	Campaign 1555 1567	privacy leak
+T60	Organization 1587 1595	Facebook
+T61	Person 1605 1618	De Ceukelaire
+T62	Email 1725 1738	email address
+T63	Person 1743 1756	De Ceukelaire
+T64	Campaign 1780 1792	privacy leak
+T65	Person 1834 1840	public
+T66	Time 1930 1934	2012
+T67	Information 1516 1532	privacy settings
+T68	IP 2153 2174	particular IP address
+T69	Number 2099 2118	a limited number of
+T70	Campaign 2119 2134	reverse lookups
+T71	Person 2198 2217	security researcher
+T72	Number 2236 2248	thousands of
+T20	Vulnerability 2300 2307	problem
+T18	Course-of-Action 2315 2325	been fixed
+T73	Person 2362 2375	De Ceukelaire
+T74	Person 2409 2411	he
+T75	Domain 2431 2439	Facebook
+T76	Campaign 2456 2468	privacy leak
+T77	Person 2481 2483	he
+T78	Person 2515 2544	previous security researchers
+T79	Domain 2568 2576	Facebook
+T80	Course-of-Action 2611 2637	getting this feature fixed
+T81	Person 2642 2644	he
+T82	Time 2694 2703	this time
+T83	Vulnerability 2682 2686	Flaw
+T84	Person 784 785	I
+T90	Person 1499 1503	them
+T91	Vulnerability 1139 1141	it
+T92	Person 853 854	I
+T100	Person 861 864	you
+*	Coreference T4 T7
+*	Coreference T24 T5 T91
+*	Coreference T58 T38 T6
+*	Coreference T76 T64 T59
+*	Coreference T75 T16 T60 T79 T2
+*	Coreference T13 T55
+*	Coreference T26 T25
+*	Coreference T28 T27 T1 T3 T8 T46 T84 T92 T11 T51 T61 T63
+*	Coreference T42 T43
+T11	Person 1028 1041	De Ceukelaire
+*	Coreference T90 T57
+T86	Person 1692 1695	you
+*	Coreference T73 T74 T77 T81
+*	Coreference T15 T20

@@ -1,0 +1,71 @@
+T9	Person 563 580	the research team
+T6	Software 423 452	password manager applications
+T1	Person 268 285	The research team
+T4	Vulnerability 330 344	security flaws
+T3	Software 291 301	these apps
+T13	Person 677 697	security researchers
+T20	Vulnerability 1074 1084	all issues
+T25	Vulnerability 1335 1351	the found issues
+T19	Software 987 998	its product
+T18	Organization 964 969	Avast
+T29	Time 955 962	March 1
+T22	Version 1046 1061	latest versions
+T27	Software 1027 1044	 the applications
+T30	Time 1004 1007	now
+T20	Vulnerability 1074 1084	all issues
+T16	Vulnerability 869 887	23 of the 26 flaws
+T14	Organization 852 862	app makers
+T31	Software 171 182	tested apps
+T32	Number 210 217	500,000
+T33	Device 218 225	devices
+T34	Number 249 257	millions
+T35	Person 261 266	users
+T36	Software 237 241	apps
+T2	Information 535 544	passwords
+T5	Information 549 560	credentials
+T7	File 1301 1322	Vulnerability reports
+T10	Domain 1369 1395	TeamSIK's project homepage
+T24	Information 1116 1141	 The research team's name
+T28	Organization 1145 1152	TeamSIK
+T37	Information 1154 1169	Security Is Key
+T38	Person 1191 1213	security professionals
+T39	Location 1281 1299	Darmstadt, Germany
+T40	Organization 1218 1277	 the Fraunhofer Institute for Secure Information Technology
+T17	Course-of-Action 979 998	patched its product
+T21	Person 1008 1013	users
+T23	Course-of-Action 1018 1061	update to the applications' latest versions
+T26	Course-of-Action 1065 1084	mitigate all issues
+T15	Course-of-Action 863 887	fixed 23 of the 26 flaws
+T41	Organization 894 899	Avast
+T42	Number 924 929	three
+T43	Vulnerability 930 936	issues
+T44	Time 818 839	the start of the week
+T45	Organization 764 782	 The research team
+T46	Vulnerability 757 763	issues
+T12	Vulnerability 707 720	security bugs
+T11	Number 704 706	26
+T47	Course-of-Action 483 519	provide enough protection mechanisms
+T8	Software 602 606	they
+T48	Vulnerability 654 664	high risks
+T49	Information 612 634	 the users' confidence
+T50	Software 12 23	tested apps
+T51	Software 33 44	MyPasswords
+T52	Software 156 165	1Password
+T54	Software 47 60	Informaticore
+T55	Software 62 70	LastPass
+T56	Software 72 78	Keeper
+T57	Software 80 92	F-Secure Key
+T58	Software 94 102	Dashlane
+T59	Software 104 133	Hide Pictures Keep Safe Vault
+T60	Software 135 150	Avast Passwords
+T62	Person 646 650	them
+T53	Person 612 622	 the users
+*	Coreference T9 T45 T1
+*	Coreference T4 T12
+*	Coreference T13 T38
+*	Coreference T18 T41
+*	Coreference T16 T15
+*	Coreference T31 T50 T3 T8
+*	Coreference T35 T21
+*	Coreference T43 T20 T46
+*	Coreference T53 T62

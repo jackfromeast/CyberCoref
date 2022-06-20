@@ -1,0 +1,110 @@
+T8	Email 331 336	email
+T12	URL 409 413	link
+T11	Organization 436 454	Government Gateway
+T6	Hacker-Group 127 137	Fraudsters
+T5	Person 152 161	taxpayers
+T3	Email 167 182	spurious emails
+T4	Information 187 200	text messages
+T2	Organization 223 237	the government
+T14	URL 639 643	link
+T15	Hacker-Group 601 614	the criminals
+T22	Organization 2263 2267	HMRC
+T27	Hacker-Group 2212 2222	fraudsters
+T24	Purpose 2287 2315	paying bogus debts and taxes
+T25	Person 2277 2281	them
+T29	Person 2348 2355	victims
+T30	Hacker-Group 2319 2334	These criminals
+T31	Attack-Pattern 2408 2421	text messages
+T32	Purpose 2451 2487	ask for payments in iTunes giftcards
+T18	Purpose 1009 1053	hook you into providing personal information
+T16	Hacker-Group 975 995	the fraudster sender
+T17	Email 948 964	'phishing' email
+T33	Email 81 86	email
+T34	Course-of-Action 54 125	vigilant if you receive an email informing you that you're due a refund
+T35	Money 119 125	refund
+T1	Attack-Pattern 201 237	pretending to be from the government
+T36	Person 240 241	I
+T37	Email 260 265	email
+T38	Time 266 282	over the weekend
+T39	Money 307 313	refund
+T40	Money 317 324	£222.32
+T7	Attack-Pattern 342 402	complete with a bogus 'HMRC Transaction Confirmation' number
+T9	Attack-Pattern 407 454	a link claiming to be to the Government Gateway
+T10	Person 519 520	I
+T41	Person 295 296	I
+T42	URL 553 597	bogus link with my 'credit/debit card ready'
+T13	Purpose 650 693	scam my cards for as much money as possible
+T43	Money 676 681	money
+T44	Attack-Pattern 748 783	spelling and grammar is pretty good
+T45	Attack-Pattern 788 841	contains plenty of official-looking reference numbers
+T46	URL 850 859	web links
+T47	Attack-Pattern 887 918	similar to the genuine articles
+T20	Information 1033 1053	personal information
+T48	Campaign 1063 1067	case
+T49	Hacker-Group 1069 1073	they
+T50	Information 1086 1114	credit or debit card numbers
+T51	Campaign 1116 1124	Phishing
+T52	Attack-Pattern 1136 1148	text message
+T53	Time 1154 1172	Earlier this month
+T54	Organization 1173 1177	HMRC
+T55	Person 1187 1193	people
+T56	Campaign 1233 1251	text message scams
+T57	Attack-Pattern 1300 1371	appear more legitimate, with many texts displaying ‘HMRC’ as the sender
+T58	Organization 1352 1356	HMRC
+T59	Organization 1401 1403	It
+T60	Organization 1414 1416	it
+T61	Course-of-Action 1422 1486	stopped thousands of taxpayers from receiving scam text messages
+T62	Course-of-Action 1538 1575	halted before they reach their phones
+T63	Person 1563 1568	their
+T65	Information 1616 1628	bank account
+T66	Course-of-Action 1648 1745	warning signs you should always look out for to determine whether such emails and texts are fakes
+T67	Malware 1777 1784	malware
+T68	Malware 1787 1808	software with a virus
+T69	Attack-Pattern 1818 1876	read personal information on your computer – or destroy it
+T70	Information 1823 1843	personal information
+T71	Device 1847 1860	your computer
+T73	Vulnerability 1882 1885	bug
+T74	Attack-Pattern 1895 1978	activated by users inadvertently opening an attachment or clicking on an email link
+T75	Person 1908 1913	users
+T76	File 1939 1949	attachment
+T77	Email 1968 1978	email link
+T78	Email 1998 2004	emails
+T79	Person 2069 2095	spokesman for Action Fraud
+T80	Organization 2101 2114	This is Money
+T81	Time 2120 2155	this important time in the tax year
+T82	Person 2161 2167	people
+T21	Attack-Pattern 2227 2267	contact victims claiming to be from HMRC
+T26	Person 2235 2242	victims
+T23	Attack-Pattern 2380 2391	spoof calls
+T28	Email 2393 2403	voicemails
+T83	Attack-Pattern 2393 2403	voicemails
+T84	Campaign 2435 2440	cases
+T85	Person 2511 2517	people
+T86	Course-of-Action 2518 2554	spot the signs of this type of fraud
+T87	Campaign 2549 2554	fraud
+T88	Organization 2579 2583	HMRC
+T93	Device 1874 1876	it
+T95	File 1764 1768	they
+T96	File 1291 1295	they
+T97	Hacker-Group 2441 2445	they
+T98	Email 712 714	it
+T108	Pronoun 2194 2196	we
+T110	Email 785 787	it
+T113	Email 925 927	it
+T114	File 1552 1556	they
+T115	Person 292 294	me
+*	Coreference T12 T14 T46 T42
+*	Coreference T15 T30 T97
+*	Coreference T56 T31
+*	Coreference T35 T39 T40
+*	Coreference T1 T9
+*	Coreference T20 T70
+*	Coreference T37 T78 T8 T77 T33 T3 T98 T110
+*	Coreference T25 T29 T16 T6 T49 T26 T75
+*	Coreference T22 T54 T60 T88 T59
+*	Coreference T115 T36 T82 T41 T85
+*	Coreference T17 T113
+*	Coreference T96 T52 T114 T95
+T19	Number 1493 1504	90 per cent
+*	Coreference T93 T71
+*	Coreference T87 T84

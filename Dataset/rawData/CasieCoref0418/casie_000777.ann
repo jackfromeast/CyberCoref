@@ -1,0 +1,76 @@
+T3	Campaign 73 78	trick
+T4	Person 79 82	you
+T5	Purpose 88 133	authorising a malicious third-party Gmail app
+T6	Purpose 151 201	take over your email account and your contact list
+T1	Campaign 41 58	phishing campaign
+T2	Software 28 39	Google Docs
+T7	Campaign 260 268	spam out
+T8	File 296 313	fraudulent emails
+T9	Person 317 329	your friends
+T10	Person 334 344	colleagues
+T11	Campaign 417 421	send
+T12	File 442 448	emails
+T13	Campaign 518 523	phish
+T14	File 566 574	an email
+T15	Campaign 588 593	trick
+T16	Purpose 659 684	giving away personal data
+T27	Purpose 621 654	performing an authentication task
+T17	Campaign 605 611	cajole
+T18	Campaign 755 760	phish
+T19	File 767 772	email
+T20	Campaign 816 821	fraud
+T22	Campaign 1039 1051	misdirection
+T23	Purpose 1085 1133	give away something you should have kept private
+T21	Campaign 964 972	phishing
+T24	Campaign 1270 1275	phish
+T25	Hacker-Group 1265 1269	they
+T26	Hacker-Group 1198 1204	crooks
+T28	Campaign 1330 1350	“Google Docs” attack
+T29	Time 1308 1317	This week
+T30	Time 1486 1495	from 2000
+T31	Malware 1462 1485	infamous Love Bug virus
+T32	Malware 1504 1537	pernicious FriendGreetings adware
+T33	Time 1538 1547	from 2002
+T34	Campaign 1583 1603	“Google Docs” attack
+T35	Malware 1606 1611	virus
+T36	Malware 1636 1640	worm
+T37	URL 1168 1179	login links
+T38	Email 1183 1189	emails
+T39	Person 1140 1145	users
+T40	Person 706 709	you
+T41	Person 784 787	you
+T43	Person 691 694	you
+T45	Person 612 615	you
+T46	Person 1062 1065	you
+T47	Person 793 796	you
+T48	Campaign 142 144	it
+T49	Person 369 373	them
+T50	Campaign 497 499	it
+T51	Person 10 12	we
+T52	Campaign 1405 1407	it
+T53	Campaign 1423 1425	it
+T54	Person 1105 1108	you
+*	Coreference T3 T15
+*	Coreference T8 T38 T19 T12
+*	Coreference T1 T24 T18 T21 T13 T48 T50 T14 T2
+*	Coreference T28 T34 T42 T52 T53 T35 T36 T64 T65
+T44	Purpose 214 218	ends
+T55	Purpose 220 237	One of those ends
+*	Coreference T55 T44
+T56	Malware 387 403	the imposter app
+T57	Malware 102 133	malicious third-party Gmail app
+*	Coreference T57 T56
+*	Coreference T41 T47 T40 T43 T45 T4 T46 T54 T39 T63
+T58	Person 532 534	we
+*	Coreference T58 T51
+T59	Money 833 838	money
+T60	Money 807 812	money
+*	Coreference T59 T60
+T61	URL 877 885	web link
+*	Coreference T37 T61
+T62	Campaign 1233 1240	threats
+*	Coreference T26 T25
+T42	Campaign 1371 1377	itself
+T63	Person 1392 1397	users
+T64	Malware 1653 1674	special sort of virus
+T65	Malware 1691 1697	itself

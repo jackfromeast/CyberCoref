@@ -1,0 +1,93 @@
+T21	Organization 1891 1901	businesses
+T24	Organization 2390 2399	companies
+T6	Campaign 147 164	the cyber attacks
+T7	Location 79 86	Britain
+T5	Malware 0 10	Ransomware
+T3	Money 46 58	£346 million
+T4	Time 59 69	every year
+T2	Organization 22 34	UK companies
+T17	Campaign 1339 1357	ransomware attacks
+T10	Campaign 242 265	five ransomware attacks
+T8	Time 273 286	the last year
+T9	Organization 200 221	mid-large UK business
+T18	Campaign 1577 1585	phishing
+T19	Person 1611 1629	engineer employees
+T26	System 2516 2534	vulnerable systems
+T12	Location 502 508	the UK
+T14	Malware 900 910	ransomware
+T16	Money 975 983	£591,238
+T15	Organization 922 943	individual businesses
+T27	Campaign 2559 2577	ransomware attacks
+T1	Location 103 129	the most resolute’ country
+T28	Number 185 199	40 per cent of
+T29	Person 313 326	Vanson Bourne
+T30	Number 337 351	92 per cent of
+T31	Person 352 374	security professionals
+T32	Malware 417 427	ransomware
+T33	Time 428 441	in the future
+T34	File 484 495	 The survey
+T11	Campaign 661 668	attacks
+T35	Number 639 668	 the fewest number of attacks
+T36	Number 670 681	40 per cent
+T37	Number 690 701	70 per cent
+T38	Location 705 712	Germany
+T39	Number 714 725	59 per cent
+T40	Location 729 735	France
+T41	Number 740 751	55 per cent
+T42	Location 754 762	 the USA
+T43	Number 772 799	 a 43 per cent success rate
+T44	Course-of-Action 803 841	successfully defending against attacks
+T45	Campaign 834 841	attacks
+T46	Person 874 885	SentinelOne
+T13	File 843 856	 The research
+T47	File 994 1007	 The research
+T48	Number 1026 1040	 the number of
+T49	Organization 1041 1050	companies
+T50	Malware 1062 1072	ransomware
+T51	Time 1382 1400	33 to 40 man-hours
+T52	Number 1186 1197	48 per cent
+T54	Number 1209 1220	56 per cent
+T53	Time 1198 1205	in 2016
+T55	Time 1221 1228	in 2018
+T56	Number 1237 1256	 the average number
+T57	Time 1257 1265	per year
+T58	Number 1282 1293	six to five
+T59	Campaign 1294 1301	attacks
+T60	Malware 1156 1166	ransomware
+T61	Number 1106 1132	 the overall percentage of
+T62	Organization 1133 1142	companies
+T63	Campaign 618 622	them
+T64	Location 476 483	British
+T65	Person 1430 1439	employees
+T66	Malware 1501 1513	 the malware
+T67	Organization 1518 1531	 the business
+T68	Malware 1666 1676	ransomware
+T20	Number 1705 1716	69 per cent
+T69	Money 1854 1866	£346 million
+T70	Person 1732 1742	Migo Kedem
+T71	Person 1744 1789	director of Product Management at SentinelOne
+T72	Organization 1832 1850	British businesses
+T73	Money 1819 1828	 the cost
+T74	File 1867 1879	 This figure
+T22	Campaign 1634 1656	 the top attack vector
+T23	Course-of-Action 2491 2534	back-ups and patching of vulnerable systems
+T25	Time 2796 2800	2018
+T75	Malware 2738 2748	ransomware
+T76	Organization 2787 2792	CISOs
+T77	Course-of-Action 2652 2669	evading detection
+T78	Malware 2689 2723	file-less and memory-based malware
+T79	Malware 2265 2275	ransomware
+T80	Organization 2208 2213	CISOs
+T81	Organization 2134 2152	British businesses
+T82	Money 2053 2077	 the data recovery costs
+T83	Person 2155 2157	He
+T85	Location 624 628	They
+T84	Campaign 558 572	ransom demands
+*	Coreference T13 T47
+*	Coreference T7 T1
+*	Coreference T84 T63
+*	Coreference T12 T85 T64
+*	Coreference T70 T71 T83
+*	Coreference T76 T80
+*	Coreference T69 T73
+*	Coreference T22 T18

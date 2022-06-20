@@ -1,0 +1,86 @@
+T6	Time 129 138	last week
+T5	Attack-Pattern 75 99	had infected its systems
+T4	Malware 59 69	ransomware
+T3	Money 37 44	$55,000
+T2	Organization 0 19	An Indiana hospital
+T19	Attack-Pattern 104 128	was hindering operations
+T7	Organization 1048 1056	Hospital
+T10	Money 1186 1195	4 Bitcoin
+T11	Money 1220 1227	$55,000
+T13	Organization 1149 1151	it
+T12	Organization 1103 1115	The hospital
+T14	Organization 1240 1252	the hospital
+T16	Time 1270 1286	Saturday morning
+T17	Organization 1464 1468	they
+T1	Campaign 144 153	infection
+T20	Time 164 173	last week
+T21	Time 178 198	Thursday, January 11
+T22	Hacker-Group 205 214	attackers
+T23	System 228 253	network of Hancock Health
+T24	Organization 257 300	regional hospital in the city of Greenfield
+T25	Location 302 309	Indiana
+T26	Hacker-Group 311 320	Attackers
+T27	Malware 334 351	SamSam ransomware
+T28	File 369 374	files
+T29	File 387 391	them
+T30	Attack-Pattern 359 391	encrypted files and renamed them
+T31	Time 471 480	last week
+T32	Person 528 536	IT staff
+T18	Time 1511 1517	Monday
+T33	System 1519 1530	all systems
+T34	Organization 1560 1568	hospital
+T35	Information 1580 1595	short statement
+T36	Domain 1603 1607	site
+T37	Campaign 1625 1633	incident
+T38	Information 1653 1666	other details
+T39	Organization 1678 1686	hospital
+T40	Campaign 1717 1739	SamSam attack scenario
+T41	Campaign 1758 1767	infection
+T42	Person 1791 1832	employee opening a malware-infected email
+T43	Email 1810 1832	malware-infected email
+T44	Organization 1838 1841	FBI
+T45	Malware 1895 1905	ransomware
+T46	Organization 1857 1866	companies
+T47	Person 1871 1882	individuals
+T48	Hacker-Group 2045 2051	groups
+T49	Organization 1957 1963	Bureau
+T50	Course-of-Action 1968 2000	get a better grasp of the threat
+T51	Campaign 1920 1930	infections
+T9	Money 1262 1265	sum
+T15	Organization 1288 1307	Hospital management
+T52	System 1433 1440	systems
+T53	Time 1395 1399	days
+T54	Time 1415 1420	weeks
+T55	Course-of-Action 1330 1352	restoring from backups
+T8	Course-of-Action 1061 1068	backups
+T56	Domain 830 840	news sites
+T57	Organization 859 867	hospital
+T58	Device 975 984	computers
+T59	Person 986 994	Patients
+T60	Information 1016 1046	care at the hospital's premise
+T61	Time 682 688	Friday
+T62	Time 694 702	next day
+T63	Organization 708 716	hospital
+T64	System 566 580	entire network
+T65	Person 750 759	employees
+T66	Person 735 742	posters
+T67	Device 777 785	computer
+T68	Campaign 796 804	incident
+T69	Device 616 625	computers
+T70	Malware 639 649	ransomware
+T71	Person 589 598	employees
+T72	Device 674 677	PCs
+T73	Organization 436 451	local newspaper
+T74	Organization 1741 1745	they
+*	Coreference T22 T26
+*	Coreference T4 T45 T27 T70
+*	Coreference T34 T7 T14 T57 T63 T12 T13 T39 T74
+*	Coreference T29 T28
+*	Coreference T31 T20
+*	Coreference T68 T1 T37 T41
+*	Coreference T10 T11
+T75	Course-of-Action 1375 1377	it
+T76	Money 1488 1494	ransom
+T77	Course-of-Action 1363 1371	solution
+*	Coreference T77 T75 T55
+*	Coreference T17 T15

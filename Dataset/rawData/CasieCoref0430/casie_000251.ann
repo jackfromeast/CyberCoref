@@ -1,0 +1,75 @@
+T14	Campaign 1254 1270	phishing attacks
+T15	Location 1222 1235	South America
+T20	Person 1339 1344	users
+T19	Location 1290 1296	Brazil
+T18	Hacker-Group 1357 1365	phishers
+T7	Hacker-Group 615 629	cybercriminals
+T6	Domain 575 589	Facebook pages
+T1	Domain 29 39	fake sites
+T3	Organization 57 65	Facebook
+T4	Person 0 6	People
+T22	Information 647 660	personal data
+T9	Attack-Pattern 661 681	via phishing attacks
+T13	Attack-Pattern 1070 1098	asked to ‘verify’ an account
+T12	Person 1057 1066	 the user
+T23	Organization 81 95	Kaspersky Labs
+T24	Organization 123 152	 the Russian security company
+T27	Attack-Pattern 277 306	direct users to fake FB pages
+T28	Organization 371 380	VKontakte
+T29	Location 383 389	Russia
+T30	Organization 403 411	Facebook
+T31	Organization 445 453	LinkedIn
+T33	Campaign 244 257	these attacks
+T34	Organization 492 500	Facebook
+T35	Hacker-Group 550 560	fraudsters
+T36	Organization 505 545	the most popular social networking brand
+T38	Domain 192 223	fraudulent social network pages
+T39	Organization 683 695	 the company
+T40	Campaign 743 757	 these attacks
+T41	Organization 871 880	Kaspersky
+T43	Campaign 915 919	this
+T44	Organization 767 815	global internet portals and the financial sector
+T45	Organization 827 832	banks
+T46	Person 855 868	online stores
+T47	Software 834 850	payment services
+T48	Organization 947 955	Facebook
+T49	Attack-Pattern 1010 1022	 The schemes
+T50	Organization 1182 1184	it
+T42	Organization 886 895	 The firm
+T51	Organization 1193 1205	 The company
+T53	Organization 1403 1405	it
+T54	Location 1416 1418	It
+T55	Location 1435 1444	Argentina
+T56	Location 1446 1455	Venezuela
+T57	Location 1461 1468	Albania
+T2	Attack-Pattern 40 65	pretending to be Facebook
+T26	Attack-Pattern 575 611	Facebook pages were frequently faked
+T32	Number 162 173	3.7 million
+T59	Number 235 240	58.7%
+T61	Number 434 439	20.8%
+T62	Number 454 459	12.9%
+T63	Time 462 490	At the beginning of the year
+T5	Purpose 633 681	try and steal personal data via phishing attacks
+T8	Time 937 946	Last year
+T10	Attack-Pattern 1102 1141	lured into signing into a phishing site
+T11	Number 1396 1399	19%
+T16	Time 1274 1287	2018 thus far
+T25	Time 109 122	2018 thus far
+T21	Time 1369 1394	the first quarter of 2018
+T37	Number 1478 1481	13%
+T17	Information 1087 1098	 an account
+T58	Domain 1125 1141	 a phishing site
+T64	Domain 293 306	fake FB pages
+T65	Number 975 980	three
+T67	Person 284 289	users
+T68	Version 392 399	version
+T60	Person 732 739	targets
+T52	Location 1301 1312	the country
+*	Coreference T1 T64 T38 T6
+*	Coreference T12 T67 T20
+*	Coreference T23 T41 T24 T42 T50 T51 T53
+*	Coreference T34 T3 T30 T48 T36 T39
+*	Coreference T16 T25
+*	Coreference T7 T35
+*	Coreference T52 T19 T54
+*	Coreference T43 T40

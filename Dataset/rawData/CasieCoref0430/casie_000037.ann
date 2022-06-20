@@ -1,0 +1,72 @@
+T31	Person 1126 1141	Omri Herscovici
+T38	Organization 1145 1164	CheckPoint Software
+T23	Person 1011 1032	different researchers
+T27	Organization 993 998	Adobe
+T26	Vulnerability 1064 1083	the vulnerabilities
+T35	Vulnerability 1308 1342	 the patched Adobe vulnerabilities
+T33	Organization 1244 1271	Tencent Security Xuanwu Lab
+T32	Person 1233 1239	Ke Liu
+T36	Person 1365 1373	Lin Wang
+T37	Vulnerability 1400 1415	vulnerabilities
+T39	Organization 1344 1362	Beihang University
+T1	Course-of-Action 10 26	posted an update
+T7	Organization 0 5	Adobe
+T3	Vulnerability 41 76	CVE-listed security vulnerabilities
+T4	Software 80 87	Acrobat
+T5	System 108 115	Windows
+T6	System 120 125	macOS
+T8	Software 126 139	 The PDF apps
+T10	Course-of-Action 154 168	a major update
+T11	Course-of-Action 193 198	fixes
+T12	Vulnerability 203 208	flaws
+T13	Attack-Pattern 220 259	allow for remote code execution attacks
+T16	Course-of-Action 516 526	 the fixes
+T18	Version 546 569	versions 2019.008.20071
+T42	Software 492 499	Acrobat
+T41	System 484 491	Windows
+T40	System 476 479	Mac
+T21	Version 655 669	2017.011.30105
+T19	Course-of-Action 630 638	 the fix
+T43	Version 616 629	2017 versions
+T14	Vulnerability 305 333	elevation of privilege flaws
+T15	Vulnerability 338 376	information disclosure vulnerabilities
+T2	Number 38 40	85
+T44	Software 92 98	Reader
+T9	Number 183 192	dozens of
+T22	Campaign 289 296	attacks
+T45	Organization 391 396	Adobe
+T46	Vulnerability 414 423	 the bugs
+T47	Person 510 515	users
+T17	Software 679 690	PDF readers
+T20	Campaign 729 764	email and web-based malware attacks
+T48	Person 766 771	users
+T49	Person 776 782	admins
+T50	Course-of-Action 806 834	test and install the updates
+T51	Malware 856 874	Exploit-laden PDFs
+T52	Malware 953 960	malware
+T53	Device 974 981	machine
+T54	Number 1008 1010	19
+T24	Person 1109 1120	bug hunters
+T25	Number 1209 1211	35
+T28	Vulnerability 1212 1227	CVE-listed bugs
+T29	Number 1303 1305	11
+T30	Number 1395 1399	nine
+T34	Course-of-Action 1455 1471	security updates
+T55	Person 1478 1483	users
+T56	Person 1488 1494	admins
+T57	Time 1533 1552	a week from Tuesday
+T58	Time 1554 1563	October 9
+T59	Version 1580 1600	this month's edition
+T60	Course-of-Action 1603 1657	 the scheduled 'Patch Tuesday' monthly security update
+T61	Organization 1423 1425	we
+T62	Software 609 615	Reader
+T63	Software 597 604	Acrobat
+T64	Software 500 506	Reader
+*	Coreference T7 T45 T27 T61
+*	Coreference T5 T41
+*	Coreference T16 T11 T19
+*	Coreference T46 T3 T26
+*	Coreference T40 T6
+*	Coreference T63 T4 T42
+*	Coreference T62 T44 T64 T17
+*	Coreference T24 T23

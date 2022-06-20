@@ -1,0 +1,145 @@
+T9	Person 405 416	Gmail users
+T5	Person 464 469	users
+T7	Software 504 515	Google Docs
+T1	Campaign 38 59	email phishing scheme
+T39	Time 19 28	Wednesday
+T13	Attack-Pattern 551 583	were invited to click a blue box
+T10	Person 517 527	Recipients
+T16	Purpose 688 709	handover Gmail access
+T19	Email 753 767	spoofed emails
+T21	Person 1032 1037	users
+T23	Hacker-Group 961 973	 the culprit
+T34	Person 2248 2253	users
+T24	Campaign 1209 1231	phishing email schemes
+T25	Campaign 1246 1254	tricking
+T27	Purpose 1266 1299	giving up their login credentials
+T26	Person 1255 1260	users
+T28	Campaign 1843 1854	impersonate
+T29	System 1855 1870	Google services
+T31	Software 1833 1837	apps
+T37	Software 3294 3298	apps
+T35	Campaign 3248 3265	phishing attempts
+T40	Organization 0 6	Google
+T41	Person 111 130	security researcher
+T42	Campaign 164 166	it
+T43	Organization 176 182	Google
+T44	Person 204 209	users
+T45	Campaign 220 227	attacks
+T14	Person 278 289	Matt Austin
+T2	Campaign 251 270	 the original spoof
+T46	Person 291 341	director of security research at Contrast Security
+T3	Campaign 342 362	 The phishing scheme
+T8	Number 395 404	1 million
+T4	Software 474 486	 a dummy app
+T6	Email 540 550	 the email
+T11	Person 610 615	Those
+T12	Domain 650 669	Google account page
+T15	Software 712 726	 the dummy app
+T38	Software 822 837	third-party app
+T47	Organization 853 859	Google
+T48	System 870 903	 The company’s developer platform
+T49	Software 932 946	web-based apps
+T50	Person 915 921	anyone
+T22	Software 987 1009	 the app “Google Docs”
+T20	Organization 1038 1057	 The search company
+T51	Person 1127 1137	developers
+T52	Organization 1150 1156	Google
+T53	Software 1167 1190	 their third-party apps
+T54	Campaign 1310 1328	Wednesday’s attack
+T56	Information 1424 1441	internet accounts
+T57	Attack-Pattern 1445 1479	link with third-party applications
+T58	Protocol 1489 1494	OAuth
+T59	Person 1496 1501	users
+T60	Information 1530 1550	password information
+T61	Attack-Pattern 1557 1581	instead grant permission
+T62	Software 1590 1609	one third-party app
+T63	Information 1624 1647	 their internet account
+T64	Person 1552 1556	They
+T65	Organization 1657 1663	Google
+T66	Organization 1665 1673	Facebook
+T67	Organization 1677 1684	Twitter
+T68	Protocol 1886 1891	OAuth
+T69	Protocol 1711 1716	OAuth
+T70	Information 1699 1709	technology
+T71	Time 1743 1747	2011
+T72	Person 1753 1762	developer
+T73	Protocol 1779 1792	 the protocol
+T30	Campaign 1809 1827	 a phishing attack
+T74	Information 1913 1921	standard
+T75	Organization 1938 1947	CloudLock
+T76	Number 1968 1975	276,000
+T77	Software 1976 1980	apps
+T78	Protocol 1984 1997	 the protocol
+T79	System 2006 2061	services like Google, Facebook and Microsoft Office 365
+T80	Software 2087 2102	Google Docs app
+T81	Person 2120 2132	 a developer
+T82	Email 2136 2158	eugene.pupov@gmail.com
+T33	Software 2211 2225	 the dummy app
+T83	Domain 2262 2298	Google’s own account permission page
+T84	Information 2319 2347	 the developer’s information
+T85	Person 2355 2364	 the user
+T86	Domain 2371 2380	 the page
+T87	Person 2394 2401	Parecki
+T88	Organization 2425 2431	Google
+T89	Information 2449 2472	identifying information
+T90	Software 2477 2488	 these apps
+T91	Person 2491 2493	he
+T92	Information 2561 2575	 those details
+T93	Person 2606 2611	users
+T94	Person 2613 2620	Parecki
+T95	Software 2584 2586	it
+T96	Person 2629 2635	Austin
+T97	Software 2653 2657	apps
+T98	Information 2671 2681	permission
+T99	Software 2685 2690	Gmail
+T100	Information 2713 2728	blatant warning
+T101	Person 2738 2747	 the user
+T102	Protocol 2776 2786	 the OAuth
+T103	Person 2833 2839	Austin
+T104	Protocol 2816 2818	it
+T105	Organization 2895 2901	Google
+T106	Campaign 2927 2945	Wednesday’s attack
+T107	System 2967 2985	anti-abuse systems
+T108	Person 3023 3028	Users
+T109	Course-of-Action 2914 3021	quickly foil Wednesday’s attack, and is introducing “anti-abuse systems” to prevent it from happening again
+T110	Campaign 3064 3090	 a Google security checkup
+T111	Software 3106 3110	apps
+T112	Software 3143 3175	 The company’s Gmail Android app
+T113	Person 3227 3232	users
+T36	Person 3328 3333	users
+T114	Campaign 3373 3409	linking accounts to third-party apps
+T115	Person 3465 3481	Cloudlock's Kaya
+T116	Hacker-Group 3490 3497	Hackers
+T117	Organization 3555 3564	companies
+T118	Campaign 3591 3595	this
+T120	Course-of-Action 1086 1102	removing the app
+T121	Campaign 64 75	 the attack
+T122	Person 680 684	them
+T123	Campaign 1071 1082	 the attack
+T124	Information 3127 3142	 their accounts
+T125	Software 3310 3314	they
+T126	Campaign 3525 3537	 this attack
+T127	Person 3540 3543	she
+T128	Person 3454 3458	they
+T129	Person 2807 2808	I
+T130	Pronoun 3540 3543	she
+T132	Campaign 454 456	it
+T134	Campaign 2998 3000	it
+T138	Protocol 2877 2879	it
+T139	Pronoun 3454 3458	they
+T18	Person 742 747	users
+T133	Campaign 784 802	Wednesday’s attack
+T17	Protocol 1382 1401	 the OAuth protocol
+*	Coreference T12 T83
+*	Coreference T22 T7 T80 T33 T95
+*	Coreference T102 T58 T68 T69 T17 T73 T78 T104 T138
+*	Coreference T40 T65 T88 T52 T43 T47 T105
+*	Coreference T96 T103 T14 T46 T129
+*	Coreference T126 T123 T133 T54
+*	Coreference T87 T94 T91
+*	Coreference T1 T121 T42 T2 T3 T132
+*	Coreference T11 T10 T122
+*	Coreference T64 T59
+*	Coreference T34 T85
+*	Coreference T106 T134
+*	Coreference T77 T90

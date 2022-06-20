@@ -1,0 +1,156 @@
+T5	Hacker-Group 320 327	hackers
+T38	Organization 381 402	 the pediatrics group
+T11	Information 1677 1681	data
+T9	Malware 1617 1629	 these virus
+T12	System 1687 1697	the server
+T15	Hacker-Group 1861 1868	hackers
+T13	Information 1815 1828	user accounts
+T23	Campaign 2561 2579	data breach portal
+T24	Person 2610 2618	patients
+T29	Device 2742 2751	computers
+T28	System 2726 2737	its servers
+T27	Information 2663 2687	confidential information
+T32	Information 2796 2820	confidential information
+T3	Organization 103 105	it
+T4	Organization 23 38	ABCD Pediatrics
+T17	Organization 2 21	pediatrics practice
+T33	Location 65 70	Texas
+T22	Location 47 63	 the San Antonio
+T35	System 289 301	 its servers
+T2	Malware 253 263	 the virus
+T34	Attack-Pattern 272 284	corrupt data
+T21	Hacker-Group 2383 2398	unknown persons
+T20	Organization 2303 2322	 the practice group
+T14	Location 71 88	metropolitan area
+T1	Attack-Pattern 110 138	hit with a ransomware attack
+T39	Software 153 171	antivirus software
+T40	Campaign 191 202	 the attack
+T41	Organization 207 232	 the practice's IT vendor
+T6	Attack-Pattern 337 380	accessed portions of the practice’s network
+T42	Course-of-Action 406 454	offering identity and credit protection services
+T43	Campaign 460 486	Equifax Personal Solutions
+T37	Person 496 509	 its patients
+T44	Organization 510 531	 The pediatrics group
+T45	Number 543 547	four
+T46	Location 548 557	locations
+T47	Campaign 569 587	HIPAA Notification
+T52	Organization 695 708	 The practice
+T55	Time 819 823	1996
+T56	Protocol 825 830	HIPAA
+T57	Campaign 841 852	 the attack
+T58	Organization 854 869	ABCD Pediatrics
+T59	Course-of-Action 873 904	 a variety of security measures
+T60	Course-of-Action 925 966	network filtering and security monitoring
+T61	System 968 995	intrusion detection systems
+T62	Software 997 1006	firewalls
+T63	Software 1008 1026	antivirus software
+T64	Course-of-Action 1032 1051	password protection
+T65	Organization 1065 1082	 the organization
+T66	Time 1099 1109	February 6
+T67	Time 1111 1115	2017
+T68	Person 1116 1147	 an employee of ABCD Pediatrics
+T69	Attack-Pattern 1164 1221	a virus gained access and began encrypting ABCD’s servers
+T70	Malware 1163 1171	 a virus
+T71	System 1207 1221	ABCD’s servers
+T72	Course-of-Action 1222 1237	 The encryption
+T73	Software 1275 1293	antivirus software
+T74	Organization 1311 1315	ABCD
+T75	Organization 1337 1351	 its IT vendor
+T76	Organization 1338 1341	its
+T77	System 1357 1371	ABCD’s servers
+T78	Device 1376 1385	computers
+T79	Course-of-Action 1391 1426	promptly moved offline and analyzed
+T80	Malware 1427 1437	 The virus
+T81	Malware 1457 1474	Dharma Ransomware
+T82	Malware 1508 1524	ransomware virus
+T83	Malware 1533 1539	CriSiS
+T84	Organization 1554 1583	 the organization’s IT vendor
+T85	Organization 1586 1603	ABCD’s IT company
+T10	Attack-Pattern 1655 1697	exfiltrate (“remove”) data from the server
+T86	Campaign 1708 1720	exfiltration
+T87	System 1774 1788	ABCD’s servers
+T88	Device 1793 1802	computers
+T16	Attack-Pattern 1878 1913	accessed portions of ABCD’s network
+T89	Organization 1915 1932	 the organization
+T90	Organization 1940 1954	 The IT vendor
+T91	Malware 1975 1985	 the virus
+T92	Course-of-Action 1968 2023	removed the virus and all corrupt data from its servers
+T93	Information 2002 2006	data
+T95	System 2011 2023	 its servers
+T96	Organization 2028 2041	 the practice
+T97	Course-of-Action 2052 2105	secure backup data stored separately from its servers
+T98	Information 2059 2070	backup data
+T100	System 2093 2105	 its servers
+T101	Device 2110 2119	computers
+T102	Course-of-Action 2176 2201	restore all affected data
+T103	Information 2197 2201	data
+T104	Organization 2215 2232	 the organization
+T105	Information 2250 2261	information
+T107	Attack-Pattern 2274 2283	destroyed
+T106	Information 2295 2298	PHI
+T108	Campaign 2337 2353	 a ransom demand
+T19	Organization 2439 2443	ABCD
+T109	Organization 2452 2460	 the FBI
+T110	Organization 2465 2513	the U.S. Department of Health and Human Services
+T111	Organization 2527 2559	 the HHS’ Office of Civil Rights
+T112	Number 2603 2609	55,447
+T113	Organization 2625 2639	 the IT vendor
+T26	Attack-Pattern 2701 2751	acquired or removed from its servers and computers
+T114	Organization 2753 2755	it
+T30	Attack-Pattern 2796 2867	confidential information may have been viewed and possibly was acquired
+T31	Organization 2878 2898	 the ABCD Pediatrics
+T115	Campaign 2911 2931	Affected information
+T116	Information 2950 2965	patients’ names
+T117	Information 2967 2976	addresses
+T118	Information 2978 2995	telephone numbers
+T119	Information 2997 3011	dates of birth
+T120	Information 3013 3036	Social Security Numbers
+T121	Information 3038 3067	insurance billing information
+T122	Information 3069 3084	medical records
+T123	Information 3090 3108	laboratory reports
+T124	Campaign 3119 3133	 this incident
+T125	Organization 3135 3151	ABCD’s IT vendor
+T126	Campaign 3159 3187	 the source of the intrusion
+T127	Course-of-Action 3192 3232	implemented additional security measures
+T128	Course-of-Action 3244 3292	state of the art cyber monitoring on its network
+T129	System 3281 3292	its network
+T130	Organization 3293 3310	 the organization
+T131	Software 3331 3375	 the identity and credit protection services
+T132	Organization 3381 3388	Equifax
+T133	Organization 3389 3410	 the pediatrics group
+T134	Person 3428 3436	patients
+T135	Course-of-Action 3447 3461	 a fraud alert
+T136	File 3464 3483	 their credit files
+T137	Information 415 434	identity and credit
+T138	Campaign 614 626	 an incident
+T140	Attack-Pattern 636 694	have affected patients’ protected health information (PHI)
+T141	Campaign 1300 1309	discovery
+T142	Person 2424 2437	 its patients
+T143	Campaign 2580 2593	 the incident
+T144	Information 3349 3355	credit
+T145	Information 3331 3344	 the identity
+T146	Campaign 2142 2155	 the incident
+T147	Information 2161 2163	it
+T148	Malware 1485 1495	 a variant
+T25	Campaign 118 138	 a ransomware attack
+T8	System 357 380	 the practice’s network
+T36	Domain 592 603	its website
+T48	Information 690 693	PHI
+T49	Information 660 688	protected health information
+T50	Protocol 759 811	 the Health Insurance Portability and Accountability
+T7	System 1899 1913	ABCD’s network
+*	Coreference T27 T121 T32 T105
+*	Coreference T6 T16
+*	Coreference T4 T31 T17 T3 T133 T38 T52 T44 T20
+*	Coreference T74 T19
+*	Coreference T80 T81
+*	Coreference T93 T11 T103
+*	Coreference T124 T138 T143 T57 T146
+*	Coreference T40 T25
+*	Coreference T49 T48
+*	Coreference T50 T56
+*	Coreference T82 T83
+*	Coreference T95 T100 T87
+*	Coreference T88 T101
+*	Coreference T113 T114
+*	Coreference T130 T104

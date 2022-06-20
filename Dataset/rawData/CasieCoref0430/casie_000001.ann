@@ -1,0 +1,153 @@
+T27	Time 3759 3768	Last year
+T30	Information 3900 3920	payment card details
+T28	Attack-Pattern 3858 3886	infected with malicious code
+T37	Code 252 262	 a feature
+T35	Attack-Pattern 268 319	retrieves preview images for videos hosted on Vimeo
+T3	Person 185 234	researchers from security consultancy DefenseCode
+T2	Vulnerability 157 166	 The flaw
+T26	Vulnerability 1356 1375	 this vulnerability
+T11	Person 2630 2653	 the Magento developers
+T6	Person 2598 2602	they
+T9	Vulnerability 2615 2627	these issues
+T10	Time 2662 2670	November
+T5	Person 2558 2586	 The DefenseCode researchers
+T14	Organization 2884 2895	DefenseCode
+T15	Version 2897 2920	all Magento CE versions
+T16	Vulnerability 2994 3003	 the flaw
+T12	Course-of-Action 2710 2724	patching plans
+T23	Vulnerability 3253 3263	 the issue
+T22	Person 3232 3234	We
+T24	Course-of-Action 3267 3289	our next patch release
+T18	Vulnerability 3059 3078	 the reported issue
+T19	Organization 3006 3008	We
+T4	Vulnerability 3 26	unpatched vulnerability
+T33	Domain 29 61	 the Magento e-commerce platform
+T38	Hacker-Group 74 81	hackers
+T39	Code 104 118	malicious code
+T40	Attack-Pattern 85 156	upload and execute malicious code on web servers that host online shops
+T41	Device 122 156	web servers that host online shops
+T1	Organization 369 376	Magento
+T36	Software 349 356	product
+T44	Code 478 491	 a PHP script
+T45	File 461 465	file
+T46	Organization 493 500	Magento
+T47	File 514 523	 the file
+T48	File 551 560	 the file
+T49	Domain 577 590	 the platform
+T50	Attack-Pattern 596 633	return a "Disallowed file type" error
+T51	Attack-Pattern 506 547	download the file in order to validate it
+T52	Device 668 679	 the server
+T53	File 661 663	it
+T54	Hacker-Group 680 692	 An attacker
+T55	Vulnerability 715 725	 this flaw
+T57	Purpose 740 761	remote code execution
+T56	Attack-Pattern 765 939	first tricking Magento to download an .htaccess configuration file that enables PHP execution inside the download directory and then downloading the malicious PHP file itself
+T58	Domain 780 787	Magento
+T59	File 799 831	 an .htaccess configuration file
+T60	Code 845 858	PHP execution
+T61	File 909 932	 the malicious PHP file
+T62	Device 948 959	 the server
+T63	Code 960 975	 the PHP script
+T64	Malware 986 997	 a backdoor
+T65	Attack-Pattern 980 997	act as a backdoor
+T66	Attack-Pattern 1006 1073	be accessed from an external location by pointing the browser to it
+T67	File 1071 1073	it
+T68	Hacker-Group 1088 1097	attackers
+T69	File 1108 1110	it
+T70	Attack-Pattern 1114 1143	browse the server directories
+T71	Attack-Pattern 1148 1208	read the database password from Magento's configuration file
+T72	Information 1152 1174	 the database password
+T73	File 1180 1208	Magento's configuration file
+T42	Person 377 405	 The DefenseCode researchers
+T43	Information 1226 1246	customer information
+T74	Software 1256 1269	 the database
+T75	Course-of-Action 1412 1468	 the video-linking functionality requires authentication
+T76	Code 1412 1444	 the video-linking functionality
+T77	Hacker-Group 1481 1490	attackers
+T78	Person 1565 1589	 a lower-privileged user
+T79	Person 1609 1626	 an administrator
+T80	Attack-Pattern 1499 1524	have access to an account
+T81	Domain 1527 1548	 the targeted website
+T82	Course-of-Action 1627 1655	 The authentication obstacle
+T83	Domain 1686 1698	 the website
+T84	Vulnerability 1699 1757	doesn't have the "Add Secret Key to URLs" option turned on
+T85	Campaign 1794 1835	cross-site request forgery (CSRF) attacks
+T86	Attack-Pattern 1863 1867	CSRF
+T87	Attack-Pattern 1870 1890	 an attack technique
+T88	Attack-Pattern 1905 2007	forcing a user’s browser to perform an unauthorized request on a website when visiting a different one
+T89	Software 1912 1929	 a user’s browser
+T90	Domain 1967 1977	 a website
+T91	Domain 1991 2007	 a different one
+T92	Campaign 2014 2020	attack
+T93	Code 2053 2063	<img src=…
+T94	Email 2066 2075	 an email
+T95	Domain 2078 2101	 a public message board
+T96	Attack-Pattern 2114 2161	automatically trigger the arbitrary file upload
+T97	File 2135 2154	 the arbitrary file
+T98	Person 2164 2171	 a user
+T99	Domain 2197 2204	Magento
+T100	Person 2206 2234	 the DefenseCode researchers
+T101	Hacker-Group 2260 2268	attacker
+T102	Attack-Pattern 2278 2338	entice the user to open a CSRF link using social engineering
+T103	Person 2284 2293	 the user
+T104	URL 2301 2313	 a CSRF link
+T105	URL 2378 2385	 a link
+T106	Email 2388 2397	 an email
+T107	Domain 2428 2444	crafted web page
+T108	Person 2446 2451	users
+T109	Information 2461 2484	active Magento sessions
+T110	Software 2487 2501	 their browser
+T111	Domain 2538 2557	compromise websites
+T7	Campaign 3104 3111	attacks
+T8	Organization 3126 3133	Magento
+T13	Organization 3134 3146	 the company
+T17	Domain 3175 3199	 the e-commerce platform
+T20	Person 3362 3371	All users
+T21	Course-of-Action 3385 3439	advised to enforce the use of 'Add Secret Key to URLs'
+T112	Attack-Pattern 3455 3478	 the CSRF attack vector
+T113	Person 3480 3508	 the DefenseCode researchers
+T114	URL 424 438	 the image URL
+T115	Attack-Pattern 3527 3548	remote code execution
+T116	Attack-Pattern 3557 3578	arbitrary file upload
+T117	Device 3578 3589	 the server
+T118	Course-of-Action 3597 3663	be configured to disallow .htaccess files in affected directories.
+T119	File 3623 3638	.htaccess files
+T120	Path 3642 3662	affected directories
+T121	Organization 3665 3672	Magento
+T122	Person 3697 3713	online retailers
+T123	Hacker-Group 3750 3757	hackers
+T124	Person 3770 3781	researchers
+T31	Code 3872 3886	malicious code
+T29	Purpose 3892 3920	skimmed payment card details
+T32	Path 865 888	 the download directory
+T34	Software 1055 1067	 the browser
+T125	Software 2756 2791	 the Magento Community Edition (CE)
+T126	Version 2737 2753	Several versions
+T127	Time 2811 2825	since November
+T128	Version 2853 2858	2.1.6
+T129	Time 2862 2869	Tuesday
+T130	Number 3689 3696	250,000
+T131	Person 3724 3745	 an attractive target
+T132	Organization 2971 2975	them
+T134	Organization 3722 3724	it
+T139	File 545 547	it
+T133	Course-of-Action 2979 3003	go public about the flaw
+*	Coreference T10 T127
+*	Coreference T16 T55 T2 T26 T4 T9 T18 T23
+*	Coreference T33 T17
+*	Coreference T39 T31
+*	Coreference T44 T63 T67 T69
+*	Coreference T45 T48 T47 T139
+*	Coreference T57 T115
+*	Coreference T52 T62 T117
+*	Coreference T94 T106
+*	Coreference T96 T116
+*	Coreference T54 T68 T38 T77
+*	Coreference T104 T105
+*	Coreference T98 T20 T103 T108
+*	Coreference T34 T110 T89
+*	Coreference T99 T1 T58 T121 T8 T46 T13 T134 T131
+*	Coreference T124 T113 T42 T5 T100 T6
+*	Coreference T22 T11
+*	Coreference T132 T14 T19
+*	Coreference T82 T75

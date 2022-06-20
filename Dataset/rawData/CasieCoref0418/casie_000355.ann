@@ -1,0 +1,66 @@
+T3	Time 351 366	over a year ago
+T4	Time 370 380	March 2016
+T6	Organization 429 440	TVT Digital
+T9	Device 563 570	devices
+T7	Vulnerability 490 540	This unpatched remote code execution vulnerability
+T11	Person 71 90	Unit 42 researchers
+T12	Organization 120 138	Palo Alto Networks
+T13	Person 155 165	Claud Xiao
+T14	Person 167 177	Cong Zheng
+T15	Person 182 192	Yanhui Jia
+T16	Malware 213 224	new variant
+T17	Malware 228 235	Amnesia
+T18	Malware 239 245	botnet
+T19	Vulnerability 262 307	unpatched remote code execution vulnerability
+T1	Vulnerability 314 327	vulnerability
+T2	Purpose 251 308	targets an unpatched remote code execution vulnerability.
+T20	Number 461 463	70
+T21	Organization 464 471	vendors
+T8	Number 555 562	227,000
+T22	Location 599 605	Taiwan
+T23	Location 607 624	the United States
+T24	Location 626 632	Israel
+T25	Location 634 640	Turkey
+T26	Location 646 651	India
+T27	Person 657 668	researchers
+T28	Malware 683 698	Amnesia malware
+T29	Malware 712 725	Linux malware
+T31	Purpose 773 806	defeat malware analysis sandboxes
+T32	Attack-Pattern 729 769	adopt virtual machine evasion techniques
+T33	System 827 842	virtual machine
+T34	Malware 896 940	Microsoft Windows and Google Android malware
+T35	Malware 943 950	Amnesia
+T36	Purpose 959 1040	detect whether it’s running in a VirtualBox, VMware or QEMU-based virtual machine
+T37	System 992 1002	VirtualBox
+T38	System 1004 1010	VMware
+T39	System 1014 1040	QEMU-based virtual machine
+T40	Malware 1080 1087	Amnesia
+T41	Purpose 1093 1126	wipe the virtualized Linux system
+T42	Attack-Pattern 1130 1167	deleting all the files in file system
+T43	System 1102 1126	virtualized Linux system
+T44	File 1147 1152	files
+T45	System 1156 1167	file system
+T46	Software 1206 1238	Linux malware analysis sandboxes
+T47	Device 1253 1277	QEMU-based Linux servers
+T48	Software 1291 1303	public cloud
+T49	Device 1281 1284	VPS
+T50	Purpose 1199 1303	impact Linux malware analysis sandboxes and also some QEMU-based Linux servers on VPS or on public cloud
+T51	Malware 1319 1333	Amnesia botnet
+T52	Campaign 1364 1383	large scale attacks
+T53	Malware 1385 1387	it
+T54	Purpose 1409 1455	cause large-scale harm using IoT-based botnets
+T55	Malware 1438 1455	IoT-based botnets
+T56	Campaign 1415 1431	large-scale harm
+*	Coreference T31 T46
+*	Coreference T40 T35 T17 T28 T51 T29 T16 T18 T53
+T10	Malware 6 37	variant of the IoT/Linux botnet
+T58	Malware 39 46	Tsunami
+*	Coreference T10 T58
+*	Coreference T19 T1 T7
+T5	Device 384 387	DVR
+T59	Device 389 411	digital video recorder
+*	Coreference T5 T59
+T30	System 735 750	virtual machine
+*	Coreference T30 T33
+*	Coreference T47 T39
+*	Coreference T52 T56

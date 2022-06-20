@@ -1,0 +1,86 @@
+T5	Person 813 820	victims
+T3	Campaign 691 698	attacks
+T2	Attack-Pattern 710 741	driven by spear-phishing emails
+T7	Purpose 1315 1330	collecting data
+T8	Attack-Pattern 1266 1279	Using Dropbox
+T9	Hacker-Group 1356 1363	hackers
+T13	Information 1739 1743	data
+T10	Hacker-Group 1663 1669	crooks
+T11	Software 1717 1724	Dropbox
+T15	Person 1704 1711	victims
+T6	Campaign 800 807	Attacks
+T16	Person 0 11	Researchers
+T17	Number 23 30	over 70
+T18	Organization 31 44	organizations
+T19	Campaign 63 70	attacks
+T20	Location 93 100	Ukraine
+T21	Location 189 203	Russian border
+T22	Location 171 178	Luhansk
+T23	Location 159 166	Donetsk
+T24	Organization 138 155	separatist states
+T25	Person 1597 1615	CyberX researchers
+T26	Campaign 1638 1654	campaign BugDrop
+T27	Person 230 261	editors of Ukrainian newspapers
+T28	Organization 265 294	scientific research institute
+T30	System 319 383	remote monitoring systems for oil & gas pipeline infrastructures
+T29	Organization 298 383	company that designs remote monitoring systems for oil & gas pipeline infrastructures
+T31	Campaign 443 460	counter-terrorism
+T33	Campaign 465 477	cyberattacks
+T34	Location 508 515	Ukraine
+T35	Person 666 689	CyberX security experts
+T36	File 754 798	Word documents that contain malicious macros
+T1	Email 720 741	spear-phishing emails
+T4	File 839 845	macros
+T37	File 855 864	documents
+T38	Person 887 891	them
+T39	File 896 904	document
+T40	Software 939 943	Word
+T41	Version 922 938	newer version of
+T42	File 958 964	macros
+T43	Person 972 976	them
+T44	Information 985 998	their content
+T45	File 1009 1015	macros
+T46	Malware 1034 1050	malware families
+T47	Campaign 1054 1069	multiple stages
+T48	Malware 1086 1093	malware
+T49	Person 1216 1227	its authors
+T51	Malware 1238 1240	it
+T52	Device 1293 1310	custom web server
+T53	Attack-Pattern 1670 1711	used the PC's microphone's to bug victims
+T14	Attack-Pattern 1717 1743	Dropbox to exfiltrate data
+T12	Malware 1769 1776	malware
+T54	Campaign 1794 1802	campaign
+T55	Person 1804 1827	CyberX security experts
+T56	Malware 1838 1845	malware
+T57	Attack-Pattern 1850 1860	techniques
+T58	Campaign 1873 1890	BugDrop operation
+T59	Campaign 1906 1916	Groundbait
+T60	Campaign 1926 1950	cyber-espionage campaign
+T61	Time 1965 1973	May 2016
+T62	Person 1977 1993	ESET researchers
+T63	Course-of-Action 1454 1478	detect malicious traffic
+T64	Device 1489 1506	remote web server
+T65	Software 1519 1526	Dropbox
+T66	Software 1531 1542	application
+T67	Software 1578 1595	security products
+T68	Software 1558 1567	firewalls
+T50	Attack-Pattern 1232 1240	using it
+T69	Purpose 1245 1259	reconnaissance
+T32	Organization 388 515	international organization that monitors human rights, counter-terrorism and cyberattacks on critical infrastructure in Ukraine
+T70	System 481 504	critical infrastructure
+T71	Organization 521 632	an engineering company that designs electrical substations, gas distribution pipelines, and water supply plants
+T72	Organization 645 651	others
+T73	Software 1272 1279	Dropbox
+T77	Person 1751 1755	they
+*	Coreference T2 T1
+*	Coreference T3 T33 T19 T6
+*	Coreference T20 T34
+*	Coreference T26 T54
+*	Coreference T30 T29
+*	Coreference T37 T39
+*	Coreference T4 T45 T42
+*	Coreference T52 T64
+*	Coreference T56 T12 T48 T46 T51
+*	Coreference T11 T65 T73
+*	Coreference T38 T43 T5 T15
+*	Coreference T25 T77 T55

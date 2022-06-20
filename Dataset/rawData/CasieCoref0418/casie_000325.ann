@@ -1,0 +1,122 @@
+T2	Person 44 53	customers
+T1	Information 0 27	Personal and financial data
+T22	Information 406 415	sort code
+T21	Information 376 401	their bank account number
+T20	Information 319 368	the last four digits of their payment card number
+T19	Location 300 306	Poland
+T18	Person 287 296	customers
+T16	Location 269 275	the UK
+T15	Person 256 265	customers
+T13	Information 225 237	phone number
+T12	Information 207 219	home address
+T11	Information 191 205	e-mail address
+T10	Information 181 189	the name
+T5	Campaign 112 125	a data breach
+T23	Information 441 463	Wonga account password
+T30	Person 1308 1317	customers
+T28	Organization 1278 1289	The company
+T31	Time 1335 1343	Saturday
+T25	Information 1237 1250	customer data
+T27	Organization 1134 1145	the company
+T36	Time 1213 1219	Friday
+T33	Information 2757 2785	private personal information
+T4	Number 36 43	270,000
+T6	Information 132 136	data
+T7	Hacker-Group 162 171	attackers
+T8	Number 248 255	245,000
+T9	Number 280 286	25,000
+T14	Person 418 420	We
+T17	Information 497 511	[loan] account
+T24	Information 582 598	account password
+T37	Course-of-Action 627 704	look out for any unusual activity across any bank accounts and online portals
+T38	Information 672 685	bank accounts
+T39	Domain 690 704	online portals
+T40	Organization 711 718	company
+T41	Person 727 732	users
+T42	Organization 756 778	financial institutions
+T43	Vulnerability 790 795	issue
+T44	Person 804 815	individuals
+T45	Course-of-Action 877 947	contact your bank and ask them to look out for any suspicious activity
+T46	Campaign 928 947	suspicious activity
+T47	Organization 890 894	bank
+T48	Organization 903 907	them
+T49	Organization 950 954	They
+T50	Organization 1129 1132	BBC
+T51	Time 1179 1188	last week
+T26	Campaign 1325 1331	breach
+T52	Person 1369 1383	general public
+T53	Campaign 1427 1433	breach
+T54	Person 1512 1531	data breach victims
+T55	Campaign 1592 1598	breach
+T56	Person 1648 1652	them
+T57	Hacker-Group 1661 1675	cybercriminals
+T58	Person 1715 1725	Marc Agnew
+T59	Person 1727 1741	Vice President
+T60	Organization 1743 1756	ViaSat Europe
+T61	Organization 1787 1800	organisations
+T62	Campaign 1815 1827	cyber-attack
+T63	Organization 1875 1888	Organisations
+T64	Course-of-Action 1904 1946	ensure that all customer data is encrypted
+T65	Information 1920 1933	customer data
+T66	Information 1961 1987	passwords and card details
+T67	Information 2001 2012	stolen data
+T68	Campaign 2157 2163	attack
+T69	Information 2063 2076	customer data
+T70	Organization 2109 2120	enterprises
+T71	Person 2125 2134	consumers
+T73	Course-of-Action 2193 2229	isolating and identifying the origin
+T76	Course-of-Action 2422 2448	alerted in a timely manner
+T77	Course-of-Action 2460 2483	be well informed enough
+T78	Organization 2512 2517	Wonga
+T79	Campaign 2609 2615	attack
+T80	Organization 2650 2662	organisation
+T35	Person 2679 2697	affected customers
+T34	Person 2821 2830	customers
+T81	Person 2833 2846	André Stewart
+T82	Person 2848 2867	VP EMEA at Netskope
+T83	Campaign 2728 2733	theft
+T84	Organization 2939 2949	businesses
+T85	Course-of-Action 2883 2903	Data loss prevention
+T86	File 2955 2998	EU General Data Protection Regulation (GDPR
+T87	Time 3034 3045	over a year
+T88	Organization 3058 3071	organisations
+T89	Organization 3123 3132	companies
+T90	Course-of-Action 3151 3215	take active measures to mitigate any threats to personal privacy
+T91	Campaign 3188 3195	threats
+T92	Information 3199 3215	personal privacy
+T93	Information 3230 3234	data
+T94	System 3267 3272	cloud
+T95	Organization 3278 3287	companies
+T96	Money 3332 3343	hefty fines
+T97	Person 3346 3348	he
+T98	Campaign 644 660	unusual activity
+T99	Person 970 975	users
+T100	Hacker-Group 1001 1009	scammers
+T101	Attack-Pattern 1010 1052	looking to leverage the stolen information
+T102	Purpose 1056 1110	gain more information or money directly from the users
+T103	Person 1105 1110	users
+T104	Money 1081 1086	money
+T105	Information 1066 1077	information
+T106	Information 1034 1052	stolen information
+T72	Attack-Pattern 2039 2076	Inadequately protecting customer data
+T108	Person 623 626	you
+T109	Person 559 562	you
+T110	Person 868 871	you
+T112	Person 850 852	we
+T114	Person 600 602	We
+T117	Organization 1202 1206	them
+T119	Person 541 544	you
+*	Coreference T23 T24
+*	Coreference T55 T53 T26
+*	Coreference T119 T109
+*	Coreference T6 T1
+T3	Organization 57 76	UK payday loan firm
+T115	Organization 77 82	Wonga
+*	Coreference T3 T115 T40 T27 T117 T28 T78
+*	Coreference T47 T48 T49
+*	Coreference T103 T99
+*	Coreference T58 T59
+T29	Person 2399 2416	Wonga’s customers
+*	Coreference T81 T82 T97
+*	Coreference T54 T56
+T32	Course-of-Action 2234 2377	taking stock of what has been stolen or affected and making sure those who have been put at risk are notified and protected as soon as possible

@@ -1,0 +1,128 @@
+T14	Money 703 724	a few hundred dollars
+T15	Person 732 739	victims
+T46	Organization 2992 3007	An NYC hospital
+T49	Money 3033 3040	$44,000
+T50	Hacker-Group 3044 3060	SamSam operators
+T51	Attack-Pattern 3064 3121	lose access to their systems after a successful infection
+T53	Organization 3132 3148	the organization
+T55	Hacker-Group 3173 3184	 the hacker
+T28	Malware 2247 2261	The ransomware
+T30	Money 2426 2432	$4,600
+T31	Money 2399 2416	1.7 Bitcoin (BTC)
+T32	Device 2372 2379	machine
+T39	Money 2581 2588	$32,800
+T38	Money 2570 2576	12 BTC
+T35	Money 2528 2535	$16,400
+T34	Money 2521 2526	6 BTC
+T33	Device 2455 2463	machines
+T54	Attack-Pattern 2464 2492	are locked by the ransomware
+T45	Money 2661 2668	$33,000
+T43	Malware 2716 2722	SamSam
+T37	Campaign 2616 2623	attacks
+T36	Time 2604 2613	Last week
+T4	Person 91 104	their victims
+T2	Person 47 56	operators
+T1	Campaign 1 26	SamSam ransomware attacks
+T26	Person 1862 1872	the victim
+T23	Hacker-Group 1783 1793	The actors
+T21	Campaign 1063 1072	extortion
+T20	Malware 1026 1040	the ransomware
+T19	Person 1001 1018	the threat actors
+T6	Attack-Pattern 191 205	encrypts files
+T5	Attack-Pattern 167 189	locks infected systems
+T7	Malware 131 141	Ransomware
+T17	Malware 786 807	the SamSam ransomware
+T10	Organization 335 345	many firms
+T11	Organization 350 363	organizations
+T57	Vulnerability 958 971	vulnerability
+T58	System 951 957	server
+T3	Person 106 117	researchers
+T25	Malware 153 160	malware
+T8	Organization 278 288	businesses
+T42	Attack-Pattern 210 252	demands a payment in return for decryption
+T9	System 308 321	core networks
+T12	System 326 333	systems
+T59	Person 460 469	Consumers
+T60	Vulnerability 479 494	 the same issue
+T61	Person 534 550	security experts
+T62	File 626 637	 your files
+T63	File 639 645	photos
+T64	File 651 656	media
+T65	Money 579 584	funds
+T13	Money 767 775	 the fee
+T16	Person 838 857	 the average person
+T18	Malware 897 903	SamSam
+T22	Time 1086 1105	 the last few years
+T56	Malware 1147 1157	ransomware
+T66	Organization 1181 1189	 the FBI
+T67	Time 1190 1199	last year
+T68	Malware 1240 1244	MSIL
+T69	Malware 1248 1253	Samas
+T70	Malware 1255 1261	SAMSAM
+T71	System 1285 1321	 the networks of multiple US victims
+T72	Time 1333 1337	2016
+T73	Campaign 1338 1345	attacks
+T74	Organization 1349 1370	healthcare facilities
+T75	Version 1389 1406	outdated versions
+T76	Software 1409 1450	 the JBoss content management application
+T77	Organization 1452 1460	 the FBI
+T78	Malware 1468 1474	SAMSAM
+T79	System 1495 1517	Java-based Web servers
+T80	Malware 1519 1525	SAMSAM
+T81	Software 1531 1548	open-source tools
+T82	Attack-Pattern 1552 1588	identify and compile a list of hosts
+T83	Device 1583 1588	hosts
+T84	Information 1601 1631	 the victim's active directory
+T85	Hacker-Group 1640 1646	actors
+T86	File 1656 1666	psexec.exe
+T87	Malware 1680 1692	 the malware
+T88	System 1708 1720	 the network
+T89	File 1740 1750	 the files
+T90	System 1753 1764	 the system
+T91	Attack-Pattern 1652 1692	use psexec.exe to distribute the malware
+T92	Attack-Pattern 1725 1750	encrypt most of the files
+T24	Money 1820 1827	Bitcoin
+T93	Person 1888 1911	AlientVault researchers
+T94	Malware 1912 1927	 the ransomware
+T95	Campaign 1943 1961	 a targeted attack
+T96	Malware 1981 1991	ransomware
+T97	Device 2022 2029	machine
+T98	Malware 2030 2045	 the ransomware
+T99	Device 2076 2082	others
+T100	System 2085 2097	 the network
+T101	Campaign 2099 2113	SamSam attacks
+T102	Malware 2180 2192	 the malware
+T103	Device 2198 2215	multiple machines
+T104	Purpose 2217 2230	remote access
+T105	Purpose 2236 2245	tunneling
+T106	Purpose 2173 2215	running the malware over multiple machines
+T107	Attack-Pattern 2128 2148	web shell deployment
+T27	Course-of-Action 2280 2287	updated
+T29	Money 2682 2699	 a Bitcoin wallet
+T40	Malware 2730 2736	SamSam
+T41	Malware 2775 2785	ransomware
+T44	Malware 2846 2859	 this malware
+T108	Campaign 2812 2830	exploit of victims
+T109	Malware 2908 2918	ransomware
+T110	System 2937 2944	systems
+T111	Course-of-Action 2929 2989	keeping systems patched and up-to-date can prevent infection
+T47	System 3243 3266	 the hospital's systems
+T48	Malware 3290 3308	ransomware variant
+T52	Malware 3340 3348	WannaCry
+T112	Organization 3370 3379	hospitals
+T113	Organization 3384 3394	businesses
+T114	Malware 3412 3438	 the Windows-based malware
+T115	Number 3487 3494	300,000
+T116	Person 3495 3502	victims
+T117	Pronoun 2553 2557	them
+T119	Person 2839 2841	us
+T118	Organization 1766 1774	 the FBI
+T120	Malware 2477 2492	 the ransomware
+*	Coreference T66 T77 T118
+*	Coreference T85 T23
+*	Coreference T28 T102 T18 T17 T20 T56 T78 T70 T80 T69 T94 T98 T96 T120 T40 T43 T44
+*	Coreference T38 T39
+*	Coreference T34 T35
+*	Coreference T31 T30
+*	Coreference T48 T52 T114
+*	Coreference T53 T46

@@ -1,0 +1,105 @@
+T5	Campaign 108 130	2014 security incident
+T1	Hacker-Group 177 202	state-sponsored attackers
+T3	Information 153 166	user accounts
+T8	File 839 875	copies of user database backup files
+T6	Hacker-Group 814 822	attacker
+T9	Information 887 904	the personal data
+T14	Person 908 919	Yahoo users
+T15	Time 749 762	December 2014
+T13	Person 1251 1256	users
+T4	Organization 0 13	Yahoo’s board
+T12	Person 25 50	unnamed senior executives
+T16	Organization 59 69	legal team
+T17	Number 141 152	500 million
+T2	File 209 227	lengthy SEC filing
+T18	Organization 233 238	board
+T19	Time 255 264	late 2014
+T20	Organization 269 289	firm’s security team
+T21	Campaign 311 318	attacks
+T22	Number 327 329	26
+T23	Person 330 335	users
+T24	Organization 373 388	law enforcement
+T25	Course-of-Action 421 461	significant additional security measures
+T26	Campaign 494 509	those incidents
+T27	Person 530 547	senior executives
+T28	Organization 692 727	Company’s information security team
+T29	Organization 768 793	information security team
+T7	Organization 1051 1076	information security team
+T30	Attack-Pattern 827 875	exfiltrated copies of user database backup files
+T31	Campaign 1079 1113	Subsequent cookie forging activity
+T32	Time 1141 1154	2015 and 2016
+T33	Campaign 1187 1195	activity
+T10	Information 1228 1256	accounts of 32 million users
+T11	Number 1240 1250	32 million
+T34	Person 1397 1420	former CISO Alex Stamos
+T35	Organization 1430 1438	Facebook
+T36	Time 1442 1446	2015
+T37	Organization 1358 1363	Yahoo
+T38	Organization 1483 1493	businesses
+T39	Campaign 1513 1520	fallout
+T40	Person 1532 1561	General counsel and secretary
+T41	Person 1563 1574	Ronald Bell
+T42	Organization 1591 1598	company
+T43	Campaign 1618 1631	investigation
+T44	Money 1640 1653	severance pay
+T45	Person 1659 1676	CEO Marissa Meyer
+T46	Money 1696 1706	cash bonus
+T47	Time 1711 1715	2016
+T48	Person 1717 1720	She
+T49	Money 1813 1817	$10m
+T50	Money 1756 1780	2017 annual equity award
+T51	Organization 1823 1827	firm
+T52	Money 1861 1865	$16m
+T53	Campaign 1891 1913	2013 and 2014 breaches
+T54	Money 1926 1936	$5 million
+T55	Campaign 1961 1991	ongoing forensic investigation
+T56	Campaign 1996 2018	remediation activities
+T57	Money 2023 2034	$11 million
+T58	Money 2055 2079	nonrecurring legal costs
+T59	Campaign 2122 2135	investigation
+T60	Campaign 2137 2148	remediation
+T61	Campaign 2167 2175	expenses
+T62	Number 2236 2238	43
+T63	Campaign 2239 2269	consumer class action lawsuits
+T64	Organization 2315 2319	firm
+T65	Campaign 2410 2450	2013 breach of one billion user accounts
+T66	Information 2437 2450	user accounts
+T67	Campaign 2534 2543	intrusion
+T68	Campaign 2565 2570	theft
+T69	Campaign 2592 2600	incident
+T70	Campaign 2629 2651	2014 Security Incident
+T71	Time 2675 2684	last week
+T72	Organization 2658 2674	internet pioneer
+T73	Money 2694 2699	$350m
+T74	Organization 2729 2736	Verizon
+T75	Campaign 2769 2777	M&A deal
+T76	Attack-Pattern 1216 1256	exposed the accounts of 32 million users
+T77	Attack-Pattern 1861 1875	$16m in losses
+T78	Course-of-Action 2113 2176	further “investigation, remediation, legal, and other expenses”
+T79	Information 2391 2402	information
+T80	Organization 2738 2743	which
+T81	Course-of-Action 565 590	comprehend or investigate
+T82	Organization 1837 1839	it
+T83	Organization 2088 2090	it
+T84	File 400 402	It
+T85	Number 2192 2210	A large portion of
+*	Coreference T5 T70
+*	Coreference T7 T20 T28 T29
+*	Coreference T54 T57
+*	Coreference T43 T55 T59
+*	Coreference T48 T45
+*	Coreference T18 T4
+*	Coreference T2 T84
+*	Coreference T26 T21
+*	Coreference T15 T19
+*	Coreference T31 T33 T86
+T86	Campaign 1448 1450	It
+*	Coreference T40 T41
+*	Coreference T50 T49
+*	Coreference T56 T60
+*	Coreference T69 T67
+*	Coreference T65 T68
+*	Coreference T74 T80
+*	Coreference T51 T82 T83
+T87	Campaign 2211 2215	this
+*	Coreference T87 T63

@@ -1,0 +1,87 @@
+T5	Email 176 182	emails
+T6	Person 162 166	they
+T7	Software 221 233	a Google Doc
+T9	Person 261 278	someone they know
+T10	Email 301 317	malicious emails
+T11	Purpose 330 351	hijack their accounts
+T2	Information 38 53	Google accounts
+T3	Time 85 104	Wednesday afternoon
+T14	Campaign 1525 1546	the phishing campaign
+T21	Person 1630 1641	Gmail users
+T18	Organization 1272 1274	We
+T16	Course-of-Action 1309 1316	updates
+T17	Organization 1325 1338	Safe Browsing
+T13	Campaign 1394 1402	spoofing
+T12	Domain 1286 1300	the fake pages
+T1	Campaign 2 27	massive phishing campaign
+T22	System 73 81	internet
+T23	Person 114 120	people
+T24	Organization 146 156	industries
+T4	URL 213 217	link
+T8	Attack-Pattern 167 278	received emails containing what looked like a link to a Google Doc that appeared to come from someone they know
+T19	Information 343 351	accounts
+T20	Email 280 285	These
+T25	Campaign 384 390	attack
+T26	Time 397 410	at the moment
+T27	Campaign 416 418	it
+T28	Person 461 472	Reddit user
+T29	Person 523 526	you
+T30	Software 540 550	Google Doc
+T31	Person 580 583	you
+T32	URL 597 601	link
+T33	Attack-Pattern 575 760	when you click on the link, the login screen takes you to a genuine Google domain, but that domain asks you to grant access to an app called Google Docs that is not the real Google Docs
+T34	Domain 635 656	genuine Google domain
+T35	Domain 667 673	domain
+T36	Information 692 698	access
+T37	Software 705 708	app
+T38	Software 716 727	Google Docs
+T39	Software 744 760	real Google Docs
+T41	Information 803 821	email and contacts
+T42	Attack-Pattern 788 821	reads all your email and contacts
+T43	Attack-Pattern 832 870	self-propagates by sending more emails
+T44	Email 864 870	emails
+T40	Malware 770 787	"Google Docs" app
+T45	Organization 873 875	We
+T46	Software 903 915	Google Drive
+T48	Person 953 962	ourselves
+T49	Campaign 946 952	outage
+T50	Campaign 990 994	that
+T51	Campaign 1013 1019	attack
+T52	Attack-Pattern 903 924	Google Drive was down
+T53	Attack-Pattern 930 952	experienced the outage
+T54	Software 1064 1069	Drive
+T55	Person 1102 1104	We
+T57	Person 1134 1139	users
+T58	Campaign 1151 1182	email impersonating Google Docs
+T59	Information 1202 1220	offending accounts
+T60	Organization 1223 1229	Google
+T62	Organization 1258 1269	Motherboard
+T63	Person 1438 1443	users
+T64	Course-of-Action 1278 1300	removed the fake pages
+T15	Organization 1348 1358	abuse team
+T65	Organization 1425 1427	We
+T66	Email 1463 1469	emails
+T67	Software 1473 1478	Gmail
+T69	Organization 1508 1514	Google
+T70	Time 1559 1587	within approximately an hour
+T71	Campaign 1598 1600	it
+T72	Number 1611 1626	fewer than 0.1%
+T73	Number 1650 1654	that
+T74	Software 1684 1689	Gmail
+T75	Number 1701 1710	1 billion
+T76	Person 1711 1716	users
+T77	Number 1738 1749	one million
+T78	Person 1750 1757	victims
+T79	Person 626 629	you
+T83	Person 679 682	you
+*	Coreference T67 T74
+*	Coreference T23 T6
+*	Coreference T27 T25 T51
+*	Coreference T79 T31 T83
+*	Coreference T37 T38
+*	Coreference T30 T39 T7
+*	Coreference T48 T45
+*	Coreference T50 T49
+*	Coreference T65 T18 T60 T69
+*	Coreference T71 T14
+T47	Course-of-Action 1110 1220	taken action to protect users against an email impersonating Google Docs, and have disabled offending accounts

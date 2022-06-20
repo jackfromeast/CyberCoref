@@ -1,0 +1,131 @@
+T1	Campaign 28 48	 a ransomware attack
+T3	Location 74 82	Taranaki
+T4	System 92 110	school assessments
+T2	Organization 52 70	Hāwera High School
+T5	File 0 25	Files that were scrambled
+T6	Campaign 341 361	being held to ransom
+T7	Money 366 373	US$5000
+T8	Person 377 384	hackers
+T9	Organization 321 331	the school
+T11	Campaign 994 1003	demanding
+T16	Organization 923 941	Hāwera High School
+T17	Person 914 919	staff
+T12	Money 1004 1011	US$5000
+T13	Money 1013 1020	NZ$7352
+T15	System 1069 1077	a server
+T18	Campaign 1900 1921	the ransomware attack
+T19	System 1945 1952	servers
+T20	Organization 1956 1966	the school
+T21	Person 1990 2001	the hackers
+T25	Campaign 2831 2834	pay
+T24	Organization 2786 2796	the school
+T23	Campaign 2711 2726	can pay ransoms
+T22	Organization 2703 2710	schools
+T10	Campaign 808 816	phishing
+T14	Time 2735 2739	2017
+T26	Time 3183 3199	 the end of 2013
+T27	Malware 2526 2538	 the malware
+T28	Malware 3260 3267	viruses
+T29	Malware 3272 3279	malware
+T30	Number 3252 3259	118,000
+T31	System 1477 1484	network
+T32	Number 626 633	800,000
+T33	Number 604 613	 The 2450
+T34	Organization 614 621	schools
+T35	Organization 634 642	students
+T36	Time 586 603	October next year
+T37	Organization 390 414	 the Crown-owned company
+T38	Organization 703 731	Californian company Fortinet
+T39	Person 1788 1796	Williams
+T40	System 2187 2212	 their cloud-based system
+T41	Course-of-Action 3050 3073	 its technology upgrade
+T42	Organization 1452 1454	we
+T43	Organization 1502 1504	we
+T44	Campaign 2992 2994	It
+T45	Organization 834 836	it
+T46	Person 1778 1780	he
+T47	Organization 3025 3027	we
+T48	Organization 1356 1358	We
+T49	Organization 2004 2006	We
+T50	Organization 2740 2742	it
+T51	Person 2158 2162	they
+T52	Campaign 1578 1580	it
+T53	Person 2919 2921	we
+T54	Campaign 2765 2767	it
+T55	Person 2438 2441	she
+T56	Organization 2094 2096	we
+T57	Person 2875 2878	you
+T58	Organization 3011 3013	us
+T59	Person 2490 2493	she
+T60	Person 1436 1438	he
+T61	Organization 3128 3130	it
+T62	Organization 3320 3322	it
+T64	Organization 2315 2317	we
+T65	Campaign 291 293	it
+T66	Person 1583 1585	he
+T67	Campaign 217 221	help
+T68	Organization 386 389	N4L
+T63	Organization 535 538	its
+T69	Campaign 784 798	online threats
+T70	Campaign 821 831	ransomware
+T71	Time 895 908	 the same day
+T72	Time 867 873	Monday
+T73	Person 954 959	their
+T74	Information 1061 1065	data
+T75	Information 1089 1126	students' work and teaching resources
+T76	Organization 1130 1148	Hāwera High School
+T77	Organization 1189 1192	N4L
+T78	Organization 1198 1201	N4L
+T79	Person 1198 1217	N4L chief executive
+T80	Person 1218 1230	Larrie Moore
+T81	Organization 1235 1246	 the school
+T82	Organization 1264 1267	N4L
+T83	Organization 1380 1391	 the school
+T84	Organization 1396 1401	their
+T85	Person 1596 1601	Moore
+T86	Malware 1640 1647	malware
+T87	Person 181 196	Rachel Williams
+T88	Organization 1810 1813	its
+T89	Person 1809 1835	 its students and teachers
+T90	Person 1850 1855	their
+T91	Person 2061 2078	student and staff
+T92	Person 2110 2118	students
+T93	Person 2188 2193	their
+T94	Campaign 2249 2263	 an assessment
+T95	Campaign 2273 2278	those
+T96	Campaign 2331 2336	those
+T97	Organization 2352 2363	 The school
+T98	Person 2398 2413	 those students
+T99	Person 2219 2227	students
+T100	Person 2448 2454	Others
+T101	File 2459 2466	backups
+T102	Person 2501 2509	Williams
+T103	Organization 2553 2564	 the school
+T104	Organization 2607 2622	 The Government
+T105	Person 2772 2780	Williams
+T106	Person 2955 2973	staff and students
+T107	Person 2976 2984	Williams
+T108	Organization 3042 3045	N4L
+T109	Organization 3110 3113	its
+T110	Organization 3051 3054	its
+T111	Organization 3201 3204	Its
+*	Coreference T7 T12 T13
+*	Coreference T8 T21
+*	Coreference T22 T20 T24 T2 T16 T76 T81 T83 T84 T88 T49 T56 T64 T97 T103 T53
+*	Coreference T27 T1 T18 T86
+*	Coreference T67 T65
+*	Coreference T69 T10 T70
+*	Coreference T38 T45
+*	Coreference T72 T71
+*	Coreference T17 T73
+*	Coreference T74 T75
+*	Coreference T79 T80 T60 T66 T85 T46
+*	Coreference T11 T52
+*	Coreference T87 T39 T55 T59 T102 T105 T107
+*	Coreference T89 T90 T91
+*	Coreference T92 T51 T93
+*	Coreference T94 T95 T96
+*	Coreference T99 T98 T100
+*	Coreference T104 T50
+*	Coreference T23 T54
+*	Coreference T58 T47 T108 T42 T43 T68 T37 T63 T77 T78 T82 T48 T109 T110 T61 T62 T111

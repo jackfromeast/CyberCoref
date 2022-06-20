@@ -1,0 +1,99 @@
+T12	Person 621 638	the extortionists
+T39	Attack-Pattern 575 591	be leaked online
+T11	Campaign 519 528	blackmail
+T10	Hacker-Group 510 517	hackers
+T24	Campaign 1568 1574	a hack
+T23	Campaign 1586 1598	being stolen
+T25	Information 1578 1585	a movie
+T7	Organization 185 191	Disney
+T8	Organization 170 179	companies
+T18	Campaign 945 956	have stolen
+T19	Hacker-Group 922 933	the hackers
+T20	Information 916 921	movie
+T21	Campaign 1498 1509	been stolen
+T22	Information 1481 1488	a movie
+T27	Campaign 1847 1853	stolen
+T26	Information 1830 1837	a movie
+T2	Information 132 153	intellectual property
+T3	Attack-Pattern 92 110	break into systems
+T4	Hacker-Group 74 81	hackers
+T30	Campaign 2015 2031	extortion demand
+T32	Organization 1999 2003	they
+T31	Organization 1964 1973	companies
+T33	Campaign 2090 2101	been stolen
+T35	Information 2071 2085	sensitive data
+T34	Hacker-Group 2105 2112	hackers
+T36	Information 2046 2067	intellectual property
+T29	Person 1898 1915	the extortionists
+T37	Campaign 2380 2383	pay
+T38	Hacker-Group 2384 2397	the criminals
+T15	Hacker-Group 784 791	hackers
+T14	Attack-Pattern 801 850	threatening to release one of the studio’s movies
+T16	Organization 735 746	Walt Disney
+T17	Person 749 761	CEO Bob Iger
+T41	Money 202 214	$230 million
+T42	Organization 27 34	company
+T1	Hacker-Group 314 321	hackers
+T5	Person 1447 1459	Disney’s CEO
+T6	Organization 1432 1445	Yahoo Finance
+T43	Hacker-Group 2469 2476	hackers
+T44	Campaign 2639 2657	high profile hacks
+T45	Purpose 2675 2733	trick you into believing your company is the latest victim
+T40	Campaign 2225 2240	security breach
+T46	System 2293 2300	systems
+T47	Organization 1600 1602	We
+T48	Person 2167 2170	you
+T52	Person 2429 2432	you
+T53	Hacker-Group 2487 2491	they
+T54	Organization 1549 1551	We
+T55	Organization 1717 1719	We
+T56	Organization 1859 1861	it
+T57	Organization 1700 1702	us
+T60	Campaign 1619 1621	it
+T63	Person 2437 2440	you
+T64	Person 2681 2684	you
+T65	Organization 1529 1531	we
+T67	Person 2797 2800	you
+*	Coreference T12 T29
+*	Coreference T21 T27 T18 T33 T23
+*	Coreference T2 T36
+T68	System 103 110	systems
+*	Coreference T8 T7 T16 T65 T54 T47 T57 T55 T76 T56
+*	Coreference T4 T1 T10 T15 T19 T75 T34 T38 T43 T53 T79
+T49	Money 547 553	ransom
+T9	Information 562 567	movie
+T69	Information 268 273	movie
+T70	Campaign 348 355	threats
+T71	Information 651 667	copy of the film
+T72	Information 378 394	copy of the film
+*	Coreference T72 T71
+T66	Information 824 850	one of the studio’s movies
+T73	Money 878 884	ransom
+*	Coreference T49 T73 T28
+T13	Person 895 899	Iger
+*	Coreference T17 T13 T5
+T51	Information 1015 1063	Pirates of the Caribbean: Dead Men Tell No Tales
+*	Coreference T69 T9 T66 T20 T51 T74 T61 T22 T25 T26
+T74	Information 1085 1097	hacked movie
+T61	Information 1369 1400	Pirates of the Caribbean” movie
+*	Coreference T24 T60 T59
+T75	Hacker-Group 1673 1679	person
+T59	Campaign 1739 1741	it
+T76	Organization 1788 1794	Disney
+T28	Money 1881 1887	ransom
+T58	Campaign 1930 1936	itself
+T62	Campaign 1947 1953	lesson
+*	Coreference T58 T62
+T77	Campaign 2128 2135	threats
+T50	Campaign 2413 2420	threats
+*	Coreference T77 T50 T70
+*	Coreference T48 T52 T63 T64 T67 T84
+T78	Organization 2313 2337	law enforcement agencies
+T79	Hacker-Group 2586 2599	extortionists
+T80	Organization 2705 2712	company
+T81	Organization 2720 2733	latest victim
+*	Coreference T81 T80 T31 T32 T82
+T82	Organization 2762 2769	company
+T83	Campaign 2781 2787	threat
+T84	Person 2812 2820	yourself
+*	Coreference T68 T46

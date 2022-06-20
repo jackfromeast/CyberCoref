@@ -1,0 +1,17 @@
+T12	Campaign 20 43	cyber security breaches
+T13	Organization 51 72	all online businesses
+T5	Campaign 97 104	exposed
+T6	Information 88 96	accounts
+T4	Time 111 115	2016
+T2	Information 159 167	accounts
+T10	Campaign 228 235	attacks
+T9	Time 258 267	this year
+T8	Money 186 198	$400 billion
+T11	Organization 247 257	industries
+T14	Money 326 339	$2.1 Trillion
+T15	Time 343 347	2019
+T1	Number 15 19	980+
+*	Coreference T6 T2
+*	Coreference T13 T11
+T3	Money 290 296	losses
+*	Coreference T14 T3

@@ -1,0 +1,84 @@
+T2	Vulnerability 83 127	zero-day remote code execution vulnerability
+T3	Domain 25 63	open source Magento ecommerce platform
+T5	Vulnerability 272 285	vulnerability
+T6	Organization 205 230	security firm DefenseCode
+T7	Organization 289 296	Magento
+T8	Time 300 308	November
+T10	Vulnerability 369 392	high risk vulnerability
+T13	Person 322 336	security audit
+T46	Organization 340 365	Magento Community Edition
+T19	Organization 815 822	Magento
+T20	Person 734 763	information security engineer
+T21	Time 839 852	November 2016
+T47	Organization 767 778	DefenseCode
+T48	Person 717 732	Bosko Stankovic
+T50	Vulnerability 1109 1122	vulnerability
+T26	Vulnerability 1338 1342	flaw
+T25	Organization 1299 1306	Magento
+T28	Vulnerability 1468 1482	reported issue
+T29	Organization 1410 1412	We
+T35	Organization 1698 1708	Threatpost
+T34	Vulnerability 1734 1769	remote code execution vulnerability
+T38	Software 1800 1818	Community software
+T37	Version 1775 1795	Magento 2 Enterprise
+T51	Time 1687 1696	Yesterday
+T40	Vulnerability 1943 1957	reported issue
+T41	Organization 1821 1828	Magento
+T43	Course-of-Action 2190 2206	our next release
+T44	Time 2220 2229	early May
+T45	Vulnerability 2155 2168	vulnerability
+T15	Course-of-Action 898 918	four version updates
+T17	Vulnerability 858 871	vulnerability
+T23	Vulnerability 1178 1191	vulnerability
+T31	Organization 1529 1531	We
+T32	Vulnerability 1555 1560	issue
+T33	Course-of-Action 1564 1586	our next patch release
+T52	Version 10 17	version
+T1	Purpose 92 113	remote code execution
+T53	Number 148 155	200,000
+T54	Person 156 172	online retailers
+T4	Attack-Pattern 427 448	remote code execution
+T9	System 471 477	system
+T11	Software 503 511	database
+T12	Information 523 553	sensitive customer information
+T55	Information 569 588	credit card numbers
+T56	Information 599 618	payment information
+T57	Organization 621 632	DefenseCode
+T58	Time 696 705	Wednesday
+T59	File 673 688	discovery (PDF)
+T14	Organization 941 952	DefenseCode
+T16	Version 969 987	Magento Enterprise
+T18	Version 993 1011	commercial version
+T60	Domain 1019 1027	platform
+T61	Vulnerability 1044 1085	share the same underlying vulnerable code
+T62	Code 1059 1085	underlying vulnerable code
+T22	Vulnerability 1223 1225	it
+T49	Hacker-Group 1263 1280	potential hackers
+T63	Person 1283 1292	Stankovic
+T24	Organization 1367 1377	Threatpost
+T64	Organization 1387 1389	it
+T27	Course-of-Action 1432 1460	investigating the root cause
+T65	Campaign 1508 1515	attacks
+T30	Organization 1658 1665	Magento
+T36	Course-of-Action 1845 1884	delivering superior security to clients
+T66	Person 1877 1884	clients
+T39	Campaign 1983 1990	attacks
+T67	Organization 1959 1961	We
+T68	Attack-Pattern 2004 2028	Admin access is required
+T69	Code 2044 2051	exploit
+T70	Organization 2067 2069	we
+T42	Campaign 2324 2331	attacks
+T71	Course-of-Action 2256 2301	enforcing the use of “Add Secret Key to URLs”
+T72	Organization 2243 2245	we
+T73	Person 2080 2083	you
+*	Coreference T8 T21
+*	Coreference T48 T63 T20
+*	Coreference T37 T16
+*	Coreference T41 T7 T25 T30 T19 T29 T31 T67 T70 T72
+*	Coreference T43 T33
+*	Coreference T1 T4
+*	Coreference T47 T14 T57 T6
+*	Coreference T65 T42 T39
+*	Coreference T10 T22 T45 T17 T50 T23 T5 T2 T26 T28 T32
+*	Coreference T24 T64
+*	Coreference T40 T34

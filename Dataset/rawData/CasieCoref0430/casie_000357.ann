@@ -1,0 +1,67 @@
+T1	Campaign 29 47	ransomware attacks
+T4	Time 48 57	last year
+T2	Money 85 91	$2,500
+T9	Money 75 81	ransom
+T2	Money 85 91	$2,500
+T7	Information 928 944	exfiltrated data
+T8	Device 949 969	 the infected device
+T13	Campaign 137 148	 the attack
+T3	Organization 4 19	average company
+T10	Number 24 28	four
+T11	Campaign 96 104	incident
+T12	Time 116 124	42 hours
+T14	Purpose 59 104	paid an average ransom of $2,500 per incident
+T15	Campaign 180 202	 the ransomware threat
+T16	Person 210 225	Norman Guadagno
+T17	Person 227 256	chief evangelist at Carbonite
+T18	Software 273 315	continuous automated cloud backup services
+T19	Person 320 325	those
+T20	Number 346 356	42 percent
+T21	File 394 400	backup
+T22	Number 426 436	13 percent
+T23	Malware 472 482	ransomware
+T24	Person 496 502	People
+T25	Information 562 571	passwords
+T26	Course-of-Action 525 571	back up, have anti-virus, use strong passwords
+T27	Person 580 584	they
+T28	Person 604 612	Guadagno
+T29	Number 619 629	46 percent
+T30	Person 633 644	respondents
+T32	Campaign 669 687	ransomware attacks
+T31	Course-of-Action 655 687	prevention of ransomware attacks
+T33	Organization 711 725	 their company
+T34	Person 752 756	they
+T35	Hacker-Group 768 780	 the hackers
+T36	Person 798 802	them
+T37	Campaign 816 827	 the survey
+T38	Number 829 839	55 percent
+T39	Organization 843 852	companies
+T40	Organization 858 862	they
+T5	Malware 907 922	 the ransomware
+T6	Organization 971 981	Businesses
+T41	Course-of-Action 998 1115	have anti-virus in place to keep ransomware from getting in, but also train their employees to spot potential attacks
+T42	Software 1003 1013	anti-virus
+T43	Malware 1031 1041	ransomware
+T44	Person 1073 1089	 their employees
+T45	Campaign 1098 1115	potential attacks
+T46	Campaign 1129 1140	 the survey
+T47	Number 1147 1157	29 percent
+T48	Person 1161 1172	respondents
+T49	Person 1178 1182	they
+T50	Person 1202 1218	 their employees
+T51	Course-of-Action 1225 1252	detect risky links or sites
+T53	Domain 1247 1252	sites
+T52	URL 1238 1243	links
+T54	Hacker-Group 1301 1315	cybercriminals
+T55	Time 1316 1326	these days
+T56	Organization 151 153	We
+T63	Person 509 510	I
+T67	Person 516 517	I
+*	Coreference T1 T13 T15
+*	Coreference T16 T28 T17
+*	Coreference T40 T39
+*	Coreference T9 T2
+*	Coreference T27 T24 T63 T67
+*	Coreference T36 T34 T30
+*	Coreference T48 T49
+*	Coreference T46 T37

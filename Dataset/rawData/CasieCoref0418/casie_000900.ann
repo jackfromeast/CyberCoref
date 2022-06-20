@@ -1,0 +1,89 @@
+T4	Course-of-Action 153 156	fix
+T5	Vulnerability 157 181	security vulnerabilities
+T3	Course-of-Action 140 147	patches
+T2	Course-of-Action 30 47	a security bugfix
+T1	Device 52 68	Mikrotik routers
+T21	Vulnerability 113 130	a working exploit
+T10	Course-of-Action 1696 1703	patched
+T12	Organization 1675 1683	Mikrotik
+T11	Vulnerability 1704 1732	Tenable’s now-disclosed bugs
+T13	Vulnerability 1741 1754	CVE-2018-1156
+T14	Vulnerability 1756 1761	-1157
+T15	Vulnerability 1763 1768	-1158
+T16	Vulnerability 1773 1778	-1159
+T17	Course-of-Action 1799 1835	the latest Mikrotik firmware updates
+T18	Version 1848 1854	6.40.9
+T19	Version 1856 1862	6.42.7
+T20	Version 1866 1870	6.43
+T9	Person 824 844	security researchers
+T8	Vulnerability 899 919	Mikrotik router bugs
+T6	Organization 848 855	Tenable
+T7	Vulnerability 2430 2444	CVE-2018-14847
+T22	Vulnerability 2448 2461	CVE-2018-1156
+T23	Vulnerability 2467 2475	RCE flaw
+T24	Vulnerability 2150 2189	unauthenticated password disclosure bug
+T25	Vulnerability 2232 2271	authenticated remote code execution bug
+T26	Course-of-Action 2115 2122	patches
+T27	Person 1965 1978	Mikrotik user
+T28	Course-of-Action 2072 2077	patch
+T29	Version 1919 1951	previous or pre-previous version
+T30	Information 1464 1472	username
+T31	Information 1477 1485	password
+T32	System 1542 1548	system
+T33	Attack-Pattern 1167 1188	Remote Code Execution
+T34	Vulnerability 1190 1204	Tenable’s bugs
+T35	Vulnerability 421 435	CVE-2018-14847
+T36	Vulnerability 1237 1266	authenticated vulnerabilities
+T37	Information 612 631	plaintext passwords
+T38	Time 396 407	August 2018
+T39	Software 1019 1026	program
+T40	Device 1082 1088	router
+T41	Device 535 541	device
+T42	File 557 570	password file
+T43	Device 460 485	unpatched Microtik router
+T44	Vulnerability 224 237	vulnerability
+T45	Vulnerability 355 368	vulnerability
+T46	Hacker-Group 1282 1285	you
+T47	Person 790 792	we
+T49	Person 1790 1793	you
+T50	Person 1526 1529	you
+T51	Person 1445 1448	you
+T52	Vulnerability 1343 1347	them
+T54	Person 2033 2036	you
+T55	Vulnerability 291 293	it
+T56	Person 2013 2016	you
+T57	Vulnerability 985 989	them
+*	Coreference T18 T19 T20 T29
+*	Coreference T22 T7 T35 T13 T16 T14 T15 T23
+*	Coreference T28 T26
+*	Coreference T5 T44 T55 T45
+T53	Time 8 14	August
+*	Coreference T53 T38 T62
+T58	Hacker-Group 439 444	crook
+T59	Information 507 527	contents of any file
+*	Coreference T59 T42 T60 T37
+T60	Information 589 602	password file
+T61	Person 15 17	we
+*	Coreference T61 T47
+T62	Time 933 942	same time
+T63	Vulnerability 944 954	These bugs
+*	Coreference T63 T8 T57 T66 T11 T34 T36 T52 T68
+T64	Hacker-Group 1030 1035	their
+T65	Hacker-Group 999 1007	attacker
+*	Coreference T65 T64 T46
+*	Coreference T41 T43 T1
+T66	Vulnerability 1103 1107	hole
+T67	Attack-Pattern 1152 1155	RCE
+*	Coreference T67 T33
+T68	Vulnerability 1349 1363	Security holes
+T69	Information 1501 1513	access token
+*	Coreference T30 T69 T31
+*	Coreference T51 T50 T70
+T70	Person 1557 1560	you
+*	Coreference T10 T17
+T48	Person 1893 1896	you
+*	Coreference T48 T49
+T71	Person 1956 1959	you
+*	Coreference T71 T27 T56 T54 T72 T73
+T72	Person 2079 2082	you
+T73	Person 2132 2135	you

@@ -1,0 +1,127 @@
+T13	Organization 1541 1555	Larson Studios
+T11	Time 1502 1516	Late last year
+T12	Hacker-Group 1518 1533	TheDarkOverlord
+T14	File 1592 1597	files
+T18	Organization 1859 1866	Netflix
+T22	Organization 2697 2704	Netflix
+T23	Organization 2709 2723	Larson Studios
+T24	Attack-Pattern 2756 2789	were not infected with Ransomware
+T25	Organization 2751 2755	they
+T6	Organization 363 370	Netflix
+T15	Campaign 1780 1801	the extortion demands
+T16	Organization 1746 1760	Larson Studios
+T7	Person 1289 1296	Victims
+T8	Attack-Pattern 1219 1262	Ransomware encrypts the files on a computer
+T28	Time 9 16	weekend
+T29	Hacker-Group 20 26	hacker
+T30	Hacker-Group 36 51	TheDarkOverlord
+T32	Organization 157 164	Netflix
+T33	Time 196 200	June
+T31	Number 104 108	five
+T34	Time 204 220	short time later
+T35	Hacker-Group 222 237	TheDarkOverlord
+T36	Number 256 257	2
+T37	Number 265 267	10
+T38	Attack-Pattern 282 316	warning to other Hollywood studios
+T39	Organization 299 316	Hollywood studios
+T40	Organization 319 322	you
+T41	Organization 336 341	media
+T42	Campaign 356 361	story
+T43	Campaign 141 153	popular show
+T4	Information 400 415	leaked episodes
+T5	Course-of-Action 446 486	proper law enforcement had been notified
+T44	Organization 499 506	company
+T45	Number 515 522	several
+T46	Organization 523 533	TV studios
+T47	Organization 570 577	company
+T48	Organization 591 605	Larson Studios
+T49	Number 643 651	a number
+T50	Organization 725 745	Arrested Development
+T51	Organization 700 719	Designated Survivor
+T52	Organization 682 698	NCIS Los Angeles
+T53	Organization 760 774	Larson Studios
+T54	Organization 776 780	they
+T55	Organization 798 801	FOX
+T56	Organization 803 810	Netflix
+T57	Organization 812 815	ABC
+T58	Organization 817 820	NBC
+T59	Organization 822 825	IFC
+T60	Organization 827 835	Showtime
+T61	Organization 841 845	more
+T62	Organization 858 865	Netflix
+T63	Campaign 868 884	security problem
+T65	Campaign 940 948	incident
+T66	Campaign 956 974	Sony Pictures hack
+T67	Campaign 983 996	medical hacks
+T64	Organization 904 916	news outlets
+T68	Campaign 1067 1071	they
+T69	Campaign 1096 1102	threat
+T70	Organization 1104 1111	Netflix
+T71	Campaign 1126 1145	Ransomware incident
+T72	Organization 1163 1177	Larson Studios
+T2	File 1185 1190	files
+T1	Malware 1219 1229	Ransomware
+T73	File 1243 1248	files
+T74	Device 1254 1262	computer
+T75	File 1275 1279	them
+T76	Purpose 1267 1287	renders them useless
+T77	File 1313 1318	files
+T78	Money 1338 1344	ransom
+T3	Money 1333 1336	fee
+T79	Person 1322 1326	they
+T80	Person 1350 1354	they
+T81	File 1379 1384	files
+T83	Hacker-Group 1412 1427	TheDarkOverlord
+T84	Organization 1429 1443	Larson Studios
+T85	Organization 1465 1469	they
+T86	Number 1582 1588	number
+T87	Organization 1477 1500	post-production company
+T9	Attack-Pattern 1560 1597	downloaded an unknown number of files
+T10	Number 1599 1605	Plenty
+T88	Person 1609 1618	reporters
+T89	Hacker-Group 1624 1639	TheDarkOverlord
+T90	Organization 1653 1662	Hollywood
+T91	Time 1679 1686	weekend
+T92	Time 1727 1739	a few months
+T93	Hacker-Group 1803 1818	TheDarkOverlord
+T94	Organization 1845 1852	Netflix
+T17	Number 1890 1894	five
+T95	Number 1902 1907	three
+T96	Attack-Pattern 1883 1972	season five (minus three episodes) of "Orange is the New Black" was released for download
+T98	Organization 2006 2013	Netflix
+T99	Money 2047 2052	money
+T100	Money 2082 2094	modest offer
+T101	Hacker-Group 2100 2102	We
+T102	Hacker-Group 2152 2154	We
+T103	Organization 2147 2150	you
+T104	Hacker-Group 2263 2293	reasonable and merciful entity
+T105	Hacker-Group 2311 2326	TheDarkOverlord
+T107	Organization 2165 2183	pragmatic business
+T108	Organization 2192 2202	yourselves
+T109	Organization 2349 2356	Netflix
+T110	Money 2367 2379	$2.5 billion
+T111	Time 2414 2421	Q1 2017
+T112	Number 2433 2445	five million
+T113	Person 2446 2453	members
+T114	Organization 2463 2478	subscriber base
+T20	Domain 2535 2538	web
+T115	Campaign 2625 2633	incident
+T116	Campaign 2647 2656	extortion
+T117	Malware 2661 2671	Ransomware
+T118	Number 2676 2679	two
+T21	Malware 2779 2789	Ransomware
+T26	File 2824 2829	files
+T27	Campaign 2851 2857	lesson
+T119	Hacker-Group 2873 2886	Third-parties
+T120	Organization 2926 2938	organization
+T121	Organization 2974 2983	Hollywood
+T124	Pronoun 2562 2564	it
+T130	Person 2015 2018	You
+*	Coreference T44 T47
+*	Coreference T22 T109 T62 T18 T6 T56 T94 T98 T70 T32
+*	Coreference T75 T77 T2 T73 T81
+*	Coreference T7 T80 T79
+*	Coreference T72 T53 T25 T85 T84 T16 T23 T48 T13 T54
+*	Coreference T3 T78
+*	Coreference T101 T102 T105
+*	Coreference T90 T121 T39

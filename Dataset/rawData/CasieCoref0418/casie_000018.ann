@@ -1,0 +1,106 @@
+T18	System 2371 2387	operating system
+T16	Course-of-Action 2410 2425	pick up the fix
+T24	Software 18 25	Systemd
+T23	Vulnerability 2 14	security bug
+T25	System 52 59	network
+T26	Device 104 117	Linux machine
+T27	Attack-Pattern 133 155	execute malicious code
+T1	Vulnerability 555 568	vulnerability
+T3	Time 593 602	this week
+T4	System 617 655	the written-from-scratch DHCPv6 client
+T5	System 659 699	the open-source Systemd management suite
+T8	Software 1189 1206	the DHCPv6 client
+T6	System 1124 1140	systemd-networkd
+T9	Attack-Pattern 1327 1365	corrupt heap memory on client machines
+T10	Purpose 1380 1399	a denial of service
+T29	Purpose 1403 1427	potential code execution
+T22	Organization 1447 1471	the Google Security team
+T20	Vulnerability 1507 1511	flaw
+T21	Vulnerability 1524 1538	CVE-2018-15688
+T28	Person 1429 1442	Felix Wilhelm
+T14	Person 2129 2163	Systemd creator Lennart Poettering
+T11	Course-of-Action 2188 2200	security fix
+T12	Device 163 166	box
+T30	Vulnerability 172 176	flaw
+T31	Device 192 223	Systemd-powered Linux computers
+T32	Code 251 267	systemd-networkd
+T33	Vulnerability 273 297	risk of remote hijacking
+T34	Attack-Pattern 299 333	maliciously crafted DHCPv6 packets
+T35	Code 357 375	programming cockup
+T36	Attack-Pattern 380 436	arbitrarily change parts of memory in vulnerable systems
+T37	Purpose 449 473	potential code execution
+T38	System 418 436	vulnerable systems
+T39	Code 480 484	code
+T40	Attack-Pattern 491 534	install malware, spyware, and other nasties
+T41	Malware 499 506	malware
+T42	Malware 508 515	spyware
+T43	Malware 527 534	nasties
+T2	Attack-Pattern 710 745	built into various flavors of Linux
+T44	System 740 745	Linux
+T45	Software 752 758	client
+T46	Attack-Pattern 762 812	activated automatically if IPv6 support is enabled
+T47	Software 866 885	rogue DHCPv6 server
+T48	System 891 898	network
+T49	System 909 912	ISP
+T50	Attack-Pattern 920 972	emit specially crafted router advertisement messages
+T51	Attack-Pattern 978 999	wake up these clients
+T52	Software 992 999	clients
+T53	Vulnerability 1013 1016	bug
+T54	Purpose 1031 1088	hijack or crash vulnerable Systemd-powered Linux machines
+T55	Device 1058 1088	Systemd-powered Linux machines
+T7	Attack-Pattern 1161 1185	out-of-bounds heap write
+T56	Software 1245 1266	adjacent DHCP servers
+T57	Hacker-Group 1270 1278	attacker
+T58	Vulnerability 1293 1297	this
+T59	Software 1302 1323	malicious DHCP server
+T60	Device 1350 1365	client machines
+T19	Person 1540 1547	Wilhelm
+T61	Attack-Pattern 1561 1600	specially crafted DHCPv6 network packet
+T62	Attack-Pattern 1618 1679	very powerful and largely controlled out-of-bounds heap write
+T63	Hacker-Group 1707 1720	remote hacker
+T64	Purpose 1724 1747	inject and execute code
+T65	Vulnerability 1754 1762	overflow
+T66	Device 1813 1826	DHCPv6 server
+T67	Attack-Pattern 1834 1866	server-id >= 493 characters long
+T68	System 1899 1905	Ubuntu
+T69	System 1910 1934	Red Hat Enterprise Linux
+T70	Software 1936 1943	Systemd
+T71	Software 1966 1981	service manager
+T72	System 1986 1992	Debian
+T73	System 1994 2000	Fedora
+T74	System 2002 2008	CoreOS
+T75	System 2010 2014	Mint
+T76	Software 2020 2048	SUSE Linux Enterprise Server
+T77	System 2061 2067	RHEL 7
+T78	Software 2096 2116	vulnerable component
+T13	Software 2209 2229	vulnerable component
+T79	System 2301 2327	Systemd-based Linux system
+T80	Software 2341 2357	systemd-networkd
+T17	Course-of-Action 2359 2387	update your operating system
+T15	Vulnerability 2463 2466	bug
+T81	Software 2505 2512	Systemd
+T82	Software 2520 2541	Linux management tool
+T83	Person 2589 2595	admins
+T84	Person 2600 2610	developers
+T85	Time 2655 2670	in recent years
+T86	Software 2694 2696	it
+T87	System 2756 2761	Linux
+T88	Software 2810 2817	Systemd
+T89	Software 2880 2884	tool
+T90	Person 2822 2832	Poettering
+T91	Person 2050 2052	We
+*	Coreference T29 T37 T64
+*	Coreference T28 T19 T96 T91
+*	Coreference T31 T26 T55 T79
+*	Coreference T34 T61
+*	Coreference T44 T87
+*	Coreference T45 T52 T4 T8
+*	Coreference T53 T15 T20 T30 T23 T33 T1 T58 T21 T65
+*	Coreference T56 T47 T59 T66
+*	Coreference T78 T13
+*	Coreference T38 T25
+*	Coreference T62 T9 T7
+*	Coreference T63 T57
+T96	Person 1869 1876	Wilhelm
+*	Coreference T16 T11
+*	Coreference T86 T82 T32 T24 T6 T70 T80 T81 T88 T89

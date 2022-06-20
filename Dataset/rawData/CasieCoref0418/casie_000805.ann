@@ -1,0 +1,113 @@
+T26	Campaign 910 919	exists in
+T36	Vulnerability 728 746	The first zero-day
+T37	Vulnerability 748 761	CVE-2018-8373
+T34	Attack-Pattern 769 806	result in remote code-execution (RCE)
+T35	Attack-Pattern 811 857	grants the same privileges as a logged-in user
+T33	Vulnerability 892 909	The vulnerability
+T32	Software 920 924	IE 9
+T67	Version 926 928	10
+T68	Version 933 935	11
+T39	Campaign 937 946	impacting
+T38	System 951 976	Windows operating systems
+T40	System 982 993	Server 2008
+T41	System 997 1007	Windows 10
+T30	Campaign 702 711	disclosed
+T27	Vulnerability 626 645	two exploited flaws
+T28	Vulnerability 647 660	CVE-2018-8373
+T31	Person 715 726	researchers
+T29	Vulnerability 665 678	CVE-2018-8414
+T42	Campaign 1098 1107	exists on
+T44	Attack-Pattern 1039 1092	enables RCE with the privileges of the logged-in user
+T43	Vulnerability 1020 1033	CVE-2018-8414
+T45	System 1108 1118	Windows 10
+T46	System 1155 1166	Server 1709
+T47	System 1171 1182	Server 1803
+T66	Version 1119 1142	versions 1703 and newer
+T48	Campaign 1233 1242	disclosed
+T49	Vulnerability 1185 1217	The two zero-day vulnerabilities
+T69	Campaign 1247 1256	exploited
+T50	Campaign 1384 1393	exists in
+T52	Vulnerability 1363 1378	a vulnerability
+T51	Vulnerability 1346 1359	CVE-2018-8373
+T53	Software 1457 1474	Internet Explorer
+T56	Campaign 1519 1525	exists
+T57	System 1531 1548	the Windows Shell
+T54	Vulnerability 1490 1518	code-execution vulnerability
+T55	Vulnerability 1476 1489	CVE-2018-8414
+T58	Campaign 1604 1610	issued
+T59	Organization 1589 1598	Microsoft
+T60	Course-of-Action 1611 1616	fixes
+T61	Vulnerability 1621 1636	security issues
+T62	Campaign 2171 2179	released
+T65	Course-of-Action 2163 2170	updates
+T63	System 2184 2200	Windows desktops
+T64	System 2205 2212	servers
+T8	Organization 115 124	Microsoft
+T9	Course-of-Action 165 170	fixes
+T11	Vulnerability 183 210	19 critical vulnerabilities
+T12	Course-of-Action 222 227	fixes
+T13	Vulnerability 232 260	two zero-day vulnerabilities
+T6	Vulnerability 95 113	39 important flaws
+T5	Vulnerability 73 90	19 critical flaws
+T4	Course-of-Action 54 61	release
+T3	Course-of-Action 24 31	patches
+T1	Organization 0 9	Microsoft
+T15	Campaign 312 319	patched
+T14	Organization 300 311	the company
+T16	Vulnerability 331 339	60 flaws
+T25	Software 478 491	Visual Studio
+T24	System 453 473	Microsoft SQL Server
+T23	System 436 451	Exchange Server
+T17	System 350 367	Microsoft Windows
+T18	System 369 373	Edge
+T19	Software 375 397	Internet Explorer (IE)
+T20	Software 399 405	Office
+T21	Software 407 421	.NET Framework
+T22	Software 424 434	ChakraCore
+T70	Time 1970 1974	July
+T2	Email 1338 1343	email
+T7	Course-of-Action 1768 1785	Microsoft’s Patch
+T10	Time 1844 1854	last month
+T71	System 1910 1935	Windows operating systems
+T72	Software 1940 1952	applications
+T73	Vulnerability 1889 1905	stability issues
+T74	Campaign 1865 1875	new update
+T75	Person 1992 2001	customers
+T76	Campaign 283 289	attack
+T77	Vulnerability 1688 1692	they
+*	Coreference T35 T44
+*	Coreference T38 T71
+*	Coreference T41 T45 T63
+*	Coreference T40 T47 T46
+*	Coreference T53 T19 T32
+*	Coreference T61 T73 T77 T96
+*	Coreference T1 T8 T59 T14 T90 T91 T93 T94 T95 T97
+*	Coreference T9 T60 T12 T4 T84 T7
+T78	Time 40 53	Patch Tuesday
+T79	Time 144 164	August Patch Tuesday
+*	Coreference T78 T79 T92
+T80	Vulnerability 496 501	those
+T81	Vulnerability 503 505	19
+T82	Vulnerability 521 523	39
+T83	Vulnerability 567 570	one
+*	Coreference T81 T82 T43 T55 T51 T83 T27 T29
+T84	Course-of-Action 603 616	patch release
+*	Coreference T28 T37 T49 T54 T6 T52 T11 T33 T5 T13 T16 T80
+T85	Campaign 827 837	privileges
+T86	Campaign 869 890	administrative rights
+*	Coreference T85 T86
+*	Coreference T67 T68
+T87	Person 1264 1276	Chris Goettl
+T88	Person 1278 1308	director of product management
+*	Coreference T87 T88
+T89	System 1655 1662	Windows
+*	Coreference T17 T89
+T90	Organization 1672 1679	company
+T91	Organization 1731 1734	its
+T92	Time 1786 1793	Tuesday
+T93	Organization 1810 1817	company
+T94	Organization 1824 1830	itself
+T95	Organization 1861 1864	its
+T96	Vulnerability 1980 1985	model
+T97	Organization 2081 2090	Microsoft
+T98	Person 2134 2148	your customers

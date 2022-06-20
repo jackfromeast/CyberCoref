@@ -1,0 +1,132 @@
+T2	Person 0 11	Researchers
+T3	Vulnerability 18 39	three vulnerabilities
+T4	Device 60 76	security cameras
+T5	Attack-Pattern 110 163	gain root access knowing only the camera’s IP address
+T33	Organization 43 49	Foscam
+T6	Person 232 243	researchers
+T8	Vulnerability 250 271	three vulnerabilities
+T9	Attack-Pattern 308 361	gain root access knowing only the camera’s IP address
+T13	Vulnerability 363 389	The vulnerability trifecta
+T14	Vulnerability 399 429	an arbitrary file-deletion bug
+T15	Vulnerability 431 461	a shell command-injection flaw
+T16	Vulnerability 466 509	a stack-based buffer overflow vulnerability
+T19	Vulnerability 557 566	the flaws
+T17	Person 523 538	the researchers
+T28	Course-of-Action 2374 2385	The patches
+T32	Time 2442 2451	last week
+T35	Device 2422 2433	baby camera
+T29	Course-of-Action 2805 2812	upgrade
+T30	Device 2813 2826	their cameras
+T31	Organization 2764 2770	Foscam
+T36	Course-of-Action 2861 2880	the latest firmware
+T37	Device 2885 2899	Foscam cameras
+T38	Attack-Pattern 2945 2983	online hacking and unauthorized access
+T11	Course-of-Action 196 202	update
+T10	Organization 165 171	Foscam
+T12	Device 203 225	their security cameras
+T24	Campaign 1002 1012	be exposed
+T25	Information 984 995	its address
+T26	Attack-Pattern 1016 1041	certain internet scanners
+T39	Device 909 920	 the camera
+T20	Campaign 845 859	have to obtain
+T21	Hacker-Group 827 838	an attacker
+T22	Information 873 883	IP address
+T23	Information 887 895	DNS name
+T34	Device 859 870	 the camera
+T40	Device 685 692	servers
+T41	Campaign 567 595	 The proof-of-concept attack
+T1	Vulnerability 1157 1170	CVE-2018-6832
+T7	Attack-Pattern 1099 1155	exploiting the stack-based buffer overflow vulnerability
+T18	Hacker-Group 1042 1059	 The PoC attacker
+T27	Vulnerability 1440 1453	CVE-2018-6830
+T42	Vulnerability 1396 1438	 the arbitrary file-deletion vulnerability
+T43	File 1474 1488	critical files
+T44	Hacker-Group 1354 1366	 an attacker
+T45	Vulnerability 1685 1698	CVE-2018-6831
+T46	Purpose 1703 1724	execute root commands
+T47	Hacker-Group 1646 1658	 an attacker
+T48	Hacker-Group 1576 1590	 the bad actor
+T49	Purpose 1602 1633	gain administrative credentials
+T50	Purpose 1510 1567	authentication bypass when the webService process reloads
+T51	Campaign 2131 2160	 The 2016 Mirai botnet attack
+T52	Number 2236 2243	300,000
+T53	Device 2244 2267	vulnerable IoT  devices
+T54	Device 2273 2280	webcams
+T55	Device 2282 2289	routers
+T56	Device 2294 2309	video recorders
+T57	Attack-Pattern 2188 2227	 a distributed denial of service attack
+T58	Vulnerability 1910 1929	 this vulnerability
+T59	Information 1847 1872	administrator credentials
+T60	Hacker-Group 1825 1839	 the adversary
+T61	Person 1952 1966	 the root user
+T62	Purpose 1971 1991	privilege escalation
+T63	Person 1994 2005	researchers
+T64	Device 2083 2100	connected devices
+T65	Campaign 2560 2589	 These IoT security incidents
+T66	Campaign 2653 2667	security hacks
+T67	Device 3174 3181	cameras
+T68	Person 3070 3074	user
+T69	Campaign 2688 2693	hacks
+T70	Person 2457 2485	 a woman from South Carolina
+T71	Hacker-Group 2490 2501	 a stranger
+T72	Purpose 2534 2537	spy
+T73	Device 2518 2530	baby monitor
+T74	Organization 2986 2988	It
+T75	Person 2549 2552	her
+T76	Person 2541 2544	her
+T77	Device 943 945	it
+T78	Hacker-Group 1896 1898	he
+T80	Vulnerability 1179 1181	it
+T81	Device 139 150	 the camera
+T82	Person 183 192	customers
+T83	Hacker-Group 94 106	 a bad actor
+T84	Hacker-Group 292 304	 a bad actor
+T85	Device 337 348	 the camera
+T86	Organization 542 546	VDOO
+T87	Device 624 636	 the cameras
+T88	Device 644 654	webService
+T89	Campaign 815 825	 an attack
+T90	Device 1072 1087	 the webService
+T91	Vulnerability 1109 1155	 the stack-based buffer overflow vulnerability
+T92	Code 1088 1095	process
+T93	Device 1190 1205	 the webService
+T94	Code 1206 1213	process
+T95	Code 1240 1260	 the watchdog daemon
+T96	Code 1334 1346	 the process
+T97	Vulnerability 1381 1395	 a second flaw
+T98	Device 1536 1551	 the webService
+T99	Code 1552 1559	process
+T100	Vulnerability 1668 1683	 the third vuln
+T101	Vulnerability 1725 1734	 This bug
+T102	Vulnerability 1737 1777	 a shell command-injection vulnerability
+T103	Information 1792 1817	administrator credentials
+T104	Information 1607 1633	administrative credentials
+T105	Code 1941 1949	commands
+T106	Code 1716 1724	commands
+T107	System 2356 2359	IoT
+T108	System 2011 2034	 The Internet of Things
+T79	Device 2609 2627	connected products
+T109	Organization 2997 3003	Foscam
+T110	Information 2728 2735	privacy
+T111	Information 3141 3153	 the privacy
+*	Coreference T5 T9
+*	Coreference T3 T58 T8 T13 T19
+*	Coreference T17 T63 T2 T6
+*	Coreference T29 T11
+*	Coreference T10 T31 T33 T109 T74
+*	Coreference T25 T22
+*	Coreference T1 T91 T16 T7 T80
+*	Coreference T61 T68
+*	Coreference T41 T89
+*	Coreference T92 T94 T99
+*	Coreference T95 T96
+*	Coreference T97 T42 T27
+*	Coreference T100 T45 T101 T102
+*	Coreference T104 T103 T49 T59
+*	Coreference T60 T78 T83 T84 T44 T47 T18 T21 T48
+*	Coreference T105 T106
+*	Coreference T53 T64 T79 T30 T87 T88 T37 T4 T34 T67 T39 T81 T12 T77
+*	Coreference T108 T107
+*	Coreference T73 T35
+*	Coreference T66 T69
+*	Coreference T110 T111

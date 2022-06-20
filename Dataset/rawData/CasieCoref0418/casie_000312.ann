@@ -1,0 +1,93 @@
+T2	Campaign 464 471	reports
+T1	Purpose 388 403	crash the phone
+T6	Purpose 666 684	crash their phones
+T3	Software 0 2	It
+T7	Person 8 13	users
+T8	Software 85 87	It
+T9	Software 142 150	iMessage
+T10	Software 192 202	Apple apps
+T11	File 48 62	audio messages
+T12	File 23 36	text messages
+T13	File 64 70	videos
+T14	File 75 83	pictures
+T15	File 124 132	messages
+T16	Software 220 223	app
+T17	System 243 246	iOS
+T18	System 248 255	watchOS
+T19	System 260 265	macOS
+T20	Software 278 280	it
+T21	Software 303 306	app
+T23	Person 310 322	iPhone users
+T5	Vulnerability 343 346	bug
+T22	Software 354 357	app
+T24	Vulnerability 381 383	it
+T25	Person 417 422	users
+T26	File 494 506	text message
+T27	Person 529 541	iPhone users
+T28	Device 556 562	phones
+T4	System 586 589	iOS
+T29	Version 590 592	10
+T30	File 599 606	message
+T31	Person 632 637	users
+T32	File 646 648	it
+T37	Hacker-Group 732 741	attackers
+T38	Software 754 765	Message app
+T40	File 795 809	contact record
+T41	File 816 827	record file
+T42	Person 861 865	user
+T43	File 878 894	recorded message
+T44	File 896 898	it
+T45	System 928 930	OS
+T46	Software 950 953	app
+T47	Device 975 979	iPad
+T48	Device 984 990	iPhone
+T49	Person 991 996	users
+T54	Campaign 1067 1074	assault
+T55	Campaign 1108 1112	hack
+T56	Campaign 1121 1123	it
+T57	Person 1173 1182	recipient
+T58	File 1190 1197	message
+T59	Person 1241 1246	users
+T60	Device 1260 1266	device
+T61	Software 1282 1294	iMessage app
+T62	Campaign 1379 1383	hack
+T63	Person 1410 1416	victim
+T64	Person 1434 1442	contacts
+T65	Campaign 1456 1458	it
+T66	Attack-Pattern 1472 1682	Download the contact file, upload the contacts in dropbox or iCloud Drive, share this file using iMessage to the person you want to get hacked, wait until the victim taps on it and the app will instantly freeze
+T67	File 1485 1497	contact file
+T68	File 1510 1518	contacts
+T69	Software 1522 1529	dropbox
+T70	Software 1533 1545	iCloud Drive
+T71	File 1558 1562	file
+T72	Software 1569 1577	iMessage
+T73	Person 1585 1591	person
+T74	Person 1631 1637	victim
+T75	File 1646 1648	it
+T76	Software 1657 1660	app
+T77	Hacker-Group 1699 1708	attackers
+T78	Software 1749 1761	iMessage app
+T79	Hacker-Group 1774 1778	they
+T80	Attack-Pattern 1787 1829	send infected links or weird text messages
+T81	Attack-Pattern 1854 1878	send a huge contact file
+T82	Attack-Pattern 1882 1897	disable the app
+T39	Attack-Pattern 742 765	disable the Message app
+T83	Attack-Pattern 774 809	sending an extensive contact record
+T84	URL 1792 1806	infected links
+T85	File 1816 1829	text messages
+T86	Hacker-Group 1844 1848	they
+T87	File 1861 1878	huge contact file
+T88	Software 1894 1897	app
+T89	Course-of-Action 1247 1294	reboot their device or restart the iMessage app
+*	Coreference T1 T6
+*	Coreference T17 T4
+*	Coreference T61 T9 T72 T78 T38
+*	Coreference T82 T39
+*	Coreference T76 T46 T16 T20 T88 T8 T21 T3 T22
+*	Coreference T56 T55 T65 T62 T33
+*	Coreference T5 T24
+*	Coreference T32 T30
+T33	Campaign 709 722	iMessage hack
+*	Coreference T77 T79 T86
+T34	Version 1013 1022	iOS10.2.1
+T35	Version 1005 1009	iOS8

@@ -1,0 +1,105 @@
+T3	Person 45 54	Americans
+T5	Information 65 81	personal details
+T7	Organization 118 138	a foreign government
+T25	Purpose 151 169	recruit U.S. spies
+T8	Hacker-Group 189 196	Hackers
+T10	Information 202 211	addresses
+T11	Information 213 227	dates of birth
+T12	Information 229 252	Social Security details
+T13	Information 257 276	credit card numbers
+T15	Person 293 299	people
+T16	Organization 344 351	Equifax
+T17	Time 355 359	2017
+T24	Time 1452 1466	September 2017
+T27	Hacker-Group 1784 1791	Hackers
+T28	Software 1812 1821	databases
+T30	Time 1822 1848	between May 13 and July 29
+T31	Organization 1854 1861	Equifax
+T36	Information 1958 1969	information
+T35	Information 1938 1953	passport images
+T34	Organization 1919 1923	firm
+T33	Time 1905 1914	Last year
+T37	Campaign 2237 2248	data breach
+T39	Vulnerability 2190 2205	security issues
+T40	Organization 2143 2150	company
+T20	Information 1254 1258	data
+T18	Hacker-Group 1230 1239	criminals
+T21	Purpose 1284 1298	sold it online
+T41	Purpose 1308 1329	kept it to themselves
+T4	Campaign 2220 2231	cyberattack
+T2	Campaign 4 23	Equifax data breach
+T1	Number 282 292	148million
+T14	Number 1809 1811	48
+T26	Campaign 1874 1883	intrusion
+T29	File 1889 1895	report
+T6	Number 33 44	millions of
+T9	Person 171 178	experts
+T42	Information 370 381	stolen data
+T43	Domain 406 422	'dark web' sites
+T44	Information 434 454	personal information
+T45	Person 541 548	experts
+T46	Organization 610 614	CNBC
+T47	Number 1540 1550	143million
+T48	Person 1551 1557	people
+T49	Number 1610 1620	148million
+T50	Hacker-Group 1674 1681	hackers
+T51	Organization 1695 1702	company
+T52	Time 1707 1714	76 days
+T53	Campaign 1725 1731	attack
+T54	File 1760 1780	congressional report
+T32	Organization 1993 2017	The U.S. House committee
+T55	Campaign 2041 2047	breach
+T56	Organization 2057 2061	firm
+T57	Course-of-Action 2098 2130	mitigate its cybersecurity risks
+T58	Vulnerability 2111 2130	cybersecurity risks
+T38	Course-of-Action 2167 2205	address its observable security issues
+T59	File 2281 2299	committee's report
+T60	Number 1636 1647	nearly half
+T61	Person 1648 1667	the U.S. population
+T62	Time 1502 1518	later that month
+T22	Campaign 1439 1448	data hack
+T23	Organization 1351 1358	Equifax
+T64	Organization 1360 1418	one of America's three leading consumer reporting agencies
+T19	Person 1104 1110	people
+T65	Person 1184 1186	he
+T66	Organization 590 608	foreign government
+T67	Information 725 729	data
+T68	Information 862 866	data
+T69	Person 955 977	ex-intelligence worker
+T70	Information 983 996	personal data
+T71	Organization 1014 1033	foreign governments
+T72	Purpose 1037 1096	identify powerful people who were having financial problems
+T73	Person 1055 1061	people
+T74	Campaign 1140 1145	bribe
+T63	Person 1475 1478	CEO
+T75	Person 1479 1492	Richard Smith
+T76	Organization 656 658	We
+T77	Person 305 309	they
+T79	Hacker-Group 1279 1283	they
+T80	Campaign 566 568	it
+T81	Information 892 894	it
+T82	Information 1313 1315	it
+T84	Information 917 919	it
+T85	Information 755 757	it
+T86	Organization 1520 1524	They
+T87	Information 1289 1291	it
+*	Coreference T50 T27 T8
+*	Coreference T16 T31 T23
+*	Coreference T34 T56
+*	Coreference T39 T58
+*	Coreference T40 T51
+*	Coreference T9 T45
+*	Coreference T44 T36 T70 T42 T5
+*	Coreference T49 T1 T47 T6
+*	Coreference T37 T4 T22 T53 T55 T2
+*	Coreference T57 T38
+*	Coreference T73 T48 T15 T19 T77
+*	Coreference T7 T71 T66 T76
+T88	Campaign 498 527	data's apparent disappearance
+*	Coreference T88 T80
+*	Coreference T67 T85
+*	Coreference T81 T68 T84
+*	Coreference T65 T69
+*	Coreference T18 T79
+*	Coreference T20 T87 T82
+*	Coreference T64 T86

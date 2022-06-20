@@ -1,0 +1,111 @@
+T4	Hacker-Group 1177 1197	nation-state hackers
+T6	Organization 1112 1119	UMBRAGE
+T5	Organization 1082 1104	 an internal CIA group
+T10	Organization 1362 1385	 the Russian Federation
+T9	Organization 1330 1337	the CIA
+T49	Purpose 1431 1466	intentionally mislead investigators
+T12	Hacker-Group 1679 1689	the groups
+T13	Organization 1544 1551	the CIA
+T56	Purpose 1617 1638	misdirect attribution
+T14	Campaign 12 27	hacking attacks
+T15	Hacker-Group 43 55	perpetrators
+T16	Organization 86 106	 the U.S. government
+T17	Hacker-Group 160 179	warranted criticism
+T18	Campaign 213 229	2014 cyberattack
+T19	Location 233 244	North Korea
+T20	Organization 286 288	it
+T21	Location 296 302	Russia
+T22	Campaign 307 312	hacks
+T23	Person 321 334	top Democrats
+T24	Campaign 341 359	 the 2016 election
+T25	Campaign 363 375	 those cases
+T26	Person 377 397	government officials
+T27	Organization 403 407	they
+T28	Malware 443 457	software tools
+T29	Hacker-Group 457 469	 the hackers
+T30	Campaign 509 521	cyberattacks
+T31	Location 532 543	North Korea
+T32	Location 548 554	Russia
+T33	Hacker-Group 601 608	hackers
+T34	Attack-Pattern 628 670	intentionally use or leave behind software
+T35	Malware 662 670	software
+T36	Hacker-Group 712 724	other groups
+T37	Campaign 746 767	false flag operations
+T38	Purpose 780 811	falsely implicate other parties
+T39	Organization 798 811	other parties
+T40	Person 813 824	Researchers
+T41	Organization 828 871	Russian digital security firm Kaspersky Lab
+T42	Campaign 893 898	cases
+T43	Time 903 910	Tuesday
+T44	Organization 912 921	WikiLeaks
+T45	File 949 962	CIA documents
+T46	File 968 970	it
+T47	Organization 982 993	 the agency
+T48	Campaign 1029 1058	false-flag hacking operations
+T51	File 1059 1073	 The documents
+T52	Organization 1125 1134	WikiLeaks
+T2	Purpose 1201 1282	trick forensic investigators into falsely attributing CIA attacks to those actors
+T3	Person 1207 1229	forensic investigators
+T53	Campaign 1255 1266	CIA attacks
+T54	Hacker-Group 1269 1282	 those actors
+T55	Organization 1297 1306	WikiLeaks
+T7	Organization 1397 1405	 the CIA
+T8	Campaign 1420 1427	attacks
+T57	Organization 1492 1506	Vladimir Putin
+T58	Organization 1484 1488	them
+T59	Person 1453 1466	investigators
+T50	Attack-Pattern 1642 1689	leaving behind the ‘fingerprints’ of the groups
+T1	Organization 1736 1745	WikiLeaks
+T11	File 1768 1790	 its CIA document dump
+T60	Organization 1841 1861	 the U.S. government
+T61	Organization 1879 1885	Russia
+T62	Campaign 1888 1901	 the DNC hack
+T63	Organization 1902 1925	 the Russian Federation
+T64	Organization 1968 1977	WikiLeaks
+T65	Person 1993 1999	victim
+T66	Campaign 2003 2026	misdirected attribution
+T67	Campaign 1864 1875	attribution
+T68	Organization 2116 2125	WikiLeaks
+T69	Organization 2138 2159	 an entire department
+T70	Organization 2166 2174	 the CIA
+T71	Attack-Pattern 2220 2262	leaving behind the fingerprints’ of others
+T72	Purpose 2195 2216	misdirect attribution
+T73	Hacker-Group 2272 2279	hackers
+T74	Location 2283 2289	Russia
+T75	Organization 2292 2295	CNN
+T76	Organization 2372 2380	 the CIA
+T77	Attack-Pattern 2386 2436	reusing unique source code written by other actors
+T78	Code 2394 2412	unique source code
+T79	Hacker-Group 2424 2436	other actors
+T80	Campaign 2472 2481	CIA hacks
+T81	Attack-Pattern 2440 2468	intentionally implicate them
+T82	File 2486 2514	 the published CIA documents
+T83	Organization 2540 2544	they
+T84	Hacker-Group 2553 2571	 the UMBRAGE group
+T85	Hacker-Group 1514 1521	UMBRAGE
+T86	Hacker-Group 2621 2628	UMBRAGE
+T87	Attack-Pattern 2632 2696	borrowing hacking “techniques” developed or used by other actors
+T88	Hacker-Group 2684 2696	other actors
+T89	Campaign 2707 2727	CIA hacking projects
+T90	Organization 2753 2761	 the CIA
+T92	Hacker-Group 2464 2468	them
+T96	Organization 2612 2616	They
+*	Coreference T10 T63 T58 T65
+*	Coreference T16 T60 T20
+*	Coreference T19 T31
+*	Coreference T25 T42 T14
+*	Coreference T28 T35
+*	Coreference T37 T48
+*	Coreference T3 T59
+*	Coreference T50 T71
+*	Coreference T61 T74 T32 T21
+*	Coreference T56 T72 T67 T66
+*	Coreference T12 T36 T79 T88 T92
+*	Coreference T53 T62 T89 T73 T8 T33 T80 T29
+*	Coreference T85 T86 T84 T6 T5
+*	Coreference T45 T51 T46 T11
+*	Coreference T27 T26
+*	Coreference T30 T18
+*	Coreference T54 T4
+*	Coreference T90 T76 T70 T9 T13
+*	Coreference T96 T83 T52 T44 T1 T55 T68 T64

@@ -1,0 +1,62 @@
+T5	Hacker-Group 945 970	 the ransomware developer
+T4	File 848 865	 This ransom note
+T7	Money 1005 1015	6 bitcoins
+T2	Campaign 1088 1116	 a very large ransom payment
+T3	Malware 1141 1157	 this ransomware
+T1	Hacker-Group 1213 1239	 this ransomware developer
+T10	Location 63 71	 the USA
+T11	File 101 117	 the ransom note
+T12	Malware 120 145	 the Sanctions Ransomware
+T13	Time 167 172	March
+T14	File 208 218	 the image
+T15	File 221 237	 the ransom note
+T16	Hacker-Group 238 252	 the developer
+T17	Malware 181 201	Sanctions Ransomware
+T18	Location 296 304	 the USA
+T20	Location 336 342	Russia
+T21	Malware 376 386	ransomware
+T22	Person 393 400	someone
+T23	Attack-Pattern 405 470	infected and had their files encrypted with the .wallet extension
+T25	File 448 460	 the .wallet
+T26	Malware 515 544	 the Crysis/Dharma ransomware
+T27	Person 563 580	Michael Gillespie
+T28	Person 581 610	 the creator of ID-Ransomware
+T29	Hacker-Group 673 699	Dharma/Crysis file markers
+T30	Attack-Pattern 611 644	 the files encrypted by Sanctions
+T31	Person 722 723	I
+T32	Person 344 345	I
+T33	Malware 774 784	ransomware
+T34	File 814 830	 the ransom note
+T35	Domain 834 847	ID-Ransomware
+T37	File 876 899	RESTORE_ALL_DATA.html  
+T38	URL 911 918	 a link
+T39	Domain 921 939	 a satoshibox page
+T6	Purpose 974 1015	selling the decryption key for 6 bitcoins
+T40	Campaign 981 1000	 the decryption key
+T41	Money 1039 1049	$6,500 USD
+T42	Money 1053 1060	bitcoin
+T43	Campaign 1186 1188	it
+T44	Purpose 1247 1274	conducting targeted attacks
+T45	Information 1302 1318	 the information
+T46	Organization 1319 1321	we
+T47	Malware 1367 1376	 a sample
+T48	Organization 1355 1357	we
+T49	Information 1405 1416	information
+T50	Course-of-Action 1431 1454	analyze this ransomware
+T52	File 259 261	it
+T54	Campaign 1267 1274	attacks
+T55	Hacker-Group 281 285	they
+T19	Time 1327 1339	at this time
+T56	Organization 1420 1422	we
+T60	Person 786 787	I
+T57	Hacker-Group 30 51	ransomware developers
+*	Coreference T7 T42 T41
+*	Coreference T16 T1 T5 T57 T55
+*	Coreference T10 T18
+*	Coreference T12 T17
+*	Coreference T3 T33
+*	Coreference T31 T28 T27 T32 T60
+*	Coreference T43 T2
+*	Coreference T48 T46 T56
+*	Coreference T11 T15 T34
+*	Coreference T52 T14

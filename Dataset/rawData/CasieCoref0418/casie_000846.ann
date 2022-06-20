@@ -1,0 +1,103 @@
+T2	Course-of-Action 19 35	security updates
+T5	Software 0 5	Samba
+T4	Attack-Pattern 69 127	DoS attacks and attackers changing administrator passwords
+T9	Software 162 195	Open source server platform Samba
+T7	Course-of-Action 207 214	patches
+T8	Vulnerability 219 247	two critical vulnerabilities
+T10	Campaign 277 302	denial-of-service attacks
+T26	Attack-Pattern 306 361	allow anyone to change user and administrator passwords
+T30	Vulnerability 684 699	vulnerabilities
+T31	Vulnerability 713 726	CVE-2018-1050
+T32	Vulnerability 731 744	CVE-2018-1057
+T12	Vulnerability 950 979	The first vulnerability, 1050
+T13	Software 989 1008	all Samba instances
+T14	Version 1009 1029	version 4.0.0 and up
+T16	System 1087 1106	Samba installations
+T17	Vulnerability 1050 1052	it
+T27	Version 1066 1086	version 4.0.0 and up
+T19	Vulnerability 1449 1473	The second vulnerability
+T21	Vulnerability 1533 1535	it
+T20	System 1548 1567	Samba installations
+T22	Attack-Pattern 1593 1644	allows users to change the passwords of other users
+T28	Version 1568 1588	version 4.0.0 and up
+T24	Vulnerability 2029 2047	This vulnerability
+T25	System 2061 2080	Samba installations
+T33	File 1429 1434	files
+T34	Protocol 1808 1845	lightweight directory access protocol
+T35	Protocol 1847 1851	LDAP
+T36	Person 866 869	you
+T37	Person 2319 2322	you
+T40	Person 2212 2215	you
+*	Coreference T4 T26
+*	Coreference T27 T14 T28
+T1	Hacker-Group 85 94	attackers
+T3	Software 129 134	Samba
+*	Coreference T5 T3 T9 T23 T29 T48 T50 T51 T55 T56 T62 T65 T76 T80 T81 T82
+*	Coreference T2 T7 T42
+T6	Campaign 69 80	DoS attacks
+T11	Information 104 127	administrator passwords
+*	Coreference T6 T10
+T15	Hacker-Group 312 318	anyone
+*	Coreference T1 T15
+T18	Information 329 361	user and administrator passwords
+*	Coreference T11 T18
+T23	Software 363 368	Samba
+T29	Software 374 414	free, open source interoperability suite
+T43	File 428 440	Windows file
+T44	Software 445 459	print services
+T45	Device 463 486	Unix and Linux machines
+T46	System 508 530	Unix/Linux and Windows
+T47	Organization 488 498	Businesses
+T48	Software 559 564	Samba
+T49	System 577 598	two operating systems
+*	Coreference T46 T49
+T50	Software 658 663	Samba
+T51	Software 786 791	Samba
+T52	Person 137 142	users
+T53	Person 773 779	anyone
+*	Coreference T53 T52 T66
+T54	Organization 801 809	business
+T55	Software 816 821	Samba
+*	Coreference T47 T54
+T42	Course-of-Action 893 909	security updates
+T56	Software 921 926	Samba
+T57	Vulnerability 927 942	vulnerabilities
+*	Coreference T12 T31 T17
+*	Coreference T30 T8
+T60	Device 1342 1355	print spooler
+T61	Hacker-Group 1402 1408	anyone
+T62	Software 1415 1420	Samba
+T63	Device 1440 1447	printer
+*	Coreference T63 T60
+*	Coreference T43 T33
+*	Coreference T19 T32 T64
+T64	Vulnerability 1475 1479	1057
+T65	Software 1506 1511	Samba
+T41	Vulnerability 1527 1531	1050
+*	Coreference T41 T21 T71 T24
+*	Coreference T16 T20 T25
+T66	Person 1600 1605	users
+T67	Information 1620 1629	passwords
+T68	Person 329 333	user
+T69	Person 1656 1679	those with admin rights
+T70	Person 1639 1644	users
+*	Coreference T70 T69
+T71	Vulnerability 1681 1685	1057
+T72	Device 1726 1767	Samba Active Directory domain controllers
+T73	Protocol 1859 1863	LDAP
+*	Coreference T34 T73 T75
+T74	Device 1864 1870	server
+T75	Protocol 1901 1905	LDAP
+T76	Software 2017 2022	Samba
+T77	Information 1906 1914	password
+T78	Information 1990 1998	password
+*	Coreference T77 T78
+T79	Device 2095 2130	Active Directory domain controllers
+*	Coreference T72 T79
+T80	Software 2147 2152	Samba
+T81	Software 2226 2231	Samba
+T82	Software 2238 2243	AD DC
+T83	Course-of-Action 2266 2280	security patch
+T84	Software 2308 2313	Samba
+*	Coreference T37 T40
+T85	Information 2384 2392	password

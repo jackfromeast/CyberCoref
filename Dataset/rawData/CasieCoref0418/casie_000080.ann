@@ -1,0 +1,50 @@
+T6	URL 574 587	phishing link
+T7	File 604 614	invitation
+T4	Campaign 554 560	attack
+T1	Malware 207 225	remote access tool
+T8	Malware 189 203	trojanized RAT
+T9	Person 0 24	Islamic State supporters
+T10	Malware 52 59	malware
+T11	Organization 74 88	militant group
+T12	Software 101 118	chat app Telegram
+T13	Domain 144 154	ISIS forum
+T14	Person 163 168	users
+T15	File 172 185	plus_gram.apk
+T2	Attack-Pattern 226 256	disguised as harmless software
+T3	Attack-Pattern 263 291	allows an attacker to spy on
+T16	Hacker-Group 273 281	attacker
+T17	Attack-Pattern 296 344	take full control of the target’s Android device
+T18	Device 330 344	Android device
+T19	Person 350 364	ISIS supporter
+T20	Course-of-Action 370 386	malware analysis
+T21	Domain 390 396	NVISIO
+T22	Domain 400 421	popular free platform
+T23	Software 430 446	Android software
+T24	Code 451 465	malicious code
+T25	Person 514 523	@switch_d
+T26	Person 527 547	veteran ISIS watcher
+T27	Attack-Pattern 574 630	phishing link disguised as an invitation to a video chat
+T5	Person 660 682	tactic ISIS supporters
+T28	Person 695 701	victim
+T29	Malware 842 849	malware
+T30	Person 875 890	Khalil Sehnaoui
+T31	Person 894 936	Middle East-based cybersecurity specialist
+T32	Person 941 968	founder of Krypton Security
+T33	Organization 975 985	CyberScoop
+T34	Code 992 1004	exploit code
+T35	Code 1056 1058	it
+T36	Attack-Pattern 1026 1078	after successful exploitation it runs a dropper code
+T37	Code 1066 1078	dropper code
+T38	Attack-Pattern 1098 1131	download new applications/malware
+T39	Malware 1111 1131	applications/malware
+T40	Purpose 1144 1174	get more control of the system
+T41	Attack-Pattern 1178 1199	escalating privileges
+T42	Person 826 829	you
+*	Coreference T10 T29 T8 T1
+T44	Person 124 130	member
+*	Coreference T22 T21
+*	Coreference T25 T26
+*	Coreference T7 T6
+*	Coreference T5 T28 T9
+*	Coreference T30 T31
+*	Coreference T35 T34

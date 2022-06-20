@@ -1,0 +1,46 @@
+T4	Email 53 68	email addresses
+T6	Information 84 89	names
+T7	Information 101 114	phone numbers
+T8	Organization 118 129	Bell Canada
+T10	Hacker-Group 221 230	attackers
+T12	Information 178 196	stolen information
+T15	Information 626 656	sensitive personal information
+T16	Information 608 616	password
+T28	Time 1310 1324	last Wednesday
+T27	Organization 1256 1267	Bell Canada
+T29	Campaign 757 781	WannaCry malware attacks
+T17	Campaign 863 876	impersonating
+T19	Email 838 853	phishing emails
+T21	Person 803 812	customers
+T20	Purpose 893 953	asking the customers for credit card or personal information
+T23	Attack-Pattern 1006 1052	threatening to release more of the stolen data
+T25	Purpose 1224 1254	release the stolen information
+T3	Hacker-Group 0 17	Anonymous hackers
+T2	Person 130 139	customers
+T5	Information 249 251	it
+T9	Organization 265 294	Royal Canadian Mounted Police
+T32	Course-of-Action 430 437	secured
+T33	Organization 439 487	the Office of the Privacy Commissioner of Canada
+T34	Person 502 516	affected users
+T36	Organization 968 986	The Globe and Mail
+T37	Information 1037 1052	the stolen data
+T38	Information 1232 1254	the stolen information
+T35	Organization 676 683	company
+T39	Organization 1061 1076	telecom company
+T24	Hacker-Group 992 1001	attackers
+T30	Campaign 1288 1294	breach
+T26	System 403 419	affected systems
+T1	Organization 881 888	company
+T11	Organization 145 152	company
+T13	Number 41 52	1.9 million
+T18	Number 78 83	1,700
+T40	Hacker-Group 1125 1129	they
+T42	Organization 1331 1335	they
+T43	Hacker-Group 1101 1105	them
+T44	Campaign 1374 1376	it
+*	Coreference T8 T27 T11 T35 T1 T42
+T14	Hacker-Group 216 220	they
+*	Coreference T10 T14
+*	Coreference T12 T5
+*	Coreference T24 T43 T40
+*	Coreference T44 T30

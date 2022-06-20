@@ -1,0 +1,128 @@
+T22	Campaign 3387 3407	Email spam campaigns
+T23	Device 3432 3458	malware-infected computers
+T24	Device 3468 3472	bots
+T25	Device 3497 3504	zombies
+T3	Campaign 1418 1435	the WhatsApp scam
+T5	Attack-Pattern 1470 1486	forward the scam
+T1	Campaign 378 395	the scam campaign
+T2	Attack-Pattern 333 369	clicked through to the various links
+T38	Campaign 3229 3252	a typical WhatsApp scam
+T40	Person 3314 3321	someone
+T42	Attack-Pattern 3366 3385	forwarding the scam
+T41	Person 3322 3325	you
+T11	Hacker-Group 1841 1847	crooks
+T17	Software 1769 1777	The apps
+T21	Campaign 2926 2938	were tricked
+T4	Person 2902 2908	people
+T7	Attack-Pattern 2944 2971	going through with the scam
+T36	URL 2982 2987	links
+T39	Campaign 3257 3270	an email scam
+T14	Campaign 97 106	That scam
+T15	Software 120 128	WhatsApp
+T16	Attack-Pattern 140 156	making the offer
+T6	Campaign 2121 2134	WhatsApp scam
+T18	Campaign 434 456	were bait-and-switched
+T20	Person 431 433	we
+T19	Attack-Pattern 560 588	forwarding the original scam
+T8	Campaign 2315 2340	this latest scam campaign
+T10	Campaign 33 63	a fast-spreading WhatsApp scam
+T12	Attack-Pattern 69 95	promised free Wi-Fi access
+T13	Time 0 17	Earlier this year
+T26	Person 2844 2851	victims
+T43	Person 1010 1013	you
+T44	Person 2909 2911	we
+T45	Person 640 642	We
+T46	Person 502 504	we
+T47	Person 1460 1462	we
+T48	Person 3038 3040	we
+T49	Person 1102 1105	you
+T50	Person 174 177	you
+T51	Person 3292 3295	you
+T52	Person 673 675	we
+T53	Person 329 332	you
+T54	Person 858 861	you
+T55	Person 1048 1051	you
+T58	Person 696 698	we
+T59	Person 1397 1399	we
+T60	Person 687 690	you
+T61	Person 1140 1143	you
+T62	Person 18 20	we
+T63	Person 402 404	we
+T65	Person 2397 2399	We
+T66	Software 1857 1861	them
+T67	System 1988 1990	it
+T68	Person 3161 3165	they
+T69	Domain 2751 2755	them
+T70	Person 2097 2099	us
+T71	Person 813 816	you
+T72	Hacker-Group 3722 3726	they
+*	Coreference T42 T5 T19
+*	Coreference T14 T10 T32 T33 T3 T75 T82 T6 T86 T97 T38 T99
+T27	Software 188 196	WhatsApp
+*	Coreference T15 T27
+T28	System 245 268	mobile provider network
+T29	URL 356 369	various links
+T30	Device 423 429	iPhone
+T31	Device 537 543	iPhone
+*	Coreference T30 T31
+T32	Campaign 575 588	original scam
+T33	Campaign 778 783	scams
+T34	Information 872 892	personal information
+T35	Person 979 981	we
+*	Coreference T55 T43 T49 T61 T50 T53 T60 T71 T54
+T37	Information 1123 1134	information
+*	Coreference T37 T34 T57
+T57	Information 1270 1274	data
+T64	Person 1350 1356	winner
+T73	Person 1295 1301	winner
+*	Coreference T73 T64 T74
+T74	Person 1384 1390	person
+*	Coreference T59 T47 T62 T63 T20 T46 T45 T52 T58 T35 T70 T65 T95 T44 T48
+T75	Campaign 1482 1486	scam
+T76	Software 1517 1521	apps
+T77	Software 1563 1567	Apps
+T78	Software 1619 1622	app
+T79	Software 1721 1733	shopping app
+T80	Software 1709 1714	other
+*	Coreference T80 T79
+T81	Software 1631 1640	front-end
+*	Coreference T78 T81
+T82	Campaign 1820 1824	scam
+T9	Software 1865 1870	baits
+*	Coreference T66 T9 T77 T76 T17
+T83	Money 1926 1930	fees
+T84	System 78 88	free Wi-Fi
+T85	System 1937 1947	free Wi-Fi
+*	Coreference T85 T84 T67
+T86	Campaign 2391 2395	scam
+T87	Domain 2619 2626	domains
+T88	Domain 2520 2532	domain names
+*	Coreference T88 T87 T69
+T89	Organization 2576 2592	hosting provider
+T90	URL 2542 2557	clickable links
+T91	URL 2761 2766	links
+*	Coreference T91 T90 T36
+T92	Hacker-Group 2866 2874	scammers
+T93	Campaign 2774 2779	scams
+T94	Campaign 2105 2117	similar sort
+*	Coreference T94 T96 T8
+T95	Person 2780 2782	we
+*	Coreference T26 T4
+T96	Campaign 2967 2971	scam
+T97	Campaign 3057 3074	“free Wi-Fi” scam
+T98	Person 3125 3132	another
+*	Coreference T98 T68
+*	Coreference T41 T51
+T56	Person 3340 3344	they
+*	Coreference T40 T56
+T99	Campaign 3377 3385	the scam
+*	Coreference T22 T39
+*	Coreference T24 T23 T100 T25
+T100	Device 3485 3491	robots
+T101	Hacker-Group 3603 3620	WhatsApp scammers
+*	Coreference T11 T101 T72
+T102	Malware 3652 3659	malware
+T103	Campaign 3831 3836	scams
+*	Coreference T103 T93
+T104	Malware 3432 3439	malware
+*	Coreference T104 T102

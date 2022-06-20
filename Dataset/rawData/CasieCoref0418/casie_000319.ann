@@ -1,0 +1,164 @@
+T40	Organization 256 267	Salted Hash
+T44	Person 346 353	Vickery
+T45	Time 398 407	last week
+T46	Person 386 397	Salted Hash
+T1	Campaign 749 760	data breach
+T52	Software 667 676	databases
+T2	Organization 661 666	Annex
+T10	Organization 734 748	Ashley Madison
+T42	Time 729 733	2015
+T5	Campaign 1123 1143	a larger data breach
+T6	Organization 1096 1101	Annex
+T18	Information 1587 1600	email backups
+T21	Information 1631 1652	internal KWIC backups
+T20	Information 1618 1629	credentials
+T19	Information 1602 1613	VPN details
+T12	Information 1487 1506	credit card details
+T13	Information 1508 1523	email addresses
+T14	Information 1525 1534	passwords
+T15	Information 1536 1541	names
+T16	Information 1543 1570	home and business addresses
+T17	Information 1572 1585	phone numbers
+T9	Information 1401 1410	KWIC data
+T23	Campaign 1820 1855	leaking their backups to the public
+T27	Person 2083 2092	customers
+T26	Organization 2142 2154	one law firm
+T28	Organization 2156 2189	Norfolk County (norfolkcounty.ca)
+T29	Organization 2191 2220	United Way (unitedwayhn.on.ca
+T30	Organization 2227 2282	Greenfield Dental Health Group (greenfielddentistry.ca)
+T34	Campaign 3056 3067	data breach
+T35	Organization 2984 2988	KWIC
+T37	Course-of-Action 207 231	fixed the Rsync problems
+T36	Organization 173 186	KWIC Internet
+T41	Vulnerability 217 231	Rsync problems
+T33	Organization 2626 2630	KWIC
+T47	Software 30 34	tool
+T48	Software 36 55	Rsync (remote sync)
+T49	Organization 76 93	hosting providers
+T50	Organization 95 99	ISPs
+T51	Organization 105 119	IT departments
+T54	Device 143 150	servers
+T55	Organization 156 171	ISP in question
+T56	Location 190 196	Simcoe
+T57	Location 198 205	Ontario
+T58	Person 301 320	company’s customers
+T59	Email 339 344	email
+T38	Money 479 483	cost
+T60	Time 505 514	Initially
+T61	Person 516 523	Vickery
+T62	Software 535 544	databases
+T63	Organization 558 578	Annex Business Media
+T64	Organization 582 597	publishing firm
+T65	Location 614 620	Simcoe
+T66	Location 625 631	Aurora
+T67	Location 633 640	Ontario
+T68	Software 698 700	it
+T3	Information 715 719	data
+T69	Software 772 781	databases
+T70	Information 792 812	customer information
+T71	Information 814 819	names
+T72	Information 821 836	email addresses
+T73	Person 844 855	Salted Hash
+T74	Organization 871 891	Annex Business Media
+T75	Information 912 934	Ashley Madison records
+T76	Person 912 926	Ashley Madison
+T77	Organization 957 961	them
+T78	Time 977 983	recent
+T79	Vulnerability 984 1001	security problems
+T80	Organization 1011 1018	company
+T81	Person 1071 1078	Vickery
+T82	Vulnerability 1222 1230	this one
+T83	Person 1262 1269	someone
+T84	Organization 1333 1340	parties
+T85	Person 1343 1350	Vickery
+T86	Person 1356 1367	Salted Hash
+T11	Campaign 1426 1432	breach
+T7	Information 1438 1449	information
+T4	Software 1461 1477	leaked databases
+T89	Email 1587 1592	email
+T90	File 1668 1681	KWIC archives
+T91	Code 1705 1714	PHP shell
+T92	Code 1721 1724	r57
+T93	Software 1732 1751	PHP-based DDoS tool
+T24	Organization 1773 1780	company
+T22	Time 1797 1816	at some point prior
+T96	File 1878 1903	SQL database backup files
+T97	Number 1868 1877	dozens of
+T98	Number 1908 1920	thousands of
+T99	File 1921 1945	email backup directories
+T100	Information 1957 1967	everything
+T101	Information 1973 2010	internal KWIC staff login credentials
+T104	Information 2014 2048	police warrants for ISP subscriber
+T107	Person 2063 2070	Vickery
+T109	Time 2287 2300	March of 2016
+T111	Organization 2353 2366	KWIC customer
+T112	Organization 2368 2392	Norfolk General Hospital
+T113	Malware 2400 2426	compromised Joomla install
+T114	Attack-Pattern 2450 2471	distribute Ransomware
+T116	Person 2478 2484	Segura
+T117	Organization 2512 2520	hospital
+T118	Campaign 2531 2539	incident
+T119	Organization 2541 2545	they
+T120	Campaign 2613 2624	sales pitch
+T32	Malware 2648 2660	Malwarebytes
+T31	Campaign 2680 2695	Phishing attack
+T121	Number 2707 2718	a number of
+T122	Person 2796 2802	people
+T123	Organization 2807 2817	businesses
+T124	Information 2863 2867	data
+T125	Person 2892 2898	public
+T126	Code 2929 2946	PHP shell scripts
+T127	Software 2951 2961	DDoS tools
+T128	Software 2972 2976	they
+T129	Course-of-Action 2993 3014	contacted immediately
+T130	Person 3021 3032	Salted Hash
+T131	Course-of-Action 3069 3071	It
+T132	Organization 3103 3110	company
+T133	Time 3138 3165	after 8:00 p.m. on weekdays
+T134	Time 3167 3189	3:00 p.m. on Saturdays
+T135	Organization 3191 3195	they
+T136	Time 3206 3212	Sunday
+T137	Organization 3219 3223	KWIC
+T138	Email 3249 3254	email
+T139	Time 3256 3279	Twenty-four hours after
+T140	Organization 3300 3307	company
+T141	Vulnerability 3319 3331	Rsync issues
+T142	Course-of-Action 3319 3342	Rsync issues were fixed
+T143	Organization 3354 3358	they
+T144	Person 3422 3433	Salted Hash
+T145	Time 3438 3445	Tuesday
+T146	Organization 3462 3469	company
+T147	Email 3451 3456	email
+T148	Campaign 3478 3483	audit
+T149	Person 3501 3519	affected customers
+T150	Campaign 3543 3545	it
+T151	Device 3124 3129	phone
+T152	Vulnerability 1145 1148	one
+T153	Software 642 645	One
+T154	Course-of-Action 123 150	backup data between servers
+T162	Pronoun 690 693	him
+*	Coreference T10 T76
+*	Coreference T56 T65
+*	Coreference T57 T67
+*	Coreference T63 T74 T64 T2 T6
+*	Coreference T61 T44 T85 T107 T81
+*	Coreference T91 T126 T92
+*	Coreference T35 T137 T33
+*	Coreference T40 T86 T144 T46 T73 T130
+*	Coreference T119 T117
+*	Coreference T131 T129
+*	Coreference T47 T48
+*	Coreference T128 T127
+*	Coreference T82 T152
+*	Coreference T148 T150
+*	Coreference T135 T132
+*	Coreference T111 T112
+T39	Person 2302 2325	Malwarebytes researcher
+*	Coreference T39 T116 T25
+T87	Campaign 2108 2124	KWIC data breach
+T8	Person 1170 1195	KWIC Internet's customers
+*	Coreference T62 T52
+*	Coreference T68 T153
+*	Coreference T11 T5
+*	Coreference T41 T141
+T25	Person 2326 2339	Jérôme Segura

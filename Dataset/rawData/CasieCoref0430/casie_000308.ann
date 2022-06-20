@@ -1,0 +1,119 @@
+T31	Malware 2401 2423	 this KillDisk variant
+T35	Malware 2565 2581	 this ransomware
+T33	Person 2509 2522	those victims
+T4	Attack-Pattern 289 312	encrypt files and disks
+T6	Device 256 264	machines
+T42	Device 400 408	machines
+T10	System 252 255	Mac
+T12	System 241 248	Windows
+T2	Money 21 32	222 Bitcoin
+T17	Person 865 872	victims
+T38	System 3041 3057	infected systems
+T37	Money 3014 3030	$1000 in Bitcoin
+T39	Attack-Pattern 2887 2930	The malware is contained in phishing emails
+T21	Organization 2866 2885	German HR companies
+T20	Time 2723 2740	Earlier this week
+T24	Malware 2800 2825	 the GoldenEye ransomware
+T29	Campaign 2240 2266	paying the ransom demanded
+T15	Attack-Pattern 1683 1708	requesting a large ransom
+T14	Attack-Pattern 1662 1678	encrypting files
+T35	Malware 2565 2581	 this ransomware
+T26	Campaign 2175 2192	paying the ransom
+T11	Campaign 1315 1333	phishing campaigns
+T22	System 1349 1356	Windows
+T9	System 1361 1366	Linux
+T23	Attack-Pattern 1385 1424	the ransomware throws up a holding page
+T3	Malware 4 11	malware
+T1	File 72 77	files
+T27	Money 84 91	payment
+T40	Malware 113 123	ransomware
+T41	Money 100 109	 The cost
+T43	Money 141 151	$1 billion
+T44	Time 155 159	2016
+T7	Malware 190 209	 The malware family
+T46	Code 275 285	procedures
+T5	Purpose 320 346	demanding a ransom payment
+T49	Information 361 365	keys
+T50	Person 433 452	 the general public
+T51	Organization 498 507	hospitals
+T52	Organization 511 518	schools
+T53	Organization 523 533	businesses
+T54	Information 584 600	valuable content
+T55	System 604 620	computer systems
+T56	Campaign 631 652	widespread disruption
+T57	Organization 656 664	business
+T59	Attack-Pattern 631 675	widespread disruption to business operations
+T58	Attack-Pattern 577 600	losing valuable content
+T60	Organization 703 707	many
+T62	Course-of-Action 741 755	paying the fee
+T63	Hacker-Group 789 807	 the cybercriminal
+T64	Campaign 810 820	operations
+T45	Course-of-Action 831 840	paying up
+T65	File 881 893	 their files
+T18	Money 925 937	 the payment
+T66	Time 946 955	This week
+T67	Person 957 973	ESET researchers
+T70	Campaign 1029 1036	attacks
+T71	System 1045 1071	core infrastructure system
+T72	Location 1075 1082	Ukraine
+T73	Time 1086 1090	2015
+T74	Attack-Pattern 1037 1071	against core infrastructure system
+T75	Attack-Pattern 1110 1151	against fresh Ukrainian financial targets
+T13	Malware 1152 1167	 The ransomware
+T78	Purpose 1168 1199	demands a huge amount of money,
+T79	Protocol 1216 1237	underwritten protocol
+T8	Money 1278 1285	payment
+T80	Malware 1384 1399	 the ransomware
+T81	Organization 1437 1467	 the Mr. Robot television show
+T82	File 1474 1479	files
+T83	Organization 1500 1518	 the research team
+T85	Person 1591 1595	they
+T86	Malware 1609 1620	new variant
+T87	System 1629 1634	Linux
+T88	Device 1635 1643	machines
+T90	Organization 1711 1715	ESET
+T91	Person 1735 1742	victims
+T92	Hacker-Group 1797 1811	 the attackers
+T93	File 1824 1834	 the files
+T94	File 1846 1851	Files
+T95	Number 1894 1898	4096
+T97	File 1925 1929	file
+T98	Number 1967 1969	64
+T28	Malware 1999 2014	 the ransomware
+T99	Device 2071 2106	 a command-and-control (C&C) server
+T100	System 2125 2141	affected systems
+T101	Organization 2333 2342	 the team
+T102	File 2287 2302	encrypted files
+T103	Time 2317 2321	time
+T104	Money 2326 2331	money
+T30	Hacker-Group 2374 2394	 the cyber criminals
+T32	Person 2437 2451	 their victims
+T105	File 2487 2499	 their files
+T16	Money 2544 2562	large sum demanded
+T34	Malware 2629 2644	 the ransomware
+T106	Campaign 2705 2721	Linux infections
+T107	Person 2742 2753	researchers
+T108	Organization 2757 2768	Check Point
+T109	Vulnerability 2777 2797	 the latest exploits
+T25	Malware 2826 2846	 a strain of malware
+T110	Malware 2886 2898	 The malware
+T111	Email 2915 2930	phishing emails
+T112	Person 2955 2969	job applicants
+T36	Purpose 3006 3030	demands $1000 in Bitcoin
+T113	Money 329 346	 a ransom payment
+T114	Pronoun 2208 2210	It
+T119	Pronoun 2354 2356	us
+T47	Organization 1124 1151	Ukrainian financial targets
+T19	System 989 997	 a Linux
+T48	Malware 998 1017	variant of KillDisk
+T61	File 1904 1915	file blocks
+*	Coreference T12 T22
+*	Coreference T29 T26
+*	Coreference T9 T87
+*	Coreference T62 T45
+*	Coreference T32 T33
+*	Coreference T43 T41
+*	Coreference T80 T13 T48
+*	Coreference T82 T93
+*	Coreference T24 T25 T110
+*	Coreference T86 T28 T34 T31 T35

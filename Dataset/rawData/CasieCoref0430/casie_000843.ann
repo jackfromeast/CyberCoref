@@ -1,0 +1,127 @@
+T3	Campaign 17 30	has  released
+T5	Time 78 91	the year 2019
+T4	Course-of-Action 60 73	update bundle
+T2	Organization 11 16	Adobe
+T1	Time 0 9	This week
+T7	Course-of-Action 125 132	updates
+T6	Course-of-Action 141 146	fixes
+T8	Vulnerability 151 175	security vulnerabilities
+T9	Software 179 201	Adobe Digital Editions
+T10	Software 206 219	Adobe Connect
+T12	Campaign 224 241	has also released
+T11	Organization 221 223	It
+T13	Course-of-Action 242 249	patches
+T14	Software 254 266	Flash Player
+T15	Course-of-Action 285 299	security fixes
+T16	Campaign 321 335	has rolled-out
+T17	Organization 315 320	Adobe
+T18	Course-of-Action 354 361	updates
+T19	Software 366 378	its products
+T21	Software 431 453	Adobe Digital Editions
+T20	Software 458 471	Adobe Connect
+T22	Course-of-Action 476 490	security fixes
+T97	Time 300 313	 This Tuesday
+T27	Campaign 652 661	has fixed
+T26	Organization 646 651	Adobe
+T28	Vulnerability 662 697	an important security vulnerability
+T29	Software 701 723	Adobe Digital Editions
+T39	Campaign 1057 1065	updating
+T40	Device 1066 1079	their devices
+T42	Version 1120 1134	version 4.5.10
+T95	System 1084 1119	 the patched Adobe Digital Editions
+T53	Campaign 1506 1514	updating
+T54	System 1515 1528	their systems
+T55	Version 1533 1558	 the patched version 10.1
+T58	Campaign 1598 1611	have released
+T60	Software 1624 1636	Flash Player
+T59	Course-of-Action 1612 1619	patches
+T57	Organization 1592 1597	Adobe
+T56	Course-of-Action 1576 1590	security fixes
+T61	Campaign 1645 1655	addressing
+T62	Vulnerability 1656 1674	performance issues
+T64	Campaign 1723 1735	has released
+T63	Organization 1717 1722	Adobe
+T65	Course-of-Action 1736 1743	updates
+T66	Software 1748 1766	Adobe Flash Player
+T67	System 1771 1778	Windows
+T68	System 1780 1785	macOS
+T69	System 1787 1792	Linux
+T70	System 1797 1806	Chrome OS
+T75	Version 1897 1940	The patched Flash Player version 32.0.0.114
+T78	System 1985 1998	all platforms
+T77	Campaign 2037 2044	address
+T79	Course-of-Action 2011 2028	the update bundle
+T80	Vulnerability 2045 2062	security problems
+T81	Software 2066 2078	Adobe Reader
+T82	Software 2082 2089	Acrobat
+T84	Campaign 2120 2128	released
+T86	Time 2156 2173	the previous week
+T85	Course-of-Action 2129 2143	security fixes
+T83	Organization 2100 2111	the vendors
+T87	Vulnerability 2148 2152	them
+T89	Campaign 2185 2194	addressed
+T88	Course-of-Action 2175 2184	The patch
+T90	Vulnerability 2195 2223	two critical vulnerabilities
+T91	Vulnerability 2225 2239	CVE-2018-16011
+T92	Vulnerability 2244 2258	CVE-2018-16018
+T93	Attack-Pattern 2265 2305	could result in arbitrary code execution
+T98	Attack-Pattern 2310 2330	privilege escalation
+T32	Campaign 931 939	affected
+T31	Vulnerability 910 924	CVE-2018-12817
+T30	Vulnerability 882 908	an out of bounds read flaw
+T38	System 1032 1035	iOS
+T37	System 1020 1027	Android
+T36	System 1013 1018	MacOS
+T35	System 1004 1011	Windows
+T34	System 983 996	all platforms
+T33	Software 939 952	 the software
+T94	Version 953 966	version 4.5.9
+T41	Campaign 1194 1204	existed in
+T43	Software 1205 1218	Adobe Connect
+T44	Attack-Pattern 1230 1262	result in session token exposure
+T45	Vulnerability 1162 1193	another important vulnerability
+T48	Attack-Pattern 1333 1384	lead to exposure of privileges granted to a session
+T47	Vulnerability 1310 1324	CVE-2018-19718
+T46	Vulnerability 1291 1308	the vulnerability
+T50	Campaign 1405 1413	affected
+T49	Vulnerability 1387 1404	The vulnerability
+T51	Software 1413 1431	 the Adobe Connect
+T52	System 1463 1476	all platforms
+T96	Version 1432 1446	versions 9.8.1
+T72	Campaign 1823 1830	address
+T71	Course-of-Action 1809 1822	These updates
+T73	Vulnerability 1831 1859	feature and performance bugs
+T74	Course-of-Action 1880 1894	security fixes
+T23	Campaign 575 584	addressed
+T24	Vulnerability 585 608	tens of vulnerabilities
+T25	Course-of-Action 549 569	the previous updates
+T100	Organization 749 753	they
+T101	Organization 400 402	it
+T103	System 998 999	i
+T104	Course-of-Action 272 276	they
+T76	Organization 92 102	 The Adobe
+T102	Course-of-Action 500 518	 the update bundle
+T105	Vulnerability 735 747	 the problem
+T106	Vulnerability 778 790	exploitation
+T107	Campaign 805 827	information disclosure
+T108	Person 1037 1042	Users
+T111	Person 1478 1483	Users
+*	Coreference T4 T79 T102
+*	Coreference T95 T9 T21 T29
+*	Coreference T39 T53
+*	Coreference T60 T14 T66
+*	Coreference T17 T63 T57 T26 T2 T76 T11 T101 T100
+*	Coreference T62 T73
+*	Coreference T16 T58 T64 T84
+*	Coreference T67 T35
+*	Coreference T68 T36
+*	Coreference T22 T56 T74 T85 T15 T6 T88
+*	Coreference T32 T50
+*	Coreference T34 T52 T78
+*	Coreference T10 T43 T20 T51
+*	Coreference T49 T46 T90 T80 T45 T47 T87
+*	Coreference T61 T72 T77 T23 T89
+*	Coreference T25 T18 T65 T59 T104 T13 T7
+*	Coreference T28 T105 T106
+*	Coreference T108 T111
+*	Coreference T30 T31

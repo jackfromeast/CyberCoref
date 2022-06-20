@@ -1,0 +1,40 @@
+T3	Malware 600 610	ransomware
+T5	Organization 0 26	United Kingdom authorities
+T6	Number 36 39	two
+T7	Hacker-Group 40 48	suspects
+T8	Campaign 64 123	January's hacking of Washington police surveillance cameras
+T9	Organization 125 153	International Business Times
+T10	Time 163 169	Friday
+T11	Campaign 175 186	cyberattack
+T12	Number 196 217	123 of the city's 187
+T13	Person 243 257	city officials
+T14	Purpose 264 335	leaving the infected cameras unable to record between Jan 12 and Jan 15
+T15	Attack-Pattern 187 241	affected 123 of the city's 187 network video recorders
+T16	Time 310 335	between Jan 12 and Jan 15
+T17	Organization 341 362	National Crime Agency
+T18	Person 374 385	British man
+T19	Person 390 403	Swedish woman
+T20	Number 410 412	50
+T21	Location 419 444	South London neighborhood
+T22	Campaign 476 484	incident
+T23	Campaign 524 526	it
+T24	Time 537 541	days
+T25	Person 549 564	President Trump
+T26	Campaign 549 579	President Trump's inauguration
+T27	Campaign 586 590	hack
+T28	Software 622 630	software
+T29	System 645 652	systems
+T1	Attack-Pattern 636 652	disables systems
+T30	Purpose 659 674	demands are met
+T2	Location 676 686	Washington
+T31	Person 689 713	chief technology officer
+T4	Money 727 733	ransom
+T32	Organization 774 778	city
+T33	Campaign 804 810	attack
+T34	Person 824 838	City officials
+T35	Campaign 847 853	attack
+T36	Person 875 881	public
+T37	Campaign 905 917	inauguration
+*	Coreference T13 T5 T34
+*	Coreference T11 T8 T22 T23 T27 T33 T35
+*	Coreference T37 T26

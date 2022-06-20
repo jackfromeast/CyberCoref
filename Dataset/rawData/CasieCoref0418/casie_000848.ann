@@ -1,0 +1,100 @@
+T7	Campaign 243 253	were fixed
+T8	Vulnerability 212 242	One of the two vulnerabilities
+T10	Course-of-Action 392 399	patched
+T9	Vulnerability 365 382	The vulnerability
+T12	Course-of-Action 625 632	patched
+T13	Version 636 653	the version 6.1.0
+T11	Vulnerability 597 615	This vulnerability
+T5	Person 149 181	security researcher Manuel Nader
+T6	Organization 187 210	the VPN provider itself
+T2	Organization 0 7	PureVPN
+T3	Vulnerability 16 35	two vulnerabilities
+T1	Attack-Pattern 48 90	allow hackers to retrieve stored passwords
+T25	Organization 137 146	Trustwave
+T14	Vulnerability 755 779	The second vulnerability
+T15	Organization 814 825	the company
+T18	Organization 1961 1974	the community
+T17	Organization 2035 2037	we
+T20	Version 2088 2109	a newer version 6.2.2
+T26	Time 1957 1960	now
+T22	Version 2603 2624	the new version 6.2.2
+T23	Organization 2498 2519	the InfoSec community
+T27	Information 1399 1409	VPN access
+T28	Information 1369 1394	passwords for Member Area
+T29	Information 1488 1507	VPN access password
+T30	Organization 2237 2239	we
+T31	Person 1709 1713	they
+T32	Vulnerability 1167 1169	it
+T33	Organization 1353 1355	we
+T34	Organization 2351 2353	We
+T35	Vulnerability 1209 1211	it
+T36	Organization 1173 1175	us
+T37	Software 2704 2708	they
+T38	Organization 2460 2462	We
+T39	Organization 1888 1890	we
+T40	Organization 2208 2210	we
+T42	Person 1088 1090	we
+T43	Vulnerability 577 579	it
+T45	Person 1009 1011	us
+T46	Organization 1177 1179	we
+T48	Person 1909 1913	them
+*	Coreference T10 T12
+*	Coreference T9 T8 T43 T11
+*	Coreference T27 T29 T74 T47 T78 T80 T83
+T4	Hacker-Group 54 61	hackers
+T16	Information 81 90	passwords
+T19	Software 103 113	VPN client
+T21	Software 311 318	PureVPN
+T50	Person 337 342	Nader
+*	Coreference T5 T50
+T51	Vulnerability 277 290	the other one
+T52	Information 410 419	passwords
+*	Coreference T16 T52 T59
+T53	Person 505 510	users
+T54	File 554 558	file
+T55	Software 672 679	PureVPN
+T56	Version 717 731	latest version
+*	Coreference T56 T13
+*	Coreference T51 T14 T57
+T57	Vulnerability 787 790	one
+T58	Software 897 911	Windows client
+T59	Information 966 974	Password
+T60	Person 979 991	spokesperson
+T61	Organization 996 1003	PureVPN
+T62	Vulnerability 1052 1065	vulnerability
+T63	Person 1116 1121	users
+*	Coreference T53 T63 T76 T77 T31 T79 T48 T81
+*	Coreference T62 T32 T35 T82
+T65	Organization 1148 1157	Trustwave
+*	Coreference T25 T65
+T66	Campaign 1193 1197	risk
+T67	Campaign 853 857	risk
+*	Coreference T67 T66
+T68	System 1237 1244	systems
+T69	System 1263 1270	systems
+*	Coreference T69 T68
+T70	System 1297 1301	most
+T71	Organization 1315 1328	VPN providers
+T72	Information 1411 1431	Member Area password
+*	Coreference T28 T72
+T73	Software 1473 1477	apps
+T74	Information 1574 1587	VPN passwords
+T75	System 1592 1598	system
+T47	Information 1520 1543	subject of this feature
+T76	Person 1624 1629	users
+T77	Person 1657 1662	users
+T78	Information 1673 1703	same password for VPN accounts
+T79	Person 1872 1877	users
+T80	Information 1939 1951	VPN password
+T82	Vulnerability 2020 2033	vulnerability
+T81	Person 2120 2125	users
+T83	Information 2191 2199	password
+T24	Campaign 2358 2366	Bugcrowd
+T84	Campaign 2368 2395	a public Bug Bounty Program
+*	Coreference T84 T24
+T85	Hacker-Group 2431 2438	hackers
+*	Coreference T85 T4
+*	Coreference T18 T23
+T86	Software 2691 2695	VPNs
+*	Coreference T86 T37 T36 T46 T21 T2 T55 T15 T61 T42 T33 T39 T17 T40 T30 T34 T38
+T87	Information 2734 2741	privacy

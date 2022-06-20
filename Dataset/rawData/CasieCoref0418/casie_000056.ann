@@ -1,0 +1,65 @@
+T8	Attack-Pattern 453 516	dumped the private key used to generate the market's .onion URL
+T9	Information 464 475	private key
+T2	Vulnerability 247 265	SQL injection flaw
+T3	Campaign 213 217	hack
+T5	Hacker-Group 197 207	Cipher0007
+T22	Hacker-Group 296 302	hacker
+T24	Vulnerability 322 340	SQL injection flaw
+T25	Device 362 381	the market's server
+T19	Hacker-Group 1381 1387	hacker
+T18	Vulnerability 1444 1447	bug
+T20	Person 1455 1469	AlphaBay staff
+T4	Time 1368 1375	January
+T15	Hacker-Group 518 528	Cipher0007
+T12	Information 592 629	details on the database configuration
+T14	Information 640 657	login information
+T10	Hacker-Group 2 8	hacker
+T26	Hacker-Group 38 48	Cipher0007
+T27	Domain 64 94	Sanctuary Dark Web marketplace
+T28	Hacker-Group 100 106	hacker
+T29	Campaign 121 127	breach
+T30	Time 130 143	few hours ago
+T31	Campaign 173 182	intrusion
+T32	Hacker-Group 235 237	he
+T1	Software 273 290	market's database
+T23	Hacker-Group 310 312	he
+T33	Attack-Pattern 344 381	upload a shell on the market's server
+T34	Code 353 358	shell
+T7	Hacker-Group 383 385	He
+T35	Malware 401 409	backdoor
+T6	Purpose 413 448	access various parts of the backend
+T36	URL 497 516	market's .onion URL
+T16	Hacker-Group 539 541	he
+T37	Software 551 583	market's phpMyAdmin installation
+T11	Domain 687 717	market's phpMyAdmin login page
+T38	Hacker-Group 786 792	hacker
+T13	File 809 819	screengrab
+T39	Code 840 845	shell
+T40	Device 853 878	Sanctuary market's server
+T41	Information 884 917	market's 1024 bit RSA private key
+T42	Information 927 975	market's root account database login information
+T43	Domain 981 997	Sanctuary market
+T44	Domain 1003 1024	small Dark Web market
+T45	Person 1167 1196	admin of the Sanctuary market
+T46	Hacker-Group 1301 1311	Cipher0007
+T47	Money 1401 1427	unspecified Bitcoin reward
+T17	Attack-Pattern 1486 1545	allowed an attacker access to over 218,000 private messages
+T21	Hacker-Group 1497 1505	attacker
+T48	Number 1521 1528	218,000
+T49	Organization 1547 1555	AlphaBay
+T50	Organization 1567 1590	biggest Dark Web market
+T51	Hacker-Group 1638 1646	attacker
+T52	Information 1664 1702	operations of many sellers and vendors
+T53	File 1612 1615	PMs
+*	Coreference T2 T24
+*	Coreference T25 T40
+*	Coreference T43 T44 T27
+*	Coreference T34 T39 T35
+*	Coreference T31 T29 T3
+*	Coreference T23 T22 T46 T5 T15 T26 T10 T28 T32 T7 T16 T38 T54 T19 T21
+T54	Hacker-Group 770 773	his
+*	Coreference T41 T9
+*	Coreference T42 T14
+T55	Software 1058 1074	digital products
+T56	Software 1083 1093	data dumps
+T57	Malware 1095 1102	malware

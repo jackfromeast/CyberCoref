@@ -1,0 +1,134 @@
+T13	Information 416 426	their data
+T11	Organization 381 405	healthcare organizations
+T9	Time 332 341	late 2015
+T8	Hacker-Group 298 300	He
+T17	Campaign 1072 1086	ransom demands
+T19	Organization 1551 1558	Netflix
+T20	Hacker-Group 1479 1482	TDO
+T5	Campaign 161 179	blackmail attempts
+T6	Organization 189 203	Larson Studios
+T7	Organization 208 215	Netflix
+T21	Campaign 2103 2120	extortion attempt
+T24	Money 2190 2200	50 Bitcoin
+T25	Money 2202 2209	$67,000
+T26	Time 2214 2224	January 31
+T22	Organization 2147 2153	studio
+T30	Hacker-Group 2574 2576	he
+T31	Time 2557 2573	after two months
+T28	Organization 2500 2507	Netflix
+T3	Hacker-Group 2 26	hacker (or hacker group)
+T4	Information 75 143	first ten episodes of season 5 of the "Orange Is The New Black" show
+T16	Attack-Pattern 474 511	threatening to release sensitive data
+T15	Organization 463 470	victims
+T1	Number 150 153	two
+T32	Number 81 84	ten
+T33	Hacker-Group 217 220	TDO
+T34	Hacker-Group 280 286	hacker
+T14	Money 450 457	ransoms
+T35	Information 497 511	sensitive data
+T36	Person 519 525	public
+T39	Time 570 585	past few months
+T40	Person 590 594	many
+T41	Hacker-Group 601 603	he
+T42	Campaign 642 652	activities
+T43	Time 654 664	Last night
+T44	Time 669 696	around 22:00 UTC (17:00 ET)
+T45	Person 703 711	reporter
+T46	Hacker-Group 724 730	hacker
+T47	URL 739 744	links
+T48	Domain 748 767	his Twitter profile
+T49	Domain 785 798	Pastebin page
+T50	Domain 800 814	GitHub profile
+T51	File 822 840	Pirate Bay torrent
+T52	Information 849 914	episode 1 of season 5 of Netflix's "Orange Is The New Black" show
+T54	Domain 953 961	Pastebin
+T55	Domain 966 972	GitHub
+T56	URL 973 978	links
+T57	Domain 987 991	they
+T58	Time 1002 1018	20 minutes after
+T59	Domain 1019 1023	they
+T60	URL 1056 1061	links
+T61	File 1111 1134	Pirate Bay torrent file
+T62	Person 1156 1161	users
+T63	Information 1189 1200	its content
+T64	Time 1202 1220	Twelve hours later
+T65	Hacker-Group 1222 1225	TDO
+T66	URL 1246 1251	links
+T67	Domain 1255 1262	Twitter
+T68	URL 1264 1269	These
+T69	Domain 1301 1309	Pastebin
+T70	File 1316 1335	second torrent file
+T71	Domain 1352 1366	The Pirate Bay
+T72	Information 1379 1451	episodes 2 through 10 of the same season 5 of "Orange Is The New Black."
+T73	Domain 1459 1467	Pastebin
+T74	Hacker-Group 1488 1490	he
+T75	Number 1504 1507	ten
+T76	Information 1504 1542	ten "Orange Is The New Black" episodes
+T18	Campaign 1580 1593	ransom demand
+T77	Hacker-Group 1638 1641	TDO
+T78	Number 1648 1656	numerous
+T79	Campaign 1657 1665	attempts
+T80	Hacker-Group 1671 1677	hacker
+T81	Person 1693 1726	administrator of DataBreaches.net
+T82	Domain 1710 1726	DataBreaches.net
+T83	Person 1730 1738	reporter
+T84	Person 1745 1752	Dissent
+T85	Hacker-Group 1774 1777	TDO
+T86	Hacker-Group 1787 1789	he
+T87	Number 1802 1813	hundreds of
+T88	Information 1821 1852	unreleased and non-public media
+T89	Device 1862 1869	servers
+T90	Organization 1875 1892	Hollywood studio.
+T91	Hacker-Group 1897 1903	hacker
+T92	Device 1926 1932	server
+T93	Hacker-Group 1965 1967	he
+T94	Device 1975 1977	it
+T95	Domain 1979 1995	DataBreaches.net
+T96	Organization 2011 2017	studio
+T97	Organization 2021 2041	Larson Studios, Inc.
+T98	Organization 2046 2075	audio post-production company
+T99	Email 2125 2130	email
+T101	Hacker-Group 2132 2135	TDO
+T23	Money 2180 2186	ransom
+T102	Number 2234 2237	two
+T103	Organization 2238 2245	parties
+T104	Hacker-Group 2277 2280	TDO
+T105	Time 2341 2368	during the month of January
+T106	Organization 2378 2384	studio
+T107	Time 2409 2422	At this point
+T108	Hacker-Group 2428 2434	hacker
+T109	Organization 2451 2457	studio
+T110	Organization 2461 2468	Netflix
+T27	Campaign 2527 2544	his ransom demand
+T29	Information 2603 2663	first ten episodes of season 5 of "Orange Is The New Black."
+T112	Domain 2677 2694	Netflix's website
+T114	Number 2725 2727	13
+T115	Time 2769 2784	June, this year
+T116	Campaign 2790 2797	release
+T117	Campaign 2758 2765	release
+T118	Information 2801 2815	these episodes
+T120	Hacker-Group 2850 2856	hacker
+T121	Information 2872 2905	other unreleased shows and movies
+T122	Number 2911 2918	several
+T123	Organization 2919 2932	other studios
+T10	Attack-Pattern 373 405	hacking healthcare organizations
+T12	Attack-Pattern 407 426	stealing their data
+T38	Number 1398 1400	10
+T124	Number 2609 2612	ten
+T125	Campaign 611 613	it
+*	Coreference T6 T97 T98
+*	Coreference T48 T50
+*	Coreference T56 T60 T47 T66
+*	Coreference T49 T54 T73 T69
+*	Coreference T82 T95
+*	Coreference T22 T96 T109 T106 T123
+*	Coreference T28 T7 T110 T19
+*	Coreference T116 T117
+*	Coreference T57 T112 T59
+T2	Hacker-Group 55 58	TDO
+T139	Hacker-Group 36 53	The Dark Overlord
+T126	Campaign 531 562	hacker's online presence shrunk
+*	Coreference T126 T125
+*	Coreference T85 T86 T20 T74 T77 T2 T139 T3 T34 T91 T41 T120 T46 T108 T80 T33 T8 T65 T93 T101 T104 T30
+*	Coreference T92 T94
+*	Coreference T23 T24 T25

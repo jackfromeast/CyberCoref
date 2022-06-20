@@ -1,0 +1,43 @@
+T2	Email 40 48	an email
+T5	Person 0 16	A local resident
+T4	Organization 69 73	HMRC
+T22	Money 211 218	£684.97
+T23	Purpose 187 207	receive a tax refund
+T6	Email 250 269	the fake HMRC email
+T9	Attack-Pattern 295 349	click on a link to complete and submit the refund form
+T10	Attack-Pattern 361 393	take you to a fraudulent website
+T11	Purpose 411 457	supply your name, address, and contact details
+T12	Purpose 536 567	supply your credit card numbers
+T13	Domain 500 518	The fake HMRC site
+T8	Person 283 286	you
+T21	Person 785 788	you
+T19	Organization 803 810	an HMRC
+T20	Email 819 839	phishing/bogus email
+T16	Information 675 690	the information
+T15	Hacker-Group 723 731	scammers
+T17	Purpose 744 756	commit fraud
+T24	Purpose 761 780	steal your identity
+T1	Organization 95 101	agency
+T3	Campaign 125 145	last fiscal activity
+T7	Organization 166 170	they
+T25	Domain 375 393	fraudulent website
+T26	Information 475 498	identifying information
+T27	Information 548 567	credit card numbers
+T28	Information 593 604	information
+T14	Email 856 858	it
+T18	Email 904 906	it
+T29	Domain 863 887	phishing@hmrc.gsi.gov.uk
+T30	Domain 925 932	website
+T31	Email 954 959	email
+T32	Information 976 1007	personal or payment information
+T33	Email 1059 1067	messages
+T34	Email 1033 1037	this
+T35	Person 691 694	you
+T37	Person 366 369	you
+T38	Person 404 407	you
+T43	Person 529 532	you
+*	Coreference T37 T38
+*	Coreference T1 T7
+*	Coreference T28 T27 T16
+*	Coreference T20 T14 T18 T31 T34
+*	Coreference T30 T29

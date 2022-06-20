@@ -1,0 +1,101 @@
+T5	Hacker-Group 1829 1841	 a fraudster
+T8	Purpose 1919 1950	submit private bank information
+T9	Person 1901 1915	 a mobile user
+T3	Software 1244 1258	the mobile app
+T4	Purpose 1310 1364	let the hacker receive the user’s personal information
+T13	Hacker-Group 2006 2014	A hacker
+T14	File 2026 2032	emails
+T15	Attack-Pattern 2033 2071	telling people their account is locked
+T16	Attack-Pattern 2076 2111	asking them to reply to the message
+T10	Campaign 1957 1974	phishing attempts
+T11	Attack-Pattern 1975 2004	bypass mobile apps completely
+T17	Time 589 596	by 2021
+T18	Time 0 7	By 2021
+T19	Device 58 69	smartphones
+T20	Device 74 81	tablets
+T21	Person 83 94	researchers
+T22	Person 9 28	millions more of us
+T23	Person 114 135	mobile bank app users
+T24	Time 162 182	 the next four years
+T25	Campaign 244 263	Mobile app breaches
+T26	Device 296 304	computer
+T27	Time 320 329	last year
+T28	Number 529 538	3 billion
+T29	Person 539 545	people
+T30	Campaign 571 578	banking
+T31	Hacker-Group 616 623	hackers
+T32	Software 635 649	financial apps
+T33	Device 749 763	 their devices
+T34	Information 767 787	 their bank accounts
+T35	Hacker-Group 789 798	Criminals
+T36	Purpose 806 824	access mobile apps
+T37	Software 851 864	 a mobile app
+T38	Device 882 915	 a financial institution’s server
+T39	Software 934 942	 the app
+T40	Attack-Pattern 1030 1057	 a man-in-the-middle attack
+T41	Hacker-Group 1059 1069	fraudsters
+T42	Attack-Pattern 1130 1188	accessing the same public Wi-Fi network as the mobile user
+T1	Attack-Pattern 1205 1240	send a fake bank server certificate
+T2	Device 1384 1400	 a mobile device
+T43	Device 1474 1485	 the device
+T44	Information 1437 1456	 a person’s actions
+T45	Software 1491 1505	 a banking app
+T46	Malware 1506 1529	 the malicious software
+T47	Information 1539 1558	 your account names
+T48	Information 1560 1567	numbers
+T49	Information 1572 1581	passwords
+T50	Hacker-Group 1598 1607	 a hacker
+T51	Time 1620 1636	around for years
+T52	Campaign 1662 1666	hack
+T53	Hacker-Group 1689 1698	criminals
+T6	Attack-Pattern 1842 1891	pretends to be a legitimate financial institution
+T7	Information 2116 2139	 their account username
+T12	Information 2144 2152	password
+T54	Hacker-Group 2230 2243	 the criminal
+T55	Information 2187 2218	 the information a person sends
+T56	Organization 2248 2257	 the bank
+T58	Person 1466 1469	she
+T59	Person 1460 1462	he
+T60	Information 1591 1595	them
+T61	Person 2083 2087	them
+T62	Software 1301 1303	it
+T64	Software 192 206	mobile banking
+T65	Organization 343 378	 the Identity Theft Research Center
+T66	Organization 380 405	a San Diego tracking firm
+T67	Person 448 457	consumers
+T68	Device 582 588	mobile
+T57	Device 473 479	mobile
+T69	Person 667 673	people
+T70	Person 693 697	prey
+T71	Person 707 716	customers
+T72	Software 813 824	mobile apps
+T73	Software 1262 1270	 the app
+T74	Person 1172 1188	 the mobile user
+T75	Hacker-Group 1313 1324	 the hacker
+T76	Information 1344 1364	personal information
+T77	Information 1001 1024	 its server certificate
+T78	Information 1278 1299	 the fake certificate
+T79	Information 1209 1240	 a fake bank server certificate
+T80	Person 1705 1717	Doug Johnson
+T81	Person 1719 1813	senior vice president of payments and cybersecurity policy at the American Bankers Association
+T63	Information 1926 1950	private bank information
+T82	Software 1982 1993	mobile apps
+T83	Person 2041 2047	people
+T84	Information 2157 2169	 the account
+T85	Information 2047 2061	 their account
+*	Coreference T9 T23 T67 T74
+*	Coreference T3 T37 T39 T73 T62 T45
+*	Coreference T17 T18
+*	Coreference T50 T31 T13 T35 T5 T41 T75 T53 T54
+*	Coreference T49 T12
+*	Coreference T65 T66
+*	Coreference T68 T19 T57 T43 T33 T2
+*	Coreference T29 T69 T70
+*	Coreference T72 T32 T82
+*	Coreference T20 T26
+*	Coreference T64 T30
+*	Coreference T78 T79
+*	Coreference T80 T81
+*	Coreference T60 T63 T34 T7 T47 T76 T55
+*	Coreference T83 T61
+*	Coreference T85 T84

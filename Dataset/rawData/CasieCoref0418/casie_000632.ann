@@ -1,0 +1,97 @@
+T3	Vulnerability 251 271	a huge security flaw
+T2	Software 232 240	This app
+T5	Person 295 308	Tavis Ormandy
+T6	Person 316 344	a Google security researcher
+T8	Software 364 380	Logitech Options
+T9	Vulnerability 346 348	It
+T11	Person 1159 1161	he
+T12	Person 1115 1122	Ormandy
+T13	Vulnerability 1171 1188	the vulnerability
+T14	Organization 1202 1206	them
+T18	Time 1275 1296	the 18th of September
+T17	Person 1264 1271	Ormandy
+T27	Vulnerability 1502 1511	the issue
+T26	Time 1474 1494	the 11th of December
+T24	Person 1436 1443	Ormandy
+T30	Version 1636 1660	Options version 7.00.564
+T31	Time 1664 1684	the 13th of December
+T28	Organization 1618 1626	Logitech
+T21	Vulnerability 1380 1389	the issue
+T23	Software 1422 1429	the app
+T19	Organization 1344 1355	the company
+T34	Vulnerability 1740 1744	bugs
+T36	Vulnerability 1768 1794	the security vulnerability
+T33	Organization 1686 1690	They
+T37	Course-of-Action 1828 1860	the Security Vulnerability patch
+T39	Organization 1804 1808	they
+T42	Version 1923 1938	the new version
+T41	Vulnerability 1955 1972	the vulnerability
+T43	Course-of-Action 2168 2175	upgrade
+T44	Version 2179 2195	the new 7.00.564
+T45	Software 2136 2152	Logitech Options
+T48	Version 2121 2132	old version
+T49	Software 0 16	Logitech Options
+T50	Software 23 26	app
+T51	Device 48 63	Logitech’s mice
+T52	Device 68 77	keyboards
+T53	Software 79 81	It
+T1	Device 395 411	WebSocket server
+T4	Device 420 439	individual computer
+T7	Software 440 456	Logitech Options
+T54	Device 474 490	WebSocket server
+T55	Number 510 515	10134
+T56	Domain 529 536	website
+T57	Hacker-Group 643 651	attacker
+T58	Hacker-Group 715 723	attacker
+T59	Software 803 811	software
+T60	Hacker-Group 868 876	attacker
+T61	Device 957 965	Computer
+T62	Campaign 1013 1032	keystroke injection
+T63	Campaign 1036 1056	Rubber Ducky attacks
+T64	Time 1096 1107	in the past
+T47	Person 1137 1157	Logitech’s engineers
+T10	Organization 1232 1259	Logitech’s engineering team
+T15	Time 1323 1330	90 days
+T16	Course-of-Action 1369 1389	addressing the issue
+T20	Organization 1562 1570	Logitech
+T25	Course-of-Action 1589 1616	update for Logitech Options
+T46	Software 1600 1616	Logitech Options
+T29	Course-of-Action 1705 1744	fixed the origin and type checking bugs
+T32	Course-of-Action 1758 1763	patch
+T22	Course-of-Action 1412 1417	patch
+T35	Domain 1874 1881	website
+T38	Course-of-Action 1951 1972	fix the vulnerability
+T40	Person 1973 1987	Travis Ormandy
+T65	Organization 1992 2000	his team
+T66	Version 2028 2042	new version of
+T67	Software 2043 2059	Logitech Options
+T68	Vulnerability 2077 2101	Security Vulnerabilities
+T69	Organization 1883 1887	They
+T70	Organization 1893 1908	German magazine
+T71	Organization 1909 1917	heise.de
+T72	Campaign 614 625	PID Exploit
+T73	Attack-Pattern 688 709	setting up a web page
+T74	Code 671 679	commands
+T75	Information 739 757	Process Identifier
+T76	Information 759 762	PID
+T77	Information 777 780	PID
+T78	Information 894 897	PID
+T79	Person 1332 1339	Ormandy
+T81	Device 974 976	it
+T85	Hacker-Group 922 924	he
+*	Coreference T2 T23
+*	Coreference T27 T21
+*	Coreference T31 T18 T26
+*	Coreference T28 T20 T33 T39 T69
+*	Coreference T42 T48 T66
+*	Coreference T1 T54
+*	Coreference T56 T35
+*	Coreference T60 T58 T57 T85
+*	Coreference T7 T49 T45 T67 T46 T8 T50 T53 T59
+*	Coreference T32 T22
+*	Coreference T40 T79 T17 T12 T5 T24
+*	Coreference T78 T76 T77
+*	Coreference T37 T41 T68 T38 T9 T3 T36 T13
+*	Coreference T81 T61
+*	Coreference T47 T11
+*	Coreference T14 T10

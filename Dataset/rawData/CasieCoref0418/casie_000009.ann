@@ -1,0 +1,117 @@
+T14	Email 1834 1855	Spear phishing emails
+T10	Malware 1875 1894	custom-made malware
+T11	Person 1908 1917	key staff
+T12	Organization 1921 1938	IT services firms
+T20	Hacker-Group 1981 1988	hackers
+T18	Hacker-Group 2004 2008	they
+T16	Information 2020 2041	intellectual property
+T17	Information 2052 2066	sensitive data
+T5	Organization 1416 1420	they
+T7	Information 1445 1459	sensitive data
+T1	Attack-Pattern 199 213	spear phishing
+T4	Hacker-Group 159 164	APT10
+T2	Purpose 217 228	gain access
+T13	Campaign 1946 1970	first stage of an attack
+T21	Hacker-Group 4 8	gang
+T22	Campaign 20 27	attacks
+T23	Organization 44 68	technology service firms
+T24	Attack-Pattern 82 101	use them as a proxy
+T25	Organization 86 90	them
+T26	Campaign 106 113	attacks
+T27	Organization 115 129	security firms
+T28	Hacker-Group 145 150	group
+T3	Malware 175 194	custom-made malware
+T29	Organization 232 248	target companies
+T30	Hacker-Group 353 358	group
+T31	Organization 254 284	National Cyber Security Centre
+T32	Organization 289 323	cyber units at PwC and BAE Systems
+T34	Campaign 448 464	indirect attacks
+T35	Person 472 485	Richard Horne
+T36	Organization 487 516	cyber security partner at PwC
+T37	Organization 558 571	organisations
+T38	Hacker-Group 589 594	group
+T39	Time 617 621	2014
+T40	Campaign 640 647	attacks
+T41	Time 651 660	late 2016
+T42	Hacker-Group 694 696	it
+T43	Organization 706 711	firms
+T44	Organization 750 768	large UK companies
+T45	System 720 736	key IT functions
+T46	Organization 770 773	PwC
+T47	Organization 778 781	BAE
+T48	Hacker-Group 791 796	group
+T49	Campaign 814 831	different attacks
+T50	Campaign 845 853	campaign
+T51	Campaign 866 888	Operation Cloud Hopper
+T52	Person 907 934	suppliers of IT outsourcing
+T53	Hacker-Group 940 949	attackers
+T54	System 993 1035	networks and systems of their true targets
+T55	Purpose 963 985	stealthily gain access
+T56	Person 1037 1051	Dr Adrian Nish
+T57	Person 1053 1087	head of threat intelligence at BAE
+T58	Hacker-Group 1098 1107	attackers
+T59	Person 1113 1132	these third parties
+T60	Attack-Pattern 1108 1154	used these third parties as a "stepping stone"
+T61	Organization 1169 1178	companies
+T62	Organization 1183 1196	organisations
+T63	Hacker-Group 1265 1274	attackers
+T64	Attack-Pattern 1229 1255	Infiltrating supply chains
+T65	Organization 1319 1332	Organisations
+T66	Organization 1363 1372	providers
+T67	System 1391 1403	core systems
+T6	Purpose 1425 1459	have deep access to sensitive data
+T68	Organization 1505 1518	organisations
+T69	Organization 1568 1590	security organisations
+T70	Campaign 1616 1630	APT10 campaign
+T71	Organization 1650 1655	firms
+T72	Location 1663 1665	UK
+T73	Location 1667 1673	Europe
+T74	Location 1678 1683	Japan
+T75	Hacker-Group 1706 1711	group
+T76	Organization 1717 1747	National Cyber Security Centre
+T77	Organization 1756 1774	two security firms
+T78	Organization 1787 1800	known victims
+T79	Organization 1806 1810	they
+T8	Attack-Pattern 1856 1894	booby-trapped with custom-made malware
+T9	Attack-Pattern 2009 2066	sought out intellectual property and other sensitive data
+T15	Hacker-Group 2072 2085	hacking group
+T19	System 2099 2114	massive network
+T80	Domain 2118 2123	sites
+T81	Domain 2128 2135	domains
+T82	Campaign 2158 2173	various attacks
+T83	Information 2195 2199	data
+T84	Hacker-Group 2200 2204	they
+T85	Person 2217 2224	Dr Nish
+T86	Course-of-Action 2226 2243	Forensic analysis
+T87	Hacker-Group 2266 2275	attackers
+T88	Organization 2343 2346	PwC
+T89	Organization 2351 2354	BAE
+T90	Hacker-Group 2376 2381	group
+T91	Location 2395 2400	China
+T93	Hacker-Group 2446 2457	APT10 group
+T94	Hacker-Group 2465 2467	it
+T95	Organization 2480 2487	targets
+T96	Attack-Pattern 2308 2338	tools and techniques they used
+T97	Hacker-Group 1197 1201	they
+T101	Organization 1635 1639	they
+T106	Person 1462 1464	he
+T107	Hacker-Group 2329 2333	they
+T108	Pronoun 854 858	they
+*	Coreference T10 T3
+*	Coreference T17 T7
+*	Coreference T2 T55
+*	Coreference T31 T76
+*	Coreference T43 T71
+*	Coreference T47 T89
+*	Coreference T50 T70
+*	Coreference T56 T85 T57 T106
+*	Coreference T5 T66
+*	Coreference T95 T12 T23 T25 T29
+*	Coreference T84 T15
+*	Coreference T4 T28 T30 T38 T42
+*	Coreference T36 T35
+*	Coreference T101 T69
+*	Coreference T65 T68 T79 T78
+T33	Organization 2402 2406	They
+*	Coreference T88 T46
+*	Coreference T94 T93 T22 T87 T49 T53 T18 T82 T20 T58 T63 T97 T107 T90

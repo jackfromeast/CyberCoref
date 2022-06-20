@@ -1,0 +1,78 @@
+T4	Domain 131 146	WordPress sites
+T3	Attack-Pattern 308 339	update “Chrome’s language pack”
+T11	Person 0 12	Chrome users
+T5	Attack-Pattern 131 224	WordPress sites that have been modified to include JavaScript that changes the text rendering
+T6	Code 182 192	JavaScript
+T2	Person 228 235	visitor
+T7	Domain 245 249	page
+T1	Software 316 322	Chrome
+T15	Person 383 385	he
+T16	Person 389 392	she
+T8	Software 500 506	Chrome
+T9	Organization 706 727	NeoSmart Technologies
+T10	Person 729 745	Mahmoud Al-Qudsi
+T17	Software 861 877	Windows Defender
+T18	Software 881 887	Chrome
+T19	File 903 907	file
+T20	Malware 911 918	malware
+T21	Time 924 960	at the time of the initial discovery
+T22	Software 971 981	AV engines
+T23	File 991 993	it
+T24	Software 1043 1049	Chrome
+T25	Person 1060 1065	users
+T26	File 1077 1081	file
+T27	Course-of-Action 1055 1110	tell users that “this file isn’t downloaded very often”
+T28	Person 1187 1192	users
+T29	Campaign 1259 1265	threat
+T30	Malware 1289 1315	malicious Chrome extension
+T31	Person 1336 1344	visitors
+T32	Domain 1348 1365	compromised sites
+T33	Attack-Pattern 1289 1365	malicious Chrome extension that is pushed onto visitors of compromised sites
+T34	Person 1381 1388	victims
+T35	Domain 1412 1417	sites
+T36	Person 1459 1463	they
+T37	Domain 1549 1553	site
+T38	Malware 1506 1515	extension
+T39	Software 1590 1597	browser
+T40	Attack-Pattern 1590 1649	browser is stuck in a never ending loop of fullscreen modes
+T41	Attack-Pattern 1483 1553	request to install the extension in order to be able to leave the site
+T42	Malware 1655 1664	extension
+T43	Person 1682 1689	victims
+T44	Software 1693 1710	unwanted software
+T45	Campaign 1748 1753	scams
+T46	Attack-Pattern 1673 1710	redirect victims to unwanted software
+T47	Malware 1761 1770	extension
+T49	File 1819 1824	image
+T50	Attack-Pattern 1782 1976	stays in hiding by using a 1×1 pixel image as its logo and by hooking chrome://extensions and chrome://settings such that any attempt to access those is automatically redirected to chrome://apps
+T51	Path 1852 1871	chrome://extensions
+T52	Path 1876 1893	chrome://settings
+T53	Path 1963 1976	chrome://apps
+T54	Malware 1989 1991	it
+T55	Malware 2296 2317	Rogue.ForcedExtension
+T56	Malware 2283 2292	extension
+T57	Person 2020 2032	average user
+T58	Software 2045 2055	extensions
+T59	Course-of-Action 2077 2089	uninstalling
+T60	Software 2097 2101	them
+T61	Organization 2104 2116	Malwarebytes
+T62	Person 2118 2131	Jérôme Segura
+T63	Organization 2257 2269	Malwarebytes
+T64	Person 2142 2149	Victims
+T65	Course-of-Action 2163 2186	use a security solution
+T66	Software 2216 2223	browser
+T67	Software 2238 2240	it
+T68	Software 2169 2186	security solution
+T69	Software 2253 2255	it
+T70	Campaign 98 107	first one
+T77	Software 2193 2195	it
+*	Coreference T1 T18 T24 T8
+*	Coreference T25 T28
+*	Coreference T39 T66
+*	Coreference T61 T63
+*	Coreference T23 T19 T26
+T12	Campaign 58 92	malware delivery and scam attempts
+*	Coreference T36 T34
+T13	Malware 1779 1781	it
+*	Coreference T60 T58
+*	Coreference T67 T69 T77 T68
+*	Coreference T56 T55 T13 T47 T42 T54

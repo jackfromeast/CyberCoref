@@ -1,0 +1,55 @@
+T17	Hacker-Group 1395 1413	the SamSam hackers
+T15	Organization 1342 1344	it
+T6	Organization 694 708	municipalities
+T5	Person 713 724	individuals
+T3	Malware 633 639	SamSam
+T18	Organization 682 692	businesses
+T2	Information 539 579	personal or protected health information
+T9	Malware 843 860	SamSam ransomware
+T11	Organization 807 826	the city of Atlanta
+T10	Time 800 805	March
+T12	System 0 10	SOUTH BEND
+T13	System 15 39	local physicians network
+T19	Campaign 59 77	recent cyberattack
+T20	Malware 92 102	ransomware
+T21	System 112 119	network
+T23	Organization 209 216	company
+T24	Campaign 237 248	cyberattack
+T26	Time 252 270	Thursday afternoon
+T25	System 315 322	network
+T27	Course-of-Action 335 396	protect personal and protected health information of patients
+T28	Information 343 396	personal and protected health information of patients
+T29	Organization 402 409	company
+T30	Information 423 427	data
+T31	Person 481 489	patients
+T1	Malware 612 622	ransomware
+T32	Campaign 658 671	other attacks
+T4	Purpose 753 795	unlock files held hostage by the infection
+T7	File 760 765	files
+T8	Organization 879 891	court system
+T33	Money 903 922	water bill payments
+T34	Information 1003 1044	personal and protected health information
+T35	Person 1070 1079	Roussarie
+T36	File 1092 1104	news release
+T37	Person 1113 1115	we
+T38	Campaign 1166 1178	cyberattacks
+T39	Person 1180 1182	we
+T40	Time 1283 1292	last week
+T41	Campaign 1245 1282	future attack of the type experienced
+T42	Course-of-Action 1201 1282	taken additional steps to minimize any such future attack of the type experienced
+T43	Person 1295 1312	Allied Physicians
+T14	Organization 1447 1479	all relevant regulatory agencies
+T16	Organization 1495 1498	FBI
+T44	Campaign 1538 1546	incident
+T45	Person 934 948	city employees
+T46	File 957 970	paper reports
+T50	Organization 1424 1426	it
+*	Coreference T23 T29
+*	Coreference T24 T19
+T22	Person 154 187	Allied Physicians of Michiana CEO
+T51	Person 188 203	Shery Roussarie
+*	Coreference T22 T51 T35
+*	Coreference T21 T25
+*	Coreference T30 T28
+*	Coreference T3 T1 T9
+*	Coreference T15 T50 T11

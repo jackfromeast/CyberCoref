@@ -1,0 +1,78 @@
+T1	Campaign 66 77	data breach
+T3	Information 124 148	the personal information
+T4	Person 175 184	customers
+T2	Organization 81 103	Cathay Pacific Airways
+T6	Campaign 1389 1402	were accessed
+T8	System 1290 1310	its computer network
+T12	Time 1314 1325	early March
+T7	Information 1358 1371	personal data
+T9	Person 1375 1388	its customers
+T10	Organization 1222 1228	Cathay
+T11	Time 1241 1247	Oct 23
+T24	Information 1709 1721	credit cards
+T22	Information 1640 1669	historical travel information
+T23	Information 1610 1634	customer service remarks
+T21	Information 1591 1608	membership number
+T20	Information 1546 1566	identity card number
+T19	Information 1529 1544	passport number
+T18	Information 1509 1527	physical addresses
+T17	Information 1502 1507	email
+T16	Information 1488 1500	phone number
+T15	Information 1473 1486	date of birth
+T14	Information 1460 1471	nationality
+T13	Information 1444 1458	passenger name
+T26	Information 1425 1434	 The data
+T27	Campaign 2241 2257	 the data breach
+T5	Location 1826 1837	Cathay City
+T25	Time 406 412	Nov 14
+T28	Number 163 174	9.4 million
+T29	Organization 760 791	 the Hong Kong Economic Journal
+T31	Hacker-Group 1775 1817	Cyber Security and Technology Crime Bureau
+T32	Time 2469 2483	within 10 days
+T33	Time 2337 2343	Monday
+T34	Person 1971 1997	 a Cathay-appointed lawyer
+T35	Person 1998 2011	 the officers
+T36	Device 2026 2033	servers
+T37	Campaign 1216 1220	them
+T38	Person 2041 2045	they
+T39	Organization 1253 1255	it
+T40	Person 978 980	he
+T41	Person 633 635	he
+T43	Campaign 2401 2403	it
+T44	Organization 0 23	The Legislative Council
+T45	Organization 294 363	 the Democratic Alliance for the Betterment and Progress of Hong Kong
+T46	Person 273 289	Cheung Kwok-kwan
+T47	Organization 369 374	Legco
+T48	Campaign 191 196	calls
+T49	Campaign 231 255	personal data protection
+T50	Campaign 450 467	similar incidents
+T51	Person 533 539	Cheung
+T52	Campaign 395 402	meeting
+T53	Campaign 540 552	 the meeting
+T54	Campaign 960 976	 the discussions
+T55	Person 802 859	Secretary for Constitutional and Mainland Affairs Patrick
+T56	Person 860 872	Nip Tak-kuen
+T30	Person 877 915	Privacy Commissioner for Personal Data
+T57	Person 916 935	Stephen Wong Kai-yi
+T58	Person 988 994	Cheung
+T59	Person 1018 1021	his
+T60	Person 1017 1032	 his colleagues
+T61	Campaign 1062 1071	 the fact
+T42	Organization 2137 2148	 the police
+T62	Organization 2177 2180	its
+T63	Person 2308 2312	Wong
+T64	Person 2349 2352	his
+T65	Organization 2379 2391	 the airline
+T66	Organization 2443 2449	Cathay
+*	Coreference T1 T27 T50 T43
+*	Coreference T45 T47
+*	Coreference T48 T49
+*	Coreference T46 T51 T41 T40 T58 T59
+*	Coreference T52 T53 T54
+*	Coreference T55 T56
+*	Coreference T30 T57
+*	Coreference T61 T37
+*	Coreference T2 T10 T39 T65 T66
+*	Coreference T7 T26
+*	Coreference T31 T35 T38 T42 T62
+*	Coreference T63 T64

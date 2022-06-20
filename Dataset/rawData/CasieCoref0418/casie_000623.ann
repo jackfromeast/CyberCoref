@@ -1,0 +1,47 @@
+T2	Campaign 120 128	a breach
+T5	Information 49 62	personal data
+T3	Person 81 90	taxpayers
+T6	Campaign 507 517	the breach
+T7	Person 479 485	people
+T9	Money 522 533	$30 million
+T4	Software 4 28	Internal Revenue Service
+T8	Software 30 33	IRS
+T10	Number 66 80	nearly 100,000
+T11	Organization 181 210	Chronicle of Higher Education
+T12	Organization 408 432	Senate Finance Committee
+T13	Person 434 443	IRS chief
+T14	Person 444 457	John Koskinen
+T15	Number 463 469	35,000
+T16	Number 555 560	8,000
+T17	Money 561 583	fraudulent tax refunds
+T18	Software 589 592	IRS
+T1	Software 136 175	tool to apply for student financial aid
+T19	Software 224 277	Free Application for Federal Student Aid (FAFSA) tool
+T20	Time 299 304	March
+T21	Campaign 335 343	activity
+T22	Time 377 384	October
+T23	Course-of-Action 790 826	adequate protection for users’ data”
+T24	Information 814 826	users’ data”
+T25	Person 642 678	Senator Lamar Alexander of Tennessee
+T26	Organization 686 697	authorities
+T27	Software 745 764	data-retrieval tool
+T28	Organization 832 838	agency
+T29	Time 866 885	September last year
+T30	Hacker-Group 917 924	hackers
+T31	Software 891 896	FAFSA
+T32	Person 1095 1103	Koskinen
+T33	Person 1124 1143	Wall Street Journal
+T34	Software 935 937	it
+T35	Hacker-Group 973 982	criminals
+T36	Number 1062 1070	millions
+T37	Person 1074 1092	people who used it
+T38	Software 1090 1092	it
+T39	Software 1019 1021	it
+T40	Organization 1011 1013	us
+T43	Software 998 1000	it
+*	Coreference T2 T6
+*	Coreference T5 T24
+*	Coreference T8 T18
+*	Coreference T14 T32
+*	Coreference T34 T43 T39
+*	Coreference T28 T40

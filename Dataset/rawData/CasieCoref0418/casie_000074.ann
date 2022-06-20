@@ -1,0 +1,100 @@
+T23	Vulnerability 1924 1939	vulnerabilities
+T21	Organization 1876 1881	Foxit
+T22	Time 1882 1891	last week
+T26	Vulnerability 2045 2050	flaws
+T25	Software 2074 2082	programs
+T27	Time 2094 2103	this year
+T10	Organization 2066 2071	Foxit
+T34	Vulnerability 2290 2301	usual flaws
+T11	Organization 2319 2324	Adobe
+T33	Organization 2353 2362	Microsoft
+T32	Time 2401 2410	9 October
+T3	Course-of-Action 19 26	updates
+T2	Organization 0 5	Adobe
+T5	Vulnerability 49 73	security vulnerabilities
+T19	Vulnerability 1420 1435	vulnerabilities
+T18	Person 1375 1386	researchers
+T9	Software 120 138	Acrobat and Reader
+T8	System 100 107	Windows
+T7	System 92 95	Mac
+T14	Vulnerability 1241 1246	flaws
+T15	Software 1267 1275	products
+T16	Organization 1285 1292	company
+T1	Number 36 45	long list
+T4	Time 160 167	October
+T6	Course-of-Action 168 174	update
+T13	Vulnerability 185 189	CVEs
+T29	Number 182 184	85
+T31	Number 201 203	47
+T35	Number 243 245	39
+T36	Vulnerability 314 319	flaws
+T37	Number 359 361	46
+T38	Attack-Pattern 371 385	code execution
+T39	Number 390 393	one
+T40	Attack-Pattern 403 423	privilege escalation
+T41	Vulnerability 445 450	flaws
+T42	Vulnerability 475 500	out-of-bounds read issues
+T43	Attack-Pattern 512 534	information disclosure
+T44	Organization 546 551	Adobe
+T45	Course-of-Action 602 608	update
+T46	Version 646 653	version
+T47	System 687 694	Windows
+T48	System 698 701	Mac
+T49	Software 724 734	Acrobat DC
+T50	Version 740 752	paid version
+T51	Software 757 774	Acrobat Reader DC
+T52	Version 776 780	free
+T53	Version 794 823	update version 2019.008.20071
+T54	Software 847 867	classic Acrobat 2017
+T55	Software 871 893	Acrobat Reader DC 2017
+T56	Version 900 922	version 2017.011.30105
+T57	Software 951 976	classic Acrobat DC (2015)
+T58	Software 980 1004	Acrobat Reader DC (2015)
+T59	Version 1010 1032	version 2015.006.30456
+T60	Software 1064 1074	Acrobat XI
+T61	Software 1078 1087	Reader XI
+T62	Device 1097 1105	computer
+T63	Version 1111 1123	last version
+T64	Version 1128 1135	11.0.23
+T65	Time 1166 1174	year ago
+T17	Hacker-Group 1447 1455	bad guys
+T66	Organization 1463 1468	Adobe
+T67	Course-of-Action 1487 1492	fixes
+T68	Organization 1585 1592	company
+T69	Vulnerability 1616 1626	formal bug
+T70	Software 1673 1697	web applications program
+T71	Organization 1712 1725	party company
+T72	Organization 1727 1736	HackerOne
+T73	Vulnerability 1544 1547	one
+T74	Vulnerability 1551 1555	them
+T75	Organization 1741 1746	Adobe
+T76	Number 1749 1751	85
+T77	Vulnerability 1752 1767	vulnerabilities
+T78	Software 1828 1844	Foxit PDF Reader
+T79	Software 1849 1874	Foxit PhantomPDF programs
+T24	Number 1920 1923	116
+T12	Number 2114 2117	183
+T20	Time 2130 2139	September
+T80	Number 2161 2163	76
+T81	Time 2181 2185	2017
+T82	Organization 2194 2199	Adobe
+T83	Course-of-Action 2207 2214	updates
+T84	Organization 2258 2265	company
+T85	Time 2266 2276	this month
+T28	Software 2327 2347	legacy Flash plug-in
+T30	Course-of-Action 2376 2389	Windows Patch
+T86	Time 2390 2397	Tuesday
+T87	Person 654 657	you
+*	Coreference T21 T10 T90
+*	Coreference T8 T47
+*	Coreference T7 T48
+*	Coreference T29 T76
+*	Coreference T45 T3 T83 T6
+*	Coreference T5 T13 T34 T41 T36 T14 T42
+*	Coreference T44 T2 T66 T68 T75 T82 T84
+T88	Person 609 612	you
+T91	Time 1338 1348	these days
+*	Coreference T74 T19
+*	Coreference T71 T72
+T90	Organization 1949 1952	own
+*	Coreference T26 T23

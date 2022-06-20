@@ -1,0 +1,133 @@
+T25	Vulnerability 880 913	website application vulnerability
+T46	Vulnerability 937 950	CVE-2017-5638
+T26	Vulnerability 923 936	Apache Struts
+T30	Time 986 993	March 7
+T15	Campaign 319 327	breaches
+T14	Information 342 364	private financial data
+T17	Person 390 399	consumers
+T42	Person 331 340	consumers
+T43	Organization 283 290	Equifax
+T19	Information 414 434	the credit-card data
+T20	Organization 448 466	the industry group
+T22	Campaign 562 577	data compromise
+T44	Organization 554 561	Equifax
+T24	Information 850 867	its customer data
+T27	Hacker-Group 819 828	criminals
+T28	Time 800 814	late Wednesday
+T10	Organization 191 198	Equifax
+T49	Course-of-Action 624 640	security updates
+T45	Organization 590 597	Equifax
+T35	Course-of-Action 2034 2041	patched
+T34	Organization 2017 2021	They
+T36	Time 2045 2064	as soon as possible
+T37	Time 2066 2086	not to exceed a week
+T32	Course-of-Action 1708 1715	patches
+T51	Organization 1642 1649	Equifax
+T38	Course-of-Action 2114 2121	patched
+T40	Organization 2088 2102	A typical bank
+T39	Vulnerability 2122 2149	this critical vulnerability
+T41	Time 2157 2167	a few days
+T31	Vulnerability 953 970	The vulnerability
+T5	Course-of-Action 142 154	shared a fix
+T6	Vulnerability 159 162	it,
+T3	Organization 93 110	an industry group
+T2	Vulnerability 122 137	the coding flaw
+T7	Vulnerability 45 75	Equifax security vulnerability
+T8	Time 76 86	two months
+T53	Vulnerability 1008 1010	it
+T54	Organization 2784 2786	it
+T56	Organization 2391 2395	they
+T58	Organization 2961 2963	it
+T60	Organization 1752 1754	We
+T61	Software 2042 2044	it
+T62	Organization 1895 1897	it
+T63	Person 2563 2566	she
+*	Coreference T17 T42
+*	Coreference T20 T3 T72
+*	Coreference T10 T43 T44 T45 T51 T18 T60 T62 T90 T34 T96 T104 T106 T107 T54
+T12	Location 0 13	SAN FRANCISCO
+T13	Hacker-Group 16 23	Hackers
+T1	Software 213 225	its software
+T4	Number 378 389	143 million
+T9	Number 438 445	209,000
+T11	Software 484 504	open source software
+T16	Campaign 518 522	hack
+T18	Organization 539 546	Equifax
+T21	Organization 675 692	Apache Foundation
+T48	Software 725 745	open source software
+T57	Time 767 775	Thursday
+T64	Organization 777 784	Equifax
+T65	Organization 790 799	USA TODAY
+T23	Purpose 833 867	gained access to its customer data
+T29	Course-of-Action 975 982	patched
+T47	Time 999 1007	same day
+T50	Organization 1030 1047	Apache Foundation
+T52	Person 1054 1081	Cybersecurity professionals
+T66	Software 1129 1149	open-source software
+T67	Code 1152 1156	code
+T68	Organization 1174 1192	major corporations
+T69	Person 1227 1237	developers
+T70	Organization 1261 1266	firms
+T71	Number 1249 1257	hundreds
+T72	Organization 1305 1319	industry group
+T73	Organization 1358 1365	company
+T74	Software 1376 1384	software
+T75	Time 1413 1421	March 10
+T76	Course-of-Action 1386 1399	Modifications
+T77	Organization 1440 1471	National Vulnerability Database
+T78	Time 1477 1493	two months later
+T79	Hacker-Group 1495 1502	hackers
+T80	Vulnerability 1525 1538	vulnerability
+T81	Purpose 1542 1585	enter the credit reporting agency's systems
+T82	Organization 1587 1594	Equifax
+T83	System 1569 1585	agency's systems
+T84	Campaign 1604 1623	unauthorized access
+T85	Time 1633 1640	mid-May
+T86	Time 1680 1689	Wednesday
+T33	Organization 1777 1792	law enforcement
+T87	Attack-Pattern 1847 1871	indicators of compromise
+T88	Course-of-Action 1840 1892	shared indicators of compromise with law enforcement
+T89	Organization 1877 1892	law enforcement
+T55	Vulnerability 1967 1974	problem
+T90	Organization 1904 1906	It
+T91	Person 1982 2009	cybersecurity professionals
+T59	Person 2175 2189	Pravin Kothari
+T92	Person 2191 2209	CEO of CipherCloud
+T93	Organization 2198 2209	CipherCloud
+T94	Organization 2213 2235	cloud security company
+T95	Person 2237 2255	Federal regulators
+T96	Organization 2286 2293	Equifax
+T97	Organization 2311 2335	Federal Trade Commission
+T98	Organization 2344 2380	Consumer Financial Protection Bureau
+T99	Campaign 2422 2426	hack
+T100	Person 2445 2468	state attorneys general
+T101	Campaign 2491 2497	breach
+T102	Time 2506 2513	Tuesday
+T103	Person 2514 2557	Massachusetts Attorney General Maura Healey
+T104	Organization 2584 2591	company
+T105	Number 2638 2650	More than 23
+T106	Organization 2685 2692	company
+T107	Organization 2729 2736	Equifax
+T108	Person 2755 2764	customers
+T109	Software 2795 2800	tools
+T110	Information 2805 2816	information
+T111	Organization 2855 2862	Equifax
+T112	Time 2901 2909	Thursday
+T113	Campaign 2928 2937	FTC probe
+T114	Organization 2928 2931	FTC
+*	Coreference T64 T22 T82
+*	Coreference T25 T26 T46 T2 T7 T6 T80 T55
+*	Coreference T31 T53
+*	Coreference T47 T30
+*	Coreference T50 T21
+*	Coreference T67 T66 T74
+*	Coreference T84 T15 T99 T101 T16
+*	Coreference T79 T13
+*	Coreference T89 T33
+*	Coreference T61 T83
+*	Coreference T36 T37
+*	Coreference T59 T92
+*	Coreference T93 T94
+*	Coreference T103 T63
+*	Coreference T114 T97 T58
+*	Coreference T11 T1

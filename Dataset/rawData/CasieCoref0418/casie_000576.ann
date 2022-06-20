@@ -1,0 +1,62 @@
+T6	Device 1131 1140	computers
+T2	Campaign 74 100	WannaCry ransomware attack
+T1	Location 55 66	North Korea
+T3	Person 138 144	people
+T4	Time 158 161	May
+T11	Hacker-Group 618 622	dump
+T12	Organization 626 650	National Security Agency
+T13	Software 669 677	software
+T10	Hacker-Group 572 585	hacking group
+T9	Hacker-Group 554 568	Shadow Brokers
+T8	Organization 4 43	United States’ National Security Agency
+T14	Number 119 137	more than 3,00,000
+T15	Organization 172 191	The Washington Post
+T16	Organization 198 201	NSA
+T17	Attack-Pattern 211 218	tactics
+T18	Attack-Pattern 220 230	techniques
+T19	Person 235 242	targets
+T20	Hacker-Group 261 290	Reconnaissance General Bureau
+T21	Hacker-Group 292 316	North Korea’s spy agency
+T22	Campaign 333 339	attack
+T23	Time 380 389	last week
+T24	File 347 357	assessment
+T25	File 442 452	assessment
+T26	Hacker-Group 458 470	cyber actors
+T27	Organization 505 508	RGB
+T28	Version 522 537	two versions of
+T29	Malware 522 546	two versions of WannaCry
+T30	Vulnerability 714 727	vulnerability
+T31	System 735 799	computer systems used by government agencies and other companies
+T32	Organization 760 779	government agencies
+T33	Organization 784 799	other companies
+T34	Vulnerability 805 818	vulnerability
+T35	Malware 830 838	WannaCry
+T36	Malware 863 869	itself
+T37	Vulnerability 918 931	vulnerability
+T38	Organization 955 958	NSA
+T39	Vulnerability 963 974	EternalBlue
+T40	Malware 977 985	WannaCry
+T41	Malware 991 1009	malicious software
+T42	System 1028 1035	systems
+T43	Location 1073 1082	countries
+T44	Campaign 1088 1100	cyber attack
+T45	Time 1104 1107	May
+T46	Number 1069 1072	150
+T5	Malware 1109 1111	It
+T47	Malware 1141 1143	it
+T48	Money 1208 1216	bitcoins
+T7	Campaign 1222 1240	major cyber attack
+T49	Location 1254 1269	several nations
+T50	Attack-Pattern 1271 1359	bringing operations at hospitals, telecommunications firms and other companies to a halt
+T51	Organization 1294 1303	hospitals
+T52	Organization 1305 1329	telecommunications firms
+T53	Organization 1334 1349	other companies
+T54	Attack-Pattern 1116 1127	locked data
+*	Coreference T4 T45
+*	Coreference T16 T38 T12 T8
+*	Coreference T24 T25
+*	Coreference T34 T37 T30
+*	Coreference T20 T21
+*	Coreference T22 T2
+*	Coreference T9 T10
+*	Coreference T5 T47 T35 T40 T29 T36 T41

@@ -1,0 +1,86 @@
+T28	Campaign 1309 1313	said
+T27	Organization 1303 1308	Intel
+T30	Campaign 1317 1324	learned
+T31	Vulnerability 1331 1348	the vulnerability
+T32	Person 1354 1375	a security researcher
+T33	Time 1379 1384	March
+T29	Organization 1314 1316	it
+T5	Campaign 174 183	disclosed
+T7	Vulnerability 155 172	The vulnerability
+T6	Time 187 193	Monday
+T8	Campaign 195 202	affects
+T9	System 215 229	Intel firmware
+T1	Campaign 6 18	is reporting
+T2	Organization 0 5	Intel
+T3	Vulnerability 19 43	a firmware vulnerability
+T4	Attack-Pattern 55 106	let attackers take over remote management functions
+T38	Time 137 153	 the past decade
+T43	Device 110 119	computers
+T17	Campaign 506 518	can be found
+T18	Device 535 550	Core processors
+T19	Device 583 604	first-generation Core
+T37	Organization 575 580	Intel
+T21	Campaign 1156 1163	provide
+T20	Vulnerability 1185 1202	the vulnerability
+T22	Organization 1143 1148	Intel
+T23	Campaign 1211 1215	said
+T24	Organization 1208 1210	it
+T25	Vulnerability 1235 1243	the flaw
+T26	Attack-Pattern 1247 1288	take over the remote management functions
+T42	Organization 1521 1534	manufacturers
+T34	Campaign 1480 1492	has prepared
+T36	Organization 1466 1471	Intel
+T35	Course-of-Action 1493 1500	a patch
+T10	Campaign 416 428	should patch
+T11	System 402 415	their systems
+T14	Software 298 332	Intel Active Management Technology
+T13	Software 334 365	Intel Small Business Technology
+T12	Software 370 398	Intel Standard Manageability
+T15	Vulnerability 429 433	them
+T39	Campaign 1398 1403	aware
+T40	Vulnerability 1426 1445	 this vulnerability
+T44	Device 645 649	They
+T47	Software 1013 1015	it
+T48	Course-of-Action 1543 1545	it
+T50	Organization 1477 1479	it
+T41	Hacker-Group 59 68	attackers
+T51	Organization 280 291	Enterprises
+T49	Organization 454 466	 the company
+T16	Software 203 211	features
+T52	Software 472 505	 The vulnerable firmware features
+T53	Device 613 620	Nehalem
+T54	System 690 720	Intel's manageability firmware
+T55	Organization 751 763	 the company
+T56	Person 725 733	consumer
+T57	Device 734 737	PCs
+T58	Device 778 797	data-center servers
+T59	Software 838 872	Intel Active Management Technology
+T60	Organization 915 928	organizations
+T61	Device 979 998	connected computers
+T62	Software 875 885	 a feature
+T63	Device 1095 1098	PCs
+T64	Device 889 904	Core processors
+T46	Hacker-Group 1215 1224	 a hacker
+T65	Software 1256 1288	 the remote management functions
+T66	Software 79 106	remote management functions
+T45	Organization 1447 1459	 the company
+T67	Person 1553 1558	users
+T68	Person 1626 1631	users
+T69	Person 1656 1660	they
+T70	Organization 1580 1585	Intel
+T71	Device 1687 1690	PCs
+T72	Software 1747 1778	Intel Active Management feature
+*	Coreference T28 T23
+*	Coreference T4 T26
+*	Coreference T40 T7 T31 T3 T20 T15 T25
+*	Coreference T16 T52
+*	Coreference T19 T53 T44
+*	Coreference T9 T54
+*	Coreference T57 T43 T61 T63 T71
+*	Coreference T59 T14 T47 T62 T72
+*	Coreference T64 T18
+*	Coreference T66 T65
+*	Coreference T60 T51
+*	Coreference T27 T29 T49 T2 T37 T55 T22 T24 T36 T50 T45 T70
+*	Coreference T67 T56 T68 T69
+*	Coreference T35 T48

@@ -1,0 +1,80 @@
+T2	Software 0 8	Wishbone
+T4	Information 125 132	records
+T5	Purpose 146 166	sale on the Dark Web
+T9	Hacker-Group 188 197	attackers
+T7	Person 208 222	Wishbone users
+T11	Person 270 275	users
+T14	Information 325 342	telephone numbers
+T13	Information 305 320	email addresses
+T12	Information 240 257	real or nicknames
+T8	Information 224 234	user names
+T16	File 482 494	MongoDB file
+T17	Software 467 475	database
+T18	Campaign 559 563	leak
+T19	Software 607 619	Wishbone API
+T20	Campaign 995 999	leak
+T10	Campaign 172 178	breach
+T22	Information 915 926	information
+T3	Software 14 41	social media-based quiz app
+T23	Person 46 51	teens
+T24	Person 56 68	young adults
+T1	Email 360 365	email
+T6	Organization 378 385	company
+T25	Person 389 394	users
+T26	Domain 406 414	Pastebin
+T27	Person 429 461	independent researcher Troy Hunt
+T15	Vulnerability 514 553	inadvertently left open to the internet
+T28	Vulnerability 588 601	vulnerability
+T29	Organization 625 632	company
+T30	Organization 671 678	company
+T31	Device 646 657	Motherboard
+T32	Organization 695 697	it
+T33	Device 658 661	one
+T34	Person 704 711	Parents
+T35	Software 748 756	Wishbone
+T36	Software 766 775	other app
+T37	Person 776 790	their children
+T38	Course-of-Action 805 854	see if any personal information is stored in them
+T39	Information 816 836	personal information
+T40	Software 850 854	them
+T41	Course-of-Action 861 926	having a talk with kids about the dangers of exposing information
+T42	Person 880 884	kids
+T21	Organization 967 971	Hunt
+T43	Software 1003 1041	his searchable HaveIBeenPwned database
+T44	Person 1046 1053	parents
+T45	Person 1076 1081	child
+T46	Person 1087 1093	victim
+T47	Person 1096 1105	Teenagers
+T48	Software 1244 1255	social apps
+T49	Person 1263 1275	Sanjay Kalra
+T50	Person 1277 1313	co-founder and chief product officer
+T51	Organization 1317 1325	Lacework
+T52	Organization 1329 1365	provider of cloud security solutions
+T53	Information 1470 1481	information
+T54	Person 1496 1503	Parents
+T55	Person 1376 1382	parent
+T56	Person 1390 1398	teenager
+T57	Course-of-Action 1511 1560	be in constant communication with their teenagers
+T58	Person 1551 1560	teenagers
+T59	Course-of-Action 1562 1618	explaining the risks associated with information sharing
+T60	Course-of-Action 1623 1667	training them on basics of internet security
+T61	Person 1632 1636	them
+T62	Person 1669 1673	They
+T63	Course-of-Action 1709 1738	use multiple strong passwords
+T64	Course-of-Action 1740 1765	anonymization of the data
+T65	Information 1761 1765	data
+T68	Person 1451 1454	You
+T71	Person 1694 1698	them
+*	Coreference T11 T25 T7
+*	Coreference T18 T20 T10
+*	Coreference T22 T53 T39
+*	Coreference T34 T44 T54 T55 T68 T62
+*	Coreference T56 T58 T47 T23 T61 T71
+*	Coreference T30 T29 T6
+*	Coreference T3 T2 T35
+T72	Number 113 124	9.4 million
+*	Coreference T16 T17
+*	Coreference T40 T36
+*	Coreference T45 T42
+*	Coreference T50 T49
+*	Coreference T52 T51

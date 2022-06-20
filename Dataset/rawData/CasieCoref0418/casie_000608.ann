@@ -1,0 +1,232 @@
+T10	Information 1461 1472	birth dates
+T9	Information 1433 1456	Social Security numbers
+T6	Information 1380 1394	sensitive data
+T8	Person 1412 1421	consumers
+T13	Time 1311 1321	this month
+T61	Organization 1353 1365	Equifax Inc.
+T50	Organization 6206 6212	stores
+T48	Software 6172 6196	the credit card database
+T46	Hacker-Group 6143 6158	foreign hackers
+T51	Time 6062 6066	2014
+T52	Campaign 6301 6316	the data breach
+T54	Person 6343 6352	customers
+T32	Email 2206 2224	the phishing email
+T29	Person 2172 2183	an employee
+T20	Hacker-Group 2393 2400	Hackers
+T22	Hacker-Group 2264 2271	Hackers
+T23	Attack-Pattern 2281 2294	encrypt files
+T25	Organization 2351 2363	the business
+T24	Organization 2325 2336	the company
+T26	Campaign 4461 4478	phishing campaign
+T33	Email 4421 4431	The emails
+T34	Purpose 4484 4524	seeks passwords and personal information
+T5	Campaign 1031 1044	data breaches
+T1	Campaign 831 844	a data breach
+T2	Organization 849 863	U.S. companies
+T3	Time 918 927	June 2017
+T27	Money 867 879	$7.4 million
+T55	Money 884 888	$225
+T42	Person 5088 5099	a colleague
+T43	Email 4970 4990	Non-Northwell emails
+T44	Campaign 5978 5988	Data leaks
+T45	Organization 5992 6013	Long Island companies
+T40	Time 4529 4534	April
+T39	Organization 4550 4559	Northwell
+T37	Email 4569 4584	phishing emails
+T17	Email 1927 1942	phishing emails
+T18	Malware 1882 1899	specialized tools
+T15	Hacker-Group 1859 1873	cybercriminals
+T57	Person 4636 4645	employees
+T14	Campaign 1817 1836	a ransomware attack
+T7	Person 0 21	Cybersecurity experts
+T21	Organization 26 35	companies
+T49	Location 39 50	Long Island
+T53	Information 88 100	weakest link
+T62	System 104 129	company computer networks
+T63	Person 135 143	employee
+T64	Person 151 178	cybersecurity professionals
+T65	Person 225 234	employees
+T66	Email 250 265	phishing emails
+T67	Email 277 285	messages
+T68	Information 306 321	key information
+T69	Information 331 340	passwords
+T70	Vulnerability 465 480	biggest problem
+T71	Person 513 519	people
+T72	Person 527 542	Laurin Buchanan
+T73	Person 544 586	principal investigator at Secure Decisions
+T74	Money 815 827	average cost
+T4	Organization 937 940	IBM
+T75	Organization 945 966	the Ponemon Institute
+T76	Money 1014 1019	Costs
+T77	Organization 1328 1352	credit reporting company
+T78	Number 1400 1411	143 million
+T11	Organization 1508 1529	Stifel Financial Corp
+T79	Campaign 1550 1556	attack
+T80	Organization 1567 1574	Equifax
+T81	Money 1581 1593	$300 million
+T82	Person 1614 1623	Investors
+T83	Campaign 1642 1650	incident
+T84	Time 1714 1724	this month
+T85	Person 1726 1738	Henry Prince
+T86	Person 1740 1798	chief security officer at Shellproof Security in Greenvale
+T16	Attack-Pattern 1922 1942	send phishing emails
+T87	Software 1974 1982	software
+T88	Hacker-Group 1994 2001	hackers
+T89	Person 2039 2045	Prince
+T90	Email 2052 2067	Phishing emails
+T91	Course-of-Action 2086 2107	company email filters
+T92	Course-of-Action 2109 2118	firewalls
+T93	Course-of-Action 2123 2142	anti-virus software
+T28	URL 2198 2202	link
+T30	System 2230 2247	business’ network
+T31	Person 2365 2371	Prince
+T19	Money 2454 2468	cryptocurrency
+T94	Money 2474 2481	Bitcoin
+T95	Money 2486 2499	digital asset
+T96	File 2554 2559	files
+T97	Malware 2562 2572	Ransomware
+T98	Person 2605 2611	Prince
+T99	Person 2596 2602	people
+T100	Malware 2652 2662	ransomware
+T101	Person 2701 2714	Della Ragione
+T102	Vulnerability 2743 2756	greatest risk
+T103	Organization 2762 2769	company
+T104	Person 2777 2786	employees
+T105	Person 2880 2893	local experts
+T106	Organization 2898 2907	companies
+T107	Organization 3104 3111	company
+T108	Money 3123 3143	more than $1 million
+T109	Organization 3228 3259	Department of Homeland Security
+T110	Money 3284 3292	$162,262
+T111	Organization 3302 3329	National Science Foundation
+T112	Person 367 381	top executives
+T113	Campaign 426 433	hacking
+T114	Time 783 787	2016
+T115	File 788 793	study
+T116	Organization 797 809	IBM Security
+T117	Campaign 670 684	cyber-assaults
+T118	Organization 688 698	businesses
+T119	Number 653 666	Sixty percent
+T120	File 928 933	study
+T122	Person 1171 1180	customers
+T123	Organization 1691 1713	seminar in Garden City
+T124	Organization 2384 2391	seminar
+T125	Time 2619 2650	Ninety-nine percent of the time
+T126	Person 6214 6227	Joseph Neglia
+T127	Person 6229 6283	director of information technology at Uncle Giuseppe’s
+T59	Number 6339 6342	100
+T128	Organization 6358 6365	company
+T129	Course-of-Action 6372 6412	scheduling “monthly vulnerability scans”
+T130	Course-of-Action 6417 6461	upgraded its monitoring and security systems
+T131	System 6445 6461	security systems
+T132	Organization 6467 6477	businesses
+T133	Person 6479 6497	Stony Brook’s Sion
+T134	Campaign 6508 6528	cybersecurity threat
+T135	Device 6581 6588	machine
+T136	Person 6625 6627	he
+T58	Number 6200 6205	three
+T47	Organization 6068 6103	Farmingdale-based supermarket chain
+T60	Organization 6104 6132	Uncle Giuseppe’s Marketplace
+T137	Person 6026 6036	executives
+T138	Person 5912 5922	executives
+T139	Campaign 5867 5887	high-profile attacks
+T140	Person 5848 5861	Della Ragione
+T141	Person 5968 5971	she
+T142	Person 5645 5660	Richard Frankel
+T143	Person 5662 5688	a former FBI special agent
+T144	Organization 5710 5723	Ruskin Moscou
+T145	Person 5788 5792	CEOs
+T146	Person 5302 5313	Drew Walker
+T147	Person 5317 5337	cybersecurity expert
+T148	Organization 5341 5357	Vector Solutions
+T149	Location 5361 5375	Tampa, Florida
+T150	Person 5387 5397	executives
+T151	Vulnerability 5426 5441	vulnerabilities
+T152	System 5451 5467	computer systems
+T153	Vulnerability 5492 5496	hole
+T154	Person 5503 5507	them
+T155	Person 5537 5541	them
+T156	Person 5286 5300	top executives
+T157	Person 5172 5175	she
+T158	Person 5110 5123	the employees
+T159	Organization 5156 5169	security team
+T41	Person 5061 5070	outsiders
+T160	Software 4956 4968	Another tool
+T161	Email 4779 4784	email
+T162	Email 4838 4844	emails
+T163	Hacker-Group 4935 4942	hackers
+T164	Person 4924 4929	users
+T165	Email 4867 4878	newsletters
+T166	Software 4880 4893	screen savers
+T167	Information 4898 4913	digital signage
+T168	Person 4741 4744	she
+T56	Person 4663 4667	user
+T36	Person 4603 4609	Hughes
+T38	Person 4699 4701	We
+T35	Information 4490 4499	passwords
+T169	Information 4504 4524	personal information
+T170	Person 4291 4303	Kathy Hughes
+T171	Person 4305 4368	Northwell vice president and chief information security officer
+T172	Location 3737 3752	Washington, D.C
+T173	Organization 3707 3733	DHS cybersecurity workshop
+T174	Time 3697 3701	July
+T175	Person 3754 3763	Radu Sion
+T176	Person 3767 3808	computer science professor at Stony Brook
+T177	Person 3813 3856	director of its National Security Institute
+T178	Person 4020 4022	he
+T179	Organization 3651 3673	Stony Brook University
+T180	Organization 3637 3646	companies
+T181	Person 3577 3585	Buchanan
+T182	Person 3477 3483	people
+T183	Location 4203 4217	New York State
+T184	Person 4268 4289	inattentive employees
+T185	Person 4175 4199	largest private employer
+T186	System 4124 4162	New Hyde Park-based health care system
+T187	Person 4075 4080	users
+T188	System 4102 4118	Northwell Health
+T189	Person 3969 3974	users
+T190	Person 3546 3553	experts
+T191	Person 3026 3035	employees
+T192	Course-of-Action 3044 3098	detecting “phishing” emails and other hacking attempts
+T193	Email 3054 3071	“phishing” emails
+T198	File 2317 2321	them
+T200	Organization 3675 3679	They
+T201	Person 5610 5612	he
+T203	Pronoun 6603 6605	it
+T205	Person 4710 4714	them
+T206	Person 5135 5139	they
+T209	Person 3464 3467	you
+T211	Person 4790 4794	they
+*	Coreference T61 T80 T77
+*	Coreference T72 T181 T73
+*	Coreference T31 T98 T85 T89 T123 T86
+*	Coreference T36 T170 T171 T168 T157
+*	Coreference T136 T133
+*	Coreference T141 T101 T140
+*	Coreference T27 T74
+T121	Location 968 993	a Traverse City, Michigan
+*	Coreference T83 T79 T213
+T213	Campaign 1267 1291	One of the largest hacks
+T12	File 2289 2294	files
+*	Coreference T198 T12 T96
+*	Coreference T95 T94
+*	Coreference T175 T176 T177 T178
+*	Coreference T188 T186
+*	Coreference T146 T147 T201
+*	Coreference T142 T143
+*	Coreference T47 T60
+*	Coreference T126 T127
+*	Coreference T53 T63
+*	Coreference T71 T70
+T194	Money 1235 1265	cost to a company’s reputation
+T196	Money 1061 1074	investigation
+T199	Money 1076 1105	legal costs to defend against
+T202	Money 1110 1138	settle class-action lawsuits
+T207	Money 1140 1180	credit monitoring for affected customers
+T208	Money 1186 1210	coverage of fraud losses
+*	Coreference T20 T22
+T210	Information 3172 3197	interactive comic project
+T214	Information 3208 3217	Comic-BEE
+*	Coreference T210 T214
+*	Coreference T158 T206
+*	Coreference T154 T155 T150

@@ -1,0 +1,57 @@
+T42	Campaign 433 445	be exploited
+T43	Vulnerability 353 356	bug
+T44	Attack-Pattern 446 489	given access to the router over LAN or WLAN
+T45	Person 492 494	he
+T1	Campaign 58 78	released information
+T6	Organization 37 57	Trustwave SpiderLabs
+T7	Time 0 9	Yesterday
+T29	Campaign 115 124	affecting
+T2	Vulnerability 85 114	an authentication bypass flaw
+T3	Device 143 158	Netgear routers
+T4	Code 171 186	PoC attack code
+T32	Campaign 244 256	be exploited
+T33	Vulnerability 225 238	CVE-2017-5521
+T34	Vulnerability 210 223	vulnerability
+T41	Device 340 346	device
+T35	Attack-Pattern 273 324	discover the password required to take over control
+T13	Vulnerability 926 943	the vulnerability
+T15	Time 951 961	a year ago
+T14	Person 912 914	He
+T37	Vulnerability 976 978	it
+T38	Time 984 987	now
+T10	Campaign 1462 1482	listed as vulnerable
+T11	Device 1434 1440	models
+T17	Campaign 1021 1029	push out
+T18	Device 1058 1065	devices
+T16	Organization 996 1003	Netgear
+T8	Course-of-Action 1030 1044	fixed firmware
+T20	Device 1152 1170	vulnerable routers
+T21	Organization 1083 1090	Netgear
+T22	Time 1071 1082	June [2016]
+T47	Device 1391 1397	models
+T39	Campaign 1496 1520	listed as not vulnerable
+T40	Time 1492 1495	now
+T26	Attack-Pattern 1650 1676	be reproduced with the POC
+T25	Version 1595 1604	DGN2200v4
+T28	Organization 1704 1713	Trustwave
+T30	Attack-Pattern 1732 1770	remotely accessible vulnerable devices
+T31	Attack-Pattern 1811 1858	non-remotely accessible affected devices in use
+T19	Course-of-Action 1115 1129	provided a fix
+T51	Vulnerability 202 204	it
+T52	Organization 1446 1450	they
+T53	Organization 1202 1206	They
+T55	Person 1291 1293	he
+*	Coreference T6 T28
+*	Coreference T10 T39
+*	Coreference T11 T47
+*	Coreference T16 T21 T53 T52
+T5	Person 11 21	researcher
+T9	Person 22 33	Simon Kenin
+*	Coreference T5 T9 T45 T14 T55
+*	Coreference T34 T33 T2 T51 T43 T13 T37
+T23	Person 545 549	user
+T24	Person 858 862	they
+T27	Person 653 657	user
+*	Coreference T23 T27
+T12	Number 1377 1379	31
+T36	Number 1432 1433	2

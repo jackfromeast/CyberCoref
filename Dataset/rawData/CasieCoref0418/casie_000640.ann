@@ -1,0 +1,94 @@
+T3	Software 243 297	athletes' Therapeutic Use Exemption (TUE) applications
+T4	System 308 320	IAAF servers
+T2	Campaign 217 225	the hack
+T6	System 398 409	the network
+T7	Information 352 368	this information
+T8	Campaign 691 717	unauthorized remote access
+T9	System 721 737	the IAAF network
+T10	Hacker-Group 741 754	the attackers
+T11	Time 768 779	21 February
+T14	Campaign 812 825	was collected
+T13	Software 799 811	athlete TUEs
+T12	Information 786 795	meta data
+T15	System 831 844	a file server
+T17	Campaign 1240 1258	the suspected hack
+T16	Information 1262 1272	WADA files
+T18	Time 1276 1282	August
+T19	Time 49 55	Monday
+T20	Organization 154 204	International Association of Athletics Federations
+T21	Organization 206 210	IAAF
+T1	Domain 416 434	Fancy Bear website
+T5	Information 439 454	Twitter account
+T22	Campaign 478 483	hacks
+T23	Time 484 498	Monday morning
+T24	Hacker-Group 124 148	Fancy Bear hacking group
+T25	Hacker-Group 84 95	cyberattack
+T26	Person 72 95	victim of a cyberattack
+T27	Organization 0 43	The world governing body of track and field
+T28	Organization 61 63	it
+T29	Domain 655 667	IAAF website
+T30	Organization 1211 1219	NBC News
+T31	File 867 879	created file
+T32	Organization 892 896	IAAF
+T33	Information 918 922	data
+T34	Hacker-Group 1024 1034	Fancy Bear
+T35	Campaign 1057 1061	hack
+T36	Organization 1080 1104	World Anti-Doping Agency
+T37	Organization 1106 1110	WADA
+T38	Time 1112 1121	last year
+T39	Person 1502 1516	U.S. officials
+T40	Hacker-Group 1545 1555	Fancy Bear
+T41	Organization 1559 1562	GRU
+T42	Organization 1568 1604	Russian military intelligence agency
+T43	Person 1615 1632	Russian officials
+T44	Campaign 1672 1677	hacks
+T45	Hacker-Group 1692 1702	Fancy Bear
+T46	Organization 1708 1712	IAAF
+T47	Person 1718 1726	athletes
+T48	Time 1759 1763	2012
+T49	Person 1936 1950	IAAF President
+T50	Person 1951 1964	Sebastian Coe
+T51	System 1926 1933	network
+T52	Organization 2043 2047	IAAF
+T53	Information 2053 2064	information
+T54	Person 2012 2020	athletes
+T55	Person 2119 2121	he
+T56	System 1858 1865	systems
+T57	Device 1870 1877	servers
+T58	Purpose 1890 1918	remove the attackers’ access
+T59	Organization 2272 2298	world’s best organizations
+T60	Course-of-Action 2302 2331	create as safe an environment
+T61	Time 1483 1491	November
+T62	Campaign 1492 1500	election
+T63	Organization 1403 1418	U.S. government
+T64	Organization 1420 1443	political organizations
+T65	Organization 1448 1454	others
+T66	Organization 1343 1388	Russian President Vladimir Putin's government
+T67	Campaign 1331 1339	campaign
+T68	Software 1164 1168	TUEs
+T69	Software 500 504	TUEs
+T70	Organization 1799 1801	it
+T71	Organization 1785 1787	It
+T72	Person 557 561	them
+T73	Domain 945 947	it
+T74	Person 2129 2133	They
+T75	Person 601 605	they
+T76	Campaign 1290 1292	it
+T79	Person 2335 2337	we
+T80	Person 2070 2074	they
+*	Coreference T7 T53
+*	Coreference T9 T51 T6
+*	Coreference T12 T33
+*	Coreference T22 T35 T44 T17 T2 T76 T67
+*	Coreference T39 T43
+*	Coreference T34 T40 T45
+*	Coreference T52 T32 T21 T46 T71 T70
+*	Coreference T47 T54 T80 T74
+*	Coreference T68 T69
+T77	Person 537 545	athletes
+*	Coreference T77 T72 T75
+*	Coreference T28 T27
+*	Coreference T55 T49 T50
+T78	Person 2139 2152	our sincerest
+*	Coreference T78 T79
+*	Coreference T73 T29

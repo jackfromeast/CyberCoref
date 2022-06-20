@@ -1,0 +1,94 @@
+T17	Campaign 2228 2248	 a ransomware attack
+T18	Organization 2182 2201	those organisations
+T19	Campaign 2311 2333	 a ransomware campaign
+T20	Organization 2366 2377	 a business
+T4	Campaign 488 519	 a successful ransomware attack
+T1	Campaign 107 134	 a recent ransomware attack
+T2	System 140 152	work systems
+T11	Campaign 1832 1850	ransomware attacks
+T12	Device 1865 1882	corporate devices
+T13	System 1887 1894	systems
+T5	Campaign 642 673	 a successful ransomware attack
+T14	Campaign 2036 2071	their most recent ransomware attack
+T16	Organization 1979 1989	businesses
+T7	Campaign 1171 1199	launching ransomware attacks
+T10	Hacker-Group 1108 1122	Cybercriminals
+T8	Purpose 1203 1241	remove access to mission-critical data
+T9	Attack-Pattern 1282 1338	demanding large ransoms for the safe return of such data
+T3	Organization 204 212	One Poll
+T22	Person 222 244	500 IT decision makers
+T23	Organization 248 257	companies
+T24	Location 291 298	 the UK
+T25	Organization 336 357	British organisations
+T26	Malware 389 399	ransomware
+T27	Campaign 545 559	 these attacks
+T28	Device 563 580	corporate devices
+T6	Person 633 639	victim
+T29	Organization 703 722	large organisations
+T30	Vulnerability 729 776	do not have a formal ransomware policy in place
+T31	Malware 852 859	malware
+T32	Course-of-Action 923 960	implement a ransomware-focused policy
+T33	Time 963 982	 the next 12 months
+T34	Organization 874 902	 these unprepared businesses
+T35	Organization 787 805	British businesses
+T36	Organization 602 620	British businesses
+T37	Organization 16 34	British businesses
+T38	Organization 1003 1014	 this group
+T39	Course-of-Action 1057 1088	put such a policy into practice
+T40	Time 1091 1105	 the next year
+T41	Organization 1149 1167	British businesses
+T42	Purpose 1248 1278	make significant sums of money
+T43	Organization 1359 1372	organisations
+T44	System 1437 1452	 the IT network
+T45	Campaign 1473 1491	 a possible attack
+T46	Person 1499 1511	Chris Mayers
+T47	Person 1513 1545	chief security architect, Citrix
+T48	Course-of-Action 1565 1596	robust cybersecurity techniques
+T49	Course-of-Action 1601 1627	ensuring specific policies
+T50	Campaign 1651 1661	 an attack
+T51	Organization 1663 1672	companies
+T52	Person 1707 1711	prey
+T53	Malware 1715 1725	ransomware
+T54	Vulnerability 1743 1758	vulnerabilities
+T55	Hacker-Group 1763 1778	cyber-attackers
+T56	System 1911 1913	IT
+T57	Device 1949 1965	infected devices
+T15	Device 2007 2014	devices
+T58	Organization 2089 2099	businesses
+T59	Person 2115 2124	employees
+T60	Device 2153 2160	devices
+T61	Device 2277 2284	devices
+T62	Person 2304 2308	prey
+T21	Information 2396 2427	highly sensitive corporate data
+T63	Organization 2511 2521	businesses
+T64	Malware 2541 2551	ransomware
+T65	System 2571 2593	 the corporate network
+T66	Course-of-Action 2600 2618	mitigation efforts
+T67	Malware 2655 2657	it
+T68	Device 2681 2698	different devices
+T69	Person 2701 2713	Chris Mayers
+T71	Number 36 46	36 percent
+T72	Number 263 274	250 or more
+T73	Person 275 284	employees
+T74	Number 582 592	45 percent
+T75	Number 689 699	11 percent
+T76	Number 861 871	38 percent
+T77	Number 996 1003	half of
+T78	Number 1926 1945	significant numbers
+T79	Number 2004 2006	47
+T80	Number 2076 2088	one third of
+T81	Number 2149 2152	101
+T82	Person 2219 2225	victim
+T83	Number 2265 2276	25 or fewer
+T84	Number 2250 2260	31 percent
+*	Coreference T2 T13
+*	Coreference T23 T51
+*	Coreference T46 T69 T47
+*	Coreference T52 T62
+*	Coreference T4 T7 T14 T17 T11 T64 T5 T19 T1 T27 T67
+*	Coreference T37 T41 T34 T25 T18 T43 T16 T35 T20 T36 T58 T29 T63 T38 T82
+*	Coreference T31 T26
+*	Coreference T40 T33
+*	Coreference T39 T32
+*	Coreference T50 T45
+*	Coreference T15 T57 T60 T61

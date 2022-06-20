@@ -1,0 +1,84 @@
+T1	Information 451 459	password
+T3	Campaign 423 431	the hack
+T4	Person 381 404	Unity 3D administrators
+T5	Campaign 474 484	the attack
+T10	Hacker-Group 1625 1632	OurMine
+T13	Person 1643 1650	victims
+T7	Information 1695 1704	passwords
+T9	Hacker-Group 1680 1689	the group
+T10	Organization 1625 1632	OurMine
+T11	Domain 1763 1770	MySpace
+T12	Domain 1750 1758	LinkedIn
+T6	Campaign 1726 1739	data breaches
+T16	Hacker-Group 62 67	group
+T17	Domain 91 125	official domain of Unity 3D Forums
+T18	Time 175 182	weekend
+T19	Domain 136 147	deface page
+T20	File 161 165	note
+T21	Campaign 189 193	hack
+T22	Time 214 224	30th April
+T23	Hacker-Group 237 277	Saudi Arabia-based OurMine hacking group
+T24	File 325 329	note
+T2	Domain 543 549	forums
+T25	Information 498 516	2FA Authentication
+T26	Person 588 602	administrators
+T27	Course-of-Action 630 671	Device Identification and Password Policy
+T28	Domain 679 685	forums
+T29	Organization 728 736	Unity 3D
+T30	Person 748 756	everyone
+T31	Domain 789 795	forums
+T32	Person 816 818	we
+T33	Person 832 837	Unity
+T35	Person 839 847	@unity3d
+T36	Time 849 863	April 30, 2017
+T37	Person 864 898	One of the team members from Unity
+T34	Domain 909 915	Reddit
+T38	Campaign 933 937	hack
+T39	Domain 943 958	Unity 3D forums
+T40	Domain 1034 1040	forums
+T41	Person 1080 1083	you
+T42	Information 1092 1099	account
+T43	Domain 1103 1118	Unity 3D forums
+T44	Information 1154 1162	password
+T45	Person 1180 1183	you
+T46	Campaign 1972 1984	DDoS attacks
+T47	Money 2015 2019	cost
+T48	Campaign 2041 2052	DDoS attack
+T49	Organization 2056 2069	your business
+T50	Campaign 1870 1883	cyber attacks
+T51	Organization 1852 1861	companies
+T52	Organization 1827 1843	IT security firm
+T53	Hacker-Group 1210 1217	OurMine
+T54	Information 1344 1360	YouTube accounts
+T55	Hacker-Group 1235 1245	same group
+T56	Campaign 1264 1276	biggest hack
+T57	Time 1298 1308	last month
+T58	Hacker-Group 1416 1427	same group 
+T59	Person 1567 1588	top media celebrities
+T62	Organization 1593 1605	news outlets
+T63	Person 1655 1666	researchers
+T8	Hacker-Group 1776 1781	group
+T14	Person 1944 1951	clients
+T64	Person 1961 1965	them
+T65	Person 1939 1943	them
+T66	Software 2080 2109	DDoS Downtime Cost Calculator
+T61	Person 1515 1536	Co-founder of Twitter
+T67	Person 1537 1548	Jack Dorsey
+T68	Person 1138 1141	you
+*	Coreference T4 T26
+*	Coreference T39 T43 T31
+T15	Hacker-Group 4 19	OurMine hackers
+*	Coreference T28 T2
+*	Coreference T68 T41
+T60	Person 1483 1497	Facebook’s CEO
+T69	Person 1454 1467	 Google’s CEO
+T70	Person 1468 1481	Sundar Pichai
+*	Coreference T69 T70
+T72	Person 1498 1513	Mark Zuckerberg
+*	Coreference T60 T72
+*	Coreference T61 T67
+*	Coreference T9 T10 T8
+*	Coreference T65 T14 T64
+*	Coreference T55 T53 T58
+*	Coreference T56 T38
+*	Coreference T33 T35 T37

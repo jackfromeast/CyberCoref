@@ -1,0 +1,107 @@
+T14	Campaign 2317 2321	leak
+T13	Campaign 2340 2352	Equifax hack
+T18	Time 2295 2299	year
+T1	Campaign 71 86	security breach
+T3	Information 126 141	account details
+T4	Time 62 68	Monday
+T7	Person 162 178	MyHeritage users
+T9	Information 480 495	hashed password
+T10	Information 469 475	emails
+T12	Information 1458 1477	MyHeritage accounts
+T15	Organization 2340 2347	Equifax
+T17	Time 2328 2337	last year
+T5	Domain 0 48	Family genealogy and DNA testing site MyHeritage
+T19	Hacker-Group 103 111	attacker
+T2	Number 146 161	over 92 million
+T6	Domain 202 209	website
+T20	Organization 211 221	MyHeritage
+T21	Organization 227 229	it
+T22	Campaign 250 258	incident
+T23	Time 262 268	Monday
+T24	Campaign 308 316	incident
+T25	Person 339 358	security researcher
+T26	Device 381 399	third-party server
+T27	Information 415 431	personal details
+T28	Number 435 445	92,283,889
+T29	Person 446 462	MyHeritage users
+T8	File 514 521	archive
+T30	File 368 375	archive
+T31	Information 537 543	emails
+T32	Information 548 564	hashed passwords
+T33	Information 574 594	payment card details
+T34	Information 598 613	DNA test result
+T35	Organization 615 625	MyHeritage
+T36	Organization 631 633	it
+T37	Software 639 669	third-party payment processors
+T38	Information 704 716	payment data
+T39	Device 741 748	systems
+T40	Information 756 772	DNA test results
+T41	Device 787 803	separate servers
+T42	Device 813 816	one
+T43	Information 830 843	user accounts
+T44	Campaign 895 901	breach
+T45	Information 881 889	accounts
+T46	Time 933 949	October 26, 2017
+T47	Campaign 972 978	breach
+T48	Campaign 998 1011	hacker attack
+T49	Person 1028 1046	malicious employee
+T50	Information 1059 1073	company's data
+T51	Organization 1075 1085	MyHeritage
+T52	Information 1096 1109	user accounts
+T53	Information 1127 1136	passwords
+T54	Course-of-Action 1142 1190	hashed using a per-user unique cryptographic key
+T55	Organization 1193 1203	MyHeritage
+T56	Information 1219 1233	user passwords
+T57	Course-of-Action 1248 1277	one-way hash of each password
+T58	Information 1292 1300	hash key
+T59	Person 1313 1326	each customer
+T60	Organization 1333 1340	company
+T61	Time 1354 1366	Oct 26, 2017
+T62	Time 1372 1390	date of the breach
+T63	Time 1400 1407	present
+T64	Campaign 1429 1437	activity
+T11	Organization 1505 1512	company
+T65	Campaign 1527 1533	breach
+T66	Time 1541 1549	same day
+T67	Organization 1621 1630	companies
+T68	Campaign 1668 1685	security incident
+T69	Time 1693 1703	three days
+T70	Campaign 1587 1608	EU's GDPR legislation
+T71	Organization 1720 1730	MyHeritage
+T72	Organization 1764 1783	cyber-security firm
+T73	Organization 1792 1794	it
+T75	System 1842 1849	systems
+T76	Hacker-Group 1854 1860	hacker
+T77	Organization 1883 1893	MyHeritage
+T78	Organization 1914 1921	company
+T79	System 1906 1909	2FA
+T80	System 1950 1989	two-factor authentication (2FA) feature
+T81	Information 1994 2007	user accounts
+T82	Hacker-Group 2024 2030	hacker
+T83	Attack-Pattern 2042 2070	decrypt the hashed passwords
+T84	Code 2107 2136	second-step verification code
+T85	Person 2166 2182	MyHeritage users
+T86	Course-of-Action 2190 2212	change their passwords
+T87	Campaign 2238 2257	MyHeritage incident
+T16	Campaign 2276 2287	data breach
+T90	Person 1408 1410	we
+T94	Organization 1736 1738	it
+*	Coreference T18 T17
+*	Coreference T4 T23
+*	Coreference T10 T31
+*	Coreference T26 T41 T42
+*	Coreference T7 T85 T29
+*	Coreference T8 T30
+*	Coreference T34 T40
+*	Coreference T39 T75
+*	Coreference T46 T61 T62 T66
+*	Coreference T81 T43 T52 T12 T45
+*	Coreference T56 T9 T53 T32
+*	Coreference T22 T87 T68 T65 T44 T16 T1 T47 T24 T48 T14
+*	Coreference T82 T76 T19
+*	Coreference T60 T78 T11 T67 T21 T35 T51 T55 T20 T71 T77 T36 T94 T73
+*	Coreference T6 T5
+*	Coreference T27 T3 T50
+*	Coreference T28 T2
+*	Coreference T38 T33
+*	Coreference T80 T79

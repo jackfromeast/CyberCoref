@@ -1,0 +1,120 @@
+T1	Person 792 828	security researcher Amihai Neiderman
+T2	System 883 891	Tizen OS
+T3	Vulnerability 907 934	40 zero-day vulnerabilities
+T5	Attack-Pattern 952 1005	posing threat to the security of the operating system
+T32	Organization 832 846	Equus Software
+T13	Vulnerability 1007 1028	These vulnerabilities
+T12	Attack-Pattern 1029 1059	allow someone to remotely hack
+T11	Device 1080 1097	Samsung smart TVs
+T10	Device 1099 1111	smartwatches
+T9	Device 1116 1129	mobile phones
+T14	Campaign 1843 1847	says
+T16	Vulnerability 1777 1792	a vulnerability
+T15	Person 1829 1842	Mr. Neiderman
+T17	Vulnerability 1892 1906	malicious code
+T35	System 1867 1882	 a Tizen system
+T20	Campaign 2272 2277	found
+T19	Person 2269 2271	he
+T18	Vulnerability 2241 2268	most of the vulnerabilities
+T21	System 2320 2325	Tizen
+T22	Time 2333 2351	the last two years
+T23	Vulnerability 2353 2372	The vulnerabilities
+T26	System 2522 2527	Tizen
+T28	Campaign 2853 2869	explore and find
+T27	Hacker-Group 2842 2849	hackers
+T29	Vulnerability 2883 2907	zero-day vulnerabilities
+T30	System 2815 2820	Tizen
+T33	Organization 1203 1210	Samsung
+T7	Organization 0 7	Samsung
+T24	Organization 2968 2975	Samsung
+T31	Software 1435 1449	 your software
+T34	Vulnerability 1458 1478	 the vulnerabilities
+T36	Attack-Pattern 1485 1506	remote code execution
+T37	Device 1509 1526	 a Samsung device
+T38	Vulnerability 1274 1282	zero day
+T39	Vulnerability 1242 1264	 these vulnerabilities
+T4	Software 1996 2012	Samsung software
+T6	Vulnerability 2032 2062	 a heap-overflow vulnerability
+T8	Person 2391 2411	mistakes programmers
+T40	Organization 2459 2466	Samsung
+T25	Person 2557 2572	 the researcher
+T42	Device 2732 2758	 their Android smartphones
+T43	System 2665 2672	Android
+T44	Code 2163 2178	 the Tizen code
+T45	System 454 468	open-source OS
+T46	System 470 478	Tizen OS
+T48	Device 515 524	smart TVs
+T49	Device 526 538	smartwatches
+T50	Device 569 582	mobile phones
+T51	Device 587 608	 the Samsung Galaxy Z
+T52	Device 736 761	 the Galaxy Z smartphones
+T53	Device 765 787	 the Gear smartwatches
+T54	Device 228 254	 their Android smartphones
+T55	Organization 199 206	Samsung
+T56	Organization 159 168	countries
+T57	Organization 14 44	 a large multinational company
+T58	Device 1672 1685	 a Samsung TV
+T59	Code 1655 1669	malicious code
+T60	Software 1629 1642	 the software
+T61	Attack-Pattern 1562 1619	exploits a flaw in the design of Samsung’s TizenStore app
+T62	Vulnerability 1534 1556	 these vulnerabilities
+T64	Person 1424 1427	him
+T65	Person 1286 1289	You
+T66	Code 1374 1376	it
+T67	Person 1853 1856	you
+T68	Device 274 278	they
+T69	Device 259 266	tablets
+T71	Device 290 309	 the top contenders
+T70	Organization 351 358	Samsung
+T72	Device 392 403	electronics
+T73	Device 421 433	“smart” ones
+T47	System 480 485	Tizen
+T74	Organization 493 500	Samsung
+T75	Device 501 509	products
+T76	Device 543 559	 the Gear series
+T77	Organization 617 624	Samsung
+T78	System 645 655	 the Tizen
+T79	Organization 873 880	Samsung
+T80	Organization 860 871	Motherboard
+T81	System 984 1005	 the operating system
+T82	Hacker-Group 1035 1042	someone
+T83	Device 1169 1173	ones
+T84	Code 1354 1364	 this code
+T85	Person 1394 1411	 an undergraduate
+T86	Device 61 69	products
+T87	Software 1595 1619	Samsung’s TizenStore app
+T88	Software 1693 1712	 the TizenStore app
+T89	Device 1752 1767	 a Tizen device
+T90	Hacker-Group 1906 1917	 the hacker
+T63	Software 1924 1939	 The TizenStore
+T91	Campaign 2096 2115	 the authentication
+T92	Campaign 1949 1963	authentication
+T93	Person 2125 2140	 The researcher
+T94	Code 2217 2225	projects
+T95	Code 2231 2235	Bada
+T96	Code 2290 2294	code
+T97	Organization 2545 2552	Samsung
+T41	Device 2605 2633	Samsung’s current smartphone
+T98	Organization 2778 2785	Samsung
+T99	System 2948 2953	Tizen
+T100	System 2987 2992	Tizen
+T101	System 3001 3030	OS for the internet of things
+T102	Device 674 682	products
+*	Coreference T17 T59
+*	Coreference T34 T62 T18 T29 T6 T16 T3 T23 T13 T39 T38 T8
+*	Coreference T60 T31 T87 T88 T63
+*	Coreference T10 T49 T53 T76
+*	Coreference T52 T54 T42
+*	Coreference T68 T71
+*	Coreference T55 T70 T7 T57 T74 T77 T79 T33 T40 T97 T98 T24
+*	Coreference T48 T75 T11
+*	Coreference T72 T73
+*	Coreference T50 T51 T9
+*	Coreference T84 T66
+*	Coreference T64 T85
+*	Coreference T86 T37 T58
+*	Coreference T91 T92
+*	Coreference T94 T95
+*	Coreference T96 T44
+*	Coreference T100 T101 T99 T21 T30 T46 T26 T2 T45 T47 T78 T81 T35
+*	Coreference T1 T15 T93 T19 T25

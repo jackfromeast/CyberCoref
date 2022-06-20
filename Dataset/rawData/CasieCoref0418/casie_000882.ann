@@ -1,0 +1,63 @@
+T12	Software 1506 1509	API
+T17	Person 1460 1479	unknown individuals
+T14	Information 1556 1575	account information
+T15	Person 1579 1588	its users
+T16	Time 1598 1612	March 14, 2017
+T23	Person 1799 1803	they
+T29	Person 1743 1748	users
+T22	Campaign 1837 1845	incident
+T7	Campaign 198 217	is being circulated
+T6	Person 192 197	users
+T4	Information 126 158	personal and account information
+T25	Software 186 189	app
+T3	Campaign 93 106	a data breach
+T2	Software 66 78	app Wishbone
+T1	Organization 0 12	Science Inc.
+T24	Organization 18 25	company
+T8	Campaign 1064 1072	phishing
+T30	Person 1044 1051	persons
+T19	Information 1674 1689	the information
+T20	Person 1707 1720	the attackers
+T27	Vulnerability 1647 1660	vulnerability
+T28	Organization 1626 1630	they
+T9	Campaign 1328 1339	data breach
+T10	Time 1354 1365	August 2016
+T5	System 508 524	MongoDB database
+T31	Number 526 535	2,326,452
+T32	Information 536 546	full names
+T33	Number 548 557	2,247,314
+T34	Information 558 580	unique email addresses
+T35	Number 586 593	287,502
+T36	Information 594 611	cellphone numbers
+T11	Person 700 712	young adults
+T13	Person 686 695	teenagers
+T18	Person 667 681	Wishbone users
+T21	Information 1009 1031	additional information
+T26	Information 1272 1283	stolen data
+T37	Information 1184 1195	information
+T38	Person 926 930	them
+T40	Organization 1436 1440	they
+T41	Person 384 388	they
+T42	Person 419 423	they
+T44	Person 1158 1162	them
+*	Coreference T37 T4 T14 T21 T19 T45 T50 T53 T26
+*	Coreference T2 T25
+T45	Information 245 264	compromised records
+T46	Person 336 341	users
+*	Coreference T6 T46 T47 T41 T42
+T47	Person 352 357	their
+*	Coreference T13 T18 T11
+T48	Person 458 467	Troy Hunt
+T49	Person 805 809	Hunt
+*	Coreference T48 T49 T51 T54
+T50	Information 798 802	data
+T51	Person 741 742	I
+T52	Person 886 899	young females
+*	Coreference T52 T38 T30 T44
+T53	Information 976 980	data
+T54	Person 1310 1314	Hunt
+*	Coreference T3 T9
+T55	Organization 1412 1425	Wishbone team
+*	Coreference T24 T55 T40 T28
+*	Coreference T15 T29 T43 T23
+T43	Person 1770 1775	their

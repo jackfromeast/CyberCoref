@@ -1,0 +1,173 @@
+T27	Campaign 70 103	 a public proof-of-concept attack
+T29	Organization 116 132	 a Texas startup
+T30	Malware 152 176	 the Sundown Exploit Kit
+T31	Code 177 206	 The proof-of-concept exploit
+T33	Organization 224 230	Theori
+T34	Organization 231 263	 a research and development firm
+T37	Person 1066 1073	Kafeine
+T36	Malware 1049 1064	 an exploit kit
+T8	Vulnerability 1098 1111	CVE-2016-0189
+T12	Course-of-Action 1912 1919	patched
+T15	Organization 1930 1939	Microsoft
+T14	Vulnerability 1897 1906	 The bugs
+T13	Time 1920 1926	Nov. 8
+T16	Software 1967 1983	the Edge browser
+T23	Time 3287 3294	Nov 8th
+T24	Vulnerability 3296 3299	bug
+T22	Organization 3261 3270	Microsoft
+T5	Course-of-Action 409 416	patched
+T3	Vulnerability 366 379	CVE-2016-7201
+T4	Software 384 398	Microsoft Edge
+T2	Vulnerability 348 361	CVE-2016-7200
+T1	Vulnerability 331 346	vulnerabilities
+T6	Time 420 428	November
+T9	Course-of-Action 1123 1130	patched
+T10	Time 1134 1137	May
+T11	Organization 1141 1150	Microsoft
+T26	Person 481 531	Google Project Zero researcher Natalie Silvanovich
+T7	Organization 468 477	Microsoft
+T19	Vulnerability 2017 2040	memory corruption flaws
+T18	Organization 1985 1994	Microsoft
+T20	Software 2107 2121	Windows server
+T39	Time 0 10	Six months
+T40	Malware 36 48	exploit kits
+T28	Location 267 273	Austin
+T32	Time 298 309	last spring
+T41	Code 310 318	 The PoC
+T42	Number 327 330	two
+T43	Version 432 440	MS16-129
+T25	Person 533 558	French researcher Kafeine
+T44	Time 567 575	Saturday
+T45	Person 581 583	he
+T46	Version 596 615	weaponized versions
+T47	Code 618 638	 the Theori exploits
+T48	Time 650 664	two days after
+T49	Code 665 669	they
+T50	Code 687 699	 The payload
+T51	Code 714 739	 the Zloader DLL injector
+T52	Software 745 752	Sundown
+T53	Malware 804 819	banking Trojans
+T54	Malware 828 838	Zeus Panda
+T55	Malware 843 851	Dreambot
+T56	Malware 862 885	Bitcoin mining software
+T57	Software 642 649	Sundown
+T58	Person 887 894	Kafeine
+T59	Campaign 930 950	exploit kit activity
+T60	Time 964 974	six months
+T61	Person 951 953	he
+T62	Code 999 1033	 a Theori proof-of-concept exploit
+T35	Software 1189 1197	Neutrino
+T38	Software 1199 1202	RIG
+T63	Software 1204 1211	Sundown
+T64	Software 1216 1225	Magnitude
+T65	Person 1227 1234	Kafeine
+T66	Person 1240 1242	he
+T67	Malware 1257 1269	exploit kits
+T68	Campaign 1290 1302	 this attack
+T69	Campaign 1316 1324	activity
+T70	File 1533 1544	 the Readme
+T71	Code 1548 1561	 the exploits
+T72	Domain 1572 1578	Github
+T73	Organization 1580 1586	Theori
+T74	Code 1591 1599	 its PoC
+T75	Version 1613 1632	 the latest version
+T76	Software 1636 1640	Edge
+T77	System 1652 1662	Windows 10
+T78	Vulnerability 1663 1683	 The vulnerabilities
+T79	Software 1690 1719	 the Chakra JavaScript engine
+T80	Software 1747 1766	Internet Explorer 9
+T81	Organization 1734 1743	Microsoft
+T82	Code 1767 1787	 The Theori exploits
+T83	Vulnerability 1796 1847	information leak and type confusion vulnerabilities
+T84	Software 1850 1862	 the browser
+T85	Purpose 1875 1896	remote code execution
+T86	Course-of-Action 1942 1962	 a cumulative update
+T17	Software 2074 2089	Windows clients
+T87	Hacker-Group 2122 2134	 An attacker
+T88	Attack-Pattern 2146 2202	embed an ActiveX control marked ‘safe for initialization
+T89	Software 2206 2221	 an application
+T90	File 2225 2250	Microsoft Office document
+T91	Software 2261 2287	 the Edge rendering engine
+T92	Code 2312 2320	exploits
+T93	Malware 2377 2383	Angler
+T94	Malware 2388 2406	other popular kits
+T95	Campaign 2429 2451	Angler’s disappearance
+T96	Time 2466 2475	 the June
+T97	Number 2487 2489	50
+T98	Person 2490 2496	people
+T99	Location 2500 2506	Russia
+T100	Campaign 2529 2581	 the development and distribution of the Lurk Trojan
+T101	Malware 2565 2581	 the Lurk Trojan
+T102	Person 2583 2594	Researchers
+T103	Organization 2598 2611	Kaspersky Lab
+T104	Software 2659 2663	Lurk
+T105	Device 2628 2647	 the infrastructure
+T106	Software 2718 2722	Lurk
+T107	Hacker-Group 2696 2710	 the criminals
+T108	Campaign 2749 2796	Angler’s constant development and profit-making
+T109	Malware 2749 2755	Angler
+T110	Time 2803 2825	 the end of the summer
+T111	Hacker-Group 2884 2893	attackers
+T112	Campaign 2911 2941	large-scale spamming campaigns
+T113	Malware 2962 2975	macro malware
+T114	Campaign 2984 2991	attacks
+T115	Person 3043 3050	Kafeine
+T116	Code 3136 3144	exploits
+T117	Malware 3150 3156	Angler
+T118	Malware 3208 3220	exploit kits
+T119	Person 3199 3200	I
+T21	Course-of-Action 3271 3278	patched
+T120	Vulnerability 3299 3316	 the huge problem
+T121	Course-of-Action 3403 3418	run the updates
+T122	Time 3491 3509	 the last 6 months
+T123	System 3563 3573	windows 10
+T124	Device 3551 3557	laptop
+T125	Campaign 3640 3646	attack
+T126	Vulnerability 3604 3622	 the vulnerability
+T127	System 3601 3603	it
+T128	System 3751 3789	windows 10 with the “express settings”
+T129	Device 3789 3802	 the computer
+T130	Device 3830 3847	open wifi hotspot
+T131	Device 3852 3869	Bluetooth devices
+T132	Time 4110 4130	 the next 3-4 months
+T133	System 4070 4083	 The internet
+T134	Organization 4134 4149	 the government
+T136	Course-of-Action 4163 4175	shut it down
+T137	Location 3889 3892	NYC
+T138	Location 3900 3920	heavy populated area
+T139	Device 3924 3939	 your home wifi
+T140	Malware 3963 3975	Miria Botnet
+T142	Person 3019 3020	I
+T143	Person 3467 3468	I
+T145	Person 3740 3743	you
+T147	Campaign 4022 4024	it
+T148	Vulnerability 3358 3360	it
+T149	Person 3674 3677	you
+T151	Vulnerability 2051 2055	them
+T153	Vulnerability 2009 2013	them
+T154	Person 3877 3880	you
+T160	Campaign 4067 4069	it
+T161	Person 4004 4005	I
+T157	Person 1467 1478	researchers
+T158	Organization 1482 1488	Theori
+T159	Malware 2836 2847	exploit kit
+*	Coreference T33 T73 T158
+*	Coreference T13 T23
+*	Coreference T16 T84
+*	Coreference T9 T21 T12 T5
+*	Coreference T22 T7 T11 T18 T15 T81
+*	Coreference T20 T17
+*	Coreference T46 T75
+*	Coreference T52 T57 T63
+*	Coreference T77 T123 T127
+*	Coreference T86 T121
+*	Coreference T104 T106
+*	Coreference T93 T109 T117
+*	Coreference T87 T68 T69 T107 T111
+*	Coreference T122 T132 T60 T39
+*	Coreference T92 T71 T62 T116 T82 T74 T50 T159 T118
+*	Coreference T37 T61 T45 T119 T66 T115 T58 T65 T25 T142 T143 T161
+*	Coreference T40 T36
+*	Coreference T47 T49 T41 T31
+*	Coreference T19 T153 T1 T78 T126 T83 T14 T24 T120 T148
+*	Coreference T147 T125 T160

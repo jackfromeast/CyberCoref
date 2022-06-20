@@ -1,0 +1,81 @@
+T14	Hacker-Group 819 826	hackers
+T16	Organization 845 851	Disney
+T5	Hacker-Group 108 115	hackers
+T3	Organization 85 91	Disney
+T20	Hacker-Group 1162 1175	the attackers
+T21	Organization 1136 1142	Disney
+T6	Information 0 5	Files
+T7	Hacker-Group 381 388	hackers
+T9	System 414 425	the systems
+T10	Organization 429 443	Larson Studios
+T11	Location 447 456	Hollywood
+T13	Information 492 500	dialogue
+T12	Information 514 520	movies
+T25	Campaign 1529 1543	ransom demands
+T26	Organization 1501 1508	Netflix
+T27	Time 1552 1562	April 2017
+T28	Hacker-Group 1400 1417	The Dark Overlord
+T29	Hacker-Group 1419 1437	a group of hackers
+T31	Campaign 1615 1623	extorted
+T30	Hacker-Group 1582 1598	the hacking gang
+T32	Time 1645 1653	the past
+T22	Campaign 1310 1318	the leak
+T23	File 1331 1340	the files
+T24	Information 1355 1364	the movie
+T34	Information 1686 1693	content
+T35	Organization 1717 1732	media companies
+T36	Campaign 2539 2547	phishing
+T18	Time 129 135	17 May
+T1	Information 29 59	Pirates of the Caribbean movie
+T2	Person 137 162	Softpedia's Gabriela Vatu
+T4	Information 177 215	two copies of Pirates of the Caribbean
+T37	Domain 311 325	The Pirate Bay
+T38	Information 345 356	information
+T8	Attack-Pattern 400 456	get access to the systems of Larson Studios in Hollywood
+T39	Organization 460 467	company
+T40	Information 540 546	copies
+T41	Person 776 784	Bob Iger
+T42	Organization 793 804	Walt Disney
+T15	Money 872 880	Bitcoins
+T17	Hacker-Group 960 969	attackers
+T43	Time 1068 1079	few minutes
+T44	Time 1106 1115	20-minute
+T45	Person 1126 1130	Iger
+T19	Organization 1750 1761	Walt Disney
+T33	Organization 1794 1797	FOX
+T46	Organization 1799 1802	ABC
+T47	Organization 1808 1814	others
+T48	Organization 1841 1844	FOX
+T49	Organization 1846 1849	IFC
+T50	Organization 1851 1858	NAT GEO
+T51	Organization 1864 1867	ABC
+T52	Organization 1950 1956	Disney
+T53	Organization 1961 1968	Netflix
+T54	Organization 1995 1998	FBI
+T55	Domain 2143 2153	Pirate Bay
+T56	Hacker-Group 2020 2033	Dark Overlord
+T57	Hacker-Group 2159 2166	hackers
+T58	Organization 2323 2334	Walt Disney
+T59	Hacker-Group 2202 2206	they
+T60	Person 2346 2353	viewers
+T61	Person 2501 2510	employees
+T62	Time 2653 2664	19 May 2017
+T63	Organization 2404 2417	organizations
+T64	File 2678 2683	files
+T65	Vulnerability 2805 2810	issue
+T67	Hacker-Group 892 896	them
+T68	Hacker-Group 1778 1780	it
+T70	Hacker-Group 975 979	they
+T71	Hacker-Group 1734 1736	It
+T72	Hacker-Group 1672 1674	it
+*	Coreference T26 T53
+*	Coreference T1 T4
+*	Coreference T37 T55
+*	Coreference T41 T45 T66
+*	Coreference T17 T20 T14 T57 T67 T70 T59
+*	Coreference T33 T48
+*	Coreference T46 T51
+*	Coreference T10 T39
+T66	Person 786 804	CEO at Walt Disney
+*	Coreference T42 T16 T3 T21 T19 T52 T58
+*	Coreference T71 T68 T28 T56 T29 T30 T72

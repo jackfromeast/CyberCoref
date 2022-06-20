@@ -1,0 +1,54 @@
+T10	Attack-Pattern 1207 1243	threaten the user with police action
+T16	File 1198 1206	messages
+T14	Domain 1001 1015	police-pay.com
+T2	Person 103 114	individuals
+T3	Device 139 159	 their mobile device
+T4	Hacker-Group 58 72	cybercriminals
+T4	Person 58 72	cybercriminals
+T18	Vulnerability 2 6	flaw
+T20	Software 9 35	 the mobile Safari browser
+T1	Money 92 97	money
+T15	Time 124 134	previously
+T17	Malware 205 226	 The Safari scareware
+T21	Person 235 244	 the user
+T22	System 259 272	 the Internet
+T23	Device 276 288	their device
+T24	Attack-Pattern 292 327	loading a series of pop-up messages
+T25	Attack-Pattern 227 288	prevents the user from accessing the Internet on their device
+T26	Person 358 367	 the user
+T27	Software 373 379	Safari
+T28	Domain 391 410	 the requested page
+T29	Software 480 486	Safari
+T30	Attack-Pattern 495 560	locked in an endless loop of popup messages that cannot be closed
+T31	Device 611 622	 the device
+T32	Person 646 655	 the user
+T33	System 699 702	web
+T34	Number 712 716	Some
+T35	Person 717 722	users
+T36	Organization 757 765	Interpol
+T37	Person 801 810	 the user
+T38	Device 842 853	their phone
+T39	Organization 857 872	law enforcement
+T40	Device 899 910	 the device
+T41	Money 948 955	 a fine
+T42	Domain 963 975	 the domains
+T13	Hacker-Group 983 997	 the attackers
+T8	Person 1030 1035	users
+T43	Number 1026 1029	few
+T5	Campaign 1072 1089	 the browser lock
+T6	Organization 1108 1128	 a police department
+T19	Money 1131 1140	 the fine
+T7	Money 1170 1190	 an iTunes gift card
+T9	Money 1247 1254	payment
+T12	Hacker-Group 1267 1281	 The attackers
+T44	Hacker-Group 1288 1292	they
+T45	Person 1302 1311	 the user
+T46	Information 1314 1330	browsing history
+T47	File 1335 1351	downloaded files
+T48	Organization 1354 1378	 the Metropolitan Police
+T11	Money 1381 1392	 the ransom
+T49	Attack-Pattern 562 638	A message is displayed in the background claiming the device has been locked
+*	Coreference T27 T29 T20
+*	Coreference T40 T31 T3 T23 T38
+*	Coreference T41 T19 T7 T9 T11
+*	Coreference T13 T12 T44

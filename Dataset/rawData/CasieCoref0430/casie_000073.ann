@@ -1,0 +1,82 @@
+T17	Organization 721 729	 the ISC
+T18	Version 671 677	9.11.0
+T19	Version 661 669	9.10.5b1
+T24	Version 606 620	Versions 9.8.8
+T23	Version 622 630	9.9.3-S1
+T22	Version 632 637	9.9.3
+T20	Version 639 647	9.9.10b1
+T21	Version 649 655	9.10.0
+T9	System 204 211	servers
+T14	Vulnerability 779 795	 a vulnerability
+T15	Vulnerability 797 810	CVE-2017-3135
+T13	Person 988 1008	 a security advisory
+T12	Time 1019 1028	Wednesday
+T10	Attack-Pattern 933 974	an attempt to read through a NULL pointer
+T53	Attack-Pattern 902 929	an INSIST assertion failure
+T26	Person 1242 1260	Aliaksandr Shubnik
+T25	Person 1221 1237	Ramesh Damodaran
+T28	Vulnerability 1356 1373	the vulnerability
+T47	Person 1262 1283	engineers at Infoblox
+T49	Organization 1284 1306	 a Silicon Valley firm
+T30	Vulnerability 1387 1389	it
+T31	Organization 1392 1400	 the ISC
+T35	Organization 1402 1411	Damodaran
+T33	Vulnerability 1474 1512	remote denial of service vulnerability
+T32	System 1516 1522	BIND 9
+T37	Course-of-Action 1556 1563	patched
+T38	System 1563 1591	 the BIND domain name system
+T39	Time 1592 1601	this week
+T36	Organization 1523 1555	 The Internet Systems Consortium
+T41	Vulnerability 1627 1654	 a critical error condition
+T42	Software 1657 1670	 the software
+T46	Vulnerability 1919 1953	 a denial of service vulnerability
+T43	Course-of-Action 1881 1886	patch
+T44	Protocol 1899 1907	its DHCP
+T45	Organization 1815 1852	The Internet Systems Consortium (ISC)
+T1	Course-of-Action 32 39	patched
+T4	Organization 0 31	The Internet Systems Consortium
+T2	System 40 67	the BIND domain name system
+T3	Time 68 77	this week
+T6	Vulnerability 89 126	 a remotely exploitable vulnerability
+T5	Vulnerability 185 195	 The issue
+T7	Code 225 235	 the DNS64
+T8	Code 240 252	RPZ function
+T51	Code 269 274	DNS64
+T54	Code 277 334	 a mechanism for synthesizing AAAA records from A records
+T55	Software 369 386	IPv6-only clients
+T56	IP 398 412	IPv6 addresses
+T57	IP 424 438	IPv4 addresses
+T58	Code 439 457	 The RPZ mechanism
+T59	Software 469 507	Domain Name System recursive resolvers
+T16	Device 736 743	servers
+T60	Code 748 763	both mechanisms
+T11	Attack-Pattern 1029 1058	 The INSIST assertion failure
+T52	Attack-Pattern 1065 1091	lead to a subsequent abort
+T61	Person 1093 1096	ISC
+T62	Code 1108 1125	 the NULL pointer
+T63	Attack-Pattern 1155 1176	 a segmentation fault
+T64	Purpose 1184 1219	causes the process to be terminated
+T27	Packet 1440 1462	 an unspecified packet
+T29	Person 1672 1683	Researchers
+T34	Malware 1689 1722	industrial control system malware
+T40	Malware 1734 1745	BlackEnergy
+T48	Malware 1747 1752	Havex
+T65	Malware 1758 1765	Stuxnet
+T66	Attack-Pattern 1766 1803	going undetected on Google VirusTotal
+T67	Software 1786 1803	Google VirusTotal
+T68	Time 1808 1813	years
+T69	Vulnerability 1619 1621	it
+T70	Organization 127 129	it
+T50	Attack-Pattern 169 184	lead to a crash
+T73	Code 828 844	query processing
+T74	Protocol 1317 1320	DNS
+T75	Protocol 1322 1326	DHCP
+T76	Protocol 1331 1333	IP
+*	Coreference T53 T11
+*	Coreference T38 T2 T9 T16
+*	Coreference T39 T3
+*	Coreference T4 T45 T36 T70 T61 T17 T31
+*	Coreference T7 T51 T54
+*	Coreference T58 T8
+*	Coreference T28 T30 T14 T6 T5 T15
+*	Coreference T44 T75

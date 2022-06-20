@@ -1,0 +1,88 @@
+T4	Person 0 11	Researchers
+T1	Vulnerability 33 55	serious security flaws
+T2	System 68 73	Linux
+T7	Software 106 129	Linux systemd component
+T5	Vulnerability 81 96	vulnerabilities
+T11	Person 148 159	researchers
+T9	Vulnerability 165 180	vulnerabilities
+T10	System 200 227	systemd-based Linux distros
+T16	Software 301 324	Linux systemd component
+T15	Vulnerability 282 286	bugs
+T13	Organization 255 261	Qualys
+T12	Person 240 251	researchers
+T18	Vulnerability 440 455	vulnerabilities
+T19	Software 474 490	systemd-journald
+T21	Attack-Pattern 570 606	let an attacker gain root privileges
+T20	Vulnerability 554 569	vulnerabilities
+T22	Device 614 627	target device
+T26	System 691 721	Linux distros based on systemd
+T25	Vulnerability 656 677	these vulnerabilities
+T24	Person 633 644	researchers
+T30	Person 1174 1185	researchers
+T31	Vulnerability 1210 1224	CVE-2018-16864
+T32	Vulnerability 1259 1293	previously disclosed vulnerability
+T55	Vulnerability 1022 1032	three bugs
+T56	Vulnerability 1055 1078	memory corruption flaws
+T57	Vulnerability 1080 1094	CVE-2018-16864
+T58	Vulnerability 1099 1113	CVE-2018-16865
+T59	Vulnerability 1123 1141	out-of-bounds flaw
+T60	Vulnerability 1143 1157	CVE-2018-16866
+T33	Person 1352 1356	they
+T35	Vulnerability 1369 1383	other two bugs
+T48	System 1849 1856	distros
+T46	Course-of-Action 1878 1895	release the fixes
+T36	Course-of-Action 1711 1718	patched
+T37	System 1699 1706	Red Hat
+T39	Vulnerability 1728 1742	CVE-2018-16864
+T40	Vulnerability 1747 1761	CVE-2018-16865
+T51	Time 1905 1918	November 2018
+T50	Vulnerability 1959 1972	critical flaw
+T53	System 1976 1983	Systemd
+T54	Attack-Pattern 1989 2021	induced system crashes and hacks
+T52	Person 1922 1939	Google researcher
+T42	Course-of-Action 1783 1788	fixed
+T41	System 1772 1778	Debian
+T43	Vulnerability 1789 1803	CVE-2018-16866
+T8	Version 1828 1841	240-1 release
+T72	Code 1405 1421	proof of concept
+T68	Person 1390 1392	We
+T47	Vulnerability 1426 1440	CVE-2018-16864
+T61	Attack-Pattern 1446 1463	gains eip control
+T73	Device 1467 1471	i386
+T27	System 802 835	systemd-based Linux distributions
+T70	Code 1489 1496	exploit
+T71	Person 1473 1475	We
+T62	Vulnerability 1501 1515	CVE-2018-16865
+T63	Vulnerability 1520 1534	CVE-2018-16866
+T64	Attack-Pattern 1540 1580	obtains a local root shell in 10 minutes
+T66	Device 1584 1588	i386
+T65	Device 1607 1612	amd64
+T3	Software 326 333	Systemd
+T6	Code 347 367	core building blocks
+T14	System 372 377	Linux
+T17	Hacker-Group 577 585	attacker
+T23	Version 856 880	SUSE Linux Enterprise 15
+T28	Version 882 900	openSUSE Leap 15.0
+T74	Version 906 922	Fedora 28 and 29
+T75	Course-of-Action 957 1015	user space is compiled with GCC’s -fstack-clash-protection
+T29	Code 1245 1252	exploit
+T76	Vulnerability 1295 1312	Mutagen Astronomy
+T77	Person 1325 1329	they
+T78	Code 1347 1350	PoC
+T34	Vulnerability 1646 1650	bugs
+T67	Time 1679 1688	few years
+T69	Software 1811 1827	unstable systemd
+*	Coreference T2 T14
+*	Coreference T10 T27 T26 T48
+*	Coreference T9 T20 T25 T18 T5 T1
+*	Coreference T52 T4 T12 T30 T11 T24 T77 T33 T68
+*	Coreference T55 T35
+*	Coreference T34 T15
+*	Coreference T53 T3 T7 T16
+*	Coreference T73 T66
+*	Coreference T70 T29
+*	Coreference T31 T57 T47 T39
+*	Coreference T32 T76
+*	Coreference T62 T58 T40
+*	Coreference T63 T60 T43
+T38	Vulnerability 1723 1727	bugs

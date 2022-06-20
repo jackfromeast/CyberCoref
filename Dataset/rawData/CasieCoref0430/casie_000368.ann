@@ -1,0 +1,134 @@
+T5	Campaign 2731 2744	data breaches
+T6	Organization 2668 2706	79 percent of healthcare organizations
+T25	Time 2748 2766	the past two years
+T3	Person 289 347	 a Children's Hospital Los Angeles Medical Group physician
+T2	Information 239 251	patient data
+T4	Time 351 367	October 18, 2016
+T11	Device 221 227	laptop
+T27	Organization 161 192	Children's Hospital Los Angeles
+T28	Time 142 159	December 21, 2016
+T20	Time 2064 2076	October 2015
+T13	Information 2131 2136	names
+T14	Information 2138 2145	genders
+T15	Information 2147 2157	birthdates
+T16	Information 2159 2168	addresses
+T17	Information 2170 2183	phone numbers
+T18	Information 2185 2200	health insurers
+T19	Information 2220 2243	Social Security numbers
+T24	Purpose 2078 2098	potentially exposing
+T22	Organization 1875 1908	CoPilot Provider Support Services
+T9	Person 2121 2129	patients
+T10	Money 2938 2950	$2.2 million
+T26	Time 2822 2841	 the past two years
+T21	Information 4 16	exposed data
+T29	Information 33 56	Social Security numbers
+T30	Information 26 31	names
+T31	Information 58 68	birthdates
+T32	Information 70 85	contact details
+T33	Information 87 109	medical record numbers
+T34	Information 117 137	clinical information
+T1	Device 368 379	 The laptop
+T35	Number 408 413	3,600
+T36	Information 414 429	patients' names
+T37	Information 431 441	birthdates
+T38	Information 443 452	addresses
+T39	Information 454 476	medical record numbers
+T40	Information 486 506	clinical information
+T41	Organization 508 519	SC Magazine
+T42	Organization 530 532	We
+T43	Course-of-Action 598 773	enhancing the encryption levels of all laptops that physicians use in the provision of care for patients," the hospital stated in a notification letter [PDF] to those affected
+T44	Time 581 594	in the future
+T45	Device 637 644	laptops
+T46	Person 650 660	physicians
+T47	Person 694 702	patients
+T48	Organization 704 717	 the hospital
+T49	File 727 755	 a notification letter [PDF]
+T50	Person 759 773	those affected
+T52	Campaign 859 877	 a security breach
+T53	Organization 887 914	Summit Reinsurance Services
+T54	Organization 919 944	BCS Financial Corporation
+T55	Organization 964 1058	subcontractors of Highmark Blue Cross Blue Shield of Delaware (h/t Internet Health Management)
+T56	Time 1063 1077	August 8, 2016
+T57	Organization 1079 1085	Summit
+T58	Device 1101 1110	 a server
+T59	Information 1122 1135	customer data
+T60	Information 1147 1152	names
+T61	Information 1154 1177	Social Security numbers
+T62	Information 1179 1207	health insurance information
+T64	Information 1231 1265	diagnosis and clinical information
+T65	Malware 1285 1295	ransomware
+T66	Campaign 1296 1313	 An investigation
+T67	Device 1329 1340	 the server
+T68	Time 1363 1377	March 12, 2016
+T69	Campaign 1378 1389	 The breach
+T70	Number 1412 1418	19,000
+T71	Person 1451 1458	members
+T72	Organization 1419 1450	Highmark Blue Cross Blue Shield
+T75	Organization 1507 1535	 the Department of Insurance
+T76	Person 1615 1622	Navarro
+T77	Campaign 1599 1603	this
+T78	Course-of-Action 1581 1612	investigating how this occurred
+T79	Organization 1650 1656	Summit
+T80	Person 1686 1700	those affected
+T81	Person 1702 1709	Navarro
+T82	Person 1721 1735	many customers
+T83	Email 1781 1795	 a sales pitch
+T84	Email 1754 1765	 the letter
+T85	Email 1662 1682	notification letters
+T86	Person 1803 1807	they
+T87	Person 1813 1857	customers of Highmark Blue Cross Blue Shield
+T88	Organization 1863 1869	Summit
+T23	Software 1939 1953	 its databases
+T89	Software 1933 1936	one
+T90	Person 1962 1986	healthcare professionals
+T91	Campaign 2008 2018	treatments
+T12	Number 2113 2120	220,000
+T92	Organization 2271 2283	 the company
+T93	Time 2294 2300	a year
+T94	Person 2311 2325	those affected
+T95	Campaign 2403 2422	 a similar incident
+T96	Time 2423 2436	in the future
+T97	Course-of-Action 2448 2551	utilizing enhanced verification, enhanced encryption and implementing increased security audit activity
+T98	Campaign 2458 2479	enhanced verification
+T99	Campaign 2481 2500	enhanced encryption
+T100	Campaign 2528 2551	security audit activity
+T101	Person 2554 2561	CoPilot
+T102	File 2569 2597	 a notification letter [PDF]
+T103	Person 2601 2615	those affected
+T104	Time 2617 2628	Last spring
+T105	Campaign 2629 2656	 a Ponemon Institute survey
+T106	Number 2668 2678	79 percent
+T107	Number 2719 2730	two or more
+T108	Number 2772 2782	45 percent
+T109	Number 2795 2807	five or more
+T110	Campaign 2808 2816	breaches
+T111	Campaign 2842 2853	 the survey
+T112	Money 2860 2877	 the average cost
+T7	Campaign 2880 2894	 a data breach
+T8	Organization 2897 2923	 a healthcare organization
+T113	Time 2955 2974	 the last six years
+T114	Campaign 2988 2999	 this study
+T115	Information 3038 3050	patient data
+T117	Time 3133 3144	at the time
+T51	Person 787 818	Delaware Insurance Commissioner
+T118	Person 819 835	Trinidad Navarro
+T73	Person 1484 1502	Delaware consumers
+T74	Person 1461 1462	I
+T123	Email 1775 1777	it
+T116	Person 3071 3109	Ponemon Institute chairman and founder
+T119	Person 3110 3127	Dr. Larry Ponemon
+T63	Information 1209 1223	provider names
+*	Coreference T58 T67
+*	Coreference T76 T81 T74
+*	Coreference T94 T103
+*	Coreference T7 T110 T5
+*	Coreference T42 T41
+*	Coreference T1 T11
+*	Coreference T48 T27
+*	Coreference T46 T3
+*	Coreference T51 T118
+*	Coreference T69 T52
+*	Coreference T84 T123
+*	Coreference T82 T86
+*	Coreference T26 T25
+*	Coreference T116 T119

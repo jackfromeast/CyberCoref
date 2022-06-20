@@ -1,0 +1,118 @@
+T20	Attack-Pattern 740 765	obtain access to a victim
+T25	Information 811 832	sensitive information
+T24	Information 784 801	login credentials
+T23	Information 768 782	session tokens
+T21	Hacker-Group 721 733	 an attacker
+T30	Person 756 765	 a victim
+T31	System 835 847	 the browser
+T27	Information 939 949	keystrokes
+T2	Vulnerability 58 73	vulnerabilities
+T3	Organization 0 21	Positive Technologies
+T4	Software 77 109	SAP Enterprise Portal Navigation
+T5	Software 111 135	SAP NetWeaver Log Viewer
+T7	System 204 230	the SAP NetWeaver platform
+T6	Software 140 174	SAP Enterprise Portal Theme Editor
+T15	Vulnerability 431 478	Four Cross-Site Scripting (XSS) vulnerabilities
+T16	System 510 542	SAP Enterprise Portal components
+T17	Software 544 576	SAP Enterprise Portal Navigation
+T18	Software 600 634	SAP Enterprise Portal Theme Editor
+T19	Vulnerability 636 647	three flaws
+T11	Hacker-Group 268 277	attackers
+T9	Information 292 309	login credentials
+T10	Information 311 330	register keystrokes
+T12	Purpose 332 342	spoof data
+T32	System 409 418	 a system
+T33	Purpose 346 378	perform other illegal activities
+T28	Campaign 2244 2250	breach
+T29	Information 2254 2278	confidential information
+T1	Vulnerability 245 266	 these security flaws
+T8	Version 578 594	CVSSv3 score 6.1
+T13	Version 653 684	CVSSv3 scores 5.4, 6.1, and 6.1
+T14	Vulnerability 698 720	 these vulnerabilities
+T22	Attack-Pattern 849 897	perform arbitrary actions on the victim's behalf
+T34	Person 877 888	 the victim
+T35	Attack-Pattern 899 924	rewrite HTML page content
+T36	Attack-Pattern 929 949	intercept keystrokes
+T26	Course-of-Action 950 986	 The relevant remediation guidelines
+T37	Course-of-Action 1004 1022	SAP Security notes
+T38	Vulnerability 1075 1088	vulnerability
+T39	Vulnerability 1089 1108	Directory Traversal
+T40	Version 1110 1126	CVSSv3 score 5.9
+T41	Attack-Pattern 1135 1156	arbitrary file upload
+T42	Software 1160 1184	SAP NetWeaver Log Viewer
+T43	Hacker-Group 1186 1195	Attackers
+T44	Attack-Pattern 1200 1285	upload a malformed archive that contains files with special characters in their names
+T45	File 1241 1246	files
+T46	Software 1291 1311	 the web application
+T47	Attack-Pattern 1336 1399	resolves symbols "." and "/" as a part of the correct file path
+T48	Path 1377 1399	 the correct file path
+T49	Hacker-Group 1404 1413	attackers
+T50	Vulnerability 1425 1463	 the Directory Traversal vulnerability
+T51	Attack-Pattern 1468 1528	upload files to an arbitrary place on the server file system
+T52	Path 1483 1502	 an arbitrary place
+T53	System 1505 1528	 the server file system
+T54	Attack-Pattern 1550 1571	arbitrary file upload
+T55	System 1603 1612	 a system
+T56	Attack-Pattern 1614 1651	overload of a file system or database
+T57	System 1625 1639	 a file system
+T58	Software 1643 1651	database
+T59	Attack-Pattern 1653 1705	expanding attacks to back-end systems and defacement
+T60	Software 1674 1690	back-end systems
+T61	Vulnerability 1720 1739	 this vulnerability
+T62	Code 1752 1766	arbitrary code
+T63	Device 1785 1796	 the server
+T64	Course-of-Action 1798 1815	SAP Security note
+T66	Vulnerability 1874 1884	 this flaw
+T67	Person 1887 1900	Dmitry Gutsko
+T68	Person 1902 1968	Head of the Business System Security Unit at Positive Technologies
+T69	Organization 1982 1991	companies
+T70	Location 1992 2010	all over the world
+T71	Software 2015 2018	SAP
+T72	Information 2198 2214	 the information
+T73	System 2225 2236	SAP systems
+T74	Vulnerability 2350 2365	vulnerabilities
+T75	Device 2369 2381	SAP products
+T76	Course-of-Action 2383 2424	perform inventory checks on these systems
+T77	Course-of-Action 2445 2494	analyze settings, configurations, and permissions
+T78	Course-of-Action 2426 2440	manage updates
+T79	Course-of-Action 2496 2542	Positive Technologies’ MaxPatrol vulnerability
+T80	Course-of-Action 2547 2577	compliance management solution
+T81	Software 2600 2603	SAP
+T82	Software 2625 2638	SAP NetWeaver
+T83	Course-of-Action 2653 2703	Positive Technologies Application Firewall (PT AF)
+T84	Vulnerability 2751 2775	zero-day vulnerabilities
+T85	Software 2780 2793	SAP NetWeaver
+T86	Software 2795 2802	SAP ICM
+T87	Software 2804 2826	SAP Management Console
+T88	Software 2832 2844	SAP SOAP RFC
+T89	Course-of-Action 2879 2922	Positive Technologies Application Inspector
+T90	Course-of-Action 2937 2966	analysis of Java applications
+T91	System 2970 3002	 the SAP NetWeaver Java platform
+T92	Software 2949 2966	Java applications
+T93	Organization 42 44	it
+T95	File 1333 1335	it
+T96	Version 1023 1034	No. 2369469
+T97	Version 1036 1043	2372183
+T98	Version 1045 1052	2372204
+T99	Version 1058 1065	2377626
+T100	File 1319 1331	 the archive
+T101	File 1206 1226	 a malformed archive
+T102	Version 1816 1827	No. 2370876
+*	Coreference T24 T9
+*	Coreference T30 T34
+*	Coreference T27 T10 T25
+*	Coreference T39 T50 T38 T61 T66
+*	Coreference T43 T49 T11 T21
+*	Coreference T46 T92
+*	Coreference T52 T62
+*	Coreference T71 T81
+*	Coreference T84 T2 T1
+*	Coreference T93 T3
+*	Coreference T32 T7 T16 T4
+*	Coreference T14 T15
+*	Coreference T6 T18
+*	Coreference T95 T100 T45 T101
+*	Coreference T41 T51 T54
+*	Coreference T68 T67
+*	Coreference T29 T72
+*	Coreference T85 T82

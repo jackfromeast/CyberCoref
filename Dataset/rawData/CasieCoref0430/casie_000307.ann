@@ -1,0 +1,62 @@
+T11	Software 158 175	Internet Explorer
+T31	Version 181 182	9
+T32	Version 186 188	11
+T12	System 217 224	Windows
+T23	Device 742 756	Lenovo laptops
+T20	Organization 655 664	Microsoft
+T19	Course-of-Action 634 653	the initial release
+T25	Organization 1267 1273	Lenovo
+T27	Organization 1247 1249	it
+T26	Organization 1227 1236	Microsoft
+T2	Organization 16 25	Microsoft
+T3	Course-of-Action 33 51	an emergency patch
+T4	Software 56 73	Internet Explorer
+T8	Time 0 14	A few days ago
+T5	Course-of-Action 77 80	fix
+T6	Vulnerability 81 105	a zero-day vulnerability
+T7	Software 109 124	the web browser
+T13	Course-of-Action 376 395	the KB4467691 patch
+T15	Device 328 342	Lenovo laptops
+T10	Course-of-Action 243 253	 the patch
+T33	Vulnerability 271 279	problems
+T34	Person 289 295	people
+T35	Person 311 317	people
+T14	Person 396 400	they
+T36	System 421 428	Windows
+T17	Course-of-Action 435 445	 the patch
+T37	Vulnerability 495 501	issues
+T39	System 525 535	Windows 10
+T40	Vulnerability 552 560	problems
+T41	Software 565 584	 the .NET framework
+T42	URL 595 604	web links
+T18	Course-of-Action 676 686	 the patch
+T21	Vulnerability 703 731	 a further potential problem
+T22	Course-of-Action 779 788	KB4467691
+T43	System 790 797	Windows
+T44	Device 829 843	Lenovo laptops
+T45	Number 864 865	8
+T46	Device 872 875	RAM
+T47	Organization 876 888	 The company
+T48	Course-of-Action 929 940	workarounds
+T49	Person 945 950	those
+T50	Vulnerability 964 970	issues
+T52	Software 1010 1059	 the Unified Extensible Firmware Interface (UEFI)
+T51	Course-of-Action 976 1059	Restart the affected machine using the Unified Extensible Firmware Interface (UEFI)
+T53	Course-of-Action 1061 1097	Disable Secure Boot and then restart
+T55	Software 1106 1115	BitLocker
+T56	Device 1129 1142	 your machine
+T57	Person 1144 1147	you
+T9	Vulnerability 125 137	 The problem
+T58	Campaign 1171 1189	BitLocker recovery
+T59	Software 1196 1207	Secure Boot
+T24	Course-of-Action 1290 1300	 an update
+T28	Course-of-Action 1303 1323	 an upcoming release
+T29	Attack-Pattern 405 428	unable to start Windows
+T60	Attack-Pattern 552 622	problems with the .NET framework, and with web links in the Start menu
+T61	Attack-Pattern 802 843	fail to startup on certain Lenovo laptops
+*	Coreference T11 T4
+*	Coreference T10 T17 T18
+*	Coreference T43 T36 T12 T39
+*	Coreference T9 T6
+*	Coreference T14 T35
+*	Coreference T2 T26 T27 T20

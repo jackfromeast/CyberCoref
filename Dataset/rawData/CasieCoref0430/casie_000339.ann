@@ -1,0 +1,166 @@
+T25	Time 2176 2186	last month
+T24	Hacker-Group 2170 2175	APT28
+T23	Domain 2198 2222	decoy internet addresses
+T21	Organization 2244 2253	En Marche
+T27	File 2289 2295	emails
+T28	Attack-Pattern 2299 2333	hack into the campaign’s computers
+T31	Information 1655 1668	campaign data
+T29	Hacker-Group 1608 1625	 the perpetrators
+T18	Information 1558 1575	email credentials
+T19	Time 1591 1598	January
+T33	Organization 1497 1506	 the team
+T32	Time 1488 1496	April 26
+T15	Organization 1435 1442	Russian
+T14	Information 1414 1425	 its emails
+T16	Campaign 1464 1482	 the cyber attacks
+T11	Campaign 1284 1293	 the hack
+T12	Information 1311 1320	 the data
+T4	Campaign 127 131	hack
+T3	Device 118 126	computer
+T5	Time 73 79	Friday
+T2	Information 157 163	emails
+T6	Campaign 830 834	hack
+T7	Person 788 799	 the victim
+T8	Organization 761 779	En Marche Movement
+T9	Time 835 847	this evening
+T10	Information 913 933	internal information
+T34	Person 8 53	French presidential candidate Emmanuel Macron
+T35	Organization 56 64	campaign
+T1	Time 171 188	1-1/2 days before
+T36	Person 189 195	voters
+T37	Person 210 223	 the centrist
+T38	Person 228 247	his far-right rival
+T39	Person 249 262	Marine Le Pen
+T40	Attack-Pattern 137 170	dumped its campaign emails online
+T41	Person 265 271	Macron
+T42	Person 287 303	 the frontrunner
+T43	Campaign 306 318	 an election
+T44	Location 351 357	France
+T45	Time 361 368	decades
+T46	Person 393 399	Le Pen
+T47	Time 412 418	Friday
+T48	Information 434 453	9 gigabytes of data
+T49	Number 434 435	9
+T50	Domain 497 505	Pastebin
+T51	File 486 493	EMLEAKS
+T52	File 468 478	 a profile
+T53	Domain 507 552	a site that allows anonymous document sharing
+T54	Person 583 586	who
+T55	Information 614 623	 the data
+T56	Information 637 639	it
+T57	Person 670 676	Macron
+T58	Organization 735 737	it
+T59	Organization 698 719	En Marche! (Onwards!)
+T60	Domain 889 901	social media
+T61	Person 956 986	 An interior ministry official
+T62	Time 1109 1138	midnight on Friday (2200 GMT)
+T63	Organization 1140 1177	 The presidential election commission
+T64	Organization 1201 1203	it
+T65	Time 1225 1242	later on Saturday
+T66	Organization 1249 1266	Macron’s campaign
+T67	Organization 1276 1278	it
+T68	Person 1324 1365	Former economy minister Macron’s campaign
+T69	Time 1370 1380	previously
+T13	Campaign 1398 1406	attempts
+T70	Organization 1512 1514	it
+T71	Campaign 1537 1548	 a attempts
+T17	Organization 1671 1682	The Kremlin
+T30	Organization 1694 1696	it
+T72	Campaign 1717 1724	attacks
+T73	Organization 1738 1751	Macron’s camp
+T74	Organization 1779 1792	Russian media
+T75	Hacker-Group 1796 1813	 a hackers’ group
+T76	Location 1827 1834	Ukraine
+T77	Person 1837 1850	Vitali Kremez
+T78	Person 1852 1872	director of research
+T79	Organization 1878 1927	New York-based cyber intelligence firm Flashpoint
+T80	Location 1878 1886	New York
+T81	Organization 1934 1941	Reuters
+T82	Hacker-Group 1968 1974	APT 28
+T83	Hacker-Group 1975 1983	 a group
+T84	Organization 1991 1999	 the GRU
+T85	Organization 2000 2046	 the Russian military intelligence directorate
+T86	Campaign 2058 2067	 the leak
+T87	Person 2069 2071	He
+T89	Campaign 2096 2115	U.S. election hacks
+T88	Time 2131 2141	previously
+T90	Hacker-Group 2161 2166	group
+T20	Purpose 2226 2253	mimic the name of En Marche
+T22	Attack-Pattern 2187 2222	registered decoy internet addresses
+T91	Attack-Pattern 2276 2295	send tainted emails
+T92	Organization 2308 2321	 the campaign
+T93	Person 2335 2341	Kremez
+T94	Domain 2348 2361	Those domains
+T95	Domain 2370 2391	onedrive-en-marche.fr
+T96	Domain 2396 2413	mail-en-marche.fr
+T97	Organization 2437 2443	Moscow
+T98	Campaign 2444 2454	 this leak
+T99	Time 2498 2511	 the previous
+T100	Campaign 2512 2530	Russian operations
+T101	Campaign 2539 2570	 the U.S. presidential election
+T102	Campaign 2627 2644	espionage efforts
+T103	Campaign 2665 2673	attempts
+T104	Purpose 2677 2693	sway the outcome
+T105	Person 2696 2702	Kremez
+T106	Location 2710 2716	France
+T107	Hacker-Group 2814 2827	cyber hacking
+T108	Campaign 2778 2789	accusations
+T109	Person 2830 2839	En Marche
+T110	Information 2844 2858	 the documents
+T111	Campaign 2896 2920	 a presidential campaign
+T112	Information 2931 2950	authentic documents
+T113	Domain 2969 2981	social media
+T114	Domain 3284 3296	social media
+T115	Domain 3345 3357	social media
+T116	Information 2987 2996	fake ones
+T117	Person 3033 3042	Ben Nimmo
+T118	Person 3043 3074	 a UK-based security researcher
+T119	Organization 3079 3113	 the Digital Forensic Research Lab
+T120	Organization 3116 3137	 the Atlantic Council
+T121	Campaign 3163 3171	analysis
+T122	Location 3198 3202	U.S.
+T123	Person 3203 3229	far-right online activists
+T124	Information 3265 3279	 the documents
+T125	Information 3298 3302	They
+T126	Person 3340 3368	core social media supporters
+T127	Location 3372 3388	Le Pen in France
+T128	Person 3390 3395	Nimmo
+T129	Campaign 3402 3412	 The leaks
+T130	Domain 3424 3429	4chan
+T131	Domain 3430 3449	 a discussion forum
+T132	Person 3463 3482	far right activists
+T133	Location 3486 3503	the United States
+T134	Person 3504 3524	 An anonymous poster
+T135	URL 3534 3539	links
+T136	Information 3542 3556	 the documents
+T137	Domain 3560 3568	Pastebin
+T138	Information 3579 3583	This
+T139	Person 3601 3603	me
+T140	Time 3604 3609	today
+T141	Information 3629 3631	it
+T142	Person 3639 3650	 the people
+T145	Person 3635 3638	you
+T146	Person 3617 3618	I
+T147	Organization 80 82	it
+T153	Domain 2261 2263	it
+*	Coreference T15 T74
+*	Coreference T16 T72
+*	Coreference T5 T47
+*	Coreference T39 T46
+*	Coreference T41 T57
+*	Coreference T50 T137
+*	Coreference T83 T90 T24 T82
+*	Coreference T101 T111
+*	Coreference T115 T114
+*	Coreference T117 T128 T118 T139 T146
+*	Coreference T123 T132
+*	Coreference T64 T63
+*	Coreference T35 T92 T73 T67 T66 T147
+*	Coreference T70 T33 T68
+*	Coreference T30 T17
+*	Coreference T87 T78 T93 T77 T105
+*	Coreference T136 T125 T124 T138 T141
+*	Coreference T55 T56
+*	Coreference T23 T153
+*	Coreference T130 T131
+*	Coreference T145 T142

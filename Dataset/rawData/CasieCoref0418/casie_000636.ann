@@ -1,0 +1,175 @@
+T3	Organization 516 522	NAYANA
+T2	Campaign 611 617	ransom
+T3	Organization 516 522	NAYANA
+T4	Money 778 786	payments
+T5	Hacker-Group 729 738	attackers
+T6	Organization 717 723	NAYANA
+T15	Money 2736 2746	5 bitcoins
+T16	Money 2757 2767	USD 12,344
+T8	Money 1833 1847	0.085 bitcoins
+T9	Money 1864 1871	USD 216
+T10	Attack-Pattern 1889 1919	threatened to delete the files
+T11	Time 1923 1931	96 hours
+T12	Campaign 1939 1945	ransom
+T17	Person 4 27	IT security researchers
+T18	Organization 31 42	Trend Micro
+T19	Malware 63 70	malware
+T20	Device 104 123	Linux-based servers
+T21	Malware 129 136	malware
+T22	Malware 145 151	Erebus
+T23	Purpose 178 212	hijacking 153 Linux-based networks
+T24	Number 188 191	153
+T25	System 192 212	Linux-based networks
+T26	Organization 218 250	South Korean web-hosting company
+T27	Organization 258 264	NAYANA
+T28	Malware 266 272	Erebus
+T29	Malware 278 288	ransomware
+T30	System 310 333	Linux operating systems
+T31	Number 351 356	3,400
+T32	Person 360 376	NAYANA’s clients
+T33	Campaign 402 408	attack
+T34	Software 414 423	databases
+T35	Domain 425 433	websites
+T36	File 444 449	files
+T37	Campaign 471 479	incident
+T38	Time 494 503	10th June
+T39	Information 544 548	keys
+T40	File 566 571	files
+T1	Campaign 623 633	fourth one
+T41	Number 772 777	three
+T42	Information 762 765	key
+T43	File 801 821	Trend Micro’s report
+T44	Malware 823 829	Erebus
+T45	Time 859 873	September 2016
+T46	Malware 892 899	malware
+T47	Person 999 1003	user
+T48	Malware 1030 1040	ransomware
+T49	Version 1078 1093	initial version
+T50	Malware 1101 1107	Erebus
+T51	Number 1122 1125	423
+T52	File 1126 1136	file types
+T53	Hash 1158 1187	RSA-2048 encryption algorithm
+T54	File 1212 1217	files
+T55	Software 1227 1245	.encrypt extension
+T56	Malware 1272 1279	variant
+T57	Location 1319 1330	South Korea
+T58	Device 1336 1366	command-&-control (C&C) center
+T60	Domain 1307 1315	websites
+T61	Number 1295 1306	a number of
+T59	Time 1378 1391	February 2017
+T62	Malware 1397 1404	malware
+T63	Purpose 1456 1483	bypass User Account Control
+T64	System 1463 1483	User Account Control
+T65	System 1485 1488	UAC
+T66	System 1528 1531	UAC
+T67	Person 1495 1500	those
+T68	System 1551 1584	Windows privacy protection system
+T69	Person 1600 1606	anyone
+T70	Device 1639 1658	the user’s computer
+T71	Version 1674 1687	later version
+T72	Malware 1695 1701	Erebus
+T73	Malware 1731 1741	ransomware
+T74	Campaign 1768 1776	campaign
+T75	Version 1791 1798	version
+T76	Attack-Pattern 1724 1741	inject ransomware
+T7	Malware 1974 1980	Erebus
+T13	Time 4024 4030	Lastly
+T14	Person 4032 4049	IT administrators
+T77	Malware 2788 2798	ransomware
+T78	System 2809 2829	Linux based networks
+T79	Malware 2868 2874	Erebus
+T80	Malware 2892 2902	ransomware
+T81	System 2920 2945	networks running on Linux
+T82	Organization 2956 2967	Trend Micro
+T83	Malware 2985 2995	ransomware
+T84	Time 3029 3033	2014
+T85	Malware 3047 3057	ransomware
+T86	Malware 3066 3079	Linux.Encoder
+T87	Malware 3081 3095	Encrypter RaaS
+T88	Malware 3097 3105	KillDisk
+T89	Malware 3107 3117	KimcilWare
+T90	Malware 3127 3131	more
+T91	Malware 3133 3145	All of these
+T92	Software 3179 3203	open-source code project
+T93	Campaign 3237 3257	educational campaign
+T94	Malware 3263 3273	ransomware
+T95	System 3278 3283	Linux
+T96	Malware 3320 3325	those
+T97	System 3330 3337	Windows
+T98	Number 3416 3427	a number of
+T99	Organization 3428 3441	organizations
+T100	Organization 3446 3458	data centers
+T101	System 3463 3468	Linux
+T102	Campaign 3546 3555	accidents
+T103	Person 3567 3579	IT officials
+T104	Organization 3584 3597	organizations
+T105	System 3606 3626	Linux-based networks
+T106	Course-of-Action 3815 3883	keep a back-up of your data files in two to three separate locations
+T107	Number 3852 3864	two to three
+T108	Location 3865 3883	separate locations
+T109	File 3838 3848	data files
+T110	System 2066 2081	entire networks
+T111	System 2094 2099	Linux
+T112	Organization 2117 2130	organizations
+T113	System 2141 2146	Linux
+T114	Time 2131 2136	today
+T115	System 2157 2165	networks
+T116	Malware 2216 2223	malware
+T117	Organization 2256 2267	Trend Micro
+T118	Version 2278 2292	recent version
+T119	Malware 2296 2302	Erebus
+T120	Hash 2308 2321	RSA algorithm
+T121	Information 2335 2343	AES keys
+T122	System 2347 2354	Windows
+T123	Information 2370 2384	encryption key
+T124	Campaign 2404 2410	attack
+T125	Software 2431 2448	Bluetooth service
+T126	Malware 2474 2484	ransomware
+T127	Device 2516 2524	computer
+T128	Version 2543 2550	version
+T129	Number 2573 2576	433
+T130	File 2577 2587	file types
+T131	File 2609 2617	archives
+T132	File 2598 2607	databases
+T133	File 2619 2635	office documents
+T134	File 2650 2665	web-based files
+T135	File 2670 2686	multimedia files
+T136	File 2637 2648	email files
+T137	Campaign 2716 2724	campaign
+T138	System 3489 3505	high-end systems
+T139	Device 3709 3715	server
+T140	Software 3733 3748	latest firmware
+T141	Software 3753 3772	anti-virus software
+T142	Course-of-Action 3700 3772	keep the server updated with the latest firmware and anti-virus software
+T143	Malware 4012 4022	ransomware
+T144	Course-of-Action 3918 3963	avoid installing unknown third-party programs
+T145	Software 3943 3963	third-party programs
+T146	System 4109 4116	network
+T147	Course-of-Action 4057 4084	keep monitoring the traffic
+T148	File 4179 4189	event logs
+T149	File 955 988	malware-containing advertisements
+T150	File 1021 1024	ads
+T152	Malware 1434 1436	it
+T153	System 1533 1535	it
+*	Coreference T2 T12
+*	Coreference T3 T27 T6
+*	Coreference T15 T8
+*	Coreference T33 T124
+*	Coreference T35 T60
+*	Coreference T37 T102
+*	Coreference T121 T42 T39
+*	Coreference T51 T129
+*	Coreference T53 T120
+*	Coreference T61 T98
+*	Coreference T21 T62 T46 T19 T116 T152
+*	Coreference T65 T66 T153 T68 T64
+*	Coreference T67 T96
+*	Coreference T74 T137
+*	Coreference T22 T7 T72 T50 T119 T44 T79 T28
+*	Coreference T82 T18 T117
+*	Coreference T97 T122
+*	Coreference T99 T104 T112
+*	Coreference T95 T111 T113 T101
+*	Coreference T146 T115 T78 T25 T110 T105
+*	Coreference T75 T118 T49 T71 T128
+*	Coreference T143 T85 T83 T94 T77 T73 T126 T48 T29 T80

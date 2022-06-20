@@ -1,0 +1,77 @@
+T6	Hacker-Group 348 354	hacker
+T5	Person 365 392	Superintendent Diana Greene
+T1	Campaign 325 344	email phishing scam
+T2	Person 289 306	payroll employees
+T3	Time 241 246	Feb 3
+T8	Email 401 406	email
+T9	Person 410 430	one of the employees
+T10	Purpose 432 456	requesting all W-2 forms
+T19	Person 461 479	district employees
+T12	Organization 824 834	government
+T13	Person 796 799	man
+T16	Information 1061 1072	information
+T17	Person 1036 1054	district employees
+T18	Person 8 22	representative
+T20	Organization 32 56	Internal Revenue Service
+T21	Organization 72 107	Manatee County School Board offices
+T22	Time 108 117	last week
+T23	Campaign 146 158	cyber attack
+T24	Information 129 140	information
+T25	Time 162 169	January
+T27	Person 219 222	him
+T28	Person 248 271	district administrators
+T4	Attack-Pattern 355 430	posing as Superintendent Diana Greene sent an email to one of the employees
+T7	Person 485 509	Manatee payroll employee
+T29	Person 541 557	another employee
+T30	Hacker-Group 568 574	hacker
+T31	File 577 585	PDF file
+T32	Number 601 606	7,700
+T33	Information 607 611	W-2s
+T34	Person 620 628	employee
+T35	Time 659 663	2016
+T36	Campaign 697 703	attack
+T37	Person 705 713	Fletcher
+T14	Information 767 788	sensitive information
+T11	Person 836 844	Fletcher
+T38	File 855 859	file
+T39	Organization 872 882	IRS office
+T40	Location 921 930	Fort Knox
+T41	Person 938 971	Deputy Superintendent Ron Ciranna
+T42	Number 1030 1035	7,700
+T15	Campaign 1127 1139	obvious scam
+T43	Person 1097 1101	many
+T44	Person 1145 1170	school district officials
+T45	Person 1175 1179	they
+T46	Person 1218 1227	employees
+T48	Campaign 1246 1252	attack
+T47	Organization 1258 1266	district
+T49	Person 1276 1285	employees
+T50	Person 1297 1311	administrators
+T51	Campaign 1327 1333	attack
+T52	Course-of-Action 1267 1285	notified employees
+T53	Course-of-Action 1338 1389	purchased identity protection and credit monitoring
+T54	Person 1398 1407	employees
+T55	Person 1413 1420	Ciranna
+T56	Organization 1430 1438	district
+T58	Person 897 899	we
+T60	Number 285 288	two
+T61	Information 447 456	W-2 forms
+T62	Location 647 655	district
+T57	Course-of-Action 1447 1485	increasing its cyber-security training
+T67	Person 1201 1205	they
+*	Coreference T6 T30
+*	Coreference T5 T41
+*	Coreference T28 T50
+*	Coreference T32 T42
+*	Coreference T33 T61
+*	Coreference T37 T11
+*	Coreference T51 T48
+*	Coreference T49 T54 T46 T17
+T26	Person 171 196	Chief Information Officer
+T68	Person 197 213	Patrick Fletcher
+*	Coreference T26 T68
+*	Coreference T27 T18
+*	Coreference T36 T1
+*	Coreference T9 T7
+*	Coreference T44 T45 T67
+*	Coreference T47 T56

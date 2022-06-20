@@ -1,0 +1,103 @@
+T1	Campaign 28 41	data breaches
+T2	Hacker-Group 63 70	hackers
+T4	Information 95 103	accounts
+T5	Domain 108 117	CashCrate
+T7	Hacker-Group 649 656	hackers
+T9	Information 683 690	account
+T10	Domain 702 706	site
+T8	Person 669 680	 the victim
+T11	Domain 718 734	 their CashCrate
+T12	Information 735 742	account
+T22	Person 588 595	 a user
+T24	Information 922 939	login credentials
+T25	Hacker-Group 862 869	hackers
+T17	Person 1495 1499	them
+T15	Person 1461 1467	anyone
+T15	Person 1461 1467	anyone
+T13	Information 1429 1440	credentials
+T20	Software 1648 1674	third-party forum software
+T19	Purpose 1698 1715	led to the breach
+T21	Number 85 94	6 million
+T27	Domain 118 125	 a site
+T26	Person 132 137	users
+T28	Software 190 201	 a database
+T29	Hacker-Group 214 225	Motherboard
+T30	Domain 238 247	CashCrate
+T31	Person 257 262	users
+T32	Person 286 292	people
+T33	Money 374 378	cash
+T34	Information 380 389	 The data
+T35	Information 399 419	user email addresses
+T36	Information 421 426	names
+T37	Information 428 437	passwords
+T38	Information 443 461	physical addresses
+T39	Time 476 486	timestamps
+T40	Software 489 509	 the stolen database
+T41	Time 524 537	accounts date
+T42	Time 550 554	2006
+T43	Information 575 584	passwords
+T44	Information 639 647	password
+T45	Attack-Pattern 663 706	access the victim's account on another site
+T6	Time 763 767	2010
+T46	Information 791 800	passwords
+T47	Hash 801 807	hashed
+T48	Code 834 847	MD5 algorithm
+T49	Attack-Pattern 885 939	crack the hashes and obtain the real login credentials
+T23	Domain 973 977	site
+T50	Domain 978 986	LeakBase
+T51	Hacker-Group 996 1007	Motherboard
+T52	Information 1022 1041	 the CashCrate data
+T53	Information 1059 1068	 the data
+T54	Hacker-Group 1085 1096	Motherboard
+T55	Purpose 1110 1174	create accounts with random email addresses included in the data
+T56	Information 1117 1125	accounts
+T57	Information 1131 1153	random email addresses
+T58	Information 1165 1174	 the data
+T59	Campaign 1185 1193	instance
+T60	Campaign 1195 1199	this
+T61	Information 1225 1235	 the email
+T62	Information 1257 1268	 an account
+T63	Domain 1272 1281	CashCrate
+T64	Domain 1304 1313	CashCrate
+T65	Domain 1342 1351	 the site
+T66	Course-of-Action 1365 1385	basic web encryption
+T67	URL 1399 1414	 its login page
+T68	Attack-Pattern 1429 1499	credentials could be exposed to anyone in a position to intercept them
+T14	Person 1545 1552	members
+T16	Campaign 1558 1569	 the breach
+T18	Domain 1503 1505	We
+T69	Domain 1577 1579	we
+T70	Domain 1717 1719	We
+T71	Person 1773 1798	 a CashCrate spokesperson
+T72	Hacker-Group 1804 1815	Motherboard
+T73	Email 1818 1827	 an email
+T74	Domain 1831 1833	We
+T75	Person 1863 1868	users
+T76	Time 1894 1906	October 2013
+T77	Information 1912 1921	passwords
+T78	Information 1997 2005	accounts
+T79	Information 2011 2030	plaintext passwords
+T80	Person 2077 2094	 the spokesperson
+T81	Domain 2148 2156	websites
+T82	Information 2205 2218	email address
+T83	Domain 2234 2249	leftfield sites
+T84	Purpose 2259 2296	creating dedicated addresses for each
+T85	Information 2278 2287	addresses
+T86	Number 2401 2407	 a few
+T87	Domain 2408 2413	sites
+T88	Information 2439 2457	 a unique password
+T89	Domain 2468 2472	site
+T90	Course-of-Action 2436 2472	use a unique password for every site
+T97	Domain 2116 2118	We
+T102	Domain 1960 1962	we
+T104	Information 745 753	Accounts
+T91	Domain 1744 1746	we
+*	Coreference T42 T6
+*	Coreference T72 T54 T51 T29
+*	Coreference T56 T9 T12 T104
+*	Coreference T71 T80
+*	Coreference T27 T65 T23 T11 T64 T5 T63 T18 T69 T70 T91 T74 T102 T30 T97
+*	Coreference T28 T40
+*	Coreference T53 T52 T58
+*	Coreference T61 T57
+*	Coreference T17 T15

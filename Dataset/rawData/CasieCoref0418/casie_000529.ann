@@ -1,0 +1,115 @@
+T26	Email 3635 3643	an email
+T49	Hacker-Group 3614 3627	the attackers
+T50	Time 3608 3612	2016
+T47	Person 3690 3703	top executive
+T48	Person 3708 3715	someone
+T38	Organization 3668 3687	victim organization
+T20	Campaign 2391 2403	the incident
+T28	Organization 2369 2379	The school
+T51	Campaign 2310 2316	attack
+T52	Organization 2281 2296	Palomar College
+T46	Time 2320 2330	January 30
+T40	Person 2347 2355	employee
+T39	Information 2356 2367	W-2 records
+T10	Campaign 1727 1742	was compromised
+T11	Time 1746 1756	January 27
+T5	Information 1712 1726	their W-2 data
+T13	Person 1697 1706	employees
+T12	Organization 1662 1688	Distribution International
+T19	Campaign 1966 1982	were compromised
+T18	Person 1952 1965	all employees
+T17	Organization 1934 1947	all companies
+T16	Information 1918 1929	W-2 records
+T15	Campaign 1873 1888	pretended to be
+T24	Organization 1900 1907	company
+T2	Person 1910 1916	owners
+T25	Hacker-Group 1839 1851	The scammers
+T14	Email 1860 1868	an email
+T41	Campaign 3386 3400	Phishing scams
+T1	Campaign 542 581	Business Email Compromise (BEC) attacks
+T43	Campaign 3405 3419	Spear Phishing
+T21	Campaign 2424 2434	BEC attack
+T59	Campaign 793 816	theft of sensitive data
+T60	Hacker-Group 822 831	criminals
+T61	Purpose 843 864	commit various crimes
+T42	Campaign 3358 3369	BEC attacks
+T45	Organization 3445 3462	a specific target
+T44	Hacker-Group 3426 3439	the criminals
+T34	Campaign 2774 2789	the BEC attacks
+T35	Hacker-Group 2753 2766	the criminals
+T36	Time 2747 2751	2016
+T37	Purpose 2797 2831	focused on payroll and tax records
+T3	Campaign 1036 1045	BEC scams
+T63	Organization 994 1020	at least 145 organizations
+T64	Time 988 992	2016
+T62	Purpose 1090 1099	tax fraud
+T53	Purpose 1104 1118	identity theft
+T31	Person 2700 2707	someone
+T30	Person 2718 2727	a manager
+T32	Person 2580 2616	a Class A minor league baseball team
+T33	Purpose 2659 2693	staff W-2 records were compromised
+T4	Campaign 1331 1356	BEC-related data breaches
+T9	Purpose 1389 1409	compromised W-2 data
+T6	Organization 1302 1315	organizations
+T8	Time 1287 1297	February 5
+T7	Time 0 9	Last week
+T54	Software 15 39	Internal Revenue Service
+T55	Software 41 44	IRS
+T56	Person 70 79	employers
+T57	Purpose 280 311	combat identity theft and fraud
+T58	Person 473 489	IRS Commissioner
+T65	Person 491 504	John Koskinen
+T66	Campaign 515 520	scams
+T67	Campaign 605 626	dangerous email scams
+T68	Course-of-Action 677 704	top security certifications
+T69	Person 970 978	Koskinen
+T70	Person 1120 1131	Salted Hash
+T71	Domain 1182 1198	Databreaches.net
+T72	Campaign 1272 1279	attacks
+T73	Person 1425 1436	BEC victims
+T74	System 1449 1463	school systems
+T75	Number 1445 1448	ten
+T76	Organization 1467 1492	software development firm
+T77	Organization 1496 1511	utility company
+T78	Location 1515 1527	Pennsylvania
+T79	Number 1831 1837	30,000
+T80	Person 1799 1817	affected taxpayers
+T81	Person 1984 1995	Salted Hash
+T82	Person 2030 2042	Jeff Caswell
+T83	Information 2053 2064	information
+T84	Number 2145 2150	3,000
+T85	Person 2151 2160	employees
+T86	Organization 2076 2101	College of Southern Idaho
+T87	Person 2202 2214	Doug Maughan
+T22	Hacker-Group 2915 2923	scammers
+T27	System 2855 2858	IRS
+T29	Campaign 3007 3025	wire transfer scam
+T88	Email 3052 3066	W-2 scam email
+T89	Person 335 344	employers
+T90	Software 317 320	IRS
+T92	Hacker-Group 3464 3468	They
+T93	Person 3745 3747	it
+T94	Person 88 92	them
+T95	Campaign 760 762	It
+T97	Information 2738 2742	them
+T98	Organization 907 909	We
+T99	Campaign 2463 2465	it
+*	Coreference T48 T31
+*	Coreference T39 T16
+*	Coreference T10 T19
+*	Coreference T50 T36 T64
+*	Coreference T53 T57
+*	Coreference T65 T69 T58
+*	Coreference T70 T81 T23
+*	Coreference T40 T85
+*	Coreference T54 T55 T90 T27
+*	Coreference T94 T56
+*	Coreference T1 T66 T3 T95 T72 T4
+*	Coreference T51 T20 T99
+T23	Person 2440 2451	Salted Hash
+T91	Person 2011 2028	Sky Climber's CFO
+*	Coreference T91 T82
+T96	Information 2659 2676	staff W-2 records
+*	Coreference T97 T96
+*	Coreference T34 T42
+*	Coreference T44 T92

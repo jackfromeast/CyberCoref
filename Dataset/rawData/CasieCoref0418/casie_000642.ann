@@ -1,0 +1,88 @@
+T9	Email 448 466	A “phishing” email
+T7	Email 492 510	a legitimate email
+T19	Time 289 305	January 24, 2017
+T20	Person 351 360	employees
+T18	Organization 307 325	the medical school
+T22	Email 389 405	“phishing” email
+T21	Time 376 387	Dec 2, 2016
+T10	Person 522 535	the recipient
+T12	Purpose 541 559	taking some action
+T11	Purpose 569 596	providing login credentials
+T3	Person 182 194	our patients
+T2	Information 156 167	information
+T4	Organization 221 248	an unauthorized third party
+T5	Campaign 256 284	an email “phishing” incident
+T15	Organization 729 756	an unauthorized third party
+T14	Information 799 813	email accounts
+T16	Campaign 1140 1161	the phishing incident
+T24	Organization 0 40	Washington University School of Medicine
+T1	Campaign 619 627	incident
+T6	Course-of-Action 632 658	secured the email accounts
+T8	Information 644 658	email accounts
+T13	Information 788 813	employees’ email accounts
+T17	Person 1363 1371	patients
+T25	Time 1375 1389	March 24, 2017
+T26	Time 1548 1562	April 24, 2017
+T27	Email 1538 1544	letter
+T28	Course-of-Action 57 129	protecting the security and confidentiality of our patients’ information
+T29	Information 108 129	patients’ information
+T23	Email 417 419	it
+T30	Email 428 446	legitimate request
+T31	Information 853 878	employees’ email accounts
+T33	Information 927 946	patient information
+T34	Email 910 946	emails contained patient information
+T32	Information 972 977	names
+T35	Information 979 990	birth dates
+T36	Information 992 1014	medical record numbers
+T37	Information 1016 1051	diagnosis and treatment information
+T38	Information 1059 1079	clinical information
+T39	Information 1103 1126	Social Security numbers
+T40	Information 1256 1267	information
+T41	Email 1275 1281	emails
+T42	Email 1343 1350	letters
+T43	Organization 1424 1435	call center
+T44	Person 1460 1468	patients
+T45	Vulnerability 1450 1459	questions
+T46	Vulnerability 1583 1592	questions
+T47	Campaign 1608 1616	incident
+T48	Information 1630 1642	844-641-5630
+T49	Organization 1648 1659	call center
+T50	Time 1668 1710	Monday through Friday from 9 a.m. to 5 p.m
+T51	Campaign 1759 1767	incident
+T52	Person 1788 1796	patients
+T53	Course-of-Action 1806 1828	prevent such incidents
+T54	Time 1829 1842	in the future
+T55	Campaign 1819 1828	incidents
+T56	Course-of-Action 1851 1872	reinforcing education
+T57	Person 1882 1887	staff
+T58	Person 1892 1899	faculty
+T59	Information 1926 1946	university resources
+T60	Protocol 1903 1921	existing protocols
+T61	Email 1957 1974	“phishing” emails
+T62	Course-of-Action 1988 2010	reviewing enhancements
+T63	Course-of-Action 2014 2085	strengthen our business practices and user login authentication process
+T64	Person 1570 1573	you
+T65	Organization 629 631	we
+T66	Person 1326 1328	we
+T67	Organization 1844 1846	we
+T68	Person 1494 1497	you
+T69	Organization 1726 1728	We
+T71	Person 1482 1485	you
+T72	Organization 1128 1130	We
+T73	Organization 1976 1978	We
+T74	Organization 1225 1227	We
+T75	Organization 131 133	We
+T76	Organization 815 817	We
+*	Coreference T7 T30
+*	Coreference T22 T61 T9 T23
+*	Coreference T4 T15
+*	Coreference T5 T16
+*	Coreference T31 T14 T8 T13
+*	Coreference T26 T25 T21 T19
+*	Coreference T27 T42
+*	Coreference T36 T39
+*	Coreference T40 T37 T33 T2 T29 T38
+*	Coreference T43 T49
+*	Coreference T45 T46
+*	Coreference T75 T24 T65 T76 T72 T74 T66 T69 T67 T73
+*	Coreference T71 T68 T52 T44 T17 T3 T64

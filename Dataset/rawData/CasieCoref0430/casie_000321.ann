@@ -1,0 +1,192 @@
+T43	Person 2975 2982	Ribeiro
+T44	Person 2988 2990	he
+T29	Person 1560 1567	Ribeiro
+T30	Attack-Pattern 1629 1654	command injection attacks
+T31	Person 1602 1604	he
+T30	Attack-Pattern 1629 1654	command injection attacks
+T9	Vulnerability 284 317	command injection vulnerabilities
+T10	Device 321 326	ZyXel
+T11	Device 331 346	Billion routers
+T12	Organization 362 372	TrueOnline
+T67	Person 193 217	Researcher Pedro Ribeiro
+T25	Information 254 279	accessible admin accounts
+T79	Organization 221 247	Agile Information Security
+T18	Time 559 568	last July
+T26	Person 425 427	he
+T80	Organization 466 481	Beyond Security
+T68	Person 412 419	Ribeiro
+T6	Organization 155 167	 the vendors
+T7	Time 168 175	in July
+T83	Person 570 577	Ribeiro
+T84	Time 615 624	yesterday
+T39	Person 634 641	Ribeiro
+T20	Organization 678 688	TrueOnline
+T49	Vulnerability 780 784	they
+T36	System 2154 2173	the tclinux variant
+T34	Vulnerability 2195 2232	the command injection vulnerabilities
+T38	Vulnerability 2375 2403	three of the vulnerabilities
+T37	Device 2338 2356	Metasploit modules
+T86	Vulnerability 2412 2432	 the vulnerabilities
+T75	Device 2853 2881	The ZyXel P660HN-T v1 router
+T74	Attack-Pattern 2918 2942	command injection attack
+T77	Attack-Pattern 2952 2973	be exploited remotely
+T48	Device 3114 3120	router
+T78	Version 3099 3101	V2
+T53	Attack-Pattern 3656 3681	command injection attacks
+T52	Vulnerability 3682 3700	 the vulnerability
+T72	Domain 3714 3740	its adv_remotelog.asp page
+T59	Device 4466 4485	iBall baton routers
+T60	Organization 4859 4863	ASUS
+T58	Vulnerability 4872 4877	a bug
+T61	Attack-Pattern 4883 4928	allowed attackers to pair two vulnerabilities
+T62	Purpose 4962 4986	execute commands as root
+T90	Purpose 4932 4957	gain direct router access
+T65	Time 5020 5027	January
+T64	Organization 5085 5094	Microsoft
+T89	Vulnerability 5011 5018	Spectre
+T88	Vulnerability 4998 5006	Meltdown
+T4	Device 50 57	routers
+T2	Vulnerability 11 34	serious vulnerabilities
+T5	Time 115 121	Monday
+T50	Course-of-Action 939 946	patches
+T91	Information 0 34	Details on serious vulnerabilities
+T92	Number 38 49	a number of
+T3	Organization 79 96	 a major Thai ISP
+T1	Location 374 382	Thailand
+T8	Organization 393 410	broadband company
+T13	Vulnerability 437 457	 the vulnerabilities
+T15	Campaign 484 520	SecuriTeam Secure Disclosure Program
+T16	Person 537 558	 the affected vendors
+T33	Organization 647 657	Threatpost
+T66	Person 658 660	he
+T14	Vulnerability 699 719	 the vulnerabilities
+T19	Device 755 767	 the routers
+T21	Person 794 823	 the respective manufacturers
+T22	Person 824 847	 A ZyXel representative
+T81	Organization 853 864	Threatpost 
+T82	Device 996 1003	Billion
+T93	Device 1069 1081	 the routers
+T94	System 1121 1150	 the TC3162U system-on-a-chip
+T95	Organization 1167 1176	TrendChip
+T96	Device 1101 1105	they
+T97	Device 1178 1194	Affected routers
+T98	Device 1198 1220	 the ZyXel P660HN-T v1
+T99	Device 1225 1236	P660HN-T v2
+T100	Device 1242 1258	Billion 5200 W-T
+T101	Person 1289 1309	TrueOnline customers
+T102	Device 1310 1328	 The TC3162U chips
+T103	Number 1333 1336	two
+T104	System 1347 1364	firmware variants
+T105	System 1378 1381	ras
+T106	Device 1397 1427	 the Allegro RomPage webserver
+T107	Campaign 1441 1470	 the Misfortne Cookie attacks
+T108	System 1475 1485	 the other
+T109	System 1493 1500	tclinux
+T32	System 1501 1521	 The tclinux variant
+T110	File 1591 1600	ASP files
+T28	Vulnerability 1530 1550	 the vulnerabilities
+T27	Number 1583 1590	several
+T76	Person 1656 1658	He
+T111	Device 1678 1682	they
+T112	Campaign 1711 1728	Misfortune Cookie
+T113	Person 1734 1736	he
+T114	System 1800 1807	tclinux
+T115	File 1817 1822	files
+T116	System 1922 1946	 these firmware versions
+T117	Organization 1967 1977	TrueOnline
+T118	Device 1989 2011	ISP customised routers
+T119	Organization 2021 2030	countries
+T120	Person 2058 2065	Ribeiro
+T71	Information 2238 2254	default accounts
+T121	Organization 2272 2282	TrueOnline
+T122	Person 2310 2317	Ribeiro
+T23	Number 2375 2380	three
+T85	Vulnerability 2460 2464	some
+T123	Vulnerability 2496 2511	vulnerabilities
+T124	Code 2526 2544	 the web interface
+T125	Information 2545 2569	 The default credentials
+T126	System 2581 2594	 the firmware
+T127	Organization 2607 2617	TrueOnline
+T128	Information 2622 2626	they
+T129	Person 2682 2689	Ribeiro
+T130	System 2671 2679	 the WAN
+T131	Device 2757 2771	 these routers
+T132	Code 2778 2796	 the web interface
+T133	System 2801 2809	 the WAN
+T134	Information 2820 2836	 the credentials
+T24	Vulnerability 2996 3014	 the vulnerability
+T41	File 3029 3039	system log
+T42	Domain 3076 3097	 the ViewLog.asp page
+T40	Vulnerability 3139 3152	vulnerability
+T45	Person 3202 3204	he
+T47	Domain 3275 3295	 the logSet.asp page
+T87	Device 3221 3236	 the P660HN-Tv1
+T135	Device 3305 3317	 this router
+T136	Information 3326 3358	 a hardcoded supervisor password
+T137	Information 3359 3363	that
+T138	Vulnerability 3386 3405	 this vulnerability
+T139	Person 3408 3415	Ribeiro
+T140	Domain 3442 3462	 the logSet.asp page
+T141	File 3497 3508	syslog logs
+T142	Information 3513 3527	 the parameter
+T143	Information 3554 3577	 the serverIP parameter
+T46	Device 3579 3599	 The Billion 5200W-T
+T54	Device 3747 3769	Billion 5200W-T router
+T144	Number 3779 3786	several
+T145	Code 3814 3828	 its interface
+T51	Version 3842 3863	 the firmware version
+T146	Domain 3911 3925	tools_time.asp
+T147	Information 3927 3953	uiViewSNTPServer parameter
+T148	Person 3957 3964	Ribeiro
+T150	Information 4024 4057	hardcoded administrative accounts
+T151	Number 4016 4023	several
+T152	Information 4058 4062	that
+T153	Vulnerability 4085 4104	 this vulnerability
+T154	Person 4107 4114	Ribeiro
+T155	Information 4120 4154	default and weak admin credentials
+T156	Version 4168 4192	 the all of the versions
+T157	Person 4222 4237	 The researcher
+T158	Device 4263 4275	 the routers
+T159	Course-of-Action 4280 4290	be patched
+T160	Information 4332 4351	default credentials
+T161	Course-of-Action 4413 4432	update the firmware
+T162	System 4419 4432	 the firmware
+T163	Person 4444 4451	Ribeiro
+T164	Location 4489 4494	India
+T55	Campaign 4552 4576	command injection attack
+T56	Attack-Pattern 4518 4576	unauthenticated and authenticated command injection attack
+T165	Information 4602 4636	default and weak admin credentials
+T166	Version 4643 4667	 the all of the versions
+T167	Device 4707 4747	“Ball WRA150N” ADSL2+ iBall baton Router
+T168	Device 4752 4759	IBall  
+T169	Course-of-Action 4834 4857	latest firmware patches
+T170	Attack-Pattern 3793 3811	command injections
+T171	Person 4705 4706	I
+T173	Person 4698 4699	i
+T176	Information 2838 2840	it
+T178	Person 2729 2730	I
+T183	Organization 723 725	it
+T17	Code 587 614	 a proof of concept exploit
+T69	Device 868 881	router models
+T35	Device 2131 2144	router models
+T57	Device 3994 4006	 this router
+*	Coreference T33 T81
+*	Coreference T130 T133
+*	Coreference T124 T132 T145
+*	Coreference T137 T152
+*	Coreference T40 T52 T24 T153 T138
+*	Coreference T161 T169
+*	Coreference T13 T9 T14 T49
+*	Coreference T20 T12 T183 T117 T121
+*	Coreference T93 T69
+*	Coreference T114 T109 T108
+*	Coreference T36 T32
+*	Coreference T38 T34 T86
+*	Coreference T85 T123
+*	Coreference T128 T125
+*	Coreference T176 T134
+*	Coreference T44 T43 T76 T113 T26 T68 T67 T83 T39 T66 T29 T31 T120 T122 T129 T178 T45 T148 T154 T163 T157 T139
+*	Coreference T98 T75 T87 T48 T135
+*	Coreference T74 T30 T53 T170
+*	Coreference T46 T54
+*	Coreference T173 T171

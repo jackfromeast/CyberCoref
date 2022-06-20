@@ -1,0 +1,89 @@
+T8	Campaign 1566 1583	information theft
+T10	Attack-Pattern 1522 1534	DDoS attacks
+T19	Information 1656 1669	internal data
+T1	Money 751 757	ransom
+T3	Time 825 829	2016
+T6	Information 1442 1462	valuable information
+T4	Hacker-Group 1379 1388	Attackers
+T22	Campaign 62 86	 a cyber-ransom campaign
+T7	Campaign 1469 1483	ransom attacks
+T11	Attack-Pattern 1493 1517	lock up a company's data
+T16	Campaign 655 673	Ransomware attacks
+T2	Number 7 14	half of
+T12	Organization 15 25	businesses
+T13	Organization 38 42	they
+T14	Time 90 94	2016
+T18	Time 166 175	2016-2017
+T20	Person 206 222	IT professionals
+T21	Campaign 224 236	cyber attack
+T23	Number 270 273	27%
+T24	Person 277 289	tech leaders
+T25	Campaign 177 186	Data loss
+T26	Campaign 330 332	It
+T27	Campaign 349 363	service outage
+T28	Number 365 368	19%
+T29	Number 388 391	16%
+T30	Campaign 371 386	reputation loss
+T31	Campaign 398 422	customer or partner loss
+T32	Number 424 426	9%
+T35	Malware 429 436	Malware
+T36	Campaign 440 451	bot attacks
+T37	Attack-Pattern 452 490	hit half of all organizations surveyed
+T39	Time 491 507	in the last year
+T40	Number 514 517	55%
+T41	Person 521 532	respondents
+T43	System 621 625	they
+T44	Vulnerability 638 653	vulnerabilities
+T45	Course-of-Action 577 616	 their cybersecurity detection measures
+T46	Number 718 721	41%
+T47	Person 725 736	respondents
+T48	Campaign 786 804	 the cyber attacks
+T49	Person 805 809	they
+T50	Time 831 840	Meanwhile
+T51	Number 842 845	27%
+T52	Person 849 860	respondents
+T53	Campaign 867 882	insider threats
+T54	Number 884 887	26%
+T55	Number 919 922	26%
+T56	Campaign 893 913	political hacktivism
+T57	Campaign 928 939	competition
+T58	Person 941 957	SEE: HR managers
+T59	Malware 966 976	Ransomware
+T60	Person 996 1009	job applicant
+T61	Number 1016 1027	large-scale
+T62	Campaign 1028 1040	DDoS attacks
+T63	Time 1068 1072	2016
+T64	Number 1102 1104	4%
+T65	Campaign 1112 1119	attacks
+T66	Number 1135 1137	50
+T67	Number 1160 1163	83%
+T68	Campaign 1167 1179	DDoS attacks
+T69	Number 1200 1201	1
+T70	Money 1229 1234	Money
+T71	Time 1280 1285	today
+T72	Person 1293 1307	Carl Herberger
+T73	Person 1309 1356	vice president of security solutions at Radware
+T74	Number 1395 1421	 an ever-increasing number
+T75	Information 1500 1517	 a company's data
+T76	Campaign 1522 1534	DDoS attacks
+T78	Campaign 1610 1627	injection attacks
+T9	Purpose 1566 1583	information theft
+T79	Attack-Pattern 1588 1669	direct brute force or injection attacks that grant direct access to internal data
+T80	Campaign 1694 1701	attacks
+T81	Number 1708 1711	40%
+T82	Organization 1715 1728	organizations
+T83	Organization 1743 1747	they
+T84	Campaign 1795 1806	 the survey
+T85	Campaign 1258 1269	 the threat
+T86	Purpose 1436 1462	steal valuable information
+T15	File 109 165	Radware's Global Application and Network Security Report
+T17	System 547 561	IoT ecosystems
+*	Coreference T3 T63
+*	Coreference T52 T41 T47 T49
+*	Coreference T12 T13
+*	Coreference T26 T25
+*	Coreference T43 T17
+*	Coreference T16 T48
+*	Coreference T62 T68
+*	Coreference T72 T73
+*	Coreference T82 T83

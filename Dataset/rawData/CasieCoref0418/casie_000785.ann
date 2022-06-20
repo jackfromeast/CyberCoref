@@ -1,0 +1,118 @@
+T13	Campaign 403 414	discovering
+T14	Vulnerability 420 428	zero-day
+T15	Person 373 398	Kaspersky Lab researchers
+T20	Organization 354 363	Microsoft
+T18	Campaign 471 478	impacts
+T19	System 479 507	the Windows Win32k component
+T17	Campaign 444 452	known as
+T22	Campaign 552 562	discovered
+T21	Organization 547 551	they
+T6	Campaign 576 591	being exploited
+T23	Vulnerability 563 575	the zero-day
+T25	Version 688 704	32-bit Windows 7
+T30	Campaign 795 805	discovered
+T31	Person 809 830	Kaspersky researchers
+T2	Campaign 52 60	released
+T3	Course-of-Action 82 89	patches
+T1	Organization 40 51	the company
+T7	Time 0 9	Yesterday
+T50	Organization 14 23	Microsoft
+T4	Campaign 95 100	fixed
+T5	Vulnerability 101 118	62 security flaws
+T11	Campaign 237 256	were made available
+T12	Course-of-Action 223 236	these patches
+T8	Course-of-Action 120 131	These fixes
+T9	Course-of-Action 146 151	a fix
+T10	Vulnerability 156 180	a zero-day vulnerability
+T28	Campaign 774 781	patched
+T29	Organization 785 794	Microsoft
+T27	Vulnerability 723 773	the second Windows elevation of privilege zero-day
+T37	Campaign 1025 1040	has not patched
+T38	Vulnerability 1041 1051	a zero-day
+T40	Organization 1015 1024	Microsoft
+T43	Campaign 1130 1143	was disclosed
+T44	Time 1158 1176	the end of October
+T39	Campaign 1057 1069	is affecting
+T42	File 1104 1113	dssvc.dll
+T46	Campaign 1971 1983	was affected
+T48	System 1944 1963	Windows Server 2019
+T47	Vulnerability 1996 2001	issue
+T49	Organization 1901 1910	Microsoft
+T34	Campaign 854 861	patched
+T32	Time 832 842	Last month
+T33	Organization 844 853	Microsoft
+T35	Vulnerability 862 875	CVE-2018-8453
+T16	Time 1223 1233	this month
+T24	System 1393 1403	Windows 10
+T26	Time 1404 1416	October 2018
+T36	Information 1431 1442	user’s data
+T41	Version 1581 1604	Windows 10 version 1809
+T45	Course-of-Action 1568 1580	re-releasing
+T51	Organization 1537 1546	Microsoft
+T52	Organization 2016 2021	ZDNet
+T53	Course-of-Action 2046 2056	re-release
+T54	Course-of-Action 2063 2093	restore the installation files
+T55	Version 2101 2111	Windows 10
+T56	Course-of-Action 2210 2239	install a new Windows version
+T57	Person 2314 2328	Michael Fortin
+T58	Person 2330 2362	Windows Corporate Vice President
+T59	Person 2590 2592	we
+T60	Organization 1562 1564	it
+*	Coreference T15 T31
+*	Coreference T22 T43 T30 T13
+*	Coreference T34 T37 T3 T12 T28 T8
+*	Coreference T39 T46
+*	Coreference T32 T16
+*	Coreference T40 T49 T50 T20 T51 T33 T29 T1 T61 T76 T80 T82 T60 T88 T92
+*	Coreference T41 T55 T25 T48 T24 T62 T85 T93
+T61	Organization 258 267	Microsoft
+T62	System 305 315	Windows 10
+T63	Vulnerability 453 466	CVE-2018-8589
+T64	Person 511 533	Kaspersky spokesperson
+*	Coreference T64 T21
+T65	Hacker-Group 604 633	cyber-espionage groups (APTs)
+T66	Vulnerability 640 648	zero-day
+T67	Vulnerability 877 893	another zero-day
+*	Coreference T35 T67 T38 T14 T23 T10 T63 T66 T73
+T68	Hacker-Group 962 973	FruityArmor
+T69	Hacker-Group 918 952	state-backed cyber-espionage group
+*	Coreference T69 T68
+T70	Campaign 26 39	Patch Tuesday
+T71	Campaign 1000 1013	Patch Tuesday
+*	Coreference T71 T70
+T72	Software 1074 1102	Windows Data Sharing Service
+*	Coreference T42 T72
+T73	Vulnerability 1121 1129	zero-day
+T74	Organization 1191 1196	ZDNet
+T75	Organization 539 544	ZDNet
+*	Coreference T75 T74
+T76	Organization 1199 1208	Microsoft
+T77	Person 1266 1271	users
+T78	Device 1335 1360	solid-state drives (SSDs)
+T79	Software 1301 1310	BitLocker
+T80	Organization 1378 1387	Microsoft
+T81	Person 1431 1435	user
+*	Coreference T77 T81
+T82	Organization 1480 1487	company
+T83	Course-of-Action 1509 1515	update
+T84	Course-of-Action 1453 1461	updating
+*	Coreference T84 T83
+T85	Version 316 328	version 1809
+T86	Person 1606 1616	John Cable
+T87	Person 1618 1687	the director of Program Management for Windows Servicing and Delivery
+*	Coreference T86 T87
+T88	Organization 1691 1700	Microsoft
+T89	Vulnerability 1708 1731	the data-destroying bug
+T90	Vulnerability 1431 1447	user’s data loss
+*	Coreference T90 T89
+T91	Vulnerability 1787 1807	other quality issues
+T92	Organization 2149 2158	Microsoft
+T93	Version 2292 2311	Windows 10 versions
+*	Coreference T57 T58
+T94	Organization 2463 2470	company
+T95	Organization 2330 2337	Windows
+*	Coreference T95 T94 T98
+T96	Person 2549 2555	Fortin
+T97	Person 2558 2560	We
+*	Coreference T97 T59 T96
+T98	Organization 2782 2791	Microsoft

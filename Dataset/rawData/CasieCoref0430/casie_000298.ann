@@ -1,0 +1,146 @@
+T40	Campaign 2112 2135	this most recent breach
+T41	Organization 2151 2168	U.S.-based chains
+T42	Campaign 2974 2982	a breach
+T43	Time 2986 2997	late August
+T44	Information 3012 3017	cards
+T45	Time 3023 3058	from Feb. 16, 2016 and July 7, 2016
+T46	Organization 3076 3091	its restaurants
+T47	Organization 3096 3102	hotels
+T39	Campaign 1483 1500	the second breach
+T49	Organization 1455 1465	properties
+T19	Malware 870 881	the variant
+T20	Information 931 942	card number
+T21	Information 944 959	expiration date
+T22	Information 965 991	internal verification code
+T50	System 884 897	 their system
+T14	Information 608 625	payment card data
+T15	Campaign 496 512	 a second breach
+T16	Organization 532 538	hotels
+T17	Time 539 577	between Sept. 29 and Dec. 29 last year
+T7	Campaign 372 392	a credit card breach
+T11	Time 358 366	February
+T12	Organization 330 341	The company
+T9	Organization 408 418	its hotels
+T10	Organization 423 434	restaurants
+T2	Organization 148 158	its hotels
+T4	System 105 125	payment card systems
+T5	Time 85 99	late last week
+T6	Organization 49 78	InterContinental Hotels Group
+T23	Campaign 1097 1113	the first breach
+T25	Device 1149 1156	servers
+T26	Information 1173 1185	credit cards
+T27	Time 1191 1219	from August to December 2016
+T24	Malware 1132 1139	malware
+T28	Campaign 1221 1232	That breach
+T29	Organization 1242 1248	hotels
+T36	Organization 1391 1407	Intercontinental
+T35	Organization 1369 1387	 the Copper Lounge
+T34	Organization 1341 1357	InterContinental
+T33	Organization 1301 1337	Michael Jordan’s Steak House and Bar
+T32	Organization 1285 1291	hotels
+T30	Organization 1261 1265	bars
+T38	Location 1408 1419	Los Angeles
+T37	Location 1358 1365	Chicago
+T31	Organization 1270 1281	restaurants
+T3	Number 139 145	1,000 
+T1	Person 41 47	guests
+T8	Organization 206 209	IHG
+T51	Campaign 194 200	breach
+T52	Organization 210 232	 a multinational hotel
+T54	Time 318 328	 this year
+T53	Organization 258 269	Holiday Inn
+T55	Organization 274 286	Crowne Plaza
+T56	Number 402 404	12
+T57	Domain 460 469	 its site
+T58	Time 473 479	Friday
+T59	Organization 479 491	 the company
+T60	Organization 579 582	IHG
+T13	Malware 673 685	 the malware
+T61	Time 707 726	two to three months
+T62	Time 737 756	February/March 2017
+T63	Campaign 796 807	 the breach
+T64	Malware 828 848	payment card malware
+T65	Time 849 859	these days
+T66	Organization 861 864	IHG
+T18	Attack-Pattern 898 917	siphoned track data
+T67	Information 907 917	track data
+T48	Person 920 929	customers
+T69	Device 1064 1077	hotel servers
+T70	Device 998 1026	 the magnetic strip of cards
+T71	Person 1078 1091	 The hotelier
+T72	Purpose 1165 1186	process credit cards,
+T73	Organization 1421 1424	IHG
+T74	Person 1510 1519	customers
+T75	Software 1527 1541	 a lookup tool
+T76	Person 1541 1553	 the company
+T77	Domain 1572 1576	site
+T78	Organization 1591 1597	hotels
+T79	Organization 1608 1625	states and cities
+T80	Organization 1627 1630	IHG
+T81	Organization 1657 1665	property
+T82	Organization 1675 1681	hotels
+T83	Software 1691 1700	 the tool
+T84	Organization 1747 1753	hotels
+T85	Software 1756 1772	 the lookup tool
+T86	Number 1786 1803	more than a dozen
+T87	Number 1806 1826	more than a thousand
+T89	Malware 1853 1865	 the malware
+T90	Software 1915 1924	 the tool
+T91	Organization 1867 1870	IHG
+T92	Organization 2067 2079	 the company
+T93	Organization 1963 1973	properties
+T94	Campaign 2032 2050	 the investigation
+T95	Organization 2052 2056	IHG 
+T96	Number 2089 2094	5,000
+T97	Organization 2095 2101	hotels
+T98	Organization 2174 2179	hotel
+T99	Location 2183 2194	Puerto Rico
+T100	Organization 2195 2217	 a Holiday Inn Express
+T101	Location 2221 2229	San Juan
+T102	Organization 2243 2260	non-U.S. property
+T103	Malware 2273 2280	malware
+T104	Organization 2299 2302	IHG
+T105	Organization 2310 2322	 The company
+T106	Course-of-Action 2337 2394	implementing a point-to-point encryption payment solution
+T107	Malware 2436 2443	malware
+T108	Course-of-Action 2417 2497	reportedly prevent malware from scouring systems for payment card data last fall
+T109	System 2449 2465	scouring systems
+T110	Information 2470 2487	payment card data
+T111	Time 2488 2497	last fall
+T112	Organization 2498 2509	 The hotels
+T113	Malware 2553 2560	malware
+T114	Organization 2612 2615	IHG
+T115	Software 2584 2610	 the encryption technology
+T116	Software 2397 2407	technology
+T117	File 2623 2632	 The news
+T118	Organization 2641 2648	 an IHG
+T119	Organization 2670 2675	hotel
+T120	Organization 2676 2689	chain Kimpton
+T121	Campaign 2702 2728	 a class action court case
+T122	Organization 2741 2753	 the company
+T123	Person 2813 2819	guests
+T124	Information 2820 2837	payment card data
+T125	Course-of-Action 2764 2837	take adequate and reasonable measures to protect guests payment card data
+T126	Organization 2838 2848	 The chain
+T127	Money 2885 2905	unauthorized charges
+T128	Information 2909 2914	cards
+T129	Time 2937 2948	last summer
+T130	Organization 2922 2936	 its locations
+T131	Campaign 2998 3002	that
+T132	Attack-Pattern 2875 2936	a rash of unauthorized charges on cards used at its locations
+T133	Purpose 1233 1292	affected hotels, along with bars and restaurants at hotels,
+T134	Information 438 447	 a notice
+T136	Pronoun 2328 2330	it
+T137	Organization 2854 2856	it
+T139	Organization 2950 2952	It
+T138	Organization 763 765	it
+T68	Organization 1829 1835	hotels
+*	Coreference T44 T128
+*	Coreference T25 T69
+*	Coreference T83 T90 T75 T85
+*	Coreference T89 T103 T13 T113 T24 T107
+*	Coreference T14 T64 T19
+*	Coreference T91 T118 T104 T114 T66 T95 T60 T73 T8 T80 T52 T92 T122 T12 T76 T59 T105 T138
+*	Coreference T51 T7 T15 T63 T39
+*	Coreference T28 T23
+*	Coreference T137 T126 T139

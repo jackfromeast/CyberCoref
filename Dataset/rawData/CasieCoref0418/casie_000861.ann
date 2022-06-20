@@ -1,0 +1,68 @@
+T4	Course-of-Action 49 54	patch
+T5	Vulnerability 55 82	remote code execution (RCE)
+T6	Vulnerability 87 125	information disclosure vulnerabilities
+T7	System 133 188	Microsoft Exchange Server 2019, 2016, and 2013 products
+T3	Organization 0 9	Microsoft
+T1	Course-of-Action 19 36	a security update
+T15	Vulnerability 919 928	The issue
+T20	Vulnerability 1535 1557	security vulnerability
+T22	Vulnerability 1520 1533	CVE-2019-0588
+T26	Attack-Pattern 1571 1634	correcting the way Exchange's PowerShell API grants permissions
+T10	Vulnerability 233 246	CVE-2019-0586
+T8	Vulnerability 190 212	The RCE security issue
+T24	Vulnerability 614 627	vulnerability
+T25	Attack-Pattern 634 652	run arbitrary code
+T27	Hacker-Group 574 582	attacker
+T17	Campaign 1081 1093	was assigned
+T19	Vulnerability 1014 1080	The information disclosure Microsoft Exchange Server vulnerability
+T18	Vulnerability 1094 1111	the CVE-2019-0588
+T11	Campaign 854 858	send
+T12	Hacker-Group 836 845	attackers
+T13	File 871 885	crafter emails
+T14	Purpose 795 834	exploit the CVE-2019-0586 vulnerability
+T21	Course-of-Action 1562 1567	fixed
+T28	Hacker-Group 362 371	Attackers
+T2	Software 1174 1188	PowerShell API
+T9	Hacker-Group 1294 1302	attacker
+T16	Vulnerability 1276 1289	vulnerability
+T23	Course-of-Action 1959 1974	update packages
+T29	Vulnerability 1676 1691	vulnerabilities
+T30	Person 675 686	System user
+T31	Information 542 565	System user permissions
+T32	Vulnerability 1128 1130	it
+T33	Vulnerability 285 287	it
+*	Coreference T28 T37 T12
+*	Coreference T5 T8 T10 T33 T24 T41 T15
+T34	Software 308 316	software
+T36	Campaign 423 429	attack
+T37	Hacker-Group 487 506	potential attackers
+T35	Person 388 399	System user
+T38	Code 380 384	code
+T39	Code 648 652	code
+*	Coreference T39 T38
+*	Coreference T35 T30
+T40	Hacker-Group 691 699	attacker
+*	Coreference T40 T27 T9 T49
+T41	Vulnerability 807 834	CVE-2019-0586 vulnerability
+T42	Device 891 917	vulnerable Exchange server
+*	Coreference T42 T7 T44 T45 T43
+T44	Device 968 986	Microsoft Exchange
+*	Coreference T19 T18 T6 T32 T16 T22 T20
+T45	Device 1152 1170	Microsoft Exchange
+T46	Software 1395 1405	PowerShell
+*	Coreference T2 T46 T52
+T47	Person 1196 1217	calendar contributors
+T48	Person 1328 1339	contributor
+T49	Hacker-Group 1411 1419	attacker
+T50	Software 1476 1484	calendar
+T51	Software 1362 1370	Calendar
+*	Coreference T51 T50
+T52	Software 1590 1615	Exchange's PowerShell API
+T53	Organization 1652 1661	Microsoft
+*	Coreference T53 T3 T54
+T54	Organization 1707 1716	Microsoft
+T55	Vulnerability 1757 1777	both security issues
+*	Coreference T55 T29
+T56	Device 1871 1878	servers
+*	Coreference T1 T23
+T43	System 435 471	vulnerable Microsoft Exchange Server

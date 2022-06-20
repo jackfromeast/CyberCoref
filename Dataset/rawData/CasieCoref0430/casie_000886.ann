@@ -1,0 +1,81 @@
+T1	Organization 0 6	Oracle
+T3	Course-of-Action 20 43	a critical patch update
+T5	Vulnerability 65 84	300 vulnerabilities
+T7	Vulnerability 128 136	one flaw
+T8	Attack-Pattern 176 228	allow the takeover of the company’s software package
+T9	Software 230 247	Oracle GoldenGate
+T11	Course-of-Action 285 290	fixed
+T12	Course-of-Action 314 319	patch
+T10	Vulnerability 252 274	the 301 security flaws
+T49	Organization 307 313	Oracle
+T14	Campaign 463 468	apply
+T13	Organization 421 427	Oracle
+T15	Course-of-Action 491 496	fixes
+T19	Software 647 664	Oracle GoldenGate
+T17	Vulnerability 588 601	CVE-2018-2913
+T16	Vulnerability 561 586	The highest-severity flaw
+T20	Attack-Pattern 725 788	allows data to be replicated in heterogeneous data environments
+T21	Campaign 1010 1024	was discovered
+T22	Person 1028 1040	Jacob Baines
+T24	Person 1042 1054	a researcher
+T23	Vulnerability 1001 1009	The flaw
+T46	Organization 1060 1067	Tenable
+T29	Campaign 1142 1146	told
+T25	Vulnerability 1070 1083	CVE-2018-2913
+T26	Vulnerability 1087 1110	a stack buffer overflow
+T27	Software 1114 1132	GoldenGate Manager
+T28	Person 1135 1141	Baines
+T32	Software 1648 1665	Oracle GoldenGate
+T31	Vulnerability 1624 1641	the vulnerability
+T33	Attack-Pattern 1793 1822	takeover of Oracle GoldenGate
+T34	Campaign 1834 1841	impacts
+T37	Vulnerability 1825 1833	The flaw
+T36	Software 1893 1910	Oracle GoldenGate
+T35	Version 1842 1861	versions 12.1.2.1.0
+T47	Version 1863 1873	12.2.0.2.0
+T48	Version 1879 1889	12.3.0.1.0
+T39	Vulnerability 1946 1954	the flaw
+T42	Vulnerability 2237 2252	Two other flaws
+T41	Software 2277 2294	Oracle GoldenGate
+T43	Vulnerability 2296 2309	CVE-2018-2912
+T44	Vulnerability 2314 2327	CVE-2018-2914
+T45	Vulnerability 2369 2390	those vulnerabilities
+T50	Vulnerability 2424 2446	 these vulnerabilities
+T52	System 2526 2536	 a network
+T2	Campaign 1667 1674	attacks
+T4	Protocol 1183 1192	port 7809
+T6	Vulnerability 876 889	vulnerability
+T18	Protocol 950 967	 the TCP protocol
+T54	Software 1199 1201	it
+T30	Organization 103 106	its
+T38	Organization 141 148	 a CVSS
+T40	Organization 355 364	 the CVSS
+T51	Organization 518 530	 the company
+T56	Organization 539 542	its
+T57	Organization 674 686	 the company
+T58	Vulnerability 839 850	 the glitch
+T59	Software 982 999	Oracle GoldenGate
+T60	Software 1164 1171	Manager
+T61	Software 1210 1229	GoldenGate Software
+T62	Organization 1266 1273	Tenable
+T63	Hacker-Group 1294 1318	unauthenticated attacker
+T64	Hacker-Group 902 926	unauthenticated attacker
+T65	Hacker-Group 1442 1454	 a bad actor
+T66	Software 1584 1594	GoldenGate
+T67	Vulnerability 1760 1778	this vulnerability
+T68	Campaign 1749 1756	attacks
+T55	Vulnerability 2071 2080	 the flaw
+T69	Organization 2083 2087	CVSS
+T70	Organization 2203 2212	 the CVSS
+T71	Organization 2352 2361	 the CVSS
+*	Coreference T11 T15
+*	Coreference T49 T1 T13 T30 T51 T56 T57
+*	Coreference T22 T28
+*	Coreference T41 T9 T36 T32 T19 T59 T27 T61 T66
+*	Coreference T38 T40 T69 T70 T71
+*	Coreference T60 T54
+*	Coreference T46 T62
+*	Coreference T64 T63 T65
+*	Coreference T31 T67 T58 T6 T17 T25 T16 T7 T23 T26 T39 T37
+*	Coreference T2 T68
+*	Coreference T42 T43 T44 T45 T50

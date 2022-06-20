@@ -1,0 +1,85 @@
+T5	Email 682 687	email
+T4	Time 706 715	this week
+T3	Person 732 752	Tesco Bank customers
+T2	Person 803 835	 the Tesco Bank credit card team
+T15	Person 1473 1480	members
+T22	Organization 1483 1507	 the banking institution
+T20	Purpose 2371 2392	installing ransomware
+T18	Course-of-Action 2255 2282	avoid clicking on any links
+T19	Email 2291 2297	emails
+T21	Domain 2409 2438	phishing or scamming websites
+T9	Email 350 373	 these malicious emails
+T7	Person 331 342	 the people
+T13	Purpose 1257 1272	take your money
+T12	Information 1201 1220	your log in details
+T10	Hacker-Group 1161 1165	They
+T23	Organization 4 16	Irish public
+T24	Organization 36 68	 an antivirus protection company
+T25	Hacker-Group 72 86	cyber scammers
+T26	Organization 101 106	Tesco
+T27	Organization 111 136	Bank of Ireland customers
+T28	Organization 138 150	ESET Ireland
+T29	Email 199 203	mail
+T30	Campaign 173 186	cyber threats
+T31	Time 207 219	recent weeks
+T32	Organization 225 229	they
+T33	URL 254 262	one link
+T34	Money 272 283	 your money
+T35	Purpose 272 290	 your money stolen
+T36	Organization 291 318	 The cyber security company
+T8	Organization 418 429	IT security
+T37	Person 434 469	cybercrime analyst for ESET Ireland
+T38	Person 471 484	Urban Schrott
+T39	Email 509 513	spam
+T40	Attack-Pattern 493 513	Send out enough spam
+T41	Person 542 549	victims
+T42	Campaign 600 605	scams
+T43	Campaign 609 636	new variations on old scams
+T1	Attack-Pattern 776 835	pretended to have come from the Tesco Bank credit card team
+T6	Email 754 775	 the elaborate letter
+T44	Attack-Pattern 1195 1220	steal your log in details
+T11	Attack-Pattern 1225 1253	try to log into your account
+T45	Person 1274 1299	Bank of Ireland customers
+T46	Organization 1328 1332	ESET
+T47	Organization 1341 1356	 the Irish bank
+T48	Organization 1393 1405	 The company
+T49	Campaign 1424 1443	phishing variations
+T14	Email 1513 1537	convincing looking email
+T50	URL 1731 1746	Boi Secure Link
+T51	URL 1753 1773	 the Boi Secure Link
+T52	Attack-Pattern 1927 1941	 the Tesco one
+T53	Email 1942 1957	 The second one
+T54	Attack-Pattern 2162 2202	new message in the inbox” is a good lure
+T55	Organization 2227 2239	ESET Ireland
+T56	Course-of-Action 2302 2325	do not open attachments
+T17	Malware 2347 2354	malware
+T59	Person 2251 2254	you
+T60	Person 932 935	you
+T61	Person 1054 1057	you
+T62	Person 1878 1881	you
+T63	Person 1701 1704	you
+T64	Hacker-Group 400 404	they
+T65	Email 837 839	It
+T66	Organization 905 907	we
+T67	Email 2015 2017	It
+T68	Person 877 880	you
+T69	Email 2330 2334	they
+T16	URL 1133 1152	 the reference link
+T57	System 1714 1720	system
+T58	URL 1845 1849	link
+T70	Attack-Pattern 1547 1704	In order to protect your funds and information, Bank of Ireland has set up a new enhanced security system, which will eliminate fraud and totally protect you
+T71	Attack-Pattern 1783 1814	enjoy the new security features
+T72	Attack-Pattern 2025 2087	My Inbox (1) ~ Your message is available to view on 365 online
+*	Coreference T5 T29 T9 T39 T6
+*	Coreference T12 T44
+*	Coreference T28 T55 T32
+*	Coreference T36 T24
+*	Coreference T64 T25
+*	Coreference T38 T37
+*	Coreference T60 T68 T61 T3 T27 T45
+*	Coreference T16 T33
+*	Coreference T10 T66
+*	Coreference T48 T47 T22
+*	Coreference T51 T50 T58
+*	Coreference T67 T53
+*	Coreference T69 T19

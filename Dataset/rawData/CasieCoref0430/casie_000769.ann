@@ -1,0 +1,79 @@
+T1	Campaign 215 228	demands a fee
+T2	Attack-Pattern 196 210	scrambles data
+T3	Malware 150 160	Ransomware
+T4	Organization 4 42	government of Licking County in the US
+T5	Device 60 73	 its computer
+T6	Device 78 95	telephone systems
+T7	Course-of-Action 47 103	taken many of its computer and telephone systems offline
+T8	Campaign 125 148	 a ransomware infection
+T9	Person 252 260	Citizens
+T10	Location 292 310	government offices
+T11	Device 354 359	phone
+T12	Person 276 280	they
+T13	Person 433 454	cybersecurity experts
+T14	Organization 458 466	 the FBI
+T15	Person 360 384	 The county commissioner
+T16	Organization 390 401	local media
+T17	Location 468 482	Licking County
+T18	Location 496 500	Ohio
+T19	Number 512 519	170,000
+T20	Person 520 529	residents
+T21	Organization 530 551	 The local government
+T22	Number 570 575	1,000
+T23	Device 576 585	computers
+T24	Number 590 592	12
+T25	Device 593 600	servers
+T26	Domain 644 663	government websites
+T27	Device 799 815	 their computers
+T28	Malware 827 839	 the malware
+T29	Device 861 868	devices
+T30	Person 870 879	Residents
+T31	Person 997 1007	Sean Grady
+T32	Person 1009 1067	director of the Licking County Emergency Management Agency
+T33	Organization 1073 1093	 the Newark Advocate
+T34	Time 1113 1121	25 years
+T35	Person 1142 1144	We
+T36	Person 1175 1203	County commissioner Tim Bubb
+T37	Malware 1208 1220	 the malware
+T38	Campaign 1228 1233	crime
+T39	Person 1241 1270	 the people of Licking County
+T40	Organization 1286 1301	 the government
+T41	Person 1420 1422	he
+T42	Purpose 1365 1388	make money for somebody
+T43	Malware 1434 1456	variants of ransomware
+T44	Course-of-Action 1493 1513	removal instructions
+T45	Person 1545 1561	security experts
+T46	Course-of-Action 1622 1646	restoring from a back-up
+T47	Information 1606 1610	data
+T48	Person 1648 1655	Mr Bubb
+T49	Device 1735 1751	computer systems
+T50	Person 1772 1774	We
+T51	Person 1803 1805	We
+T52	Person 1848 1850	he
+T58	Organization 557 559	it
+T60	Person 1129 1131	we
+T61	Course-of-Action 1717 1719	it
+T62	Organization 107 109	it
+T63	Person 407 409	he
+T66	Malware 1348 1350	it
+T68	Person 1661 1663	he
+T69	Person 1105 1107	us
+T70	Person 985 987	we
+T71	Malware 233 235	it
+T65	Location 685 696	 the county
+T53	File 1793 1801	back-ups
+T54	File 1636 1646	 a back-up
+T55	File 1816 1824	back-ups
+*	Coreference T13 T45
+*	Coreference T19 T22
+*	Coreference T20 T30 T39 T70
+*	Coreference T21 T40 T58
+*	Coreference T49 T27 T23 T5 T6
+*	Coreference T62 T4
+*	Coreference T3 T71 T28 T37 T38 T66
+*	Coreference T9 T12
+*	Coreference T17 T65
+*	Coreference T35 T32 T69 T60 T31
+*	Coreference T36 T41 T48 T68 T50 T51 T52
+*	Coreference T61 T46
+*	Coreference T54 T53 T55

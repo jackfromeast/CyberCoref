@@ -1,0 +1,149 @@
+T83	Vulnerability 3808 3837	the misconfiguration problems
+T78	Organization 3532 3539	company
+T75	Vulnerability 3583 3611	HospitalGown vulnerabilities
+T76	Person 3549 3567	Mobile Threat Team
+T82	System 3791 3798	Android
+T81	System 3783 3786	iOS
+T41	Person 1516 1526	developers
+T3	Vulnerability 1547 1575	HospitalGown vulnerabilities
+T35	Organization 1265 1277	RedLock Inc.
+T29	Vulnerability 1299 1314	security issues
+T30	System 1361 1383	public cloud platforms
+T21	Organization 815 817	we
+T17	Software 863 867	apps
+T19	Vulnerability 880 910	the HospitalGown vulnerability
+T15	Organization 913 923	Appthority
+T23	Time 944 953	last week
+T7	File 103 109	report
+T8	Organization 115 125	Appthority
+T4	Vulnerability 43 82	cloud back-end security vulnerabilities
+T42	Software 2772 2777	MySQL
+T37	System 2754 2767	Elasticsearch
+T93	Information 2814 2828	sensitive data
+T60	Information 2957 2960	PII
+T59	Software 2932 2936	apps
+T61	Information 2972 2981	passwords
+T62	Information 2983 2991	location
+T63	Information 3004 3019	payment details
+T69	Information 3104 3124	retail customer data
+T68	Information 3084 3097	phone numbers
+T67	Email 3076 3082	emails
+T64	Information 3021 3043	corporate profile data
+T12	Information 198 213	enterprise data
+T2	System 229 244	cloud back-ends
+T25	Information 840 844	data
+T26	Information 1015 1022	records
+T28	Information 1059 1063	data
+T4	Vulnerability 43 82	cloud back-end security vulnerabilities
+T5	Person 0 10	Developers
+T58	Campaign 2524 2535	data access
+T56	Campaign 2540 2552	exfiltration
+T72	Person 3324 3348	unauthorized individuals
+T70	Information 3290 3294	data
+T87	Organization 3872 3882	Appthority
+T88	Vulnerability 3912 3940	HospitalGown vulnerabilities
+T99	Software 3417 3431	the app stores
+T95	Information 3471 3485	sensitive data
+T98	System 3509 3526	unsecured servers
+T1	Campaign 500 512	data leakage
+T9	Software 519 530	mobile apps
+T97	Attack-Pattern 536 574	send data to unsecured cloud back-ends
+T43	Campaign 1931 1949	ransomware attacks
+T45	Software 1879 1896	MongoDB databases
+T44	System 1853 1874	Elasticsearch servers
+T46	Time 1950 1967	earlier this year
+T72	Person 3324 3348	unauthorized individuals
+T47	Campaign 2265 2275	data leaks
+T49	Information 2331 2345	sensitive data
+T50	Software 2165 2169	apps
+T51	Person 2178 2187	employees
+T52	Person 2189 2197	partners
+T53	Person 2202 2211	customers
+T96	System 2152 2161	back-ends
+T55	Campaign 2413 2427	spear phishing
+T13	Campaign 696 708	data leakage
+T14	System 712 724	the back-end
+T6	Organization 131 138	company
+T27	Number 189 194	43 TB
+T11	Number 831 836	43 TB
+T16	Number 857 862	1,000
+T18	Domain 934 943	blog post
+T20	Number 979 981	39
+T22	Software 982 986	apps
+T90	Number 1003 1014	280 million
+T24	Number 1049 1055	163 GB
+T31	Information 1096 1114	leaked information
+T91	Organization 1197 1207	enterprise
+T92	Information 1161 1189	customer or operational data
+T34	Software 3372 3376	apps
+T71	Organization 3130 3155	Enterprise security teams
+T73	Number 2888 2892	43TB
+T94	Information 2904 2908	data
+T100	Code 1647 1651	code
+T101	Software 1659 1662	app
+T32	Vulnerability 1478 1486	problems
+T38	Number 1410 1420	82 percent
+T40	Software 1424 1440	hosted databases
+T102	Organization 1385 1392	RedLock
+T103	File 1335 1357	user misconfigurations
+T104	File 1214 1220	report
+T105	File 1247 1261	earlier report
+T33	File 1500 1514	RedLock report
+T39	Vulnerability 1579 1591	HospitalGown
+T106	Vulnerability 1597 1610	vulnerability
+T107	Organization 1825 1835	Appthority
+T108	Information 1798 1812	sensitive data
+T109	System 1722 1755	back-end (hence its name) servers
+T110	Vulnerability 2107 2112	issue
+T111	Vulnerability 2230 2244	security risks
+T112	File 2352 2358	report
+T113	Campaign 2491 2498	attacks
+T114	Campaign 2429 2446	brute force login
+T115	Campaign 2448 2466	social engineering
+T116	Campaign 2468 2479	data ransom
+T54	Vulnerability 2505 2517	HospitalGown
+T117	Campaign 2575 2591	types of attacks
+T118	Time 2553 2568	far easier than
+T119	Organization 2639 2646	company
+T120	Software 2725 2744	enterprise services
+T36	Software 2834 2838	Apps
+T121	Software 2850 2871	one of these services
+T57	Information 3055 3074	employees' VPN PINs
+T65	Software 2692 2713	unsecured data stores
+T122	System 3227 3265	mobile app vendor's architecture stack
+T123	Device 3405 3412	devices
+T74	Software 3646 3663	app analysis tool
+T79	Software 3754 3776	enterprise mobile apps
+T80	Number 3734 3753	more than 1 million
+T77	File 3856 3870	RedLock report
+T84	Vulnerability 3956 3968	human errors
+T85	Vulnerability 3974 4026	malicious intent or inherent infrastructure problems
+T86	Vulnerability 4033 4044	human error
+T89	Software 4201 4211	Jacto apps
+T124	Campaign 672 687	network threats
+T125	Software 647 651	apps
+T126	Campaign 653 667	device threats
+T127	Vulnerability 741 753	HospitalGown
+T128	Organization 482 492	Appthority
+T129	File 393 432	2017 Q2 Enterprise Mobile Threat Report
+T131	Organization 363 379	security company
+T132	File 339 345	report
+T133	Software 4156 4174	enterprise network
+T134	Software 4179 4195	Web applications
+T135	Organization 4113 4123	Appthority
+T136	Software 4125 4140	Pulse Workspace
+T137	Organization 4221 4251	agricultural machinery company
+T138	Organization 988 990	we
+T141	Organization 1401 1403	it
+*	Coreference T35 T102 T141
+*	Coreference T33 T77 T112
+T10	Information 256 291	personally identifiable information
+T142	Information 293 296	PII
+*	Coreference T10 T142
+*	Coreference T1 T13
+T48	Information 2279 2314	personally identifiable information
+T130	Information 2316 2319	PII
+*	Coreference T48 T130
+*	Coreference T54 T110 T127 T39 T106 T3 T19
+*	Coreference T135 T87 T78 T21 T15 T8 T6 T128 T138 T107
+*	Coreference T88 T75

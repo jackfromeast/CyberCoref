@@ -1,0 +1,64 @@
+T5	Campaign 8 14	tricks
+T6	Malware 0 7	Malware
+T8	Attack-Pattern 26 60	opening Android Accessibility menu
+T7	Person 15 20	users
+T9	Hacker-Group 71 83	the attacker
+T18	Person 93 98	users
+T4	Malware 228 242	Trojan malware
+T2	Person 283 290	victims
+T20	Purpose 366 420	makes them even more susceptible to malicious software
+T21	Software 335 353	Adobe Flash Player
+T22	File 308 330	a fake security update
+T13	Person 846 853	victims
+T15	Attack-Pattern 859 890	granting it special permissions
+T23	Course-of-Action 955 1037	be wary of apps which appear to ask for many more permissions then they might need
+T27	Attack-Pattern 177 212	mimic the user's clicks and actions
+T17	Attack-Pattern 87 152	mimic users' clicks and select anything displayed on their screen
+T19	Person 140 145	their
+T3	Attack-Pattern 273 353	is duping victims into downloading a fake security update for Adobe Flash Player
+T1	Attack-Pattern 460 487	monitor the users' activity
+T10	Purpose 508 521	stealing data
+T28	Attack-Pattern 523 546	mimicking their actions
+T29	Purpose 559 610	generate funds from fraudulent adware installations
+T30	Purpose 616 700	enabling the installation of various other types of malware --  including ransomware
+T31	Organization 746 750	ESET
+T32	System 795 827	Google's mobile operating system
+T12	Malware 668 675	malware
+T33	Malware 690 700	ransomware
+T34	Person 937 942	Users
+T35	Person 714 725	researchers
+T36	Person 1043 1048	those
+T37	Person 1095 1099	they
+T38	Course-of-Action 1115 1133	remove the malware
+T39	Malware 1121 1133	 the malware
+T40	Software 1164 1176	Flash-Player
+T41	Malware 1260 1278	malicious software
+T42	Device 1283 1294	 the device
+T43	Device 253 272	Android smartphones
+T44	Malware 1355 1369	malicious apps
+T45	Software 1324 1339	 the downloader
+T46	Software 1369 1384	 the downloader
+T47	Software 1414 1429	 the downloader
+T48	Course-of-Action 1481 1513	using a mobile security solution
+T49	Person 1521 1529	Štefanko
+T50	Device 1186 1198	 their phone
+T51	Malware 1080 1093	 this malware
+T53	Device 1466 1477	 the device
+T11	Malware 421 433	 The malware
+T14	Malware 751 770	 the Trojan malware
+T16	Attack-Pattern 908 935	download additional malware
+T54	Malware 928 935	malware
+T55	Person 372 376	them
+T56	Person 1022 1026	they
+T58	Malware 868 870	it
+T59	Malware 897 899	it
+T25	Malware 153 172	 The Android Trojan
+*	Coreference T21 T40
+*	Coreference T27 T28
+*	Coreference T7 T18 T19
+*	Coreference T2 T55
+*	Coreference T11 T4
+*	Coreference T58 T14 T59 T51 T39
+*	Coreference T34 T56
+*	Coreference T37 T36
+*	Coreference T45 T46 T47

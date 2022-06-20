@@ -1,0 +1,47 @@
+T7	File 236 253	a ransomware note
+T8	Person 224 226	we
+T9	System 190 197	servers
+T10	Attack-Pattern 209 218	locked up
+T5	Money 269 276	$50,000
+T22	Time 142 173	One weekend morning a few weeks
+T1	Campaign 42 62	 a ransomware attack
+T2	Organization 0 22	The city of North Bend
+T3	Attack-Pattern 81 139	locked out city workers from their computers and databases
+T21	Location 24 28	Ore.
+T11	Money 510 534	the high ransom demanded
+T12	Hacker-Group 538 551	the criminals
+T14	Person 481 490	officials
+T20	System 451 461	IT systems
+T19	Organization 440 448	the city
+T13	Campaign 568 578	the attack
+T15	Campaign 754 771	the ransom demand
+T16	Campaign 1019 1032	having to pay
+T17	Money 1040 1046	$5,000
+T18	Organization 985 993	The city
+T6	Organization 616 624	 the FBI
+T23	Campaign 803 814	 the attack
+T24	Course-of-Action 1089 1109	 a firewall security
+T25	Campaign 1121 1135	future attacks
+T26	Campaign 639 650	 the attack
+T27	System 935 946	 the system
+T4	Malware 837 861	sophisticated ransomware
+T29	Person 315 317	us
+T30	Person 730 734	they
+T31	Person 661 665	they
+T32	Device 109 139	 their computers and databases
+T28	Hacker-Group 287 300	 these people
+T33	System 346 362	computer systems
+T34	Person 365 411	North Bend City Administrator Terence O’Connor
+T35	Person 580 594	City officials
+T36	Campaign 717 728	 the attack
+T37	Organization 775 782	Romania
+T38	Person 784 792	O’Connor
+T39	System 903 915	 your system
+T40	Money 1057 1072	pocket expenses
+*	Coreference T11 T15 T5 T17 T40
+*	Coreference T19 T18 T2
+*	Coreference T8 T29 T34 T38
+*	Coreference T9 T33 T20 T27 T39
+*	Coreference T28 T12
+*	Coreference T13 T1 T26 T36 T23
+*	Coreference T14 T35 T31 T30

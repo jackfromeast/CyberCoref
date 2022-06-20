@@ -1,0 +1,75 @@
+T15	Person 554 563	the users
+T16	Person 485 496	The con men
+T17	Attack-Pattern 502 538	accessed the accounts with the codes
+T19	File 570 583	text messages
+T21	Person 595 624	the account holders’ contacts
+T9	Person 366 373	friends
+T10	Person 377 391	WhatsApp users
+T7	Person 340 349	swindlers
+T12	Person 431 435	them
+T13	Purpose 441 483	revealing their account verification codes
+T3	Person 135 142	A woman
+T2	Person 196 202	people
+T5	Location 272 281	Hong Kong
+T6	Time 282 291	this year
+T22	Money 222 236	HK$1.9 million
+T23	Money 238 248	US$242,000
+T24	Money 152 162	HK$119,000
+T25	Time 166 174	24 hours
+T4	Campaign 255 268	WhatsApp scam
+T26	Money 1810 1824	HK$2.1 million
+T27	Money 1680 1694	HK$2.6 million
+T28	Person 1074 1081	victims
+T1	Number 1774 1777	266
+T8	Time 1747 1756	last year
+T11	Number 1603 1606	270
+T14	Number 1086 1103	between 17 and 72
+T18	Number 1545 1550	18222
+T20	Person 1500 1506	people
+T29	Time 1208 1216	February
+T30	Hacker-Group 1240 1250	fraudsters
+T31	Location 1256 1262	Taiwan
+T32	Version 1342 1360	Taiwanese versions
+T33	Software 1364 1376	online games
+T34	Money 1120 1159	from a few hundred dollars to thousands
+T35	Software 121 133	online games
+T36	Money 37 47	HK$119,000
+T37	Time 51 59	24 hours
+T38	Campaign 1028 1032	them
+T39	Hacker-Group 1309 1313	they
+T41	Person 825 827	he
+T42	Person 1481 1485	them
+*	Coreference T2 T12
+*	Coreference T6 T8
+*	Coreference T24 T36
+*	Coreference T25 T37
+*	Coreference T22 T27 T26 T23
+T43	Person 22 27	woman
+*	Coreference T43 T3
+T44	Organization 293 299	police
+T45	Organization 332 338	police
+*	Coreference T44 T45 T58 T59
+*	Coreference T7 T9 T16 T57 T30 T39
+T40	Person 451 456	their
+T46	Person 640 663	genuine account holders
+*	Coreference T15 T46 T47 T48 T28
+T47	Person 716 721	their
+T48	Person 755 767	scam victims
+T49	Software 810 822	online games
+*	Coreference T35 T49 T33
+T50	Person 626 634	Mohammed
+*	Coreference T50 T41 T55
+T51	System 835 841	MyCard
+T52	System 786 792	MyCard
+*	Coreference T52 T51 T53 T54
+T53	System 847 871	digital payment platform
+T54	System 910 918	platform
+T55	Person 960 968	Mohammed
+T56	Campaign 1007 1012	cards
+*	Coreference T56 T38
+T57	Hacker-Group 1014 1022	scammers
+T58	Organization 1041 1047	Police
+T59	Organization 1378 1384	Police
+T60	Person 1393 1402	residents
+T61	Person 1416 1421	their
+*	Coreference T60 T61 T42 T20

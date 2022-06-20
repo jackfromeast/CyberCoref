@@ -1,0 +1,78 @@
+T2	Vulnerability 661 681	 the vulnerabilities
+T3	Organization 629 638	Microsoft
+T4	Course-of-Action 699 717	 a security update
+T6	Time 727 738	a month ago
+T8	Code 987 1000	 the exploits
+T9	Person 920 933	Our engineers
+T10	Code 951 974	 the disclosed exploits
+T12	Vulnerability 1063 1078	vulnerabilities
+T13	Course-of-Action 1098 1133	fixed in a March 14 security update
+T14	Vulnerability 1169 1183	security holes
+T17	Vulnerability 1242 1246	them
+T19	Organization 1218 1230	organization
+T18	Person 1199 1214	 the individual
+T23	Organization 1519 1527	 the NSA
+T21	Vulnerability 1543 1563	 the vulnerabilities
+T22	Organization 1567 1576	Microsoft
+T25	Vulnerability 1696 1701	flaws
+T26	Time 3 9	Friday
+T27	Malware 22 35	hacking tools
+T28	Organization 58 90	 the US National Security Agency
+T29	Domain 135 166	 the digital security community
+T30	Malware 174 184	 the tools
+T31	Device 211 220	computers
+T32	System 229 236	Windows
+T33	Number 246 254	millions
+T34	Device 258 266	machines
+T35	Person 285 301	Security experts
+T36	Malware 312 322	 the tools
+T37	Hacker-Group 333 341	 a group
+T38	Hacker-Group 348 367	 the Shadow Brokers
+T39	Hacker-Group 460 468	attacker
+T40	Malware 489 496	toolkit
+T41	System 510 519	Microsoft
+T42	Device 526 535	computers
+T43	Location 542 552	 the globe
+T44	Person 556 572	Hacker Fantastic
+T45	Time 592 606	April 14, 2017
+T46	Time 616 627	hours later
+T1	Organization 748 757	Microsoft
+T5	Code 785 793	exploits
+T47	Hacker-Group 821 835	Shadow Brokers
+T48	Person 838 851	Philip Misner
+T49	Person 852 874	 a Microsoft executive
+T7	Course-of-Action 1013 1020	patched
+T50	Person 1023 1029	Misner
+T51	Number 1049 1062	three of nine
+T11	Person 1138 1150	Ars Technica
+T15	Course-of-Action 1290 1301	 the update
+T16	Course-of-Action 1338 1358	 the March 14 update
+T53	Time 1397 1401	2017
+T54	Vulnerability 1430 1447	security problems
+T55	Organization 1489 1511	security practitioners
+T20	Malware 1590 1600	 the tools
+T56	Organization 1627 1636	Microsoft
+T57	Organization 1642 1647	ZDNet
+T58	Person 1671 1682	individuals
+T24	Person 1752 1767	 the discoverer
+T59	Organization 1768 1786	 The US government
+T60	Campaign 1807 1817	 this leak
+T61	Campaign 1826 1840	previous leaks
+T62	Hacker-Group 1843 1862	 the Shadow Brokers
+T63	Malware 1878 1895	NSA hacking tools
+T64	Organization 1940 1947	vendors
+T65	Organization 1952 1984	NSA whistleblower Edward Snowden
+T67	Malware 380 384	they
+T69	Organization 1653 1655	it
+T66	Person 574 590	@hackerfantastic
+*	Coreference T10 T8 T5
+*	Coreference T14 T54 T21 T12 T2 T17
+*	Coreference T18 T58
+*	Coreference T40 T20 T36 T30 T27 T63 T67
+*	Coreference T22 T41 T56 T1 T3 T69
+*	Coreference T47 T62 T38 T37
+*	Coreference T48 T50 T49
+*	Coreference T7 T15
+*	Coreference T42 T31
+*	Coreference T66 T44
+*	Coreference T23 T28

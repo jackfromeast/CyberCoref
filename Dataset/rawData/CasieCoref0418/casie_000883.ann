@@ -1,0 +1,133 @@
+T6	Campaign 2579 2586	was hit
+T14	Organization 2556 2578	Goole foundation trust
+T15	Organization 2526 2551	the Northern Lincolnshire
+T16	Time 2517 2524	October
+T17	Attack-Pattern 2629 2642	encrypt files
+T4	Malware 2609 2616	malware
+T19	Organization 2691 2700	The trust
+T20	System 2777 2784	systems
+T1	Campaign 766 771	trick
+T9	Attack-Pattern 791 810	opening attachments
+T3	Purpose 815 832	releasing malware
+T5	Time 665 671	Friday
+T11	Attack-Pattern 740 760	delivered via emails
+T2	Person 772 785	the recipient
+T10	Organization 677 686	the trust
+T12	Malware 710 720	ransomware
+T13	File 95 100	files
+T21	Person 1536 1539	you
+T22	Organization 1042 1044	it
+T23	Device 1630 1634	them
+T24	Organization 2987 2991	they
+T25	Organization 1541 1543	We
+T27	Person 2360 2363	She
+T28	Hacker-Group 3295 3299	them
+T29	Organization 1050 1052	it
+T31	Person 2139 2141	We
+T32	Person 310 314	them
+T18	Organization 12 21	NHS trust
+T33	Organization 117 138	four London hospitals
+T34	Organization 203 272	the Royal London, St Bartholomew’s, Whipps Cross, Mile End and Newham
+T35	Organization 171 185	five hospitals
+T36	Person 297 302	staff
+*	Coreference T36 T32 T93
+T39	Campaign 398 409	this matter
+T40	Campaign 51 63	cyber-attack
+*	Coreference T40 T39 T52 T55 T67 T77 T96
+T41	Organization 507 509	We
+*	Coreference T18 T10 T53 T22 T29 T59 T68 T86 T94 T111
+T26	Location 25 32	England
+*	Coreference T35 T34
+T42	File 327 344	email attachments
+T43	Person 358 365	senders
+T38	Person 488 499	spokeswoman
+T37	Organization 368 370	We
+T44	Organization 482 487	Barts
+*	Coreference T44 T37 T41 T30
+T45	Device 437 443	drives
+T46	Email 754 760	emails
+T47	File 799 810	attachments
+*	Coreference T42 T47 T69
+T48	Malware 825 832	malware
+*	Coreference T48 T12 T112
+T49	System 845 851	system
+T50	Person 602 609	patient
+T51	Person 861 872	spokeswoman
+*	Coreference T51 T38
+T52	Campaign 891 897	attack
+T53	Organization 919 924	trust
+T54	System 954 960	system
+*	Coreference T54 T49 T57 T60
+T55	Campaign 986 992	attack
+T56	Information 1004 1016	patient data
+T57	System 1088 1094	system
+T58	Information 1107 1121	corporate data
+T59	Organization 1127 1132	trust
+T60	System 1142 1148	system
+T61	Campaign 1199 1212	investigation
+T62	Person 1226 1231	Staff
+T63	Organization 1239 1273	Royal Free London foundation trust
+T64	Campaign 1304 1311	attacks
+T65	Time 1315 1321	Friday
+T66	Time 901 907	Friday
+*	Coreference T66 T65
+T67	Campaign 1377 1395	major cyber-attack
+T68	Organization 1399 1416	NHS organisations
+T69	File 1467 1484	email attachments
+T70	Organization 1350 1352	We
+*	Coreference T70 T63 T25 T72
+T71	Device 1587 1596	computers
+T72	Organization 1608 1613	trust
+T73	Person 1680 1699	trust’s IT director
+T74	Person 1701 1712	Tosh Mondal
+*	Coreference T73 T74
+*	Coreference T71 T23
+T75	Person 1716 1725	spokesman
+T76	Email 1735 1740	email
+T77	Campaign 1764 1776	Barts attack
+T78	Organization 1790 1807	Royal Free London
+T79	Organization 1820 1826	Barnet
+T80	Organization 1831 1851	Chase Farm hospitals
+T81	Organization 203 219	the Royal London
+T82	Organization 221 237	St Bartholomew’s
+T83	Organization 239 251	Whipps Cross
+T84	Organization 253 272	Mile End and Newham
+*	Coreference T81 T78
+T30	Organization 1911 1916	Barts
+T85	System 1972 1982	IT systems
+T86	Organization 1876 1879	NHS
+T87	Person 1987 1999	spokesperson
+*	Coreference T75 T87 T31 T27
+T88	Campaign 2053 2060	threats
+T90	Organization 2131 2137	sector
+T91	Organization 2089 2111	health and care sector
+T92	Information 2191 2195	data
+T93	Person 2352 2357	staff
+T94	Organization 2413 2423	NHS trusts
+T95	Information 2452 2456	data
+*	Coreference T92 T95
+T96	Campaign 2506 2512	attack
+T97	Campaign 2593 2599	attack
+T98	File 2637 2642	files
+T7	Money 2656 2662	ransom
+T8	Money 2717 2723	ransom
+*	Coreference T8 T7
+T99	Person 2749 2756	patient
+T100	Malware 2814 2819	virus
+*	Coreference T100 T4
+T101	Person 2821 2834	John Bambenek
+T102	Person 2836 2899	a threat intelligence manager at the firm Fidelis Cybersecurity
+*	Coreference T101 T102
+T103	Information 3016 3027	information
+T104	Organization 3058 3062	they
+*	Coreference T24 T104 T105
+T105	Organization 3068 3083	tempting target
+T106	Hacker-Group 3088 3102	cybercriminals
+T107	Organization 3160 3173	organisations
+T108	Campaign 3215 3222	threats
+*	Coreference T106 T28 T109
+T109	Hacker-Group 3253 3262	criminals
+T110	System 3309 3316	network
+T111	Organization 140 158	Barts health trust
+T112	Malware 1941 1946	virus
+*	Coreference T88 T108

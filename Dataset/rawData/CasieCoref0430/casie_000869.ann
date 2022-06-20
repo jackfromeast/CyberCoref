@@ -1,0 +1,114 @@
+T3	Person 96 103	experts
+T4	Time 89 94	Today
+T2	Vulnerability 121 126	flaws
+T5	Device 138 152	laser printers
+T34	Attack-Pattern 164 190	putting businesses at risk
+T8	Person 192 199	Experts
+T7	Vulnerability 251 266	vulnerabilities
+T9	Device 270 284	laser printers
+T10	Organization 290 303	manufacturers
+T11	Organization 314 318	Dell
+T12	Organization 320 322	HP
+T13	Organization 324 331	Lexmark
+T14	Organization 333 340	Samsung
+T15	Organization 342 349	Brother
+T16	Organization 355 361	Konica
+T33	Organization 203 231	the University Alliance Ruhr
+T22	Device 522 530	printers
+T17	Vulnerability 363 372	The flaws
+T18	Attack-Pattern 379 411	permit print docs to be captured
+T19	Attack-Pattern 413 443	allow buffer overflow exploits
+T20	Attack-Pattern 445 463	disclose passwords
+T21	Attack-Pattern 468 488	cause printer damage
+T28	Hacker-Group 1438 1445	Hackers
+T25	Vulnerability 1455 1470	vulnerabilities
+T26	System 1474 1491	the web interface
+T27	Attack-Pattern 1496 1505	take over
+T32	Device 1779 1786	devices
+T29	Campaign 1740 1757	be made available
+T30	Course-of-Action 1726 1733	patches
+T1	Course-of-Action 1796 1803	patched
+T6	Course-of-Action 2457 2476	intrusion detection
+T23	Device 2551 2559	printers
+T24	Device 2509 2519	 their PCs
+T31	Course-of-Action 2356 2393	update passwords so sensitive content
+T35	Course-of-Action 2040 2095	isolating printers on local networks, separate from PCs
+T36	Course-of-Action 2101 2139	disabling out-of-network communication
+T37	Device 2167 2175	printers
+T38	Organization 2215 2232	 the organization
+T39	Device 1958 1966	Printers
+T40	Attack-Pattern 1849 1860	web hacking
+T41	Attack-Pattern 1865 1878	email attacks
+T42	Device 1909 1918	computers
+T43	System 1923 1940	operating systems
+T44	Device 1412 1422	IoT device
+T46	Organization 1136 1149	organizations
+T47	Person 1154 1165	individuals
+T48	Location 1166 1182	around the world
+T49	Device 1015 1033	networked printers
+T50	Hacker-Group 1054 1070	 a cybercriminal
+T45	Attack-Pattern 1075 1126	use one company's bandwidth to perform DDoS attacks
+T51	Device 1355 1363	printers
+T52	Device 585 593	printers
+T53	Person 601 606	users
+T54	Campaign 627 634	attacks
+T55	Person 641 658	Jeremiah Grossman
+T56	Person 660 701	chief of security strategy at SentinelOne
+T57	Hacker-Group 703 710	Hackers
+T58	Vulnerability 719 734	vulnerabilities
+T59	Device 0 18	Networked printers
+T60	Information 782 803	sensitive information
+T61	Attack-Pattern 738 762	capture old printer logs
+T62	Hacker-Group 805 809	They
+T63	Person 552 556	they
+T64	Person 2021 2023	He
+T65	Person 1425 1427	he
+T66	Person 2438 2440	He
+T67	Device 2151 2155	they
+T68	Person 1990 1992	he
+T69	Course-of-Action 1769 1773	they
+T70	Hacker-Group 1510 1514	they
+T71	Campaign 1884 1888	they
+T72	Vulnerability 39 51	gaping holes
+T73	System 71 78	network
+T74	Organization 172 182	businesses
+T75	File 386 396	print docs
+T76	Vulnerability 419 443	buffer overflow exploits
+T77	Information 454 463	passwords
+T78	Device 474 481	printer
+T79	Vulnerability 822 834	 these flaws
+T80	Device 865 884	 a networked device
+T81	Information 942 946	data
+T82	Organization 914 931	 the organization
+T83	Hacker-Group 953 962	attackers
+T84	Organization 1000 1008	business
+T85	Campaign 1114 1126	DDoS attacks
+T86	Person 1317 1325	Grossman
+T87	Device 1592 1600	printers
+T88	Device 1639 1651	IoT products
+T89	Device 1529 1535	device
+T90	Campaign 1820 1840	 the easiest vectors
+T91	Device 2050 2058	printers
+T92	Device 2092 2095	PCs
+T93	Device 2319 2328	computers
+T94	Person 2421 2427	people
+T95	Information 2363 2372	passwords
+T96	System 1297 1315	Internet of Things
+T97	System 1548 1560	 the network
+T98	Organization 2297 2307	businesses
+*	Coreference T3 T8 T63
+*	Coreference T28 T57 T62 T83 T70
+*	Coreference T7 T25 T58 T2 T17 T72 T79
+*	Coreference T32 T44 T89 T80 T88
+*	Coreference T38 T46 T98
+*	Coreference T5 T9 T22 T49 T51 T87 T39 T91 T37
+*	Coreference T60 T81
+*	Coreference T82 T84
+*	Coreference T69 T30
+*	Coreference T90 T71
+*	Coreference T59 T52
+*	Coreference T85 T54
+*	Coreference T68 T64 T66 T55 T56 T86 T65
+*	Coreference T92 T42 T67 T93
+*	Coreference T94 T53
+*	Coreference T96 T97 T73

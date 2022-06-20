@@ -1,0 +1,71 @@
+T28	Person 1445 1452	victims
+T29	Campaign 1590 1605	ransom payments
+T30	Money 1621 1633	1.8 bitcoins
+T31	Money 1671 1682	$11,000 USD
+T22	Hacker-Group 1220 1233	the attackers
+T24	Software 1248 1260	the database
+T26	Person 1340 1347	Victims
+T7	Attack-Pattern 96 107	wiping them
+T4	Campaign 662 689	the new Mongo Lock campaign
+T10	Attack-Pattern 710 758	connect to an unprotected database and delete it
+T6	Hacker-Group 691 704	the attackers
+T5	Hacker-Group 475 488	the attackers
+T9	Attack-Pattern 493 526	export the databases, delete them
+T8	Attack-Pattern 537 557	create a ransom note
+T17	Campaign 1041 1064	the Mongo Lock campaign
+T18	Hacker-Group 1082 1095	the attackers
+T12	Hacker-Group 1008 1012	them
+T15	File 910 923	a ransom note
+T14	Person 984 995	the victims
+T33	Software 943 955	the database
+T3	Campaign 3 9	attack
+T19	Campaign 17 27	Mongo Lock
+T2	Software 65 94	unprotected MongoDB databases
+T1	Campaign 188 196	campaign
+T20	Campaign 239 255	types of attacks
+T32	Campaign 332 339	hijacks
+T34	Software 272 289	MongoDB databases
+T35	Hacker-Group 348 357	attackers
+T36	Time 321 324	now
+T38	Software 389 397	services
+T39	Software 406 415	Shodan.io
+T40	Attack-Pattern 358 397	scanning the Internet or using services
+T41	Hash 1517 1551	3FAVraz3ovC1pz4frGRH6XXCuqPSWeh3UH
+T42	Information 1501 1516	bitcoin address
+T43	Number 1588 1589	3
+T44	Money 1707 1715	bitcoins
+T25	Information 1395 1412	bitcoin addresses
+T45	Campaign 1428 1443	MongoDB attacks
+T23	File 1192 1207	the ransom note
+T27	Software 1283 1285	it
+T46	Hacker-Group 1306 1310	they
+T47	Information 1111 1126	bitcoin address
+T21	Information 1150 1158	victim's
+T48	Hacker-Group 1170 1174	them
+T49	Email 1179 1184	email
+T13	Software 724 744	unprotected database
+T16	Software 756 758	it
+T50	Hacker-Group 778 787	attackers
+T51	Software 805 813	database
+T52	Information 838 873	collection inside it named "Readme"
+T53	Information 879 896	Readme collection
+T54	Software 504 513	databases
+T55	Software 522 526	them
+T11	Person 613 632	security researcher
+T56	Person 633 646	Bob Diachenko
+T61	Software 103 107	them
+T62	Software 856 858	it
+T64	Software 1029 1031	it
+*	Coreference T15 T23
+*	Coreference T4 T45 T17 T19 T3 T1
+*	Coreference T61 T2
+T67	Purpose 149 170	get the contents back
+T68	Purpose 118 136	demanding a ransom
+*	Coreference T32 T20
+T69	Device 430 457	unprotected MongoDB servers
+*	Coreference T54 T55
+*	Coreference T11 T56
+*	Coreference T13 T16
+*	Coreference T62 T51 T24 T33 T27 T64
+*	Coreference T31 T30
+*	Coreference T22 T35 T50 T18 T5 T46 T6 T48 T12

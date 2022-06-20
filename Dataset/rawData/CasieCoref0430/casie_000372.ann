@@ -1,0 +1,102 @@
+T13	Time 490 499	last year
+T8	Information 523 543	user account details
+T9	Information 552 567	email addresses
+T10	Information 569 586	telephone numbers
+T11	Information 599 608	passwords
+T5	Campaign 195 207	an intrusion
+T6	Time 229 233	2014
+T16	Person 1187 1212	the state-sponsored actor
+T17	File 1224 1246	copies of backup files
+T18	Information 1262 1282	users' personal data
+T15	Time 1145 1158	December 2014
+T22	Purpose 1850 1878	for sale on the black market
+T20	Information 1797 1814	a stolen database
+T25	Information 2010 2029	Yahoo user accounts
+T26	Organization 1943 1954	the company
+T27	Time 1923 1941	a few months later
+T30	Time 2110 2121	August 2013
+T1	Campaign 119 130	data breach
+T2	Information 153 166	user accounts
+T4	Time 170 179	September
+T28	Campaign 1911 1921	the breach
+T31	Campaign 2298 2308	was stolen
+T32	Information 2288 2297	this data
+T33	Organization 2257 2262	Yahoo
+T3	Organization 15 20	Yahoo
+T24	Campaign 48 70	internal investigation
+T34	Organization 71 92	 The internet pioneer
+T35	Number 108 118	 a massive
+T36	Number 141 152	500 million
+T37	Organization 296 331	 a Yahoo securities exchange filing
+T38	Time 335 344	Wednesday
+T39	Organization 616 621	Yahoo
+T40	Organization 642 654	 the company
+T12	Campaign 457 463	breach
+T41	Campaign 376 392	 the 2014 breach
+T42	Organization 399 411	 the company
+T43	Hacker-Group 425 450	 a state-sponsored hacker
+T7	Attack-Pattern 509 608	 the theft of user account details such as email addresses, telephone numbers, and hashed passwords
+T44	Campaign 639 641	it
+T45	Course-of-Action 655 717	established an independent committee to investigate the matter
+T46	Organization 666 691	 an independent committee
+T47	Organization 718 732	 The committee
+T48	Organization 744 765	Yahoo’s security team
+T49	Person 770 787	senior executives
+T50	Hacker-Group 806 830	 a state-sponsored actor
+T51	Information 850 863	user accounts
+T52	Time 872 876	2014
+T53	File 890 901	 the filing
+T54	Organization 914 926	 the company
+T55	Course-of-Action 963 1035	notifying 26 users targeted in the hack and adding new security features
+T56	Number 973 975	26
+T57	Person 976 981	users
+T59	Campaign 932 953	some remedial actions
+T60	Person 1042 1059	senior executives
+T61	Campaign 1105 1118	 the incident
+T62	Organization 1160 1181	Yahoo's security team
+T14	Information 1308 1325	 this information
+T63	Organization 1384 1402	 the security team
+T66	Organization 1491 1509	Yahoo's legal team
+T67	Campaign 1542 1555	 the breaches
+T68	Organization 1564 1578	 the committee
+T69	Information 1459 1470	information
+T70	Campaign 1432 1455	intentional suppression
+T71	Campaign 1603 1630	 the 2014 security Incident
+T72	Time 1674 1685	at the time
+T73	File 1687 1698	 the filing
+T74	Time 1723 1738	two years later
+T75	Campaign 1768 1779	 the breach
+T76	Organization 1744 1749	Yahoo
+T21	Organization 1819 1831	 the company
+T19	Campaign 1974 1985	bigger hack
+T23	Number 2000 2009	1 billion
+T78	Organization 1895 1900	Yahoo
+T29	Campaign 2080 2086	breach
+T79	Organization 2147 2162	law enforcement
+T80	Organization 2172 2177	Yahoo
+T81	File 2182 2208	 a copy of the stolen data
+T82	Time 2209 2222	last November
+T83	Organization 2379 2391	 the company
+T84	Campaign 2414 2434	 an another incident
+T85	Hacker-Group 2444 2453	 a hacker
+T86	Attack-Pattern 2454 2478	forging cookies as a way
+T87	Purpose 2482 2506	break into user accounts
+T88	Information 2493 2506	user accounts
+T91	Number 2543 2553	32 million
+T92	Information 2554 2567	user accounts
+T58	File 1404 1422	Wednesday's filing
+T64	Campaign 2349 2365	 the 2014 breach
+T65	File 2508 2526	Wednesday's filing
+*	Coreference T6 T52
+*	Coreference T43 T16 T50
+*	Coreference T49 T60
+*	Coreference T14 T69
+*	Coreference T41 T12 T5 T44 T61
+*	Coreference T78 T3 T76 T33 T80 T39
+*	Coreference T62 T63
+*	Coreference T71 T67 T75
+*	Coreference T29 T28 T64
+*	Coreference T73 T58
+*	Coreference T92 T88
+*	Coreference T40 T42
+*	Coreference T54 T21 T26 T83

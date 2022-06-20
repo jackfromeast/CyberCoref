@@ -1,0 +1,61 @@
+T4	Organization 79 104	Bangladesh’s central bank
+T3	Software 61 75	SWIFT software
+T2	Hacker-Group 34 43	attackers
+T19	Software 114 116	it
+T18	Purpose 120 148	perform fraudulent transfers
+T23	Time 6 15	last year
+T6	System 284 315	banks’ compromised SWIFT system
+T7	Hacker-Group 262 271	Attackers
+T20	File 342 375	fraudulent financial transactions
+T21	Campaign 384 391	attacks
+T8	Organization 401 429	three government-owned banks
+T9	Location 433 438	India
+T10	Attack-Pattern 454 481	create fake trade documents
+T12	File 490 522	letters of credit and guarantees
+T15	Hacker-Group 1152 1159	hackers
+T17	Purpose 1237 1289	carry out trade of prohibited or illegal commodities
+T22	Attack-Pattern 1177 1201	use the forged documents
+T16	Purpose 1202 1213	to get cash
+T14	Organization 1219 1233	offshore banks
+T1	Money 155 171	tens of millions
+T24	Campaign 192 199	attacks
+T5	Information 324 335	information
+T25	File 461 481	fake trade documents
+T26	File 526 542	letter of credit
+T27	Person 554 561	sellers
+T28	Organization 660 672	buyer’s bank
+T29	Organization 675 723	the institution that issued the letter of credit
+T30	Money 752 757	money
+T31	Person 771 776	buyer
+T32	File 804 819	Bank guarantees
+T33	File 824 833	documents
+T34	Organization 858 862	bank
+T35	Organization 1042 1056	Economic Times
+T36	Person 1126 1128	He
+T37	Person 1132 1135	she
+T13	File 1185 1201	forged documents
+T38	Organization 1374 1386	Indian banks
+T39	Organization 1414 1435	Reserve Bank of India
+T40	Campaign 1461 1469	breaches
+T41	File 1526 1541	trade documents
+T42	Software 1556 1561	SWIFT
+T43	Software 1584 1603	core banking system
+T46	Campaign 440 444	they
+T48	Person 578 582	they
+T49	Organization 1542 1546	they
+T50	Organization 1475 1477	it
+T51	Person 602 606	they
+*	Coreference T12 T26
+*	Coreference T19 T3
+*	Coreference T7 T2
+*	Coreference T46 T21
+*	Coreference T51 T48 T27 T11
+*	Coreference T28 T29 T34
+*	Coreference T33 T32
+T11	Person 909 915	seller
+T45	Person 923 928	buyer
+*	Coreference T45 T31
+*	Coreference T38 T8
+*	Coreference T50 T39
+T44	Organization 1499 1504	banks
+*	Coreference T49 T44

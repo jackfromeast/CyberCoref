@@ -1,0 +1,86 @@
+T7	Campaign 2163 2173	rolled out
+T6	Course-of-Action 2139 2155	 a permanent fix
+T8	Organization 2055 2060	Apple
+T15	Course-of-Action 2215 2221	 a fix
+T16	Course-of-Action 2242 2260	 a software update
+T17	Time 2261 2276	later this week
+T18	Campaign 2304 2311	reports
+T19	Vulnerability 2347 2379	 the eavesdropping vulnerability
+T20	Organization 2391 2396	Apple
+T1	Campaign 240 251	news breaks
+T3	Organization 192 197	Apple
+T2	Vulnerability 254 270	 a vulnerability
+T4	Software 300 325	 its FaceTime application
+T5	Attack-Pattern 331 383	allows users to eavesdrop on the people being called
+T9	Campaign 1694 1712	 the eavesdropping
+T13	Device 1684 1693	a handset
+T12	Device 1633 1639	 a Mac
+T10	Person 1591 1603	iPhone users
+T11	Person 1611 1624	the recipient
+T21	Location 48 57	Las Vegas
+T22	Organization 32 37	Apple
+T23	Device 129 141	 your iPhone
+T24	Device 151 163	 your iPhone
+T25	Device 476 487	iOS devices
+T26	Version 496 513	iOS 12.1 or later
+T27	Vulnerability 520 523	bug
+T28	Software 550 558	FaceTime
+T29	Person 538 544	anyone
+T30	Person 709 722	Benjamin Mayo
+T31	Person 623 634	 the person
+T32	Device 602 614	 their phone
+T33	Organization 726 733	9to5Mac
+T34	Attack-Pattern 810 822	expose video
+T35	Person 1084 1098	 the recipient
+T36	Device 1153 1164	 the iPhone
+T37	Person 1191 1202	 the caller
+T38	Information 1133 1138	audio
+T39	Person 1206 1220	 the recipient
+T40	Information 1325 1330	video
+T41	Person 1346 1357	 the caller
+T42	Person 1359 1367	One user
+T43	Person 1369 1379	@Jessassin
+T44	Organization 2421 2428	9to5Mac
+T45	Person 2174 2196	 An Apple spokesperson
+T46	Organization 2202 2210	BuzzFeed
+T14	Person 1791 1802	 a Mac user
+T47	Device 1824 1835	 the device
+T48	Device 1887 1898	smartphones
+T49	Location 1993 1999	office
+T50	Location 1984 1989	house
+T51	Device 1528 1551	 the destination device
+T52	Device 1448 1454	iPhone
+T54	Person 2441 2445	them
+T55	Person 1460 1463	you
+T56	Person 165 166	I
+T57	Person 1397 1400	you
+T59	Person 393 397	they
+T60	Person 2013 2016	you
+T62	Person 1871 1873	we
+T63	Person 529 532	you
+T65	Person 359 383	 the people being called
+T66	Vulnerability 445 452	exploit
+T69	Vulnerability 830 842	 The exploit
+T70	Person 906 917	 the caller
+T72	Person 1011 1021	themselves
+T73	Person 1039 1062	the person being called
+T74	Information 1025 1035	 the audio
+T76	Information 1472 1489	 the video stream
+T78	Vulnerability 1565 1573	 the bug
+T58	Device 1649 1651	it
+T79	Person 1921 1927	anyone
+T80	Software 2100 2119	 the Group FaceTime
+T81	Person 2320 2325	users
+T82	Person 338 343	users
+*	Coreference T19 T2 T66
+*	Coreference T22 T20 T3 T8
+*	Coreference T33 T44
+*	Coreference T52 T36 T32 T48 T23 T24
+*	Coreference T4 T28 T80
+*	Coreference T31 T29 T65 T59 T73 T35 T11 T39 T79
+*	Coreference T69 T27 T78
+*	Coreference T63 T70 T72 T37 T41 T82
+*	Coreference T38 T74 T40 T76
+*	Coreference T58 T12 T47
+*	Coreference T15 T6
+*	Coreference T54 T81

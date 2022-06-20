@@ -1,0 +1,112 @@
+T2	Software 75 93	Freedom Hosting II
+T24	Purpose 125 143	exposing its users
+T12	Time 3 9	Friday
+T16	Hacker-Group 1816 1818	he
+T15	File 1835 1847	torrent file
+T6	Campaign 1853 1857	dump
+T7	Information 1875 1880	files
+T8	Software 1893 1901	database
+T20	IP 1944 1946	IP
+T22	Purpose 2002 2029	reveal the admin's identity
+T11	System 1954 1960	server
+T5	Campaign 2315 2319	dump
+T9	Software 149 164	hosting service
+T10	Domain 210 228	thousands of sites
+T13	Domain 280 288	dark web
+T17	System 309 326	encrypted network
+T27	Domain 373 385	landing page
+T28	Software 166 185	Freedom Hosting II,
+T29	Software 457 475	Freedom Hosting II
+T30	System 1911 1918	service
+T31	Person 2068 2089	cybercrime researcher
+T34	Hacker-Group 1924 1930	hacker
+T35	Hacker-Group 2036 2042	hacker
+T37	Software 2223 2241	Freedom Hosting II
+T43	Domain 493 516	child pornography sites
+T44	Hacker-Group 626 632	hacker
+T45	Person 525 547	its anonymous operator
+T46	Domain 777 781	site
+T47	Hacker-Group 737 743	hacker
+T23	Software 46 62	sizable database
+T41	Software 2392 2410	Freedom Hosting II
+T42	Person 2429 2437	Monteiro
+T48	Information 2187 2198	information
+T21	Hacker-Group 1775 1781	hacker
+T4	Software 2346 2361	client database
+T49	Domain 1557 1573	child porn sites
+T50	Path 1519 1533	root directory
+T51	Hacker-Group 1579 1585	hacker
+T52	Software 1607 1625	Freedom Hosting II
+T54	File 1642 1660	configuration file
+T3	Hacker-Group 15 29	unnamed hacker
+T18	Device 338 349	Tor servers
+T55	Software 354 362	browsers
+T26	Attack-Pattern 390 413	replaced with a message
+T56	Device 696 702	server
+T57	Number 706 719	more than 50%
+T58	Domain 803 819	many scam sites,
+T60	Email 898 903	email
+T61	Organization 911 927	IDG News Service
+T62	Hacker-Group 933 939	hacker
+T63	Organization 1047 1064	hosting providers
+T64	Person 1102 1108	person
+T65	Code 1018 1036	well-known exploit
+T66	Device 1177 1187	web server
+T67	Hacker-Group 1149 1155	hacker
+T69	Number 1197 1204	20-step
+T70	Campaign 1217 1221	hack
+T71	Domain 1254 1262	new site
+T72	Software 1266 1284	Freedom Hosting II
+T73	Device 1327 1334	service
+T74	Path 1337 1351	root directory
+T75	Hacker-Group 1370 1376	hacker
+T76	Device 1391 1404	entire server
+T77	Device 1451 1461	web server
+T79	Attack-Pattern 1243 1284	starting a new site on Freedom Hosting II
+T68	Time 1136 1143	Jan. 30
+T80	Attack-Pattern 1490 1534	creating a symlink to / (the root directory)
+T81	Person 2050 2064	Chris Monteiro
+T82	Location 2099 2106	the U.K
+T83	Domain 2212 2217	sites
+T1	Attack-Pattern 36 111	dumping a sizable database stolen from Freedom Hosting II onto the internet
+T14	System 103 111	internet
+T19	Person 138 143	users
+T32	Domain 426 428	it
+T36	Software 262 273	Tor browser
+T25	Domain 525 528	its
+T38	Person 1070 1077	victims
+T39	Time 1081 1095	many years ago
+T40	Person 1173 1176	its
+T53	Purpose 1597 1625	take over Freedom Hosting II
+T78	Attack-Pattern 1629 1660	altering its configuration file
+T84	Information 1674 1682	password
+T85	Domain 2305 2309	them
+T86	Information 2277 2294	admin credentials
+T33	Hacker-Group 658 660	we
+T87	Number 820 824	some
+T88	URL 1300 1304	link
+T89	URL 1501 1508	symlink
+T90	Hacker-Group 1696 1697	I
+T91	Person 1713 1717	they
+T92	Hacker-Group 1732 1733	I
+T93	Domain 1754 1758	them
+T94	Number 1867 1871	74GB
+T95	Number 1887 1892	2.3GB
+T96	Campaign 2138 2147	data dump
+T97	Person 2155 2157	he
+T98	Campaign 644 650	breach
+*	Coreference T96 T5 T6
+*	Coreference T4 T8 T23
+*	Coreference T42 T81 T31 T97
+*	Coreference T50 T74
+*	Coreference T37 T41 T72 T52 T28 T2 T29 T9
+*	Coreference T55 T36
+*	Coreference T30 T76 T18 T66 T56 T11 T73 T77
+*	Coreference T88 T89
+*	Coreference T40 T32 T25 T85 T71 T46 T83 T27 T43 T49 T93
+*	Coreference T34 T75 T92 T62 T67 T44 T35 T16 T47 T33 T21 T51 T90
+T59	Campaign 958 964	breach
+*	Coreference T59 T98
+*	Coreference T38 T63
+T102	Attack-Pattern 1289 1351	creating a link to gain access to the service’s root directory
+T104	Purpose 1664 1688	trigger a password reset

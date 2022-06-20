@@ -1,0 +1,76 @@
+T23	Hacker-Group 1593 1601	Scammers
+T21	Person 1624 1631	victims
+T22	Purpose 1637 1679	handing over their credit card information
+T24	Purpose 1686 1704	installing malware
+T25	Email 1739 1772	authentic-looking phishing emails
+T27	Organization 1793 1807	real companies
+T5	Hacker-Group 0 14	Cybercriminals
+T2	Person 79 85	people
+T3	Purpose 91 113	providing bank details
+T38	Purpose 117 153	pay for a fake WhatsApp subscription
+T7	Person 456 463	victims
+T8	Purpose 469 507	handing over their banking information
+T4	Hacker-Group 285 295	fraudsters
+T11	Organization 661 678	The WhatsApp Team
+T10	Email 631 637	Emails
+T13	Campaign 1250 1254	dupe
+T16	Hacker-Group 1183 1191	Scammers
+T14	Person 1255 1262	victims
+T12	Attack-Pattern 1216 1233	use text messages
+T15	Purpose 1268 1298	paying for a fake subscription
+T32	Hacker-Group 1851 1859	scammers
+T29	Information 1880 1891	credentials
+T35	Attack-Pattern 2059 2071	using emails
+T34	Purpose 2024 2058	infect people with banking malware
+T33	Hacker-Group 1995 2009	cybercriminals
+T19	Attack-Pattern 1345 1370	click on any of the links
+T39	Campaign 38 55	new scam campaign
+T1	Software 170 178	WhatsApp
+T40	Money 217 222	$0.99
+T41	Money 223 228	£0.99
+T42	Time 258 270	January 2016
+T43	Software 362 370	WhatsApp
+T44	Person 399 404	users
+T45	Organization 513 558	UK's fraud and cybercrime centre Action Fraud
+T6	Campaign 621 629	campaign
+T46	Organization 563 588	the City of London police
+T9	Person 1300 1305	Those
+T17	Organization 1412 1424	Action Fraud
+T47	Person 1499 1506	victims
+T48	Course-of-Action 1511 1590	run antivirus software to ensure your device has not been infected with malware
+T49	Software 1515 1533	antivirus software
+T50	Device 1549 1555	device
+T51	Malware 1583 1590	malware
+T20	Organization 1821 1833	Action Fraud
+T26	Purpose 752 779	continue to use the service
+T28	Information 805 824	payment information
+T36	Person 826 833	Victims
+T52	Person 1028 1035	victims
+T53	Hacker-Group 1099 1108	Criminals
+T54	Campaign 1176 1181	fraud
+T55	Hacker-Group 1059 1068	criminals
+T56	Information 1080 1097	financial details
+T57	Information 913 932	payment information
+T58	Money 197 213	subscription fee
+T59	Campaign 308 319	latest scam
+T60	Campaign 956 960	scam
+T18	Email 1322 1327	email
+T61	Attack-Pattern 1874 1930	steal credentials from university staff with fake emails
+T30	Person 1897 1930	university staff with fake emails
+T31	Organization 2098 2105	charity
+T37	Person 1955 1961	police
+T63	Campaign 1394 1396	it
+*	Coreference T22 T8
+*	Coreference T38 T15
+*	Coreference T10 T18
+*	Coreference T1 T43
+*	Coreference T17 T20
+*	Coreference T28 T57
+*	Coreference T47 T14 T21 T9
+*	Coreference T40 T41 T58
+*	Coreference T7 T44
+*	Coreference T6 T59 T60
+*	Coreference T36 T52
+*	Coreference T53 T55
+*	Coreference T63 T13
+*	Coreference T23 T16 T32 T33

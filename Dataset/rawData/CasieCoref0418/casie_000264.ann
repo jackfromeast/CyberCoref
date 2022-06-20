@@ -1,0 +1,143 @@
+T8	Attack-Pattern 176 241	posed as students using an online tool to apply for financial aid
+T7	Person 185 193	students
+T5	Hacker-Group 168 175	hackers
+T2	Person 104 113	taxpayers
+T4	Information 64 81	the personal data
+T14	Hacker-Group 297 304	thieves
+T13	Purpose 414 425	get refunds
+T12	Person 354 360	people
+T15	Attack-Pattern 364 410	using stolen data and filed fraudulent returns
+T1	Time 280 290	since 2015
+T3	Number 341 353	over 300,000
+T6	Campaign 449 455	attack
+T9	Time 472 483	early March
+T10	Organization 494 500	I.R.S.
+T11	Information 566 581	tax information
+T16	Domain 668 676	website.
+T17	Organization 641 666	the Education Department’
+T19	Organization 596 636	Free Application for Federal Student Aid
+T20	Person 763 783	parents and students
+T21	Organization 836 842	I.R.S.
+T22	Person 966 971	staff
+T23	Hacker-Group 1062 1071	criminals
+T25	Person 1200 1213	their parents
+T26	Information 1215 1230	tax information
+T27	Person 1127 1141	aid applicants
+T28	Hacker-Group 1251 1258	thieves
+T29	Time 1343 1356	two years ago
+T30	Attack-Pattern 1265 1311	use the stolen data to file fraudulent returns
+T31	Money 1322 1329	refunds
+T32	Person 1371 1373	we
+T33	Person 1405 1418	John Koskinen
+T34	Organization 1424 1430	I.R.S.
+T35	Person 1424 1443	I.R.S. commissioner
+T36	Time 1450 1458	Thursday
+T38	Organization 1502 1508	I.R.S.
+T39	Time 1575 1583	October.
+T40	Person 1637 1646	taxpayers
+T41	Information 1657 1665	identity
+T42	Person 1668 1670	he
+T43	Person 1728 1740	Mr. Koskinen
+T44	Person 1792 1794	he
+T46	Person 1815 1837	Senator Orrin G. Hatch
+T47	Location 1841 1845	Utah
+T48	Person 1851 1870	Republican chairman
+T49	Organization 1878 1887	committee
+T50	Person 1902 1914	Mr. Koskinen
+T51	Time 1926 1940	several months
+T52	Person 2008 2020	Mr. Koskinen
+T53	Person 2026 2028	he
+T54	Number 2065 2076	millions of
+T55	Person 2077 2101	financial aid applicants
+T56	System 2183 2189	system
+T57	Campaign 2167 2175	activity
+T58	Organization 2195 2201	I.R.S.
+T59	Time 2254 2265	in February
+T60	Hacker-Group 2281 2290	criminals
+T61	Person 2309 2321	commissioner
+T62	Time 2327 2338	in the past
+T63	Person 2365 2385	Republican lawmakers
+T64	Number 2439 2445	35,000
+T65	Person 2457 2466	taxpayers
+T66	Number 2503 2510	100,000
+T67	Person 2511 2517	people
+T68	Person 2537 2541	they
+T69	Person 2527 2531	them
+T70	Number 2596 2601	8,000
+T71	Organization 2724 2729	I.R.S
+T73	Organization 2795 2806	Republicans
+T74	Person 2812 2824	Mr. Koskinen
+T75	Time 2856 2864	November
+T76	Person 2870 2882	commissioner
+T77	Person 2894 2903	boogeyman
+T78	Organization 2908 2919	Republicans
+T79	Person 2968 2970	he
+T80	Organization 2982 2986	them
+T82	Time 2924 2929	years
+T83	Time 50 58	Thursday
+T84	Location 0 10	WASHINGTON
+T85	Organization 13 41	The Internal Revenue Service
+T86	Number 96 103	100,000
+T87	Attack-Pattern 152 158	scheme
+T18	Software 515 534	Data Retrieval Tool
+T89	Organization 2947 2956	the party
+T90	Organization 3013 3019	agency
+T92	Organization 2411 2417	agency
+T93	Campaign 247 253	breach
+T94	Campaign 681 689	shutdown
+T95	Organization 986 992	agency
+T96	Campaign 1700 1706	breach
+T97	Malware 1529 1533	tool
+T98	Software 203 214	online tool
+T99	Software 1958 1962	tool
+T100	Software 1984 1986	it
+T101	Software 2055 2059	tool
+T81	Organization 3050 3079	conservative nonprofit groups
+T102	Organization 2564 2570	agency
+T103	Purpose 125 141	been compromised
+T105	Information 326 337	tax returns
+T106	Organization 511 514	its
+T107	Organization 585 590	Fafsa
+T108	Time 708 740	financial aid application season
+T109	File 819 830	Fafsa forms
+T110	Course-of-Action 866 887	overhaul its defenses
+T111	Campaign 909 935	sophisticated cyberthreats
+T112	Organization 939 942	its
+T113	Organization 962 965	its
+T114	Organization 1025 1027	it
+T115	Attack-Pattern 2213 2253	unusual spike of unfinished applications
+T91	Attack-Pattern 2602 2645	fraudulent returns were filed and processed
+T117	Purpose 2647 2674	resulting in refunds issued
+T119	Information 2712 2716	data
+T72	Time 2746 2755	two weeks
+T120	Time 2763 2770	tax day
+T121	Money 418 425	refunds
+T122	Information 370 381	stolen data
+T123	Person 1626 1628	we
+T124	Course-of-Action 1944 1962	shut down the tool
+T116	Number 2939 2943	many
+T130	Organization 2476 2478	it
+T142	Hacker-Group 1334 1338	they
+*	Coreference T15 T30
+*	Coreference T11 T26
+*	Coreference T23 T60
+*	Coreference T27 T55
+*	Coreference T31 T121
+*	Coreference T36 T83
+*	Coreference T3 T86 T70
+*	Coreference T95 T102 T90
+*	Coreference T106 T113 T112 T10 T34 T58 T71 T21 T38 T32 T123
+*	Coreference T14 T28 T142
+*	Coreference T65 T2
+*	Coreference T52 T74 T50 T53 T33 T61 T76 T42 T43 T44 T77 T79
+*	Coreference T12 T67 T68 T69
+*	Coreference T107 T19
+*	Coreference T94 T6 T104
+T104	Campaign 749 756	outrage
+T24	Software 1097 1114	student loan tool
+T118	Attack-Pattern 1075 1114	take advantage of the student loan tool
+T127	Purpose 1316 1329	steal refunds
+T37	Course-of-Action 1629 1665	protect taxpayers and their identity
+*	Coreference T99 T24 T100 T101
+*	Coreference T130 T92
+*	Coreference T78 T73 T89 T80

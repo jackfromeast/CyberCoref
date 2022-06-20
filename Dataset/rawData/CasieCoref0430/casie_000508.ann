@@ -1,0 +1,71 @@
+T18	Domain 1005 1032	a specially crafted website
+T17	Hacker-Group 982 993	an attacker
+T35	Attack-Pattern 1053 1104	exploit the vulnerability through Internet Explorer
+T23	Email 1175 1183	an email
+T20	Person 1123 1129	a user
+T21	Domain 1138 1149	the website
+T27	Campaign 1884 1891	correct
+T32	Organization 1874 1880	Lenovo
+T33	Organization 1848 1857	Microsoft
+T28	Vulnerability 1892 1901	the issue
+T7	Software 233 235	IE
+T6	Campaign 212 229	a zero-day attack
+T5	Course-of-Action 166 176	The update
+T10	Vulnerability 261 270	the issue
+T9	Organization 241 250	Microsoft
+T26	Vulnerability 1219 1236	the vulnerability
+T24	Course-of-Action 1189 1208	The security update
+T2	Vulnerability 32 38	issues
+T3	Organization 0 9	Microsoft
+T34	Vulnerability 95 109	serious issues
+T12	Software 400 417	Internet Explorer
+T13	Vulnerability 289 326	A remote code execution vulnerability
+T15	Vulnerability 419 436	The vulnerability
+T14	Attack-Pattern 443 457	corrupt memory
+T16	Attack-Pattern 495 517	execute arbitrary code
+T36	Vulnerability 592 610	 the vulnerability
+T41	Hacker-Group 553 565	 An attacker
+T38	Vulnerability 768 786	 the vulnerability
+T39	Purpose 793 827	take control of an affected system
+T42	Hacker-Group 729 741	 an attacker
+T1	Course-of-Action 71 83	simple patch
+T44	Course-of-Action 137 164	the 2016 Anniversary Update
+T4	Hacker-Group 476 488	 an attacker
+T8	Person 535 552	 the current user
+T11	Purpose 617 642	gain the same user rights
+T31	Person 645 662	 the current user
+T45	Person 666 683	 the current user
+T37	Attack-Pattern 583 592	exploited
+T47	Hacker-Group 828 840	 An attacker
+T48	Campaign 952 980	 a web-based attack scenario
+T19	Attack-Pattern 1167 1183	sending an email
+T22	Purpose 1114 1149	convince a user to view the website
+T25	Course-of-Action 1315 1318	fix
+T40	Device 1408 1430	 The affected machines
+T51	Software 1731 1740	BitLocker
+T52	Software 1784 1793	BitLocker
+T53	Software 1819 1830	Secure Boot
+T54	Device 2042 2049	devices
+T55	Device 2083 2097	Lenovo laptops
+T56	Course-of-Action 192 229	released to prevent a zero-day attack
+T57	Device 121 164	laptops running the 2016 Anniversary Update
+T46	Attack-Pattern 759 786	exploited the vulnerability
+T59	Attack-Pattern 903 944	create new accounts with full user rights
+T58	Attack-Pattern 852 868	install programs
+T60	Course-of-Action 1209 1300	addresses the vulnerability by modifying how the scripting engine handles objects in memory
+T61	Vulnerability 1343 1350	problem
+T49	Device 1469 1553	Lenovo laptops with less than 8 GB of RAM running the 2016 Anniversary Update (1607)
+T62	Vulnerability 1582 1589	problem
+T43	Course-of-Action 1519 1553	the 2016 Anniversary Update (1607)
+T50	Time 1984 2003	the end of the year
+T63	Time 1934 1947	in the future
+T29	Course-of-Action 1911 1924	release a fix
+T67	Course-of-Action 1974 1976	it
+T30	Vulnerability 2065 2069	they
+*	Coreference T9 T3 T33
+*	Coreference T44 T43
+*	Coreference T45 T31 T8
+*	Coreference T51 T52
+*	Coreference T5 T1
+*	Coreference T10 T13 T36 T38 T26 T15 T61 T62 T28 T30
+*	Coreference T67 T29

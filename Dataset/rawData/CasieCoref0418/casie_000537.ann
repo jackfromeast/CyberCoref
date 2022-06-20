@@ -1,0 +1,54 @@
+T11	Hacker-Group 512 524	the scammers
+T10	Purpose 525 569	complete remote control over the victim’s PC
+T6	Purpose 595 613	free to steal data
+T9	Purpose 615 630	install malware
+T7	Purpose 674 701	logging into online banking
+T5	Purpose 425 479	install one of a range of remote desktop support tools
+T8	Purpose 705 723	transferring money
+T4	Person 289 301	The customer
+T2	Attack-Pattern 345 373	run the Windows Event Viewer
+T12	Hacker-Group 1401 1415	the fraudsters
+T13	Attack-Pattern 1426 1446	accessed stolen data
+T15	Hacker-Group 1460 1464	they
+T17	Person 1504 1517	their victims
+T14	Campaign 1640 1662	data breach cybercrime
+T18	Person 38 56	TalkTalk customers
+T19	Organization 97 100	BBC
+T20	Person 141 147	caller
+T21	Person 163 180	TalkTalk engineer
+T22	Course-of-Action 193 227	detected a router or malware issue
+T23	Device 235 250	user’s computer
+T3	Device 326 340	their computer
+T1	Person 664 668	user
+T24	Hacker-Group 751 761	fraudsters
+T25	Time 768 781	at least 2015
+T26	Software 791 801	TeamViewer
+T27	Time 822 829	March 8
+T28	Software 831 839	TalkTalk
+T29	System 906 913	network
+T30	Person 960 969	customers
+T31	Time 1035 1043	Thursday
+T32	Organization 1068 1075	company
+T33	Software 1098 1106	TalkTalk
+T34	Person 1165 1170	users
+T35	Time 1228 1237	same time
+T36	Vulnerability 1188 1216	unexpected connection issues
+T37	Campaign 1239 1257	Tech support fraud
+T38	Time 1293 1298	years
+T39	Campaign 1376 1392	TalkTalk attacks
+T16	Hacker-Group 1549 1559	fraudsters
+T40	Attack-Pattern 1578 1662	synthesise old-fashioned tech support social engineering with data breach cybercrime
+T41	Software 1748 1775	remote support applications
+T42	Information 1826 1843	freemium accounts
+T43	Organization 1870 1879	companies
+T44	Person 16 20	they
+T47	Person 77 81	them
+T48	Hacker-Group 586 590	they
+*	Coreference T23 T3
+*	Coreference T28 T33
+*	Coreference T16 T12 T15
+T49	Person 8 14	attest
+*	Coreference T44 T49 T20
+*	Coreference T18 T47
+*	Coreference T4 T21
+*	Coreference T11 T48

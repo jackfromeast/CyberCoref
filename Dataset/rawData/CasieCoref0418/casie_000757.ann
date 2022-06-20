@@ -1,0 +1,171 @@
+T84	Campaign 1912 1916	said
+T85	Person 1900 1911	Researchers
+T86	Software 1917 1939	vulnerable mobile apps
+T87	Campaign 1943 1948	found
+T92	Software 2062 2074	applications
+T17	Vulnerability 421 434	vulnerability
+T15	Organization 380 409	Appthority Mobile Threat Team
+T18	Attack-Pattern 491 530	misconfigured backend storage platforms
+T23	System 575 580	MySQL
+T22	System 563 570	MongoDB
+T21	System 556 561	Redis
+T20	System 541 554	Elasticsearch
+T26	Person 786 793	authors
+T25	Time 817 826	Wednesday
+T27	Vulnerability 583 595	HospitalGown
+T28	Vulnerability 601 614	vulnerability
+T29	Attack-Pattern 618 638	data exposure caused
+T8	Software 757 760	app
+T34	Vulnerability 888 895	problem
+T33	Time 969 977	February
+T30	Person 853 882	director of security research
+T31	Person 841 851	Seth Hardy
+T40	Device 1343 1364	Elasticsearch servers
+T38	Organization 1294 1304	Appthority
+T88	Campaign 2134 2148	was vulnerable
+T50	Software 2126 2133	the app
+T56	Organization 2482 2492	Appthority
+T57	Vulnerability 2461 2480	data security issue
+T59	Attack-Pattern 2499 2527	attacks can quickly escalate
+T77	Campaign 2609 2627	brute force attack
+T93	Attack-Pattern 2532 2578	personal information could easily be leveraged
+T76	Software 2976 2991	Pulse Workspace
+T74	Organization 2956 2966	AppThority
+T78	Vulnerability 3017 3030	vulnerability
+T46	Campaign 2161 2173	exfiltration
+T47	Hacker-Group 2179 2185	hacker
+T48	Information 2080 2106	personal identifiable data
+T49	Person 2109 2113	user
+T9	Information 273 308	personally identifiable information
+T7	Device 251 265	mobile devices
+T10	Information 323 332	passwords
+T14	Information 365 378	phone numbers
+T13	Email 354 360	emails
+T12	Information 344 352	VPN PINs
+T11	Information 334 342	location
+T82	Campaign 3772 3790	ransomware attacks
+T83	Hacker-Group 3748 3755	hackers
+T51	Campaign 2292 2298	access
+T52	Information 2306 2310	data
+T54	Information 2361 2365	data
+T53	Information 2377 2380	PII
+T55	System 2194 2201	servers
+T43	Campaign 1783 1792	accessing
+T44	Information 1793 1805	company data
+T45	Software 1822 1830	database
+T42	Hacker-Group 1694 1703	bad actor
+T5	Software 31 42	mobile apps
+T3	Information 117 124	records
+T4	Information 158 175	private user data
+T60	Campaign 2584 2605	spear phishing attack
+T62	Information 2778 2782	data
+T63	Software 2690 2705	Pulse Workspace
+T64	Software 2668 2682	mobile VPN app
+T67	Organization 2752 2769	service providers
+T66	Person 2728 2747	government agencies
+T65	Organization 2715 2726	enterprises
+T80	Information 3700 3726	personal identifiable data
+T81	Campaign 3760 3768	phishing
+T69	Information 2935 2954	Pulse customer data
+T71	Information 2897 2909	data records
+T72	Software 2891 2894	app
+T70	Software 2790 2805	Pulse Workspace
+T89	Campaign 1075 1084	extortion
+T35	System 1018 1025	MongoDB
+T36	System 1027 1033	Hadoop
+T37	System 1038 1045	CouchDB
+T90	Hacker-Group 1097 1104	hackers
+T91	Attack-Pattern 1114 1145	scanning for vulnerable servers
+T2	Software 0 26	Insecure backend databases
+T1	Number 105 116	280 million
+T94	Number 224 229	1,000
+T95	Software 230 234	apps
+T6	Vulnerability 435 447	HospitalGown
+T16	Organization 202 212	Appthority
+T19	Campaign 480 486	threat
+T96	Code 651 655	code
+T97	Software 663 666	app
+T24	Device 726 741	backend servers
+T32	Software 923 931	database
+T98	Campaign 1149 1155	attack
+T99	Device 1222 1238	insecure servers
+T100	Software 1244 1248	apps
+T101	Person 1261 1266	Hardy
+T102	Vulnerability 1161 1165	weak
+T39	Number 1331 1337	21,000
+T41	Information 1402 1414	exposed data
+T103	Number 1386 1398	43 terabytes
+T104	Code 1423 1431	scenario
+T105	Hacker-Group 1437 1445	attacker
+T106	Vulnerability 1456 1471	vulnerabilities
+T107	Software 1506 1524	mobile application
+T109	Person 1576 1587	researchers
+T110	Device 1594 1601	servers
+T111	Software 1611 1630	mobile applications
+T112	Attack-Pattern 1707 1768	skip the long and potentially many-layered ‘compromise’ stage
+T113	Protocol 2388 2393	HTTPS
+T114	Vulnerability 2237 2271	lacked any means of authentication
+T58	Organization 2644 2654	AppThority
+T61	Person 3000 3009	customers
+T68	Course-of-Action 3054 3059	fixed
+T73	Organization 3062 3072	Appthority
+T75	Software 3133 3146	Elasticsearch
+T115	Software 3148 3153	Redis
+T116	Software 3155 3162	MongoDB
+T117	Software 3168 3173	MySQL
+T118	Software 3185 3192	plugins
+T119	Person 3330 3335	Hardy
+T120	Software 3342 3355	Elasticsearch
+T121	Course-of-Action 3397 3425	data protection capabilities
+T122	Course-of-Action 3449 3469	encrypt all the data
+T123	Course-of-Action 3376 3392	bevy of security
+T124	Campaign 3517 3542	HospitalGown type-attacks
+T125	Software 3566 3570	apps
+T126	Information 3625 3634	user data
+T127	Software 3654 3658	apps
+T128	Software 3664 3686	advertising components
+T79	Person 3792 3806	App developers
+T129	Person 3811 3832	system administrators
+T130	Information 3858 3862	data
+T131	Person 3902 3907	Hardy
+T132	Organization 3913 3923	Threatpost
+T133	System 2311 2315	they
+T134	Organization 235 237	it
+T135	Person 1940 1942	it
+T136	Organization 1322 1324	it
+T137	Information 3887 3889	it
+T138	Vulnerability 1189 1191	it
+T139	Person 1888 1892	they
+T140	Organization 3119 3121	it
+*	Coreference T85 T109 T139 T135
+*	Coreference T23 T117
+*	Coreference T21 T115
+*	Coreference T77 T82
+*	Coreference T106 T78 T17 T28 T27 T6 T34
+*	Coreference T46 T89
+*	Coreference T61 T49 T26
+*	Coreference T51 T43
+*	Coreference T3 T71
+*	Coreference T76 T70 T63 T64
+*	Coreference T22 T35 T116
+*	Coreference T83 T47 T105 T90 T42
+*	Coreference T111 T5 T107 T86
+*	Coreference T56 T16 T74 T58 T73 T38 T134 T15 T136 T140
+*	Coreference T75 T120 T20 T147
+*	Coreference T31 T119 T131 T101 T30
+*	Coreference T72 T125 T8 T95 T97 T100 T127
+T141	System 505 530	backend storage platforms
+T142	System 461 468	culprit
+*	Coreference T142 T141
+T143	Device 1127 1145	vulnerable servers
+*	Coreference T138 T102 T40 T99 T55 T110 T24 T143 T144 T133
+T144	Device 1533 1545	app’s server
+T108	Campaign 1775 1781	attack
+*	Coreference T32 T45
+T145	Campaign 2499 2506	attacks
+T146	Information 2532 2552	personal information
+*	Coreference T145 T108
+T147	Software 3484 3492	platform
+*	Coreference T69 T126 T9 T48 T80 T4 T52 T54 T53 T146
+*	Coreference T81 T60
+*	Coreference T137 T130

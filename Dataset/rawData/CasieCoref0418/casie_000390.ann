@@ -1,0 +1,82 @@
+T4	Organization 4 17	Git community
+T2	Vulnerability 34 56	security vulnerability
+T7	Attack-Pattern 111 139	enable remote code execution
+T8	Device 145 164	vulnerable machines
+T11	Vulnerability 239 253	CVE–2018–17456
+T12	Organization 257 262	Mitre
+T9	Vulnerability 200 213	vulnerability
+T16	Code 436 445	git clone
+T17	Code 448 466	recurse-submodules
+T18	Code 471 491	git submodule update
+T14	Version 286 292	2.19.1
+T40	Software 282 285	Git
+T20	Vulnerability 1141 1154	vulnerability
+T22	Course-of-Action 1185 1188	fix
+T27	Vulnerability 1470 1472	it
+T23	Course-of-Action 1398 1405	the fix
+T24	Vulnerability 1415 1428	vulnerability
+T25	Version 1448 1454	2.19.1
+T28	Version 1496 1511	versions 2.14.5
+T29	Version 1513 1519	2.15.3
+T30	Version 1521 1527	2.16.5
+T31	Version 1529 1535	2.17.2
+T32	Version 1541 1547	2.18.1
+T21	Software 1444 1447	Git
+T37	Course-of-Action 1684 1693	upgrading
+T38	Software 1694 1698	them
+T39	Time 1699 1718	as soon as possible
+T35	Software 1619 1623	Atom
+T34	Software 1600 1614	GitHub Desktop
+T36	Software 1576 1591	GitHub projects
+T1	Code 71 76	clone
+T3	Code 81 99	submodule commands
+T5	Campaign 118 139	remote code execution
+T6	Malware 172 194	malicious repositories
+T10	Course-of-Action 264 278	has been fixed
+T13	Vulnerability 309 322	vulnerability
+T41	Malware 326 346	malicious repository
+T43	Code 574 583	git clone
+T44	Code 587 611	git submodule subprocess
+T45	URL 637 640	URL
+T46	Device 719 732	local machine
+T48	Code 694 711	arbitrary command
+T49	Vulnerability 739 752	vulnerability
+T50	Campaign 807 830	option-injection attack
+T51	Attack-Pattern 681 732	executing an arbitrary command on the local machine
+T52	Vulnerability 767 783	CVE–2017–1000117
+T53	Attack-Pattern 796 871	enabled an option-injection attack by forging ssh URLs starting with a dash
+T54	Protocol 842 845	ssh
+T55	Campaign 918 932	ssh subprocess
+T56	Software 945 948	git
+T57	Time 972 985	at the moment
+T58	Person 991 993	We
+T59	Software 1037 1049	repositories
+T60	Software 1053 1059	GitHub
+T61	Campaign 1080 1086	attack
+T62	Course-of-Action 1127 1136	PR fixing
+T63	Course-of-Action 1209 1215	itself
+T64	Campaign 1227 1236	discovery
+T65	Campaign 1269 1282	overall audit
+T66	Path 1349 1354	paths
+T67	Campaign 1334 1340	checks
+T26	Software 1555 1558	git
+T33	Course-of-Action 1641 1648	patched
+T68	Time 1020 1024	time
+T69	Course-of-Action 1312 1382	implementing stricter checks on both paths and URLs found inside of it
+T71	File 1287 1297	gitmodules
+T70	URL 1359 1363	URLs
+T72	Software 1170 1179	joernchen
+T73	Code 512 516	they
+T74	Attack-Pattern 512 660	they would recursively pass the URL starting with a dash to a git clone or git submodule subprocess that would interpret the URL as a command option
+T47	Code 646 653	command
+T76	Vulnerability 953 961	exploits
+T77	Time 1217 1220	Yet
+T78	File 1380 1382	it
+*	Coreference T43 T16 T1
+*	Coreference T40 T21 T26 T56
+*	Coreference T9 T20 T24 T27 T2 T13 T11 T49
+T15	URL 387 390	URL
+T42	URL 544 547	URL
+*	Coreference T61 T50
+*	Coreference T71 T78
+*	Coreference T25 T14

@@ -1,0 +1,79 @@
+T3	Device 68 102	primarily residential cable modems
+T2	Vulnerability 141 159	a serious weakness
+T4	System 162 203	 their Simple Network Management Protocol
+T9	Attack-Pattern 524 550	bypass SNMP authentication
+T8	Device 567 579	cable modems
+T6	Person 486 499	Bertin Bervis
+T13	Vulnerability 809 820	StringBleed
+T14	Person 787 791	they
+T11	Device 701 708	devices
+T12	Vulnerability 764 781	the SNMP weakness
+T19	Vulnerability 920 935	a known problem
+T21	Device 954 966	many devices
+T22	Time 967 981	over the years
+T25	Device 1035 1053	vulnerable devices
+T23	Person 991 1002	researchers
+T29	Person 1263 1267	they
+T32	Organization 1290 1302	Technicolor,
+T33	Campaign 1530 1543	the discovery
+T34	Device 1550 1579	vulnerable cable modem models
+T40	Organization 1654 1661	Thomson
+T39	Organization 1643 1649	D-Link
+T38	Organization 1633 1641	Motorola
+T37	Organization 1620 1631	Technicolor
+T36	Organization 1613 1618	Cisco
+T35	Organization 1585 1601	19 manufacturers
+T45	Attack-Pattern 1752 1794	extract administrative and Wi-Fi passwords
+T46	Attack-Pattern 1798 1849	to hijack devices by modifying their configurations
+T43	Device 2199 2218	a particular device
+T44	Vulnerability 2236 2246	this issue
+T17	Campaign 822 833	The leaking
+T16	Information 837 865	sensitive configuration data
+T18	Attack-Pattern 866 916	through the default "public" SNMP community string
+T22	Time 967 981	over the years
+T47	Device 25 49	internet gateway devices
+T1	Course-of-Action 237 276	automated network device identification
+T48	Device 362 369	devices
+T49	Device 381 388	servers
+T50	Device 390 398	printers
+T51	Device 400 415	networking hubs
+T52	Device 417 425	switches
+T53	Device 430 437	routers
+T54	Person 628 644	 their customers
+T10	Time 1225 1229	2015
+T15	Organization 1302 1314	 the company
+T7	Course-of-Action 661 708	scans revealed hundreds of thousands of devices
+T24	Location 1397 1403	Mexico
+T28	Hacker-Group 1715 1724	attackers
+T30	Attack-Pattern 1731 1748	exploit this flaw
+T55	Vulnerability 1738 1748	 this flaw
+T56	Device 1917 1937	 a vulnerable device
+T57	Device 1997 2002	modem
+T58	Person 2057 2066	customers
+T59	Device 2084 2099	gateway devices
+T42	Software 2287 2310	 An online port scanner
+T60	Software 2316 2325	ShieldsUp
+T61	Device 2353 2364	 the device
+T62	System 2497 2508	SNMP server
+T63	Vulnerability 2626 2654	 an information leak problem
+T64	Device 1064 1096	 the Cisco DPC3928SL cable modem
+T26	Vulnerability 1276 1286	 the issue
+T31	Device 1430 1441	 the device
+T41	Person 1463 1479	 the researchers
+T27	Person 1230 1246	 The researchers
+T65	Person 1873 1878	users
+T66	System 2167 2182	 their networks
+T68	Person 1320 1324	them
+T69	Organization 2109 2113	they
+T72	Person 1908 1912	them
+T5	Person 439 462	Independent researchers
+T74	Person 463 481	Ezequiel Fernandez
+T67	Protocol 220 224	SNMP
+T75	Protocol 315 317	It
+*	Coreference T32 T37 T15
+*	Coreference T34 T61 T56 T59
+*	Coreference T67 T75
+*	Coreference T14 T5 T41 T27 T23 T29 T68
+*	Coreference T55 T26
+*	Coreference T65 T72
+*	Coreference T69 T58

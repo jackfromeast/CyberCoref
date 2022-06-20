@@ -1,0 +1,79 @@
+T20	Information 1187 1196	This data
+T5	Information 1270 1272	it
+T21	Hacker-Group 1249 1258	the crook
+T37	Malware 880 890	the trojan
+T2	Domain 897 916	fake login overlays
+T38	Attack-Pattern 918 951	asking the user to reauthenticate
+T18	Attack-Pattern 955 988	re-enter his payment card details
+T22	Malware 1009 1016	BankBot
+T23	Attack-Pattern 1043 1066	using overlays for apps
+T34	Software 1164 1185	the Google Play Store
+T33	Software 1151 1158	Twitter
+T32	Software 1140 1149	Instagram
+T31	Software 1135 1138	imo
+T30	Software 1127 1133	WeChat
+T29	Software 1117 1125	Snapchat
+T28	Software 1111 1115	Uber
+T27	Software 1101 1109	WhatsApp
+T26	Software 1092 1099	Youtube
+T25	Software 1085 1090	Viber
+T24	Software 1075 1083	Facebook
+T9	Information 1560 1572	SMS messages
+T8	Malware 1503 1510	BankBot
+T36	Campaign 1455 1470	siphoning money
+T13	Information 1342 1358	user information
+T12	Person 1309 1327	the BankBot author
+T14	Attack-Pattern 1367 1396	initiate banking transactions
+T15	Attack-Pattern 1401 1448	sell the user's social media credentials online
+T6	Person 1360 1362	he
+T39	Person 4 27	Russian antivirus maker
+T40	Code 32 55	 the leaked source code
+T41	Information 69 92	 a high-quality product
+T42	Organization 96 114	 the security firm
+T43	Hacker-Group 167 182	cyber-criminals
+T44	Malware 223 248	 their own mobile malware
+T45	Attack-Pattern 205 248	develop and deploy their own mobile malware
+T46	Malware 250 273	Android banking trojans
+T47	Money 308 315	dollars
+T49	Money 339 348	high fees
+T50	Malware 376 388	 this trojan
+T52	Device 440 455	Android devices
+T53	Person 457 475	Dr.Web researchers
+T54	Organization 494 506	 the company
+T55	Code 507 530	 the leaked source code
+T56	Malware 607 622	Android.BankBot
+T57	Malware 586 600	banking trojan
+T58	Version 658 678	 The BankBot version
+T59	Person 723 745	users of Russian banks
+T60	Organization 760 766	Dr.Web
+T61	Malware 767 778	 the trojan
+T62	Person 803 812	 the user
+T63	Software 819 838	mobile banking apps
+T64	Software 842 859	social media apps
+T1	Purpose 1021 1042	phish for credentials
+T11	System 1227 1241	online servers
+T4	Malware 1648 1655	BankBot
+T16	File 1693 1705	SMS messages
+T19	Information 1710 1723	USSD requests
+T3	Information 1730 1755	 the user's contacts list
+T10	Attack-Pattern 1688 1723	send SMS messages and USSD requests
+T17	Attack-Pattern 1725 1755	steal the user's contacts list
+T35	Attack-Pattern 1757 1791	track the user via GPS coordinates
+T65	Attack-Pattern 1797 1873	request additional permissions via popups for the latest Android OS versions
+T66	Information 1816 1827	permissions
+T67	Version 1842 1873	 the latest Android OS versions
+T68	System 1880 1903	 the permissions system
+T7	Person 1631 1640	 the user
+T69	Attack-Pattern 1521 1572	intercept and silently delete incoming SMS messages
+T70	Information 1477 1501	 a victim's bank account
+T71	Information 1581 1617	 the bank's transaction notification
+T72	Version 1944 1961	previous releases
+T51	Malware 414 429	banking trojans
+T48	Number 295 307	thousands of
+T75	Information 1031 1042	credentials
+T73	Organization 457 463	Dr.Web
+*	Coreference T40 T55
+*	Coreference T22 T56 T4 T8 T57 T61 T37 T50
+*	Coreference T75 T20 T5
+*	Coreference T12 T6
+*	Coreference T54 T73

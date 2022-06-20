@@ -1,0 +1,107 @@
+T52	Campaign 1318 1328	the attack
+T53	Time 1301 1311	the months
+T63	Malware 1383 1391	WannaCry
+T37	Hacker-Group 1108 1115	hackers
+T12	Malware 1023 1031	WannaCry
+T38	Person 1012 1019	victims
+T25	System 1065 1072	systems
+T3	Person 96 103	victims
+T24	Person 54 61	someone
+T1	Campaign 32 52	WannaCry cyberattack
+T4	Time 0 12	Three months
+T5	Campaign 146 178	the WannaCry ransomware outbreak
+T6	Time 125 137	three months
+T7	Campaign 193 215	the global cyberattack
+T17	Organization 526 558	The UK's National Health Service
+T18	Campaign 589 599	the attack
+T22	Campaign 704 722	the ransomware hit
+T23	Attack-Pattern 639 654	knocked offline
+T20	Organization 606 615	hospitals
+T10	Organization 289 302	organisations
+T11	Time 323 326	May
+T16	System 409 424	Windows systems
+T13	Malware 333 360	the file-encrypting malware
+T15	Attack-Pattern 370 395	used a leaked NSA exploit
+T42	Person 1162 1169	victims
+T41	Campaign 1132 1147	ransom payments
+T33	Malware 2237 2245	WannaCry
+T57	Time 2223 2236	A month after
+T55	Campaign 2312 2338	fast-spreading cyberattack
+T56	Organization 2247 2256	companies
+T39	Malware 2354 2359	Petya
+T50	Malware 2372 2380	WannaCry
+T57	Time 2223 2236	A month after
+T40	Campaign 941 951	the attack
+T26	Money 76 81	funds
+T2	Money 239 261	 their ransom payments
+T8	Campaign 263 284	The WannaCry epidemic
+T9	Number 438 450	over 300,000
+T14	Campaign 426 428	It
+T27	Device 451 454	PCs
+T28	System 459 476	crippling systems
+T29	Location 483 496	 the Americas
+T30	Location 498 504	Europe
+T31	Location 506 512	Russia
+T32	Location 518 523	China
+T19	Person 620 626	doctor
+T21	Time 693 697	days
+T34	Malware 724 732	WannaCry
+T35	Person 752 759	victims
+T45	Code 991 1000	 the code
+T47	Campaign 770 791	 the initial outbreak
+T48	Organization 802 807	Honda
+T51	Malware 918 933	 the ransomware
+T58	Person 909 915	victim
+T61	Device 862 875	speed cameras
+T62	Organization 827 837	 a factory
+T64	Campaign 844 857	 an infection
+T65	Location 879 898	Victoria, Australia
+T36	Number 1153 1161	only 338
+T43	Money 1174 1191	 the $300 bitcoin
+T44	Campaign 1236 1246	 an attack
+T46	Number 1262 1286	hundreds of thousands of
+T59	Device 1287 1296	computers
+T60	Money 1329 1349	 the bitcoin wallets
+T49	Time 1417 1425	August 3
+T66	Money 1430 1434	them
+T67	Time 1468 1490	the time of withdrawal
+T68	Money 1526 1534	$140,000
+T69	Money 1573 1580	bitcoin
+T54	Organization 2280 2290	themselves
+T70	Vulnerability 2398 2404	issues
+T71	Malware 2463 2471	WannaCry
+T72	Malware 2476 2481	Petya
+T73	Hacker-Group 2509 2529	cybercriminal groups
+T74	Malware 2578 2592	 these viruses
+T75	Time 1785 1803	Five minutes later
+T76	Money 1839 1852	seven bitcoin
+T77	Money 1854 1861	$19.318
+T78	Money 1867 1877	10 Bitcoin
+T79	Money 1879 1886	$27,514
+T80	Time 1922 1932	60 seconds
+T81	Time 1934 1951	Ten minutes later
+T82	Money 2005 2012	bitcoin
+T83	Money 2017 2038	 the WannaCry wallets
+T84	Campaign 2091 2102	 the attack
+T85	Organization 2113 2140	private cybersecurity firms
+T86	Organization 2145 2178	investigating government agencies
+T87	Location 2195 2206	North Korea
+T88	Money 1617 1628	7.3 bitcoin
+T89	Money 1630 1637	$20,055
+T90	Money 1643 1655	9.67 bitcoin
+T91	Money 1657 1664	$26,435
+T92	Time 1692 1714	a minute at 4:10am BST
+T93	Money 1764 1783	 the extorted funds
+T94	Money 1582 1608	Three separate withdrawals
+T95	Money 1805 1827	three more withdrawals
+T96	Money 1952 1971	 a final withdrawal
+*	Coreference T39 T72
+*	Coreference T34 T50 T12 T71 T33 T63 T13
+*	Coreference T40 T7 T55 T18 T84 T52 T44 T1 T5
+*	Coreference T88 T89
+*	Coreference T90 T91
+*	Coreference T76 T77
+*	Coreference T78 T79
+*	Coreference T56 T54
+*	Coreference T14 T8
+*	Coreference T60 T66

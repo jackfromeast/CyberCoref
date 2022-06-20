@@ -1,0 +1,206 @@
+T7	Campaign 155 164	notifying
+T9	Attack-Pattern 175 209	were locked out of all their files
+T10	Time 12 19	Sept 10
+T11	Person 21 40	municipal employees
+T12	Location 61 69	Montreal
+T13	Location 74 85	Quebec City
+T8	Person 165 169	them
+T58	Person 170 174	they
+T2	Money 307 350	eight units of the digital currency Bitcoin
+T3	Money 395 402	$65,000
+T4	Organization 250 286	the regional municipality of Mekinac
+T17	Organization 404 427	Mekinac’s IT department
+T14	Hacker-Group 454 473	cyber extortionists
+T21	Time 568 577	two weeks
+T20	Attack-Pattern 544 557	were disabled
+T18	Money 488 495	$30,000
+T24	Purpose 1624 1636	demand money
+T25	Malware 1597 1604	malware
+T26	Attack-Pattern 1562 1585	used malicious software
+T27	Hacker-Group 1552 1561	attackers
+T56	Organization 1542 1549	Mekinac
+T38	Malware 1608 1618	ransomware
+T43	Hacker-Group 3732 3736	they
+T42	Attack-Pattern 3683 3705	encrypted all the data
+T41	Hacker-Group 3670 3677	hackers
+T55	Attack-Pattern 3710 3725	held it hostage
+T51	Hacker-Group 4295 4304	criminals
+T54	Campaign 4465 4469	paid
+T52	Organization 4460 4464	they
+T46	Campaign 4082 4085	pay
+T48	Hacker-Group 3907 3929	professional criminals
+T49	Attack-Pattern 3930 3961	use commercial grade encryption
+T33	Campaign 3537 3541	sent
+T34	Hacker-Group 3549 3556	hackers
+T35	File 3518 3536	a fraudulent email
+T37	Person 3477 3485	employee
+T40	Purpose 3617 3642	giving the hackers access
+T39	Purpose 3571 3615	the malware was downloaded onto the computer
+T36	Attack-Pattern 3486 3536	opened and clicked on a link in a fraudulent email
+T31	Organization 2019 2029	businesses
+T29	Location 2033 2040	Ontario
+T32	Time 2146 2155	September
+T19	System 5011 5017	system
+T59	Email 5036 5042	emails
+T60	System 5069 5073	they
+T61	Person 5088 5090	he
+T62	Campaign 5106 5113	attacks
+T63	Email 4849 4854	email
+T64	Organization 4874 4876	we
+T65	Email 4890 4892	it
+T66	Person 4895 4897	He
+T67	Location 4915 4920	towns
+T68	Location 4932 4940	province
+T69	Campaign 4968 4974	attack
+T70	Location 4982 4988	region
+T71	Location 0 8	MONTREAL
+T5	File 116 135	threatening message
+T6	Device 145 154	computers
+T72	File 204 209	files
+T1	Purpose 299 370	deposit eight units of the digital currency Bitcoin into a bank account
+T57	Device 536 543	servers
+T73	Campaign 583 589	attack
+T74	Organization 629 643	municipalities
+T75	Information 672 676	data
+T76	Information 244 248	data
+T77	Organization 749 766	Quebec government
+T78	Person 781 801	Prof. Jose Fernandez
+T79	Organization 823 866	Montreal’s Polytechnique engineering school
+T80	Location 869 875	Quebec
+T81	Person 898 907	Fernandez
+T82	Person 942 944	he
+T83	Organization 982 992	government
+T84	Organization 1018 1022	them
+T85	Time 1097 1105	15 years
+T86	Person 1108 1110	he
+T87	Organization 1141 1151	government
+T88	Person 1211 1227	Bernard Thompson
+T89	Organization 1243 1272	Mekinac regional municipality
+T22	Campaign 1283 1296	ransom demand
+T23	Organization 1336 1348	organization
+T90	Location 1350 1357	Mekinac
+T91	Number 1374 1376	10
+T92	Location 1377 1391	municipalities
+T93	Number 1421 1427	13,000
+T94	Person 1527 1535	Thompson
+T95	Hacker-Group 1517 1524	bandits
+T96	Person 1492 1494	we
+T97	Malware 1567 1585	malicious software
+T98	Person 1676 1685	Fernandez
+T99	Location 1709 1715	Quebec
+T100	Organization 1830 1851	provincial government
+T101	Campaign 1909 1921	cyberattacks
+T102	Location 1931 1937	Quebec
+T103	Campaign 1976 1983	attacks
+T30	Organization 1993 2014	municipal governments
+T28	Campaign 2062 2080	ransomware attacks
+T104	Organization 2096 2121	Ontario Provincial Police
+T105	Campaign 2125 2142	issue an advisory
+T106	Organization 2193 2230	Communications Security Establishment
+T107	Organization 2233 2288	the Defence Department’s electronic intelligence agency
+T108	Organization 2304 2338	Canadian Centre for Cyber Security
+T109	Time 2339 2349	last month
+T110	Course-of-Action 2373 2461	monitoring “new forms of ransomware” and advising the federal and provincial governments
+T111	Organization 2427 2461	federal and provincial governments
+T112	Person 2473 2488	Evan Koronewski
+T113	Person 2550 2559	Fernandez
+T114	Location 2626 2642	British Columbia
+T115	Location 2647 2660	New Brunswick
+T116	Course-of-Action 2666 2685	established offices
+T117	Information 2710 2725	government data
+T118	Location 2740 2746	Quebec
+T119	Person 2748 2750	he
+T120	Organization 2811 2821	government
+T121	Person 2848 2850	he
+T122	Person 2857 2871	Patrick Harvey
+T123	Organization 2891 2917	Public Security Department
+T124	Location 2757 2768	small towns
+T125	Location 2581 2595	some provinces
+T126	Organization 2942 2963	provincial government
+T127	Campaign 2982 2994	cyberattacks
+T128	Person 2996 2998	He
+T129	Organization 3008 3027	Treasury Department
+T130	Person 3034 3057	director of information
+T131	Information 3083 3098	government data
+T132	Organization 3117 3143	Public Security Department
+T133	Campaign 3182 3194	cyberattacks
+T134	Organization 3150 3154	unit
+T135	Person 3206 3242	administration and provincial police
+T136	Organization 3248 3262	municipalities
+T137	Organization 3283 3287	unit
+T138	Organization 3300 3314	Municipalities
+T139	Device 3395 3417	digital infrastructure
+T140	Person 3420 3426	Harvey
+T141	Organization 3433 3440	Mekinac
+T142	Device 3443 3450	servers
+T143	URL 3510 3514	link
+T44	Money 3752 3760	bitcoins
+T45	Information 3769 3782	system’s data
+T144	Person 3878 3884	police
+T145	Course-of-Action 3969 3997	locate a key to decrypt data
+T146	Person 4054 4063	Fernandez
+T147	Person 4089 4092	you
+T148	Information 4107 4111	data
+T47	Person 4071 4074	You
+T149	Hacker-Group 4153 4160	hackers
+T150	Organization 4143 4150	Mekinac
+T53	Person 4184 4192	Thompson
+T151	Person 4198 4204	police
+T152	Device 4224 4233	computers
+T153	Organization 4260 4266	office
+T50	Person 4311 4319	Thompson
+T154	Information 4401 4405	data
+T155	Money 4448 4455	$30,000
+T156	Information 4481 4485	data
+T157	System 4567 4573	system
+T158	Campaign 4580 4586	attack
+T159	Person 4612 4620	Thompson
+T160	Organization 4629 4656	local cybersecurity company
+T161	Money 4663 4670	$10,000
+T162	Time 4671 4677	a year
+T163	Organization 4691 4712	regional municipality
+T164	Software 4719 4728	firewalls
+T165	Course-of-Action 4713 4753	build firewalls and encrypt its own data
+T166	Organization 4756 4758	We
+T167	Person 4798 4806	Thompson
+T168	Location 1878 1887	provinces
+T169	Organization 737 741	them
+T170	Organization 2498 2504	centre
+T171	Person 805 819	malware expert
+T175	Person 1428 1434	people
+T176	Information 1670 1674	data
+T172	System 3650 3664	entire network
+T177	Time 4996 5005	Every day
+T181	Pronoun 2848 2850	he
+T185	Pronoun 4460 4464	they
+T186	Pronoun 4371 4373	it
+T189	Person 1182 1185	you
+T191	Pronoun 4089 4092	you
+T193	Person 1691 1693	it
+T194	Pronoun 2996 2998	He
+T196	Pronoun 2748 2750	he
+T197	Pronoun 3898 3900	it
+T199	Pronoun 2351 2353	It
+T201	Pronoun 2843 2845	it
+*	Coreference T67 T124
+*	Coreference T118 T99 T102 T13 T80
+*	Coreference T117 T131
+*	Coreference T132 T129
+*	Coreference T134 T137
+*	Coreference T136 T111 T120 T30 T163 T126 T138
+*	Coreference T56 T150 T141 T90
+*	Coreference T156 T154
+*	Coreference T34 T41 T103 T133 T149 T43 T158 T101 T127
+*	Coreference T52 T153
+*	Coreference T61 T53 T50 T66 T159 T167
+*	Coreference T151 T144
+*	Coreference T128 T122
+*	Coreference T11 T8 T58
+*	Coreference T2 T3
+*	Coreference T74 T169
+*	Coreference T171 T78
+*	Coreference T81 T82 T86
+*	Coreference T88 T94
+*	Coreference T193 T98
+*	Coreference T63 T65
+*	Coreference T19 T60

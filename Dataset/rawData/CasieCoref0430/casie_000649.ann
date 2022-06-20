@@ -1,0 +1,63 @@
+T10	Person 450 452	He
+T14	Device 633 641	printers
+T11	System 513 542	the Line Printer Daemon (LPD)
+T12	System 544 580	the Internet Printing Protocol (IPP)
+T13	System 584 601	 the RAW protocol
+T4	Person 687 689	he
+T2	Vulnerability 720 779	an undisclosed remote command execution (RCE) vulnerability
+T3	Device 815 829	Xerox printers
+T6	Vulnerability 938 952	more RCE flaws
+T7	Attack-Pattern 993 1038	allowed him to print to over 300,000 printers
+T8	Device 871 879	printers
+T24	Hacker-Group 831 841	The hacker
+T27	Attack-Pattern 1364 1408	print rogue and sometimes offensive messages
+T25	Device 1311 1319	printers
+T21	Vulnerability 1281 1290	The issue
+T18	Person 1456 1467	researchers
+T16	Device 1595 1609	printer models
+T19	Time 1441 1450	last week
+T17	Device 1554 1570	network printers
+T20	Organization 1473 1495	Ruhr-University Bochum
+T28	Email 4 12	messages
+T29	Number 625 629	9100
+T9	Hacker-Group 130 141	 The hacker
+T30	Vulnerability 1418 1428	 the issue
+T15	Location 1499 1506	Germany
+T31	Campaign 1528 1545	different attacks
+T32	Number 1592 1594	20
+T26	Email 1390 1408	offensive messages
+T33	File 1183 1194	 the photos
+T34	Number 1224 1231	many of
+T35	Device 1231 1244	 the printers
+T36	System 1258 1279	point-of-sale systems
+T37	Device 1043 1051	printers
+T38	Email 1085 1113	 the hacker's rogue messages
+T39	Time 1117 1123	Friday
+T40	Person 1134 1139	users
+T41	Software 1148 1155	Twitter
+T42	Vulnerability 1165 1177	 the problem
+T43	Number 863 870	150,000
+T5	Number 1017 1029	over 300,000
+T22	Device 1030 1038	printers
+T1	Hacker-Group 958 960	he
+T23	Vulnerability 289 319	 the risks of leaving printers
+T44	Device 311 319	printers
+T45	System 330 343	 the internet
+T46	Hacker-Group 169 184	Stackoverflowin
+T47	Malware 201 212	 the botnet
+T48	Hacker-Group 345 360	Stackoverflowin
+T49	Person 373 395	 a high-school student
+T50	Location 400 408	 the U.K
+T51	Malware 120 129	 a botnet
+T52	Device 64 77	 the printers
+T53	Person 1001 1004	him
+T54	Person 481 483	he
+T55	Device 103 107	they
+T56	Person 1195 1199	they
+*	Coreference T21 T30
+*	Coreference T28 T26
+*	Coreference T37 T22 T25 T14 T52 T16 T35 T17 T3 T44 T8 T55
+*	Coreference T46 T48
+*	Coreference T47 T51
+*	Coreference T10 T49 T54 T4 T24 T9 T1 T53
+*	Coreference T56 T40

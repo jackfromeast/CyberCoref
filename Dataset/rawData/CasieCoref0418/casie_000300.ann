@@ -1,0 +1,139 @@
+T10	Person 357 362	users
+T8	Hacker-Group 337 344	hackers
+T11	Purpose 368 404	giving them access to their accounts
+T13	Malware 427 442	trustworthy app
+T41	Campaign 2105 2113	reported
+T43	Person 2102 2104	he
+T46	Person 2125 2132	DeMarre
+T47	Organization 2138 2144	Google
+T36	Person 1878 1885	DeMarre
+T39	Person 1891 1893	he
+T40	Vulnerability 1908 1921	attack vector
+T26	Person 1649 1656	DeMarre
+T28	Person 1664 1666	he
+T30	Organization 1674 1680	Google
+T31	Vulnerability 1701 1714	vulnerability
+T32	Time 1718 1722	2012
+T23	Campaign 1323 1340	dynamite phishing
+T7	Time 1380 1389	Wednesday
+T17	Hacker-Group 1178 1185	someone
+T19	Person 1213 1219	people
+T20	Purpose 1225 1271	giving up full access to their Google accounts
+T21	Malware 1298 1309	Google Doc.
+T22	Malware 1277 1290	malicious app
+T3	Person 107 113	people
+T1	Hacker-Group 66 73	someone
+T6	Time 177 186	Wednesday
+T5	Hacker-Group 166 173	hackers
+T4	Purpose 119 162	giving away access to their Google accounts
+T16	Organization 597 603	Google
+T15	Malware 516 537	malicious application
+T24	Campaign 1494 1511	dynamite phishing
+T25	Person 1603 1608	users
+T48	Hacker-Group 2850 2857	someone
+T53	Campaign 3178 3204	dynamite phishing campaign
+T54	Organization 3289 3304	media companies
+T55	Time 3166 3175	Wednesday
+T34	Organization 1743 1749	Google
+T56	Time 12 21	six years
+T57	Organization 23 29	Google
+T58	Number 95 106	one million
+T59	Hacker-Group 215 222	hackers
+T61	Person 292 302	researcher
+T62	Campaign 449 455	attack
+T63	Person 461 471	researcher
+T64	Attack-Pattern 505 677	creating a malicious application and registering it on the OAuth service under a name like "Google," exploiting the trust that users have in the OAuth authorization process
+T65	Person 711 716	users
+T66	Domain 726 734	websites
+T68	Malware 554 556	it
+T70	Software 650 655	OAuth
+T69	Software 564 569	OAuth
+T71	Software 679 684	OAuth
+T72	Software 738 750	applications
+T73	Information 767 810	online email and social networking accounts
+T74	Information 830 838	accounts
+T75	Software 875 877	It
+T76	Information 864 873	passwords
+T77	Domain 910 913	web
+T60	Time 273 288	October 4, 2011
+T78	Information 992 1000	accounts
+T79	Information 1015 1041	Google or Facebook account
+T80	Organization 1015 1021	Google
+T81	Organization 1025 1033	Facebook
+T82	Software 1094 1101	service
+T83	Number 1201 1212	one million
+T84	Organization 1416 1422	Google
+T85	Malware 1437 1450	malicious app
+T86	Device 1459 1473	infrastructure
+T87	Vulnerability 1758 1760	it
+T88	Software 1809 1812	app
+T89	URL 1825 1828	URL
+T90	Organization 1836 1843	company
+T91	Domain 1860 1871	Hacker News
+T37	Money 1951 1957	bounty
+T92	Vulnerability 1963 1965	it
+T93	Person 1968 1969	I
+T95	Malware 2018 2022	worm
+T94	Person 2056 2063	DeMarre
+T96	Organization 2069 2080	Motherboard
+T42	Time 2083 2095	A few months
+T44	Vulnerability 2118 2123	issue
+T45	Person 2150 2153	him
+T97	Organization 2170 2172	We
+T98	Course-of-Action 2176 2228	deploying some abuse detection and reactive measures
+T99	Hacker-Group 2242 2251	impostors
+T100	Campaign 2289 2295	attack
+T101	Organization 2309 2311	we
+T102	Course-of-Action 2329 2393	perform validation that the URL matches the branding information
+T103	Course-of-Action 1764 1853	checking to see ensure the name of any given app matched the URL of the company behind it
+T104	URL 1851 1853	it
+T105	Organization 2415 2421	Google
+T107	Course-of-Action 2452 2466	URL validation
+T108	Person 2528 2538	researcher
+T109	Malware 2589 2593	worm
+T110	Campaign 2621 2627	attack
+T111	Time 2609 2618	this week
+T112	Software 2673 2683	client app
+T113	Person 2867 2874	DeMarre
+T114	URL 2701 2706	links
+T115	Software 2762 2764	it
+T116	Malware 2798 2802	worm
+T117	Person 2805 2812	DeMarre
+T118	Time 2834 2844	five years
+T51	Malware 2899 2923	malicious Google Doc app
+T119	Hacker-Group 3004 3025	Russian hacking group
+T120	Hacker-Group 3035 3040	APT28
+T121	Hacker-Group 3044 3054	Fancy Bear
+T122	Hacker-Group 3070 3077	someone
+T123	Time 3114 3129	last five years
+T124	Campaign 3249 3251	it
+T125	Malware 3342 3344	It
+T126	Malware 3353 3355	it
+T127	Malware 2028 2036	this one
+T128	Time 1922 1931	back then
+T132	Time 1394 1408	around an hour
+T133	Person 2396 2403	DeMarre
+T136	Person 1043 1046	you
+T137	Campaign 1490 1492	it
+T150	Person 958 961	you
+T151	Person 1476 1478	We
+T153	Campaign 1521 1523	it
+T156	Hacker-Group 375 379	them
+*	Coreference T4 T20 T11
+*	Coreference T7 T55 T6
+*	Coreference T122 T48
+*	Coreference T87 T31
+*	Coreference T92 T40
+*	Coreference T93 T45 T113 T117 T133 T46 T94 T43 T36 T28 T26 T39
+*	Coreference T34 T30 T57 T84 T16 T47 T97 T105 T101 T80
+*	Coreference T89 T104
+*	Coreference T70 T69 T71 T75
+*	Coreference T8 T156
+*	Coreference T15 T68
+*	Coreference T63 T61
+*	Coreference T137 T24 T153 T23
+*	Coreference T115 T112
+*	Coreference T119 T120 T121
+T2	Attack-Pattern 2957 2966	technique
+*	Coreference T53 T124
+*	Coreference T126 T125 T51

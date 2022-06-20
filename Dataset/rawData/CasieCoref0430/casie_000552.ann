@@ -1,0 +1,135 @@
+T10	File 1556 1582	The fake job advertisement
+T12	Organization 1602 1606	Luno
+T13	Location 1671 1677	London
+T14	Information 1861 1869	its name
+T17	File 1837 1852	the fake emails
+T16	Organization 1806 1810	Luno
+T1	Organization 274 313	a European-based cryptocurrency company
+T2	Campaign 198 221	spear-phishing campaign
+T4	Hacker-Group 136 151	An attack group
+T32	Location 160 171	North Korea
+T36	Campaign 1967 1990	the latest CFO job lure
+T21	File 1991 2006	phishing emails
+T20	Person 1953 1963	recipients
+T18	File 2049 2051	it
+T23	File 2061 2077	a pop-up message
+T24	Attack-Pattern 2078 2119	inviting them to enable editing functions
+T31	Campaign 2945 2967	this phishing campaign
+T5	Campaign 780 812	the WannaCry ransomware outbreak
+T6	Time 816 819	May
+T33	Money 754 765	$81 million
+T34	Malware 951 959	WannaCry
+T7	Campaign 1103 1124	lure phishing attacks
+T8	Hacker-Group 1057 1064	Lazarus
+T9	Time 1125 1144	since at least 2016
+T30	Information 2635 2650	the job listing
+T26	Information 2684 2712	a legitimate CFO job listing
+T25	Domain 2723 2731	LinkedIn
+T27	Organization 2735 2756	a cryptocurrency firm
+T28	Location 2760 2764	Asia
+T37	Hacker-Group 0 23	Bitcoin-seeking hackers
+T38	Attack-Pattern 34 51	old-school tricks
+T41	Attack-Pattern 55 116	socially engineer would-be cryptocurrency exchange executives
+T42	Campaign 228 270	the lure of a job opening for the CFO role
+T3	Person 380 400	 The CTU researchers
+T43	Hacker-Group 409 437	 the group behind the attack
+T44	Campaign 426 437	 the attack
+T45	Hacker-Group 442 456	Nickel Academy
+T46	Hacker-Group 497 515	 the Lazarus Group
+T47	Organization 521 530	Kaspersky
+T48	IP 537 560	North Korean IP Address
+T49	Hacker-Group 564 571	Lazarus
+T50	Hacker-Group 574 584	 The group
+T51	Campaign 602 618	numerous attacks
+T52	Campaign 629 670	 the attempted theft of nearly $1 billion
+T53	Money 660 670	$1 billion
+T54	Information 675 741	 the central bank of Bangladesh's New York Federal Reserve account
+T55	Malware 843 872	cryptocurrency mining malware
+T56	Malware 879 887	Adylkuzz
+T57	Vulnerability 898 911	the same flaw
+T58	System 915 935	Windows server block
+T35	Hacker-Group 979 993	Cybercriminals
+T59	Money 997 1011	Cryptocurrency
+T60	Person 1032 1052	Security researchers
+T62	Time 1191 1211	Oct. 25 of this year
+T61	Code 1212 1231	 The malicious code
+T63	Hacker-Group 1299 1306	Lazarus
+T64	Organization 1308 1311	CTU
+T65	Location 1330 1341	North Korea
+T66	Money 1348 1356	Bitcoins
+T67	Purpose 1360 1376	Bypass Sanctions
+T69	Person 1379 1431	Researchers at Israeli cybersecurity startup Intezer
+T68	Code 1444 1453	 the code
+T70	Hacker-Group 1473 1480	Lazarus
+T71	Code 1503 1514	attack code
+T72	Time 1550 1554	2014
+T11	Software 1607 1633	 a bitcoin wallet software
+T73	Organization 1638 1661	cryptocurrency exchange
+T39	Organization 82 105	cryptocurrency exchange
+T74	File 1706 1728	 the phishing messages
+T75	Time 1739 1746	Tuesday
+T76	Person 1750 1763	Jay Rosenberg
+T77	Person 1765 1804	a senior security researcher at Intezer
+T15	Vulnerability 1886 1897	 this issue
+T78	Organization 1933 1937	Luno
+T79	Organization 1944 1948	ISMG
+T22	File 2011 2047	 an attached Microsoft Word document
+T19	Software 2184 2188	Word
+T80	Person 2120 2140	 The CTU researchers
+T81	File 2197 2215	 a malicious macro
+T82	File 2229 2242	 the document
+T83	File 2267 2277	 the macro
+T84	File 2174 2180	macros
+T85	File 2285 2302	 a decoy document
+T86	Campaign 2305 2326	the fake CFO job lure
+T87	Attack-Pattern 2340 2387	installs a first-stage remote access Trojan RAT
+T88	Malware 2363 2387	remote access Trojan RAT
+T89	Malware 2411 2419	 the RAT
+T90	Device 2433 2449	 the victim's PC
+T91	Hacker-Group 2451 2460	attackers
+T92	Attack-Pattern 2475 2517	install additional malware onto the system
+T93	Malware 2494 2501	malware
+T94	System 2506 2517	 the system
+T95	Malware 2527 2544	keystroke loggers
+T96	Malware 2469 2471	it
+T97	Attack-Pattern 2549 2566	password stealers
+T98	Person 2610 2630	 The CTU researchers
+T29	Person 2919 2935	 The researchers
+T99	Organization 3007 3011	firm
+T100	Person 3015 3025	individual
+T101	File 3093 3103	 the macro
+T102	Malware 3110 3130	 the first-stage RAT
+T103	Campaign 3138 3152	 this campaign
+T104	Campaign 3158 3174	former campaigns
+T105	Person 3176 3192	 the researchers
+T106	Code 3199 3243	 The custom command-and-control network code
+T107	Hacker-Group 3345 3352	Lazarus
+T108	Campaign 3320 3336	previous attacks
+T109	Information 3291 3301	components
+T110	Person 2771 2787	 the researchers
+T111	Hacker-Group 2797 2804	Lazarus
+T112	Person 3354 3358	they
+T113	Person 1872 1874	We
+T114	Hacker-Group 468 470	it
+T117	Person 2087 2091	them
+T118	Organization 1816 1818	it
+T120	Attack-Pattern 2259 2261	it
+T40	Person 316 362	researchers at Secureworks Counter Threat Unit
+T115	Attack-Pattern 2145 2149	this
+*	Coreference T16 T78 T12 T118
+*	Coreference T32 T65
+*	Coreference T36 T86
+*	Coreference T30 T26
+*	Coreference T18 T22
+*	Coreference T40 T3
+*	Coreference T43 T4 T45 T114 T49 T111 T46 T107 T70 T8 T63 T50
+*	Coreference T2 T44
+*	Coreference T56 T55
+*	Coreference T68 T61
+*	Coreference T77 T76
+*	Coreference T117 T20
+*	Coreference T120 T115 T24
+*	Coreference T83 T81
+*	Coreference T85 T82
+*	Coreference T96 T89
+*	Coreference T112 T105 T98 T110 T29

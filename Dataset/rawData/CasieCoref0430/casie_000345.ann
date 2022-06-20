@@ -1,0 +1,146 @@
+T23	Vulnerability 909 937	the critical vulnerabilities
+T25	Course-of-Action 1023 1028	fixed
+T24	Vulnerability 1008 1022	the 334 issues
+T2	Organization 0 6	Oracle
+T4	Time 52 59	July 18
+T5	Course-of-Action 61 67	fixing
+T6	Vulnerability 68 87	334 vulnerabilities
+T7	Course-of-Action 218 225	patched
+T8	Organization 229 235	Oracle
+T20	Software 475 508	Oracle Sun Systems Products Suite
+T19	Software 458 470	Oracle MySQL
+T18	Software 435 456	Oracle Virtualization
+T17	Software 419 433	Oracle Java SE
+T16	Software 389 417	Oracle Industry Applications
+T15	Software 370 387	Oracle Siebel CRM
+T14	Software 351 368	Oracle PeopleSoft
+T13	Software 326 349	Oracle E-Business Suite
+T12	Software 300 324	Oracle Fusion Middleware
+T11	Software 264 298	Oracle Global Lifecycle Management
+T10	System 240 262	Oracle Database Server
+T29	Vulnerability 1301 1313	three issues
+T27	System 1267 1284	namesake database
+T33	Attack-Pattern 1331 1379	remotely exploitable without user authentication
+T68	Organization 1258 1264	Oracle
+T32	Course-of-Action 1458 1465	patches
+T30	Software 1390 1420	Financial Services application
+T34	Attack-Pattern 1495 1549	being remotely exploitable without user authentication
+T69	Organization 1381 1387	Oracle
+T37	Course-of-Action 1609 1623	security fixes
+T35	Software 1560 1577	Fusion Middleware
+T70	Organization 1551 1557	Oracle
+T38	Software 1666 1700	Oracle Enterprise Manager Products
+T40	Vulnerability 1718 1727	16 issues
+T41	Attack-Pattern 1746 1789	remotely exploitable without authentication
+T46	Course-of-Action 1850 1864	security fixes
+T42	Vulnerability 1802 1807	flaws
+T43	Software 1811 1815	Java
+T44	Organization 1817 1823	Oracle
+T48	Course-of-Action 1928 1939	the patches
+T49	Organization 1873 1886	organizations
+T51	Course-of-Action 2010 2013	fix
+T50	Vulnerability 2014 2037	Java SE vulnerabilities
+T54	Course-of-Action 2193 2207	binary patches
+T55	Organization 2164 2182	Application owners
+T57	Course-of-Action 2291 2298	patches
+T58	Software 2304 2314	production
+T61	Time 2585 2591	Jan 15
+T63	Course-of-Action 2608 2615	patches
+T64	Vulnerability 2620 2629	237 flaws
+T66	Course-of-Action 2782 2788	fixing
+T67	Vulnerability 2788 2817	 the reported vulnerabilities
+T65	Organization 2746 2752	Oracle
+T1	Course-of-Action 27 48	Critical Patch Update
+T3	Organization 94 106	 the company
+T22	Organization 127 139	 The company
+T26	Number 146 148	61
+T52	Vulnerability 151 171	 the vulnerabilities
+T9	Software 204 217	 the products
+T59	Course-of-Action 555 566	 the update
+T71	Organization 568 574	Oracle
+T72	Software 586 608	third-party components
+T73	Number 631 646	the majority of
+T74	Vulnerability 646 666	 the critical issues
+T75	Vulnerability 693 723	bugs in third-party components
+T76	Number 732 760	a disproportionate amount of
+T77	Vulnerability 768 783	vulnerabilities
+T78	Course-of-Action 786 813	 this Critical Patch Update
+T79	Person 816 828	Eric Maurice
+T80	Person 830 870	director of security assurance at Oracle
+T81	Organization 864 870	Oracle
+T82	Domain 880 887	 a blog
+T83	Number 895 905	90 percent
+T21	Course-of-Action 950 977	 this Critical Patch Update
+T84	Course-of-Action 1031 1062	 the July Critical Patch Update
+T85	Time 1031 1040	 the July
+T86	Number 1064 1074	37 percent
+T87	Software 1084 1106	third-party components
+T88	Vulnerability 986 1002	non-Oracle CVEs.
+T89	Campaign 1119 1147	Oracle product distributions
+T90	Vulnerability 1160 1165	flaws
+T91	Software 1176 1197	third-party libraries
+T92	Vulnerability 1215 1220	flaws
+T93	Organization 1224 1230	Oracle
+T28	Course-of-Action 1289 1296	patched
+T94	Number 1301 1306	three
+T31	Number 1430 1457	the highest total number of
+T95	Number 1469 1471	56
+T96	Number 1478 1480	21
+T36	Number 1602 1604	44
+T97	Number 1630 1632	38
+T98	Course-of-Action 1636 1640	them
+T39	Course-of-Action 1706 1713	patched
+T99	Number 1718 1720	16
+T100	Device 1831 1834	CPU
+T45	Number 1844 1849	eight
+T47	Attack-Pattern 2068 2115	break the functionality of certain applications
+T101	Software 2103 2115	applications
+T102	Organization 2118 2139	security firm Waratek
+T103	Campaign 2149 2161	 an advisory
+T104	Time 2040 2049	 the July
+T105	Device 2050 2053	CPU
+T106	Time 1826 1830	July
+T107	Organization 2398 2404	Oracle
+T109	Software 2361 2372	application
+T110	Software 2436 2457	vulnerable components
+T111	Software 2462 2487	 its Java Development Kit
+T112	Software 2489 2492	JDK
+T113	Number 2498 2501	334
+T114	Vulnerability 2502 2513	fixed flaws
+T115	Time 2514 2523	 the July
+T116	Course-of-Action 2524 2530	update
+T117	Course-of-Action 2551 2572	Critical Patch Update
+T60	Number 2620 2623	237
+T62	Number 2637 2650	the number of
+T118	Course-of-Action 2651 2658	patches
+T119	Person 2677 2690	Matias Mevied
+T120	Person 2692 2718	Oracle security researcher
+T121	Location 2722 2729	Onapsis
+T122	Organization 2917 2931	 the companies
+T123	Course-of-Action 2944 2965	implement the patches
+T124	Organization 2977 2981	they
+T125	Person 2994 3000	Mevied
+T126	Organization 3006 3011	eWEEK
+T53	Software 2256 2275	 their applications
+T56	Software 701 723	third-party components
+*	Coreference T34 T41 T33
+*	Coreference T77 T23
+*	Coreference T1 T78 T21
+*	Coreference T93 T68 T71 T107 T69 T81 T44 T65 T70 T8 T2
+*	Coreference T100 T105
+*	Coreference T109 T53 T101
+*	Coreference T118 T54 T57 T116 T63 T123
+*	Coreference T119 T125 T120
+*	Coreference T72 T56
+*	Coreference T79 T80
+*	Coreference T37 T98
+*	Coreference T90 T92
+*	Coreference T42 T50
+*	Coreference T111 T112
+*	Coreference T122 T124
+*	Coreference T46 T48
+*	Coreference T6 T52
+*	Coreference T22 T3
+*	Coreference T91 T87
+*	Coreference T35 T12
+*	Coreference T31 T95

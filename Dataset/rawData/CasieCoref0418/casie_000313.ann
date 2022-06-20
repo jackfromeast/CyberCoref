@@ -1,0 +1,112 @@
+T3	Attack-Pattern 156 189	opening phishing emails and links
+T4	File 102 134	Hurricane Harvey-themed messages
+T5	Hacker-Group 77 85	Scammers
+T6	Purpose 223 246	steal login information
+T7	Purpose 248 276	infect machines with malware
+T8	Purpose 281 305	con victims out of money
+T2	Person 144 150	people
+T10	Attack-Pattern 772 813	set up relief funds and request donations
+T11	Hacker-Group 747 757	fraudsters
+T15	Hacker-Group 1560 1568	scammers
+T13	Person 1589 1596	victims
+T18	Person 2195 2214	prospective victims
+T16	Hacker-Group 2142 2152	fraudsters
+T19	Campaign 2368 2376	phishing
+T20	Hacker-Group 22 31	criminals
+T1	Email 164 179	phishing emails
+T22	URL 184 189	links
+T23	Domain 193 211	social media sites
+T24	Information 229 246	login information
+T25	Device 255 263	machines
+T26	Malware 269 276	malware
+T27	Person 285 292	victims
+T28	Money 300 305	money
+T29	Organization 307 314	US-CERT
+T30	Organization 318 335	cybersecurity arm
+T31	Organization 343 379	U.S. Department of Homeland Security
+T32	Time 418 424	Monday
+T33	Campaign 449 473	malicious cyber activity
+T34	Email 550 556	Emails
+T35	Organization 583 619	duplicitous charitable organizations
+T36	Campaign 700 704	scam
+T9	File 851 866	online profiles
+T37	File 871 879	personas
+T38	Number 964 976	small number
+T39	Person 980 989	followers
+T40	URL 1024 1029	links
+T41	Organization 1033 1053	accredited charities
+T42	Person 1096 1106	Zack Allen
+T43	Person 1108 1133	threat operations manager
+T44	Organization 1137 1144	ZeroFOX
+T45	Organization 1148 1190	social media-focused cybersecurity startup
+T46	Campaign 1201 1205	ruse
+T47	Hacker-Group 1225 1239	Cybercriminals
+T48	Person 1370 1372	he
+T49	Email 1385 1390	email
+T50	Organization 1394 1401	Fortune
+T51	Organization 815 822	Fortune
+T52	Person 1404 1410	People
+T53	Person 1514 1521	victims
+T12	Purpose 1600 1649	donate to their fraudulent Hurricane Harvey cause
+T14	Person 1652 1665	Kevin Epstein
+T54	Person 1667 1681	vice president
+T55	Organization 1706 1716	Proofpoint
+T56	Number 1725 1730	1.21%
+T59	Time 1799 1810	recent days
+T60	Person 1811 1813	he
+T61	File 1877 1882	video
+T62	File 1931 1945	PDF attachment
+T63	Number 2000 2002	11
+T64	Person 2044 2050	people
+T65	Information 2080 2094	email username
+T66	Information 2099 2107	password
+T67	Person 2109 2111	he
+T68	Organization 2117 2124	Fortune
+T69	Attack-Pattern 1927 2107	One PDF attachment titled “hurricane harvey – nueces county news release 11 – it’s your chance to help.pdf” prompted people, when opened, to enter their email username and password
+T70	Location 1973 1986	nueces county
+T17	Hacker-Group 2231 2240	attackers
+T71	Campaign 2278 2285	attacks
+T72	Person 2293 2307	Oren Falkowitz
+T73	Person 2309 2312	CEO
+T74	Organization 2316 2330	Area1 Security
+T75	Organization 2334 2355	cybersecurity startup
+T76	Person 2378 2380	He
+T77	Campaign 2392 2399	attacks
+T78	Course-of-Action 2528 2557	keep your software up to date
+T79	Time 2462 2468	recent
+T80	Hacker-Group 2559 2566	Hackers
+T81	Device 2591 2598	devices
+T82	Software 2607 2624	outdated software
+T83	Vulnerability 2634 2648	security holes
+T84	Course-of-Action 2658 2683	be careful what you click
+T85	Person 2786 2794	contacts
+T86	Person 2799 2803	they
+T87	Course-of-Action 2843 2918	be sure the organizations to which you’re contributing money are legitimate
+T88	Organization 2855 2868	organizations
+T89	Money 2898 2903	money
+T90	Organization 2945 2964	reputable charities
+T91	Organization 2978 2985	Fortune
+T92	Organization 2987 2994	US-CERT
+T93	Course-of-Action 3014 3084	reviewing these safety guidelines from by the Federal Trade Commission
+T94	File 3030 3047	safety guidelines
+T95	Organization 3060 3084	Federal Trade Commission
+T96	Course-of-Action 3137 3237	cross-checking organizations on this directory of national charities from the Better Business Bureau
+T97	Organization 3152 3165	organizations
+T98	File 3174 3183	directory
+T99	Organization 3187 3205	national charities
+T100	Organization 3215 3237	Better Business Bureau
+T101	Number 2940 2944	some
+T102	Number 943 950	several
+T104	Person 2495 2498	you
+T107	Person 2751 2754	You
+*	Coreference T29 T92 T30
+*	Coreference T91 T50 T68 T51
+*	Coreference T48 T43 T42
+*	Coreference T60 T54 T14 T67
+*	Coreference T45 T44
+T21	Organization 1735 1784	cybersecurity firm that provides email protection
+*	Coreference T55 T21
+*	Coreference T73 T72 T76
+*	Coreference T74 T75
+*	Coreference T77 T71
+*	Coreference T85 T86

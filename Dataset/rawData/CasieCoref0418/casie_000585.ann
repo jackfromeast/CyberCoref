@@ -1,0 +1,51 @@
+T11	Hacker-Group 345 352	hackers
+T2	Organization 30 50	the mass media giant
+T3	Hacker-Group 72 79	hackers
+T4	Organization 116 124	the firm
+T5	Attack-Pattern 128 157	threatening to release a film
+T14	Organization 925 944	the streaming giant
+T16	Organization 1351 1357	Disney
+T19	Campaign 1728 1734	ransom
+T6	Hacker-Group 158 162	they
+T1	Campaign 98 110	extort money
+T20	Person 185 222	The CEO of the entertainment behemoth
+T21	Person 228 258	ABC employees of the stand-off
+T22	Location 264 293	town hall meeting in New York
+T23	Organization 317 339	The Hollywood Reporter
+T24	Information 295 311	multiple sources
+T8	Money 404 411	Bitcoin
+T9	Money 381 400	substantial payment
+T25	Campaign 1793 1810	criminal activity
+T26	Hacker-Group 1826 1834	bad guys
+T27	Campaign 1846 1860	future attacks
+T12	Organization 576 592	film in question
+T13	Time 744 755	next Friday
+T28	Hacker-Group 686 693	hackers
+T17	Campaign 1377 1387	the ransom
+T7	File 1436 1440	film
+T18	Information 1449 1475	unofficial or dodgy source
+T29	Time 1488 1519	a month before or a month after
+T30	Person 1564 1566	he
+T32	Organization 1579 1592	film industry
+T31	Time 1645 1650	1960s
+T33	Hacker-Group 817 823	hacker
+T34	File 439 471	five minutes of the unnamed film
+T36	File 481 508	subsequent 20-minute chunks
+T38	File 611 647	blockbuster Pirates of the Caribbean
+T39	Time 799 809	last month
+T40	Organization 982 989	Netflix
+T41	Campaign 972 980	instance
+T42	Organization 1006 1023	production vendor
+T43	Organization 1040 1056	major TV studios
+T44	Organization 1114 1127	organizations
+T45	Course-of-Action 1173 1187	cyber-defenses
+T46	Person 1192 1215	those of their partners
+T47	Person 1217 1227	Mark James
+T48	Person 1229 1256	security specialist at Eset
+T49	Vulnerability 1615 1628	piracy issues
+T10	Person 0 11	Disney boss
+T50	Person 12 20	Bob Iger
+*	Coreference T10 T50
+*	Coreference T6 T3
+*	Coreference T9 T8
+*	Coreference T47 T48 T30

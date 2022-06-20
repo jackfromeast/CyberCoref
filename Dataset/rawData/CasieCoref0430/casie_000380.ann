@@ -1,0 +1,94 @@
+T6	Money 355 373	 the ransom demand
+T7	Hacker-Group 317 331	cybercriminals
+T8	Person 389 395	victim
+T10	Organization 404 415	enterprises
+T12	Hacker-Group 463 467	they
+T11	Person 474 483	consumers
+T2	Money 61 65	$294
+T3	Time 69 73	2015
+T5	Time 84 93	last year
+T4	Money 77 83	$1,077
+T14	Person 560 566	people
+T15	Person 511 529	ransomware victims
+T16	Number 4 18	average amount
+T17	Time 126 135	last week
+T18	Organization 139 147	Symantec
+T1	Campaign 21 41	 a ransomware demand
+T19	Person 191 202	Kevin Haley
+T20	Person 204 245	director of security response at Symantec
+T21	Person 300 305	Haley
+T22	Hacker-Group 252 260	bad guys
+T24	Hacker-Group 285 289	they
+T9	Number 434 448	larger amounts
+T25	Money 452 457	money
+T26	Attack-Pattern 337 483	adjust the size of the ransom demand to the type of victim, asking enterprises for significantly larger amounts of money than they do of consumers
+T27	Organization 484 496	 The company
+T13	Course-of-Action 567 582	paid the ransom
+T30	Money 571 582	 the ransom
+T31	Location 599 608	 the U.S.
+T32	Number 609 620	 the number
+T33	Number 625 635	64 percent
+T35	Person 678 705	cybersecurity professionals
+T36	Campaign 640 658	 this money coming
+T34	Person 708 710	We
+T37	Number 721 731	a lot more
+T38	Person 732 765	people investing in this business
+T39	Campaign 751 765	 this business
+T40	Campaign 775 777	it
+T41	Campaign 802 804	it
+T42	Person 833 835	he
+T43	Malware 866 873	malware
+T44	Malware 884 894	ransomware
+T45	System 937 960	 The Internet of Things
+T46	Organization 999 1007	Symantec
+T47	Organization 1016 1032	 an IoT honeypot
+T49	Number 1038 1051	the number of
+T50	Campaign 1052 1059	attacks
+T51	Number 1067 1074	doubled
+T52	Time 1079 1098	 the course of 2016
+T53	Campaign 1117 1124	attacks
+T54	Person 1142 1145	him
+T55	Person 1147 1152	Haley
+T56	Campaign 1166 1179	peak activity
+T57	Campaign 1181 1188	attacks
+T58	Time 1203 1220	every two minutes
+T59	Device 1238 1256	vulnerable devices
+T60	Time 1283 1293	as soon as
+T61	Device 1294 1298	they
+T62	System 1315 1328	 the internet
+T63	Person 1330 1332	he
+T64	Attack-Pattern 1238 1328	vulnerable devices would get infected almost as soon as they are connected to the internet
+T65	Device 1352 1354	it
+T66	Time 1439 1451	grace period
+T67	Device 1460 1471	 the device
+T68	Information 1484 1503	 a default password
+T70	Device 1536 1538	it
+T71	Number 1553 1557	most
+T72	Campaign 1560 1574	 those attacks
+T73	Person 1577 1579	he
+T74	Course-of-Action 1460 1534	 the device is not using a default password, is patched, and is up to date
+T75	Person 1602 1604	we
+T76	Number 1625 1633	a lot of
+T77	Device 1634 1641	devices
+T78	Information 1657 1674	default passwords
+T79	Information 1679 1695	simple passwords
+T80	Course-of-Action 1713 1720	patched
+T81	Number 1722 1729	 The 77
+T82	Number 1754 1769	 a wide variety
+T83	Number 1811 1814	131
+T84	Email 1815 1821	emails
+T85	URL 1831 1848	 a malicious link
+T86	File 1852 1862	attachment
+T87	Number 1863 1880	 the highest rate
+T88	Time 1884 1894	five years
+T102	Pronoun 1577 1579	he
+*	Coreference T18 T46 T27
+*	Coreference T55 T21 T19 T20 T63 T42 T54
+*	Coreference T12 T7
+*	Coreference T24 T22
+*	Coreference T15 T14
+*	Coreference T59 T65
+*	Coreference T67 T70
+*	Coreference T39 T40 T41
+*	Coreference T53 T50
+*	Coreference T57 T72

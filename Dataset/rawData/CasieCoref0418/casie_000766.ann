@@ -1,0 +1,81 @@
+T3	Campaign 163 184	email phishing attack
+T4	Organization 194 225	two US-based internet companies
+T2	Hacker-Group 123 137	Lithuanian man
+T1	Time 93 98	March
+T6	Campaign 279 291	been tricked
+T5	Organization 260 264	They
+T7	Purpose 297 303	wiring
+T37	Money 314 319	$100m
+T38	Hacker-Group 335 342	scammer
+T13	Hacker-Group 479 498	Evaldas Rimasauskas
+T9	Organization 526 549	Asia-based manufacturer
+T40	Hacker-Group 441 444	man
+T11	Organization 567 576	companies
+T12	Time 582 606	at least 2013 until 2015
+T15	Campaign 636 645	were sent
+T14	File 609 635	Fraudulent phishing emails
+T16	Person 649 658	employees
+T17	Person 663 669	agents
+T18	Organization 673 693	the victim companies
+T41	Purpose 711 753	conducted multimillion-dollar transactions
+T24	Campaign 920 934	were sent from
+T25	Email 935 949	email accounts
+T22	Organization 882 897	Asia-based firm
+T21	Person 865 874	employees
+T29	Campaign 1064 1071	forging
+T32	File 1096 1103	letters
+T31	File 1082 1091	contracts
+T30	File 1072 1080	invoices
+T28	Hacker-Group 1046 1060	Mr Rimasauskas
+T33	Campaign 1110 1126	falsely appeared
+T36	Organization 1188 1208	the victim companies
+T35	Person 1178 1184	agents
+T34	Person 1163 1173	executives
+T19	Organization 995 1002	company
+T27	Email 837 843	emails
+T42	Organization 11 19	Facebook
+T43	Organization 0 6	Google
+T44	Money 71 76	$100m
+T45	Money 78 82	£77m
+T46	Organization 50 56	victim
+T47	Time 363 371	27 April
+T48	Organization 399 410	two victims
+T49	Organization 416 424	Facebook
+T50	Organization 429 435	Google
+T51	Number 500 502	48
+T8	Person 1311 1322	spokeswoman
+T10	Organization 1327 1333	Google
+T20	Organization 1247 1269	vendor management team
+T23	Campaign 1229 1234	fraud
+T26	Money 1464 1469	money
+T39	Organization 1435 1439	firm
+T52	Organization 1511 1519	Facebook
+T53	Person 1528 1539	spokeswoman
+T54	Organization 1547 1555	Facebook
+T55	Person 1382 1384	we
+T57	Person 1212 1214	We
+T58	Person 1356 1358	We
+T59	Organization 1470 1472	it
+T62	Email 972 976	they
+*	Coreference T37 T44 T45
+*	Coreference T15 T24
+*	Coreference T16 T21
+*	Coreference T17 T35
+*	Coreference T46 T56 T36
+*	Coreference T43 T10 T50 T39 T59
+T56	Organization 40 44	they
+T63	Campaign 84 88	scam
+*	Coreference T38 T2 T40 T13 T28
+*	Coreference T49 T42 T52 T54
+*	Coreference T63 T3 T60 T23 T67
+T60	Campaign 473 477	scam
+T61	Organization 785 815	US Department of Justice (DOJ)
+*	Coreference T27 T14
+T64	Organization 759 778	[the Asian] company
+*	Coreference T11 T64 T18 T22 T19
+T65	Organization 1029 1032	DOJ
+*	Coreference T65 T61 T66
+T66	Organization 903 906	DOJ
+*	Coreference T62 T25
+*	Coreference T58 T8 T57
+T67	Campaign 1606 1614	incident

@@ -1,0 +1,40 @@
+T15	Person 443 455	the advisory
+T17	Vulnerability 434 441	The bug
+T18	Organization 469 475	Splunk
+T21	Software 590 607	Splunk Enterprise
+T22	Software 767 779	Splunk Light
+T19	Vulnerability 572 581	The issue
+T28	Version 608 635	versions 6.5.x before 6.5.3
+T30	Version 637 655	6.4.x before 6.4.6
+T32	Version 657 676	6.3.x before 6.3.10
+T34	Version 678 699	6.2.x before 6.2.13.1
+T29	Version 701 720	6.1.x before 6.1.13
+T31	Version 722 741	6.0.x before 6.0.14
+T33	Version 743 762	5.0.x before 5.0.18
+T35	Version 780 792	before 6.5.2
+T2	Vulnerability 19 25	a slip
+T3	Organization 0 6	Splunk
+T23	Organization 798 809	the company
+T26	Version 833 845	all versions
+T4	Information 70 86	user information
+T11	Information 245 257	the username
+T6	Campaign 134 142	the leak
+T10	Attack-Pattern 200 229	visiting a malicious Web page
+T8	Person 173 194	an authenticated user
+T7	Hacker-Group 154 165	an attacker
+T12	Hacker-Group 349 360	an attacker
+T14	Purpose 406 432	get the user's credentials
+T1	Course-of-Action 11 25	patched a slip
+T5	Code 520 552	 the proof-of-concept JavaScript
+T9	Course-of-Action 814 845	issued patches for all versions
+T13	Purpose 368 394	follow-up phishing attacks
+T16	Person 283 287	user
+T20	Campaign 378 394	phishing attacks
+T24	Information 409 432	 the user's credentials
+T25	Domain 208 229	 a malicious Web page
+T27	Campaign 231 233	It
+*	Coreference T17 T19
+*	Coreference T18 T3
+*	Coreference T34 T30 T35 T31 T28 T32 T33 T29
+*	Coreference T7 T12
+*	Coreference T6 T27

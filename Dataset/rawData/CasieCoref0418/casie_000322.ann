@@ -1,0 +1,137 @@
+T11	System 370 391	mobile communications
+T13	Information 488 492	data
+T17	Time 523 532	this week
+T41	Vulnerability 567 580	vulnerability
+T41	Vulnerability 567 580	vulnerability
+T18	Attack-Pattern 616 650	execute a memory-corruption attack
+T25	Vulnerability 1196 1229	multiple baseband vulnerabilities
+T26	Person 1177 1185	Weinmann
+T42	System 787 803	HiSilicon Balong
+T39	Organization 59 83	security firm Comsecuris
+T38	Person 38 55	managing director
+T6	Device 188 202	IoT components
+T5	Device 163 182	laptop WWAN modules
+T4	Device 143 161	Huawei smartphones
+T27	Campaign 707 713	attack
+T7	Person 4 36	researcher Ralf-Phillip Weinmann
+T1	Vulnerability 101 132	zero-day baseband vulnerability
+T2	Software 216 224	firmware
+T3	Device 233 244	smartphones
+T28	System 259 276	cellular networks
+T30	Campaign 281 297	make voice calls
+T8	Hacker-Group 321 329	attacker
+T29	Vulnerability 342 356	baseband flaws
+T9	Attack-Pattern 334 492	exploit baseband flaws to eavesdrop mobile communications, take over the device making calls and sending SMS messages to premium numbers or to exfiltrate data
+T10	Person 455 470	premium numbers
+T12	Person 498 504	expert
+T14	Vulnerability 518 522	flaw
+T16	Hacker-Group 603 612	attackers
+T15	Campaign 626 650	memory-corruption attack
+T22	Vulnerability 749 771	baseband vulnerability
+T20	Device 815 828	4G LTE modems
+T21	Device 834 862	Balong application processor
+T31	Device 873 878	Kirin
+T32	Device 880 882	it
+T33	Organization 902 924	Hisilicon Technologies
+T34	Organization 928 961	subsidiary of Huawei Technologies
+T35	System 967 984	affected firmware
+T36	Number 999 1006	several
+T37	Device 1007 1031	Huawei Honor smartphones
+T40	Device 1047 1050	P10
+T43	Device 1052 1065	Huawei Mate 9
+T44	Device 1067 1074	Honor 9
+T45	Device 1076 1077	7
+T46	Device 1079 1081	5c
+T47	Device 1086 1087	6
+T48	Person 1089 1097	Weinmann
+T49	Number 1112 1123	millions of
+T50	Device 1124 1141	Honor smartphones
+T51	Campaign 1169 1175	attack
+T23	Device 1243 1270	Kirin application processor
+T24	Person 1276 1282	expert
+T52	Device 1307 1314	laptops
+T53	Device 1351 1384	HiSilicon Balong integrated modem
+T54	Person 1327 1337	IT vendors
+T55	Number 1394 1402	a number
+T56	Device 1403 1414	IoT devices
+T57	Software 1422 1430	baseband
+T58	Device 1468 1477	basebands
+T59	Person 1530 1536	vendor
+T60	Code 1560 1571	source code
+T61	Device 1580 1588	baseband
+T62	Person 1608 1616	Weinmann
+T63	Device 1655 1663	baseband
+T64	Campaign 1707 1727	device experimenting
+T65	Campaign 1738 1753	network testing
+T66	Person 1756 1764	Weinmann
+T67	Organization 1776 1785	HiSilicon
+T68	Code 1814 1831	Kirin source code
+T69	Information 1887 1915	Huawei H60 Linux kernel data
+T70	Person 1845 1854	developer
+T71	Person 1917 1925	Weinmann
+T72	Number 1939 1946	several
+T73	Device 1972 1985	mobile phones
+T74	Person 2028 2038	researcher
+T75	Device 2061 2079	bogus base station
+T76	Malware 2086 2106	open-source software
+T77	Malware 2114 2121	OpenLTE
+T79	Hacker-Group 2141 2149	attacker
+T80	Attack-Pattern 2153 2180	simulate a network operator
+T81	Person 2164 2180	network operator
+T82	Hacker-Group 2186 2194	attacker
+T83	Attack-Pattern 2199 2296	send specially crafted packets over the air that trigger a stack buffer overflow in the LTE stack
+T84	Purpose 2297 2323	causing the phone crashing
+T85	Protocol 2287 2290	LTE
+T86	Device 2334 2339	phone
+T87	Hacker-Group 2352 2360	attacker
+T88	Purpose 2365 2402	gain persistence installing a rootkit
+T89	Software 2395 2402	rootkit
+T90	Campaign 2416 2422	attack
+T91	Hacker-Group 2437 2445	attacker
+T92	Device 2476 2481	phone
+T93	Information 2486 2497	private key
+T94	Information 2503 2507	data
+T95	Attack-Pattern 2514 2553	install malicious tools on the firmware
+T96	Malware 2522 2537	malicious tools
+T97	System 2545 2553	firmware
+T98	Information 2568 2580	key material
+T100	Person 2608 2615	carrier
+T101	Device 2627 2635	SIM card
+T102	Purpose 2648 2712	pass the mutual authentication between the phone and the network
+T103	Device 2691 2696	phone
+T104	System 2705 2712	network
+T105	Information 2727 2739	key material
+T106	Device 2743 2755	base station
+T107	System 2773 2786	legit network
+T108	Device 2799 2805	device
+T109	Person 2808 2816	Weinmann
+T110	Version 2878 2911	evaluation version of VxWorks 7.0
+T111	Time 2944 2961	several years ago
+T112	Device 2930 2943	Intel Galileo
+T113	System 2843 2850	VxWorks
+T114	Person 2967 2973	expert
+T115	Software 3008 3033	Lua scripting interpreter
+T116	Device 3049 3057	baseband
+T117	Person 3064 3067	him
+T118	Person 3095 3103	Weinmann
+T119	Information 3125 3142	technical details
+T120	Hacker-Group 3152 3165	threat actors
+T121	Person 3317 3325	Weinmann
+*	Coreference T22 T41 T25 T14 T1
+*	Coreference T21 T23 T31 T32
+*	Coreference T33 T34
+*	Coreference T54 T59
+*	Coreference T60 T68
+*	Coreference T75 T106
+*	Coreference T98 T105
+T125	Software 204 212	Baseband
+*	Coreference T114 T117
+*	Coreference T7 T38 T118 T109 T62 T71 T66 T121 T48 T26
+T19	Device 659 675	affected devices
+*	Coreference T27 T15 T51
+*	Coreference T125 T2
+*	Coreference T61 T57 T63
+*	Coreference T77 T76
+*	Coreference T82 T79
+*	Coreference T87 T91
+T78	Campaign 303 316	transmit data

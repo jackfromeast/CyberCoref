@@ -1,0 +1,62 @@
+T4	Organization 0 5	CIsco
+T2	Course-of-Action 17 33	a critical patch
+T3	Course-of-Action 49 86	a Cisco Prime License Manager SQL fix
+T11	Organization 109 111	it
+T5	Organization 88 93	Cisco
+T6	Time 94 103	this week
+T8	Course-of-Action 120 138	a “critical” patch
+T9	Software 143 183	its Prime License Manager (PLM) software
+T10	Attack-Pattern 195 235	let attackers execute random SQL queries
+T16	Course-of-Action 501 504	fix
+T17	Organization 476 481	Cisco
+T13	Time 371 379	November
+T14	Version 385 398	first version
+T15	Course-of-Action 406 433	Prime License Manager patch
+T18	Vulnerability 441 470	its own “functional” problems
+T20	Vulnerability 574 591	SQL vulnerability
+T22	Course-of-Action 511 516	patch
+T26	Course-of-Action 744 784	ciscocm.CSCvk30822_v1.0.k3.cop.sgn patch
+T27	Course-of-Action 807 847	ciscocm.CSCvk30822_v2.0.k3.cop.sgn patch
+T30	Version 899 903	v2.0
+T36	Software 1470 1497	Cisco Prime License Manager
+T34	Vulnerability 1448 1461	vulnerability
+T21	Version 1498 1523	Releases 11.0.1 and later
+T1	Software 51 78	Cisco Prime License Manager
+T24	Hacker-Group 199 208	attackers
+T25	Software 241 268	Cisco Prime License Manager
+T39	Campaign 338 357	license fulfillment
+T12	Course-of-Action 525 559	ciscocm.CSCvk30822_v1.0.k3.cop.sgn
+T19	Organization 670 675	Cisco
+T40	Organization 682 687	Cisco
+T41	Time 652 661	no longer
+T42	Person 700 709	customers
+T23	Vulnerability 865 882	functional issues
+T28	Course-of-Action 904 909	patch
+T29	Version 934 938	v1.0
+T31	Course-of-Action 939 944	patch
+T32	Version 966 970	v2.0
+T33	Course-of-Action 971 976	patch
+T43	Vulnerability 990 1003	vulnerability
+T44	Organization 1031 1036	Cisco
+T45	Campaign 1066 1083	proper validation
+T46	Person 1087 1091	user
+T47	Code 1110 1121	SQL queries
+T48	Code 217 235	random SQL queries
+T49	Hacker-Group 1126 1134	attacker
+T50	Vulnerability 1154 1167	vulnerability
+T51	Attack-Pattern 1171 1270	sending crafted HTTP POST requests that contain malicious SQL statements to an affected application
+T52	Software 1250 1270	affected application
+T53	Code 1219 1243	malicious SQL statements
+T54	Protocol 1187 1191	HTTP
+T55	Hacker-Group 1309 1317	attacker
+T56	Attack-Pattern 1321 1441	modify and delete arbitrary data in the PLM database or gain shell access with the privileges of the postgres [SQL] user
+T57	Information 1339 1353	arbitrary data
+T58	Software 1361 1373	PLM database
+T59	Person 1422 1441	postgres [SQL] user
+T60	Pronoun 1042 1044	it
+*	Coreference T2 T8
+*	Coreference T9 T36 T25
+*	Coreference T40 T4 T44 T17 T5 T19 T11
+*	Coreference T23 T43 T34 T50
+*	Coreference T15 T22 T12 T26
+*	Coreference T49 T55

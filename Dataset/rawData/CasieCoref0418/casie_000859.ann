@@ -1,0 +1,143 @@
+T11	Campaign 757 779	previously compromised
+T12	Organization 780 800	third-party services
+T10	Campaign 733 751	have been obtained
+T9	Information 712 721	passwords
+T8	Information 692 707	email addresses
+T41	Information 684 688	list
+T4	Campaign 559 585	have not been any breaches
+T5	System 604 611	systems
+T6	System 622 628	iCloud
+T7	System 633 641	Apple ID
+T29	Campaign 2554 2560	extort
+T31	Campaign 2571 2583	ransom money
+T30	Organization 2561 2566	Apple
+T13	Campaign 828 841	are demanding
+T17	Hacker-Group 803 810	Hackers
+T15	Campaign 848 851	pay
+T18	Money 857 864	$75,000
+T14	Organization 842 847	Apple
+T16	Hacker-Group 852 856	them
+T20	Campaign 886 890	give
+T21	Hacker-Group 891 895	them
+T22	Money 896 904	$100,000
+T1	Purpose 345 357	extort money
+T2	Organization 363 368	Apple
+T3	Hacker-Group 226 232	crooks
+T38	Attack-Pattern 238 265	credential stuffing attacks
+T36	Campaign 3545 3561	extortion scheme
+T37	Hacker-Group 3499 3512	the criminals
+T39	Hacker-Group 3524 3544	Turkish Crime Family
+T33	Campaign 2704 2712	breaches
+T32	Information 2670 2680	credential
+T34	Time 2713 2731	over the past year
+T35	Hacker-Group 2743 2750	hackers
+T24	Campaign 2059 2071	were exposed
+T26	Information 2047 2058	credentials
+T28	Time 2019 2028	last year
+T42	Hacker-Group 1746 1748	it
+T43	Hacker-Group 3056 3058	it
+T44	Person 1826 1828	he
+T45	Person 1361 1363	he
+T46	Hacker-Group 998 1000	it
+T48	Person 21 25	they
+T50	Hacker-Group 2968 2970	it
+T51	Person 208 212	they
+T52	Pronoun 500 502	me
+T53	Person 1651 1653	He
+T54	Person 1319 1321	he
+T19	Person 0 16	Security experts
+*	Coreference T19 T48 T51 T73
+T23	Hacker-Group 47 63	group of hackers
+T27	Hacker-Group 71 91	Turkish Crime Family
+*	Coreference T23 T27 T3 T61 T62 T17 T16 T21 T49 T46 T72 T82 T42 T88 T113 T50 T115 T43 T119 T122 T123 T37 T39
+T40	Number 120 140	hundreds of millions
+T55	Information 144 176	Apple iCloud account credentials
+T56	Number 277 291	limited number
+T57	Information 301 316	Apple usernames
+T58	Information 321 330	passwords
+T59	Organization 301 306	Apple
+T60	Organization 144 149	Apple
+*	Coreference T60 T59 T2 T66 T67 T14 T79 T83 T101 T30 T112 T125 T126
+T61	Hacker-Group 389 398	the group
+T62	Hacker-Group 425 445	Turkish Crime Family
+T63	Number 476 487	750 million
+*	Coreference T40 T63
+T64	Information 519 534	email addresses
+T65	Information 539 550	credentials
+*	Coreference T55 T65 T70 T76 T80 T84
+T66	Organization 596 601	Apple
+T67	Organization 644 649	Apple
+*	Coreference T64 T8
+*	Coreference T58 T9 T78
+T47	Money 868 882	cryptocurrency
+T49	Hacker-Group 983 992	the group
+T68	System 1036 1042	iCloud
+*	Coreference T6 T68 T93
+T69	Information 1021 1025	data
+T70	Information 1107 1128	breached account data
+T71	Organization 1141 1146	ZDNet
+T72	Hacker-Group 1154 1161	hackers
+T73	Person 1183 1199	security experts
+T74	Person 1208 1217	Troy Hunt
+T75	Person 1298 1302	Hunt
+*	Coreference T74 T75 T54 T45 T81 T53
+T76	Information 1400 1413	breached data
+T77	Information 1473 1481	username
+T78	Information 1486 1494	password
+*	Coreference T57 T77
+T79	Organization 1534 1539	Apple
+T80	Information 1581 1592	credentials
+T81	Person 1640 1644	Hunt
+T82	Hacker-Group 1663 1683	Turkish Crime Family
+T83	Organization 1723 1728	Apple
+T84	Information 1723 1740	Apple credentials
+T85	Person 1757 1809	Shuman Ghosemajumder, CTO of the firm Shape Security
+T86	Organization 1815 1825	Threatpost
+T87	Organization 1308 1318	Threatpost
+*	Coreference T87 T86
+*	Coreference T85 T44 T98 T109
+T88	Hacker-Group 1842 1849	hackers
+T89	Attack-Pattern 1864 1891	credential stuffing attacks
+*	Coreference T38 T89 T96 T106
+T90	Information 1899 1903	data
+T91	Campaign 1909 1926	previous breaches
+T92	Number 1949 1968	undetermined number
+T93	System 1972 1978	iCloud
+T94	Information 1972 1987	iCloud accounts
+T95	Information 1036 1051	iCloud accounts
+*	Coreference T95 T94 T100 T108 T111 T114 T117 T124 T127
+T96	Attack-Pattern 2094 2113	credential stuffing
+T97	Number 2035 2046	3.3 billion
+T98	Person 2161 2174	Ghosemajumder
+T99	Hacker-Group 2274 2281	hackers
+T100	Information 2345 2359	Apple accounts
+T101	Organization 2345 2350	Apple
+T102	Information 2298 2309	information
+T103	Information 2221 2225	data
+T104	Information 2389 2400	credentials
+T105	Hacker-Group 2436 2443	someone
+T106	Attack-Pattern 2454 2484	credential stuffing techniques
+T107	Number 2504 2521	convincing number
+T108	Information 2531 2539	accounts
+T109	Person 2586 2599	Ghosemajumder
+T110	Person 2606 2652	Patrick Wardle, director of research at Synack
+*	Coreference T91 T33 T25
+T111	Information 2797 2823	iCloud account credentials
+T112	Organization 2843 2848	Apple
+T113	Hacker-Group 2890 2910	Turkish Crime Family
+T25	Campaign 2076 2084	breaches
+T114	Information 2948 2967	account credentials
+T115	Hacker-Group 3037 3046	the group
+T116	Number 3063 3074	200 million
+T117	Information 3075 3086	credentials
+T118	Number 3101 3112	750 million
+T119	Hacker-Group 3118 3131	hacking group
+T120	Number 3259 3270	750 million
+T121	Number 3284 3295	250 million
+*	Coreference T118 T120
+T122	Hacker-Group 3219 3228	the group
+T123	Hacker-Group 3345 3354	the group
+T124	Information 3271 3282	credentials
+T125	Organization 3367 3372	Apple
+T126	Organization 3378 3380	it
+T127	Information 3437 3450	user accounts

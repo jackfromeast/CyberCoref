@@ -1,0 +1,103 @@
+T1	Course-of-Action 6 13	patches
+T2	Organization 0 5	Cisco
+T3	Vulnerability 14 27	a severe flaw
+T4	Software 31 57	switch deployment software
+T5	Attack-Pattern 67 115	be attacked with crafted messages sent to a port
+T7	Organization 140 145	Cisco
+T12	Vulnerability 257 307	three critical remote code execution security bugs
+T8	Course-of-Action 159 166	patches
+T9	Vulnerability 171 189	34 vulnerabilities
+T16	Course-of-Action 358 366	 a patch
+T17	Vulnerability 374 386	critical bug
+T18	Vulnerability 387 400	CVE-2018-0171
+T14	Organization 340 345	Cisco
+T13	Vulnerability 317 339	the most serious issue
+T29	Course-of-Action 1582 1587	patch
+T28	Organization 1572 1578	admins
+T11	System 207 245	its IOS and IOS XE networking software
+T20	Software 411 424	Smart Install
+T24	Organization 687 704	the security firm
+T23	Organization 679 685	Embedi
+T22	Vulnerability 716 724	the flaw
+T25	Device 843 850	devices
+T26	Organization 813 815	it
+T59	Campaign 759 771	be exploited
+T61	System 795 802	network
+T60	Organization 778 792	 an enterprise
+T62	Attack-Pattern 631 677	 a denial of service or execute arbitrary code
+T56	Vulnerability 1507 1536	proof-of-concept exploit code
+T57	Organization 1475 1487	 The company
+T35	Vulnerability 1737 1745	the flaw
+T36	Organization 1719 1725	Embedi
+T37	Time 1746 1755	last year
+T39	Vulnerability 1839 1841	it
+T40	Organization 1845 1850	Cisco
+T41	Time 1854 1863	September
+T42	Vulnerability 1905 1921	a critical issue
+T43	Software 1925 1944	its IOS XE software
+T44	Vulnerability 1946 1959	CVE-2018-0150
+T63	Organization 1865 1870	Cisco
+T48	Attack-Pattern 2068 2143	could use this account to remotely connect to a device running the software
+T47	Organization 2039 2044	Cisco
+T49	Organization 2145 2160	Cisco engineers
+T51	Vulnerability 2172 2185	CVE-2018-0151
+T52	Vulnerability 2187 2214	a remote code execution bug
+T53	System 2218 2235	the QoS subsystem
+T54	System 2239 2242	IOS
+T55	System 2247 2253	IOS XE
+T33	File 1632 1663	a crafted Smart Install message
+T30	Attack-Pattern 1605 1620	exploit the bug
+T31	Person 1589 1600	An attacker
+T64	Number 1159 1170	8.5 million
+T65	Device 1171 1178	devices
+T66	Protocol 1381 1394	port TCP 4786
+T67	Number 1128 1135	250,000
+T68	Device 1147 1154	devices
+T69	System 887 917	 a securely configured network
+T70	Device 1308 1315	devices
+T71	Person 1463 1469	Embedi
+T6	Protocol 2361 2375	UDP port 18999
+T10	Vulnerability 2260 2273	vulnerability
+T15	Hacker-Group 2398 2410	 An attacker
+T19	Vulnerability 2424 2443	 this vulnerability
+T21	Attack-Pattern 2447 2472	sending malicious packets
+T27	Device 2488 2494	device
+T32	Vulnerability 2521 2525	bugs
+T34	Device 2391 2397	device
+T38	Protocol 1684 1697	TCP port 4786
+T73	Person 1116 1118	we
+T75	Vulnerability 1765 1767	it
+T77	Vulnerability 745 747	it
+T45	Software 480 524	Cisco IOS Software and Cisco IOS XE Software
+T46	Software 425 440	 a Cisco client
+T50	Software 581 592	 the client
+T58	Attack-Pattern 551 559	attacker
+T72	Software 919 932	Smart Install
+T78	Course-of-Action 964 1002	not be accessible through the internet
+T79	Campaign 1045 1049	this
+T80	Person 1070 1076	Embedi
+T81	Software 1214 1227	Smart Install
+T82	Device 1261 1287	Cisco routers and switches
+T83	Software 1353 1371	 the Smart Install
+T74	Device 1666 1680	 these devices
+T76	Organization 1712 1717	Cisco
+T84	Hacker-Group 2055 2067	 an attacker
+T85	Information 1984 1996	user account
+T86	Information 2078 2090	this account
+T87	Software 2130 2143	 the software
+T88	Organization 2504 2509	Cisco
+*	Coreference T16 T1 T8 T29
+*	Coreference T36 T71 T23 T24 T26 T57
+*	Coreference T40 T7 T47 T14 T2 T63 T76 T88
+*	Coreference T31 T15 T84
+*	Coreference T66 T38
+*	Coreference T34 T27 T65 T70 T68 T82 T74
+*	Coreference T13 T17 T18 T22 T35 T77 T75 T39
+*	Coreference T20 T46 T50 T72 T81 T83
+*	Coreference T11 T45
+*	Coreference T78 T79
+*	Coreference T80 T73
+*	Coreference T85 T86
+*	Coreference T43 T87
+*	Coreference T51 T52 T10 T19
+*	Coreference T12 T32

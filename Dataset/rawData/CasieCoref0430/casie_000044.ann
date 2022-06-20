@@ -1,0 +1,98 @@
+T8	Vulnerability 468 482	CVE-2018-17182
+T10	System 420 443	Linux memory management
+T9	Vulnerability 372 387	 The kernel bug
+T51	Vulnerability 390 416	 a cache invalidation flaw
+T52	Campaign 484 492	reported
+T6	Person 496 520	Linux kernel maintainers
+T7	Time 524 536	September 12
+T16	Person 657 661	Horn
+T17	Vulnerability 670 680	 the issue
+T13	System 579 603	his upstream kernel tree
+T12	Person 538 566	Linux founder Linus Torvalds
+T14	Time 604 617	two weeks ago
+T58	Time 640 656	single day after
+T25	Vulnerability 698 700	it
+T21	Version 746 761	releases 4.18.9
+T22	Version 763 770	4.14.71
+T23	Version 772 779	4.9.128
+T24	Version 785 792	4.4.157
+T56	System 718 745	 the upstream stable kernel
+T27	Version 816 831	release 3.16.58
+T20	Course-of-Action 806 812	 a fix
+T29	Vulnerability 1035 1045	 the issue
+T31	Vulnerability 1175 1189	security issue
+T33	Time 1240 1250	2018-09-18
+T40	Time 1277 1287	2018-09-19
+T36	Time 1401 1410	Wednesday
+T35	Person 1357 1361	Horn
+T39	Vulnerability 1634 1643	 the flaw
+T38	Vulnerability 1509 1519	 the issue
+T54	Version 1490 1495	18.04
+T53	Version 1471 1485	releases 16.04
+T41	Version 1453 1459	stable
+T19	System 1464 1470	Ubuntu
+T26	Course-of-Action 1525 1550	 the latest kernel update
+T57	Time 1567 1583	 a month earlier
+T47	Course-of-Action 1882 1887	fixes
+T48	Time 1916 1922	Monday
+T49	Time 1924 1933	October 1
+T50	Organization 1788 1797	Canonical
+T4	Person 0 9	Jann Horn
+T2	Vulnerability 60 95	 the Meltdown and Spectre CPU flaws
+T55	Person 10 45	 the Google Project Zero researcher
+T44	Course-of-Action 1755 1761	 a fix
+T45	Time 1774 1786	22 September
+T1	Person 117 149	maintainers of Ubuntu and Debian
+T3	System 132 138	Ubuntu
+T59	System 143 149	Debian
+T60	Course-of-Action 178 199	kernel security fixes
+T61	Person 201 204	you
+T62	Person 216 221	users
+T63	Time 234 239	weeks
+T64	Time 246 263	earlier this week
+T65	Person 241 245	Horn
+T66	Code 277 289	ugly exploit
+T67	System 295 307	Ubuntu 18.04
+T68	Attack-Pattern 316 370	takes about an hour to run before popping a root shell
+T5	Time 686 697	within days
+T11	Vulnerability 573 575	it
+T15	Person 846 874	users of Linux distributions
+T18	System 855 874	Linux distributions
+T69	System 903 915	distribution
+T70	Course-of-Action 916 963	merges the changes from upstream stable kernels
+T71	System 940 963	upstream stable kernels
+T72	Person 974 979	users
+T73	Course-of-Action 980 1008	install that updated release
+T28	System 1102 1121	Linux distributions
+T30	Hacker-Group 1126 1144	would-be attackers
+T74	Course-of-Action 1308 1354	ship new distribution kernels to users clearer
+T75	System 1313 1337	new distribution kernels
+T76	Person 1341 1346	users
+T77	Time 1435 1444	Wednesday
+T78	System 1446 1452	Debian
+T37	Time 1613 1626	several weeks
+T42	System 1707 1726	 the Fedora project
+T43	Person 1765 1770	users
+T79	Organization 1798 1813	 the UK company
+T80	System 1829 1835	Ubuntu
+T46	Vulnerability 1957 1977	 the last kernel bug
+T81	Person 1978 2002	Project Zero researchers
+T82	System 2020 2026	Ubuntu
+T83	System 2031 2056	other Linux distributions
+T84	Course-of-Action 2083 2104	upstream kernel fixes
+T88	Person 2106 2110	they
+T89	Person 1419 1421	he
+T85	Domain 1206 1236	 the oss-security mailing list
+T32	Person 1688 1697	end users
+*	Coreference T56 T71 T13
+*	Coreference T33 T40
+*	Coreference T36 T77
+*	Coreference T44 T20 T47
+*	Coreference T4 T16 T35 T65 T55 T89
+*	Coreference T59 T78
+*	Coreference T43 T76 T32 T75 T28 T18 T15 T83 T69 T62 T72
+*	Coreference T82 T3 T80 T67 T19
+*	Coreference T9 T51 T2 T8 T11 T17 T29 T38 T25 T31 T39
+*	Coreference T26 T73
+*	Coreference T50 T79
+*	Coreference T49 T48

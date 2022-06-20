@@ -1,0 +1,88 @@
+T2	Hacker-Group 139 146	hackers
+T3	Information 156 160	data
+T5	System 0 28	The Internet of Things (IoT)
+T6	Number 40 66	an unprecedented number of
+T7	Device 67 84	unsecured devices
+T8	System 92 100	Internet
+T9	Time 101 110	every day
+T1	Purpose 150 207	steal data and to launch Denial of Service Attacks (DDoS)
+T10	Device 215 222	devices
+T11	Device 249 260	thermostats
+T12	Device 262 275	refrigerators
+T13	Device 277 288	pet feeders
+T14	Device 290 297	cameras
+T15	Device 299 317	healthcare devices
+T16	Device 323 327	more
+T17	Organization 329 336	Gartner
+T18	Time 355 359	2020
+T19	Number 361 371	50 Billion
+T20	System 383 389	things
+T21	System 406 414	internet
+T22	Campaign 428 454	escalation of DDoS attacks
+T23	Code 477 487	Mirai code
+T24	Attack-Pattern 498 618	opened the door for hackers to create their own code to access the vast varieties of IoT devices to be leveraged as bots
+T25	Code 546 550	code
+T26	Number 561 582	the vast varieties of
+T27	Device 583 594	IoT devices
+T28	Purpose 631 658	launch massive DDoS attacks
+T29	Number 638 645	massive
+T30	Campaign 646 658	DDoS attacks
+T31	Hacker-Group 718 725	hackers
+T32	Code 746 756	Mirai code
+T33	Attack-Pattern 760 811	boost the impact of their DDoS attacks as evidenced
+T34	Campaign 786 798	DDoS attacks
+T35	Time 856 864	12.2-day
+T36	Campaign 865 876	DDoS attack
+T37	Hacker-Group 925 932	hackers
+T38	Device 958 968	Smart Dust
+T39	Device 970 980	Smart Dust
+T40	Device 1015 1026	small chips
+T41	System 1040 1092	system of tiny microelectromechanical systems (MEMS)
+T42	Device 1101 1108	sensors
+T43	Device 1110 1116	robots
+T44	Device 1127 1134	devices
+T45	Device 1250 1263	internet host
+T46	Device 1313 1318	chips
+T47	Time 1380 1385	years
+T48	Device 1394 1408	external power
+T49	Person 1410 1432	Professor Julie McCann
+T50	Course-of-Action 1433 1582	takes her inspiration from nature for writing algorithms that allow distributed wireless networks to become self-organizing, adaptive and intelligent
+T51	Course-of-Action 1158 1263	gather and send sensory data such as temperature, vibration, GPS coordinates and more to an internet host
+T52	Code 1479 1489	algorithms
+T53	System 1501 1530	distributed wireless networks
+T54	Device 1584 1594	Smart Dust
+T55	Course-of-Action 1653 1752	integrate into a variety of products including food or merchandise packaging as a means of tracking
+T56	Number 1668 1680	a variety of
+T58	Campaign 1700 1729	food or merchandise packaging
+T57	Device 1754 1764	Smart Dust
+T59	Number 1779 1791	a variety of
+T60	Course-of-Action 1855 1921	connected and capable of communicating to the internet via 6LoWPAN
+T61	System 1901 1909	internet
+T62	Protocol 1914 1921	6LoWPAN
+T63	System 1958 1968	these MEMs
+T64	Device 2000 2014	external power
+T65	Hacker-Group 2016 2023	hackers
+T66	Attack-Pattern 2063 2147	access these unsecured MEMs that can be used to create massively distributed botnets
+T67	Organization 2086 2090	MEMs
+T68	System 2118 2147	massively distributed botnets
+T69	Time 2246 2251	years
+T70	Campaign 2159 2189	definitive end-of-life process
+T71	System 2233 2241	Internet
+T72	Person 2267 2279	Jordan Duffy
+T73	Person 2281 2335	a serial entrepreneur and technology innovation expert
+T74	System 2354 2372	internet of things
+T75	Course-of-Action 2428 2467	Ownership and responsibility guidelines
+T76	Device 2508 2531	next generation sensors
+T77	Device 2586 2596	Smart Dust
+T78	System 2640 2659	Internet of Zombies
+*	Coreference T23 T32
+*	Coreference T34 T30 T36 T22
+*	Coreference T48 T64
+*	Coreference T54 T77 T57 T38 T39
+*	Coreference T21 T8
+T4	Campaign 175 200	Denial of Service Attacks
+T82	Campaign 202 206	DDoS
+*	Coreference T4 T82
+*	Coreference T40 T46
+*	Coreference T72 T73
+*	Coreference T67 T63

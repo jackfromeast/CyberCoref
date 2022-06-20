@@ -1,0 +1,110 @@
+T3	Course-of-Action 53 65	patch update
+T6	Organization 0 5	Adobe
+T99	Time 110 120	last month
+T4	Vulnerability 135 149	a hundred bugs
+T7	Course-of-Action 165 182	The patch release
+T9	Software 191 202	Adobe Flash
+T10	Software 204 222	Acrobat and Reader
+T11	Software 224 242	Experience Manager
+T12	Software 248 262	Creative Cloud
+T21	Organization 382 387	Adobe
+T20	Time 376 380	July
+T30	Software 569 580	Adobe Flash
+T28	Vulnerability 517 547	a critical code execution flaw
+T45	Vulnerability 952 961	five bugs
+T46	Software 965 976	Adobe Flash
+T47	Vulnerability 915 934	The vulnerabilities
+T49	Vulnerability 978 1004	An out of bounds read flaw
+T50	Vulnerability 1006 1020	CVE-2018-12824
+T51	Vulnerability 1023 1046	a security bypass error
+T52	Vulnerability 1048 1062	CVE-2018-12825
+T53	Vulnerability 1065 1107	two information disclosure vulnerabilities
+T54	Vulnerability 1109 1123	CVE-2018-12826
+T55	Vulnerability 1125 1139	CVE-2018-12827
+T57	Vulnerability 1175 1189	CVE-2018-12828
+T58	Vulnerability 1146 1173	a privilege escalation flaw
+T73	Software 1580 1608	Adobe Creative Cloud Desktop
+T72	Vulnerability 1564 1576	a single bug
+T68	Version 1619 1637	versions 4.5.0.324
+T69	Version 1642 1658	earlier versions
+T92	Attack-Pattern 1790 1823	escalate privileges on an account
+T91	Vulnerability 1730 1743	CVE-2018-5003
+T90	Vulnerability 1697 1728	The DLL hijacking vulnerability
+T74	Campaign 2068 2077	reporting
+T75	Vulnerability 2078 2086	the bugs
+T81	Person 1899 1910	Researchers
+T76	Organization 1916 1949	Trend Micro's Zero Day Initiative
+T77	Organization 1951 1969	Palo Alto Networks
+T78	Organization 1971 1990	Google Project Zero
+T79	Organization 1992 1999	TenCent
+T80	Organization 2005 2035	Cognizant Technology Solutions
+T27	Software 498 511	Adobe Acrobat
+T26	Vulnerability 459 479	The majority of bugs
+T31	Vulnerability 582 599	The critical bugs
+T33	Software 623 641	Adobe Acrobat 2017
+T34	Software 643 653	Acrobat DC
+T35	Software 659 676	Acrobat Reader DC
+T37	Device 680 706	Windows and macOS machines
+T18	Vulnerability 264 290	Two of the vulnerabilities
+T17	Software 353 371	Acrobat and Reader
+T39	Organization 708 722	The tech giant
+T36	Vulnerability 769 797	an out of bounds write issue
+T43	Vulnerability 749 767	the security flaws
+T41	Vulnerability 819 859	an untrusted pointer dereference problem
+T44	Vulnerability 861 875	CVE-2018-12799
+T40	Attack-Pattern 881 913	lead to arbitrary code execution
+T38	Vulnerability 799 813	CVE-2018-12808
+T84	Course-of-Action 2128 2135	patches
+T85	Time 2091 2098	Tuesday
+T88	Course-of-Action 2247 2257	the update
+T89	Vulnerability 2262 2286	zero-day vulnerabilities
+T96	Vulnerability 1465 1479	security flaws
+T59	Campaign 1363 1380	have been patched
+T66	Software 1384 1408	Adobe Experience Manager
+T60	Vulnerability 1348 1361	CVE-2018-5005
+T61	Vulnerability 1316 1346	cross-site scripting (XSS) bug
+T62	Vulnerability 1295 1309	CVE-2018-12807
+T63	Vulnerability 1270 1293	input validation bypass
+T64	Vulnerability 1253 1267	CVE-2018-12806
+T65	Vulnerability 1214 1251	A reflected cross-site scripting flaw
+T14	Version 1409 1421	versions 6.0
+T93	Version 1425 1428	6.4
+T94	System 1436 1445	platforms
+T70	System 1662 1677	Windows systems
+T89	Vulnerability 2262 2286	zero-day vulnerabilities
+T1	Course-of-Action 10 36	resolved 11 security flaws
+T5	Course-of-Action 388 412	issued a security update
+T8	Course-of-Action 419 457	patched a total of 112 vulnerabilities
+T13	Code 733 767	exploitation of the security flaws
+T15	Course-of-Action 1205 1212	patched
+T16	Attack-Pattern 1484 1549	facilitate sensitive information disclosure and data modification
+T19	Information 1495 1516	sensitive information
+T22	Hacker-Group 1778 1786	attacker
+T23	Information 1816 1823	account
+T25	Organization 1825 1830	Adobe
+T29	Person 1847 1852	users
+T32	Course-of-Action 1853 1874	update their software
+T42	Number 2175 2177	19
+T2	Number 19 21	11
+T48	Vulnerability 22 36	security flaws
+T24	Vulnerability 442 457	vulnerabilities
+T56	Number 438 441	112
+T67	Number 2155 2157	60
+T71	Vulnerability 2158 2173	vulnerabilities
+T82	Number 2209 2212	Two
+T83	Vulnerability 2213 2234	severe security flaws
+*	Coreference T11 T66
+*	Coreference T12 T73
+*	Coreference T25 T21 T6
+*	Coreference T9 T30 T46
+*	Coreference T3 T88 T84 T15
+*	Coreference T10 T17
+*	Coreference T36 T38
+*	Coreference T41 T44
+*	Coreference T49 T50
+*	Coreference T51 T52
+*	Coreference T58 T57
+*	Coreference T65 T64
+*	Coreference T63 T62
+*	Coreference T61 T60
+*	Coreference T90 T91

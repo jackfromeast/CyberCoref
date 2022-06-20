@@ -1,0 +1,51 @@
+T20	Vulnerability 1131 1155	security vulnerabilities
+T21	System 1159 1207	supervisory control and data acquisition systems
+T22	Purpose 1225 1265	remotely control critical infrastructure
+T29	Organization 1063 1080	 The Russian firm
+T1	Organization 0 26	U.S. intelligence agencies
+T2	Organization 46 75	 a Russian cybersecurity firm
+T3	Vulnerability 107 135	 the network vulnerabilities
+T4	Device 138 158	 the electrical grid
+T5	Device 160 177	financial markets
+T6	Device 182 211	other critical infrastructure
+T7	Organization 237 270	Moscow’s Federal Security Service
+T8	Organization 271 305	 the civilian intelligence service
+T9	Organization 331 343	 the company
+T10	Organization 347 355	 the FSB
+T11	Organization 359 374	 the spy agency
+T12	Organization 412 444	U.S. cyberintelligence officials
+T13	Location 450 456	Moscow
+T15	Attack-Pattern 460 486	stepping up covert efforts
+T16	System 501 609	computer networks that control critical U.S. infrastructure such as oil and gas pipelines and transportation
+T14	Organization 610 630	 The Russian company
+T17	Organization 654 675	 a U.S. branch office
+T18	Campaign 686 713	 the intelligence-gathering
+T23	Person 720 729	officials
+T24	Person 791 800	Officials
+T25	Organization 828 840	 the company
+T26	Organization 858 860	it
+T27	Person 879 897	security officials
+T28	Organization 919 948	government security officials
+T30	Person 953 982	industry cybersecurity chiefs
+T31	Organization 988 1005	 the Russian firm
+T32	Campaign 1031 1041	operations
+T33	Location 1044 1062	 the United States
+T19	Device 1266 1280	 These systems
+T34	Organization 1302 1312	government
+T35	Person 1317 1350	private-sector system controllers
+T36	Device 1373 1405	water treatment and distribution
+T37	Device 1407 1442	wastewater collection and treatment
+T38	Device 1444 1465	oil and gas pipelines
+T39	Device 1467 1489	electrical power grids
+T40	Device 1491 1501	wind farms
+T41	System 1506 1533	large communication systems
+*	Coreference T20 T3
+*	Coreference T22 T6
+*	Coreference T4 T39
+*	Coreference T9 T31 T25 T14 T2 T29 T26
+*	Coreference T8 T7
+*	Coreference T11 T10 T17
+*	Coreference T12 T1
+*	Coreference T24 T23 T27
+*	Coreference T32 T18
+*	Coreference T19 T21

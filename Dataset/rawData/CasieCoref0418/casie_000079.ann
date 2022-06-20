@@ -1,0 +1,116 @@
+T52	Attack-Pattern 1498 1528	lead to information disclosure
+T51	Vulnerability 1461 1485	privilege escalation bug
+T49	Vulnerability 1418 1432	CVE-2018-15967
+T50	Vulnerability 1403 1416	security flaw
+T54	Organization 1542 1551	Microsoft
+T55	Vulnerability 1563 1581	same vulnerability
+T56	Attack-Pattern 1608 1666	enabled attackers to perform remote code execution attacks
+T7	Software 159 169	ColdFusion
+T8	Software 227 263	web application development platform
+T6	Organization 101 106	Adobe
+T5	Time 92 99	Tuesday
+T92	Version 170 180	version 11
+T10	Vulnerability 275 300	six of the security flaws
+T12	Vulnerability 322 354	The first set of vulnerabilities
+T13	Vulnerability 358 372	CVE-2018-15965
+T14	Vulnerability 374 388	CVE-2018-15957
+T15	Vulnerability 390 404	CVE-2018-15958
+T16	Vulnerability 410 424	CVE-2018-15959
+T17	Vulnerability 490 504	CVE-2018-15961
+T19	Vulnerability 510 523	security flaw
+T20	Attack-Pattern 530 563	permits unrestricted file uploads
+T21	Vulnerability 589 607	final critical bug
+T18	Vulnerability 609 623	CVE-2018-15960
+T99	Attack-Pattern 699 729	cause arbitrary file overwrite
+T98	Vulnerability 668 687	known vulnerability
+T96	Vulnerability 762 776	security flaws
+T97	Attack-Pattern 781 813	lead to arbitrary code execution
+T59	Organization 1752 1757	Adobe
+T58	Vulnerability 1801 1816	vulnerabilities
+T69	Person 2037 2047	Nick Bloor
+T68	Organization 2006 2031	Gsrc from Venustech-Adlab
+T67	Person 1970 1985	Matthias Kaiser
+T66	Person 1948 1959	researchers
+T65	Organization 1929 1939	tech giant
+T64	Vulnerability 2079 2094	vulnerabilities
+T90	Organization 1989 2004	Code White GmbH
+T91	Organization 2051 2060	Cognitous
+T85	Attack-Pattern 2529 2551	lead to code execution
+T4	Course-of-Action 43 87	the company's latest round of security fixes
+T3	Course-of-Action 19 39	six critical updates
+T2	Organization 0 5	Adobe
+T24	Software 835 845	ColdFusion
+T23	Vulnerability 815 831	Three other bugs
+T25	Vulnerability 871 885	CVE-2018-15962
+T33	Attack-Pattern 1175 1191	cause data leaks
+T32	Vulnerability 1091 1104	security flaw
+T31	Vulnerability 1065 1079	CVE-2018-15964
+T30	Attack-Pattern 1015 1059	permit attackers to create arbitrary folders
+T29	Vulnerability 983 1002	security bypass bug
+T28	Vulnerability 963 977	CVE-2018-15963
+T27	Attack-Pattern 931 961	lead to information disclosure
+T26	Vulnerability 891 895	flaw
+T34	Organization 1193 1198	Adobe
+T36	Course-of-Action 1204 1218	released a fix
+T37	Software 1223 1241	Adobe Flash Player
+T41	Software 1300 1305	Flash
+T47	Version 1365 1396	versions 30.0.0.154 and earlier
+T38	System 1245 1260	desktop Windows
+T39	System 1262 1267	macOS
+T40	Device 1273 1287	Linux machines
+T42	Software 1310 1323	Google Chrome
+T43	System 1327 1334	Windows
+T44	System 1336 1341	macOS
+T45	System 1343 1348	Linux
+T46	System 1354 1363	Chrome OS
+T61	Course-of-Action 1875 1903	accept the automatic updates
+T62	Time 1904 1923	as soon as possible
+T72	Course-of-Action 2135 2162	Adobe's August patch update
+T70	Course-of-Action 2101 2123	month's security fixes
+T73	Vulnerability 2173 2190	11 security flaws
+T75	Vulnerability 2216 2240	critical vulnerabilities
+T78	Software 2280 2297	Acrobat Reader DC
+T77	Software 2264 2274	Acrobat DC
+T76	Software 2244 2262	Adobe Acrobat 2017
+T79	Device 2301 2327	Windows and macOS machines
+T84	Software 2406 2424	Adobe Photoshop CC
+T83	Course-of-Action 2380 2401	out-of-schedule patch
+T80	Organization 2352 2362	tech giant
+T81	Time 2336 2346	same month
+T87	Vulnerability 2454 2476	memory corruption bugs
+T89	Software 2484 2501	creative software
+T86	Course-of-Action 2426 2445	The security update
+T1	Course-of-Action 144 150	update
+T9	Version 197 219	2016 and 2018 releases
+T11	Attack-Pattern 442 475	deserialization of untrusted data
+T101	Software 571 579	software
+T22	Software 903 921	directory listings
+T95	Hacker-Group 1022 1031	attackers
+T100	Vulnerability 1145 1164	known vulnerability
+T102	Attack-Pattern 1119 1164	use of a component with a known vulnerability
+T35	Hacker-Group 1616 1625	attackers
+T48	Campaign 1659 1666	attacks
+T53	Person 1869 1874	users
+*	Coreference T52 T27
+*	Coreference T7 T24
+*	Coreference T97 T85 T56
+*	Coreference T34 T59 T2 T6 T60 T65 T80
+*	Coreference T39 T44
+*	Coreference T75 T58 T64 T73
+*	Coreference T89 T101
+*	Coreference T3 T1
+*	Coreference T19 T17
+*	Coreference T21 T18
+*	Coreference T25 T26
+*	Coreference T29 T28
+*	Coreference T31 T32
+*	Coreference T96 T10
+*	Coreference T100 T98
+*	Coreference T43 T38
+*	Coreference T40 T45
+*	Coreference T50 T49 T51 T55
+T57	Organization 1677 1686	Microsoft
+T60	Organization 1727 1732	Adobe
+*	Coreference T57 T54
+*	Coreference T86 T83
+*	Coreference T42 T46

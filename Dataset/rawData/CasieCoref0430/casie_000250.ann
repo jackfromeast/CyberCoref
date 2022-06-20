@@ -1,0 +1,86 @@
+T2	Campaign 1561 1575	recent attacks
+T3	Organization 1579 1588	hospitals
+T4	Malware 1622 1632	ransomware
+T1	Attack-Pattern 1653 1725	hold operationally critical assets hostage with the threat of human harm
+T5	Purpose 1831 1850	the ransom demanded
+T6	Person 1810 1811	I
+T7	Person 408 412	they
+T8	Person 1338 1342	They
+T9	Person 457 461	they
+T10	Vulnerability 1475 1479	them
+T11	Person 695 697	we
+T12	Person 1163 1167	They
+T13	Hacker-Group 2133 2137	them
+T14	Person 314 318	they
+T15	Device 1350 1354	them
+T16	Person 0 2	We
+T17	Malware 16 26	ransomware
+T18	System 37 44	Windows
+T19	System 49 62	Linux systems
+T20	System 67 71	Macs
+T21	Device 73 88	Android devices
+T22	Device 90 99	smart TVs
+T23	Attack-Pattern 109 129	 a ransomware scheme
+T24	Person 140 152	iPhone users
+T25	Malware 182 189	malware
+T26	Campaign 211 240	ransomware-wielding criminals
+T27	Person 200 207	targets
+T28	Person 253 269	individual users
+T29	Hacker-Group 286 297	 the crooks
+T30	Organization 347 357	businesses
+T31	Organization 362 375	organizations
+T32	Information 382 395	critical data
+T33	System 400 407	systems
+T34	Attack-Pattern 424 431	encrypt
+T35	Attack-Pattern 439 452	make unusable
+T36	Organization 476 485	hospitals
+T37	Organization 490 519	other healthcare institutions
+T38	Organization 521 533	universities
+T39	Organization 538 545	schools
+T40	Organization 547 565	police departments
+T41	Organization 570 592	transportation systems
+T42	Organization 598 608	businesses
+T43	Person 732 755	 A group of researchers
+T44	Organization 761 819	Georgia Tech School of Electrical and Computer Engineering
+T45	Malware 855 865	ransomware
+T46	Purpose 875 932	compromising and fiddling with industrial control systems
+T47	System 906 932	industrial control systems
+T48	Person 933 942	 The team
+T49	Malware 966 993	proof-of-concept ransomware
+T50	Software 1004 1034	programmable logic controllers
+T51	Software 1036 1040	PLCs
+T52	Time 1045 1064	RSA Conference 2017
+T53	Time 1068 1074	Monday
+T54	Hacker-Group 1087 1096	 a hacker
+T55	Attack-Pattern 1103 1161	disrupt the regular functioning of a water treatment plant
+T56	Device 1137 1161	 a water treatment plant
+T57	Campaign 1195 1207	 this attack
+T58	Attack-Pattern 1223 1253	identifying severs common PLCs
+T59	Software 1249 1253	PLCs
+T60	Device 1264 1285	industrial facilities
+T61	Device 1317 1324	devices
+T62	Number 1301 1306	three
+T63	Vulnerability 1359 1374	security issues
+T64	Vulnerability 1383 1413	weak authentication mechanisms
+T65	Vulnerability 1418 1452	susceptibility to settings changes
+T66	Device 1485 1490	pumps
+T67	Device 1492 1497	tubes
+T68	Device 1502 1507	tanks
+T69	Hacker-Group 1747 1756	attackers
+T70	System 1795 1807	ICS networks
+T71	Purpose 1774 1807	shift their focus on ICS networks
+T72	Campaign 1853 1865	 these cases
+T73	System 1926 1947	 the physical systems
+T74	Hacker-Group 2041 2055	 the attackers
+T75	Organization 2075 2094	government agencies
+*	Coreference T28 T27
+*	Coreference T14 T29 T7 T9
+*	Coreference T11 T16
+*	Coreference T48 T43 T12 T8
+*	Coreference T49 T45
+*	Coreference T51 T50 T59
+*	Coreference T53 T52
+*	Coreference T15 T61
+*	Coreference T10 T63
+*	Coreference T72 T2
+*	Coreference T13 T74 T69

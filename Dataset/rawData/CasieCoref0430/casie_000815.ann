@@ -1,0 +1,41 @@
+T1	Campaign 387 399	are exposing
+T2	Person 380 386	people
+T3	Information 400 410	their data
+T4	Hacker-Group 414 428	cybercriminals
+T5	Number 293 304	52 per cent
+T6	Time 186 198	January 2017
+T7	Campaign 95 118	cybersecurity incidents
+T8	Organization 13 37	cybersecurity firm Avast
+T9	Number 512 523	116 million
+T10	Device 524 540	Windows machines
+T11	Course-of-Action 648 677	keeping your software updated
+T12	Person 751 763	Ondrej Vlcek
+T13	Person 765 789	Chief Technology Officer
+T14	Organization 791 828	GM and EVP Consumer Business at Avast
+T15	Person 866 874	PC users
+T16	Vulnerability 950 965	vulnerabilities
+T17	Hacker-Group 903 916	savvy hackers
+T18	Campaign 890 897	attacks
+T19	Course-of-Action 1084 1090	update
+T20	Software 993 1010	outdated software
+T21	Malware 481 491	ransomware
+T22	Person 1057 1061	they
+T23	Person 39 42	you
+T25	Organization 120 125	Avast
+T27	Organization 228 240	 the company
+T28	Software 308 354	 the most popular PC applications are outdated
+T29	Organization 366 371	Avast
+T30	Malware 469 476	malware
+T31	Device 432 447	 their machines
+T32	Course-of-Action 617 638	 your security habits
+T33	Software 839 858	outdated programmes
+T34	Software 574 594	out-of-date programs
+T35	Person 980 986	people
+T36	Course-of-Action 1023 1030	updates
+*	Coreference T8 T25 T27 T29
+*	Coreference T31 T10
+*	Coreference T32 T11
+*	Coreference T12 T13 T14
+*	Coreference T28 T33 T34 T20
+*	Coreference T17 T4
+*	Coreference T2 T15 T35 T22

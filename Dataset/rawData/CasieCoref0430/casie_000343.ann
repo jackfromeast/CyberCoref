@@ -1,0 +1,82 @@
+T21	Hacker-Group 27 37	fraudsters
+T22	Organization 101 108	schools
+T32	Person 251 271	government officials
+T34	Attack-Pattern 276 307	socially engineering the victim
+T33	Purpose 313 342	giving them the email address
+T35	Organization 211 233	education institutions
+T26	Organization 643 680	 the Department for Work and Pensions
+T27	Organization 690 707	telecom providers
+T6	Organization 855 859	they
+T3	Attack-Pattern 442 482	a .zip attachment loaded with ransomware
+T2	Money 517 522	£8000
+T17	Person 1902 1915	the recipient
+T37	File 1826 1837	 The emails
+T28	Campaign 709 737	The newly reported incidents
+T5	Purpose 785 815	get ransomware on the networks
+T30	Campaign 1561 1572	new tactics
+T8	Purpose 1585 1620	deliver the Petya variant GoldenEye
+T7	Attack-Pattern 1642 1675	using fake job application emails
+T10	Campaign 1677 1693	The new campaign
+T9	Person 1716 1724	HR staff
+T13	Campaign 1779 1794	masquerading as
+T12	Attack-Pattern 1731 1778	the ransomware hidden in a malicious attachment
+T14	File 1795 1799	a CV
+T16	Person 0 9	UK police
+T24	Attack-Pattern 27 85	fraudsters are posing as Department of Education officials
+T19	Purpose 95 135	trick schools into installing ransomware
+T20	Organization 136 152	 An Action Fraud
+T15	Hacker-Group 172 187	 the fraudsters
+T31	Attack-Pattern 234 271	pretending to be government officials
+T38	Information 324 342	 the email address
+T39	Person 296 307	 the victim
+T40	Purpose 376 411	send across “sensitive information”
+T41	Email 427 432	email
+T1	Purpose 504 543	demand up to £8000 to recover the files
+T42	Information 533 543	 the files
+T43	Organization 545 557	Action Fraud
+T11	Hacker-Group 601 616	 the fraudsters
+T25	Purpose 631 707	calling from the Department for Work and Pensions, or even telecom providers
+T44	Campaign 765 781	tactics designed
+T4	Money 915 930	 a high penalty
+T29	Attack-Pattern 912 964	pay a high penalty to gain access back to their data
+T45	Information 953 964	 their data
+T46	Hacker-Group 979 986	hackers
+T47	URL 1001 1018	 the weakest link
+T48	Person 1041 1045	user
+T49	Person 1113 1121	teachers
+T50	Email 1163 1172	 an email
+T51	Organization 1177 1205	 the Department of Education
+T52	Attack-Pattern 1210 1236	these sophisticated mimics
+T53	Course-of-Action 1136 1236	tell the difference between an email from the Department of Education and these sophisticated mimics
+T54	Person 1246 1257	Fraser Kyne
+T55	Person 1259 1267	EMEA CTO
+T56	Organization 1271 1278	Bromium
+T57	Hacker-Group 1281 1288	Hackers
+T58	Course-of-Action 1412 1446	detection tools and user education
+T59	Organization 1383 1387	they
+T60	Organization 1331 1344	 the industry
+T61	Person 1432 1436	user
+T62	Campaign 1484 1491	attacks
+T63	File 1669 1675	emails
+T64	Purpose 1709 1724	target HR staff
+T65	Vulnerability 1850 1865	 a harmless PDF
+T66	Vulnerability 1869 1884	covering letter
+T18	Purpose 1897 1946	lull the recipient into a false sense of security
+T67	Person 1947 1958	 the vendor
+T68	Hacker-Group 320 324	them
+T23	Person 52 85	Department of Education officials
+T36	Person 1451 1453	we
+*	Coreference T32 T23
+*	Coreference T20 T43
+*	Coreference T21 T15 T68
+*	Coreference T46 T57
+*	Coreference T48 T61
+*	Coreference T60 T59
+*	Coreference T27 T6
+*	Coreference T22 T39
+*	Coreference T4 T2
+*	Coreference T42 T45
+*	Coreference T54 T55
+*	Coreference T56 T36
+*	Coreference T10 T30
+*	Coreference T65 T66

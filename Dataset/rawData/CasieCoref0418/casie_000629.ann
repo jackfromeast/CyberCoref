@@ -1,0 +1,109 @@
+T19	Device 1583 1604	point-of-sale devices
+T21	Malware 1630 1637	malware
+T22	Information 1645 1668	credit card information
+T41	Device 1678 1699	card’s magnetic strip
+T11	Information 755 787	PERSONAL identifying information
+T10	Information 799 804	names
+T9	Information 806 815	addresses
+T8	Information 817 840	social security numbers
+T7	Information 846 861	email addresses
+T12	Information 937 956	credit card numbers
+T35	Information 1102 1117	cardholder data
+T3	Time 42 46	2017
+T5	Time 161 167	May 16
+T4	Organization 123 141	retail chain Kmart
+T23	Organization 191 219	parent company Sears Holding
+T26	Time 223 232	Wednesday
+T36	Campaign 2411 2417	breach
+T28	Campaign 1971 1977	breach
+T30	Organization 1944 1956	retail chain
+T29	Time 1981 1985	2014
+T31	Information 2023 2034	stolen data
+T34	Information 2088 2108	personal information
+T32	Information 2051 2065	customer names
+T33	Information 2067 2083	emails addresses
+T24	Hacker-Group 0 13	Cyber attacks
+T1	Campaign 82 100	credit card breach
+T2	Campaign 60 70	recent one
+T25	System 239 271	Kmart store payment data systems
+T38	Code 301 315	malicious code
+T39	Course-of-Action 349 367	anti-virus systems
+T40	Course-of-Action 372 392	application controls
+T42	Code 416 430	malicious code
+T43	Code 451 453	it
+T44	Campaign 472 477	event
+T45	Person 432 434	we
+T46	Person 479 481	We
+T47	Person 505 514	customers
+T48	Information 536 558	credit and debit cards
+T49	Organization 566 579	retail stores
+T50	Person 582 594	Howard Riefs
+T51	Person 596 625	a spokesman for Sears Holding
+T52	Organization 661 668	company
+T53	Vulnerability 691 695	risk
+T54	Person 703 712	customers
+T6	Person 918 920	we
+T13	Time 1064 1073	last year
+T55	Campaign 1189 1195	breach
+T56	Domain 1218 1240	security website Krebs
+T57	Time 1256 1262	May 16
+T58	Organization 1269 1280	small banks
+T59	Organization 1285 1298	credit unions
+T60	Information 1336 1348	stolen cards
+T61	System 1033 1045	sale systems
+T62	Information 1145 1162	counterfeit cards
+T63	Campaign 1932 1938	breach
+T64	Organization 1910 1915	Kmart
+T15	System 1501 1518	company’s systems
+T16	Information 2720 2732	888-488-5978
+T17	Location 1380 1395	Kmart locations
+T65	Organization 1401 1408	company
+T66	Number 1436 1439	735
+T67	Location 1440 1449	locations
+T68	Campaign 1480 1486	breach
+T14	Malware 1535 1542	malware
+T18	Purpose 1555 1577	steal credit card data
+T69	Device 1618 1624	kiosks
+T20	Device 1730 1744	payment kiosks
+T70	Information 1710 1715	cards
+T71	Information 1757 1768	information
+T72	Information 1774 1779	cards
+T73	Information 1858 1884	credit card user’s account
+T74	Information 1819 1831	these clones
+T75	Malware 2167 2186	new form of malware
+T76	Person 2111 2113	We
+T77	Organization 2235 2242	company
+T37	Location 2437 2452	Kmart locations
+T78	Organization 2570 2583	retail stores
+T79	Organization 2468 2489	credit card companies
+T80	Person 2531 2540	customers
+T81	Information 2561 2566	cards
+T82	Organization 2585 2599	Sears Holdings
+T83	Person 2626 2635	customers
+T84	Campaign 2665 2671	breach
+T86	Person 2694 2705	one of them
+T87	Person 2686 2689	you
+T88	Course-of-Action 2264 2297	review and improve the safeguards
+T90	Person 2707 2710	you
+T95	Campaign 2382 2384	It
+T96	Person 2248 2250	we
+*	Coreference T21 T14
+*	Coreference T7 T9 T33
+*	Coreference T3 T29
+*	Coreference T5 T57
+*	Coreference T4 T30
+*	Coreference T23 T82
+*	Coreference T60 T35 T31
+*	Coreference T22 T34 T71 T62 T12 T73 T8 T48
+*	Coreference T49 T78
+*	Coreference T61 T15
+*	Coreference T52 T65 T77
+*	Coreference T37 T17 T67
+*	Coreference T55 T36 T68 T28 T84 T63 T95
+*	Coreference T72 T70 T81
+*	Coreference T54 T83 T47 T80
+*	Coreference T43 T42 T38
+*	Coreference T76 T96
+*	Coreference T87 T45 T86 T46 T90 T85 T6 T27
+T85	Person 2676 2679	you
+T27	Person 1075 1077	we

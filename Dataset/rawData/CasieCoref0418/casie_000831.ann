@@ -1,0 +1,61 @@
+T8	Person 515 528	The scamsters
+T6	Person 534 550	gullible targets
+T10	Organization 587 595	Facebook
+T11	Person 617 626	diplomats
+T12	Person 630 644	MNC executives
+T13	Person 599 603	They
+T21	Person 662 669	targets
+T1	Campaign 204 214	are duping
+T2	Person 215 221	people
+T3	Organization 256 286	MNCs (multinational companies)
+T18	Hacker-Group 2122 2131	the gangs
+T17	Person 2166 2170	they
+T15	Person 2179 2187	diplomat
+T16	Person 2191 2204	MNC executive
+T22	Campaign 191 198	as bait
+T5	File 147 162	phishing emails
+T4	Person 107 121	The fraudsters
+T7	Domain 555 578	social networking sites
+T23	Person 1767 1768	I
+T24	Person 1004 1008	them
+T25	Hacker-Group 2252 2256	them
+T26	Person 1854 1855	I
+T27	Hacker-Group 43 47	they
+T28	Person 1572 1574	He
+T31	Person 1231 1235	they
+T32	Hacker-Group 1749 1753	they
+T33	Hacker-Group 1278 1282	they
+T35	Hacker-Group 1191 1195	They
+T37	Person 1964 1965	I
+*	Coreference T6 T21 T24
+*	Coreference T11 T15 T16
+T9	Hacker-Group 0 18	Nigerian scamsters
+*	Coreference T9 T27 T8 T4 T38 T13 T36 T42
+T14	Person 55 68	Indian people
+*	Coreference T14 T2
+T19	Person 77 93	security experts
+T20	Organization 369 386	security agencies
+*	Coreference T19 T20
+T38	Hacker-Group 445 463	Nigerian web gangs
+T36	Hacker-Group 656 661	their
+T39	Location 773 791	high-secured areas
+T40	Location 800 807	airport
+T41	Location 812 828	five-star hotels
+*	Coreference T39 T40 T41
+T42	Hacker-Group 993 997	gang
+T43	Organization 1184 1189	agent
+T44	Person 1040 1046	victim
+T45	Person 1073 1087	representative
+*	Coreference T44 T45 T46 T31 T48
+*	Coreference T43 T35 T47 T33 T49 T50 T53 T55 T32 T18 T17 T25
+T46	Person 1208 1214	victim
+T47	Hacker-Group 1244 1249	agent
+T48	Person 1419 1426	victims
+T49	Hacker-Group 1477 1490	Nigerian gang
+T50	Person 1516 1528	gang members
+T51	Person 1492 1498	Thapar
+T52	Person 1430 1451	Meerut's Varun Thapar
+*	Coreference T52 T51 T28 T54 T23 T26 T37
+T53	Hacker-Group 1593 1609	The gang members
+T54	Person 1626 1631	their
+T55	Hacker-Group 1679 1687	The gang

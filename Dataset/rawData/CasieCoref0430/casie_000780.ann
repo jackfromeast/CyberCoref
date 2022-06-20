@@ -1,0 +1,97 @@
+T10	Vulnerability 177 190	various flaws
+T11	Software 193 206	 its products
+T9	Course-of-Action 145 164	a huge patch update
+T6	Organization 121 135	the tech giant
+T7	Time 104 114	This month
+T4	Vulnerability 46 64	60 vulnerabilities
+T2	Time 0 10	Last month
+T13	Campaign 238 243	fixed
+T14	Vulnerability 251 279	61 different vulnerabilities
+T12	Course-of-Action 232 237	patch
+T16	Course-of-Action 312 317	a fix
+T15	Course-of-Action 281 297	The patch bundle
+T17	Vulnerability 322 373	the recently discovered APLC zero-day vulnerability
+T76	Time 222 231	September
+T3	Organization 207 221	 The Microsoft
+T29	Campaign 874 887	has addressed
+T30	Vulnerability 887 934	 this Advanced Local Procedure Call (ALPC) flaw
+T28	Course-of-Action 868 873	patch
+T77	Time 858 867	September
+T78	Organization 843 857	 the Microsoft
+T36	Course-of-Action 1088 1106	the patch released
+T37	Vulnerability 1076 1083	the bug
+T38	Organization 1108 1117	Microsoft
+T40	Campaign 1365 1374	addresses
+T41	Vulnerability 1375 1392	the vulnerability
+T39	Course-of-Action 1353 1364	 The update
+T44	Attack-Pattern 1316 1352	take control over an affected system
+T43	System 1411 1418	Windows
+T47	Course-of-Action 1497 1504	patched
+T48	Vulnerability 1505 1519	61 other flaws
+T49	Software 1523 1539	various products
+T50	Vulnerability 1551 1578	17 critical vulnerabilities
+T46	Organization 1482 1491	Microsoft
+T45	Vulnerability 1451 1480	the single APLC zero-day flaw
+T52	Campaign 1602 1611	receiving
+T51	Software 1580 1601	The affected software
+T53	Course-of-Action 1611 1625	 the bug fixes
+T54	System 1634 1651	Microsoft Windows
+T62	Software 1765 1783	the .NET Framework
+T61	Software 1753 1760	ASP.NET
+T60	Software 1734 1751	Internet Explorer
+T59	Software 1712 1732	Microsoft.Data.OData
+T55	System 1653 1667	Microsoft Edge
+T56	Software 1669 1679	ChakraCore
+T57	Software 1681 1697	Microsoft Office
+T58	Software 1702 1710	Web Apps
+T64	Campaign 1833 1842	addressed
+T65	Vulnerability 1843 1849	a flaw
+T66	Software 1853 1875	the Adobe Flash Player
+T67	Vulnerability 1877 1891	CVE-2018-15967
+T63	Course-of-Action 1822 1827	patch
+T79	Time 1812 1821	September
+T80	Organization 1797 1811	 the Microsoft
+T70	Course-of-Action 1922 1928	 a fix
+T71	Vulnerability 1933 1951	this vulnerability
+T68	Organization 1903 1908	Adobe
+T72	Course-of-Action 1969 1974	fixes
+T74	Time 1984 1993	this week
+T82	Attack-Pattern 526 544	a malware campaign
+T18	Campaign 443 452	disclosed
+T19	Vulnerability 418 442	a zero-day vulnerability
+T24	Vulnerability 647 649	it
+T22	Person 612 636	the alias SandboxEscaper
+T21	Person 592 606	a Twitter user
+T20	Vulnerability 546 568	The APLC zero-day flaw
+T26	Campaign 690 698	verified
+T27	Vulnerability 699 706	the bug
+T25	Person 669 689	a CERT/CC researcher
+T34	Campaign 978 990	acknowledged
+T32	Vulnerability 1011 1045	this vulnerability (CVE-2018-8440)
+T33	Organization 968 977	Microsoft
+T35	Campaign 939 948	disclosed
+T1	Organization 12 21	Microsoft
+T8	System 729 756	 the Windows Task Scheduler
+T23	Hacker-Group 764 776	 an attacker
+T69	Attack-Pattern 780 804	gain System-level access
+T73	Vulnerability 707 726	 This vulnerability
+T75	Vulnerability 1293 1311	 the vulnerability
+T81	Hacker-Group 1215 1227	 An attacker
+T84	Vulnerability 494 496	it
+T5	Vulnerability 84 102	two zero-day flaws
+T31	Vulnerability 1142 1160	this vulnerability
+T83	Hacker-Group 1161 1173	 an attacker
+T85	System 1204 1214	the system
+T42	Time 1996 2010	 the September
+T86	Course-of-Action 2011 2022	Update pack
+*	Coreference T11 T49
+*	Coreference T9 T15
+*	Coreference T79 T76 T77 T7 T42
+*	Coreference T18 T35
+*	Coreference T46 T38 T1 T78 T3 T33 T80 T6
+*	Coreference T23 T81 T83
+*	Coreference T21 T22
+*	Coreference T43 T85 T54
+*	Coreference T65 T67 T71
+*	Coreference T63 T53 T16 T12 T47 T28 T36 T39 T86
+*	Coreference T45 T41 T84 T19 T17 T20 T24 T37 T27 T73 T30 T32 T31 T75

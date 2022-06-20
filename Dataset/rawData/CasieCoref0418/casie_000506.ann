@@ -1,0 +1,38 @@
+T2	Campaign 212 231	large data breaches
+T3	Information 235 254	patient information
+T4	Time 262 279	seven-year period
+T5	Campaign 459 476	The data breaches
+T6	Organization 489 511	health care facilities
+T7	Organization 525 548	UC Davis Medical Center
+T9	Location 552 562	California
+T8	Organization 566 585	Henry Ford Hospital
+T10	Location 589 597	Michigan
+T1	Campaign 74 96	a personal data breach
+T11	Person 135 177	Michigan State University business scholar
+T13	Person 317 340	MSU associate professor
+T15	Campaign 1159 1186	the discovery of the breach
+T16	Time 940 977	the period October 2009-December 2016
+T17	Person 702 707	Jiang
+T18	Course-of-Action 656 671	data protection
+T19	Person 814 820	people
+T20	Person 870 881	researchers
+T21	Information 891 935	Department of Health and Human Services data
+T22	Purpose 779 803	cross-share patient data
+T23	Information 791 803	patient data
+T26	Person 360 417	colleagues from Johns Hopkins and Ball State universities
+T14	Person 738 763	health care professionals
+T24	System 768 775	systems
+T25	Information 836 840	data
+T27	Organization 987 1063	hospitals covered by the Health Insurance Portability and Accountability Act
+T28	Person 1127 1138	individuals
+T29	Time 1146 1153	60 days
+T30	Number 191 196	1,800
+T31	Number 1115 1126	500 or more
+T32	Organization 1068 1073	HIPAA
+T33	Organization 1087 1090	HHS
+T35	Information 858 860	it
+T34	Person 295 315	Xuefeng “John” Jiang
+*	Coreference T34 T13 T26 T17
+*	Coreference T5 T2
+*	Coreference T23 T25 T35
+*	Coreference T27 T32

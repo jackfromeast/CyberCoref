@@ -1,0 +1,167 @@
+T55	Vulnerability 2361 2363	it
+T57	Vulnerability 379 381	it
+T16	Campaign 1766 1773	alerted
+T17	Organization 1774 1783	Cloudfare
+T19	Time 1795 1805	last month
+T49	Person 1733 1765	Project Zero threat hunting team
+T48	Organization 1724 1731	Google’
+T22	Organization 1827 1829	it
+T33	Course-of-Action 2384 2387	fix
+T52	Vulnerability 3548 3561	vulnerability
+T51	Organization 3535 3545	Cloudflare
+T37	Campaign 3423 3433	be exposed
+T4	Time 126 140	several months
+T2	Information 86 99	customer data
+T1	Organization 41 68	network provider Cloudflare
+T5	Information 270 278	log data
+T12	Domain 630 635	pages
+T41	Information 3794 3817	Social Security Numbers
+T42	Information 3775 3789	credit numbers
+T43	Information 3748 3769	sensitive information
+T44	Campaign 4348 4358	was leaked
+T28	Campaign 2223 2230	pick up
+T29	Information 2231 2253	something confidential
+T14	Vulnerability 2 16	security lapse
+T59	Time 249 259	twelve-day
+T6	Campaign 294 300	breach
+T61	Time 469 478	Wednesday
+T62	Hacker-Group 337 346	attackers
+T9	Vulnerability 365 369	flaw
+T65	Number 609 626	tens of thousands
+T15	Device 662 683	reverse-proxy servers
+T66	Software 698 712	search engines
+T67	Number 725 737	large number
+T68	Organization 764 774	Cloudflare
+T69	Time 800 806	so far
+T70	Person 821 827	Prince
+T71	Information 854 863	passwords
+T72	Information 865 884	credit card numbers
+T73	Information 896 909	personal data
+T74	Organization 956 966	Cloudflare
+T75	Software 1017 1042	stream parser application
+T76	Organization 1052 1059	company
+T77	Device 1103 1115	edge servers
+T78	Code 1124 1137	HTTP requests
+T79	Vulnerability 1143 1146	bug
+T80	Software 1158 1164	parser
+T81	Domain 1203 1207	page
+T82	Code 1305 1318	HTTP requests
+T83	Person 1333 1342	customers
+T84	Vulnerability 1348 1352	flaw
+T85	Domain 1377 1382	pages
+T88	Domain 1489 1494	pages
+T89	Vulnerability 1514 1517	bug
+T90	Domain 1592 1596	page
+T91	Person 1599 1605	Prince
+T92	Information 1625 1636	leaked data
+T93	Software 1664 1678	search engines
+T94	Software 1683 1695	Web scrapers
+T20	Person 1699 1718	security researcher
+T21	Organization 1811 1818	company
+T18	Vulnerability 1791 1794	bug
+T24	Vulnerability 1840 1847	problem
+T95	Time 1848 1868	in a matter of hours
+T26	Vulnerability 1897 1904	problem
+T96	Vulnerability 1939 1949	Heartbleed
+T97	Person 1906 1910	Some
+T98	Campaign 1929 1935	breach
+T99	Campaign 1974 1984	Cloudbleed
+T100	Domain 1993 1997	blog
+T101	Person 1999 2005	Prince
+T102	Vulnerability 2039 2042	bug
+T103	Person 2062 2070	stranger
+T104	Person 2122 2131	employees
+T23	Course-of-Action 1830 1847	fixed the problem
+T27	Person 2155 2163	stranger
+T30	Hacker-Group 2291 2309	malicious attacker
+T31	Vulnerability 2343 2346	bug
+T32	Person 2389 2391	he
+T36	Person 2402 2411	customers
+T34	Information 2441 2445	data
+T107	Code 2484 2492	requests
+T108	Person 2459 2464	those
+T110	Person 2595 2611	security experts
+T111	Person 2613 2628	Ilia Kolochenko
+T112	Organization 2655 2671	High-Tech Bridge
+T113	Person 2680 2686	Prince
+T114	Person 2745 2747	we
+T115	Time 2803 2817	for the moment
+T116	Person 2819 2820	I
+T117	Person 2895 2905	Kolochenko
+T118	Person 2927 2934	someone
+T120	Organization 3063 3070	company
+T121	Vulnerability 3074 3084	Heartbleed
+T122	Person 3087 3088	I
+T123	Campaign 3155 3165	Cloudbleed
+T124	Campaign 3127 3151	this particular incident
+T125	Person 3169 3171	he
+T126	Vulnerability 3186 3196	Heartbleed
+T127	Organization 3216 3223	company
+T128	Organization 3243 3259	software vendors
+T129	Organization 3270 3293	cybersecurity companies
+T130	Vulnerability 3326 3339	vulnerability
+T131	Vulnerability 3342 3352	Heartbleed
+T38	Organization 3397 3410	organizations
+T39	Campaign 3379 3387	breaches
+T132	Organization 3492 3502	Cloudflare
+T133	Vulnerability 3503 3517	security lapse
+T134	Person 3606 3608	he
+T135	Person 3619 3630	Kunal Anand
+T136	Organization 3667 3674	Prevoty
+T137	Organization 3693 3703	Cloudflare
+T138	Information 3838 3852	leaked dataset
+T139	Organization 3905 3915	Cloudflare
+T140	Information 3932 3934	it
+T141	Organization 3942 3953	third-party
+T142	Person 3978 3980	he
+T143	Organization 3988 3998	CloudFlare
+T144	Code 4021 4033	HTTP headers
+T145	Information 4062 4083	sensitive information
+T146	Information 4089 4108	session identifiers
+T147	Code 4045 4052	cookies
+T148	Information 4110 4130	authorization tokens
+T149	IP 4135 4147	IP addresses
+T150	Person 4150 4155	Anand
+T151	Information 4176 4180	data
+T152	Information 4204 4216	private data
+T153	Organization 4219 4229	CloudFlare
+T154	Software 4260 4274	search engines
+T155	Code 4309 4316	process
+T156	Code 4290 4296	caches
+T45	Information 4338 4342	data
+T46	Campaign 4433 4444	data breach
+T53	Organization 4456 4466	CloudFlare
+T157	Software 4535 4542	engines
+T158	Information 4567 4571	data
+T159	Information 4580 4582	it
+T160	Person 4606 4611	Anand
+T25	Campaign 1881 1889	notified
+T161	Code 775 782	cookies
+T162	Code 787 794	headers
+T10	Information 569 573	data
+T164	Domain 464 468	blog
+T3	Information 1285 1289	data
+T7	Person 2630 2633	CEO
+T8	Person 3632 3635	CTO
+T166	Campaign 1971 1973	it
+T167	Person 1518 1521	you
+T169	Person 1461 1464	you
+T176	Pronoun 2389 2391	he
+*	Coreference T11 T35
+*	Coreference T24 T26
+*	Coreference T99 T123 T166 T98
+*	Coreference T96 T121 T131 T126
+*	Coreference T135 T150 T160 T142 T8
+*	Coreference T22 T120 T76 T21 T127 T68 T74 T132 T153 T53 T139 T17 T137 T51 T143
+*	Coreference T91 T113 T70 T101
+*	Coreference T125 T111 T117 T7 T134
+*	Coreference T45 T151 T140 T158 T138 T152 T159
+T13	Person 439 453	Matthew Prince
+T56	Person 412 438	Cloudflare CEO and founder
+*	Coreference T56 T13
+*	Coreference T9 T57 T102 T31 T55 T79 T18 T89 T84
+T47	Information 198 240	Cloudflare's initial postmortem conclusion
+T58	Person 501 523	Cloudflare's customers
+T11	System 1439 1456	Cloudflare’s CDN.
+*	Coreference T103 T27
+T35	System 2501 2517	Cloudflare’s CDN

@@ -1,0 +1,158 @@
+T9	Campaign 148 161	 The campaign
+T11	Attack-Pattern 178 259	started with an email informing users they needed to update their account details
+T7	Person 216 220	they
+T13	Domain 969 989	actual Netflix pages
+T5	Domain 953 962	the pages
+T3	Person 67 93	unsuspecting Netflix users
+T4	Purpose 99 147	giving up their credentials and credit card data
+T16	Campaign 1847 1865	Phishing campaigns
+T30	Attack-Pattern 1966 1982	evaded detection
+T29	Attack-Pattern 1987 2015	served up its phishing pages
+T17	Person 1878 1895	Netflix customers
+T18	Campaign 2492 2518	Netflix phishing campaigns
+T12	Campaign 1198 1211	 the campaign
+T27	Attack-Pattern 1216 1251	adept at bypassing phishing filters
+T2	Campaign 31 51	 a phishing campaign
+T26	Time 2924 2928	July
+T24	Person 2824 2837	Netflix users
+T32	Person 2838 2842	they
+T33	Time 2900 2919	earlier last summer
+T21	Person 2662 2667	users
+T22	Location 2618 2625	 the UK
+T23	Email 2579 2599	phony invoice emails
+T19	Purpose 2738 2777	hand over their credit card information
+T31	Time 2626 2645	earlier this summer
+T15	Campaign 1262 1275	 the campaign
+T28	Campaign 1148 1161	 the campaign
+T34	Person 0 11	Researchers
+T1	Information 108 126	 their credentials
+T35	Information 131 147	credit card data
+T36	Email 190 199	 an email
+T6	Information 237 259	 their account details
+T37	Person 273 280	victims
+T38	Domain 296 336	 a legitimate looking Netflix login page
+T39	Email 358 378	 their email address
+T40	Information 383 399	Netflix password
+T41	Attack-Pattern 353 399	asked their email address and Netflix password
+T42	Information 431 455	users’ login credentials
+T43	Hacker-Group 456 469	 the attacker
+T44	Person 483 490	victims
+T45	Attack-Pattern 513 571	they’re told they need to update their billing information
+T46	Information 545 571	 their billing information
+T47	Person 573 578	Users
+T48	Information 602 613	 their name
+T49	Information 615 624	birthdate
+T50	Information 626 633	address
+T51	Information 639 662	credit card information
+T52	Hacker-Group 663 676	 The attacker
+T53	Information 722 751	 their social security number
+T54	Attack-Pattern 699 751	asking users to provide their social security number
+T55	Organization 764 771	Netflix
+T56	Information 798 842	users’ VBV (Verified by Visa) 3D Secure Code
+T57	Organization 870 874	Visa
+T58	Location 883 889	Europe
+T59	Location 894 899	India
+T60	Location 932 941	 the U.S.
+T10	Attack-Pattern 963 989	mimic actual Netflix pages
+T61	Attack-Pattern 999 1036	feature a yellow “secure server” lock
+T62	Domain 1038 1042	they
+T63	Person 1063 1084	Mohammed Mohsin Dalla
+T64	Person 1085 1098	 a researcher
+T65	Organization 1104 1134	FireEye’s Threat Research team
+T66	Campaign 1180 1182	it
+T67	Course-of-Action 1235 1251	phishing filters
+T68	Person 1253 1255	He
+T14	Attack-Pattern 1281 1317	AES encryption to encode the content
+T69	Campaign 1375 1377	it
+T70	Attack-Pattern 1381 1396	evade detection
+T71	Domain 1413 1425	 the webpage
+T72	Attack-Pattern 1402 1425	obfuscating the webpage
+T73	Hacker-Group 1427 1436	attackers
+T74	Attack-Pattern 1444 1474	deceive text-based classifiers
+T75	Attack-Pattern 1479 1523	prevent them from inspecting webpage content
+T76	Software 1487 1491	them
+T77	Software 1452 1474	text-based classifiers
+T78	Attack-Pattern 1564 1573	technique
+T79	Person 1526 1531	Dalla
+T80	Campaign 1540 1549	 the scam
+T81	Time 1550 1556	Monday
+T82	Code 1592 1620	 a PHP and a JavaScript file
+T83	Attack-Pattern 1631 1677	functions to encrypt and decrypt input strings
+T84	File 1582 1591	two files
+T85	Code 1678 1691	 The PHP file
+T86	Attack-Pattern 1703 1742	encrypt the webpages at the server side
+T87	Attack-Pattern 1789 1844	decoded using a defined function in the JavaScript file
+T88	Code 1824 1844	 the JavaScript file
+T89	Campaign 1920 1929	 this one
+T90	Domain 1996 2015	 its phishing pages
+T91	Domain 2016 2026	 The pages
+T92	Device 2038 2072	legitimate but compromised servers
+T93	Person 2091 2096	users
+T94	Domain 2135 2144	PhishTank
+T95	Domain 2125 2131	Google
+T96	Code 2099 2109	 their DNS
+T97	Software 2145 2170	 an anti-phishing service
+T98	Attack-Pattern 2176 2210	aggregates data on scams like this
+T99	Information 2187 2191	data
+T100	Campaign 2195 2200	scams
+T101	Organization 2234 2241	FireEye
+T102	Person 2245 2255	 a visitor
+T103	Domain 2261 2267	Google
+T104	Domain 2269 2278	Phishtank
+T105	Domain 2283 2294	other sites
+T106	Domain 2304 2319	Calyx Institute
+T107	Domain 2323 2330	Netflix
+T108	Domain 2345 2359	 the fake site
+T109	Campaign 2360 2373	 the campaign
+T110	Attack-Pattern 2380 2437	ensure a “404 Not Found error” message would be displayed
+T111	Campaign 2461 2470	 the scam
+T112	Campaign 2559 2564	scams
+T113	Number 2566 2578	A handful of
+T20	Attack-Pattern 2656 2721	trick users into thinking they’d purchased a Netflix subscription
+T114	Information 2747 2777	 their credit card information
+T115	Person 2733 2737	they
+T116	Campaign 2779 2791	Another scam
+T117	Campaign 2793 2796	one
+T8	Attack-Pattern 2813 2882	convincing Netflix users they needed to update their credit card data
+T25	Information 2859 2882	 their credit card data
+T118	Information 2944 2962	 their information
+T119	Person 2964 2971	victims
+T120	Information 2981 2995	 their account
+T121	Attack-Pattern 2977 3014	told their account has been suspended
+T122	Attack-Pattern 3037 3072	download “Netflix support software”
+T123	Malware 3047 3071	Netflix support software
+T124	Malware 3079 3087	software
+T125	Person 3110 3130	 the Knoxville, Tenn
+T126	Malware 3132 3154	Better Business Bureau
+T127	Malware 3161 3182	remote login software
+T128	Attack-Pattern 3189 3236	handed attackers the keys to victims’ computers
+T129	Hacker-Group 3196 3205	attackers
+T130	Information 3205 3214	 the keys
+T131	Device 3218 3236	victims’ computers
+T132	Domain 494 506	another form
+T138	Person 343 347	they
+T141	Campaign 1963 1965	it
+T142	Person 526 530	they
+T144	Campaign 693 695	it
+T146	Person 3024 3028	they
+T148	Person 210 215	users
+*	Coreference T30 T70 T74
+*	Coreference T33 T31 T26
+*	Coreference T1 T42 T40 T6
+*	Coreference T55 T107
+*	Coreference T91 T71 T5 T90 T62
+*	Coreference T43 T52 T129 T73
+*	Coreference T82 T88
+*	Coreference T94 T104 T97
+*	Coreference T95 T103
+*	Coreference T100 T80 T89 T16 T141 T109 T111
+*	Coreference T118 T35 T25 T51 T46 T114
+*	Coreference T17 T3 T32 T24 T148 T93 T21 T7 T37 T44 T119 T138 T142 T47 T115
+*	Coreference T64 T68 T63
+*	Coreference T66 T9 T12 T28 T2 T144
+*	Coreference T76 T77
+*	Coreference T78 T72
+*	Coreference T18 T112
+*	Coreference T117 T116
+*	Coreference T124 T123
+*	Coreference T127 T126

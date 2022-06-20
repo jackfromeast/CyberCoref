@@ -1,0 +1,122 @@
+T5	Hacker-Group 875 882	hackers
+T7	Malware 866 873	doxware
+T9	Person 916 922	victim
+T49	Malware 951 961	ransomware
+T53	Campaign 1225 1235	the attack
+T11	Hacker-Group 1256 1263	hackers
+T63	Campaign 1644 1658	a major attack
+T64	Organization 1672 1681	hospitals
+T66	Organization 1700 1718	outpatient centers
+T67	Time 1722 1732	March 2016
+T59	Campaign 1512 1530	ransomware attacks
+T60	Organization 1556 1570	recent victims
+T61	System 1583 1601	healthcare systems
+T62	Organization 1613 1627	MedStar Health
+T65	Campaign 1768 1789	the ransomware attack
+T68	Organization 1793 1800	MedStar
+T23	Campaign 1742 1755	the data leak
+T25	Organization 1759 1763	Sony
+T58	Campaign 1844 1860	a doxware attack
+T21	Person 1374 1387	top producers
+T22	Person 1392 1402	executives
+T20	Information 1459 1476	future film plans
+T16	Information 1490 1506	sensitive topics
+T54	Information 1344 1365	private conversations
+T55	Person 1414 1423	employees
+T56	Person 1425 1431	actors
+T57	Person 1433 1453	industry competitors
+T28	Campaign 1987 2002	the data leaked
+T29	Organization 2008 2012	Sony
+T30	Malware 2059 2066	doxware
+T38	Information 2683 2687	data
+T37	File 2671 2677	photos
+T36	Email 2656 2669	text messages
+T35	Device 2591 2605	mobile devices
+T39	Malware 2564 2575	the malware
+T32	Software 2693 2697	apps
+T1	Campaign 511 530	ransomware payments
+T4	Time 534 564	the first three months of 2016
+T2	Money 493 505	$209 million
+T3	Hacker-Group 468 475	hackers
+T70	Malware 574 584	ransomware
+T47	Money 612 622	$1 billion
+T69	Time 623 632	this year
+T26	Information 1016 1044	the privacy of conversations
+T50	File 1046 1052	photos
+T51	File 1058 1073	sensitive files
+T45	Person 3348 3355	victims
+T46	Malware 3320 3327	doxware
+T44	Attack-Pattern 3370 3414	infect two of their friends with the malware
+T24	Campaign 786 806	a personal data leak
+T71	Malware 770 780	ransomware
+T72	Malware 748 755	malware
+T73	Malware 840 847	doxware
+T12	Attack-Pattern 1079 1115	threatening to release them publicly
+T27	Campaign 1297 1329	an email phishing malware attack
+T17	Organization 1274 1287	Sony Pictures
+T18	Time 1268 1272	2014
+T74	Time 3 15	recent years
+T75	Malware 17 27	ransomware
+T76	Organization 61 70	companies
+T77	Time 98 108	April 2015
+T78	Time 113 123	March 2016
+T79	Number 125 150	the number of individuals
+T80	Malware 163 173	ransomware
+T81	Number 184 193	2 million
+T82	Number 198 203	17.7%
+T83	Time 222 235	previous year
+T84	Campaign 237 255	Ransomware attacks
+T85	Attack-Pattern 268 285	breaching systems
+T86	Email 303 317	infected email
+T87	File 341 346	files
+T88	System 350 358	networks
+T89	Person 369 373	user
+T90	Money 381 406	specified amount of money
+T91	Attack-Pattern 323 358	locking important files or networks
+T92	Information 421 435	FBI statistics
+T93	File 447 466	Malwarebytes report
+T94	Hacker-Group 681 695	cybercriminals
+T6	Malware 967 974	doxware
+T8	Campaign 985 991	attack
+T13	Campaign 1158 1176	threatened release
+T10	Number 1544 1555	a number of
+T14	Number 1669 1671	10
+T15	Number 1686 1699	more than 250
+T19	Person 1805 1808	you
+T52	Malware 1862 1869	Doxware
+T95	Hacker-Group 1923 1930	hackers
+T96	Person 1949 1956	victims
+T97	Person 2120 2135	Company leaders
+T98	Email 2170 2175	email
+T99	Time 2176 2184	each day
+T100	Campaign 2292 2306	doxware attack
+T101	Campaign 2450 2464	Recent attacks
+T102	Device 2488 2513	Windows desktop computers
+T103	Device 2518 2525	laptops
+T34	Vulnerability 2425 2432	problem
+T104	Malware 2388 2395	doxware
+T105	Malware 2753 2760	doxware
+T106	Email 2794 2810	Workplace emails
+T107	Hacker-Group 2842 2849	hackers
+T108	System 2862 2921	company's internal communications/instant messaging network
+T109	Hacker-Group 2943 2950	hackers
+T110	Malware 2957 2964	doxware
+T111	System 2973 2990	messaging network
+T112	Software 3009 3017	platform
+T113	Organization 3122 3129	company
+T31	Malware 3190 3198	variants
+T114	File 3204 3209	files
+T40	Attack-Pattern 3253 3280	steals a victim's passwords
+T41	Campaign 3222 3243	the threat of release
+T33	Information 3262 3280	victim's passwords
+T42	Malware 3290 3298	mutation
+T43	Malware 3300 3312	Popcorn Time
+T119	Information 1102 1106	them
+*	Coreference T67 T78
+*	Coreference T62 T68
+*	Coreference T25 T29
+*	Coreference T87 T114
+*	Coreference T58 T28 T100
+*	Coreference T7 T30 T104 T110 T46 T6 T52 T73 T105 T39
+*	Coreference T79 T81
+*	Coreference T8 T24 T53

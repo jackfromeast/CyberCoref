@@ -1,0 +1,150 @@
+T6	Vulnerability 1042 1059	 the original bug
+T7	Person 999 1010	researchers
+T21	Campaign 1406 1413	claimed
+T19	Person 1370 1381	Ryan Hanson
+T38	Person 1382 1404	 a security researcher
+T13	Campaign 1433 1449	originally found
+T22	Person 1430 1432	he
+T17	Vulnerability 1450 1452	it
+T18	Time 1456 1460	July
+T14	Campaign 1465 1474	disclosed
+T15	Vulnerability 1475 1477	it
+T20	Time 1494 1501	October
+T16	Organization 1481 1490	Microsoft
+T27	Campaign 1709 1714	found
+T31	Vulnerability 1688 1708	previous office bugs
+T28	Organization 1718 1737	Google Project Zero
+T32	Campaign 1978 1987	disclosed
+T35	Organization 1971 1977	McAfee
+T33	Vulnerability 1988 1995	the bug
+T34	Time 2005 2018	last Saturday
+T10	Campaign 1111 1118	patched
+T9	Organization 1101 1110	Microsoft
+T11	Vulnerability 1119 1121	it
+T12	Time 1125 1132	Tuesday
+T23	Campaign 1648 1653	patch
+T25	Organization 1631 1640	Microsoft
+T24	Vulnerability 1654 1656	it
+T26	Time 1657 1672	until this week
+T29	Campaign 1738 1749	got patched
+T30	Time 1750 1764	within 90 days
+T2	Campaign 282 297	still unpatched
+T5	Vulnerability 314 323	zero-days
+T1	Campaign 251 262	are unknown
+T3	Vulnerability 246 250	bugs
+T4	Organization 266 276	the vendor
+T36	Vulnerability 2278 2296	the issue reported
+T37	Campaign 2245 2262	our fix addresses
+T39	Hacker-Group 28 35	hackers
+T40	Campaign 390 393	fix
+T41	Hacker-Group 404 420	Criminal hackers
+T42	Hacker-Group 433 464	hackers working for governments
+T43	Organization 453 464	governments
+T44	Vulnerability 480 489	zero-days
+T45	Vulnerability 518 534	zero-day exploit
+T46	File 612 626	Microsoft Word
+T47	Hacker-Group 661 679	government hackers
+T48	Vulnerability 636 648	 The exploit
+T49	Time 773 800	since at least late January
+T50	Malware 741 772	 the infamous FinFisher spyware
+T51	Organization 833 854	security firm FireEye
+T52	Malware 916 925	Latentbot
+T53	Malware 872 906	 a criminal gang spreading malware
+T54	Time 929 934	March
+T8	Vulnerability 1068 1080	 the exploit
+T55	Organization 2553 2560	FireEye
+T56	Person 2107 2132	 a Microsoft spokesperson
+T57	Organization 2138 2149	Motherboard
+T58	Person 3225 3258	Zerodium's founder Chaouki Bekrar
+T59	Hacker-Group 2654 2678	 the CEO of Hacking Team
+T60	Vulnerability 2707 2724	zero-day exploits
+T61	Vulnerability 2738 2757	exclusive zero-days
+T62	Organization 2931 2940	FinFisher
+T63	Organization 3281 3290	FinFisher
+T64	Organization 3083 3092	FinFisher
+T65	Organization 1805 1809	they
+T66	Person 2448 2449	I
+T69	Vulnerability 299 303	they
+T72	Person 2152 2154	We
+T73	Person 123 127	them
+T77	Vulnerability 398 402	them
+T79	Person 732 736	them
+T80	Device 102 104	it
+T81	Vulnerability 1134 1136	it
+T83	Vulnerability 345 349	they
+T85	Vulnerability 2427 2429	it
+T86	Malware 91 98	malware
+T87	Device 70 78	computer
+T88	Person 57 66	 a victim
+T89	File 140 165	 a booby-trapped document
+T90	Vulnerability 176 202	 a critical "zero-day" bug
+T78	Hacker-Group 554 560	groups
+T91	File 223 237	Microsoft Word
+T92	Vulnerability 627 635	zero-day
+T93	Person 713 720	victims
+T94	Vulnerability 811 818	exploit
+T76	Person 1152 1163	researchers
+T82	Organization 1184 1198	internal teams
+T74	Organization 1282 1287	teams
+T95	Person 1291 1302	researchers
+T96	Vulnerability 1310 1323	 the same bug
+T68	Person 1503 1509	Hanson
+T70	Organization 1767 1779	 The company
+T71	Campaign 1848 1855	attacks
+T75	Vulnerability 1873 1885	 the exploit
+T97	Organization 1556 1567	Motherboard
+T98	Campaign 1957 1964	attacks
+T99	Campaign 2164 2181	 an investigation
+T100	Campaign 2041 2054	investigation
+T84	Vulnerability 2327 2339	 the exploit
+T67	Person 2521 2535	John Hultquist
+T101	Person 2536 2549	 a researcher
+T102	Organization 2473 2482	FinFisher
+T103	Organization 2355 2364	FinFisher
+T104	Organization 2369 2378	Latentbot
+T105	Hacker-Group 2617 2625	criminal
+T106	Organization 2666 2678	Hacking Team
+T107	Organization 2679 2689	 a company
+T109	Software 2781 2786	tools
+T110	Software 2792 2802	techniques
+T111	Software 2571 2576	tools
+T112	Software 2582 2592	techniques
+T114	Hacker-Group 2827 2835	criminal
+T115	Campaign 2631 2648	hacktivist worlds
+T116	Campaign 2841 2858	hacktivist worlds
+T117	Hacker-Group 2606 2615	espionage
+T118	Hacker-Group 2816 2825	espionage
+T119	Vulnerability 2946 2954	exploits
+T120	Person 2968 2979	researchers
+T121	Organization 2996 3004	Zerodium
+T122	Organization 3019 3033	exploit seller
+T123	Organization 3179 3187	Zerodium
+*	Coreference T14 T32
+*	Coreference T16 T9 T25
+*	Coreference T80 T87
+*	Coreference T3 T90 T61 T45 T44 T48 T60 T8 T5 T69 T83 T77 T92 T94
+*	Coreference T91 T46
+*	Coreference T42 T47
+*	Coreference T93 T79 T88 T73
+*	Coreference T39 T78
+*	Coreference T52 T53
+*	Coreference T6 T11 T81 T96 T17 T15 T24 T36 T84 T85 T119
+*	Coreference T7 T76 T95
+*	Coreference T74 T82
+*	Coreference T19 T38 T22 T68
+*	Coreference T70 T28 T65
+*	Coreference T31 T75 T33
+*	Coreference T97 T57
+*	Coreference T71 T98
+*	Coreference T56 T72
+*	Coreference T100 T99
+*	Coreference T67 T101 T66
+*	Coreference T106 T107
+*	Coreference T109 T111
+*	Coreference T112 T110
+*	Coreference T105 T114
+*	Coreference T115 T116
+*	Coreference T117 T118
+*	Coreference T121 T122 T123
+*	Coreference T64 T62 T103 T102 T63
+*	Coreference T55 T51

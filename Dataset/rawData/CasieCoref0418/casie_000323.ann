@@ -1,0 +1,38 @@
+T10	Person 641 650	consumers
+T9	Hacker-Group 602 617	cyber criminals
+T14	Software 700 715	the genuine one
+T13	Purpose 717 764	allowing a backdoor entry into their smartphone
+T4	Hacker-Group 95 110	cyber criminals
+T1	Attack-Pattern 111 137	placing fake e-wallet apps
+T5	Campaign 214 222	incident
+T7	Hacker-Group 268 283	cyber criminals
+T12	Attack-Pattern 284 314	adding fake apps on app stores
+T15	Campaign 0 16	Digital payments
+T16	Person 46 55	consumers
+T17	Campaign 85 91	threat
+T18	Software 119 137	fake e-wallet apps
+T19	Organization 166 204	cyber security solution firm Kaspersky
+T20	Software 291 300	fake apps
+T21	Organization 330 355	Digital payment companies
+T22	Software 403 407	apps
+T23	Campaign 372 384	transactions
+T24	Course-of-Action 428 465	checks like two-factor authentication
+T25	Person 503 512	consumers
+T26	Campaign 479 498	secure transactions
+T27	Person 515 526	Altaf Halde
+T28	Person 528 562	Managing Director at Kaspersky Lab
+T29	Location 564 574	South Asia
+T8	Attack-Pattern 632 677	tricking consumers into downloading fake apps
+T11	Software 668 677	fake apps
+T30	Device 754 764	smartphone
+T31	Organization 800 805	banks
+T32	Organization 810 835	mobile m-wallet companies
+T33	Organization 772 794	financial institutions
+T35	Information 858 878	customer information
+T36	Person 880 885	users
+T37	Course-of-Action 899 915	take precautions
+T38	Campaign 970 990	digital transactions
+*	Coreference T22 T20 T11 T18
+T39	Purpose 141 151	dupe users
+*	Coreference T27 T28
+T2	Course-of-Action 836 878	take steps to protect customer information

@@ -1,0 +1,110 @@
+T55	Person 2522 2526	they
+T51	Campaign 2486 2501	a phishing scam
+T53	Person 2476 2481	users
+T29	Attack-Pattern 1670 1695	take users to a fake site
+T2	Hacker-Group 234 248	cybercriminals
+T4	Information 258 282	bank account information
+T5	Information 284 293	passwords
+T6	Information 295 307	credit cards
+T7	Information 311 334	social security numbers
+T1	Campaign 114 134	email phishing scams
+T56	Purpose 146 208	endanger their personal information and next year’s tax refund
+T39	Email 2017 2032	phishing emails
+T31	Email 1779 1794	phishing emails
+T33	Person 1842 1848	friend
+T34	Person 1852 1860	relative
+T32	Person 1820 1840	a business colleague
+T41	Email 2064 2070	emails
+T46	Campaign 2081 2092	phone scams
+T37	Information 1958 1971	email account
+T35	Hacker-Group 1913 1922	Criminals
+T20	Person 1943 1955	 your friend
+T23	File 1483 1499	an official logo
+T22	Organization 1380 1399	a legitimate source
+T60	Attack-Pattern 1411 1467	presenting the look and feel of authentic communications
+T48	Campaign 2298 2314	Phishing attacks
+T18	Person 1248 1266	someone they trust
+T17	Person 1176 1186	recipients
+T8	Campaign 395 409	phishing scams
+T9	Person 373 379	people
+T10	Time 362 371	Every day
+T57	Purpose 492 530	update their online financial accounts
+T59	Person 483 488	users
+T58	Email 452 465	 Those emails
+T45	Person 2132 2142	the caller
+T44	Campaign 2117 2128	phone scams
+T47	Attack-Pattern 2177 2231	threatening the taxpayer with a lawsuit or with arrest
+T50	Hacker-Group 2367 2376	criminals
+T11	Campaign 1029 1045	Phishing attacks
+T12	Attack-Pattern 1046 1077	use email or malicious websites
+T14	Purpose 1081 1127	solicit personal, tax or financial information
+T15	Organization 1141 1167	a trustworthy organization
+T61	Organization 4 7	IRS
+T62	Organization 9 27	state tax agencies
+T64	Person 63 69	people
+T65	Information 154 181	 their personal information
+T3	Purpose 252 334	steal bank account information, passwords, credit cards or social security numbers
+T66	Attack-Pattern 341 360	simply ask for them
+T67	Information 356 360	them
+T68	Time 424 435	 their time
+T69	Money 439 451	 their money
+T70	Information 498 530	 their online financial accounts
+T71	Email 531 535	they
+T72	Email 550 555	email
+T73	Person 566 571	users
+T74	Attack-Pattern 575 624	download a document from a cloud-storage provider
+T75	File 583 594	 a document
+T76	Organization 599 624	 a cloud-storage provider
+T78	Money 681 687	 a $64
+T79	Organization 710 717	the IRS
+T81	Information 740 751	information
+T83	Organization 846 874	The Internal Revenue Service
+T84	Organization 876 894	state tax agencies
+T85	Organization 899 916	the tax community
+T86	Person 996 1005	taxpayers
+T87	Person 1010 1027	tax professionals
+T88	Email 1050 1055	email
+T89	Domain 1059 1077	malicious websites
+T90	Information 1106 1127	financial information
+T13	Attack-Pattern 1046 1168	use email or malicious websites to solicit personal, tax or financial information by posing as a trustworthy organization.
+T16	Attack-Pattern 1286 1399	take advantage of knowledge gained from online research and earlier attempts to masquerade as a legitimate source
+T52	Attack-Pattern 1477 1499	using an official logo
+T24	Information 1604 1618	sensitive data
+T92	Email 1642 1648	emails
+T93	URL 1654 1664	hyperlinks
+T94	Person 1675 1680	users
+T95	Version 1697 1711	Other versions
+T96	File 1720 1735	PDF attachments
+T97	Malware 1754 1761	malware
+T98	Code 1765 1772	viruses
+T99	Vulnerability 1883 1911	 an email account compromise
+T36	Information 1987 2008	 their email contacts
+T21	Organization 31 57	 the nation’s tax industry
+T38	Email 644 650	emails
+T40	Organization 725 733	 the IRS
+T63	Campaign 830 844	 these schemes
+T19	Hacker-Group 1267 1281	 A scam artist
+T26	Information 1500 1524	 These targeted messages
+T77	Purpose 1529 1618	trick even the most cautious person into taking action that may compromise sensitive data
+T27	Campaign 1619 1629	 The scams
+T30	Email 1861 1874	 These emails
+T42	Organization 2164 2172	 the IRS
+T43	Campaign 2327 2348	online phishing scams
+T49	Person 2443 2448	Users
+T80	Campaign 2437 2441	them
+T101	Person 420 424	them
+T102	Person 1256 1260	they
+T103	Person 2503 2507	they
+T54	Person 385 391	victim
+T25	Domain 1683 1695	 a fake site
+T28	Campaign 2042 2059	phishing attempts
+*	Coreference T62 T84
+*	Coreference T40 T61 T42 T79
+*	Coreference T53 T55 T103
+*	Coreference T37 T36
+*	Coreference T9 T54 T101
+*	Coreference T58 T71
+*	Coreference T8 T1
+*	Coreference T102 T17
+*	Coreference T30 T31
+*	Coreference T48 T80

@@ -1,0 +1,92 @@
+T9	Information 717 730	phone numbers
+T8	Information 698 712	home addresses
+T7	Email 680 696	e-mail addresses
+T6	Information 664 678	customer names
+T12	Code 842 851	sort code
+T11	Information 818 837	bank account number
+T10	Information 769 810	the last four digits of their card number
+T1	Campaign 81 92	data breach
+T2	Organization 0 19	Payday lender Wonga
+T14	Information 882 909	your Wonga account password
+T22	Time 1635 1643	November
+T23	Hacker-Group 1616 1626	fraudsters
+T17	Information 1531 1535	Data
+T24	Campaign 2669 2682	a data breach
+T16	Information 1261 1272	information
+T18	Organization 33 59	 the latest big-name brand
+T26	Campaign 148 179	illegal and unauthorized access
+T3	Time 110 126	over the weekend
+T25	Information 184 211	customers’ personal details
+T4	Organization 212 221	 The firm
+T27	Person 251 260	customers
+T28	File 296 303	reports
+T29	Number 335 342	270,000
+T30	Location 369 376	 the UK
+T31	Person 344 356	most of whom
+T32	Organization 519 528	 The firm
+T33	Organization 377 406	 The short-term loans company
+T34	Person 422 431	customers
+T35	Number 437 442	1200%
+T36	Information 466 473	details
+T37	Money 443 446	APR
+T38	Information 599 611	 the details
+T5	Information 937 950	 your account
+T13	Information 1015 1037	 your account password
+T39	Campaign 1083 1143	unusual activity across any bank accounts and online portals
+T40	Information 1111 1124	bank accounts
+T41	Information 1129 1143	online portals
+T42	Person 1039 1041	We
+T43	Organization 1146 1151	Wonga
+T44	Person 1165 1174	customers
+T45	Campaign 1200 1215	follow-up scams
+T46	Device 1237 1247	 the phone
+T47	System 1222 1228	online
+T15	Hacker-Group 1335 1354	seasoned fraudsters
+T48	Information 1443 1455	card numbers
+T49	Organization 1511 1529	big-name companies
+T51	Information 1416 1423	details
+T52	Attack-Pattern 1370 1423	socially engineer targets into divulging more details
+T50	Number 1546 1553	130,000
+T21	Organization 1705 1727	breached organizations
+T53	Software 1729 1737	TalkTalk
+T54	Person 1767 1776	customers
+T55	Number 1759 1766	100,000
+T56	Campaign 1800 1809	 a breach
+T57	Money 1781 1785	£60m
+T58	Person 1822 1835	André Stewart
+T59	Person 1837 1868	EMEA vice-president at Netskope
+T60	Organization 1922 1935	organizations
+T61	Information 1962 1973	 their data
+T62	Organization 1999 2008	companies
+T63	Course-of-Action 2027 2091	take active measures to mitigate any threats to personal privacy
+T64	Information 2075 2091	personal privacy
+T65	Information 2106 2110	data
+T66	Organization 2154 2163	companies
+T67	Person 2284 2293	employees
+T68	Course-of-Action 2296 2330	 the GDPR and secure data handling
+T69	Person 2332 2341	employers
+T70	Person 2368 2373	staff
+T71	Software 2378 2388	 the tools
+T72	Person 2458 2474	Kevin Cunningham
+T73	Person 2476 2498	president of SailPoint
+T74	Campaign 2642 2651	 a matter
+T75	Course-of-Action 2708 2771	important factors are prevention, education, and rapid response
+T76	Campaign 2790 2799	 a breach
+T77	Course-of-Action 2946 2968	address future attacks
+T78	Campaign 2961 2968	attacks
+T79	Person 2511 2516	staff
+T80	Purpose 2573 2616	help protect sensitive customer information
+T19	Person 1554 1589	customers of network operator Three
+T85	Campaign 2860 2862	it
+T86	Person 2222 2224	he
+T87	Person 2774 2776	he
+T88	Organization 312 314	it
+T90	Organization 853 855	It
+T92	Organization 2266 2270	they
+T20	Person 568 570	it
+*	Coreference T23 T15
+*	Coreference T4 T33 T2 T88 T32 T20 T43 T90
+*	Coreference T58 T59 T86
+*	Coreference T72 T73 T87
+*	Coreference T85 T76
+*	Coreference T66 T92

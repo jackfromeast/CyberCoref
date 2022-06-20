@@ -1,0 +1,149 @@
+T43	Campaign 2785 2796	 the breach
+T38	Information 2851 2867	 the data stolen
+T42	Person 2810 2819	customers
+T40	Information 2908 2933	 the data had been stolen
+T41	Organization 2880 2888	GameStop
+T8	Campaign 317 323	stolen
+T17	Information 391 439	 the three-digit card verification values (CVV2)
+T16	Information 378 387	addresses
+T15	Information 371 376	names
+T14	Information 353 369	expiration dates
+T13	Information 334 351	 the card numbers
+T9	Information 295 316	card or bankcard data
+T12	Organization 222 230	GameStop
+T11	Person 261 277	online customers
+T18	Campaign 440 451	 The breach
+T19	Time 461 496	between Aug 10, 2016 to Feb 9, 2017
+T6	Campaign 28 34	breach
+T7	Time 57 66	this week
+T1	Campaign 141 157	been compromised
+T3	Information 88 129	 their personal and financial information
+T5	Person 9 18	customers
+T2	Time 158 173	nine months ago
+T21	Campaign 688 694	stolen
+T20	Information 663 675	 their cards
+T23	Time 598 607	last week
+T22	Person 613 631	affected customers
+T24	Campaign 994 1000	breach
+T25	Information 1003 1031	 his credit card information
+T27	Campaign 1105 1125	had been compromised
+T28	Time 1096 1104	November
+T29	Domain 1075 1087	GameStop.com
+T30	Information 1057 1066	 the card
+T31	Campaign 1658 1676	have been obtained
+T32	Person 1680 1704	unauthorized individuals
+T33	Domain 1637 1653	www.GameStop.com
+T34	Information 1606 1628	data from payment card
+T35	Campaign 1980 1999	unauthorized access
+T36	Information 2003 2020	payment card data
+T37	Time 2039 2053	April 18, 2017
+T44	Campaign 3342 3353	 the breach
+T45	Organization 3363 3371	GameStop
+T46	Organization 3394 3406	 the company
+T47	System 3409 3429	point-of-sale system
+T48	Attack-Pattern 3434 3452	have been infected
+T66	Malware 3458 3465	malware
+T49	Campaign 3483 3494	 the breach
+T50	Information 3555 3566	stolen data
+T51	Information 3576 3607	card verification values (CVV2)
+T53	Campaign 3820 3830	was stolen
+T54	Domain 3778 3790	GameStop.com
+T52	Information 3810 3819	 the data
+T55	Attack-Pattern 3831 3846	through the use
+T67	Malware 3850 3857	malware
+T58	Campaign 4142 4148	siphon
+T59	Hacker-Group 4096 4105	Criminals
+T60	Information 4153 4169	credit card data
+T61	Domain 4174 4186	 these sites
+T62	Software 4212 4229	ecommerce plugins
+T65	Attack-Pattern 4319 4340	DOM-based XSS attacks
+T64	Attack-Pattern 4293 4313	web-based keyloggers
+T63	Attack-Pattern 4239 4291	perform reflected XSS (cross-site scripting) attacks
+T56	Campaign 3926 3939	data breaches
+T57	Time 3863 3882	 the past 12 months
+T4	Organization 0 8	GameStop
+T26	Time 782 787	April
+T68	Person 795 859	GameStop customer Ryan Duff, a former cyber operations tactician
+T69	Location 863 867	U.S.
+T71	Number 4342 4352	Over 2,000
+T73	Malware 4428 4452	 an old malicious script
+T74	Person 727 728	I
+T75	Organization 760 764	they
+T76	Person 2134 2136	he
+T77	Person 79 83	them
+T78	Campaign 776 778	it
+T79	Person 3754 3756	it
+T80	Organization 1167 1169	it
+T81	Organization 955 957	it
+T82	Person 2694 2698	them
+T83	Person 919 921	he
+T84	Person 2022 2024	we
+T85	Campaign 582 584	it
+T86	Organization 3041 3043	it
+T87	Person 1212 1214	he
+T88	Person 976 979	him
+T89	Person 3322 3324	it
+T90	Person 2750 2754	they
+T91	Person 1793 1795	us
+T92	Person 1706 1708	we
+T93	Person 911 913	he
+T10	Organization 511 519	GameStop
+T94	Organization 530 542	 the company
+T95	Campaign 564 575	 the breach
+T70	Organization 941 949	GameStop
+T96	Person 1047 1051	Duff
+T97	File 1221 1240	Breach notification
+T98	Organization 1400 1412	 the company
+T99	Information 1555 1573	 their card stolen
+T100	Person 1482 1491	consumers
+T101	Organization 1753 1782	 a leading cybersecurity firm
+T102	Person 1804 1818	J. Paul Raines
+T103	Organization 1847 1855	GameStop
+T104	Person 1903 1921	impacted customers
+T105	Organization 2144 2152	GameStop
+T106	Domain 2231 2243	GameStop.com
+T107	Domain 2255 2269	Kongregate.com
+T108	Organization 2290 2299	ThinkGeek
+T109	Campaign 2337 2348	 the breach
+T110	Organization 2362 2374	 the company
+T111	Organization 2377 2385	GameStop
+T112	Domain 2482 2500	GameStop’s website
+T113	Person 2304 2320	retail customers
+T114	Organization 2535 2547	 the company
+T115	Organization 2580 2590	Threatpost
+T116	Organization 2593 2601	GameStop
+T117	Person 2633 2642	customers
+T39	Organization 2945 2953	GameStop
+T118	Organization 2977 2985	GameStop
+T119	Organization 3021 3035	 a third party
+T120	Information 3053 3070	payment card data
+T121	Domain 3089 3106	 the GameStop.com
+T122	Organization 3157 3174	Krebs on Security
+T123	Time 3187 3192	April
+T124	Time 2938 2943	April
+T125	Organization 3198 3206	GameStop
+T126	Domain 3270 3282	 its website
+T127	Information 3652 3662	CVV2 codes
+T128	Organization 3705 3713	GameStop
+T129	Person 3722 3738	retail customers
+T72	Software 4353 4362	WordPress
+T130	Software 4033 4042	WordPress
+T131	Attack-Pattern 4392 4404	 a keylogger
+T132	Domain 3974 3989	ecommerce sites
+*	Coreference T5 T77 T22 T104 T117 T82 T90 T42 T89 T79
+*	Coreference T20 T9 T25 T34 T38 T40 T120 T50 T52
+*	Coreference T21 T8
+*	Coreference T83 T93 T68 T74 T88 T96 T87
+*	Coreference T33 T29 T106 T112 T121 T126 T54
+*	Coreference T92 T91 T84
+*	Coreference T76 T102
+*	Coreference T86 T119
+*	Coreference T123 T124
+*	Coreference T44 T49 T95 T18 T1 T85 T78 T24 T109 T43
+*	Coreference T45 T46 T12 T4 T10 T94 T75 T70 T81 T80 T103 T105 T110 T111 T114 T116 T41 T39 T118 T125 T128
+*	Coreference T17 T51 T127
+*	Coreference T113 T129
+*	Coreference T67 T66
+*	Coreference T130 T72
+*	Coreference T131 T64
+*	Coreference T132 T61

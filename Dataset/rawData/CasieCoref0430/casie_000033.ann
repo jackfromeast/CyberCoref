@@ -1,0 +1,67 @@
+T15	Vulnerability 1617 1636	 this vulnerability
+T16	Person 1599 1606	Melamed
+T19	Time 1770 1779	June 2016
+T20	Vulnerability 1651 1677	another video deletion bug
+T25	Attack-Pattern 1905 1938	attach the video to an event post
+T24	Person 1877 1884	Melamed
+T22	Vulnerability 1804 1820	Hivarekar’s flaw
+T21	Attack-Pattern 1836 1875	attaching a victim’s video to a comment
+T1	Campaign 173 183	discovered
+T4	Person 125 132	Melamed
+T5	Time 156 162	Monday
+T2	Vulnerability 183 210	 the critical vulnerability
+T3	Time 214 218	June
+T9	Person 272 274	he
+T10	Person 291 293	he
+T11	Purpose 300 331	disable commenting on any video
+T12	Person 0 41	Freelance security researcher Dan Melamed
+T13	Person 73 75	he
+T26	Person 97 99	he
+T27	Organization 115 123	Facebook
+T29	Vulnerability 109 111	it
+T6	Person 333 340	Melamed
+T7	Software 376 388	 his browser
+T8	Domain 398 406	Facebook
+T30	Protocol 354 371	 the HTTP request
+T31	Code 437 447	 a program
+T32	Software 455 462	Fiddler
+T33	Attack-Pattern 492 556	swapped out his video’s ID for one belonging to a victim’s video
+T34	Information 503 518	 his video’s ID
+T35	Person 539 548	 a victim
+T36	Packet 571 592	 the modified request
+T37	Domain 607 615	Facebook
+T38	Attack-Pattern 617 633	Melamed’s method
+T39	Hacker-Group 651 663	 an attacker
+T40	Attack-Pattern 677 710	create a public event on Facebook
+T41	Domain 702 710	Facebook
+T42	Attack-Pattern 714 745	visit any existing public event
+T43	Attack-Pattern 760 792	go to the event’s Discussion tab
+T44	Hacker-Group 753 757	they
+T45	Attack-Pattern 797 847	create an event post by uploading a photo or video
+T46	Person 849 851	He
+T47	Attack-Pattern 872 983	swap the value of the composer_unpublished_photo[0] parameter for the ID of the Facebook video you want to kill
+T48	Code 889 923	 the composer_unpublished_photo[0]
+T49	Software 984 995	 the server
+T50	Attack-Pattern 1007 1074	putting out this error message: This content is no longer available
+T51	Hacker-Group 1190 1202	 an attacker
+T52	Domain 1212 1239	 the Events Discussion page
+T53	Attack-Pattern 1256 1320	 the event posting had appeared with the victim’s video attached
+T14	Person 1683 1709	Indian security researcher
+T54	Person 1714 1749	penetration tester Pranav Hivarekar
+T17	Campaign 2156 2172	Melamed’s attack
+T18	Information 2176 2182	videos
+T23	Code 2196 2214	 the ID of a video
+T55	Code 2254 2263	video IDs
+T56	Information 2326 2334	 a video
+T61	Person 464 466	he
+T63	Person 2110 2112	he
+T66	Person 2282 2284	he
+T67	Person 2184 2186	he
+T70	Person 412 414	he
+*	Coreference T15 T2 T29
+*	Coreference T19 T3
+*	Coreference T37 T41 T27 T8
+*	Coreference T39 T51 T44
+*	Coreference T10 T9 T12 T13 T26 T4 T16 T24 T6 T70 T61 T46 T63 T67 T66
+*	Coreference T32 T31
+*	Coreference T47 T33

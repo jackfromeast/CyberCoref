@@ -1,0 +1,57 @@
+T17	Information 1070 1085	any information
+T16	Device 1105 1118	these devices
+T19	Information 1127 1146	any university data
+T12	Information 450 473	the commands a keyboard
+T9	Malware 420 438	Keylogger software
+T14	Purpose 526 561	make up your passwords and messages
+T2	Hacker-Group 220 237	an unknown hacker
+T3	Information 187 196	keystroke
+T5	Person 8 16	students
+T6	Person 20 28	teachers
+T7	Device 97 106	computers
+T8	Organization 110 129	Carleton University
+T25	Organization 1481 1495	the university
+T23	Attack-Pattern 1423 1454	locked down dozens of computers
+T20	Campaign 1371 1390	a ransomware attack
+T22	Organization 1344 1352	Carleton
+T21	Time 1394 1415	November of last year
+T26	Location 133 164	Canada's capital city of Ottawa
+T1	Organization 273 288	 the university
+T4	Malware 340 349	keylogger
+T27	Device 363 372	computers
+T28	Device 300 310	USB sticks
+T29	Device 482 496	 your computer
+T10	Information 506 561	the keystrokes that make up your passwords and messages
+T11	Person 562 588	 A university spokesperson
+T13	Organization 647 662	 the university
+T30	Malware 663 682	 the USB keyloggers
+T31	Purpose 762 791	access any data they recorded
+T32	Information 773 791	data they recorded
+T33	Device 851 860	computers
+T15	Person 1214 1222	students
+T18	Person 1227 1235	teachers
+T34	Device 1263 1272	computers
+T35	Organization 1331 1342	 the school
+T36	Organization 907 917	classrooms
+T37	Organization 939 949	university
+T38	Information 951 987	personal or confidential information
+T39	Organization 1016 1035	Carleton University
+T40	Information 989 1010	 an emailed statement
+T24	Money 1513 1520	bitcoin
+T41	URL 1568 1579	formal link
+T43	Campaign 1702 1725	 the keylogger incident
+T44	Time 1768 1779	in the past
+T45	Hacker-Group 1818 1829	 the hacker
+T46	Person 1905 1922	Carleton students
+T47	Information 1932 1948	 their passwords
+T48	Time 1949 1964	right about now
+T49	Person 1523 1524	I
+T50	Malware 778 782	they
+T52	Person 1045 1047	We
+T54	Malware 742 746	them
+T42	Person 1612 1623	Steven Reid
+*	Coreference T9 T4 T30 T54 T50
+*	Coreference T13 T1 T8 T25 T39 T22
+*	Coreference T34 T16 T7 T27 T33
+*	Coreference T42 T49
+*	Coreference T43 T20

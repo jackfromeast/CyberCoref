@@ -1,0 +1,133 @@
+T6	Money 303 322	millions of dollars
+T7	Person 328 339	individuals
+T8	Time 340 350	each month
+T3	Attack-Pattern 222 282	encrypt and hold a computer user's files hostage in exchange
+T13	Person 810 823	South Koreans
+T14	Attack-Pattern 859 879	ransomware campaigns
+T12	Location 1004 1015	South Korea
+T10	Money 910 941	$2.5 million of the $16 million
+T9	Campaign 945 964	ransomware payments
+T20	Campaign 1645 1660	ransom payments
+T2	Campaign 196 214	Ransomware attacks
+T1	Campaign 23 42	ransomware payments
+T26	Campaign 2038 2056	ransomware attacks
+T21	Campaign 1727 1746	ransomware payments
+T28	Person 2916 2923	victims
+T25	Person 1873 1890	ransomware victim
+T16	Campaign 1398 1417	ransomware payments
+T18	Person 1381 1392	individuals
+T17	Time 1418 1441	over the past two years
+T19	Money 1466 1477	$16 million
+T30	Person 3143 3150	victims
+T24	Person 83 94	Damon McCoy
+T31	Person 95 194	 an assistant professor of computer science and engineering at the NYU Tandon School of Engineering
+T32	File 257 262	files
+T33	Person 250 256	user's
+T5	Campaign 401 413	cyber attack
+T34	Purpose 287 294	payment
+T35	Purpose 296 350	extort millions of dollars from individuals each month
+T36	Campaign 437 495	presentation at the IEEE Symposium on Security and Privacy
+T37	Organization 452 495	 the IEEE Symposium on Security and Privacy
+T38	Time 499 502	May
+T39	Person 504 509	McCoy
+T40	Person 531 542	researchers
+T41	Organization 513 520	 a team
+T42	Organization 547 576	 the University of California
+T43	Location 578 587	San Diego
+T44	Organization 589 610	Princeton University;
+T45	Organization 611 617	Google
+T46	Organization 622 664	 the blockchain analytics firm Chainalysis
+T47	Information 683 699	detailed account
+T48	System 702 735	 the ransomware payment ecosystem
+T49	System 10 19	ecosystem
+T50	Campaign 750 756	attack
+T51	Campaign 760 768	cash-out
+T15	Campaign 870 879	campaigns
+T52	Person 975 991	 the researchers
+T11	Person 1016 1036	 The paper's authors
+T53	Course-of-Action 1037 1161	call for additional research to determine the reason that so many South Koreans are victimized and how they can be protected
+T54	Person 1103 1116	South Koreans
+T55	Person 1140 1144	they
+T56	Organization 1162 1171	 The team
+T58	Organization 1218 1245	 a Russian bitcoin exchange
+T59	Organization 1247 1252	BTC-E
+T60	Purpose 1257 1291	convert bitcoin to fiat currencies
+T61	Attack-Pattern 1214 1252	used a Russian bitcoin exchange, BTC-E
+T62	Money 1281 1291	currencies
+T63	Money 1265 1272	bitcoin
+T64	Organization 1294 1299	BTC-E
+T65	Organization 1324 1332	 the FBI
+T67	Number 1374 1380	20,000
+T68	Money 1458 1462	cost
+T69	Money 1499 1506	payment
+T70	Person 1535 1540	McCoy
+T71	Person 1544 1562	 his collaborators
+T72	Organization 1994 2012	 The research team
+T73	IP 1905 1930	 a unique payment address
+T74	Money 1601 1613	 the bitcoin
+T75	Time 1665 1676	 a two-year
+T76	Money 1686 1694	Bitcoins
+T77	Money 1715 1723	currency
+T78	Person 1765 1772	victims
+T79	Person 1784 1788	them
+T80	Campaign 1802 1818	bitcoin purchase
+T81	Campaign 1858 1866	payments
+T82	Money 1946 1956	 a bitcoin
+T23	Money 1969 1980	 the ransom
+T83	IP 2068 2084	 these addresses
+T84	Campaign 2109 2132	blockchain transactions
+T85	Number 2143 2156	the number of
+T86	Campaign 2157 2169	transactions
+T87	Organization 2193 2202	 the team
+T88	Course-of-Action 2137 2192	boost the number of transactions available for analysis
+T89	Course-of-Action 2208 2408	executed real ransomware binaries in a controlled experimental environment, essentially becoming victims themselves and making micropayments to real ransom wallets in order to follow the bitcoin trail
+T90	File 2222 2241	ransomware binaries
+T91	Person 2305 2312	victims
+T92	Money 2335 2348	micropayments
+T93	Hacker-Group 2411 2431	Ransomware operators
+T94	Attack-Pattern 2443 2510	direct bitcoin to a central account that they cash out periodically
+T95	Money 2450 2457	bitcoin
+T96	Information 2471 2478	account
+T97	Hacker-Group 2484 2488	they
+T98	Course-of-Action 2519 2620	injecting a little bit of our own money into the larger flow we could identify those central accounts
+T99	Money 2553 2558	money
+T100	Information 2597 2620	 those central accounts
+T101	Money 2636 2644	payments
+T102	Number 2681 2694	the number of
+T103	Person 2695 2702	victims
+T104	Number 2707 2720	the amount of
+T105	Money 2721 2726	money
+T106	Person 2745 2750	McCoy
+T107	Organization 2756 2774	 The research team
+T108	Campaign 2816 2874	exploration of certain aspects of the ransomware ecosystem
+T109	Number 2898 2915	the percentage of
+T27	File 2951 2963	 their files
+T110	Course-of-Action 2937 2963	pay to recover their files
+T111	Person 2965 2970	McCoy
+T112	Campaign 3026 3034	activity
+T29	Number 3164 3173	 a double
+T113	Money 3174 3180	ransom
+T114	File 3215 3227	 their files
+T115	Campaign 3240 3272	Criminal use of cryptocurrencies
+T116	Person 3283 3288	McCoy
+T117	Person 3309 3311	He
+T118	Person 3323 3334	researchers
+T119	Person 3354 3371	human traffickers
+T122	IP 2099 2103	them
+T4	Hacker-Group 1193 1213	ransomware operators
+T22	Person 1334 1350	 The researchers
+*	Coreference T59 T64 T58
+*	Coreference T99 T105 T95
+*	Coreference T106 T111 T39 T70 T24 T116 T31 T117
+*	Coreference T54 T55 T13
+*	Coreference T30 T28
+*	Coreference T63 T62
+*	Coreference T68 T19
+*	Coreference T77 T76
+*	Coreference T21 T81
+*	Coreference T83 T122
+*	Coreference T82 T23
+*	Coreference T72 T87
+*	Coreference T84 T86
+*	Coreference T78 T79
+*	Coreference T93 T97

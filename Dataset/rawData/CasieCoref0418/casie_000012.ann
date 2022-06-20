@@ -1,0 +1,85 @@
+T6	Hacker-Group 1246 1252	hacker
+T7	Information 1269 1282	sorts of data
+T8	Device 1288 1299	your mobile
+T9	Information 1310 1318	pictures
+T10	Information 1320 1326	emails
+T11	Information 1328 1343	contact numbers
+T12	Information 1345 1357	SMS messages
+T3	Attack-Pattern 755 822	through plugging in your phone into a hacked charger or power strip
+T2	Information 882 891	your data
+T4	Attack-Pattern 829 865	lead to getting your device infected
+T13	Device 28 36	USB port
+T14	Device 60 77	charging facility
+T15	Location 81 95	public outlets
+T16	Device 120 141	Public charging ports
+T17	Person 182 187	users
+T18	Person 192 200	vicitors
+T19	Location 224 232	airports
+T20	Location 234 252	conference centers
+T21	Location 254 259	cafes
+T22	Location 261 266	parks
+T23	Location 271 277	planes
+T24	Device 319 329	cell phone
+T25	Person 370 379	Drew Paik
+T26	Organization 385 410	IT security security firm
+T27	Organization 411 421	Authentic8
+T28	Organization 427 430	CNN
+T29	Location 485 491	outlet
+T30	Information 520 524	data
+T31	Hacker-Group 580 586	hacker
+T32	Attack-Pattern 553 586	easily be transferred to a hacker
+T33	Organization 588 598	Authentic8
+T34	Person 606 615	developer
+T35	Software 619 635	Silo web browser
+T36	Person 696 700	Paik
+T37	Device 775 785	your phone
+T38	Device 793 807	hacked charger
+T39	Device 811 822	power strip
+T40	Device 845 856	your device
+T1	Device 941 945	cord
+T41	Device 962 979	your mobile phone
+T42	Device 1026 1032	device
+T44	Device 1067 1073	iPhone
+T45	Device 1082 1092	Mac device
+T46	Device 1108 1121	charging cord
+T47	Device 1227 1242	particular cord
+T5	Organization 1403 1410	company
+T43	Device 1423 1439	charging station
+T48	Person 1484 1492	visitors
+T49	Device 1525 1532	devices
+T50	Organization 1543 1556	security firm
+T51	Person 1606 1612	people
+T52	Organization 1757 1767	Authentic8
+T53	Device 1727 1744	charging facility
+T54	Campaign 1563 1580	social experiment
+T55	Person 1769 1773	Paik
+T56	Person 1799 1807	visitors
+T57	Vulnerability 1833 1868	security aspect of charging mobiles
+T58	Location 1876 1890	public station
+T59	Person 2012 2016	Paik
+T60	Information 2052 2062	their data
+T61	Course-of-Action 2085 2144	carry their chargers or invest in portable USB battery pack
+T62	Device 2097 2105	chargers
+T63	Device 2119 2144	portable USB battery pack
+T64	Person 2146 2150	They
+T65	Course-of-Action 2160 2229	buy USB cords of their own and connect the chargers using their ports
+T66	Device 2164 2173	USB cords
+T67	Device 2203 2211	chargers
+T68	Information 2299 2316	your phone’s data
+T69	Course-of-Action 2334 2364	stop using public ports at all
+T71	Person 1501 1505	they
+T72	Pronoun 1123 1126	you
+T76	Person 733 735	he
+T77	Person 1913 1917	they
+*	Coreference T6 T31
+*	Coreference T7 T60 T30 T68 T2
+*	Coreference T15 T58
+*	Coreference T26 T50
+*	Coreference T52 T27 T33 T34
+*	Coreference T37 T41 T40 T45 T49 T8 T42
+*	Coreference T56 T18 T48 T71 T51 T77
+*	Coreference T55 T36 T25 T59 T76
+*	Coreference T46 T1
+*	Coreference T16 T14 T43
+T70	Device 2224 2229	ports
+*	Coreference T70 T66

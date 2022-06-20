@@ -1,0 +1,55 @@
+T1	Information 12 17	files
+T3	Information 39 68	personal identity information
+T4	Person 72 83	individuals
+T9	Information 817 832	the information
+T10	Organization 776 792	the organisation
+T6	Person 853 868	the infiltrator
+T11	Information 1026 1042	the type of data
+T5	Number 6 11	1,000
+T2	Organization 115 147	 an Abta-registered travel agent
+T7	Campaign 191 200	 the hack
+T13	Time 219 230	27 February
+T14	Organization 280 291	 the police
+T15	Organization 295 333	 the Information Commissioner's Office
+T16	Organization 335 338	ICO
+T17	Information 392 412	 their personal data
+T18	Person 414 434	Abta chief executive
+T19	Person 435 446	Mark Tanzer
+T20	Person 452 454	he
+T21	Person 530 544	Abta customers
+T22	Person 549 556	members
+T23	Device 598 608	web server
+T24	Organization 622 626	Abta
+T25	Organization 634 662	 a third party web developer
+T26	Organization 667 682	hosting company
+T27	Person 761 770	Mr Tanzer
+T8	Organization 869 886	 The organisation
+T28	Person 916 929	holidaymakers
+T29	Organization 950 962	travel firms
+T30	Location 998 1005	 the UK
+T31	Location 1010 1016	abroad
+T12	Organization 1082 1086	Abta
+T32	Number 1114 1125	 the 43,000
+T33	Person 1126 1132	people
+T34	Email 1177 1192	email addresses
+T35	Information 1197 1216	encrypted passwords
+T36	Information 1254 1275	basic contact details
+T37	Vulnerability 1303 1320	low exposure risk
+T38	Campaign 1333 1338	theft
+T39	Course-of-Action 1324 1354	identity theft or online fraud
+T40	Campaign 1342 1354	online fraud
+T41	Information 1360 1378	 this kind of data
+T42	Person 1391 1400	customers
+T43	Person 1405 1417	ABTA members
+T44	Domain 1431 1440	 the site
+T45	Information 1450 1466	 their passwords
+T46	Person 1517 1523	people
+T47	Software 1561 1594	identity theft protection service
+*	Coreference T10 T8
+*	Coreference T5 T32
+*	Coreference T19 T27 T20 T18
+*	Coreference T21 T42
+*	Coreference T22 T43
+*	Coreference T24 T12
+*	Coreference T33 T46
+*	Coreference T15 T16

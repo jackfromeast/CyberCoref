@@ -1,0 +1,84 @@
+T24	Software 1456 1488	two-thirds of these applications
+T22	Vulnerability 1494 1521	open-source vulnerabilities
+T29	Campaign 1765 1774	was found
+T28	Vulnerability 1740 1764	Heartbleed vulnerability
+T26	Campaign 1688 1700	don’t reveal
+T30	Organization 1683 1687	they
+T27	Software 1701 1726	the specific applications
+T3	Device 62 69	devices
+T2	Vulnerability 5 30	lingering Heartbleed flaw
+T4	Person 148 154	Shodan
+T8	Device 240 267	internet-accessible devices
+T39	Time 295 307	last weekend
+T10	Vulnerability 458 466	the flaw
+T12	Attack-Pattern 474 519	enables a buffer overread that endangers data
+T15	Attack-Pattern 537 581	servers running affected versions of OpenSSL
+T11	Software 387 403	200 applications
+T13	Time 415 447	between Oct  2015 and March 2016
+T19	Campaign 1362 1371	are found
+T18	Vulnerability 1346 1361	vulnerabilities
+T20	Software 1178 1197	commercial software
+T14	Organization 1426 1436	Black Duck
+T31	Campaign 2016 2022	report
+T32	Organization 2005 2015	The Shodan
+T33	Vulnerability 2044 2054	Heartbleed
+T34	Device 2121 2150	Heartbleed-vulnerable devices
+T35	Organization 2156 2173	service providers
+T5	Vulnerability 156 184	the Heartbleed vulnerability
+T7	Time 202 212	April 2014
+T16	Course-of-Action 1397 1402	patch
+T17	Vulnerability 1403 1407	them
+T21	Person 1270 1277	authors
+T23	Number 868 871	11%
+T1	Number 54 61	200,000
+T6	Number 370 373	11%
+T36	Organization 338 362	security firm Black Duck
+T9	Device 2201 2209	machines
+T37	Software 879 902	commercial applications
+T38	Organization 797 807	Black Duck
+T40	Time 1035 1045	next month
+T25	Number 1249 1252	35%
+T41	Number 953 956	11%
+T42	Person 587 647	company’s vice president of security strategy Mike Pittenger
+T43	Person 832 833	I
+T44	Person 1418 1420	He
+T45	Software 1928 1932	they
+T46	Person 1409 1411	he
+T48	Organization 404 406	it
+T49	Person 1619 1621	he
+T50	Vulnerability 1554 1558	they
+T51	Software 1885 1889	them
+T53	Person 282 284	it
+T54	Campaign 714 716	it
+T55	Person 1891 1893	he
+*	Coreference T22 T28 T18 T5 T2 T10 T61 T17 T50 T52 T33
+*	Coreference T37 T11 T27 T24 T47 T51 T45
+T56	Number 98 104	number
+*	Coreference T1 T56
+T57	Number 232 239	199,594
+*	Coreference T3 T8 T59 T34 T9
+*	Coreference T4 T53 T32
+*	Coreference T36 T48 T58 T14 T38 T64 T30
+T58	Organization 587 594	company
+T59	Device 679 687	machines
+T60	Campaign 698 708	remediated
+*	Coreference T60 T54
+*	Coreference T42 T43 T46 T44 T49 T55 T71
+*	Coreference T6 T23 T41 T63 T65
+T61	Vulnerability 922 932	Heartbleed
+T62	Time 936 945	that time
+*	Coreference T13 T62
+T63	Number 962 968	number
+T64	Organization 978 985	company
+T65	Number 1084 1090	number
+T66	Code 1380 1384	code
+T67	Code 1230 1246	open source code
+*	Coreference T67 T66
+T68	Number 1214 1226	a great deal
+*	Coreference T68 T25
+T52	Vulnerability 1593 1603	Heartbleed
+T69	Campaign 1631 1638	reports
+T70	Campaign 1020 1026	report
+*	Coreference T70 T69
+T47	Software 1784 1807	vulnerable applications
+T71	Person 2289 2298	Pittenger

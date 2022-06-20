@@ -1,0 +1,70 @@
+T4	Money 42 52	 a $17,000
+T6	Hacker-Group 73 82	 a hacker
+T7	Attack-Pattern 87 136	seized control of the hospital's computer systems
+T19	System 120 136	computer systems
+T5	Organization 0 37	Hollywood Presbyterian Medical Center
+T20	Organization 104 117	 the hospital
+T11	Money 494 504	40 bitcoin
+T12	Money 530 537	$17,000
+T13	Hacker-Group 473 484	 The hacker
+T29	Campaign 240 252	 The assault
+T28	Organization 256 278	Hollywood Presbyterian
+T30	Time 288 293	Feb 5
+T27	Hacker-Group 300 307	hackers
+T26	Attack-Pattern 308 358	using malware infected the institution's computers
+T31	Attack-Pattern 360 435	preventing hospital staff from being able to communicate from those devices
+T15	Attack-Pattern 561 594	locks systems by encrypting files
+T10	Malware 553 560	malware
+T22	System 697 704	systems
+T17	Organization 1396 1408	the hospital
+T25	Information 1084 1100	hospital records
+T3	Person 193 224	 the hospital's chief executive
+T9	Time 230 239	Wednesday
+T32	Malware 314 321	malware
+T33	Device 330 358	 the institution's computers
+T34	Person 371 385	hospital staff
+T35	Device 421 435	 those devices
+T36	Person 442 472	Chief Executive Allen Stefanek
+T8	Person 539 541	he
+T16	Person 788 796	Stefanek
+T21	Money 744 755	 the ransom
+T2	Course-of-Action 741 785	pay the ransom and obtain the decryption key
+T37	Person 857 859	we
+T38	Organization 870 883	 The hospital
+T39	Organization 889 891	it
+T40	Course-of-Action 892 911	alerted authorities
+T41	System 949 970	 its computer systems
+T42	Time 974 980	Monday
+T43	Person 1005 1023	technology experts
+T44	Person 1025 1033	Stefanek
+T23	Information 1039 1051	patient care
+T24	Organization 1102 1124	Top hospital officials
+T45	Organization 1131 1165	 the Los Angeles Police Department
+T46	Time 1166 1175	last week
+T47	Person 1190 1210	police Lt John Jenal
+T48	Person 1212 1226	Laura Eimiller
+T49	Person 1227 1246	 an FBI spokeswoman
+T50	Organization 1252 1263	 the bureau
+T51	Campaign 1341 1350	 the case
+T52	Campaign 1278 1304	 the hacking investigation
+T53	Organization 1352 1375	Law enforcement sources
+T54	Organization 1381 1390	The Times
+T18	Campaign 1413 1424	 the ransom
+T55	Organization 1448 1463	law enforcement
+T56	Course-of-Action 1432 1478	reaching out to law enforcement for assistance
+T57	Money 53 59	ransom
+T14	Campaign 1479 1490	 The attack
+T58	Organization 1497 1510	 the hospital
+T59	Course-of-Action 1514 1560	return to pen and paper for its record-keeping
+T1	Money 173 183	 the money
+T61	Attack-Pattern 599 644	demanding ransom to obtain the decryption key
+T63	Money 609 615	ransom
+*	Coreference T27 T13 T6
+*	Coreference T5 T28 T37
+*	Coreference T10 T32
+*	Coreference T22 T41 T19 T33 T35
+*	Coreference T17 T20 T58 T38 T39 T24
+*	Coreference T53 T55
+*	Coreference T21 T18 T57 T4 T12 T11 T1 T63
+*	Coreference T8 T36 T16 T44
+*	Coreference T14 T29

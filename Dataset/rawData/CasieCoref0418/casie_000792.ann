@@ -1,0 +1,69 @@
+T16	Course-of-Action 2151 2185	patching and secure network setups
+T19	Course-of-Action 1337 1345	patching
+T4	Campaign 99 120	the public disclosure
+T1	Vulnerability 146 160	software flaws
+T2	Campaign 467 477	announcing
+T3	Vulnerability 495 509	security flaws
+T17	Vulnerability 530 534	bugs
+T23	Attack-Pattern 550 569	gather intelligence
+T12	Campaign 1013 1025	cyberattacks
+T13	System 1059 1075	computer systems
+T18	Time 1096 1104	May 2017
+T22	Malware 1032 1040	WannaCry
+T6	Campaign 373 384	make public
+T7	Vulnerability 402 411	new flaws
+T14	Campaign 1739 1744	patch
+T15	Software 1750 1758	software
+T20	Course-of-Action 1349 1366	updating software
+T21	Software 1358 1366	software
+T8	Campaign 712 720	disclose
+T9	Vulnerability 721 742	those vulnerabilities
+T11	Campaign 769 783	have been made
+T10	Course-of-Action 763 768	fixes
+T24	Course-of-Action 2104 2117	bang the drum
+T25	Time 2040 2047	in 2017
+T26	Organization 1454 1484	National Security Agency (NSA)
+T28	Malware 1592 1600	WannaCry
+T29	Campaign 1829 1836	attacks
+T30	Hacker-Group 1977 2000	Russian cyberoperatives
+T31	Organization 2013 2039	British telecoms companies
+T32	Person 1725 1729	Levy
+T33	Hacker-Group 1659 1668	criminals
+T34	Campaign 1630 1641	cyberattack
+T35	Time 1441 1448	in 2017
+T36	Organization 1429 1440	White House
+T37	Malware 1297 1305	WannaCry
+T39	Organization 1192 1221	National Health Service (NHS)
+T40	Organization 1128 1132	U.S.
+T41	Organization 1147 1158	North Korea
+T42	Version 1258 1274	outdated version
+T43	System 1278 1295	Microsoft Windows
+T44	Vulnerability 1236 1251	vulnerabilities
+T45	Person 906 910	Levy
+T46	Organization 969 979	government
+T47	Organization 789 799	government
+T48	Organization 219 249	National Cyber Security Centre
+T49	Time 62 70	Thursday
+T50	Organization 13 24	U.K. agency
+T52	Campaign 340 342	it
+T53	Vulnerability 815 819	them
+*	Coreference T15 T21
+*	Coreference T9 T3 T7 T17 T53
+*	Coreference T35 T25 T18
+*	Coreference T48 T50 T57 T5 T38
+*	Coreference T22 T37 T28
+*	Coreference T34 T12 T29
+*	Coreference T32 T45 T58 T27 T59
+T54	Campaign 267 276	procedure
+T55	Campaign 290 306	Equities Process
+*	Coreference T54 T55 T52 T56
+T56	Campaign 87 94	process
+*	Coreference T2 T6
+T57	Organization 663 667	NCSC
+T5	Organization 695 699	NCSC
+T58	Person 627 635	Ian Levy
+T38	Organization 1373 1377	NCSC
+*	Coreference T46 T47
+T27	Person 1943 1947	Levy
+T51	Vulnerability 1867 1882	vulnerabilities
+T59	Person 2049 2053	Levy

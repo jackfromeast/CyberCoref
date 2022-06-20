@@ -1,0 +1,42 @@
+T14	Organization 1037 1041	they
+T13	Vulnerability 1088 1090	it
+T3	Organization 52 57	Cisco
+T2	Vulnerability 72 96	a critical vulnerability
+T5	Attack-Pattern 171 192	take over the devices
+T8	System 280 289	Cisco IOS
+T9	System 294 315	Cisco IOS XE Software
+T7	Vulnerability 194 202	The flaw
+T4	Campaign 22 50	WikiLeaks’ Vault 7 data dump
+T16	Code 272 276	code
+T17	Vulnerability 322 335	vulnerability
+T18	Organization 919 924	Cisco
+T19	Vulnerability 1008 1026	 the vulnerability
+T20	Person 1131 1136	users
+T21	Course-of-Action 1141 1158	mitigate the risk
+T23	Course-of-Action 1253 1278	reduce the attack surface
+T22	Person 1244 1248	they
+T24	Course-of-Action 1394 1422	detect exploitation attempts
+T25	Campaign 1259 1278	 the attack surface
+T26	Course-of-Action 895 917	 the security advisory
+T27	Device 864 880	affected devices
+T28	Device 774 785	 the device
+T29	Code 686 697	 An exploit
+T30	Hacker-Group 709 721	 an attacker
+T31	Attack-Pattern 725 747	execute arbitrary code
+T33	Attack-Pattern 752 785	obtain full control of the device
+T34	Attack-Pattern 789 826	cause a reload of the affected device
+T35	Device 806 826	 the affected device
+T36	Organization 670 675	Cisco
+T37	Device 577 596	 an affected device
+T38	Software 1295 1309	infrastructure
+T1	Number 107 111	300+
+T6	Course-of-Action 1047 1090	provide free software updates to address it
+T42	Organization 1092 1096	they
+T43	Organization 935 939	they
+T10	Protocol 227 254	Cluster Management Protocol
+T11	Protocol 256 259	CMP
+T12	Software 1332 1334	It
+*	Coreference T3 T36 T18 T43 T14 T42 T22
+*	Coreference T2 T7 T17 T19 T13
+*	Coreference T10 T11
+*	Coreference T38 T12

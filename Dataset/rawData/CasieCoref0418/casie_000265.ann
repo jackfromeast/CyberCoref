@@ -1,0 +1,135 @@
+T1	Vulnerability 70 85	vulnerabilities
+T3	System 100 106	iTunes
+T4	System 111 124	the App Store
+T69	Organization 0 5	Apple
+T6	Person 140 151	researchers
+T7	Code 254 262	function
+T8	Code 233 250	vulnerable module
+T71	Attack-Pattern 176 262	inject malicious script into the application side of the vulnerable module or function
+T12	Person 284 303	Benjamin Kunz Mejri
+T11	Time 337 343	Monday
+T68	Organization 264 281	Vulnerability Lab
+T14	System 407 426	the App Store’s iOS
+T13	System 396 402	iTunes
+T73	Vulnerability 356 366	the issues
+T18	Person 710 715	Mejri
+T17	Vulnerability 838 869	mail encoding web vulnerability
+T23	Attack-Pattern 1288 1354	restricted accessible iOS devices to the main account holder inbox
+T21	Time 1387 1393	Monday
+T25	Person 1357 1362	Mejri
+T24	Attack-Pattern 1431 1467	continue to calendar spam activities
+T19	Vulnerability 1396 1405	The issue
+T28	Person 1470 1475	Mejri
+T75	Vulnerability 1511 1520	the issue
+T76	Time 1492 1499	Tuesday
+T30	Person 1790 1792	he
+T32	Attack-Pattern 1815 1842	result in session hijacking
+T33	Attack-Pattern 1844 1871	persistent phishing attacks
+T34	Attack-Pattern 1877 1916	persistent redirect to external sources
+T40	Person 1918 1923	Mejri
+T79	Person 1929 1931	he
+T39	Organization 1950 1971	Product Security Team
+T37	Time 1992 1999	Dec. 15
+T67	Organization 1942 1947	Apple
+T54	Organization 2413 2418	Apple
+T55	Time 2497 2515	Monday and Tuesday
+T58	Organization 2853 2870	Vulnerability Lab
+T42	Time 2237 2253	later this month
+T45	Organization 2292 2297	Apple
+T44	Time 2281 2291	this month
+T49	Vulnerability 2370 2395	23 WebKit vulnerabilities
+T46	System 2343 2349	iTunes
+T51	Time 2353 2361	December
+T60	Organization 2886 2891	Apple
+T61	System 2895 2901	iTunes
+T63	System 2906 2919	the App Store
+T62	Time 2920 2941	a year and a half ago
+T66	Attack-Pattern 3077 3118	lead to hijacking, phishing, and redirect
+T84	Vulnerability 2950 2952	it
+T85	Vulnerability 2969 2986	this week’s issue
+T2	Organization 446 451	Apple
+T5	Time 480 489	September
+T9	Time 491 503	in the weeks
+T15	Information 578 589	information
+T77	Person 662 667	users
+T88	Organization 721 725	firm
+T89	Person 728 735	founder
+T91	Hacker-Group 874 882	attacker
+T70	Attack-Pattern 889 986	substitute the name variable–the vulnerable firstname parameter–with a script launching a payload
+T86	Device 1310 1321	iOS devices
+T92	Person 988 993	Mejri
+T93	Organization 1024 1029	Apple
+T94	Device 1075 1085	web server
+T87	Person 1481 1491	Threatpost
+T95	Domain 1059 1074	@new-itunes.com
+T27	Vulnerability 1547 1549	it
+T99	Vulnerability 1654 1657	 it
+T100	Information 1675 1688	Apple account
+T102	Person 2121 2129	end-user
+T20	Person 2154 2156	He
+T26	Organization 2327 2329	it
+T29	Time 2519 2524	month
+T38	Organization 2565 2570	Apple
+T43	Organization 2572 2589	Vulnerability Lab
+T80	Person 2720 2728	somebody
+T103	Person 2676 2678	We
+T104	System 2759 2765	iTunes
+T105	Person 2768 2778	Kunz Mejri
+T106	Time 2795 2802	Tuesday
+T107	Organization 2784 2794	Threatpost
+T57	Vulnerability 2836 2839	one
+T59	Device 599 605	device
+T64	Vulnerability 2738 2743	issue
+T53	Vulnerability 2478 2493	vulnerabilities
+T35	Vulnerability 2026 2040	vulnerability 
+T72	Vulnerability 1982 1988	issues
+T31	Vulnerability 1804 1808	bugs
+T36	System 2077 2088	server-side
+T41	Course-of-Action 2164 2179	temporary patch
+T74	Course-of-Action 2216 2224	full fix
+T50	Software 2403 2411	software
+T48	Vulnerability 2639 2645	issues
+T52	Information 2702 2713	information
+T22	Vulnerability 1254 1267	vulnerability
+T81	Person 1744 1754	researcher
+T56	Vulnerability 2808 2821	vulnerability
+T65	Attack-Pattern 3011 3049	remotely injected script into invoices
+T82	Hacker-Group 2991 2999	attacker
+T10	Vulnerability 318 333	vulnerabilities
+T83	Hacker-Group 161 169	attacker
+T16	Vulnerability 792 833	persistent input validation vulnerability
+T111	Code 1201 1203	it
+T115	Vulnerability 2656 2660	they
+*	Coreference T11 T21
+*	Coreference T76 T106
+*	Coreference T43 T58 T68
+*	Coreference T42 T29 T44
+*	Coreference T51 T5
+*	Coreference T61 T3 T104 T46 T13
+*	Coreference T15 T52
+*	Coreference T77 T102
+*	Coreference T86 T59
+*	Coreference T87 T107
+*	Coreference T91 T82 T83
+*	Coreference T81 T30 T6
+*	Coreference T40 T92 T25 T18 T12 T28 T105 T79 T89 T20
+*	Coreference T84 T57
+*	Coreference T75 T72 T85 T27 T73 T64 T48 T19 T22 T10 T49 T53 T56 T35 T1 T115
+T97	Code 427 444	“Notify” function
+*	Coreference T2 T69 T88 T93 T67 T45 T26
+T90	Information 612 630	iCloud credentials
+T101	Information 634 651	devicename values
+T78	Code 748 768	Notify functionality
+*	Coreference T78 T97
+T113	Vulnerability 1003 1008	issue
+T116	Vulnerability 1093 1158	doesn’t properly validate the iCloud name or devicename parameter
+T96	Code 1036 1049	notifications
+*	Coreference T96 T111
+T117	Attack-Pattern 1221 1247	execute malicious payloads
+T98	Vulnerability 1597 1629	persistent input validation flaw
+*	Coreference T99 T98 T31
+T109	Course-of-Action 2058 2088	be resolved on the server-side
+T47	Course-of-Action 2303 2316	push that fix
+*	Coreference T47 T74
+T108	Code 2611 2627	proof of concept
+*	Coreference T63 T4

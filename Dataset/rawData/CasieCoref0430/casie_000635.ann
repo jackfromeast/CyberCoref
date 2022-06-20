@@ -1,0 +1,25 @@
+T3	Organization 93 115	Blizzard Entertainment
+T1	Email 55 70	phishing emails
+T4	Person 0 30	Avid World of Warcraft players
+T2	Organization 116 141	 the video game developer
+T5	Person 198 222	Malwarebytes’ Chris Boyd
+T6	Email 223 233	 The email
+T7	Domain 381 391	Battle.net
+T8	Person 309 329	 the email recipient
+T9	Person 267 276	 a friend
+T10	Software 393 425	Blizzards online gaming platform
+T11	File 247 262	 a notification
+T12	URL 438 470	URL of the blocked phishing site
+T14	Domain 480 490	Battle.net
+T13	Course-of-Action 493 508	password verify
+T15	Course-of-Action 512 517	login
+T16	Course-of-Action 525 540	account support
+T17	Purpose 561 612	convince potential victims of the site’s legitimacy
+T18	Hacker-Group 645 658	 the scammers
+T19	URL 696 705	 the link
+T20	Email 708 727	 the phishing email
+T21	Person 763 769	gamers
+T22	URL 675 678	one
+*	Coreference T1 T20 T6
+*	Coreference T3 T2
+*	Coreference T21 T4

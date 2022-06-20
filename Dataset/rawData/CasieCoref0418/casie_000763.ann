@@ -1,0 +1,102 @@
+T9	Campaign 1597 1625	spear phishing email attacks
+T13	Hacker-Group 1557 1564	Baratov
+T11	Person 1660 1667	victims
+T12	Purpose 1673 1706	handing over password information
+T15	Campaign 1717 1731	spear phishing
+T14	File 1755 1761	emails
+T23	Campaign 2151 2174	main hack against Yahoo
+T24	Hacker-Group 2117 2130	Aleksey Belan
+T19	Information 2190 2234	database involving 500 million user accounts
+T3	Organization 1293 1298	Yahoo
+T5	Time 1248 1259	August 2016
+T6	Campaign 1378 1382	hack
+T8	Information 1355 1366	information
+T17	Campaign 1885 1901	phishing attacks
+T20	Hacker-Group 124 131	hackers
+T25	Hacker-Group 182 195	Karim Baratov
+T26	Hacker-Group 201 228	22-year-old Canadian hacker
+T27	Organization 249 279	Russia's state security agency
+T28	Organization 237 240	FBI
+T29	Campaign 303 315	Yahoo breach
+T30	Money 401 415	million-dollar
+T31	Hacker-Group 422 424	he
+T32	Domain 353 365	His Facebook
+T33	Domain 370 379	Instagram
+T34	Location 437 451	Toronto suburb
+T35	Campaign 668 680	hacking work
+T36	Information 724 736	home address
+T37	Person 840 874	chief information security officer
+T38	Person 827 838	Alex Holden
+T39	Organization 878 891	Hold Security
+T40	Organization 910 917	company
+T41	Organization 931 934	FBI
+T42	Number 953 955	26
+T43	Information 956 964	accounts
+T44	Time 1000 1008	mid 2016
+T45	Person 1072 1088	Security experts
+T46	Hacker-Group 1120 1133	second hacker
+T47	Hacker-Group 1107 1114	Baratov
+T48	Person 1216 1234	U.S. investigators
+T1	Information 1262 1270	database
+T2	Campaign 1184 1188	hack
+T4	Person 1406 1412	Holden
+T7	Organization 1486 1492	Russia
+T49	Hacker-Group 1503 1514	22-year-old
+T50	Organization 1520 1526	Canada
+T51	Information 1580 1588	accounts
+T10	Hacker-Group 1814 1822	Canadian
+T16	Hacker-Group 1803 1808	Karim
+T52	Person 1921 1943	native English speaker
+T54	Person 1973 1991	research scientist
+T55	Organization 1995 2015	security firm Sophos
+T56	Email 2023 2028	email
+T57	Hacker-Group 2045 2052	Baratov
+T58	Hacker-Group 2058 2072	Russian agents
+T59	Hacker-Group 2091 2110	29-year-old Latvian
+T18	Person 2348 2358	Wisniewski
+T21	Campaign 2334 2346	Yahoo breach
+T22	Organization 2275 2281	Russia
+T60	Hacker-Group 2268 2273	Belan
+T61	Hacker-Group 2398 2403	Belan
+T62	Campaign 2441 2446	hacks
+T63	Organization 2455 2480	U.S. e-commerce companies
+T64	Organization 2791 2797	Canada
+T65	Hacker-Group 2757 2764	Baratov
+T66	Person 2840 2850	his lawyer
+T67	Organization 2917 2923	Russia
+T68	Hacker-Group 2951 2965	cybercriminals
+T69	Purpose 2970 2985	spying purposes
+T70	Purpose 2558 2564	spying
+T71	Organization 2658 2661	FBI
+T72	Organization 2667 2685	Russian government
+T73	Hacker-Group 488 491	him
+T74	Person 26 30	them
+T76	Person 744 747	you
+T78	Hacker-Group 710 712	he
+T82	Hacker-Group 631 633	he
+*	Coreference T29 T21 T75 T79 T23
+*	Coreference T38 T4 T37
+*	Coreference T41 T28 T71
+*	Coreference T43 T51
+*	Coreference T20 T62 T2 T6 T74 T85 T9 T17 T15 T68
+*	Coreference T18 T54 T53
+*	Coreference T22 T7 T67 T86
+T75	Campaign 105 111	attack
+T77	Device 507 518	sports cars
+T83	Device 536 552	Aston Martin DB9
+*	Coreference T77 T83
+*	Coreference T82 T73 T78
+T79	Campaign 1039 1043	hack
+T84	Organization 303 308	Yahoo
+*	Coreference T84 T40 T3
+T85	Campaign 1443 1472	mature intelligence operation
+T86	Organization 249 255	Russia
+*	Coreference T16 T10 T25 T47 T65 T13 T26 T31 T49 T52 T57
+*	Coreference T59 T24 T60 T61
+*	Coreference T19 T1
+T87	File 2386 2396	indictment
+T88	File 1545 1555	indictment
+*	Coreference T88 T87 T89
+T89	File 2630 2650	criminal indictments
+*	Coreference T50 T64
+T53	Person 1951 1969	Chester Wisniewski

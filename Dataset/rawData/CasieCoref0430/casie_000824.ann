@@ -1,0 +1,43 @@
+T13	Information 371 382	information
+T14	Campaign 406 417	 the breach
+T15	Information 433 438	names
+T16	Information 443 467	driver's license numbers
+T17	Information 482 497	their addresses
+T28	Person 423 431	citizens
+T9	Campaign 123 130	 a hack
+T7	Time 134 147	late November
+T10	Information 174 194	personal information
+T27	Person 163 172	residents
+T19	Information 534 555	sensitive information
+T20	Information 500 523	Social Security numbers
+T26	Information 617 628	voter rolls
+T24	Information 588 599	information
+T23	Hacker-Group 743 754	 the hacker
+T21	Information 707 718	information
+T8	Organization 0 19	VILLAGE OF NASHOTAH
+T1	Organization 22 33	The village
+T3	Hacker-Group 48 70	an unidentified hacker
+T4	Money 70 79	 a $2,000
+T6	System 97 117	 its computer system
+T5	Campaign 80 86	ransom
+T2	Time 241 256	Thursday, Dec 7
+T29	Person 204 235	Village President Richard Lartz
+T30	File 292 317	Nashotah's computer files
+T31	Purpose 319 352	making them inaccessible to staff
+T32	Person 668 670	he
+T33	Person 354 356	He
+T34	File 326 330	them
+T11	Campaign 262 271	 the hack
+T12	Person 631 636	Lartz
+T18	Person 675 688	village staff
+T22	Person 347 352	staff
+*	Coreference T4 T5
+*	Coreference T8 T1
+*	Coreference T9 T11 T14
+*	Coreference T30 T34
+*	Coreference T29 T33 T12 T32
+*	Coreference T13 T10
+*	Coreference T27 T28
+*	Coreference T24 T26 T21
+*	Coreference T22 T18
+*	Coreference T23 T3

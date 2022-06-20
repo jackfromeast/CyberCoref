@@ -1,0 +1,103 @@
+T1	Attack-Pattern 880 902	encrypts all the files
+T6	System 864 878	Windows system
+T5	Malware 823 841	malicious software
+T4	Malware 809 819	ransomware
+T3	Malware 798 803	Satan
+T7	Time 0 10	Last month
+T8	Malware 63 73	ransomware
+T9	Malware 95 100	Satan
+T10	Malware 190 205	Troj/Ransom-ECZ
+T11	Malware 274 294	Satan malware family
+T12	Hacker-Group 336 350	Cybercriminals
+T13	Attack-Pattern 361 399	used themes like the devil, the occult
+T14	Malware 489 501	Dark Avenger
+T15	Malware 503 513	Necropolis
+T16	Malware 515 521	Mydoom
+T17	Malware 523 528	Natas
+T18	Malware 539 544	Satan
+T19	Malware 560 568	SatanBug
+T20	Malware 623 639	Satan ransomware
+T21	Malware 755 776	malware part of Satan
+T2	Purpose 908 949	demands a ransom for the decryption tools
+T22	Malware 951 956	Satan
+T23	Attack-Pattern 970 1030	copied the business model of many legitimate online services
+T24	Software 1039 1045	iTunes
+T25	Software 1050 1054	eBay
+T26	Software 1004 1030	legitimate online services
+T27	Hacker-Group 1164 1177	Satan service
+T28	Attack-Pattern 1288 1366	supports optional two-factor authentication based on a public-private key pair
+T29	Protocol 1378 1381	SSH
+T30	Code 1389 1396	CAPTCHA
+T31	Attack-Pattern 1400 1442	make automatic mass signups more difficult
+T32	Malware 1493 1511	ransomware samples
+T33	Campaign 1565 1579	initial ransom
+T34	Money 1593 1600	BTC 0.1
+T35	Money 1608 1612	$125
+T36	Time 1616 1626	2017-03-07
+T37	Time 1633 1647	number of days
+T38	Attack-Pattern 1734 1779	ransom will increase after the initial period
+T39	Malware 1803 1809	sample
+T41	Person 1859 1876	potential victims
+T42	Attack-Pattern 1887 1924	generate a series of supporting files
+T43	Malware 1951 1953	it
+T44	Campaign 1960 1966	attack
+T45	File 1908 1924	supporting files
+T46	File 1982 1987	files
+T47	Person 2016 2023	victims
+T48	Code 2062 2078	Windows programs
+T49	File 2080 2089	EXE files
+T50	Attack-Pattern 2036 2090	won't look obviously like Windows programs (EXE files)
+T51	File 2132 2148	ransomware files
+T52	File 2174 2179	files
+T53	URL 2183 2188	links
+T54	Person 2197 2204	victims
+T55	Attack-Pattern 2242 2291	files will arrive in scrambled form and won't run
+T56	Hacker-Group 2297 2310	Satan service
+T57	Attack-Pattern 2345 2399	creating either an HTML page or a Microsoft Word macro
+T58	Domain 2364 2373	HTML page
+T59	Software 2379 2399	Microsoft Word macro
+T60	Purpose 2417 2481	downloading, unscrambling and auto-launching the decoded malware
+T61	Malware 2474 2481	malware
+T62	Attack-Pattern 2492 2540	convert the HTML into CHM (compiled HTML) format
+T63	Attack-Pattern 2544 2595	embed the generated Word macro into a Word document
+T64	Protocol 2504 2508	HTML
+T65	Protocol 2514 2517	CHM
+T66	Code 2554 2574	generated Word macro
+T67	File 2582 2595	Word document
+T68	File 2613 2636	malware downloader file
+T69	Email 2656 2672	email attachment
+T70	Purpose 3265 3280	demanding money
+T71	Person 221 223	we
+T72	Person 12 14	we
+T75	File 2704 2706	it
+T76	Person 300 302	we
+T80	Person 2216 2220	them
+T83	Person 3310 3314	them
+T88	Person 2939 2943	they
+T90	Person 3037 3039	We
+T91	Malware 161 163	it
+T96	Person 3226 3230	them
+T101	Malware 1837 1839	it
+T105	Person 1202 1204	we
+T108	Hacker-Group 1265 1269	them
+T109	Person 3031 3035	them
+*	Coreference T4 T8 T11 T9 T3 T18 T91 T10 T20 T5
+*	Coreference T47 T54 T41 T80
+T85	Domain 1154 1158	site
+*	Coreference T108 T27 T56
+*	Coreference T35 T34
+*	Coreference T39 T32 T101 T43
+*	Coreference T46 T45
+*	Coreference T52 T51 T49 T48
+*	Coreference T75 T68
+T40	Person 2737 2755	prospective victim
+T73	Person 2757 2761	they
+T74	Money 2930 2938	payments
+T77	Purpose 2782 2796	pay the ransom
+T78	Malware 2982 2996	ransom payment
+T81	Number 2969 2972	70%
+*	Coreference T109 T88 T73 T40
+T82	Malware 3131 3138	malware
+T84	Person 3164 3171	victims
+*	Coreference T83 T96 T84
+*	Coreference T90 T105 T76 T71 T72

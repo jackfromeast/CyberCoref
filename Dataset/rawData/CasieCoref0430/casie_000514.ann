@@ -1,0 +1,89 @@
+T34	Organization 1028 1046	The software giant
+T36	Vulnerability 1129 1142	a Chrome flaw
+T38	Organization 1177 1183	Google
+T36	Vulnerability 1129 1142	a Chrome flaw
+T42	Course-of-Action 1080 1096	security patches
+T43	Time 1097 1109	last October
+T5	Vulnerability 236 266	a Microsoft Edge security flaw
+T7	Organization 168 174	Google
+T85	Time 212 221	this week
+T11	Organization 316 322	Google
+T13	Vulnerability 333 350	the security flaw
+T14	Organization 354 363	Microsoft
+T15	Time 372 380	November
+T32	Person 802 822	 the Google engineer
+T33	Vulnerability 849 866	the security flaw
+T84	Organization 1335 1341	Google
+T82	Vulnerability 1434 1452	 the vulnerability
+T17	Vulnerability 436 438	it
+T10	Organization 419 428	Microsoft
+T19	Time 407 414	90 days
+T22	Organization 525 534	Microsoft
+T24	Time 639 647	February
+T25	Organization 653 662	Microsoft
+T27	Course-of-Action 689 696	the fix
+T29	Course-of-Action 782 787	a fix
+T28	Organization 762 771	Microsoft
+T50	Organization 1567 1576	Microsoft
+T52	Vulnerability 1561 1563	it
+T55	Vulnerability 1607 1620	zero-day bugs
+T56	System 1624 1631	Windows
+T53	Organization 1582 1593	the company
+T59	Person 1786 1802	Google engineers
+T61	Vulnerability 1814 1827	the CPU flaws
+T63	Organization 1839 1842	AMD
+T62	Organization 1832 1837	Intel
+T67	Vulnerability 1904 1913	the flaws
+T69	Time 1938 1955	earlier this year
+T71	Vulnerability 2009 2028	the processor flaws
+T76	Device 1957 1986	Chrome OS and Android devices
+T72	System 2041 2048	Windows
+T73	System 2050 2055	Linux
+T74	System 2057 2062	macOS
+T75	System 2068 2071	iOS
+T48	Time 1527 1531	2016
+T47	Vulnerability 1499 1518	a major Windows bug
+T46	Organization 1482 1488	Google
+T49	Time 1537 1550	10 days after
+T1	Campaign 117 150	security vulnerability disclosure
+T2	Time 154 166	recent years
+T4	Organization 0 9	Microsoft
+T3	Organization 14 20	Google
+T81	Organization 72 80	the pair
+T57	Course-of-Action 1651 1658	patches
+T9	Course-of-Action 274 281	a patch
+T64	Time 1866 1876	six months
+T66	Vulnerability 1884 1896	the problems
+T80	System 2419 2442	rival operating systems
+T79	Vulnerability 2401 2415	security flaws
+T6	Organization 296 302	Neowin
+T8	Organization 504 510	Google
+T12	Time 58 66	a decade
+T16	Course-of-Action 432 435	fix
+T18	Course-of-Action 1880 1883	fix
+T21	Organization 2073 2079	Google
+T26	Organization 2148 2157	Microsoft
+T30	Organization 2318 2324	Google
+T35	Time 554 573	14-day grace period
+T31	Course-of-Action 582 635	a fix available for its monthly Patch Tuesday release
+T20	Organization 909 918	Microsoft
+T23	Organization 1005 1014	Microsoft
+T37	Time 1296 1303	90 days
+T39	Time 1383 1396	grace periods
+T41	Vulnerability 1759 1784	Meltdown and Spectre bugs
+T45	Organization 2325 2335	 a company
+T87	Vulnerability 1171 1173	it
+T40	Organization 1186 1198	 the company
+T44	Campaign 2194 2214	 This latest episode
+T51	Campaign 2270 2272	it
+*	Coreference T32 T59
+*	Coreference T56 T72
+*	Coreference T18 T29
+*	Coreference T22 T4 T10 T25 T14 T20 T28 T26 T7 T30 T46 T84 T3 T11 T8 T21 T23 T45 T50
+*	Coreference T13 T5 T17 T33
+*	Coreference T27 T31
+*	Coreference T87 T36 T82
+*	Coreference T38 T40
+*	Coreference T47 T52
+*	Coreference T61 T67 T71
+*	Coreference T44 T51

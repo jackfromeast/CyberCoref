@@ -1,0 +1,67 @@
+T6	Organization 0 26	Apache Software Foundation
+T2	Vulnerability 39 76	a remote code execution vulnerability
+T10	System 164 202	the popular Java application framework
+T8	Person 134 148	Administrators
+T7	Vulnerability 239 256	the vulnerability
+T4	Software 87 115	the Jakarta Multipart parser
+T5	Software 119 132	Apache Struts
+T14	Vulnerability 296 305	The issue
+T12	System 314 327	Apache Struts
+T27	Version 328 342	versions 2.3.5
+T13	Version 362 374	versions 2.5
+T26	Version 351 357	2.3.31
+T28	Version 383 389	2.5.10
+T17	Vulnerability 547 555	the flaw
+T15	Person 562 573	researchers
+T18	Vulnerability 407 422	vulnerable code
+T17	Vulnerability 547 555	the flaw
+T29	Organization 579 590	Cisco Talos
+T25	Organization 997 1003	Apache
+T22	Software 905 933	the Jakarta Multipart parser
+T21	Vulnerability 887 900	CVE-2017-5638
+T20	Vulnerability 846 885	The remote code execution vulnerability
+T1	Course-of-Action 31 76	patched a remote code execution vulnerability
+T3	Course-of-Action 157 202	update the popular Java application framework
+T9	Campaign 287 294	attacks
+T11	Organization 592 597	Talos
+T16	Hacker-Group 526 535	attackers
+T19	System 447 453	system
+T30	Software 464 483	the web application
+T31	File 510 514	file
+T32	Campaign 457 463	attack
+T33	Attack-Pattern 539 555	exploit the flaw
+T34	Number 605 621	a high number of
+T35	Campaign 622 641	exploitation events
+T36	Person 649 672	Cisco threat researcher
+T37	Person 673 685	Nick Biasini
+T38	Organization 725 730	Talos
+T24	Vulnerability 1301 1305	flaw
+T39	Software 1324 1330	Struts
+T40	Packet 1340 1374	malformed Content-Type HTTP header
+T41	Hacker-Group 1384 1393	attackers
+T42	System 1432 1438	system
+T43	Course-of-Action 1467 1481	authentication
+T45	Person 1115 1121	client
+T44	Information 1144 1156	type of data
+T46	Packet 1179 1183	POST
+T47	IP 1187 1198	PUT request
+T48	Device 1207 1213	server
+T49	Person 1226 1232	client
+T50	Information 1238 1253	type of content
+T51	Packet 1287 1295	response
+T52	Information 1070 1096	media type of the resource
+T53	Packet 1049 1055	header
+T23	Packet 976 995	Content-Type header
+T54	File 1016 1043	emergency security advisory
+T55	Campaign 693 705	exploitation
+T56	Course-of-Action 742 761	immediate upgrading
+T57	Course-of-Action 777 843	following the workaround referenced in the above security advisory
+T58	File 826 843	security advisory
+*	Coreference T4 T22
+*	Coreference T5 T39 T12
+*	Coreference T38 T11 T29
+*	Coreference T3 T1
+*	Coreference T20 T21 T7 T2 T14 T17 T24
+*	Coreference T49 T45
+*	Coreference T53 T23
+*	Coreference T37 T36

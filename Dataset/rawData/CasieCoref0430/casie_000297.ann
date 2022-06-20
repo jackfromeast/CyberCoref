@@ -1,0 +1,109 @@
+T6	Hacker-Group 839 847	scammers
+T5	Organization 870 875	NAUPA
+T3	Person 383 389	people
+T2	File 423 437	these messages
+T10	Money 476 496	thousands of dollars
+T9	Information 2030 2034	data
+T7	Hacker-Group 1977 1987	fraudsters
+T11	Email 4 9	email
+T12	Email 13 19	letter
+T13	Email 40 42	it
+T14	File 51 81	 an attention-grabbing message
+T15	Organization 82 92	 The state
+T16	Number 154 178	hundreds of thousands of
+T17	Money 179 186	dollars
+T18	Money 213 219	 a fee
+T19	Person 192 195	you
+T20	Information 238 264	 your personal information
+T21	Money 268 278	 the money
+T22	Information 292 304	 the letters
+T23	Email 309 315	emails
+T24	Hacker-Group 332 340	scammers
+T25	Person 346 361	state officials
+T1	Person 442 446	some
+T26	File 463 467	them
+T27	Person 509 516	victims
+T28	Campaign 520 534	identity theft
+T29	Campaign 558 563	scams
+T30	Person 588 599	David Milby
+T31	Person 601 609	director
+T32	Organization 612 682	 the National Association of Unclaimed Property Administrators (NAUPA)
+T33	Email 741 746	email
+T34	Person 751 762	 the public
+T35	Person 763 765	we
+T36	Campaign 701 734	state unclaimed property programs
+T37	Number 807 814	tenfold
+T38	Time 817 831	 the past year
+T4	Hacker-Group 856 860	they
+T39	Attack-Pattern 848 929	pretend they work for NAUPA and have even used its letterhead to make their pitch
+T40	Person 947 954	victims
+T41	Money 955 960	money
+T42	Person 962 980	consumer advocates
+T43	Campaign 998 1003	fraud
+T44	Person 1015 1021	public
+T45	Organization 1031 1045	state agencies
+T46	Money 1068 1076	property
+T47	Organization 1101 1105	them
+T48	Money 1146 1150	cash
+T49	Money 1160 1176	financial assets
+T50	Person 1210 1219	 an owner
+T51	Time 1240 1265	 a certain period of time
+T52	Money 1134 1142	property
+T53	Money 1267 1269	It
+T54	Information 1279 1303	dormant savings accounts
+T56	Money 1313 1336	life insurance payments
+T57	Money 1338 1352	death benefits
+T58	Money 1354 1380	uncashed utility dividends
+T59	Money 1385 1429	the contents of abandoned safe deposit boxes
+T60	Time 1457 1461	2015
+T61	Organization 1463 1490	unclaimed property agencies
+T62	Location 1493 1502	 the U.S.
+T63	Money 1513 1525	$7.8 billion
+T64	Money 1539 1551	$3.2 billion
+T65	Person 1555 1570	rightful owners
+T66	Organization 1585 1590	NAUPA
+T67	Time 1609 1613	2013
+T68	Organization 1615 1621	states
+T69	Money 1641 1652	$43 billion
+T70	Money 1656 1674	unclaimed property
+T71	Person 1675 1689	 The treasurer
+T72	Person 1691 1702	comptroller
+T73	Person 1706 1713	auditor
+T74	Organization 1722 1727	state
+T75	Money 1748 1766	abandoned property
+T76	Software 1775 1794	 an online database
+T77	Person 1800 1806	anyone
+T79	Number 1836 1841	Forty
+T80	Location 1842 1848	states
+T81	Location 1852 1877	 the District of Columbia
+T82	Information 1896 1907	information
+T83	Domain 1910 1944	 a NAUPA-endorsed national website
+T84	Person 1949 1960	 the public
+T8	Hacker-Group 2036 2040	They
+T85	Person 2056 2062	people
+T87	Email 2080 2085	email
+T90	Person 2126 2135	 a victim
+T91	Purpose 2121 2135	snare a victim
+T86	Attack-Pattern 2048 2109	contact people at random, using email, letters or phone calls
+T92	Campaign 2136 2146	 The scams
+T93	Person 2169 2175	people
+T94	Money 2200 2206	assets
+T95	Person 2207 2211	they
+T96	Hacker-Group 2254 2258	them
+T97	Person 2266 2279	John Breyault
+T98	Person 2288 2297	president
+T99	Organization 2300 2330	 the National Consumers League
+T100	Person 2333 2339	People
+T101	Money 2350 2362	 their money
+T102	Organization 396 408	 the country
+T108	Money 1450 1452	it
+*	Coreference T5 T66 T32
+*	Coreference T26 T2
+*	Coreference T47 T45
+*	Coreference T21 T18
+*	Coreference T6 T4
+*	Coreference T31 T30
+*	Coreference T52 T53 T46 T108
+*	Coreference T8 T7 T96
+*	Coreference T93 T95
+*	Coreference T97 T98

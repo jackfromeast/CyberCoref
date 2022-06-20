@@ -1,0 +1,43 @@
+T6	Time 0 17	In the past weeks
+T4	Organization 129 147	government offices
+T2	Information 109 123	sensitive data
+T5	Malware 48 58	EyePyramid
+T8	Malware 80 82	it
+T9	Organization 171 191	public organizations
+T7	Organization 149 166	private companies
+T3	Malware 19 47	information-stealing malware
+T1	Purpose 95 191	steal 87GB of sensitive data from government offices, private companies and public organizations
+T10	Number 101 105	87GB
+T11	Number 193 206	More than 100
+T12	Domain 207 220	email domains
+T13	Number 225 231	18,000
+T14	Information 232 246	email accounts
+T15	Location 305 310	Italy
+T16	Location 316 320	U.S.
+T17	Location 322 327	Japan
+T18	Location 332 338	Europe
+T19	Person 281 301	high-profile victims
+T20	Malware 386 396	EyePyramid
+T21	Campaign 403 442	state-sponsored cyberespionage campaign
+T22	Organization 478 497	brother-sister team
+T23	Malware 511 518	malware
+T25	Person 606 608	us
+T26	Organization 539 547	Whodunit
+T27	System 742 750	Internet
+T29	Hacker-Group 795 807	perpetrators
+T31	Person 838 840	we
+T32	Campaign 855 867	cyberattacks
+T33	Person 899 917	threat researchers
+T34	Person 922 956	information security professionals
+T35	Campaign 998 1002	them
+T36	Person 1017 1023	person
+T37	Organization 1025 1030	group
+T38	Location 1035 1042	country
+T39	Number 661 676	one of the most
+T40	Hacker-Group 879 892	threat actors
+T24	Malware 576 586	EyePyramid
+*	Coreference T29 T40
+*	Coreference T20 T8 T5 T24 T3 T23
+*	Coreference T32 T35
+T28	Campaign 444 446	It
+*	Coreference T28 T21

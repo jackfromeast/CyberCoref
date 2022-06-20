@@ -1,0 +1,62 @@
+T4	Time 699 707	Thursday
+T2	Money 681 688	$43,000
+T3	Hacker-Group 656 671	cyber criminals
+T7	Organization 1089 1106	 the organization
+T9	Money 689 695	ransom
+T8	Person 4 22	executive director
+T10	Organization 25 42	 the organization
+T11	Time 55 62	Tuesday
+T13	Malware 117 127	ransomware
+T14	Hacker-Group 131 146	cyber criminals
+T15	Attack-Pattern 96 127	been infected with a ransomware
+T16	Hacker-Group 168 210	international cyber terrorist organization
+T17	Person 213 223	Aimee Fant
+T18	Person 224 247	 the Executive Director
+T19	Organization 251 266	Little Red Door
+T20	Organization 306 317	 the agency
+T22	Campaign 320 340	computer system hack
+T21	Organization 373 388	 their Facebook
+T24	Time 415 424	last week
+T25	Time 425 443	on Wednesday night
+T27	Attack-Pattern 461 546	attacked the terminal service and backup driver of Cancer Services’ computer systems.
+T28	System 529 545	computer systems
+T29	Software 470 490	the terminal service
+T30	Organization 512 527	Cancer Services
+T31	Hacker-Group 547 551	They
+T32	Attack-Pattern 563 596	access, hack and encrypt the data
+T1	Hacker-Group 745 762	 the perpetrators
+T34	Purpose 781 832	gearing up to threaten the family members of living
+T35	Person 804 822	the family members
+T36	Person 846 860	cancer clients
+T37	Person 862 868	donors
+T38	Person 873 891	community partners
+T40	Person 894 897	She
+T41	Organization 919 927	 the FBI
+T42	Course-of-Action 906 982	informed that the FBI has been contacted to conduct an “active investigation
+T43	Number 1009 1022	a majority of
+T44	Organization 1022 1033	 the agency
+T45	Information 1036 1040	data
+T46	Software 1054 1068	cloud storage.
+T6	Money 1128 1139	 the ransom
+T47	Money 1163 1168	funds
+T48	Person 1195 1203	families
+T49	Person 1205 1230	all stage cancer patients
+T53	Hacker-Group 1305 1320	cyber criminals
+T23	Campaign 399 405	attack
+T26	Hacker-Group 448 460	 the hackers
+T33	Information 587 596	 the data
+T5	System 74 90	computer systems
+T12	Campaign 616 632	 the hack attack
+T39	Organization 708 718	 The press
+T54	Campaign 765 775	 the crime
+T57	Purpose 836 892	deceased “cancer clients, donors and community partners”
+*	Coreference T4 T11
+*	Coreference T9 T6 T2
+*	Coreference T20 T44 T7 T10
+*	Coreference T22 T28 T23 T12 T54 T1 T53
+*	Coreference T36 T49
+*	Coreference T45 T33
+*	Coreference T16 T14 T26 T31 T3
+*	Coreference T18 T17
+*	Coreference T40 T39
+*	Coreference T48 T35

@@ -1,0 +1,64 @@
+T2	Campaign 278 289	could forge
+T1	Hacker-Group 270 277	hackers
+T6	File 290 306	transaction data
+T37	Attack-Pattern 216 258	Utilizing old-fashioned social engineering
+T3	Campaign 321 326	trick
+T5	Purpose 346 378	crediting their account manually
+T4	Person 327 340	support staff
+T27	Vulnerability 2007 2015	the bugs
+T31	Time 2033 2042	yesterday
+T32	Vulnerability 2044 2048	they
+T35	Vulnerability 2114 2140	The [wallet] vulnerability
+T36	Person 2215 2221	Spagni
+T26	Organization 1963 1972	Hard Fork
+T7	Vulnerability 638 646	the flaw
+T9	Money 674 680	Monero
+T15	Vulnerability 1190 1211	these vulnerabilities
+T10	Vulnerability 811 841	one out of six vulnerabilities
+T12	Organization 855 861	Monero
+T13	Time 865 882	the last 24 hours
+T19	Person 1264 1275	researchers
+T23	Person 1814 1849	Monero project lead Riccardo Spagni
+T24	Vulnerability 1918 1935	the vulnerability
+T38	Time 1790 1812	August 3, 09:15 AM UTC
+T21	Person 1358 1370	its dev team
+T29	Person 1974 1980	Spagni
+T14	Course-of-Action 1230 1235	fixed
+T16	Hacker-Group 148 155	hackers
+T17	Vulnerability 109 124	vulnerabilities
+T20	Money 1720 1727	$80,000
+T22	Vulnerability 1764 1768	bugs
+T25	Code 1776 1780	code
+T28	Money 1576 1583	$24,000
+T30	Vulnerability 1454 1457	bug
+T8	Course-of-Action 662 669	patched
+T39	Money 1549 1553	they
+T40	Vulnerability 800 802	it
+T44	Information 315 317	it
+*	Coreference T1 T16 T46
+*	Coreference T9 T12
+*	Coreference T15 T17 T18
+T11	Money 19 40	cryptocurrency Monero
+T33	Money 165 170	coins
+*	Coreference T6 T44
+T34	Vulnerability 127 130	one
+*	Coreference T34 T7 T40 T10 T43 T35
+T46	Hacker-Group 506 515	attackers
+T48	Campaign 583 595	transactions
+T49	Money 746 764	Monero-based coins
+T51	Vulnerability 954 964	Other bugs
+T52	Vulnerability 976 1007	Denial of Service attack vector
+T43	Vulnerability 1170 1181	wallet flaw
+T18	Vulnerability 1287 1292	kinks
+T53	Money 1300 1331	anonymous cryptocurrency’s code
+T54	Money 1341 1347	Monero
+*	Coreference T54 T11
+T55	Money 1458 1466	bounties
+*	Coreference T39 T55
+T56	Campaign 1663 1674	probing EOS
+T57	Hacker-Group 1704 1710	hacker
+T58	Person 1885 1895	fluffypony
+*	Coreference T23 T58 T36 T29
+*	Coreference T32 T27
+T41	Organization 2227 2236	Hard Fork
+*	Coreference T26 T41

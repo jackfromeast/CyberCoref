@@ -1,0 +1,212 @@
+T3	Malware 95 105	ransomware
+T4	Attack-Pattern 110 150	webcams being drafted into botnet armies
+T5	Attack-Pattern 163 201	take down major internet organizations
+T7	Time 203 207	2016
+T2	Organization 62 75	organizations
+T8	Email 2871 2886	phishing emails
+T6	Campaign 28 47	 the U.S. elections
+T1	Device 110 117	webcams
+T9	Malware 137 150	botnet armies
+T10	Organization 179 201	internet organizations
+T11	Time 211 218	 a year
+T12	Campaign 82 85	hit
+T13	Campaign 241 259	Ransomware attacks
+T14	Number 270 281	267 percent
+T15	Time 285 289	2016
+T16	Number 309 319	70 percent
+T17	Malware 327 334	malware
+T18	Time 347 362	during the year
+T19	Software 374 386	Malwarebytes
+T20	Malware 446 456	ransomware
+T21	Time 485 489	2016
+T22	Malware 491 493	it
+T23	Software 516 520	tool
+T24	Hacker-Group 529 543	cybercriminals
+T25	Attack-Pattern 549 593	malvertising, tech support scams and botnets
+T26	Malware 633 640	malware
+T27	Campaign 563 581	tech support scams
+T28	Malware 586 593	botnets
+T30	Malware 704 711	Malware
+T31	Number 719 733	 the amount of
+T32	Malware 734 744	ransomware
+T33	Time 753 786	between January and November 2016
+T34	Number 797 807	68 percent
+T35	Number 847 850	400
+T36	Malware 851 859	variants
+T37	Malware 900 910	Teslacrypt
+T38	Time 938 947	 the year
+T40	Campaign 981 990	 a threat
+T41	Time 994 997	May
+T42	Information 1002 1017	 its master key
+T43	Malware 1054 1059	Locky
+T44	Malware 1064 1070	Cerber
+T45	Time 1128 1132	2016
+T46	Malware 1136 1146	Teslacrypt
+T47	Purpose 1078 1120	together managed to do just as much damage
+T48	Location 1177 1194	The United States
+T49	Campaign 1213 1231	ransomware attacks
+T50	Location 1244 1251	Germany
+T51	Location 1256 1261	Italy
+T52	Person 1263 1287	Malwarebytes researchers
+T53	Organization 1318 1341	particular large nation
+T54	Campaign 1385 1403	ransomware attacks
+T55	Organization 1414 1424	 A country
+T56	Location 1468 1474	Russia
+T57	Person 1495 1511	Russian citizens
+T58	Malware 1545 1551	Cerber
+T59	Malware 1556 1561	Locky
+T61	Attack-Pattern 1629 1646	infect a computer
+T62	Location 1659 1665	Russia
+T63	Information 1674 1685	 a key clue
+T64	Organization 1712 1723	 the groups
+T65	Location 1791 1805	Eastern Europe
+T66	Malware 1730 1745	 these families
+T67	Location 1827 1833	Russia
+T68	Organization 1855 1887	 the top most infected countries
+T69	Location 1969 1978	Geography
+T70	Hacker-Group 2004 2017	 the bad guys
+T71	Malware 2032 2039	malware
+T72	Number 2063 2073	81 percent
+T73	Person 2077 2095	ransomware victims
+T74	Location 2099 2112	North America
+T75	Organization 2118 2128	businesses
+T76	Person 2136 2144	consumer
+T77	Number 2168 2178	51 percent
+T78	Campaign 2183 2190	attacks
+T79	Location 2210 2216	Europe
+T80	Organization 2217 2229	 The company
+T81	Time 2264 2273	this year
+T82	Malware 2279 2289	ransomware
+T83	Malware 2314 2326	new variants
+T84	Malware 2339 2344	Locky
+T85	Malware 2348 2354	Cerber
+T86	Hacker-Group 2412 2426	cybercriminals
+T87	Malware 2379 2388	new types
+T89	Number 2445 2455	60 percent
+T90	Software 2428 2439	Malwarebyts
+T88	Malware 2458 2482	 the ransomware variants
+T91	Time 2491 2515	in the last half of 2016
+T92	Time 2531 2537	a year
+T93	Software 2551 2553	it
+T94	Malware 2585 2595	ransomware
+T95	Time 2617 2621	2016
+T96	Software 2627 2639	Malwarebytes
+T97	Malware 2652 2666	Kovter malware
+T98	Attack-Pattern 2711 2730	distribute ad fraud
+T99	Attack-Pattern 2744 2793	acting as downloader for other malicious software
+T100	Malware 2775 2793	malicious software
+T101	Malware 2799 2801	it
+T102	Malware 2842 2854	exploit kits
+T103	Malware 2906 2912	Kovter
+T104	Malware 2964 2974	ransomware
+T105	Malware 2990 2992	it
+T106	Hacker-Group 3031 3045	 the attackers
+T107	Purpose 2993 3027	provides a source of direct profit
+T108	Information 3083 3106	credit card information
+T109	Information 3067 3075	password
+T110	Information 3111 3132	social media accounts
+T111	Hacker-Group 3142 3151	criminals
+T112	Person 3159 3170	 the victim
+T113	File 3188 3210	 their important files
+T114	Person 3229 3233	them
+T115	Organization 3244 3269	 the advertising industry
+T116	Person 3311 3316	users
+T117	Attack-Pattern 3059 3151	selling password dumps, credit card information and social media accounts to other criminals
+T118	Purpose 3153 3181	having the victim either pay
+T119	Campaign 3347 3355	Ad fraud
+T120	Malware 3372 3385	cousin adware
+T121	Time 3407 3411	2016
+T122	Malware 3469 3477	Vonteera
+T123	Attack-Pattern 3493 3539	disable anti-virus and other security software
+T124	Software 3501 3539	anti-virus and other security software
+T125	Malware 3541 3547	Adware
+T126	Campaign 3591 3609	tech support scams
+T127	Malware 3614 3626	 the malware
+T128	Attack-Pattern 3627 3740	implementing a Blue Screen of Death and posting a graphic directing the victim to call a fake tech support center
+T129	Person 3694 3705	 the victim
+T130	Organization 3713 3740	 a fake tech support center
+T131	Hacker-Group 3747 3754	someone
+T132	Purpose 3772 3784	rip them off
+T133	Person 3776 3780	them
+T134	Malware 3797 3803	adware
+T135	Malware 3834 3844	ransomware
+T136	Organization 3846 3858	Malwarebytes
+T137	Malware 3870 3876	adware
+T138	Number 3887 3897	77 percent
+T139	Campaign 3905 3912	threats
+T140	Organization 3922 3933	enterprises
+T141	Malware 3955 3957	it
+T142	Malware 3985 3995	ransomware
+T143	Malware 4032 4038	adware
+T145	Number 4126 4130	much
+T146	Campaign 4133 4142	 a threat
+T147	Malware 4146 4156	ransomware
+T148	Organization 4163 4173	businesses
+T149	Malware 4175 4177	it
+T150	Money 4197 4216	 a significant cost
+T151	Organization 4219 4234	 the enterprise
+T152	Course-of-Action 4238 4285	remediate the infection or re-image the machine
+T153	Campaign 4247 4261	 the infection
+T154	Device 4273 4285	 the machine
+T155	Malware 4287 4293	Adware
+T156	Attack-Pattern 4299 4329	creates downtime for employees
+T157	Person 4320 4329	employees
+T158	Attack-Pattern 4339 4420	experience slower computers and pop-up ads that distract users from productivity,
+T159	Device 4357 4366	computers
+T160	Person 4396 4401	users
+T161	System 4440 4447	Botnets
+T162	Time 4479 4483	2016
+T163	Campaign 4506 4531	 the Mirai botnet attacks
+T164	Time 4535 4561	late September and October
+T165	Attack-Pattern 4582 4657	using compromised Internet of Things devices as soldiers in the botnet army
+T166	Device 4588 4626	compromised Internet of Things devices
+T167	Person 4630 4638	soldiers
+T168	System 4641 4652	 the botnet
+T169	Number 4670 4673	few
+T170	Device 4690 4708	 their IoT devices
+T171	Attack-Pattern 4712 4753	changing the preset password and username
+T172	Information 4720 4740	 the preset password
+T173	Information 4745 4753	username
+T174	Person 4754 4758	they
+T175	System 4810 4824	 a botnet army
+T176	Organization 4826 4838	Malwarebytes
+T177	Device 4880 4894	 these devices
+T178	System 4935 4953	 the botnet armies
+T179	Time 4988 4992	2017
+T180	Organization 4854 4867	manufacturers
+T181	Course-of-Action 4843 4921	called for manufacturers to help make these devices more secure out of the box
+T182	Organization 5029 5041	Malwarebytes
+T183	Number 5050 5061	100 million
+T184	Organization 5062 5071	corporate
+T185	Device 5076 5094	consumer computers
+T186	Number 5106 5109	200
+T187	Organization 5110 5119	countries
+T188	Time 5120 5150	between June and November 2016
+T190	Pronoun 3776 3780	them
+T203	Malware 1035 1037	It
+T29	Malware 961 963	it
+T39	Information 1807 1809	It
+T60	Organization 2291 2293	It
+T144	Malware 4055 4086	 a Potentially Unwanted Program
+T189	Malware 4088 4091	PUP
+T191	Person 4674 4680	people
+*	Coreference T37 T46 T29 T203
+*	Coreference T50 T69
+*	Coreference T44 T85 T58
+*	Coreference T56 T62 T67
+*	Coreference T92 T81
+*	Coreference T123 T124
+*	Coreference T7 T45 T95 T121 T21 T15 T162
+*	Coreference T170 T177
+*	Coreference T175 T178
+*	Coreference T43 T59 T84
+*	Coreference T93 T136 T96 T90 T176 T182 T19
+*	Coreference T101 T100
+*	Coreference T129 T112 T133 T114
+*	Coreference T20 T22
+*	Coreference T39 T63
+*	Coreference T73 T75
+*	Coreference T60 T80
+*	Coreference T103 T105
+*	Coreference T144 T189 T149 T141 T137 T143 T155
+*	Coreference T191 T174

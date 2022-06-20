@@ -1,0 +1,144 @@
+T1	Campaign 168 188	 a ransomware attack
+T6	Campaign 390 405	a ransom demand
+T9	Money 421 427	$6,800
+T10	Money 440 447	$51,000
+T11	System 469 475	system
+T16	Campaign 1143 1149	demand
+T17	Campaign 1161 1171	the attack
+T22	Attack-Pattern 1978 2010	Some city data remains encrypted
+T4	Attack-Pattern 242 294	prevents or limits users from accessing their system
+T5	Malware 202 212	Ransomware
+T23	Attack-Pattern 298 314	locking them out
+T13	Campaign 662 677	was compromised
+T12	Information 642 661	their personal data
+T14	Information 614 633	their bank accounts
+T15	Person 560 574	city employees
+T7	Organization 2 5	CNN
+T26	Time 25 33	Thursday
+T27	Information 52 72	personal information
+T28	System 76 100	city information systems
+T29	Information 109 133	 their financial records
+T2	Organization 191 200	 the city
+T30	Malware 215 236	 a malicious software
+T32	Person 261 266	users
+T3	Money 320 329	 a ransom
+T34	Organization 339 342	NBC
+T35	Organization 353 357	WXIA
+T8	Organization 371 380	 the city
+T36	Money 409 416	bitcoin
+T37	Attack-Pattern 390 475	a ransom demand in bitcoin for $6,800 per unit or $51,000 to unlock the entire system
+T38	Organization 477 480	CNN
+T40	Person 525 530	Mayor
+T41	Person 531 551	Keisha Lance Bottoms
+T42	Course-of-Action 578 633	contact credit agencies and monitor their bank accounts
+T43	Organization 586 601	credit agencies
+T44	Person 679 682	She
+T46	Course-of-Action 703 728	take the same precautions
+T47	Person 735 748	investigators
+T48	Campaign 779 790	 the attack
+T49	Person 793 795	We
+T50	Person 821 823	we
+T51	Person 856 863	Bottoms
+T52	Time 871 882	 a Thursday
+T53	Person 908 910	us
+T54	Campaign 925 937	 this attack
+T55	Person 960 962	us
+T56	Money 971 976	bills
+T57	Person 985 987	we
+T58	Money 993 1007	direct deposit
+T59	Course-of-Action 1012 1052	go online and check your bank statements
+T60	Information 1031 1052	 your bank statements
+T61	Person 1064 1087	Chief Operating Officer
+T62	Location 1056 1063	Atlanta
+T63	Person 1088 1099	Richard Cox
+T18	Organization 1114 1123	 the city
+T20	Organization 1209 1218	 the city
+T64	Money 1235 1244	 a ransom
+T19	Person 1246 1253	Bottoms
+T65	Person 1261 1263	We
+T66	Person 1297 1299	We
+T67	Organization 1353 1369	federal partners
+T68	Person 1422 1425	she
+T69	Organization 1431 1467	 The Federal Bureau of Investigation
+T70	Organization 1472 1503	Department of Homeland Security
+T71	Campaign 1521 1537	 the cyberattack
+T72	Location 1545 1552	Atlanta
+T73	Person 1553 1585	Information Management officials
+T74	Time 1597 1605	Thursday
+T75	Time 1609 1617	5:40 a.m
+T76	Person 1620 1623	Cox
+T77	Organization 1630 1633	DHS
+T78	Person 1644 1659	Scott McConnell
+T79	Person 1634 1643	spokesman
+T80	Organization 1664 1675	 the agency
+T81	Organization 1741 1750	 the city
+T82	Organization 1751 1760	 The city
+T83	Course-of-Action 1676 1715	offered technical expertise and support
+T84	Time 1787 1795	Thursday
+T85	Software 1807 1835	customer-facing applications
+T86	Software 1847 1852	those
+T87	Money 1865 1870	bills
+T88	Information 1882 1907	court-related information
+T89	Attack-Pattern 1771 1835	outages earlier Thursday to various customer-facing applications
+T90	Time 1909 1927	Thursday afternoon
+T91	Person 1929 1932	Cox
+T92	Organization 1946 1957	departments
+T93	Information 1983 1992	city data
+T94	Person 2017 2030	investigators
+T21	Campaign 2065 2076	 the attack
+T95	Person 2078 2080	he
+T97	Person 2129 2131	he
+T99	Organization 2202 2211	 The city
+T100	Organization 2220 2229	Microsoft
+T101	Organization 2233 2240	 a team
+T102	Organization 2246 2251	Cisco
+T104	Person 2303 2335	Deputy Chief Information Officer
+T105	Person 2336 2350	Daphne Rackley
+T106	Organization 2370 2379	 the city
+T107	Vulnerability 2393 2408	vulnerabilities
+T108	Person 2436 2443	Rackley
+T109	Organization 2448 2457	 the city
+T110	Time 2483 2494	in the past
+T111	Campaign 2532 2543	 the breach
+T112	Person 2545 2548	She
+T113	System 2585 2601	critical systems
+T114	Course-of-Action 2549 2626	cited a "cloud strategy" to migrate critical systems to secure infrastructure
+T115	Device 2612 2626	infrastructure
+T116	Course-of-Action 2629 2633	This
+T117	Organization 2655 2665	 the state
+T118	Location 2669 2676	Georgia
+T119	Organization 2706 2713	country
+T120	Person 2715 2717	We
+T121	Time 2772 2783	in the past
+T122	Time 2786 2801	In the meantime
+T123	Person 2802 2812	 the mayor
+T124	Course-of-Action 2728 2771	taking active measures to mitigate any risk
+T125	Person 2829 2831	We
+T126	Information 2862 2873	information
+T127	Person 2894 2903	employees
+T128	Information 2935 2939	that
+T129	Person 2953 2955	we
+T130	Person 2967 2968	I
+T131	Person 3007 3018	 the public
+T132	Information 3050 3065	 their accounts
+T133	Information 3081 3102	 your credit agencies
+T134	Course-of-Action 3027 3126	be vigilant in checking their accounts and making sure your credit agencies also have been notified
+T137	Person 942 945	you
+T24	Person 6 21	Atlanta's mayor
+T25	System 281 294	 their system
+T31	Person 306 310	them
+*	Coreference T7 T38
+*	Coreference T3 T64
+*	Coreference T72 T62
+*	Coreference T54 T17 T48 T71 T21
+*	Coreference T109 T18 T81 T82 T99 T106 T20
+*	Coreference T122 T121 T110
+*	Coreference T95 T76 T91 T61 T63 T97
+*	Coreference T108 T105 T104 T112
+*	Coreference T32 T31
+*	Coreference T11 T25
+*	Coreference T8 T2
+*	Coreference T50 T49
+*	Coreference T40 T41 T44 T68 T51 T19
+*	Coreference T65 T66
+*	Coreference T79 T78

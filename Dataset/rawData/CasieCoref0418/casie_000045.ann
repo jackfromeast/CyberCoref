@@ -1,0 +1,103 @@
+T14	Campaign 1462 1479	Cellebrite breach
+T35	Person 1491 1497	anyone
+T19	Campaign 1550 1567	data exfiltration
+T20	Organization 1518 1523	firms
+T18	Person 1398 1411	other persons
+T17	Information 1441 1455	sensitive data
+T7	Organization 846 850	they
+T9	Organization 896 904	the firm
+T6	Organization 779 790	Motherboard
+T11	Information 800 819	general information
+T10	Information 836 840	data
+T1	Campaign 78 89	data breach
+T4	Organization 60 62	it
+T3	Organization 0 40	Israeli mobile forensics firm Cellebrite
+T25	Device 129 148	external web server
+T5	Campaign 1073 1077	dump
+T13	File 1111 1125	evidence files
+T12	File 1157 1161	logs
+T33	Device 1131 1151	seized mobile phones
+T34	Device 1167 1185	Cellebrite devices
+T28	Device 2671 2677	iPhone
+T32	Person 2711 2738	the San Bernardino shooters
+T15	Person 2691 2702	Syed Farook
+T29	Organization 2539 2549	Cellebrite
+T30	Organization 2604 2611	company
+T24	Information 2210 2226	proprietary info
+T23	Information 2007 2021	technical data
+T21	Hacker-Group 1979 1986	hackers
+T31	Attack-Pattern 103 148	unauthorized access to an external web server
+T36	Device 155 170	impacted server
+T37	Software 182 204	legacy database backup
+T38	Domain 208 221	my.Cellebrite
+T39	System 227 271	company’s end user license management system
+T40	Organization 277 284	company
+T41	System 314 338	new user accounts system
+T42	Information 372 383	information
+T43	Information 402 427	basic contact information
+T44	Software 479 498	Cellebrite products
+T45	Person 431 436	users
+T46	Information 503 519	hashed passwords
+T47	Person 524 529	users
+T48	System 563 573	new system
+T49	Organization 580 587	company
+T50	Campaign 641 647	attack
+T51	Person 673 691	affected customers
+T52	Person 706 710	them
+T53	Course-of-Action 714 736	change their passwords
+T54	Time 761 778	a few hours after
+T2	Number 826 832	900 GB
+T8	Information 910 915	cache
+T26	Information 925 942	alleged usernames
+T55	Information 947 994	passwords for logging into Cellebrite databases
+T56	Software 974 994	Cellebrite databases
+T57	Domain 1022 1042	my.cellebrite domain
+T58	Organization 1012 1019	company
+T59	Hacker-Group 1192 1198	hacker
+T60	Information 1215 1219	data
+T61	Attack-Pattern 1204 1219	shared the data
+T62	Campaign 1270 1276	breach
+T63	Device 1307 1326	compromised servers
+T64	Hacker-Group 1349 1356	hackers
+T65	Software 1360 1374	IRC chat rooms
+T16	Organization 1573 1583	Cellebrite
+T66	Organization 1600 1612	organization
+T67	Hacker-Group 1643 1655	Hacking Team
+T68	Organization 1660 1679	Gamma International
+T69	Campaign 1710 1717	attacks
+T70	Hacker-Group 1721 1727	groups
+T71	Person 1765 1775	Tony Gauda
+T72	Person 1777 1791	CEO of ThinAir
+T73	Organization 1807 1824	Help Net Security
+T74	Number 1837 1843	900 GB
+T75	Information 1847 1851	data
+T76	Information 1912 1923	information
+T77	Information 1953 1973	customer information
+T22	Campaign 2103 2112	Incidents
+T78	Malware 2277 2299	advanced hacking tools
+T79	Attack-Pattern 2304 2314	techniques
+T80	Organization 2353 2358	firms
+T81	Software 2380 2438	digital arsenals with technology capable of rendering data
+T82	Organization 2470 2474	they
+T83	Organization 2497 2507	themselves
+T84	Hacker-Group 2529 2536	hackers
+T85	Person 2179 2180	I
+T86	Organization 649 653	They
+T89	Information 2065 2067	it
+T93	Organization 611 613	it
+*	Coreference T44 T56
+*	Coreference T45 T47
+*	Coreference T50 T69
+*	Coreference T2 T74
+*	Coreference T64 T21 T84 T59
+*	Coreference T10 T75 T60 T17
+*	Coreference T40 T4 T49 T30 T3 T93 T9 T86 T16 T38 T57 T29
+*	Coreference T37 T36 T39
+*	Coreference T48 T41
+*	Coreference T6 T7
+*	Coreference T62 T5 T14 T19 T22
+*	Coreference T72 T71
+*	Coreference T89 T23
+*	Coreference T52 T51
+*	Coreference T82 T83 T80
+*	Coreference T32 T15

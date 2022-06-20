@@ -1,0 +1,61 @@
+T7	Device 0 21	Google Nest’s Dropcam
+T6	Device 23 34	Dropcam Pro
+T5	Device 36 52	Nest Cam Outdoor
+T4	Device 57 89	Nest Cam Indoor security cameras
+T2	Person 161 182	a security researcher
+T11	Vulnerability 194 213	The vulnerabilities
+T10	Device 267 279	 the devices
+T9	Version 229 256	the latest firmware version
+T28	Version 281 287	v5.2.1
+T15	Time 337 346	last fall
+T12	Vulnerability 290 294	They
+T17	Organization 393 399	Google
+T20	Vulnerability 434 453	The first two flaws
+T19	Attack-Pattern 458 510	be triggered and lead to a buffer overflow condition
+T22	Device 1443 1447	Nest
+T23	Course-of-Action 1480 1487	a patch
+T27	Course-of-Action 1518 1520	It
+T26	Hacker-Group 115 127	 an attacker
+T8	Hacker-Group 513 526	 the attacker
+T13	Device 535 546	 the camera
+T16	Code 546 578	 a too-long Wi-Fi SSID parameter
+T18	Code 582 617	a long encrypted password parameter
+T29	Device 654 663	Bluetooth
+T30	Hacker-Group 726 735	attackers
+T31	Campaign 800 811	 the attack
+T32	Device 708 720	 the cameras
+T33	Vulnerability 824 842	one of these flaws
+T34	Device 852 864	 the devices
+T35	Attack-Pattern 848 881	make the devices crash and reboot
+T36	Vulnerability 882 897	 The third flaw
+T37	Hacker-Group 933 946	 the attacker
+T38	Vulnerability 924 926	it
+T39	Device 955 966	 the camera
+T40	System 997 1018	 the wireless network
+T41	Information 1059 1070	 a new SSID
+T42	Information 1105 1109	SSID
+T43	Device 1125 1136	 the camera
+T21	Device 1331 1340	Bluetooth
+T24	Device 1361 1375	 these cameras
+T25	Person 1396 1401	users
+T44	Course-of-Action 1412 1441	minimize this particular risk
+T45	Vulnerability 1437 1441	risk
+T47	Device 1284 1295	 the camera
+T48	System 1203 1216	Wi-Fi network
+T49	Time 1254 1270	60 to 90 seconds
+T14	Person 325 336	Jason Doyle
+T46	Person 314 324	researcher
+T50	Course-of-Action 1506 1508	it
+T51	Device 785 789	them
+T52	Device 1028 1030	it
+T54	Device 1057 1059	it
+T56	Information 1173 1175	it
+T1	Device 137 153	 their Bluetooth
+*	Coreference T2 T46 T14
+*	Coreference T41 T42 T56
+*	Coreference T12 T11
+*	Coreference T29 T1 T21
+*	Coreference T32 T51 T34
+*	Coreference T36 T38
+*	Coreference T23 T50 T27
+*	Coreference T39 T52 T54 T43 T47

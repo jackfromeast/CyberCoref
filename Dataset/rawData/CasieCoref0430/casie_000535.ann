@@ -1,0 +1,56 @@
+T1	Money 241 256	ransom payments
+T2	Money 230 237	$20,000
+T3	Malware 192 203	the malware
+T5	Time 174 186	 the weekend
+T4	Device 158 167	computers
+T8	Money 313 328	 those payments
+T9	Time 306 312	Monday
+T6	Malware 432 444	 the malware
+T15	Campaign 1079 1085	ransom
+T16	Attack-Pattern 1181 1216	create an individual bitcoin wallet
+T17	Person 1226 1232	victim
+T10	Campaign 852 858	ransom
+T11	Person 890 897	victims
+T7	Malware 0 4	WCry
+T12	Malware 5 66	 the National Security Agency exploit-powered ransomware worm
+T14	Organization 5 34	 the National Security Agency
+T18	Time 101 107	Friday
+T19	Information 375 379	data
+T20	Money 383 401	 the three Bitcoin
+T21	Person 418 429	researchers
+T22	Time 473 479	Monday
+T23	Organization 457 469	Eastern Time
+T24	Money 481 489	payments
+T25	Money 515 522	$71,000
+T26	Time 529 535	May 12
+T27	Money 545 557	263 payments
+T28	Money 575 593	 the three wallets
+T29	Code 603 627	 the code in the malware
+T30	Malware 615 627	 the malware
+T32	Money 628 664	 The payment history for each wallet
+T31	Money 671 694	individual transactions
+T33	Money 718 739	0.16 and 0.34 Bitcoin
+T34	Money 755 759	$300
+T35	Money 764 768	$600
+T36	Money 790 819	the number of larger payments
+T37	Money 903 923	the price of Bitcoin
+T38	Time 949 967	over the past week
+T13	Person 1027 1068	researchers at Symantec Security Response
+T39	Organization 1042 1068	Symantec Security Response
+T40	Malware 1235 1243	WannaCry
+T41	Email 1271 1286	bitcoin address
+T42	Person 1296 1302	victim
+T43	Time 1408 1420	May 16, 2017
+T44	Organization 1375 1392	Security Response
+T45	Campaign 1546 1578	the initial wave of WCry malware
+T46	Malware 1566 1578	WCry malware
+T47	Malware 1605 1617	 the malware
+T48	Vulnerability 1354 1372	race condition bug
+T49	Code 1428 1437	 the code
+T50	Malware 1647 1649	it
+T51	Code 1446 1448	it
+*	Coreference T9 T22
+*	Coreference T1 T8 T24 T25
+*	Coreference T39 T44
+*	Coreference T46 T47 T50 T7 T40 T3 T30
+*	Coreference T51 T49

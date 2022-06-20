@@ -1,0 +1,100 @@
+T5	Vulnerability 130 147	The vulnerability
+T6	Vulnerability 149 163	CVE-2018-11235
+T8	Campaign 183 188	fixed
+T9	Version 196 202	2.17.1
+T10	Version 223 233	2.17.1 (2)
+T15	Organization 192 195	Git
+T16	System 207 210	Git
+T17	System 215 222	Windows
+T11	Campaign 241 259	were both released
+T12	Time 260 265	today
+T3	Organization 0 3	Git
+T2	Vulnerability 18 42	a security vulnerability
+T4	Attack-Pattern 48 83	allows for arbitrary code execution
+T13	Campaign 2615 2636	have not been patched
+T18	Organization 2435 2462	Visual Studio Team Services
+T19	Organization 2473 2490	hosting providers
+T20	Person 2508 2513	users
+T21	Organization 2327 2336	Microsoft
+T22	Vulnerability 531 549	 The vulnerability
+T23	Organization 279 323	 the Visual Studio Team Services (VSTS) team
+T24	Organization 380 384	VSTS
+T25	Organization 111 120	Microsoft
+T26	System 1223 1231	 the Git
+T27	System 617 620	Git
+T28	URL 2169 2183	symbolic links
+T29	Organization 1503 1512	Microsoft
+T30	Vulnerability 1449 1471	 the new vulnerability
+T31	Vulnerability 1322 1338	 a vulnerability
+T32	Attack-Pattern 445 491	transmitting malicious repositories to clients
+T1	Organization 1003 1012	Microsoft
+T7	Organization 1947 1956	Microsoft
+T14	System 2229 2249	 the .git repository
+T33	Vulnerability 1989 2008	 this vulnerability
+T34	Software 802 829	 the submodule’s repository
+T36	Person 1770 1772	it
+T37	Organization 744 746	it
+T38	Software 1597 1599	it
+T39	Person 1914 1916	it
+T40	Software 2198 2202	they
+T41	Software 867 869	it
+T43	Software 400 413	Visual Studio
+T44	Software 431 440	 a vector
+T45	Malware 87 109	malicious repositories
+T46	Software 484 491	clients
+T47	Software 516 530	 their clients
+T48	Malware 458 480	malicious repositories
+T49	Software 565 577	repositories
+T50	Software 602 615	 a repository
+T51	Software 631 653	 the parent repository
+T35	Organization 726 729	Git
+T52	Software 785 794	submodule
+T53	Software 704 718	 the submodule
+T54	Software 887 898	 the parent
+T57	Software 950 972	 the parent repository
+T58	Software 1053 1069	Git repositories
+T59	Information 1092 1123	important configuration details
+T60	Software 1162 1167	hooks
+T61	Code 1179 1186	scripts
+T62	Information 1242 1260	 The configuration
+T63	Device 1279 1295	 a remote server
+T64	Device 1141 1152	 the server
+T65	Device 1345 1359	remote servers
+T66	Person 1404 1417	 the end user
+T67	Malware 336 358	malicious repositories
+T68	Software 1531 1558	 the submodule’s repository
+T69	Software 1575 1595	 a parent repository
+T70	Software 1634 1659	 the submodule repository
+T71	Software 1676 1683	 a hook
+T72	Person 1712 1719	 a user
+T73	Malware 1738 1768	 a malicious parent repository
+T74	Malware 1789 1800	 the parent
+T75	Software 1807 1821	 the submodule
+T76	Software 1873 1882	submodule
+T77	Software 1940 1945	hooks
+T78	Software 2010 2019	submodule
+T79	Software 2064 2075	Git clients
+T80	Software 2082 2091	submodule
+T82	System 2270 2292	 the actual repository
+T83	Organization 2338 2341	Git
+T84	Software 2367 2379	repositories
+T88	Software 2527 2539	repositories
+T89	Software 2561 2576	 this submodule
+T90	Software 2602 2609	clients
+*	Coreference T9 T10
+*	Coreference T18 T23 T24
+*	Coreference T16 T3 T27 T15 T26 T35 T37 T83
+*	Coreference T22 T5 T31 T30 T33 T2 T6
+*	Coreference T43 T44
+*	Coreference T47 T46 T79 T90
+*	Coreference T45 T48 T67
+*	Coreference T51 T50 T54 T57 T69
+*	Coreference T53 T52 T41
+*	Coreference T1 T25 T29 T7 T21
+*	Coreference T59 T60 T61 T62
+*	Coreference T64 T63 T65
+*	Coreference T58 T49
+*	Coreference T34 T68 T70 T38 T75 T76 T78 T80 T40 T89
+*	Coreference T72 T66 T36 T39
+*	Coreference T73 T74
+*	Coreference T84 T88

@@ -1,0 +1,77 @@
+T5	Campaign 986 1007	pay a ransomware fine
+T6	Organization 896 902	police
+T7	Location 906 911	Texas
+T15	Location 1049 1061	south Dallas
+T16	Money 1111 1128	near $4000 ransom
+T14	Organization 1009 1045	The Cockerell Hill Police Department
+T13	Time 1162 1174	mid-December
+T2	Malware 1147 1158	the malware
+T21	Information 1542 1553	photographs
+T25	Device 1578 1584	server
+T22	Information 1504 1531	in-house surveillance video
+T23	Information 1485 1497	in-car video
+T24	Information 1461 1478	body camera video
+T26	Campaign 146 165	a ransomware attack
+T18	Information 1257 1284	a department-issued address
+T19	Purpose 1176 1220	The ransomware was introduced to the network
+T3	File 1225 1237	a spam email
+T4	Time 1790 1802	back to 2009
+T8	Device 1987 1990	DVD
+T9	Device 1984 1986	CD
+T10	File 2035 2062	digital copies of documents
+T11	Time 442 463	from 12 to 15 January
+T27	Device 235 242	cameras
+T28	Device 14 52	police internet-connected CCTV cameras
+T29	Time 93 100	January
+T30	Number 207 210	123
+T31	Number 231 234	187
+T32	Device 262 269	devices
+T33	Campaign 338 344	attack
+T34	Software 543 551	software
+T35	Device 534 540	device
+T36	Campaign 724 730	attack
+T12	Organization 1092 1095	FBI
+T38	System 423 427	them
+*	Coreference T5 T26 T33 T36
+T17	Person 167 176	Officials
+*	Coreference T27 T28 T32 T35
+T20	Organization 301 307	police
+T40	Location 56 66	Washington
+T42	Information 390 401	camera data
+T43	System 361 380	the storage systems
+*	Coreference T43 T38
+T44	Vulnerability 498 503	issue
+T45	Malware 633 643	ransomware
+T46	System 651 657	system
+T47	Person 674 683	officials
+*	Coreference T17 T47
+T48	Malware 736 746	ransomware
+*	Coreference T45 T48 T52 T2 T1 T55
+T49	Organization 798 804	police
+*	Coreference T20 T49 T6
+T52	Malware 992 1002	ransomware
+T1	Malware 1180 1190	ransomware
+T53	System 1213 1220	network
+T54	System 763 779	the CCTV network
+*	Coreference T54 T53
+T55	Malware 1351 1356	virus
+T56	File 1393 1402	documents
+T57	Information 1618 1629	information
+T58	File 1650 1665	those documents
+*	Coreference T56 T58 T61 T64
+T59	Information 1678 1689	photographs
+*	Coreference T21 T59 T65 T69
+T60	Organization 1734 1751	Police Department
+*	Coreference T14 T60 T62
+T61	File 1758 1763	files
+T62	Organization 1817 1823	police
+T63	Campaign 1857 1871	investigations
+T64	File 1906 1915	documents
+T65	Information 1954 1965	photographs
+T66	Information 1943 1949	videos
+T67	Information 1667 1673	videos
+*	Coreference T67 T66 T37
+T68	File 1892 1898	copies
+*	Coreference T10 T68
+T37	Information 2105 2111	videos
+T69	Information 2115 2126	photographs

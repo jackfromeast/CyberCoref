@@ -1,0 +1,79 @@
+T6	Campaign 206 220	The collection
+T5	Information 224 252	driver's license information
+T20	Malware 315 333	PoS malware family
+T7	Campaign 375 406	this new data collection system
+T8	Malware 422 451	an ancient PoS malware family
+T1	Campaign 99 104	steal
+T2	Information 105 133	driver's license information
+T4	System 33 61	Point of Sale (PoS) software
+T3	Malware 0 7	Malware
+T19	Attack-Pattern 23 32	infecting
+T10	Campaign 2211 2224	are gathering
+T14	Purpose 2333 2347	identity theft
+T9	Information 2225 2241	this information
+T12	Malware 2198 2210	this malware
+T11	Person 2184 2190	crooks
+T13	Purpose 2295 2323	aid various fraud operations
+T15	Information 2266 2281	victim profiles
+T16	Campaign 2588 2598	collecting
+T17	Information 2599 2627	driver's license information
+T18	Malware 2655 2681	other PoS malware families
+T21	Person 2266 2272	victim
+T22	Malware 2357 2361	they
+T23	Malware 1104 1106	it
+T24	Malware 696 698	it
+T25	Malware 795 797	it
+T26	Malware 628 630	it
+T27	Pronoun 2097 2099	it
+*	Coreference T3 T12 T22 T72 T74
+T29	Organization 170 204	US cyber-security firm Trend Micro
+T30	Person 263 274	researchers
+T31	Malware 507 514	malware
+T32	Malware 528 542	malware family
+T33	Malware 518 524	RawPOS
+*	Coreference T31 T33 T20 T8 T32 T36 T25 T39 T43 T46 T23 T53 T56
+T34	Malware 586 603	financial malware
+*	Coreference T34 T26 T24
+T35	Organization 656 670	security firms
+T36	Malware 725 731	RawPOS
+T37	Campaign 801 808	attacks
+T38	Malware 834 860	other POS malware families
+T39	Malware 862 868	RawPOS
+T40	Device 899 908	computers
+T41	Software 918 930	PoS software
+*	Coreference T4 T41 T70
+T42	Device 941 944	PCs
+*	Coreference T40 T42 T44
+T43	Malware 950 957	malware
+T44	Device 1022 1030	computer
+T45	Information 997 1001	data
+T46	Malware 1075 1081	RawPOS
+T47	Software 1033 1036	RAM
+T48	Software 1094 1097	RAM
+*	Coreference T47 T48 T61
+T49	Information 1113 1117	data
+*	Coreference T45 T49 T54 T60 T69
+T53	Malware 1262 1268	RawPOS
+T54	Information 1189 1206	payment card data
+T55	Person 1351 1371	security researchers
+*	Coreference T30 T55 T68
+T56	Malware 1401 1407	RawPOS
+T57	Version 1302 1310	versions
+T58	Version 1418 1426	versions
+*	Coreference T57 T58
+T59	Organization 1448 1459	Trend Micro
+*	Coreference T59 T29
+T60	Information 1549 1565	credit card data
+T61	Software 1600 1623	infected computer's RAM
+T65	Information 1771 1791	US drivers' licenses
+T66	Information 1885 1901	driver's license
+*	Coreference T65 T66 T67 T5 T2 T9 T15 T71 T73 T17
+T67	Information 2002 2006	data
+T68	Person 2164 2175	Researchers
+T69	Information 2018 2035	payment card data
+T70	Software 2070 2082	PoS software
+T71	Information 2376 2387	stolen data
+T72	Malware 2388 2398	themselves
+T73	Information 2433 2457	driver's license barcode
+T74	Malware 2555 2562	malware
+*	Coreference T18 T38

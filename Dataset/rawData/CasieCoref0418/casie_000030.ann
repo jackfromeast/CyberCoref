@@ -1,0 +1,90 @@
+T21	Organization 1061 1068	vendors
+T17	Organization 1003 1010	US-CERT
+T18	Vulnerability 1028 1031	bug
+T19	Time 1032 1047	for some months
+T22	Campaign 1078 1099	the public disclosure
+T24	Course-of-Action 1129 1136	patches
+T27	Organization 1108 1112	them
+T25	Vulnerability 1149 1166	the vulnerability
+T73	Vulnerability 1249 1252	bug
+T54	System 1619 1622	iOS
+T56	Version 1601 1615	newer versions
+T55	System 1589 1596	Windows
+T34	System 1680 1687	Android
+T32	Vulnerability 1647 1650	bug
+T65	Version 1688 1713	6.0 Marshmallow and newer
+T3	Organization 0 7	Vendors
+T1	Vulnerability 34 47	vulnerability
+T6	Vulnerability 187 190	bug
+T58	Organization 264 269	ZDNet
+T59	Vulnerability 275 278	bug
+T60	Vulnerability 288 293	KRACK
+T61	Attack-Pattern 315 340	Key Reinstallation Attack
+T62	Vulnerability 370 374	flaw
+T15	Person 746 765	security researcher
+T9	Vulnerability 813 817	flaw
+T10	Attack-Pattern 867 882	decrypt traffic
+T11	Attack-Pattern 884 902	hijack connections
+T12	Attack-Pattern 904 937	perform man-in-the-middle attacks
+T13	Attack-Pattern 943 969	eavesdrop on communication
+T14	Device 982 1001	WPA2-enabled device
+T53	Person 770 792	academic Mathy Vanhoef
+T29	Vulnerability 1292 1295	bug
+T31	Attack-Pattern 1360 1406	dupe a connected party into reinstalling a key
+T64	Code 1310 1336	WPA2's cryptographic nonce
+T36	Vulnerability 2181 2194	vulnerability
+T52	Organization 2470 2487	Ubiquiti Networks
+T51	Organization 2458 2465	Toshiba
+T50	Organization 2432 2439	Samsung
+T49	Organization 2423 2430	Red Hat
+T48	Organization 2401 2421	Microchip Technology
+T39	Organization 2292 2299	vendors
+T47	Organization 2383 2399	Juniper Networks
+T40	Organization 2304 2309	Aruba
+T46	Organization 2376 2381	Intel
+T41	Organization 2311 2316	Cisco
+T45	Organization 2368 2374	HostAP
+T42	Organization 2318 2335	Espressif Systems
+T43	Organization 2337 2345	Fortinet
+T44	Organization 2347 2366	the FreeBSD Project
+T67	Vulnerability 2096 2102	issues
+T68	Organization 2072 2079	vendors
+T70	Protocol 2026 2030	WPA2
+T69	Vulnerability 1985 1998	vulnerability
+T2	Attack-Pattern 68 101	eavesdrop on your network traffic
+T4	Hacker-Group 58 67	attackers
+T74	Time 103 117	Monday morning
+T5	Protocol 433 450	security protocol
+T7	Protocol 386 418	Wi-Fi Protected Access II (WPA2)
+T57	Protocol 214 227	WPA2 wireless
+T63	Protocol 468 471	WEP
+T75	Purpose 484 517	protect and secure communications
+T76	Device 546 553	routers
+T77	Device 555 569	mobile devices
+T78	Device 575 607	Internet of Things (IoT) devices
+T79	Vulnerability 625 630	issue
+T80	System 638 644	system
+T81	Device 679 686	devices
+T82	Information 694 713	pre-shared password
+T8	System 724 731	network
+T83	Hacker-Group 819 832	threat actors
+T84	Vulnerability 850 863	vulnerability
+T16	Hacker-Group 1272 1286	cyberattackers
+T20	Campaign 1468 1482	replay attacks
+T23	Hacker-Group 1498 1507	attackers
+T26	Attack-Pattern 1542 1575	replay, decrypt, or forge packets
+T28	Campaign 1719 1725	attack
+T30	Device 1756 1767	IoT devices
+T33	Organization 1772 1779	vendors
+T35	Vulnerability 1786 1871	fail to implement acceptable security standards or update systems in the supply chain
+T71	Number 1898 1909	millions of
+T72	Device 1910 1946	vulnerable and unpatched IoT devices
+T85	Malware 1972 1979	botnets
+T66	Vulnerability 2129 2144	ten CVE numbers
+T37	Organization 2232 2272	US Department of Homeland Security (DHS)
+*	Coreference T13 T2
+*	Coreference T3 T68 T33 T21 T39
+*	Coreference T1 T25 T36 T84 T69 T32 T73 T18 T59 T29 T6 T60 T62 T9 T67 T79 T66
+*	Coreference T7 T57 T5
+*	Coreference T16 T83 T23
+*	Coreference T30 T78 T72

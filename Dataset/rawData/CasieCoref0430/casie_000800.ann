@@ -1,0 +1,114 @@
+T24	Campaign 772 782	The attack
+T3	Campaign 678 686	phishing
+T5	Attack-Pattern 721 770	social engineering tactics with a powerful Trojan
+T1	Campaign 281 291	data leaks
+T2	Information 319 339	personal information
+T20	Information 343 356	state secrets
+T21	Campaign 662 672	The attack
+T8	Campaign 1718 1729	coming from
+T9	Organization 1730 1750	a healthcare company
+T11	File 1647 1664	The Word document
+T25	Attack-Pattern 1665 1694	gets to the victim’s computer
+T7	File 1705 1717	a spam email
+T22	Campaign 783 790	is sent
+T4	File 794 799	email
+T6	File 805 830	an attached Word document
+T10	Campaign 1761 1767	tricks
+T12	Person 1768 1781	the recipient
+T15	Purpose 1866 1877	gain access
+T13	File 1752 1760	The text
+T14	Attack-Pattern 1840 1853	run the macro
+T16	Campaign 3064 3069	steal
+T17	Information 3070 3081	credentials
+T18	Code 3039 3057	the malicious code
+T23	Software 3087 3095	browsers
+T19	Path 2619 2653	C:\Users\??? ?\AppData\Roaming.eXe
+T26	Path 2554 2616	http://xxxxxxxxxxxx.com/13obCpHRxA1t3rbMpzh7iy1awHVm1MzNTX.exe
+T27	Campaign 878 884	attack
+T28	Campaign 545 558	spam campaign
+T29	Person 179 187	citizens
+T30	Organization 159 174	public entities
+T31	Campaign 432 439	attacks
+T32	Time 516 529	Last December
+T33	Code 1338 1370	B480B7EFE5E822BD3C3C90D818502068
+T34	Hash 1378 1418	861ae1beb98704f121e28e57b429972be0410930
+T35	Time 1479 1489	2016-12-19
+T36	Software 2414 2421	cmd.exe
+T37	Software 2425 2439	pOWeRsHELL.EXe
+T38	Hacker-Group 3230 3249	 the cybercriminals
+T39	Information 3470 3506	huge quantities of confidential data
+T40	Device 3175 3204	 the Command & Control Server
+T41	Device 3120 3127	machine
+T42	Purpose 3131 3142	bot network
+T43	Course-of-Action 3001 3022	signatures or updates
+T44	Organization 2786 2832	 the Intelligence Collective at Panda Security
+T45	Code 2856 2870	malicious code
+T46	Campaign 2891 2905	 this campaign
+T47	Malware 2908 2939	 a variant of the Dyreza family
+T48	Campaign 3338 3355	malicious actions
+T49	Attack-Pattern 3282 3310	download further new malware
+T50	Purpose 1175 1219	download and run another malicious component
+T51	Hacker-Group 479 493	cybercriminals
+T52	Location 1010 1029	 a European country
+T53	File 1263 1282	 the analyzed files
+T54	File 1126 1144	 the Word document
+T55	Person 2834 2836	we
+T56	Campaign 860 862	it
+T57	Code 3263 3265	it
+T58	Campaign 98 102	they
+T59	Campaign 189 193	They
+T60	Code 3144 3146	It
+T61	Person 842 844	we
+T62	File 1881 1883	it
+T63	Campaign 0 12	Cyberthreats
+T65	Organization 643 660	European ministry
+T66	Person 969 1007	 an employee of the Ministry of Health
+T67	Person 951 965	 the recipient
+T68	Organization 984 1007	 the Ministry of Health
+T69	Organization 926 947	 a healthcare company
+T70	File 891 903	 the message
+T71	Code 1087 1104	 the harmful code
+T72	Code 1157 1167	 the macro
+T73	Code 1113 1123	 the macro
+T74	Malware 1192 1219	another malicious component
+T75	File 1295 1313	 the Word document
+T76	File 1431 1444	 the document
+T77	Code 1490 1508	 The malicous code
+T78	Person 1672 1683	 the victim
+T79	Code 1843 1853	 the macro
+T80	Information 1897 1906	 the data
+T81	Organization 1920 1960	Panda Security’s Collective Intelligence
+T82	Campaign 1961 1980	 this spam campaign
+T83	Code 2104 2114	 the macro
+T84	Code 2151 2173	another malicious code
+T85	Code 2196 2213	 the macro itself
+T86	Code 2220 2230	 the macro
+T87	Code 2321 2331	 the macro
+T88	Code 2336 2346	 the macro
+T89	File 2358 2371	 the Word doc
+T90	System 2401 2412	 the system
+T91	File 2654 2672	 The system symbol
+T92	File 2674 2681	cmd.exe
+T93	Information 2765 2774	 the data
+T94	Organization 2941 2946	Panda
+T95	Code 3205 3220	 These commands
+T96	Code 3162 3170	commands
+T97	Organization 3373 3394	Public Administration
+T98	Organization 44 66	public administrations
+T99	Information 3509 3513	data
+*	Coreference T11 T6 T70 T54 T75 T76 T13 T62 T89
+*	Coreference T18 T45 T60
+*	Coreference T28 T46
+*	Coreference T58 T63 T59 T10 T31 T27 T21 T24 T56 T82
+*	Coreference T65 T68
+*	Coreference T73 T72 T79 T83 T85 T86 T87 T88
+*	Coreference T71 T77
+*	Coreference T69 T9
+*	Coreference T7 T4
+*	Coreference T78 T12 T67 T66
+*	Coreference T92 T91
+*	Coreference T80 T93 T17
+*	Coreference T44 T81 T94
+*	Coreference T96 T95 T57
+*	Coreference T97 T98
+*	Coreference T99 T39

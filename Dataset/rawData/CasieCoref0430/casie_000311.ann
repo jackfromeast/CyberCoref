@@ -1,0 +1,125 @@
+T36	Hacker-Group 282 294	 an attacker
+T37	Person 309 321	 a developer
+T3	Hacker-Group 1 10	Attackers
+T2	Person 30 40	developers
+T35	Attack-Pattern 2669 2713	spread adware and promote affiliate networks
+T27	Campaign 2506 2522	phishing attacks
+T8	Person 624 634	Developers
+T9	Software 724 728	apps
+T10	Software 740 753	Web Developer
+T11	Software 755 763	Copyfish
+T12	Software 765 775	Chrometana
+T13	Software 781 793	Social Fixer
+T16	Information 1060 1071	credentials
+T18	System 1084 1094	Cloudflare
+T17	Person 1075 1080	users
+T20	Person 1377 1384	victims
+T34	Attack-Pattern 1468 1506	redirecting them to affiliate programs
+T1	Campaign 21 29	phishing
+T39	Person 132 139	victims
+T41	Purpose 145 166	paying for PC repairs
+T43	Person 168 197	Proofpoint researcher Kafeine
+T44	Number 213 216	six
+T45	Malware 217 246	compromised Chrome extensions
+T38	Software 66 83	Chrome extensions
+T46	Information 324 350	Google Account credentials
+T47	Attack-Pattern 53 120	compromising Chrome extensions into spreading affiliate program ads
+T48	Software 353 366	Web Developer
+T49	Version 367 372	0.4.9
+T50	Software 374 384	Chrometana
+T51	Software 392 408	Infinity New Tab
+T52	Software 417 425	Copyfish
+T53	Software 433 442	Web Paint
+T54	Software 454 466	Social Fixer
+T55	Version 385 390	1.1.3
+T56	Version 409 415	3.12.3
+T57	Version 426 431	2.8.5
+T58	Version 443 448	1.2.1
+T59	Version 467 473	20.1.1
+T60	Time 494 503	late July
+T61	Time 508 520	early August
+T62	Person 522 529	Kafeine
+T63	Software 539 547	TouchVPN
+T64	Software 552 565	Betternet VPN
+T65	Software 589 598	late June
+T66	Number 638 645	several
+T67	Software 648 663	 the extensions
+T5	Course-of-Action 698 705	updates
+T6	Campaign 813 824	 the attack
+T7	Person 828 855	Chrome extension developers
+T68	Person 869 881	Chrome users
+T69	Attack-Pattern 862 953	divert Chrome users to affiliate programs and switch out legitimate ads with malicious ones
+T71	Purpose 969 983	generate money
+T72	Hacker-Group 987 1000	 the attacker
+T15	Hacker-Group 1020 1034	 The attackers
+T14	System 1095 1119	 an availability service
+T73	Person 1124 1141	website operators
+T74	Campaign 1182 1189	attacks
+T75	Malware 1190 1214	 The hijacked extensions
+T19	Domain 1261 1275	adult websites
+T76	Domain 1303 1308	sites
+T77	Attack-Pattern 1317 1358	steal traffic from legitimate ad networks
+T78	System 1336 1358	legitimate ad networks
+T21	Person 1438 1442	them
+T79	Attack-Pattern 1390 1461	presented with fake JavaScript alerts prompting them to repair their PC
+T80	Device 1452 1461	 their PC
+T81	Person 1480 1484	them
+T83	Code 1410 1420	JavaScript
+T84	Time 262 270	recently
+T85	Hacker-Group 1517 1535	 the threat actors
+T86	Person 1557 1564	Kafeine
+T40	Software 1645 1653	PCKeeper
+T70	Software 1654 1677	 a Windows-focused tool
+T82	Organization 1694 1703	ZeobitLLC
+T87	Organization 1704 1748	 the maker of the MacKeeper security product
+T89	Time 1792 1808	 a few years ago
+T90	Code 1836 1860	 A snippet of JavaScript
+T91	Malware 1863 1890	 the compromised extensions
+T92	File 1906 1913	 a file
+T93	System 1933 1943	Cloudflare
+T94	Code 1955 1959	code
+T95	Code 1964 1973	 a script
+T96	Information 1994 2021	Cloudflare user credentials
+T98	Attack-Pattern 1986 2021	collect Cloudflare user credentials
+T99	File 2061 2070	 the file
+T100	System 2035 2045	Cloudflare
+T101	System 2077 2079	it
+T102	Organization 2108 2118	Proofpoint
+T103	Vulnerability 2094 2104	 the issue
+T4	Attack-Pattern 301 350	phishing a developer's Google Account credentials
+T24	Email 2119 2139	 The phishing emails
+T104	Information 2169 2184	Google Accounts
+T22	Person 2253 2267	 the developer
+T105	Software 2270 2279	extension
+T25	Attack-Pattern 2145 2359	compromised developers' Google Accounts purported to come from Google's Chrome Web Store team, which claimed the developer's extension didn't comply with its policies and would be removed unless the issue was fixed
+T26	Domain 2364 2381	Bleeping Computer
+T108	Email 2432 2441	 an email
+T109	Person 2453 2480	Chrome extension developers
+T29	Hacker-Group 2523 2537	 The attackers
+T31	Attack-Pattern 2542 2603	created a convincing copy of Google's real account login page
+T28	Domain 2571 2603	Google's real account login page
+T30	Software 2629 2646	Chrome extensions
+T111	Malware 2676 2682	adware
+T112	Organization 2724 2736	adware firms
+T113	Software 2760 2777	Chrome extensions
+T114	Person 2783 2804	legitimate developers
+T115	Software 2844 2864	trustworthy products
+T116	Time 691 697	recent
+T118	Course-of-Action 2442 2480	warning to Chrome extension developers
+T119	Time 2812 2828	up to that point
+T120	Time 2718 2722	2014
+T117	Person 190 197	Kafeine
+T32	Organization 2208 2238	Google's Chrome Web Store team
+T23	Organization 2401 2423	Google's security team
+*	Coreference T10 T48
+*	Coreference T11 T52
+*	Coreference T13 T54
+*	Coreference T92 T99
+*	Coreference T93 T18 T100 T101
+*	Coreference T30 T113
+*	Coreference T43 T117 T62 T86
+*	Coreference T72 T15
+*	Coreference T20 T21 T81
+*	Coreference T87 T82
+*	Coreference T70 T40
+*	Coreference T109 T22

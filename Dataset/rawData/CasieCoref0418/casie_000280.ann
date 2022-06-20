@@ -1,0 +1,81 @@
+T1	Purpose 93 108	held for ransom
+T2	Software 62 79	MongoDB databases
+T29	Attack-Pattern 80 88	hijacked
+T11	Money 510 514	$220
+T10	Money 495 502	0.2 BTC
+T7	Hacker-Group 372 380	Harak1r1
+T30	Attack-Pattern 427 450	deleting their contents
+T3	Attack-Pattern 386 425	compromising open MongoDB installations
+T13	Software 598 609	the MongoDB
+T17	Person 584 588	they
+T5	Campaign 550 573	hit with the data theft
+T15	Person 540 544	they
+T14	Person 517 524	Victims
+T16	Campaign 1325 1339	pay the ransom
+T12	Person 1317 1324	victims
+T18	Person 1340 1344	they
+T9	Attack-Pattern 1292 1307	being destroyed
+T19	System 1266 1277	the MongoDB
+T27	Campaign 1674 1690	a ransom is paid
+T31	Number 152 157	2,000
+T32	Software 158 165	MongoDB
+T33	Hacker-Group 200 209	criminals
+T34	Person 0 20	Security researchers
+T28	Time 247 254	Dec. 27
+T36	Person 258 271	Victor Gevers
+T37	Number 809 812	200
+T38	Number 884 890	10,000
+T39	Number 828 833	2,000
+T40	Time 813 824	14 days ago
+T41	Time 857 863	Friday
+T42	Time 899 905	Monday
+T43	Person 906 914	Merrigan
+T44	Number 988 994	27,000
+T45	Hacker-Group 1074 1082	Harak1r1
+T46	Person 1110 1114	they
+T47	Hacker-Group 1148 1155	hackers
+T48	System 1183 1190	MongoDB
+T49	Person 1214 1225	Researchers
+T25	Person 1692 1694	he
+T50	Person 1632 1638	victim
+T51	Person 1453 1455	He
+T52	Time 1377 1386	Last week
+T53	Person 1388 1394	Gevers
+T54	Organization 1400 1410	Threatpost
+T55	Attack-Pattern 175 183	hijacked
+T56	IP 711 713	IP
+T57	Email 695 700	email
+T58	Software 745 753	database
+T60	Hacker-Group 344 350	hacker
+T6	Campaign 456 484	leaving behind a ransom note
+T4	Hacker-Group 1471 1477	hacker
+T24	Campaign 1484 1503	leave a ransom note
+T23	Hacker-Group 1513 1519	hacker
+T22	Software 1542 1550	database
+T20	Campaign 1552 1603	delete the original ransom note and leave their own
+T21	Campaign 774 781	attacks
+T26	Person 334 336	he
+T61	Software 632 640	database
+T62	Device 722 728	server
+T63	Time 137 146	last week
+T64	Time 834 852	the following week
+T65	Number 187 199	two or three
+T66	Number 1028 1030	93
+T67	Software 962 969	Twitter
+T68	Device 995 1002	servers
+T69	Hacker-Group 1411 1420	attackers
+*	Coreference T29 T55
+*	Coreference T7 T45 T60 T59
+*	Coreference T32 T48 T13 T19
+*	Coreference T4 T23
+T8	Organization 276 320	ethical hacker and founder of GDI Foundation
+*	Coreference T8 T36 T26 T53 T51 T25
+*	Coreference T10 T11
+T35	Campaign 218 225	attacks
+*	Coreference T21 T35 T70
+*	Coreference T17 T15 T14
+T59	Hacker-Group 1091 1108	original attacker
+T70	Campaign 946 953	attacks
+*	Coreference T46 T49
+*	Coreference T12 T18
+*	Coreference T52 T63

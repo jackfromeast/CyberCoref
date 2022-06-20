@@ -1,0 +1,68 @@
+T2	Campaign 819 836	ransomware attack
+T3	Organization 794 807	their company
+T4	Money 894 900	$5,000
+T5	Money 905 912	$20,000
+T1	Campaign 742 759	ransomware attack
+T9	Organization 1175 1182	victims
+T10	Campaign 1409 1427	ransomware attacks
+T7	Organization 1003 1012	companies
+T11	Organization 0 7	Imperva
+T12	Information 45 67	business-critical data
+T13	Software 72 84	applications
+T14	Time 115 120	today
+T15	Malware 278 288	ransomware
+T16	Number 290 311	Thirty-two percent of
+T17	Person 312 323	respondents
+T18	Organization 335 342	company
+T19	Malware 366 376	ransomware
+T20	Number 382 392	11 percent
+T21	Time 400 418	longer than a week
+T22	Campaign 462 468	attack
+T23	System 445 452	systems
+T24	Organization 483 486	CNN
+T25	Time 491 495	2016
+T26	Malware 520 530	ransomware
+T27	Money 542 559	$1 billion a year
+T28	Organization 501 504	FBI
+T29	Number 567 597	More than half (59 percent) of
+T30	System 669 676	systems
+T31	Person 681 690	customers
+T32	Person 695 704	employees
+T33	Purpose 651 665	lack of access
+T34	Number 761 780	Twenty-nine percent
+T35	Time 913 918	a day
+T36	Number 920 940	Twenty-seven percent
+T37	Money 958 964	amount
+T38	Money 974 986	over $20,000
+T39	Time 987 992	a day
+T6	Malware 1066 1076	ransomware
+T40	Person 1118 1127	Terry Ray
+T41	Person 1129 1164	chief product strategist at Imperva
+T42	Course-of-Action 1188 1200	backup files
+T8	Course-of-Action 1219 1233	pay the ransom
+T43	Malware 1332 1355	ransomware-as-a-service
+T44	Hacker-Group 1392 1401	attackers
+T45	Time 1454 1458	2017
+T46	Malware 1500 1510	ransomware
+T47	Organization 1580 1593	Organizations
+T48	Campaign 1611 1618	hacking
+T49	Organization 1669 1673	them
+T50	Campaign 1713 1720	hacking
+T51	Campaign 1758 1760	it
+T52	Course-of-Action 1761 1796	requires proper attention and tools
+T53	Pronoun 865 869	they
+T54	Pronoun 1461 1463	he
+T55	Pronoun 1525 1527	it
+T56	Pronoun 1555 1557	it
+T57	Pronoun 1669 1673	them
+T58	Pronoun 1758 1760	it
+T59	Pronoun 1629 1631	it
+*	Coreference T4 T5 T38
+*	Coreference T10 T1 T2
+*	Coreference T18 T7 T3
+*	Coreference T23 T30
+*	Coreference T25 T45
+*	Coreference T34 T36
+*	Coreference T35 T39
+*	Coreference T43 T26 T46 T15 T19 T6
+*	Coreference T48 T50

@@ -1,0 +1,114 @@
+T40	Campaign 2555 2572	ransom money paid
+T13	Device 2577 2585	machines
+T41	Campaign 2739 2750	ransom fees
+T42	Money 2695 2726	hundreds of millions of dollars
+T43	Person 2687 2694	victims
+T39	Campaign 2439 2454	ransom payments
+T1	Campaign 193 210	ransomware attack
+T2	Device 247 256	computers
+T3	Location 286 291	China
+T57	Location 295 302	Britain
+T7	Campaign 406 416	the ransom
+T4	Person 309 317	Mr. Gren
+T5	Person 345 352	victims
+T6	Money 448 452	$600
+T8	Device 471 478	machine
+T58	Time 500 506	Friday
+T12	Person 1164 1171	victims
+T18	Person 1340 1344	they
+T17	Hacker-Group 1349 1363	the assailants
+T14	Hacker-Group 1276 1289	the attackers
+T31	Campaign 1943 1953	the attack
+T32	Money 1879 1886	$80,000
+T46	Hacker-Group 3515 3528	The attackers
+T54	Attack-Pattern 3478 3503	takes over their machines
+T44	Device 3581 3590	computers
+T27	Person 1770 1777	victims
+T34	Campaign 2175 2194	had paid the ransom
+T33	Person 2135 2146	individuals
+T50	Campaign 3385 3389	send
+T51	File 3390 3408	an encrypted email
+T52	Person 3412 3429	potential targets
+T49	Person 3374 3384	assailants
+T56	File 3452 3472	a malware attachment
+T53	File 3431 3442	The message
+T25	Campaign 1648 1666	deposit the ransom
+T24	Person 1626 1644	all global victims
+T23	Hacker-Group 1487 1500	the attackers
+T9	Person 1078 1084	people
+T20	Campaign 1411 1429	ransomware attacks
+T36	Person 2400 2404	they
+T37	Device 2381 2396	their computers
+T38	Person 2350 2356	people
+T19	Time 37 43	Friday
+T21	Person 0 11	Robert Gren
+T22	Software 144 163	computer’s software
+T30	Number 239 246	200,000
+T47	Number 326 338	thousands of
+T48	Time 304 307	Now
+T59	Information 534 553	digital information
+T60	File 565 580	personal photos
+T61	File 582 606	hospital patient records
+T62	Information 611 631	other priceless data
+T63	Person 672 680	Mr. Gren
+T64	Number 682 684	32
+T65	Location 735 741	Krakow
+T66	Organization 702 731	online entertainment business
+T67	Time 802 808	Friday
+T68	Location 743 749	Poland
+T69	Information 841 853	digital data
+T70	File 866 879	private files
+T71	Person 1003 1024	cybersecurity experts
+T72	Person 1029 1054	law enforcement officials
+T10	Campaign 1100 1110	the ransom
+T11	Money 1190 1195	money
+T73	Campaign 1228 1235	attacks
+T55	Device 1313 1331	people’s computers
+T15	Money 1367 1374	bitcoin
+T16	Money 1378 1394	digital currency
+T74	Person 1462 1471	Officials
+T75	Domain 1555 1572	bitcoin addresses
+T76	Number 1549 1554	three
+T26	Money 1719 1731	digital fees
+T77	Person 1702 1731	who has paid the digital fees
+T28	Information 1852 1856	data
+T78	Time 1863 1869	So far
+T29	Domain 1915 1932	bitcoin addresses
+T79	Organization 1968 1976	Elliptic
+T80	Money 2040 2058	virtual currencies
+T81	Money 2000 2029	online financial transactions
+T82	Organization 2305 2312	company
+T35	Money 2414 2424	online fee
+T83	Time 2464 2490	ahead of Friday’s deadline
+T84	Person 2496 2517	cybersecurity experts
+T85	Number 2526 2541	current numbers
+T86	Person 2798 2809	Kim Peretti
+T45	Money 3622 3629	bitcoin
+T87	Money 3606 3611	money
+T88	Money 3659 3676	online currencies
+T89	Campaign 3074 3080	attack
+T90	File 3148 3153	files
+T91	Person 3221 3244	victims of such attacks
+T92	Campaign 3237 3244	attacks
+T93	File 3268 3294	personal or business files
+T94	Organization 2998 3011	Alston & Bird
+T95	Person 2811 2917	a former senior litigator in the Department of Justice’s computer crime and intellectual property division
+T96	Pronoun 1671 1673	it
+T97	Person 1832 1836	they
+T100	Person 100 102	he
+T102	Person 1813 1817	they
+T105	Person 924 926	me
+T107	Person 885 886	I
+*	Coreference T58 T67 T19
+*	Coreference T4 T21 T63 T100 T108 T107 T105
+*	Coreference T75 T29
+T108	Person 686 731	a manager of an online entertainment business
+*	Coreference T7 T1
+*	Coreference T20 T73
+*	Coreference T86 T95
+*	Coreference T36 T38
+T98	Campaign 2152 2154	it
+*	Coreference T98 T31
+*	Coreference T27 T102 T97
+*	Coreference T18 T12
+*	Coreference T14 T17

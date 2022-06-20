@@ -1,0 +1,63 @@
+T7	File 58 69	fake emails
+T9	Person 77 86	customers
+T10	Purpose 90 118	update their payment details
+T8	Person 0 13	NETFLIX users
+T2	File 120 130	The emails
+T3	Organization 148 169	the streaming service
+T4	Person 192 200	scammers
+T5	Purpose 211 227	steal your money
+T15	Person 600 608	scammers
+T14	Domain 561 575	a fake website
+T12	Person 540 543	you
+T16	Person 503 506	you
+T13	Attack-Pattern 507 538	click on it and follow the link
+T33	Purpose 650 672	hack your bank account
+T24	Campaign 787 800	phishing scam
+T32	Organization 778 785	Netflix
+T19	Person 844 852	Scammers
+T18	Purpose 877 908	steal your money, your identity
+T27	Person 812 821	consumers
+T21	Person 935 939	They
+T22	Purpose 968 1006	get access to your computer or network
+T20	File 949 964	phishing emails
+T28	Campaign 1331 1346	‘phishing’ scam
+T26	Person 1282 1295	Netflix users
+T25	Time 1265 1280	earlier in 2017
+T29	Person 1356 1360	them
+T30	Purpose 1364 1384	type in bank details
+T31	Domain 1388 1405	a fake login page
+T34	URL 1027 1031	link
+T35	URL 534 538	link
+T38	Person 363 366	you
+T39	Person 467 470	you
+T42	Person 1012 1015	you
+T43	Hacker-Group 260 262	We
+T44	Hacker-Group 326 328	We
+T45	Person 1093 1096	you
+T46	Campaign 516 518	it
+T47	Hacker-Group 1033 1037	they
+T48	Organization 920 922	it
+T50	Person 637 640	you
+*	Coreference T10 T6
+*	Coreference T7 T2 T20 T17
+*	Coreference T4 T15 T19 T43 T44 T21 T47
+T1	Person 291 295	your
+T6	Information 304 323	billing information
+T11	Information 386 406	your payment details
+T17	Email 427 432	email
+T23	Campaign 445 455	red button
+*	Coreference T46 T23
+*	Coreference T35 T14
+*	Coreference T12 T50 T9 T27 T8 T1 T38 T39 T16 T42 T45
+T37	Organization 674 702	The Federal Trade Commission
+T41	Organization 706 723	government agency
+*	Coreference T37 T41 T48
+T51	Information 862 873	information
+T52	Information 625 636	information
+*	Coreference T52 T51
+T49	Malware 1050 1060	ransomware
+T40	Campaign 1175 1188	Netflix scams
+T53	Campaign 1235 1239	same
+T54	Campaign 1247 1259	similar scam
+*	Coreference T53 T54
+*	Coreference T26 T29

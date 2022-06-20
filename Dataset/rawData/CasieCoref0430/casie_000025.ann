@@ -1,0 +1,96 @@
+T13	Organization 1422 1428	Huawei
+T17	Vulnerability 1478 1487	the issue
+T23	Time 2451 2460	September
+T22	Vulnerability 2429 2442	CVE-2018-7929
+T21	Course-of-Action 2419 2427	 a patch
+T19	Organization 2406 2412	Huawei
+T18	Vulnerability 2380 2398	 The vulnerability
+T3	Device 28 58	in-display fingerprint sensors
+T1	Vulnerability 2 13	design flaw
+T8	Organization 489 509	Tencent’s Xuanwu Lab
+T6	Vulnerability 550 558	the flaw
+T7	Time 559 576	earlier this year
+T10	Vulnerability 1136 1145	the issue
+T11	Organization 1096 1119	cellphone manufacturers
+T12	Person 1073 1075	Yu
+T2	Device 89 105	cellphone models
+T25	Number 75 88	 a half-dozen
+T26	Campaign 130 155	lock-screen bypass attack
+T4	Course-of-Action 175 182	patched
+T27	Vulnerability 183 192	 The flaw
+T28	Vulnerability 204 210	 a bug
+T29	Software 226 266	in-display fingerprint reader technology
+T30	Purpose 276 295	user authentication
+T31	Software 297 337	In-display fingerprint reader technology
+T32	Device 410 431	flagship model phones
+T33	Time 446 450	2019
+T34	Organization 454 474	top OEM phone makers
+T5	Organization 608 610	we
+T35	Software 620 661	 the in-display fingerprint sensor module
+T36	Vulnerability 678 685	problem
+T37	Organization 734 741	vendors
+T38	Device 702 704	it
+T39	Person 749 756	Yang Yu
+T40	Person 757 784	 a researcher at Xuanwu Lab
+T41	Vulnerability 792 805	vulnerability
+T42	Vulnerability 808 857	 a design fault of in-display fingerprint sensors
+T43	Software 827 857	in-display fingerprint sensors
+T44	Device 877 883	phones
+T45	Time 893 916	 the first half of 2018
+T46	Software 926 956	in-display fingerprint sensors
+T47	Person 963 965	Yu
+T48	Device 999 1042	Huawei Technologies’ Porsche Design Mate RS
+T49	Device 1047 1071	Mate 20 Pro model phones
+T9	Person 1156 1158	Yu
+T50	Organization 1192 1199	vendors
+T51	Device 1203 1209	models
+T52	Vulnerability 1254 1269	security issues
+T53	Organization 1212 1219	Vendors
+T54	Organization 1305 1311	Huawei
+T55	Organization 1401 1411	Threatpost
+T56	Person 1413 1415	He
+T14	Device 1489 1501	Other phones
+T16	Software 1510 1522	 the feature
+T57	Device 1531 1570	Vivo Communication Technology’s V11 Pro
+T58	Device 1572 1575	X21
+T59	Device 1580 1583	Nex
+T60	Device 1590 1601	OnePlus’ 6T
+T61	Device 1606 1641	Xiaomi Mi 8 Explorer Edition phones
+T62	Organization 1643 1647	Vivo
+T63	Organization 1649 1656	OnePlus
+T64	Organization 1661 1667	Xiaomi
+T65	Organization 1713 1723	Threatpost
+T66	Software 1725 1755	In-display fingerprint readers
+T67	Person 1794 1801	experts
+T68	Software 1866 1905	capacitance-sensor fingerprint scanners
+T69	Software 1829 1856	conventional authentication
+T70	Software 1765 1792	optical fingerprint imaging
+T71	Software 1907 1925	In-display readers
+T72	Person 1935 1942	 a user
+T73	Device 1963 1990	 the screen of a smartphone
+T74	Software 1996 2030	 a scanner from behind the display
+T75	Device 2132 2138	phones
+T20	Person 2503 2514	researchers
+T24	Organization 2552 2562	Threatpost
+T76	Vulnerability 2565 2574	 the flaw
+T77	Person 2575 2577	Yu
+T78	Hacker-Group 2586 2598	 an attacker
+T79	Campaign 2617 2628	 the attack
+T81	Attack-Pattern 2688 2770	placing the reflective material over a residual fingerprint on the phone’s display
+T82	Device 2750 2770	 the phone’s display
+T83	Software 2770 2816	 the capacitance fingerprint imaging mechanism
+T80	Purpose 2837 2865	authenticating a fingerprint
+T84	Organization 1357 1359	us
+T85	Person 1393 1395	he
+*	Coreference T54 T13 T19
+*	Coreference T1 T27 T76 T6 T36 T18 T41 T42 T17 T10 T52
+*	Coreference T32 T49 T2
+*	Coreference T9 T12 T47 T77 T39 T40 T84 T85 T56
+*	Coreference T37 T50 T53
+*	Coreference T75 T44 T14
+*	Coreference T65 T24
+*	Coreference T5 T8
+*	Coreference T31 T29
+*	Coreference T38 T35
+*	Coreference T43 T3 T71 T46 T83 T16 T66
+*	Coreference T69 T68

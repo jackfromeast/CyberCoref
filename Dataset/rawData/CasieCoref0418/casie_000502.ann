@@ -1,0 +1,172 @@
+T3	Device 45 64	medical electronics
+T2	Vulnerability 17 41	software vulnerabilities
+T5	Vulnerability 284 317	multiple software vulnerabilities
+T7	Device 321 350	internet-connected pacemakers
+T8	Device 355 377	cardiac defibrillators
+T6	Organization 201 219	an investment firm
+T13	Device 424 439	medical devices
+T9	Organization 391 410	federal authorities
+T11	Vulnerability 472 498	one of the alleged defects
+T17	Organization 1326 1332	MedSec
+T15	Vulnerability 1354 1366	the problems
+T16	Device 1370 1390	the St. Jude devices
+T19	Organization 1435 1447	Muddy Waters
+T20	Vulnerability 1466 1475	the flaws
+T24	Organization 2004 2039	the Department of Homeland Security
+T23	Organization 1960 1992	the Food and Drug Administration
+T25	Time 1949 1958	Last week
+T27	Vulnerability 2098 2104	a flaw
+T22	Device 2142 2161	an at-home computer
+T28	Device 2108 2140	the St. Jude @Merlin transmitter
+T32	Time 2484 2490	August
+T29	Campaign 2536 2546	the claims
+T31	Organization 2492 2515	the device manufacturer
+T37	Vulnerability 3716 3728	the one flaw
+T39	Organization 3675 3692	the US government
+T38	Organization 3697 3705	St. Jude
+T34	Organization 3124 3132	St. Jude
+T47	Course-of-Action 3109 3120	a quick fix
+T46	Vulnerability 3075 3087	these issues
+T41	Vulnerability 4758 4773	vulnerabilities
+T42	Person 4737 4748	bug hunters
+T43	Organization 4717 4721	they
+T44	Course-of-Action 542 547	patch
+T45	Vulnerability 548 550	it
+T48	Course-of-Action 153 183	address cybersecurity problems
+T4	Campaign 258 280	unsubstantiated claims
+T1	Organization 100 118	health care sector
+T10	Organization 123 141	federal regulators
+T49	Time 190 199	past fall
+T50	Organization 232 252	health care industry
+T51	Time 440 451	four months
+T52	Vulnerability 578 585	problem
+T53	Person 613 621	patients
+T54	Vulnerability 637 651	many questions
+T55	Organization 686 696	government
+T56	Organization 735 755	health care industry
+T58	Vulnerability 783 787	bugs
+T59	System 839 847	internet
+T60	Software 850 858	Software
+T61	System 884 891	systems
+T62	Vulnerability 914 919	flaws
+T63	Person 927 940	Joshua Corman
+T64	Person 942 1009	director of the Cyber Statecraft Initiative at the Atlantic Council
+T65	Person 1014 1050	an expert on medical device security
+T66	Vulnerability 1057 1065	question
+T67	Vulnerability 1151 1156	flaws
+T68	Vulnerability 1228 1252	St. Jude vulnerabilities
+T69	Organization 1300 1318	cybersecurity firm
+T14	Person 1488 1495	clients
+T18	Organization 1554 1562	St. Jude
+T70	Organization 1610 1622	Muddy Waters
+T71	Organization 1599 1605	MedSec
+T72	Vulnerability 1652 1660	glitches
+T73	Device 1668 1677	pacemaker
+T74	System 1682 1715	implantable defibrillator systems
+T75	Time 1768 1775	60 days
+T76	Person 1820 1826	Corman
+T77	Person 1880 1887	lawyers
+T78	Time 1935 1946	five months
+T26	Device 2183 2199	cardiac implants
+T79	Organization 2207 2229	patient's medical team
+T21	Vulnerability 2235 2239	flaw
+T80	Hacker-Group 2259 2276	malicious hackers
+T81	Attack-Pattern 2289 2323	exhaust an implant's battery power
+T82	Attack-Pattern 2327 2355	potentially harm the patient
+T84	Email 2409 2429	an emailed statement
+T35	Campaign 2449 2480	release of Muddy Waters' claims
+T30	Organization 4510 4513	DHS
+T85	Organization 4529 4569	final Food and Drug Administration (FDA)
+T86	Course-of-Action 4599 4635	monitoring networked medical devices
+T87	Organization 4655 4677	threaten manufacturers
+T40	Course-of-Action 4752 4773	patch vulnerabilities
+T88	Time 4781 4788	60 days
+T89	Person 4790 4796	Corman
+T90	Organization 4813 4822	providers
+T91	Organization 4834 4836	VA
+T92	Person 5176 5195	security researcher
+T93	Organization 5126 5129	FDA
+T94	Organization 5134 5137	DHS
+T95	Organization 3048 3052	firm
+T33	Organization 3203 3226	pacemaker manufacturers
+T96	Person 3309 3316	players
+T97	Organization 3361 3388	Veterans Affairs Department
+T98	Device 3401 3417	St. Jude devices
+T100	Time 3520 3531	late August
+T101	Organization 3546 3548	VA
+T102	Time 3552 3565	recent months
+T103	Campaign 3591 3601	operations
+T104	Device 3612 3629	St. Jude  devices
+T105	Information 3653 3662	documents
+T106	Organization 3734 3736	VA
+T36	Person 3779 3787	patients
+T107	Organization 3792 3801	providers
+T108	Vulnerability 3820 3825	issue
+T109	Person 3879 3887	patients
+T110	Course-of-Action 3888 3920	get the update for their monitor
+T111	Person 3928 3941	Merritt Raitt
+T112	Person 3943 4013	acting director of the VA National Cardiac Device Surveillance Program
+T113	Organization 4075 4083	St. Jude
+T114	Organization 4088 4094	MedSec
+T115	Device 4136 4150	medical device
+T116	Organization 4175 4188	manufacturers
+T117	Vulnerability 4237 4252	vulnerabilities
+T118	Person 4268 4286	federal regulators
+T119	Organization 4306 4314	St. Jude
+T120	Time 4325 4331	Jan. 9
+T121	Time 4368 4372	2016
+T122	Course-of-Action 4410 4424	multiple fixes
+T123	Time 4428 4438	two months
+T124	File 4891 4908	St. Jude glitches
+T125	File 4922 4944	DHS technical advisory
+T126	File 4946 4972	FDA security communication
+T127	File 4974 4987	MedSec report
+T128	File 4993 5023	guidance written by Bishop Fox
+T129	File 5027 5065	cybersecurity consultancy Muddy Waters
+T130	File 2556 2563	reports
+T131	System 2602 2617	cyber ecosystem
+T132	Organization 2640 2643	FDA
+T133	Organization 2645 2648	DHS
+T134	Person 2662 2682	security researchers
+T135	Time 2734 2740	Jan. 9
+T136	Organization 2773 2775	we
+T137	Organization 3014 3022	St. Jude
+T138	Software 2994 3002	firmware
+T139	Vulnerability 2959 2974	vulnerabilities
+T140	Time 2926 2935	this week
+T141	Person 2901 2919	the firm's founder
+T142	Organization 2818 2830	Muddy Waters
+T143	Time 2798 2811	coming months
+T144	Vulnerability 2840 2849	problems 
+T145	Time 2869 2878	two years
+T146	Course-of-Action 2882 2885	fix
+T149	Organization 3233 3237	they
+T150	Pronoun 4333 4337	they
+T151	Pronoun 4717 4721	they
+T158	System 2630 2634	them
+T159	Person 5267 5269	he
+*	Coreference T142 T70 T19
+*	Coreference T17 T71 T114 T69
+*	Coreference T75 T88
+*	Coreference T76 T89 T63 T64 T65 T159
+*	Coreference T93 T132 T23
+*	Coreference T98 T104
+*	Coreference T91 T106 T101
+*	Coreference T109 T36
+*	Coreference T34 T119 T113 T18 T38 T137
+*	Coreference T120 T135
+*	Coreference T87 T43 T116
+*	Coreference T62 T67 T58 T15 T68 T20
+T12	Organization 508 519	the company
+T160	Organization 521 537	St. Jude Medical
+*	Coreference T12 T160
+*	Coreference T2 T5
+*	Coreference T11 T45
+T57	Person 1131 1133	we
+*	Coreference T21 T27
+T83	Person 2357 2377	St. Jude spokeswoman
+T152	Person 2378 2400	Candace Steele Flippin
+*	Coreference T83 T152
+*	Coreference T131 T158
+*	Coreference T33 T149
+T99	Vulnerability 3481 3510	cybersecurity vulnerabilities

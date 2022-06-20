@@ -1,0 +1,75 @@
+T12	Email 1244 1256	faked emails
+T14	Person 1265 1276	an employee
+T16	Person 1289 1293	them
+T3	Time 288 295	Tuesday
+T4	Information 355 378	sensitive personal data
+T20	Information 1367 1390	their computer accounts
+T1	Campaign 142 165	A phishing email attack
+T23	Person 224 252	current and former employees
+T7	Campaign 904 923	the phishing attack
+T9	Campaign 1130 1146	Phishing attacks
+T10	Hacker-Group 1175 1184	attackers
+T11	Purpose 1188 1216	infiltrate computer networks
+T25	Campaign 4 10	attack
+T26	URL 97 101	link
+T27	Hacker-Group 35 47	perpetrators
+T28	Campaign 60 93	fraudulent wire transfer of money
+T29	Software 126 134	Facebook
+T22	Number 217 223	18,000
+T30	Information 194 202	accounts
+T31	Organization 414 421	company
+T2	Information 384 403	employees’ accounts
+T5	Organization 423 433	Gannett Co
+T32	Organization 436 439	GCI
+T33	Organization 448 466	owner of USA TODAY
+T21	Organization 468 496	the publisher of this report
+T34	File 490 496	report
+T35	Number 502 505	109
+T36	Location 539 552	United States
+T37	Information 506 527	local news properties
+T38	Campaign 558 564	attack
+T39	Time 583 591	March 30
+T40	Organization 612 640	Gannett’s cybersecurity team
+T41	Email 670 676	emails
+T42	Person 680 701	human resources staff
+T43	Campaign 642 644	It
+T44	Number 707 713	18,000
+T46	Organization 750 757	company
+T47	File 771 778	notices
+T48	Campaign 789 797	incident
+T6	System 1402 1409	network
+T8	Hacker-Group 1411 1420	attackers
+T49	Attack-Pattern 1430 1456	leapfrog to other accounts
+T50	Information 1448 1456	accounts
+T51	Attack-Pattern 1458 1498	working their way deeper into the system
+T52	System 1492 1498	system
+T53	Campaign 1507 1521	Gannett attack
+T54	Organization 1692 1714	Gannett's finance team
+T55	Campaign 1527 1539	infiltration
+T56	Information 1595 1611	co-opted account
+T13	Attack-Pattern 1282 1312	entice them to click on a link
+T15	URL 1308 1312	link
+T17	Attack-Pattern 1318 1346	unleashes malicious software
+T18	Malware 1328 1346	malicious software
+T19	Hacker-Group 1564 1575	perpetrator
+T57	Purpose 1618 1660	fraudulent corporate wire transfer request
+T59	Software 811 854	credit monitoring via the US Postal Service
+T58	Information 860 888	customer account information
+T60	Number 857 859	No
+T61	Information 990 1010	employee information
+T62	Information 1066 1091	account login credentials
+T63	Information 1103 1111	accounts
+T64	Software 964 981	credit monitoring
+T65	Person 925 929	They
+*	Coreference T12 T41
+*	Coreference T1 T53 T55
+*	Coreference T25 T38 T43 T48 T7
+T24	Organization 256 269	media company
+T69	Organization 270 280	Gannett Co
+*	Coreference T5 T32 T33 T24 T69 T31 T46 T21
+T45	Person 714 742	current and former employees
+*	Coreference T45 T23 T65
+*	Coreference T44 T22
+*	Coreference T16 T14
+T66	Campaign 1218 1222	They
+*	Coreference T66 T9

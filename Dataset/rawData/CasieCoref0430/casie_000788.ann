@@ -1,0 +1,96 @@
+T2	Course-of-Action 23 51	an emergency security update
+T3	Organization 0 9	Microsoft
+T57	Time 10 15	today
+T64	Course-of-Action 1281 1299	out-of-band update
+T65	Vulnerability 1304 1317	CVE-2018-1038
+T83	Time 1273 1278	today
+T16	Organization 199 206	Redmond
+T18	Time 189 197	February
+T17	Time 177 184	January
+T19	Course-of-Action 215 220	fixes
+T20	System 225 234	Windows 7
+T21	Device 254 262	machines
+T78	System 239 253	Server 2008 R2
+T24	Device 315 342	modern Intel x64 processors
+T23	Vulnerability 274 311	the Meltdown chip-level vulnerability
+T25	Course-of-Action 359 372	those patches
+T26	Vulnerability 378 391	a gaping hole
+T27	System 395 416	the operating systems
+T13	Time 152 159	January
+T14	Time 164 172	February
+T11	Organization 139 141	it
+T10	Course-of-Action 121 138	a security update
+T51	Person 1319 1347	Swedish researcher Ulf Frisk
+T53	System 1409 1413	Win7
+T54	System 1418 1432	Server 2008 R2
+T67	Organization 1593 1602	Microsoft
+T69	Vulnerability 1646 1670	a zero-day vulnerability
+T71	System 1688 1699	Server 2008
+T70	System 1674 1683	Windows 7
+T59	Course-of-Action 1577 1580	fix
+T66	Course-of-Action 1555 1562	updates
+T82	Time 1542 1552	this month
+T76	Organization 1717 1726	Microsoft
+T73	Course-of-Action 1751 1758	a patch
+T74	Course-of-Action 1763 1770	a patch
+T75	Course-of-Action 1775 1782	a patch
+T44	Course-of-Action 922 929	updates
+T38	Time 894 908	 those January
+T37	Time 913 921	February
+T43	Vulnerability 938 965	 the security vulnerability
+T39	Organization 840 849	Microsoft
+T40	Time 829 834	March
+T36	Course-of-Action 861 866	fixes
+T45	Course-of-Action 1008 1014	update
+T55	Time 1002 1007	March
+T8	Time 91 109	earlier this month
+T6	Organization 81 83	it
+T5	Course-of-Action 63 80	a security update
+T29	Attack-Pattern 632 651	exploiting Meltdown
+T31	Information 663 672	passwords
+T32	Information 683 690	secrets
+T33	System 706 719	kernel memory
+T80	System 748 762	Server 2008 R2
+T79	System 734 743	Windows 7
+T63	System 1166 1175	Windows 7
+T62	System 1179 1193	Server 2008 R2
+T61	Course-of-Action 1223 1239	Meltdown patches
+T34	Organization 1211 1220	Microsoft
+T47	Vulnerability 1043 1050	the bug
+T48	System 1063 1073	the kernel
+T50	Attack-Pattern 1079 1126	was exploitable by malicious software and users
+T84	Code 1956 1991	kernel-level memory management code
+T85	Person 1812 1814	we
+T86	Person 2028 2031	you
+T87	Person 1241 1244	you
+T88	Course-of-Action 966 968	it
+T92	Person 1153 1156	you
+T1	Software 425 437	applications
+T4	Person 442 457	logged-in users
+T7	Course-of-Action 554 566	 the updates
+T9	Course-of-Action 720 730	 the fixes
+T12	Software 507 510	RAM
+T15	Software 816 819	RAM
+T22	Campaign 1495 1508	Patch Tuesday
+T28	Vulnerability 1136 1144	Meltdown
+T30	Vulnerability 1384 1392	Meltdown
+T35	Campaign 870 883	Patch Tuesday
+T41	Organization 1831 1840	Microsoft
+T42	Organization 1873 1883	 a Redmond
+T46	Time 1358 1370	 the January
+T49	Time 1375 1383	February
+*	Coreference T57 T83
+*	Coreference T17 T13 T38 T46
+*	Coreference T37 T14 T18 T49
+*	Coreference T36 T19 T25 T9 T45
+*	Coreference T82 T8
+*	Coreference T44 T66 T88
+*	Coreference T40 T55
+*	Coreference T54 T78 T71 T62 T80
+*	Coreference T53 T20 T79 T70 T63
+*	Coreference T6 T3 T11 T39 T34 T67 T76 T41
+*	Coreference T12 T15
+*	Coreference T92 T87
+*	Coreference T30 T28 T69 T43 T47 T23
+*	Coreference T35 T22
+*	Coreference T16 T42

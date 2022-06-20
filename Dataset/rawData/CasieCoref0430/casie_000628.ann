@@ -1,0 +1,142 @@
+T2	Vulnerability 0 24	A zero-day vulnerability
+T5	Attack-Pattern 128 156	gain access to their account
+T8	Vulnerability 210 228	 the vulnerability
+T10	Time 232 241	Wednesday
+T7	Organization 187 200	Legal Hackers
+T11	System 290 299	WordPress
+T13	Person 345 360	 the researcher
+T14	Vulnerability 386 399	CVE-2017-8295
+T15	Vulnerability 366 384	 The vulnerability
+T17	Person 437 445	Golunski
+T16	Software 417 426	WordPress
+T54	Version 323 328	4.7.4
+T21	Person 2079 2087	Golunski
+T23	Vulnerability 2104 2114	 the issue
+T25	Time 2197 2206	July 2016
+T28	Vulnerability 2472 2480	 the bug
+T29	Time 2484 2493	Wednesday
+T30	Software 2528 2537	WordPress
+T32	Vulnerability 2548 2558	 the issue
+T33	Course-of-Action 2652 2659	the fix
+T35	Course-of-Action 2801 2804	fix
+T46	Course-of-Action 3153 3160	patched
+T47	Time 3161 3171	last month
+T50	Software 3210 3221	SwiftMailer
+T49	Software 3196 3205	PHPMailer
+T48	Vulnerability 3184 3192	RCE bugs
+T41	Person 3057 3059	He
+T38	Person 2963 2971	Golunski
+T37	Vulnerability 3003 3018	vulnerabilities
+T39	Software 3030 3055	PHP-based email platforms
+T41	Person 3057 3059	He
+T43	System 3102 3114	SquirrelMail
+T44	Time 3118 3125	January
+T19	Person 1445 1452	 a user
+T1	Software 35 49	WordPress Core
+T3	Hacker-Group 84 96	 an attacker
+T4	Information 105 123	 a user’s password
+T55	Attack-Pattern 100 123	reset a user’s password
+T56	Information 142 156	 their account
+T9	Software 254 272	ExploitBox service
+T57	Version 274 289	All versions of
+T58	Version 310 321	 the latest
+T12	Information 452 466	untrusted data
+T59	Email 493 516	 a password reset email
+T60	Software 483 485	it
+T61	Code 520 547	 a proof-of-concept writeup
+T62	Person 549 557	Golunski
+T63	Software 574 583	WordPress
+T64	Information 620 633	 the hostname
+T65	Email 673 698	 the password reset email
+T66	Hacker-Group 754 766	 an attacker
+T67	Person 875 890	 the researcher
+T68	Hacker-Group 896 909	 The attacker
+T69	Email 928 944	 the reset email
+T70	Information 966 987	 the account password
+T71	Information 1016 1037	 the configuration of
+T72	Device 1038 1053	the mail server
+T73	Email 1071 1080	 an email
+T74	Person 1197 1205	Golunski
+T75	Hacker-Group 1239 1252	 the attacker
+T76	Email 1265 1275	 the email
+T77	URL 1286 1310	 the password reset link
+T78	Person 1390 1398	Golunski
+T18	Hacker-Group 1527 1539	 an attacker
+T79	Campaign 1553 1580	 a denial of service attack
+T80	Information 1583 1610	 the victim’s email account
+T81	Email 1630 1655	 the password reset email
+T82	Email 1724 1753	 the malicious sender address
+T83	Hacker-Group 1765 1778	 the attacker
+T84	Person 1788 1796	Golunski
+T85	Email 1833 1853	 a copy of the email
+T86	Email 1861 1898	 the body of the auto-replied message
+T87	Email 1927 1948	password reset emails
+T88	Hacker-Group 1957 1970	 the attacker
+T89	Person 1984 1995	 the victim
+T90	URL 2049 2077	 the malicious password link
+T20	Time 2170 2193	more than 10 months ago
+T22	Person 2207 2222	 The researcher
+T26	Vulnerability 3070 3098	 a remote code execution bug
+T36	Time 3264 3280	 the end of 2016
+T34	Person 2820 2828	Golunski
+T40	Person 2834 2839	users
+T42	File 2850 2889	 the UseCanonicalName setting on Apache
+T45	Software 2883 2889	Apache
+T51	Information 2910 2927	SERVER_NAME value
+T52	Person 2661 2686	Concerned WordPress users
+T91	Vulnerability 2737 2747	 the issue
+T92	Time 2748 2757	last July
+T93	Person 2759 2767	Campbell
+T94	Person 2495 2503	Campbell
+T31	Course-of-Action 2543 2558	patch the issue
+T95	Device 2584 2602	configured servers
+T96	Person 2621 2623	he
+T97	Organization 2228 2238	Threatpost
+T98	Software 2244 2253	WordPress
+T99	Person 2290 2292	he
+T100	Software 2298 2307	WordPress
+T101	Person 2313 2316	him
+T102	Vulnerability 2334 2344	 the issue
+T103	Person 2447 2450	him
+T27	Course-of-Action 2454 2469	release details
+T104	Person 2093 2095	he
+T53	Organization 2118 2143	WordPress’s security team
+T24	Attack-Pattern 1910 1948	sending multiple password reset emails
+T105	Software 1807 1822	auto-responders
+T106	Information 1669 1690	 the victim’s account
+T107	Purpose 1623 1690	prevent the password reset email from reaching the victim’s account
+T108	Attack-Pattern 1256 1275	intercept the email
+T109	Person 1098 1109	 the victim
+T110	Person 1110 1124	WordPress user
+T111	Email 1135 1169	malicious From/Return-Path address
+T112	Email 1176 1194	 the email headers
+T113	Email 854 874	 a malicious address
+T114	Attack-Pattern 773 804	insert a domain of his choosing
+T115	Email 819 837	 an outgoing email
+T6	Person 169 183	Dawid Golunski
+T116	Person 158 168	Researcher
+T119	Domain 814 816	it
+T122	Person 1950 1952	he
+T126	Information 2938 2940	it
+T127	Pronoun 1487 1491	them
+T128	Email 1701 1703	it
+T130	Information 1055 1057	it
+T131	Domain 779 788	 a domain
+T117	Software 2317 2319	it
+*	Coreference T10 T29
+*	Coreference T37 T8 T2 T15
+*	Coreference T19 T40
+*	Coreference T56 T4 T106 T70 T80
+*	Coreference T87 T76 T73 T81 T69 T65 T77 T90 T59 T128
+*	Coreference T75 T68 T18 T83 T66 T3 T88
+*	Coreference T89 T109
+*	Coreference T52 T110
+*	Coreference T91 T102 T32 T23
+*	Coreference T82 T111 T113
+*	Coreference T60 T50 T30 T16 T1 T98 T11 T100 T63 T117
+*	Coreference T94 T93 T96
+*	Coreference T71 T130
+*	Coreference T131 T119
+*	Coreference T99 T22 T34 T41 T62 T38 T84 T6 T74 T78 T17 T21 T122 T104 T101 T103
+*	Coreference T20 T25
+*	Coreference T51 T126

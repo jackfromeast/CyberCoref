@@ -1,0 +1,112 @@
+T11	Campaign 821 832	data breach
+T12	Time 833 842	Wednesday
+T8	Campaign 874 884	was stolen
+T9	Information 858 873	the information
+T14	Person 1482 1486	Sims
+T15	Attack-Pattern 1508 1535	deleting the targeted files
+T39	Software 1545 1557	CPS database
+T7	Person 91 101	the worker
+T6	Information 108 128	personal information
+T2	Person 145 154	employees
+T3	Person 156 166	volunteers
+T4	Organization 171 178	vendors
+T20	Person 32 38	worker
+T5	Software 184 198	a CPS database
+T16	Organization 9 31	Chicago Public Schools
+T17	Information 892 907	the data stolen
+T25	Information 1013 1026	DCFS findings
+T24	Information 983 1008	criminal arrest histories
+T23	Information 967 981	dates of birth
+T22	Information 956 965	addresses
+T21	Information 941 954	phone numbers
+T19	Information 920 939	employee ID numbers
+T18	Information 913 918	names
+T28	Campaign 1905 1916	data breach
+T29	Time 1930 1940	few months
+T30	Organization 1901 1904	CPS
+T33	Person 2064 2072	families
+T32	Person 2051 2059	students
+T31	Information 2015 2034	private information
+T35	Organization 1947 1966	the school district
+T37	Campaign 2354 2360	breach
+T38	Information 2369 2388	student information
+T27	Information 1028 1051	Social Security numbers
+T34	Organization 445 474	Office of Safety and Security
+T1	Person 386 403	former contractor
+T26	Person 371 375	Sims
+T10	Organization 345 369	Chicago police officials
+T36	Organization 337 340	CPS
+T41	Time 245 253	Thursday
+T42	Information 285 290	files
+T43	Course-of-Action 264 273	recovered
+T44	Time 544 550	Friday
+T45	Person 2276 2284	students
+T46	Person 2289 2297	families
+T47	Information 2243 2256	personal data
+T48	Information 2453 2474	sensitive information
+T49	Information 2560 2570	ID numbers
+T50	Email 2540 2555	email addresses
+T51	Information 2521 2538	cellphone numbers
+T52	Information 1689 1702	email account
+T53	Information 1876 1887	information
+T54	Email 2078 2083	email
+T55	Person 2092 2100	families
+T56	Person 1261 1274	CPS spokesman
+T57	Information 1115 1126	information
+T58	Person 1245 1251	Rivera
+T60	Person 1811 1815	they
+T61	Person 1738 1742	they
+T62	Person 505 508	her
+T63	Organization 74 83	officials
+*	Coreference T7 T20 T66 T26 T1 T67 T62 T70 T77 T81 T14 T88 T91
+T64	Number 138 144	80,000
+T65	Organization 186 189	CPS
+*	Coreference T65 T16 T36 T73 T76 T80 T30 T96
+T66	Person 200 230	The former worker, Kristi Sims
+T40	Person 255 263	officers
+*	Coreference T10 T63 T78 T82
+T67	Person 476 480	Sims
+T68	Organization 558 590	Leighton Criminal Court Building
+T69	Person 594 616	Judge Sophia Atcherson
+T70	Person 618 622	Sims
+T71	System 661 669	internet
+T72	Person 711 720	employees
+T73	Organization 739 742	CPS
+T74	Person 739 779	CPS Chief Operating Officer Arnie Rivera
+T75	Person 1068 1074	Rivera
+*	Coreference T75 T74 T58 T79
+T76	Organization 1261 1264	CPS
+T77	Person 1304 1312	criminal
+T78	Organization 1324 1338	Chicago police
+T79	Person 1344 1350	Rivera
+T80	Organization 1357 1360	CPS
+T81	Person 1385 1395	individual
+T82	Organization 1445 1448	CPD
+T83	Person 1445 1476	CPD spokesman Anthony Guglielmi
+*	Coreference T39 T5
+T13	Information 1521 1535	targeted files
+T59	Information 1564 1568	they
+*	Coreference T13 T59 T42 T6 T9 T17 T57 T92 T53
+T84	Device 1586 1603	digital equipment
+T88	Person 1682 1686	Sims
+T89	Person 1704 1713	Guglielmi
+*	Coreference T89 T83
+T90	Person 1727 1733	police
+*	Coreference T61 T90 T60
+T91	Person 1775 1779	Sims
+T92	Information 1805 1809	data
+T93	Email 1990 1995	email
+*	Coreference T55 T33 T46
+T94	Email 2200 2205	email
+*	Coreference T94 T93 T98
+T95	File 2222 2233	spreadsheet
+*	Coreference T47 T31 T38 T48 T99
+*	Coreference T45 T32
+T96	Organization 2317 2320	CPS
+T97	Campaign 2307 2315	incident
+*	Coreference T97 T37
+T98	Email 2433 2438	email
+T99	Information 2480 2484	data
+T100	Information 2494 2510	children’s names
+T101	Information 2512 2516	home
+T102	Number 2270 2275	3,700

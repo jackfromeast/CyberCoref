@@ -1,0 +1,168 @@
+T5	Campaign 3635 3649	phishing scams
+T1	Person 698 707	my friend
+T11	Campaign 4133 4149	phishing attacks
+T7	Attack-Pattern 1999 2020	using a phishing page
+T4	Purpose 1960 1998	grab the victim’s Apple ID credentials
+T9	Organization 2076 2081	Apple
+T2	Time 0 15	Last late April
+T3	Person 16 32	a friend of mine
+T6	Device 37 47	his iPhone
+T8	Location 152 158	Brazil
+T10	Person 160 162	He
+T12	Device 180 187	new one
+T13	Person 289 291	he
+T14	Person 305 310	thief
+T15	Information 319 340	his Facebook password
+T16	Domain 323 331	Facebook
+T17	Person 355 357	he
+T18	Course-of-Action 370 391	recover and update it
+T19	Information 389 391	it
+T20	Information 396 412	his phone number
+T22	Information 425 445	his Facebook account
+T23	Information 202 213	same number
+T24	Hacker-Group 453 463	pickpocket
+T25	Information 478 503	victim’s Facebook account
+T26	Person 478 484	victim
+T27	Hacker-Group 545 550	crook
+T28	Information 574 599	victim’s Facebook account
+T29	Domain 487 495	Facebook
+T30	Domain 583 591	Facebook
+T31	Purpose 632 661	use or sell the stolen device
+T32	Device 655 661	device
+T33	Time 685 696	a day after
+T34	Attack-Pattern 718 749	received a phishing SMS message
+T35	Device 753 766	his new phone
+T36	Campaign 843 853	cybercrime
+T37	Hacker-Group 899 905	crooks
+T38	Hacker-Group 910 924	cybercriminals
+T39	Campaign 977 984	attacks
+T40	URL 1016 1020	link
+T41	Domain 1026 1039	phishing page
+T42	Person 1101 1105	user
+T43	Device 1107 1118	Your device
+T44	URL 1234 1238	link
+T45	URL 1251 1281	hxxp://busca-devices[.]pe[.]hu
+T46	Domain 1306 1319	phishing page
+T47	Information 1350 1370	Apple ID credentials
+T48	Attack-Pattern 1306 1370	phishing page with a log-in form asking for Apple ID credentials
+T49	Device 1409 1426	his stolen iPhone
+T50	Domain 1432 1455	official iCloud website
+T52	Person 1491 1493	he
+T53	Device 1502 1507	phone
+T54	Number 1526 1527	2
+T55	Number 994 995	1
+T56	Domain 1529 1542	Phishing page
+T57	Information 1554 1574	Apple ID credentials
+T58	Device 1653 1667	victim’s phone
+T60	Person 1686 1690	they
+T61	Software 1712 1716	apps
+T62	Information 1731 1746	device’s number
+T64	Information 1770 1835	password of installed social networking (and possibly email) apps
+T66	Software 1831 1835	apps
+T68	Time 1866 1879	in the future
+T69	Device 1899 1912	stolen device
+T70	Attack-Pattern 1632 1667	physically steal the victim’s phone
+T71	Attack-Pattern 1719 1746	uncover the device’s number
+T72	Attack-Pattern 1757 1835	changing the password of installed social networking (and possibly email) apps
+T73	Hacker-Group 1938 1947	Attackers
+T75	Information 1978 1998	Apple ID credentials
+T76	Purpose 1848 1879	extort the victim in the future
+T77	Domain 2007 2020	phishing page
+T78	Information 2146 2163	Apple credentials
+T79	Attack-Pattern 2179 2229	disable the Activation Lock feature in iOS devices
+T80	Device 2218 2229	iOS devices
+T81	Campaign 2116 2121	theft
+T82	Hacker-Group 2249 2253	them
+T83	Purpose 2257 2271	wipe the phone
+T84	Device 2266 2271	phone
+T85	Campaign 2287 2293	attack
+T86	Hacker-Group 2302 2306	them
+T87	Purpose 2310 2326	reuse the device
+T89	Domain 2340 2360	iCloud phishing page
+T90	Domain 2434 2454	iCloud phishing page
+T91	Money 2467 2472	R$135
+T92	Money 2496 2501	US$43
+T93	Time 2508 2519	May 4, 2017
+T94	Time 2536 2542	recent
+T95	Campaign 2543 2549	forays
+T96	Domain 2586 2599	phishing page
+T97	File 2629 2643	video tutorial
+T100	Device 2789 2807	my friend’s iPhone
+T99	Campaign 2808 2812	scam
+T101	Information 2833 2850	Apple credentials
+T103	System 2895 2901	online
+T104	Campaign 2936 2942	attack
+T105	Time 2964 2970	Brazil
+T106	Time 2971 2987	as early as 2015
+T107	Person 3003 3012	my friend
+T108	Campaign 3022 3039	Traditional crime
+T109	Campaign 3044 3055	cybercrimes
+T110	Campaign 3128 3142	bigger attacks
+T111	Person 3277 3297	individual end users
+T113	Organization 3299 3312	Organizations
+T114	Campaign 3342 3349	attacks
+T115	Campaign 3532 3539	attacks
+T116	Software 3675 3686	mobile apps
+T117	Information 3664 3686	privacy of mobile apps
+T118	Device 3720 3732	BYOD devices
+T119	Course-of-Action 3607 3732	Being aware of red flags in phishing scams, securing the privacy of mobile apps, and adopting best practices for BYOD devices
+T120	Course-of-Action 3189 3206	Physical security
+T121	Course-of-Action 3783 3817	physically securing mobile devices
+T122	Device 3803 3817	mobile devices
+T123	Course-of-Action 3823 3862	password-protecting important documents
+T124	Information 3843 3862	important documents
+T125	Course-of-Action 3866 3901	employing biometrics or strong PINs
+T126	Information 3913 3932	unauthorized access
+T127	Software 3940 3953	device’s apps
+T128	Person 3955 3960	Users
+T129	Software 3983 4021	multilayered mobile security solutions
+T130	Software 4030 4058	Trend Micro™ Mobile Security
+T131	Device 4063 4076	Apple devices
+T132	Software 4095 4104	App Store
+T134	Course-of-Action 4115 4174	monitor and block phishing attacks and other malicious URLs
+T135	URL 4160 4174	malicious URLs
+T136	Organization 4180 4193	organizations
+T137	Device 4221 4233	BYOD devices
+T138	Course-of-Action 3970 4021	benefit from multilayered mobile security solutions
+T139	Software 4235 4278	Trend Micro™ Mobile Security for Enterprise
+T140	Device 4288 4294	device
+T141	Course-of-Action 4288 4382	device, compliance and application management, data protection, and configuration provisioning
+T142	Information 4335 4339	data
+T143	Software 4311 4322	application
+T144	Information 4356 4369	configuration
+T145	Device 4403 4410	devices
+T146	Campaign 4416 4423	attacks
+T147	Vulnerability 4438 4453	vulnerabilities
+T148	Information 4466 4485	unauthorized access
+T149	Software 4489 4493	apps
+T150	Course-of-Action 4506 4560	detecting and blocking malware and fraudulent websites
+T151	Malware 4529 4536	malware
+T152	Domain 4541 4560	fraudulent websites
+T153	Person 4581 4591	colleagues
+T154	Organization 4597 4606	PhishLabs
+T155	Domain 4638 4652	phishing pages
+T156	Organization 4698 4703	Apple
+T157	Campaign 4782 4786	scam
+T158	File 4794 4807	this appendix
+T159	Pronoun 4753 4755	we
+T160	Hacker-Group 2171 2175	them
+T164	Person 1289 1291	we
+T167	Person 1372 1374	We
+T169	Person 2416 2418	we
+T172	Pronoun 4608 4610	we
+T173	Pronoun 4677 4679	We
+*	Coreference T9 T156
+*	Coreference T16 T30 T29
+*	Coreference T40 T44 T45
+*	Coreference T75 T78 T47 T57 T101
+*	Coreference T41 T46
+*	Coreference T8 T105
+*	Coreference T104 T110 T114 T115 T5
+*	Coreference T3 T10 T1 T13 T107 T17 T52
+*	Coreference T15 T19
+T21	Device 1478 1480	it
+*	Coreference T167 T164
+*	Coreference T160 T73 T82 T86
+*	Coreference T69 T80
+*	Coreference T85 T81
+*	Coreference T140 T145

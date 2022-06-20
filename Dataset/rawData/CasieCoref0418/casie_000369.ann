@@ -1,0 +1,125 @@
+T1	Attack-Pattern 222 245	hijacked computer files
+T27	Organization 60 97	Colorado Department of Transportation
+T30	Person 98 107	employees
+T31	Time 135 143	Thursday
+T7	Hacker-Group 455 464	attackers
+T21	Organization 1147 1152	state
+T25	Money 1772 1779	$55,000
+T23	Location 1758 1765	Indiana
+T22	Organization 1740 1754	Hancock Health
+T32	Organization 1730 1738	hospital
+T28	Hacker-Group 1887 1894	hackers
+T29	Attack-Pattern 1895 1957	gained access remotely using a vendor’s user name and password
+T18	Time 1136 1141	today
+T9	Information 623 628	files
+T14	Organization 888 894	McAfee
+T12	Time 971 980	Wednesday
+T13	Attack-Pattern 984 1020	stop the execution of the ransomware
+T3	Person 0 22	Colorado investigators
+T33	Organization 31 34	FBI
+T34	Time 53 58	night
+T35	Time 116 126	second day
+T36	Person 147 165	security officials
+T4	Malware 200 216	ransomware virus
+T37	File 231 245	computer files
+T2	Purpose 250 299	demanded payment in bitcoin for their safe return
+T38	Money 259 266	payment
+T39	Money 270 277	bitcoin
+T40	Organization 305 345	state’s Office of Information Technology
+T41	Organization 372 375	FBI
+T42	Course-of-Action 353 390	reached out to the FBI for assistance
+T5	Campaign 420 426	attack
+T6	Money 447 451	cent
+T43	Organization 474 478	they
+T44	Person 493 507	Brandi Simmons
+T45	Person 512 527	OIT spokeswoman
+T46	Money 533 541	payments
+T47	Organization 574 576	We
+T8	Person 657 660	she
+T48	Email 672 677	email
+T49	Time 678 686	Thursday
+T50	Time 691 708	Wednesday morning
+T51	Organization 710 714	CDOT
+T52	Number 735 740	2,000
+T53	Device 741 759	employee computers
+T54	Person 766 784	security officials
+T55	Campaign 802 808	attack
+T56	Code 814 828	malicious code
+T57	Malware 835 856	variant of ransomware
+T58	Malware 866 872	SamSam
+T59	Person 874 881	Simmons
+T60	Software 900 917	security software
+T61	Device 926 940	CDOT computers
+T10	Course-of-Action 953 967	software patch
+T11	Malware 1010 1020	ransomware
+T62	Malware 1028 1044	ransomware virus
+T63	Malware 1051 1058	variant
+T19	Organization 1067 1072	state
+T15	Organization 1089 1116	antivirus software provider
+T16	Course-of-Action 1120 1135	implement a fix
+T17	File 1157 1170	robust backup
+T64	Software 1175 1189	security tools
+T20	Malware 1221 1231	ransomware
+T65	Organization 1233 1238	Teams
+T67	Time 1315 1320	night
+T68	Person 1329 1342	David McCurdy
+T69	Person 1344 1368	chief technology officer
+T70	Person 1370 1413	Governor’s Office of Information Technology
+T71	Time 1433 1442	Wednesday
+T73	Person 1444 1446	He
+T74	Organization 1455 1458	OIT
+T75	Organization 1460 1463	FBI
+T76	Organization 1474 1491	security agencies
+T77	Course-of-Action 1496 1547	working together to determine a root cause analysis
+T78	Campaign 1528 1547	root cause analysis
+T79	Malware 1550 1556	SamSam
+T80	Time 1575 1582	January
+T81	Organization 1603 1622	healthcare industry
+T82	File 1637 1642	files
+T83	File 1655 1659	them
+T84	Organization 1700 1724	security firm TrendMicro
+T24	File 1791 1796	files
+T85	Course-of-Action 1767 1801	paid $55,000 to get its files back
+T86	Person 1803 1813	TrendMicro
+T26	Campaign 1823 1829	attack
+T87	Person 1847 1855	employee
+T88	Email 1867 1881	infected email
+T89	Information 1926 1957	vendor’s user name and password
+T90	Person 1963 1966	one
+T92	Software 2028 2045	critical services
+T93	Device 2065 2072	cameras
+T94	Device 2074 2097	variable message boards
+T95	Device 2099 2105	CoTrip
+T96	Device 2107 2125	alerts on traffic.
+T97	Device 2126 2130	They
+T98	System 2146 2162	separate systems
+T99	Person 2165 2169	Ford
+T100	Person 2207 2216	employees
+T101	Organization 2221 2225	CDOT
+T102	Time 2241 2250	long time
+T103	Device 2259 2268	computers
+T104	Device 2315 2327	Mac computer
+T105	Organization 2335 2341	office
+T106	Device 2346 2348	it
+T107	Person 2367 2371	Ford
+T108	Course-of-Action 2278 2295	use pen and paper
+T109	Time 2412 2417	today
+T115	Malware 1624 1626	It
+*	Coreference T21 T19
+*	Coreference T18 T109
+*	Coreference T41 T75 T33
+*	Coreference T50 T12 T71
+*	Coreference T51 T101
+*	Coreference T8 T44 T45 T47 T59
+*	Coreference T24 T83 T82 T90
+*	Coreference T6 T46
+*	Coreference T38 T39
+*	Coreference T49 T31
+*	Coreference T55 T5
+*	Coreference T56 T57 T58 T79 T20 T11 T62 T63 T115
+*	Coreference T69 T68 T73 T70
+*	Coreference T32 T22
+*	Coreference T92 T97
+*	Coreference T99 T107
+*	Coreference T104 T106
+T66	Course-of-Action 1256 1320	monitor the situation closely and will be working into the night

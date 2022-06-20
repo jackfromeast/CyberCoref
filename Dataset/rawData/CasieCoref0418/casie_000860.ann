@@ -1,0 +1,72 @@
+T19	Campaign 1256 1263	collect
+T23	Information 1329 1338	usernames
+T24	Information 1350 1359	passwords
+T21	Information 1271 1283	87GB of data
+T22	Information 1299 1320	keystroke information
+T13	Attack-Pattern 1236 1252	used the malware
+T6	Person 1228 1235	the men
+T27	Campaign 1561 1573	exfiltration
+T29	Malware 1500 1522	The EyePyramid malware
+T8	Campaign 355 368	would collect
+T9	System 399 405	system
+T11	Information 415 424	passwords
+T12	Information 426 445	sensitive documents
+T10	Malware 344 354	EyePyramid
+T3	Information 369 380	information
+T7	Person 390 396	target
+T33	Campaign 190 194	sent
+T2	Person 198 224	the high-ranking officials
+T4	Person 225 229	they
+T1	Attack-Pattern 156 189	used simple spear-phishing emails
+T5	Purpose 230 246	wanted to infect
+T34	Person 148 155	The men
+T14	Person 1841 1848	victims
+T15	Person 0 7	The two
+T16	Malware 79 105	malware, a backdoor trojan
+T17	Malware 136 146	EyePyramid
+*	Coreference T16 T17 T26 T10 T30 T46 T51 T52 T29 T57 T61
+*	Coreference T15 T34 T4 T32 T38 T43 T50 T6
+T18	Email 183 189	emails
+T20	Email 252 258	emails
+*	Coreference T18 T20 T39
+T25	File 271 286	file attachment
+T26	Malware 335 342	malware
+*	Coreference T2 T7 T14
+T30	Malware 461 468	malware
+T31	Information 482 491	this data
+*	Coreference T3 T31 T35 T47 T21
+T32	Person 581 597	the two suspects
+T35	Information 688 704	this information
+T36	Campaign 756 781	stock market transactions
+T37	Campaign 785 794	blackmail
+T38	Person 805 812	The two
+T39	Email 847 853	emails
+T40	Person 864 883	security researcher
+T41	Organization 925 937	local police
+T42	Person 558 575	Italian officials
+T43	Person 1018 1025	the two
+T44	Organization 970 984	Italian police
+T45	Organization 1004 1007	FBI
+T46	Malware 1064 1071	malware
+T47	Information 1086 1097	stolen data
+T48	Device 1037 1044	servers
+T49	Device 503 517	online servers
+*	Coreference T49 T48
+T50	Person 1099 1106	The two
+T51	Malware 1122 1129	malware
+T52	Malware 1245 1252	malware
+T53	Information 1361 1369	Username
+T54	Information 1374 1382	password
+*	Coreference T23 T53
+*	Coreference T24 T54 T11
+T28	Organization 1616 1627	Trend Micro
+T55	Person 1616 1662	Trend Micro security researcher Federico Maggi
+T56	Person 1695 1705	researcher
+*	Coreference T40 T55 T56
+T57	Malware 1744 1751	malware
+T58	Organization 1811 1822	Trend Micro
+*	Coreference T28 T58
+T59	Person 2292 2309	Giulio Occhionero
+T60	Person 599 616	Giulio Occhionero
+*	Coreference T60 T59
+T61	Malware 2409 2416	malware

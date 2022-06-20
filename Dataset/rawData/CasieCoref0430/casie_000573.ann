@@ -1,0 +1,69 @@
+T3	Organization 0 3	IBM
+T4	Vulnerability 30 66	a significant security vulnerability
+T5	System 70 102	its WebSphere Application Server
+T7	Organization 158 166	Big Blue
+T8	Organization 172 174	it
+T10	Vulnerability 203 216	CVE-2018-1567
+T13	Software 294 306	the platform
+T15	Vulnerability 326 343	the vulnerability
+T16	System 413 440	a vulnerable web-app server
+T11	Vulnerability 218 255	a remote-code execution vulnerability
+T47	Version 287 290	7.0
+T12	Version 259 271	versions 9.0
+T46	Version 278 281	8.0
+T45	Version 273 276	8.5
+T48	Time 147 156	this week
+T20	Organization 513 516	IBM
+T19	Vulnerability 470 477	The bug
+T18	Time 495 506	September 5
+T28	Time 654 663	Wednesday
+T25	Course-of-Action 643 650	the fix
+T27	Organization 631 634	IBM
+T24	Course-of-Action 586 595	the patch
+T29	Course-of-Action 698 707	the patch
+T32	Course-of-Action 894 901	The fix
+T34	Course-of-Action 984 1001	the updated patch
+T35	Organization 963 966	IBM
+T36	Organization 1365 1374	a company
+T37	Course-of-Action 1391 1407	a security patch
+T44	Vulnerability 1584 1603	blue screen crashes
+T42	Device 1613 1622	their PCs
+T1	Course-of-Action 18 66	a patch for a significant security vulnerability
+T2	Code 108 117	 the code
+T49	System 128 140	some systems
+T6	Course-of-Action 188 216	 a new fix for CVE-2018-1567
+T9	Organization 321 324	IBM
+T14	Hacker-Group 367 379	 an attacker
+T50	Attack-Pattern 383 409	remotely execute Java code
+T51	Protocol 444 463	 its SOAP connector
+T17	Course-of-Action 522 529	the fix
+T21	Vulnerability 613 621	problems
+T22	Time 665 682	more than a month
+T23	Organization 684 692	Big Blue
+T26	Course-of-Action 827 856	 the security fix for PI95973
+T30	Version 849 856	PI95973
+T52	Organization 872 875	IBM
+T53	Person 882 891	customers
+T31	Person 1034 1040	admins
+T33	Vulnerability 1084 1100	 a vulnerability
+T54	Vulnerability 1109 1124	risking crashes
+T55	Person 1126 1128	We
+T56	Organization 1137 1165	 the New York-based IT giant
+T57	Information 1175 1182	details
+T58	Person 1208 1229	 an eagle-eyed reader
+T59	Course-of-Action 1288 1295	patches
+T60	Course-of-Action 1313 1331	Big Blue's defense
+T38	Organization 1451 1460	Microsoft
+T39	Time 1512 1517	today
+T61	Number 1537 1548	a number of
+T62	Person 1549 1557	HP users
+T41	Course-of-Action 1640 1673	this week's Patch Tuesday updates
+T40	Time 1658 1665	Tuesday
+T63	Course-of-Action 925 927	it
+T64	Person 1247 1250	you
+T66	Course-of-Action 773 775	it
+*	Coreference T7 T23 T8
+*	Coreference T11 T10 T15 T19
+*	Coreference T52 T35 T9 T20 T3 T27
+*	Coreference T32 T63
+*	Coreference T29 T24 T25 T66 T17 T6

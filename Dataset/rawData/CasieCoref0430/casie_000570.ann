@@ -1,0 +1,24 @@
+T7	Email 390 411	spear phishing emails
+T6	Person 370 374	they
+T3	Domain 355 369	the true links
+T4	Hacker-Group 292 305	The attackers
+T8	Hacker-Group 632 645	the attackers
+T9	Domain 668 683	fake news sites
+T11	Organization 9 61	Palo Alto Networks’ threat intelligence research arm
+T12	URL 89 94	links
+T13	Campaign 103 110	attacks
+T14	Malware 117 141	two new malware families
+T15	Malware 146 184	two families of Google Android malware
+T16	Organization 162 176	Google Android
+T17	Course-of-Action 230 271	preventing and detecting targeted attacks
+T18	Campaign 255 290	targeted attacks in the Middle East
+T19	Software 319 342	URL shortening services
+T1	Software 457 484	 the URL shortening service
+T2	Software 494 521	 The URL shortening service
+T5	Person 537 542	users
+T20	Code 545 567	 the malicious payload
+T22	Software 486 492	bit.ly
+T23	Pronoun 370 374	they
+T10	Organization 0 7	Unit 42
+*	Coreference T11 T10
+*	Coreference T1 T22 T2

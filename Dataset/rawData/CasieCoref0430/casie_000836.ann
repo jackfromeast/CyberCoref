@@ -1,0 +1,52 @@
+T9	Campaign 1351 1358	acquire
+T10	Information 1370 1387	login credentials
+T11	Person 1323 1330	hackers
+T15	Time 1276 1291	Two years prior
+T12	Campaign 1391 1398	hacking
+T13	System 1399 1422	non-operational systems
+T14	System 1426 1455	Ukrainian utilities – systems
+T6	Campaign 1689 1701	were sent to
+T8	Time 1749 1757	May 2014
+T7	Person 1702 1736	Ukraine electric utility employees
+T5	File 1537 1558	spear-phishing emails
+T1	Campaign 223 229	access
+T2	Information 230 240	DNC emails
+T3	Attack-Pattern 189 214	the spear-fishing process
+T4	Attack-Pattern 172 186	Grizzly Steppe
+T16	Time 1023 1040	December 17, 2016
+T17	Time 91 120	 the morning of December 30th
+T18	Campaign 32 55	state sponsored hacking
+T19	Campaign 1833 1846	minor attacks
+T20	Information 1892 1896	them
+T21	Code 929 931	it
+T22	Organization 133 157	Vermont electric utility
+T23	Organization 268 273	their
+T24	Person 301 314	Peter Shumlin
+T25	Person 283 299	Vermont Governor
+T26	Person 343 357	Vladimir Putin
+T27	System 380 405	Vermont’s electrical grid
+T28	Campaign 375 405	hack Vermont’s electrical grid
+T29	Campaign 430 434	suit
+T30	Campaign 539 547	evidence
+T31	Campaign 550 580	 a state sponsored cyberattack
+T32	Campaign 638 650	 the finding
+T33	Code 478 497	 the malicious code
+T34	Device 677 688	 the laptop
+T35	Device 506 535	 a Burlington Electric laptop
+T36	Malware 833 860	Grizzly Steppe hacking code
+T37	Device 940 946	laptop
+T38	Campaign 1076 1088	cyber-attack
+T39	Device 1471 1499	Burlington Electric’s laptop
+T40	File 1570 1624	weaponized Microsoft Word, Excel, and PowerPoint files
+T41	File 1646 1651	files
+T42	Information 1764 1792	legitimate login credentials
+*	Coreference T4 T3
+*	Coreference T22 T23
+*	Coreference T25 T24
+*	Coreference T30 T31
+*	Coreference T33 T32
+*	Coreference T35 T34 T37 T39
+*	Coreference T36 T21
+*	Coreference T28 T38 T29
+*	Coreference T40 T41
+*	Coreference T10 T42 T20

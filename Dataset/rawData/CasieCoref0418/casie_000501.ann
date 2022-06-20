@@ -1,0 +1,81 @@
+T31	Attack-Pattern 1129 1162	suspicious activity on an account
+T28	Hacker-Group 1093 1102	fraudster
+T30	Person 1172 1182	individual
+T35	Attack-Pattern 1244 1256	due a refund
+T33	Person 1235 1239	they
+T17	Hacker-Group 1258 1270	The criminal
+T16	Purpose 1310 1361	giving away their personal or financial information
+T11	Hacker-Group 1000 1013	the fraudster
+T13	Attack-Pattern 1038 1081	through a phone call, text message or email
+T3	Organization 859 894	legitimate and trusted organisation
+T1	Organization 832 836	they
+T5	Attack-Pattern 790 822	impersonation and deception scam
+T7	Organization 912 922	the police
+T4	Hacker-Group 772 781	criminals
+T21	Organization 1635 1653	internet companies
+T20	Person 1608 1630	major online retailers
+T22	Hacker-Group 1516 1525	criminals
+T25	Purpose 1747 1789	giving away personal and financial details
+T26	Purpose 1799 1827	downloading malware software
+T27	Email 1665 1677	these emails
+T24	Person 1731 1741	recipients
+T36	Campaign 33 39	battle
+T37	Campaign 48 53	fraud
+T38	Hacker-Group 57 66	criminals
+T39	Campaign 74 81	tactics
+T40	Person 94 110	target customers
+T41	Person 123 130	lenders
+T42	Hacker-Group 168 175	hackers
+T43	Course-of-Action 134 175	bolster their IT defences against hackers
+T44	Hacker-Group 199 209	fraudsters
+T45	Organization 267 292	Financial Fraud Action UK
+T46	Money 312 320	millions
+T47	Course-of-Action 324 338	tackling fraud
+T48	Time 363 372	last year
+T49	Organization 425 450	Financial Fraud Action UK
+T50	Hacker-Group 481 490	criminals
+T51	Attack-Pattern 500 513	their methods
+T52	Campaign 530 545	malware attacks
+T53	Hacker-Group 639 649	fraudsters
+T54	Person 667 688	targeting individuals
+T55	Information 738 744	report
+T2	Purpose 1186 1224	verify or update their account details
+T10	Information 1371 1380	passwords
+T14	Information 1382 1402	payment card details
+T29	Information 1406 1430	bank account information
+T32	Organization 1432 1457	Financial Fraud Action UK
+T19	Email 1571 1587	phishing’ emails
+T18	Organization 1870 1875	banks
+T23	Campaign 1898 1924	high profile cyber attacks
+T34	Attack-Pattern 1930 1986	have attempted to exploit weaknesses in their IT systems
+T56	System 1976 1986	IT systems
+T57	Time 1988 2001	Last November
+T58	Hacker-Group 2002 2011	criminals
+T59	Campaign 2024 2037	online attack
+T60	Organization 2046 2056	Tesco Bank
+T61	Money 2086 2097	£2.5million
+T62	Information 2109 2117	accounts
+T63	Hacker-Group 2119 2125	Others
+T65	System 2223 2257	Britain’s financial infrastructure
+T66	Campaign 2263 2287	persistent cyber-attacks
+T67	Person 2308 2322	Philip Hammond
+T68	Money 2342 2353	£1.9billion
+T69	Attack-Pattern 213 252	bombard individual customers with scams
+T70	Person 221 241	individual customers
+T71	Course-of-Action 407 423	preventing scams
+T72	Organization 906 910	bank
+T6	Organization 947 968	government department
+T8	Organization 926 941	utility company
+T9	Person 1029 1037	customer
+T12	Person 1298 1304	target
+T15	Attack-Pattern 1276 1361	attempts to trick the target into giving away their personal or financial information
+T64	Organization 2156 2207	Royal Bank of Scotland and NatWest, Lloyds and HSBC
+T76	Organization 630 632	it
+*	Coreference T27 T19
+*	Coreference T49 T45 T32 T76 T74
+*	Coreference T38 T42 T44
+*	Coreference T53 T50 T4 T1 T11
+T73	Campaign 976 981	scams
+*	Coreference T33 T30
+*	Coreference T17 T28
+T74	Organization 1655 1657	It

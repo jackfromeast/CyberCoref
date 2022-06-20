@@ -1,0 +1,77 @@
+T7	Vulnerability 116 140	security vulnerabilities
+T5	Organization 102 107	Adobe
+T11	Time 152 172	middle of each month
+T8	Organization 267 274	company
+T2	Organization 0 5	Adobe
+T3	Vulnerability 18 36	two critical flaws
+T4	Software 40 58	Acrobat and Reader
+T13	Vulnerability 399 413	critical flaws
+T16	Version 316 325	APSB19-02
+T15	Time 379 387	new year
+T14	Course-of-Action 345 352	updates
+T19	Organization 498 503	Adobe
+T20	Vulnerability 461 469	the flaw
+T37	Version 1151 1165	2019.010.20069
+T36	Course-of-Action 1113 1120	the fix
+T46	Vulnerability 1337 1351	critical flaws
+T43	Course-of-Action 1492 1499	patches
+T44	Software 1527 1541	Adobe products
+T45	Time 1542 1550	tomorrow
+T48	Organization 1606 1611	Adobe
+T50	Course-of-Action 1645 1652	patches
+T51	Organization 1701 1706	Adobe
+T54	Vulnerability 1745 1767	zero-day vulnerability
+T63	Time 1688 1699	days before
+T58	Course-of-Action 1838 1843	patch
+T56	Software 1812 1817	Flash
+T55	Time 1803 1811	November
+T23	Vulnerability 648 662	CVE-2018-16011
+T21	Vulnerability 618 632	The first flaw
+T25	Organization 680 685	Adobe
+T26	Vulnerability 691 709	use-after-free bug
+T27	Attack-Pattern 734 800	using a maliciously crafted PDF to take control of a target system
+T61	Vulnerability 535 543	exploits
+T19	Organization 498 503	Adobe
+T20	Vulnerability 461 469	the flaw
+T31	System 1050 1056	Window
+T32	System 1061 1066	macOS
+T33	Software 1067 1084	Acrobat DC/Reader
+T34	Version 1085 1111	2019.010.20064 and earlier
+T28	Vulnerability 843 857	CVE-2018-16018
+T29	Vulnerability 869 883	CVE-2018-19725
+T38	Vulnerability 891 906	security bypass
+T39	Software 948 963	Adobe Reader DC
+T1	Course-of-Action 10 36	patched two critical flaws
+T6	Course-of-Action 108 140	patches security vulnerabilities
+T64	Time 192 217	Microsoft’s Patch Tuesday
+T65	Course-of-Action 278 303	issue out-of-band updates
+T9	Person 362 371	customers
+T10	Course-of-Action 389 413	addresses critical flaws
+T12	Course-of-Action 569 597	issuing an ‘emergency’ patch
+T17	Malware 812 819	malware
+T18	Time 1013 1022	Christmas
+T22	Version 1034 1049	all versions of
+T24	Course-of-Action 1141 1147	update
+T35	Software 1175 1201	legacy Acrobat/Reader 2017
+T60	Version 1202 1216	2017.011.30110
+T62	Software 1221 1243	Acrobat/Reader DC 2015
+T66	Version 1244 1258	2015.006.30461
+T67	Course-of-Action 1264 1271	updates
+T68	Version 1286 1300	2017.011.30113
+T69	Version 1305 1319	2015.006.30464
+T70	Number 1360 1361	2
+T71	Number 606 607	1
+T72	Number 441 442	2
+T73	Time 1392 1398	30-day
+T40	Course-of-Action 1422 1439	apply the updates
+T41	Time 1562 1575	Patch Tuesday
+T42	Course-of-Action 1707 1738	issued an emergency Flash patch
+T52	Number 1642 1644	87
+T53	Number 1664 1666	39
+T49	Time 1580 1604	December’s Patch Tuesday
+*	Coreference T5 T48 T25 T51 T2 T19
+T47	Vulnerability 835 841	second
+*	Coreference T47 T28 T29 T38
+*	Coreference T26 T23 T21
+*	Coreference T20 T13 T46
+*	Coreference T33 T39

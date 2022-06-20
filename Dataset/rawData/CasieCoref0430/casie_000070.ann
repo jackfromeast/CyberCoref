@@ -1,0 +1,33 @@
+T9	Location 162 168	Europe
+T7	Organization 127 135	military
+T8	Organization 140 150	government
+T10	Time 184 193	last year
+T4	Campaign 212 226	spear-phishing
+T2	Email 259 267	messages
+T3	Organization 287 304	 a trusted source
+T5	Attack-Pattern 313 334	infected with malware
+T11	Organization 4 18	Foreign Office
+T12	Campaign 28 50	 a sustained onslaught
+T13	Hacker-Group 54 68	cyberattackers
+T14	Location 94 100	Russia
+T6	Attack-Pattern 228 248	 The hackers’ method
+T1	Attack-Pattern 268 304	appear to come from a trusted source
+T15	Organization 367 374	Sources
+T16	Hacker-Group 384 395	 the people
+T17	Campaign 402 413	 the attack
+T18	Hacker-Group 415 429	Callisto Group
+T19	Location 455 461	Russia
+T20	Organization 496 504	 The BBC
+T21	Organization 518 537	 the Foreign Office
+T22	Organization 547 559	 the targets
+T23	Campaign 563 574	 the attack
+T24	Time 584 599	April last year
+T25	Campaign 644 664	 a high-level attack
+T26	Information 674 695	sensitive information
+T27	System 711 723	 the systems
+T28	Campaign 623 625	it
+*	Coreference T10 T24
+*	Coreference T11 T21
+*	Coreference T14 T19
+*	Coreference T16 T13 T18
+*	Coreference T17 T4 T23 T28

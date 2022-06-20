@@ -1,0 +1,33 @@
+T4	Organization 63 71	Facebook
+T5	Time 75 87	October 2016
+T16	Vulnerability 50 59	the issue
+T7	Person 38 40	he
+T8	Organization 185 207	Facebook security team
+T9	Person 168 170	He
+T6	Person 16 22	Leonov
+T1	Vulnerability 107 127	the ImageMagick flaw
+T2	Organization 158 166	Facebook
+T13	Vulnerability 260 269	the issue
+T8	Person 185 207	Facebook security team
+T12	Domain 5 14	blog post
+T3	Course-of-Action 252 269	patched the issue
+T10	Person 282 285	him
+T11	Number 295 302	$40,000
+T14	System 315 338	Bugcrowd payment system
+T15	Software 400 411	big service
+T17	Software 417 425	Facebook
+T18	Software 461 469	Facebook
+T19	Time 351 380	a time on Saturday in October
+T20	Software 519 527	Facebook
+T21	Person 472 473	I
+T22	Person 535 541	Leonov
+T23	Money 558 565	payment
+T24	Person 571 579	Register
+T25	Software 594 602	Facebook
+T26	Code 225 247	proof of concept (PoC)
+T30	Person 381 382	I
+T31	Person 455 457	me
+*	Coreference T16 T13
+*	Coreference T4 T2
+*	Coreference T21 T30 T6 T22 T7 T9 T10 T31
+*	Coreference T25 T20 T17 T18

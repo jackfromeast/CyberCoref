@@ -1,0 +1,128 @@
+T3	Vulnerability 924 936	security bug
+T2	Person 955 970	Darren Shepherd
+T35	Organization 986 1006	Rancher Labs company
+T6	Vulnerability 1089 1105	CVE-2018-1002105
+T7	Vulnerability 1111 1115	flaw
+T4	System 1410 1420	Kubernetes
+T10	System 1376 1404	OpenShift Container Platform
+T9	Vulnerability 1487 1500	vulnerability
+T36	Organization 1366 1373	Red Hat
+T21	Vulnerability 2528 2544	CVE-2018-1002105
+T19	System 2426 2436	Kubernetes
+T18	Version 2437 2451	releases prior
+T25	Organization 2546 2553	Red Hat
+T23	Course-of-Action 2563 2570	patches
+T24	Software 2575 2624	the OpenShift family of containerization software
+T26	System 2626 2654	OpenShift Container Platform
+T28	System 2678 2697	OpenShift Dedicated
+T27	System 2656 2672	OpenShift Online
+T30	Course-of-Action 2718 2733	service updates
+T11	Vulnerability 2317 2324	problem
+T13	System 2347 2378	the latest Kubernetes revisions
+T14	Version 2380 2388	v1.10.11
+T15	Version 2390 2397	v1.11.5
+T16	Version 2399 2406	v1.12.3
+T17	Version 2412 2424	v1.13.0-rc.1
+T34	Information 2873 2877	data
+T32	Hacker-Group 2816 2831	malicious actor
+T37	Vulnerability 2 24	critical vulnerability
+T38	System 28 57	Kubernetes open-source system
+T39	Software 71 97	containerized applications
+T40	Hacker-Group 112 120	attacker
+T41	Purpose 124 186	gain full administrator privileges on Kubernetes compute nodes
+T42	Device 162 186	Kubernetes compute nodes
+T43	Software 188 198	Kubernetes
+T44	Software 264 286	application containers
+T45	Device 358 363	nodes
+T46	Device 393 399	master
+T47	Device 494 498	node
+T49	Software 519 526	Kubelet
+T50	Device 567 584	Kubernetes master
+T51	Code 593 596	API
+T52	Device 612 617	nodes
+T53	System 633 650	Kubernetes system
+T54	Number 658 685	hundreds and even thousands
+T55	Person 750 755	users
+T56	Person 869 883	Jordan Liggitt
+T57	Person 885 908	staff software engineer
+T58	Organization 912 918	Google
+T59	Person 972 982	co-founder
+T60	System 1025 1048	Kubernetes-as-a-Service
+T61	System 1136 1178	Common Vulnerability Scoring System (CVSS)
+T62	Number 1188 1191	9.8
+T63	Number 1199 1201	10
+T64	Organization 1536 1543	company
+T65	Vulnerability 1562 1566	flaw
+T69	Device 1694 1708	Kubernetes pod
+T70	Software 1733 1743	containers
+T71	Device 1874 1883	container
+T72	Person 1787 1791	they
+T74	Software 1994 2022	OpenShift Container Platform
+T73	Attack-Pattern 1910 1990	exploits the API extension feature used by ‘metrics-server’ and ‘servicecatalog’
+T75	Software 2024 2040	OpenShift Online
+T76	Software 2046 2055	Dedicated
+T77	Person 2091 2111	unauthenticated user
+T78	System 2170 2177	cluster
+T79	Code 2140 2143	API
+T12	System 2507 2511	them
+T20	Device 2284 2288	node
+T22	Person 2180 2193	Cluster-admin
+T48	Person 2703 2708	users
+T29	Organization 2786 2802	software company
+T81	Code 2888 2902	malicious code
+T82	Software 2938 2950	applications
+T83	Course-of-Action 2979 3002	organization’s firewall
+T84	System 227 248	container environment
+T85	Code 825 834	API calls
+T86	Vulnerability 1242 1255	vulnerability
+T87	Person 1348 1352	user
+T88	Attack-Pattern 1796 1883	escalate their privileges to cluster-admin level and execute any process in a container
+T31	Attack-Pattern 2838 2902	exploit the vulnerability to steal data or inject malicious code
+T33	Organization 1712 1717	group
+T66	Number 1721 1732	one or more
+T67	System 1767 1774	network
+T80	Software 317 333	virtual machines
+T89	Campaign 417 443	cluster-related activities
+T90	Campaign 449 456	scaling
+T91	Campaign 458 468	scheduling
+T92	Campaign 473 486	updating apps
+T93	Number 602 608	number
+T94	Campaign 851 861	escalation
+T1	Version 1220 1234	latest version
+T5	Vulnerability 1292 1307	security glitch
+T8	Campaign 1508 1516	advisory
+T95	Software 1603 1611	products
+T96	Campaign 1896 1902	attack
+T97	Person 2295 2303	advisory
+T98	Software 2476 2484	products
+T99	Software 2489 2497	services
+T101	Vulnerability 2850 2863	vulnerability
+T102	Software 2955 2963	services
+T103	Number 349 357	Multiple
+T106	Person 2734 2738	they
+*	Coreference T36 T25
+*	Coreference T51 T79 T85 T104
+*	Coreference T52 T45 T20 T47 T42
+*	Coreference T64 T29
+*	Coreference T70 T44 T71 T110
+*	Coreference T37 T9 T101 T3 T5 T21 T6 T7 T86 T65 T11
+*	Coreference T8 T97
+*	Coreference T95 T98 T12
+*	Coreference T99 T102
+*	Coreference T87 T72 T55 T48 T106
+*	Coreference T38 T43 T53 T4 T19
+T107	System 339 347	clusters
+T108	System 371 378	cluster
+*	Coreference T108 T107
+*	Coreference T50 T46
+*	Coreference T56 T57
+*	Coreference T2 T59
+T109	System 1065 1072	Rancher
+*	Coreference T60 T109
+T110	Software 1452 1462	containers
+T68	Person 1628 1686	normal user with 'exec,' 'attach,' or 'portforward' rights
+T104	Code 1923 1944	API extension feature
+*	Coreference T26 T74
+*	Coreference T27 T75
+*	Coreference T28 T76
+T100	Purpose 2916 2963	bring down production applications and services

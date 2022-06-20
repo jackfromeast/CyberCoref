@@ -1,0 +1,43 @@
+T7	Campaign 273 289	were compromised
+T6	Information 262 272	his emails
+T9	Campaign 224 238	a cyber attack
+T8	Person 183 193	Mr Bradley
+T10	Time 247 256	September
+T16	Campaign 388 401	were not sent
+T17	System 407 417	his system
+T11	Campaign 317 330	received from
+T13	File 310 316	emails
+T12	Person 331 334	him
+T14	Person 338 360	undisclosed recipients
+T15	Time 361 387	over the past seven months
+T3	Campaign 152 172	are purporting to be
+T5	Person 0 13	Derek Bradley
+T4	Person 178 181	him
+T2	Campaign 128 146	have been sent out
+T1	File 112 127	phishing emails
+T18	Person 707 710	you
+T20	Person 712 714	We
+T22	Person 598 599	I
+T24	Person 291 293	He
+T25	Person 463 465	he
+T26	Organization 23 30	Panacea
+T27	Organization 31 51	 an online community
+T19	Person 473 475	We
+T21	Campaign 553 557	this
+T23	Person 654 655	I
+T28	Campaign 750 761	 this issue
+T29	Person 784 794	Mr Bradley
+T30	Email 913 919	emails
+T31	Person 1130 1142	Andrew Tyrie
+T32	Person 1144 1185	chairman of the Treasury select committee
+T33	System 1269 1290	cyber security system
+T34	Person 1358 1367	 My Tyrie
+T35	Campaign 1501 1513	cyber issues
+T36	Course-of-Action 1466 1489	serve as a single point
+T37	Course-of-Action 1530 1557	catastrophically inadequate
+*	Coreference T5 T4 T8 T24 T12 T22 T23 T25 T29
+*	Coreference T26 T27 T20 T19
+*	Coreference T9 T21 T28
+*	Coreference T13 T30
+*	Coreference T31 T32 T34
+*	Coreference T36 T37

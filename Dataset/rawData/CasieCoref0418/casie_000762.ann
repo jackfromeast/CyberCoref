@@ -1,0 +1,100 @@
+T1	Campaign 1754 1773	the ransom payments
+T2	Hacker-Group 1779 1793	the Locky crew
+T3	Time 1703 1710	October
+T4	Malware 1683 1688	Locky
+T11	Email 2254 2265	spam emails
+T12	Purpose 2266 2284	distributing Locky
+T13	Attack-Pattern 2299 2312	spam sent out
+T5	Malware 2317 2323	Necurs
+T6	Hacker-Group 1547 1566	group behind Kovter
+T8	Person 46 55	observers
+T9	Campaign 5 19	Locky spam dip
+T14	Organization 65 85	security firms Avast
+T15	Organization 90 101	Check Point
+T16	Person 107 142	security researchers Kevin Beaumont
+T17	Person 144 155	MalwareTech
+T18	Person 157 174	MalwareHunterTeam
+T19	Person 180 186	others
+T20	Malware 289 299	Locky spam
+T21	Time 248 256	December
+T22	Malware 271 278	malware
+T23	Time 343 350	October
+T24	Malware 352 357	Locky
+T25	Campaign 381 412	top malware threat in the world
+T26	Time 428 436	December
+T27	Malware 438 443	Locky
+T28	Organization 534 539	Avast
+T29	Time 577 590	last ten days
+T30	Malware 592 602	Locky spam
+T31	Time 651 670	during the holidays
+T32	Malware 730 746	Locky ransomware
+T33	Campaign 788 804	Kovter campaigns
+T34	Attack-Pattern 747 804	delivered as a second-stage download for Kovter campaigns
+T35	Malware 818 837	click-fraud malware
+T36	Malware 806 812	Kovter
+T37	Attack-Pattern 843 909	infects computers and clicks on invisible ads on the user's behalf
+T38	Malware 916 923	malware
+T39	Time 933 949	around for years
+T40	Attack-Pattern 976 1023	distributing a wide range of secondary payloads
+T41	Time 1028 1040	January 2016
+T42	Malware 1042 1048	Kovter
+T43	Attack-Pattern 1049 1104	downloaded and installed a proxy client on infected PCs
+T44	Attack-Pattern 1106 1152	transforming infected hosts into proxy servers
+T45	Purpose 1161 1188	ProxyGate web proxy service
+T46	Hacker-Group 1207 1218	Kovter gang
+T47	Purpose 1229 1240	side profit
+T48	Attack-Pattern 1244 1284	routing web traffic through infected PCs
+T49	Purpose 1297 1310	earning money
+T50	Campaign 1335 1346	click-fraud
+T51	Time 1348 1365	In the same month
+T52	Malware 1367 1373	Kovter
+T53	Version 1402 1409	version
+T54	Malware 1417 1435	Nemucod ransomware
+T7	Person 1447 1459	Fabian Wosar
+T55	Organization 1463 1471	Emsisoft
+T56	Course-of-Action 1489 1508	created a decrypter
+T57	Person 1526 1531	Wosar
+T58	Malware 1587 1606	ransomware variants
+T59	Time 1607 1630	in the following months
+T60	Person 1795 1806	Researchers
+T61	Campaign 1818 1834	Locky infections
+T62	Hacker-Group 1888 1900	Kovter group
+T63	Campaign 1852 1868	Locky infections
+T64	Hacker-Group 1918 1931	IDs 23 and 24
+T65	File 1942 1968	Locky's configuration file
+T66	System 1987 2002	infected system
+T67	Person 2004 2023	PhishMe researchers
+T68	Email 2074 2092	Kovter spam emails
+T69	Malware 2120 2136	Locky ransomware
+T70	Time 2137 2154	in the past weeks
+T71	Email 2177 2188	spam emails
+T72	Campaign 2212 2228	Locky infections
+T10	Malware 2327 2373	botnet of PCs infected with the Necurs bootkit
+T73	Malware 2379 2392	Necurs botnet
+T75	Malware 2452 2473	Dridex banking trojan
+T76	Malware 2500 2515	banking trojans
+T74	Malware 2405 2411	botnet
+T77	Malware 965 967	it
+*	Coreference T3 T23
+*	Coreference T21 T26
+*	Coreference T52 T36 T42 T35 T38 T77
+*	Coreference T46 T62 T6
+*	Coreference T69 T4 T30 T27 T24 T20 T22 T79 T32 T89
+*	Coreference T60 T67
+*	Coreference T61 T72 T63
+*	Coreference T11 T68 T71
+*	Coreference T73 T5 T74 T10 T76
+T78	Organization 201 212	Check Point
+*	Coreference T15 T78
+T79	Malware 385 392	malware
+*	Coreference T28 T14
+T83	Device 1119 1133	infected hosts
+T84	Device 1092 1104	infected PCs
+*	Coreference T83 T84 T85 T86 T87
+T85	Device 1139 1152	proxy servers
+T86	Device 851 860	computers
+T87	Device 1272 1284	infected PCs
+*	Coreference T7 T57
+T88	Money 1305 1310	money
+*	Coreference T88 T1
+T89	Malware 2279 2284	Locky

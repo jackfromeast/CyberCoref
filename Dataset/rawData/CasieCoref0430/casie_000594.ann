@@ -1,0 +1,106 @@
+T20	Time 2365 2374	Last year
+T19	Hacker-Group 2376 2386	Fancy Bear
+T15	Information 2458 2490	the confidential medical records
+T17	Person 2508 2516	athletes
+T4	System 1038 1051	a file server
+T1	Information 997 1001	data
+T5	Information 1762 1777	the information
+T7	System 1794 1805	the network
+T9	Hacker-Group 1913 1917	they
+T11	Information 1949 1956	content
+T12	File 1962 1971	this file
+T16	Hacker-Group 28 46	 the hacking group
+T22	Hacker-Group 56 66	Fancy Bear
+T23	Organization 4 8	IAAF
+T24	Organization 93 112	western governments
+T25	Person 117 133	security experts
+T26	Organization 136 157	 a Russian spy agency
+T27	Campaign 176 197	 the cyber operations
+T30	Time 293 301	February
+T31	Campaign 259 289	 the attack of medical records
+T33	Campaign 302 311	 The hack
+T34	Organization 360 369	athletics
+T35	Information 321 369	information concerning applications by athletics
+T36	Organization 401 410	 the IAAF
+T37	Person 417 425	Athletes
+T38	Time 457 461	2012
+T39	Person 486 500	IAAF president
+T40	Person 502 515	Sebastian Coe
+T41	Organization 585 594	 the IAAF
+T42	Information 600 611	information
+T43	Person 666 669	Coe
+T44	Person 554 567	 the athletes
+T45	Person 694 698	They
+T13	Software 2399 2443	the World Anti-Doping Agency (WADA) database
+T14	Person 2533 2556	cyclist Bradley Wiggins
+T18	Person 2557 2588	 the 2012 Tour de France winner
+T21	Time 2557 2566	 the 2012
+T28	Campaign 209 232	 the 2016 U.S. election
+T32	Person 2593 2644	Britain’s most decorated Olympian with eight medals
+T49	Organization 2676 2680	TUEs
+T50	Person 2700 2707	Wiggins
+T51	Time 2716 2725	last year
+T52	Organization 2863 2872	 The IAAF
+T53	Person 2990 3011	all Russia’s athletes
+T54	Organization 3048 3065	 the Rio Olympics
+T55	Time 3066 3075	last year
+T56	Location 3141 3147	London
+T57	Time 3151 3157	August
+T58	Person 3103 3137	 the world athletics championships
+T59	Organization 2880 2909	Russia’s athletics federation
+T60	File 2915 2940	 a WADA commission report
+T61	Campaign 1981 1992	 The attack
+T63	System 2086 2105	 the IAAF’s systems
+T64	Organization 2144 2172	Context Information Security
+T65	Organization 2256 2260	IAAF
+T66	Campaign 2217 2240	sophisticated intrusion
+T67	Campaign 2305 2316	 the attack
+T68	Organization 1806 1815	 the IAAF
+T6	Hacker-Group 1866 1880	 the attackers
+T8	Hacker-Group 1475 1485	 The group
+T10	Hacker-Group 1496 1511	Russian hackers
+T69	Campaign 1523 1541	 the cyber attacks
+T70	Campaign 1548 1579	 the U.S. presidential election
+T71	Time 1580 1589	last year
+T72	Organization 1714 1740	U.S. intelligence agencies
+T74	Person 1668 1680	Donald Trump
+T75	Person 1682 1694	a Republican
+T76	Campaign 1094 1100	attack
+T77	Hacker-Group 1104 1114	Fancy Bear
+T78	Organization 977 986	 The IAAF
+T79	Hacker-Group 1130 1135	APT28
+T81	Organization 1263 1272	 the IAAF
+T82	Organization 1279 1301	Private security firms
+T83	Person 1306 1320	U.S. officials
+T84	Hacker-Group 1331 1341	Fancy Bear
+T85	Organization 1380 1417	Russia’s military intelligence agency
+T86	Hacker-Group 1419 1429	Fancy Bear
+T87	File 1082 1086	file
+T3	Organization 840 858	sports federations
+T88	Organization 863 897	national anti-doping organizations
+T89	Person 907 915	athletes
+T2	Organization 1198 1232	cyber incident response (CIR) firm
+T46	Organization 1233 1261	Context Information Security
+T47	Person 1622 1642	Democratic candidate
+T73	Person 1643 1658	Hillary Clinton
+T62	Organization 2013 2028	British company
+T80	Organization 2029 2057	Context Information Security
+T91	Person 2833 2835	he
+T93	Campaign 2207 2209	it
+T94	Person 617 621	they
+T97	Person 2775 2777	he
+T29	Person 2335 2337	us
+*	Coreference T21 T38
+*	Coreference T55 T71 T20 T51
+*	Coreference T61 T67 T93 T66
+*	Coreference T72 T85
+*	Coreference T41 T68 T81 T52 T78 T36 T65 T23
+*	Coreference T22 T86 T77 T84 T19 T16 T79
+*	Coreference T64 T46 T80 T2
+*	Coreference T33 T31
+*	Coreference T39 T40 T43
+*	Coreference T44 T94 T45
+*	Coreference T47 T73
+*	Coreference T75 T74
+*	Coreference T6 T9
+*	Coreference T97 T91 T50

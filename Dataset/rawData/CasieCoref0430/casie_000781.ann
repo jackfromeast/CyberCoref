@@ -1,0 +1,30 @@
+T1	Campaign 52 66	ransom demands
+T3	Organization 5 30	a dozen Democratic groups
+T2	Hacker-Group 70 85	Russian hackers
+T4	Campaign 812 831	paying the “ransom”
+T5	Organization 836 849	the Democrats
+T6	Campaign 923 933	pay ransom
+T7	Person 919 922	You
+T8	Information 91 120	protester funding information
+T9	Time 134 143	 a Monday
+T10	Organization 156 165	Bloomberg
+T11	Hacker-Group 166 207	 The liberal Center for American Progress
+T12	Person 258 271	FBI officials
+T13	Organization 303 337	 the Democratic National Committee
+T14	Time 354 363	last year
+T15	Person 467 475	citizens
+T16	Money 694 701	$30,000
+T17	Money 723 731	$150,000
+T18	Hacker-Group 904 917	 the Russians
+T19	Organization 754 769	Democrat groups
+T20	Person 372 393	 the Trump protesters
+T22	Person 557 561	them
+T23	Hacker-Group 281 296	 the same group
+T21	Person 588 603	 the protesters
+T24	Person 780 793	 the protests
+T25	Hacker-Group 212 229	one of the groups
+T26	Person 509 527	paid professionals
+*	Coreference T4 T6
+*	Coreference T5 T3 T19
+*	Coreference T11 T23 T2 T18 T25
+*	Coreference T22 T20 T21 T24 T26

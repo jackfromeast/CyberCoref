@@ -1,0 +1,78 @@
+T3	Software 163 168	Flash
+T4	Software 170 187	Internet Explorer
+T5	Software 192 206	Microsoft Edge
+T6	Attack-Pattern 210 242	distribute the Cerber ransomware
+T7	Person 244 255	researchers
+T9	Software 527 555	outdated browsers or plugins
+T8	Vulnerability 569 590	known vulnerabilities
+T10	Attack-Pattern 618 639	infected with malware
+T22	Person 760 767	Zaharia
+T21	Software 716 730	Microsoft Edge
+T20	Software 694 711	Internet Explorer
+T19	Software 681 692	Silverlight
+T18	Software 667 679	Flash Player
+T26	Vulnerability 827 840	CVE-2015-8651
+T36	Vulnerability 1156 1169	CVE-2016-0034
+T35	Software 1113 1130	Internet Explorer
+T34	Vulnerability 1073 1086	CVE-2016-3298
+T32	Software 1056 1070	Microsoft Edge
+T31	Vulnerability 1009 1022	CVE-2016-7201
+T30	Vulnerability 991 1004	CVE-2016-7200
+T29	Vulnerability 959 972	CVE-2016-1019
+T28	Vulnerability 927 940	CVE-2016-4117
+T27	Vulnerability 860 873	CVE-2015-5122
+T24	Vulnerability 800 815	vulnerabilities
+T12	Version 646 663	outdated versions
+T33	Version 910 924	Flash versions
+T13	Version 1131 1149	versions 9, 10, 11
+T39	Attack-Pattern 1361 1384	encrypts a user’s files
+T38	Malware 1349 1360	The malware
+T14	Organization 36 49	organizations
+T15	Course-of-Action 58 75	update technology
+T16	Course-of-Action 80 93	apply patches
+T2	Software 121 154	outdated versions of applications
+T25	Malware 220 242	 the Cerber ransomware
+T1	Campaign 261 272	 The attack
+T40	Domain 283 300	malicious domains
+T41	Campaign 311 327	drive-by attacks
+T42	Person 349 357	visitors
+T43	Software 395 407	applications
+T44	Course-of-Action 388 407	update applications
+T45	Person 433 446	Andra Zaharia
+T46	Person 448 489	a security evangelist at Heimdal Security
+T47	Domain 493 505	 a blog post
+T11	Malware 632 639	malware
+T23	Campaign 747 758	 the attack
+T49	Number 787 799	one of eight
+T50	Organization 774 777	RIG
+T51	Number 842 857	CVSS Score: 9.1
+T52	Number 875 889	CVSS Score: 10
+T53	Number 906 909	100
+T54	Number 942 956	CVSS Score: 10
+T55	Number 974 988	CVSS Score: 10
+T56	Number 1029 1044	CVSS Score: 7.6
+T57	Number 1088 1103	CVSS Score: 3.6
+T58	Number 1171 1186	CVSS Score: 9.3
+T59	Device 1207 1225	 a user’s computer
+T60	Software 1226 1242	 the exploit kit
+T61	Attack-Pattern 1255 1303	downloading and installing the Cerber ransomware
+T62	Malware 1281 1303	 the Cerber ransomware
+T63	Time 1338 1347	last year
+T64	Campaign 1305 1337	one of the most prolific threats
+T65	File 1369 1384	 a user’s files
+T37	Information 1409 1428	 the decryption key
+T66	Person 1430 1437	Zaharia
+T67	Person 1457 1462	users
+T68	Course-of-Action 1481 1501	increased protection
+T70	Software 1512 1527	 their software
+T73	Campaign 1642 1661	exploit kit attacks
+T72	Time 1576 1594	in a timely manner
+T71	Course-of-Action 1550 1594	Applying security updates in a timely manner
+T69	Course-of-Action 1508 1548	keep their software updated at all times
+T74	Pronoun 592 596	they
+T76	Pronoun 518 522	they
+*	Coreference T21 T32 T5
+*	Coreference T4 T35 T20
+*	Coreference T25 T62
+*	Coreference T22 T45 T66 T46
+*	Coreference T23 T1

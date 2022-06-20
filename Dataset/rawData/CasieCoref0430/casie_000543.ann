@@ -1,0 +1,63 @@
+T6	Version 254 272	the latest version
+T7	Course-of-Action 303 312	an update
+T18	Course-of-Action 492 497	a fix
+T19	Time 483 486	Now
+T36	Vulnerability 1533 1558	a WhatsApp security issue
+T38	Time 1588 1594	August
+T39	Vulnerability 1596 1598	it
+T32	Software 1316 1331	the Android app
+T30	Vulnerability 1278 1300	The same vulnerability
+T41	Software 1457 1472	the desktop app
+T25	Vulnerability 968 994	the WhatsApp security flaw
+T26	Attack-Pattern 1018 1039	remote code execution
+T27	Person 1094 1120	a fellow Google researcher
+T29	Vulnerability 1133 1135	it
+T21	Person 506 517	Silvanovich
+T22	Vulnerability 548 576	the potentially serious flaw
+T23	Attack-Pattern 679 739	triggering the corruption error and crashing the application
+T8	Organization 159 171	The Register
+T2	Vulnerability 185 193	the flaw
+T3	Software 210 218	WhatsApp
+T4	Time 222 228	August
+T13	Vulnerability 411 419	the flaw
+T14	Software 463 471	WhatsApp
+T15	Time 475 481	August
+T16	Vulnerability 421 449	a memory heap overflow issue
+T33	Course-of-Action 1339 1360	has also been patched
+T43	Vulnerability 2 33	WhatsApp security vulnerability
+T44	Hacker-Group 46 55	attackers
+T45	Software 64 76	 the iOS app
+T46	Attack-Pattern 59 76	crash the iOS app
+T47	Attack-Pattern 140 156	hack your iPhone
+T48	Device 144 156	 your iPhone
+T1	Course-of-Action 243 272	patched in the latest version
+T5	Information 654 677	 a malformed RTP packet
+T9	Vulnerability 612 620	 the bug
+T12	Person 638 645	 a user
+T17	Information 753 798	 the malformed packet that triggers the crash
+T20	Attack-Pattern 816 838	 a simple call request
+T24	Vulnerability 846 851	issue
+T49	Person 866 882	 a WhatsApp user
+T50	Person 902 919	 a malicious peer
+T51	Person 922 933	Silvanovich
+T28	Vulnerability 1071 1089	 a sufficient risk
+T34	Person 1183 1197	Travis Ormandy
+T52	Hacker-Group 1226 1238	 an attacker
+T53	Software 1267 1275	WhatsApp
+T31	Organization 1413 1419	Google
+T42	Person 1361 1374	 The Register
+T35	Hacker-Group 1638 1650	 an attacker
+T37	Attack-Pattern 1654 1714	change both the content and the sender of a WhatsApp message
+T55	Pronoun 1380 1382	it
+T57	Vulnerability 1619 1621	it
+T59	Email 1737 1739	it
+T10	Person 314 366	Google Project Zero whizkid and Tamagotchi whisperer
+T11	Person 367 386	Natalie Silvanovich
+T40	Email 1695 1714	 a WhatsApp message
+*	Coreference T32 T41
+*	Coreference T21 T51 T11
+*	Coreference T4 T38 T15
+*	Coreference T53 T3 T14
+*	Coreference T28 T29
+*	Coreference T57 T39 T36 T2 T13 T16 T43 T22 T9 T24 T25 T30
+*	Coreference T40 T59

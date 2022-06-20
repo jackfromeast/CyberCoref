@@ -1,0 +1,79 @@
+T12	Campaign 357 373	The cyber attack
+T9	System 377 397	the computer systems
+T10	Organization 401 432	Mahatma Gandhi Mission Hospital
+T11	Time 450 457	July 15
+T4	Hacker-Group 300 309	attackers
+T5	Attack-Pattern 277 293	a malware attack
+T6	Location 249 260	Navi Mumbai
+T7	Organization 227 245	a private hospital
+T8	System 207 223	Computer systems
+T15	Hacker-Group 551 573	unidentified attackers
+T16	Attack-Pattern 502 547	the systems locked, with an encrypted message
+T17	Person 472 495	Hospital administrators
+T18	Campaign 790 809	ransomware' attacks
+T19	Person 879 892	the attackers
+T20	Attack-Pattern 893 921	threaten to publish the data
+T21	Attack-Pattern 925 937	block access
+T30	System 858 873	computer system
+T29	Person 849 855	victim
+T23	Malware 819 837	malicious software
+T25	Campaign 1584 1610	WannaCry ransomware attack
+T26	Time 1615 1623	May 2017
+T27	Device 1652 1661	computers
+T3	Person 64 73	DCP Doshi
+T14	IP 112 137	Internet Protocol Address
+T28	IP 139 141	IP
+T2	Money 318 336	ransom in Bitcoins
+T32	Person 1033 1042	DCP Doshi
+T33	Email 1127 1132	email
+T34	IP 1081 1106	Internet Protocol Address
+T35	IP 1108 1110	IP
+T36	Location 1662 1682	across 150 countries
+T37	Number 1643 1651	2,30,000
+T38	Campaign 1551 1564	cyber attacks
+T39	Campaign 1256 1270	malware attack
+T40	Person 1050 1052	We
+T41	Person 1333 1335	he
+T42	Person 81 83	We
+T43	Information 941 943	it
+T44	System 613 615	it
+*	Coreference T9 T30 T8 T50 T44
+*	Coreference T4 T15 T19
+*	Coreference T3 T32 T42 T46 T59 T40 T41 T65
+*	Coreference T28 T35 T14 T34
+T45	Organization 4 36	Cyber Cell of Navi Mumbai police
+T46	Person 196 201	Doshi
+T47	Campaign 279 293	malware attack
+T48	Money 175 181	ransom
+*	Coreference T48 T2 T24
+T1	Organization 338 344	police
+*	Coreference T45 T1 T49 T58
+*	Coreference T47 T12 T39
+*	Coreference T7 T10 T61
+T49	Organization 459 465	police
+T50	System 506 513	systems
+T13	Money 584 590	ransom
+T51	Person 622 634	Tushar Doshi
+T52	Person 636 665	Deputy Commissioner of Police
+*	Coreference T51 T52
+T53	Money 594 602	Bitcoins
+T54	Organization 675 686	Authorities
+T55	Campaign 764 771	attacks
+*	Coreference T55 T18 T38
+T56	Information 917 921	data
+T57	Information 712 716	data
+*	Coreference T57 T56 T43
+T22	Money 953 959	ransom
+*	Coreference T22 T13
+T58	Organization 973 1005	Cyber Cell of Navi Mumbai police
+T59	Person 1165 1170	Doshi
+T24	Money 1144 1150	ransom
+T60	Information 1327 1331	data
+T61	Organization 1280 1288	hospital
+T62	Person 1342 1355	Cyber experts
+T63	System 1379 1385	system
+T64	System 1177 1230	Computerised billing and medicine prescription system
+*	Coreference T64 T63
+T65	Person 1405 1408	DCP
+T66	Organization 1512 1532	Vashi Police Station
+T31	Email 158 163	email

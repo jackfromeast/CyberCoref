@@ -1,0 +1,76 @@
+T31	Campaign 1475 1492	ransomware attack
+T32	Organization 1416 1427	media group
+T33	Purpose 1704 1718	pay the ransom
+T34	Organization 1673 1684	Media Prima
+T20	System 561 581	the computer systems
+T19	Money 525 539	1,000 bitcoins
+T17	Hacker-Group 501 510	attackers
+T23	Money 639 654	RM26.42 million
+T24	Money 656 670	S$8.71 million
+T4	Hacker-Group 62 77	cyber attackers
+T7	Organization 0 18	Media Prima Berhad
+T6	System 21 37	computer systems
+T2	Money 96 115	millions of ringgit
+T3	Money 119 125	ransom
+T11	Organization 131 144	media company
+T9	Time 275 296	last Thursday (Nov 8)
+T26	Organization 1098 1105	company
+T27	Malware 1122 1132	ransomware
+T15	Malware 357 385	malicious software (malware)
+T16	Malware 333 343	Ransomware
+T1	Purpose 86 125	demanding millions of ringgit in ransom
+T5	Attack-Pattern 248 274	hit by a ransomware attack
+T8	Campaign 257 274	ransomware attack
+T35	Organization 302 322	Edge Financial Daily
+T36	Number 438 446	a sum of
+T14	Purpose 398 460	block access to a computer system until a sum of money is paid
+T18	Purpose 515 581	demanding 1,000 bitcoins to release access to the computer systems
+T21	Hacker-Group 603 612	attackers
+T22	Money 629 635	ransom
+T37	Organization 673 684	Media Prima
+T39	Organization 760 779	national newspapers
+T40	Organization 788 805	New Straits Times
+T41	Organization 807 820	Berita Harian
+T42	Organization 825 837	Harian Metro
+T43	Organization 879 882	TV3
+T44	Organization 884 887	TV9
+T45	Organization 889 893	ntv7
+T46	Organization 898 901	8TV
+T47	Device 912 926	radio stations
+T48	Organization 935 941	Fly FM
+T49	Organization 943 949	Hot FM
+T50	Organization 951 957	One FM
+T51	Organization 962 969	Kool FM
+T52	Person 987 1022	Media Prima group managing director
+T53	Organization 987 998	Media Prima
+T54	Person 1024 1042	Datuk Kamal Khalid
+T25	Attack-Pattern 1115 1118	hit
+T55	Organization 1143 1151	The Star
+T56	Organization 1177 1222	company's corporate communications department
+T57	Organization 1276 1286	department
+T58	Organization 1292 1312	Edge Financial Daily
+T30	Attack-Pattern 1390 1398	breached
+T60	Money 1447 1463	financial losses
+T63	Organization 1590 1597	company
+T64	Course-of-Action 1602 1638	migrated the email to another system
+T65	File 1615 1620	email
+T66	System 1632 1638	system
+T12	Money 447 452	money
+T67	Person 1134 1136	He
+T68	Number 754 759	three
+T59	Money 1712 1718	ransom
+T69	Organization 727 729	It
+*	Coreference T23 T24 T22 T19
+*	Coreference T35 T58
+T13	System 416 431	computer system
+T73	Organization 169 243	TV and radio channels, newspapers, advertising and digital media companies
+*	Coreference T11 T73
+*	Coreference T16 T15
+*	Coreference T37 T69 T32 T26 T63 T34
+*	Coreference T52 T54 T67
+*	Coreference T2 T3
+*	Coreference T21 T17
+*	Coreference T6 T20
+T10	File 698 725	Bursa Malaysia's main board
+T28	Information 1362 1380	Media Prima's data
+T29	Email 1531 1558	Media Prima's office e-mail

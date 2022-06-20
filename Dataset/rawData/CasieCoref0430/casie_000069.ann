@@ -1,0 +1,83 @@
+T7	Hacker-Group 231 251	Turkish Crime Family
+T11	Hacker-Group 258 262	they
+T12	Money 374 403	$100,000 in iTunes gift cards
+T14	Hacker-Group 343 347	they
+T3	Money 175 187	ransom money
+T1	Time 191 198	April 7
+T6	Hacker-Group 18 35	a gang of hackers
+T5	Hacker-Group 49 72	one lonesome individual
+T2	Attack-Pattern 92 105	remotely wipe
+T4	Organization 154 159	Apple
+T17	Hacker-Group 1870 1882	 the hackers
+T9	Number 106 117	millions of
+T13	Information 118 145	iPhones and iCloud accounts
+T18	Hacker-Group 199 208	 The gang
+T19	Hacker-Group 215 225	themselves
+T8	Organization 472 477	Apple
+T15	Money 508 512	this
+T20	Hacker-Group 524 541	 the hacker group
+T21	Information 582 599	compromising data
+T22	Organization 614 625	Motherboard
+T23	Hacker-Group 626 635	 a hacker
+T24	Person 746 761	Apple customers
+T25	Hacker-Group 824 836	 the hackers
+T26	Email 859 865	emails
+T27	Hacker-Group 883 893	 the group
+T28	Organization 898 903	Apple
+T29	Organization 919 930	Motherboard
+T30	Information 953 971	 the email account
+T31	Hacker-Group 981 993	 The hackers
+T32	Number 1013 1024	300 million
+T33	Information 1025 1045	Apple email accounts
+T34	Hacker-Group 1110 1124	another hacker
+T35	Hacker-Group 1129 1139	 the group
+T36	Number 1172 1183	559 million
+T37	Information 1184 1192	accounts
+T38	Hacker-Group 1215 1219	they
+T39	Hacker-Group 1251 1263	 the hackers
+T40	Person 1286 1303	 an elderly woman
+T41	Information 1306 1327	stolen iCloud account
+T42	File 1336 1352	backed-up photos
+T43	Device 1370 1376	device
+T44	Organization 1476 1481	Apple
+T45	Hacker-Group 1505 1522	 the hacker group
+T46	Course-of-Action 1738 1751	do not reward
+T47	Hacker-Group 1752 1767	cyber criminals
+T48	Person 1790 1793	Cox
+T49	Person 1811 1813	he
+T50	Email 1825 1831	emails
+T16	Hacker-Group 2027 2052	 the Turkish Crime Family
+T51	Course-of-Action 2108 2140	frequently change your passwords
+T52	Course-of-Action 2142 2169	Make them strong and unique
+T53	Information 2147 2151	them
+T54	Organization 2005 2007	we
+T55	Attack-Pattern 1897 1934	approach many different media outlets
+T56	Purpose 1938 1956	get more attention
+T57	Purpose 1662 1688	seeking unwanted attention
+T58	Hacker-Group 663 664	I
+T63	Organization 1557 1559	We
+T65	Person 1366 1369	her
+T67	Organization 1735 1737	we
+T72	Hacker-Group 1153 1157	they
+T73	Hacker-Group 1583 1586	you
+T74	Hacker-Group 1612 1615	you
+T75	Hacker-Group 1718 1721	you
+T76	Organization 1704 1706	we
+T61	Number 276 283	$75,000
+T68	Money 287 294	Bitcoin
+T77	Money 298 321	Ethereum cryptocurrency
+T10	Person 933 943	Joseph Cox
+T59	Domain 1067 1090	@icloud and @me domains
+T60	Hacker-Group 1446 1458	 the hackers
+T64	Purpose 1974 1990	 their extortion
+T62	Information 2125 2140	 your passwords
+T66	Course-of-Action 2179 2216	No names, birthdays, 123s, or whatnot
+*	Coreference T22 T29
+*	Coreference T26 T50
+*	Coreference T4 T44 T28 T8 T63 T76 T67 T54
+*	Coreference T49 T48 T10
+*	Coreference T18 T19 T7 T16 T11 T14 T45 T25 T17 T31 T20 T23 T39 T58 T35 T38 T27 T72 T60 T73 T74 T75
+*	Coreference T15 T12
+*	Coreference T37 T33
+*	Coreference T65 T40
+*	Coreference T62 T53

@@ -1,0 +1,134 @@
+T7	Time 455 463	Saturday
+T4	Vulnerability 522 524	it
+T10	Device 534 555	the SNH-1011 Smartcam
+T11	Device 600 624	Samsung Smartcam devices
+T40	Vulnerability 576 578	it
+T2	Vulnerability 435 450	vulnerabilities
+T14	Organization 726 735	the group
+T19	Device 1167 1185	the SNH-1011 model
+T44	Campaign 1347 1369	their first disclosure
+T46	Organization 1325 1332	Samsung
+T47	Device 1306 1313	cameras
+T43	Course-of-Action 1212 1239	an upcoming firmware update
+T18	Vulnerability 1190 1192	it
+T23	Course-of-Action 2124 2146	fixing vulnerabilities
+T24	Vulnerability 2131 2146	vulnerabilities
+T25	Device 2171 2177	camera
+T30	Device 2593 2599	iWatch
+T31	Attack-Pattern 2625 2703	a special filename stored in a tar command that is passed to a php system call
+T38	Course-of-Action 863 868	patch
+T33	Course-of-Action 2923 2930	patched
+T34	Organization 2918 2922	ASUS
+T35	Attack-Pattern 2942 2987	allowed attackers to pair two vulnerabilities
+T37	Attack-Pattern 3021 3045	execute commands as root
+T48	Attack-Pattern 2991 3016	gain direct router access
+T49	Organization 10 19	DEFCON 22
+T50	Course-of-Action 0 6	UPDATE
+T51	Time 20 27	in 2014
+T52	Person 29 40	researchers
+T53	Campaign 54 59	hacks
+T54	Campaign 72 88	Samsung Smartcam
+T55	Hacker-Group 105 113	attacker
+T56	Attack-Pattern 117 146	remotely take over the device
+T57	Device 140 146	device
+T39	Organization 275 287	Exploitee.rs
+T58	Organization 298 317	the GTVHacker group
+T59	Organization 148 155	Samsung
+T60	Time 167 178	at the time
+T61	Course-of-Action 186 269	remove the web interface enabling the attack rather than patch the code in question
+T62	Software 197 210	web interface
+T63	Campaign 224 230	attack
+T64	Code 253 257	code
+T65	Person 324 329	users
+T66	Course-of-Action 388 450	take another crack at analyzing the device for vulnerabilities
+T1	Device 424 430	device
+T3	Organization 469 474	group
+T5	Vulnerability 496 521	remote code execution bug
+T6	Vulnerability 631 644	vulnerability
+T8	System 692 707	iWatch firmware
+T9	Course-of-Action 708 723	update filename
+T12	Campaign 663 684	improper sanitization
+T13	Vulnerability 776 789	vulnerability
+T16	Vulnerability 873 877	flaw
+T17	Hacker-Group 918 926	attacker
+T41	Attack-Pattern 942 1017	inject his own command providing the attacker remote root command execution
+T67	Hacker-Group 979 987	attacker
+T68	Organization 1047 1054	Samsung
+T69	Time 1072 1079	in time
+T70	Campaign 1084 1095	publication
+T22	Organization 1099 1106	Samsung
+T71	Organization 1120 1130	Threatpost
+T20	Vulnerability 1140 1153	vulnerability
+T21	Software 1224 1232	firmware
+T42	Organization 1245 1257	Exploitee.rs
+T45	Organization 1263 1267	they
+T73	Number 1385 1396	a number of
+T74	Person 1397 1402	users
+T75	Device 1420 1426	device
+T76	Campaign 1450 1474	DIY monitoring solutions
+T77	Device 1504 1510	device
+T78	Course-of-Action 1494 1520	audit the device once more
+T79	Organization 1546 1548	we
+T80	Organization 1480 1482	we
+T81	Person 1558 1563	users
+T82	Device 1585 1592	cameras
+T83	Time 1599 1615	at the same time
+T84	Device 1646 1666	devices new firmware
+T85	Course-of-Action 1553 1666	give users back access to their cameras while at the same time verifying the security of the devices new firmware
+T86	Campaign 1673 1690	original response
+T87	Device 1732 1749	connected devices
+T88	Vulnerability 1815 1819	flaw
+T89	Attack-Pattern 1850 1904	allow attacks from the Internet suitable for something
+T90	System 1873 1881	Internet
+T91	Vulnerability 1910 1915	Mirai
+T92	Campaign 1951 1955	CSRF
+T93	Attack-Pattern 1959 1990	infect devices on home networks
+T94	Organization 1966 1973	devices
+T95	System 1977 1990	home networks
+T26	Organization 2085 2091	vendor
+T97	Course-of-Action 2092 2111	eliminates features
+T98	Vulnerability 2190 2204	original issue
+T99	Time 2210 2214	2014
+T100	Organization 2239 2251	Exploitee.rs
+T101	Software 2283 2296	web interface
+T102	Number 2306 2314	a set of
+T103	Code 2315 2326	PHP scripts
+T104	Device 2342 2359	camera’s firmware
+T105	Course-of-Action 2366 2373	updated
+T106	Software 2386 2418	iWatch webcam monitoring service
+T107	Attack-Pattern 2332 2373	allow the camera’s firmware to be updated
+T108	Code 2427 2434	scripts
+T109	Vulnerability 2445 2466	command injection bug
+T111	Attack-Pattern 2479 2546	leveraged for root remote command execution to an unprivileged user
+T112	Organization 2549 2553	they
+T113	Person 2529 2546	unprivileged user
+T114	Campaign 2493 2522	root remote command execution
+T27	Person 2564 2575	researchers
+T28	Vulnerability 2585 2589	flaw
+T29	System 2688 2698	php system
+T36	Device 2718 2728	web-server
+T115	Person 2759 2763	user
+T116	Campaign 2804 2816	sanitization
+T117	Campaign 2875 2904	root remote command execution
+T118	Organization 2907 2911	they
+T32	Vulnerability 2933 2936	bug
+T119	Hacker-Group 2950 2959	attackers
+T120	Vulnerability 2972 2987	vulnerabilities
+T121	Number 2968 2971	two
+T123	Person 2818 2820	we
+T130	Pronoun 1917 1919	it
+*	Coreference T10 T19
+*	Coreference T103 T108
+*	Coreference T114 T117
+*	Coreference T45 T100 T39 T3 T58 T42
+*	Coreference T17 T67
+*	Coreference T22 T68
+*	Coreference T20 T18 T5 T4 T40 T6 T13 T16
+*	Coreference T77 T75
+*	Coreference T79 T80
+T15	Person 1993 2031	Tripwire principal security researcher
+T96	Person 2032 2043	Craig Young
+*	Coreference T96 T15
+*	Coreference T28 T109
+*	Coreference T118 T112
+T110	Course-of-Action 1286 1369	look further at the cameras because of Samsung’s response to their first disclosure

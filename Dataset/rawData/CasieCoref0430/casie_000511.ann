@@ -1,0 +1,132 @@
+T47	Campaign 1813 1835	reported and published
+T49	Time 1850 1858	Thursday
+T48	Person 1810 1812	he
+T46	Vulnerability 1794 1809	the Safari bugs
+T45	Person 1754 1761	Fratric
+T50	Vulnerability 1860 1868	The bugs
+T30	Person 671 678	Fratric
+T20	Organization 488 493	Apple
+T9	Organization 83 88	Apple
+T2	Vulnerability 141 154	serious flaws
+T3	System 158 161	iOS
+T11	Vulnerability 281 295	critical flaws
+T12	System 299 305	iOS 12
+T13	System 307 314	tvOS 12
+T14	System 319 328	Safari 12
+T15	Time 332 344	September 17
+T39	Campaign 922 944	is probably concealing
+T40	Organization 916 921	Apple
+T41	Course-of-Action 945 952	the fix
+T42	System 956 959	iOS
+T4	Organization 195 197	it
+T6	Vulnerability 204 217	the same bugs
+T7	System 221 226	macOS
+T8	Time 227 239	a week later
+T26	Time 532 544	a week later
+T22	Organization 552 557	Apple
+T24	Vulnerability 566 579	the same bugs
+T25	System 583 588	macOS
+T28	Course-of-Action 602 609	updated
+T27	Organization 590 601	the company
+T29	Vulnerability 651 665	the nine flaws
+T36	Vulnerability 740 752	a Safari bug
+T37	Attack-Pattern 758 790	allowed arbitrary code execution
+T38	System 794 799	macOS
+T58	Version 802 823	 a vulnerable version
+T57	Software 827 841	Safari browsed
+T59	Vulnerability 878 886	the bugs
+T43	Campaign 975 980	patch
+T44	System 981 986	macOS
+T52	Vulnerability 2846 2858	Safari flaws
+T53	Person 2834 2836	he
+T55	Time 2824 2833	Last year
+T17	Vulnerability 421 429	the bugs
+T1	Person 2 32	Google Project Zero researcher
+T60	Code 46 62	 a macOS exploit
+T10	Software 706 721	affected Safari
+T16	Hacker-Group 3091 3100	attackers
+T19	Vulnerability 3050 3054	bugs
+T21	Person 3171 3186	 the researcher
+T23	Person 2556 2563	Fratric
+T31	Organization 2591 2596	Apple
+T32	Software 2601 2618	its Safari WebKit
+T33	Time 2728 2737	last year
+T54	Software 2772 2778	Safari
+T61	Vulnerability 2764 2768	bugs
+T62	Software 2787 2793	Chrome
+T63	Software 2795 2812	Internet Explorer
+T64	Software 2818 2822	Edge
+T65	System 2436 2462	Mac OS 10.13.6 High Sierra
+T67	Version 2478 2483	17G65
+T68	Person 2385 2392	Fratric
+T69	Person 1644 1649	Users
+T70	Organization 1671 1676	Apple
+T71	Information 1690 1701	information
+T72	System 1717 1731	 their systems
+T74	Person 2145 2147	he
+T75	Code 2209 2216	exploit
+T76	Person 2250 2275	 a skilled exploit writer
+T77	Campaign 2286 2296	 an attack
+T78	Malware 2307 2314	malware
+T79	Code 2375 2382	exploit
+T80	Hacker-Group 1991 2009	advanced attackers
+T81	Software 1945 1951	Domato
+T51	Person 1179 1188	customers
+T82	Information 1202 1232	 the Apple security advisories
+T83	Vulnerability 1377 1392	vulnerabilities
+T84	Vulnerability 1409 1424	vulnerabilities
+T85	Hacker-Group 1464 1483	 a skilled attacker
+T86	System 1509 1512	iOS
+T87	Course-of-Action 1493 1504	 the update
+T90	System 1598 1606	 a macOS
+T91	Course-of-Action 1634 1642	 a patch
+T92	Course-of-Action 1052 1067	security update
+T93	Organization 1110 1115	Apple
+T94	Organization 1118 1140	 the security advisory
+T95	Vulnerability 92 128	exposing its users to security risks
+T96	Course-of-Action 132 154	patching serious flaws
+T97	Course-of-Action 262 295	Apple's update for critical flaws
+T5	Course-of-Action 558 579	patched the same bugs
+T35	Course-of-Action 723 752	The update fixed a Safari bug
+T34	Person 894 901	Fratric
+T98	Person 988 990	he
+T99	Person 1021 1027	people
+T100	Course-of-Action 1342 1392	 the product updates fix far fewer vulnerabilities
+T88	Code 1549 1570	 an exploit for macOS
+T101	Vulnerability 2934 2943	 the bugs
+T102	Information 1277 1281	they
+T103	Software 2080 2082	it
+T104	Pronoun 1810 1812	he
+T106	Person 2944 2946	he
+T107	Code 1588 1590	it
+T111	Person 2398 2400	he
+T112	Information 1256 1260	them
+T113	Person 2155 2157	He
+T114	Person 3068 3070	we
+T117	Person 1076 1080	they
+T118	Information 1320 1324	they
+T122	Person 1924 1926	he
+T124	Software 2021 2023	it
+T18	Person 435 458	Project Zero researcher
+T56	Person 459 471	Ivan Fratric
+T89	Software 1911 1923	fuzzing tool
+T73	Vulnerability 2074 2078	bugs
+T66	Number 2843 2845	17
+T105	Software 2864 2881	 the fuzzing tool
+T108	Software 2980 2984	them
+*	Coreference T43 T91
+*	Coreference T55 T33
+*	Coreference T7 T44 T25 T38 T90
+*	Coreference T22 T93 T40 T9 T31 T20 T70 T4 T27
+*	Coreference T56 T18 T98
+*	Coreference T42 T3 T86
+*	Coreference T17 T11 T6 T2 T24 T59
+*	Coreference T99 T117
+*	Coreference T82 T112 T102 T118
+*	Coreference T88 T107
+*	Coreference T46 T50
+*	Coreference T89 T124 T81 T103 T105
+*	Coreference T122 T45
+*	Coreference T113 T74 T68 T111 T23 T53 T106
+*	Coreference T114 T21
+*	Coreference T19 T101 T52

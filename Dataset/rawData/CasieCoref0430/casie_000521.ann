@@ -1,0 +1,56 @@
+T5	Person 551 559	a victim
+T3	Hacker-Group 676 689	the attackers
+T4	Person 699 710	the victims
+T16	Attack-Pattern 639 671	the victim's files are encrypted
+T6	Campaign 619 637	phishing campaigns
+T5	Person 551 559	a victim
+T11	Person 1033 1040	victims
+T7	Person 918 925	victims
+T12	Hacker-Group 70 84	cybercriminals
+T15	Malware 121 131	ransomware
+T18	Person 227 258	independent security researcher
+T1	Person 847 858	researchers
+T19	File 797 817	 the encrypted files
+T20	File 758 770	 a HTML file
+T21	Malware 733 738	Satan
+T22	Malware 583 588	Satan
+T23	File 946 965	 their stolen files
+T24	Purpose 1044 1067	install the Tor browser
+T25	Purpose 1077 1133	redirected to an .onion link to make the ransom payments
+T26	Hacker-Group 1193 1212	 the cybercriminals
+T28	System 1667 1674	systems
+T30	Malware 1572 1577	Satan
+T31	Hacker-Group 1589 1596	hackers
+T29	Attack-Pattern 1610 1632	set up gateway proxies
+T32	Attack-Pattern 1645 1674	test their malware on systems
+T33	Hacker-Group 1703 1710	hackers
+T34	Software 1675 1688	 The platform
+T35	Malware 1741 1755	 their malware
+T36	Software 1491 1504	 The platform
+T37	Hacker-Group 1514 1521	hackers
+T13	Software 6 29	ransomware-as-a-service
+T38	Software 31 35	RaaS
+T39	Domain 220 225	ZDNet
+T40	Malware 374 379	Satan
+T41	System 420 436	 a RaaS platform
+T42	Hacker-Group 463 477	cybercriminals
+T43	Malware 342 372	Trojan.Heur2.FU malware family
+T44	Malware 304 322	 the Satan malware
+T2	Malware 1361 1371	Satan RaaS
+T8	Malware 1454 1464	ransomware
+T9	Information 1411 1430	fee payment records
+T17	Money 1289 1306	 a Bitcoin wallet
+T45	Software 1218 1236	 the RaaS platform
+T46	Domain 87 100	 the dark web
+T47	Money 172 193	subscription payments
+T48	Organization 267 279	 the Twitter
+T49	Person 287 294	Xylitol
+T50	Money 515 544	30% of the revenues generated
+T51	Malware 488 498	ransomware
+T52	URL 600 615	malicious links
+T53	Information 1309 1323	 their account
+T14	File 1003 1022	Satan's ransom note
+*	Coreference T34 T41
+*	Coreference T13 T38
+*	Coreference T2 T21 T22 T40 T30 T44
+*	Coreference T36 T45

@@ -1,0 +1,152 @@
+T25	Hacker-Group 3268 3284	ransomware gangs
+T23	Person 3342 3349	victims
+T27	Hacker-Group 3607 3616	attackers
+T28	Person 3520 3527	victims
+T20	File 84 97	popular files
+T21	Version 116 136	 those fake versions
+T5	Money 904 917	0.25 bitcoins
+T6	Money 942 946	$300
+T7	Malware 893 895	it
+T1	Malware 429 440	Filecoder.E
+T17	Time 356 365	last week
+T24	Malware 416 426	ransomware
+T8	Course-of-Action 1757 1774	never pay ransoms
+T15	Campaign 844 855	 the attack
+T9	Course-of-Action 1991 2029	never have to consider paying a ransom
+T12	Person 2047 2054	victims
+T19	Attack-Pattern 4 28	tried-and-true technique
+T29	Attack-Pattern 45 97	hiding malware inside fake versions of popular files
+T30	Malware 52 59	malware
+T31	Version 67 80	fake versions
+T18	Software 141 151	app stores
+T32	Attack-Pattern 104 151	distributing those fake versions via app stores
+T33	System 172 204	peer-to-peer BitTorrent networks
+T34	Version 264 277	free versions
+T35	Software 281 302	paid-for applications
+T36	Person 304 309	users
+T37	Person 366 377	researchers
+T38	Organization 380 403	 the security firm ESET
+T39	Attack-Pattern 443 469	circulating via BitTorrent
+T40	System 459 469	BitTorrent
+T2	Attack-Pattern 471 495	disguised as a "patcher"
+T16	Attack-Pattern 501 606	purports to allow Mac users to crack such applications as Adobe Premiere Pro CC and Microsoft Office 2016
+T41	Person 519 528	Mac users
+T42	Software 543 555	applications
+T43	Software 559 580	Adobe Premiere Pro CC
+T44	Software 585 606	Microsoft Office 2016
+T45	Person 611 658	Toronto-based security researcher Cheryl Biswas
+T46	Organization 717 721	ESET
+T14	Malware 726 741	 the ransomware
+T47	Attack-Pattern 751 812	encrypt any Time Machine backups on network-connected volumes
+T48	File 763 783	Time Machine backups
+T49	Device 787 812	network-connected volumes
+T50	Time 832 841	 the time
+T51	Malware 859 874	 the ransomware
+T3	System 882 891	 a system
+T4	Purpose 896 917	demands 0.25 bitcoins
+T52	Person 975 1024	ESET security researcher Marc-Etienne M.L Éveillé
+T53	Software 1046 1062	 the application
+T54	Person 1106 1115	 a victim
+T55	Code 952 969	 a decryption key
+T56	Code 1133 1150	 a decryption key
+T57	Organization 1160 1164	ESET
+T58	Malware 1211 1226	 the ransomware
+T59	Malware 1283 1299	 this ransomware
+T60	Attack-Pattern 1304 1361	doesn't have any code to communicate with any C&C; server
+T61	Device 1350 1361	C&C; server
+T62	Person 1369 1376	Éveillé
+T63	Device 1390 1419	 a command-and-control server
+T64	Attack-Pattern 1449 1487	remotely control the infected endpoint
+T65	Device 1465 1487	 the infected endpoint
+T66	Code 1521 1529	 the key
+T67	File 1554 1564	 the files
+T68	Hacker-Group 1579 1601	 the malware operators
+T69	Hacker-Group 1644 1648	them
+T70	File 1676 1693	 a victim's files
+T71	Hacker-Group 1804 1821	cybercrime groups
+T72	Course-of-Action 1881 1931	Keep complete, disconnected backups of all systems
+T73	System 1924 1931	systems
+T74	Course-of-Action 1937 1980	periodically test that they can be restored
+T75	System 1960 1964	they
+T10	Malware 2088 2098	ransomware
+T11	Person 2101 2108	Éveillé
+T76	Malware 2145 2155	ransomware
+T77	Malware 2165 2177	Trump Locker
+T78	Attack-Pattern 2180 2217	not to be confused with Trumpcryption
+T79	Version 2235 2264	 a lightly repackaged version
+T80	Malware 2268 2290	VenusLocker ransomware
+T81	Domain 2305 2368	Lawrence Abrams of the security analysis site Bleeping Computer
+T82	Person 2380 2396	 the researchers
+T83	Organization 2406 2424	MalwareHunter Team
+T13	Malware 2471 2483	 the malware
+T84	Purpose 2486 2499	ransom demand
+T85	Malware 2518 2529	VenusLocker
+T86	Time 2548 2560	October 2016
+T87	Time 2579 2595	two months later
+T88	Malware 2562 2564	it
+T89	Person 2596 2612	 The researchers
+T90	Hacker-Group 2626 2636	 the group
+T91	Malware 2650 2662	Trump Locker
+T92	Hacker-Group 2675 2680	group
+T93	Malware 2698 2709	VenusLocker
+T94	Hacker-Group 2725 2743	group of attackers
+T95	Code 2762 2771	 the code
+T96	Malware 2804 2830	 the two pieces of malware
+T97	Malware 2910 2922	Trump Locker
+T98	Malware 2927 2938	VenusLocker
+T99	Attack-Pattern 2944 2976	encrypt some files types in full
+T100	File 2957 2962	files
+T102	Attack-Pattern 2989 3088	encrypting the first 1024 bytes of other file types, including PDF, XLS, DOCX, and MP3 file formats
+T101	File 3030 3040	file types
+T103	File 3052 3055	PDF
+T104	File 3057 3060	XLS
+T105	File 3062 3066	DOCX
+T106	File 3072 3075	MP3
+T107	Attack-Pattern 3117 3162	".TheTrumpLockerf" appended to their filename
+T108	File 3090 3111	Fully encrypted files
+T109	File 3170 3195	partially encrypted files
+T110	Attack-Pattern 3199 3236	 a ".TheTrumpLockerp" extension added
+T111	Person 3237 3253	 the researchers
+T112	Malware 3293 3317	customer service portals
+T22	Person 3389 3403	Mikko Hypponen
+T113	Person 3405 3461	chief research officer of Finnish security firm F-Secure
+T114	System 3542 3556	 their Windows
+T115	Software 3485 3497	this support
+T116	Attack-Pattern 3575 3616	find a way to remit bitcoins to attackers
+T117	System 3561 3571	 their ASP
+T26	Money 3595 3603	bitcoins
+T118	Malware 3645 3662	crypto-ransomware
+T119	Malware 3670 3675	Spora
+T120	Malware 3692 3718	customer-support operation
+T121	Person 3733 3757	F-Secure's Sean Sullivan
+T123	Organization 2032 2034	We
+T126	Person 328 332	they
+T128	Person 2442 2445	you
+T129	Person 2777 2781	they
+T130	Malware 1301 1303	It
+T122	Course-of-Action 2055 2075	never pay the ransom
+*	Coreference T27 T94 T25
+*	Coreference T5 T26
+*	Coreference T54 T12 T28 T23
+*	Coreference T34 T31 T21
+*	Coreference T35 T53 T42
+*	Coreference T46 T57
+*	Coreference T55 T56 T66
+*	Coreference T62 T11 T52
+*	Coreference T111 T89 T129
+*	Coreference T90 T92
+*	Coreference T69 T68 T71
+*	Coreference T19 T29
+*	Coreference T36 T126
+*	Coreference T67 T70
+*	Coreference T65 T3
+*	Coreference T75 T73
+*	Coreference T9 T8 T122
+*	Coreference T76 T77 T91 T97
+*	Coreference T13 T80 T130 T7 T51 T85 T14 T58 T24 T59 T1 T10 T88
+*	Coreference T108 T100
+*	Coreference T109 T101
+*	Coreference T22 T113
+*	Coreference T119 T118
+*	Coreference T120 T112
+*	Coreference T98 T93

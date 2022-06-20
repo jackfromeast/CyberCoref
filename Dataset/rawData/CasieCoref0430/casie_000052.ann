@@ -1,0 +1,98 @@
+T1	Organization 4 21	Bitcoin Core team
+T3	Course-of-Action 40 48	 a patch
+T4	Vulnerability 52 73	 a DDoS vulnerability
+T5	System 99 119	 the Bitcoin network
+T7	Course-of-Action 196 229	replace them with the new version
+T6	Version 244 250	0.16.3
+T8	Course-of-Action 120 130	 The patch
+T30	Software 231 243	Bitcoin Core
+T31	Version 161 182	 their older versions
+T32	Version 213 229	 the new version
+T21	Course-of-Action 1397 1428	go ahead with the latest update
+T19	Person 1356 1366	developers
+T12	Campaign 370 406	Distributed Denial-of-Service attack
+T11	Version 313 346	 the recent Bitcoin Core versions
+T14	Vulnerability 896 926	 The recent DDoS vulnerability
+T15	Vulnerability 938 952	CVE-2018-17144
+T16	Attack-Pattern 984 1025	flooding full node operators with traffic
+T18	Software 1301 1313	Bitcoin Core
+T27	Software 1690 1712	cryptocurrency clients
+T28	Software 1732 1744	Bitcoin Cash
+T29	Software 1749 1757	Ethereum
+T25	Vulnerability 1659 1664	Flaws
+T22	Course-of-Action 1448 1458	 the patch
+T24	Vulnerability 1476 1486	minor bugs
+T33	Time 22 31	yesterday
+T2	Person 142 148	miners
+T34	Course-of-Action 152 191	shut down their older versions urgently
+T35	Domain 288 294	Hacked
+T9	Campaign 407 417	 An attack
+T10	System 450 478	multiple compromised systems
+T36	Attack-Pattern 482 503	flood a single system
+T37	System 497 503	system
+T38	System 508 515	network
+T39	Hacker-Group 599 616	DDoS perpetrators
+T40	System 629 647	 a Bitcoin network
+T41	Attack-Pattern 658 704	flooding the block with duplicate transactions
+T42	Purpose 711 763	jamming the transaction confirmation of other people
+T43	Attack-Pattern 771 823	flooding the nodes on Bitcoin’s peer-to-peer network
+T44	System 793 823	Bitcoin’s peer-to-peer network
+T45	Attack-Pattern 830 895	over-utilizing the bandwidth through malicious transaction relays
+T13	Attack-Pattern 1055 1077	 the potential exploit
+T46	Person 1105 1181	anyone who was capable of mining a sufficient number of proof of work blocks
+T47	Software 1191 1204	Bitcoin Cores
+T48	Version 1213 1247	software versions 0.14.0 to 0.16.2
+T49	Person 1268 1279	 the miners
+T17	Campaign 1336 1347	 the attack
+T20	Person 1382 1393	 the miners
+T23	Protocol 1509 1512	RPC
+T50	Vulnerability 1514 1533	invalid flag errors
+T51	Software 1580 1587	Bitcoin
+T52	Money 1604 1618	cryptocurrency
+T53	Hacker-Group 1629 1648	 the DDoS attackers
+T26	Campaign 1772 1778	attack
+T54	System 1781 1802	 the Ethereum network
+T55	Time 1810 1827	more than a month
+T56	Attack-Pattern 1832 1864	created million of dead accounts
+T57	Number 1840 1850	million of
+T58	Person 1879 1889	developers
+T59	Campaign 1986 1997	DDoS attack
+T60	System 2014 2035	 the Ethereum network
+T61	Person 2037 2043	miners
+T62	Hacker-Group 2077 2091	 the attackers
+T63	Money 2060 2068	gas fees
+T64	Campaign 2125 2129	DDoS
+T65	Hacker-Group 2260 2269	Criminals
+T66	Campaign 2286 2330	Distributed-Denial-of-Service (DDoS) attacks
+T67	Organization 2349 2365	private business
+T68	Organization 2369 2387	 the public sector
+T69	Campaign 2394 2401	attacks
+T70	Purpose 2424 2439	financial gains
+T71	Purpose 2443 2497	 the ideological, political or purely malicious reason
+T72	Campaign 2512 2518	attack
+T73	Malware 2572 2579	malware
+T74	Time 2583 2587	2017
+T75	System 2662 2684	decentralized networks
+T76	Software 2690 2697	Bitcoin
+T77	Campaign 2733 2740	attacks
+T78	Person 2823 2834	 the people
+T79	Hacker-Group 2845 2859	 the attackers
+T80	Software 2896 2903	Bitcoin
+T81	Campaign 2904 2925	 a coordinated attack
+T82	Hacker-Group 2941 2945	them
+T83	Version 204 208	them
+T84	Software 2799 2803	them
+T88	Campaign 2590 2592	it
+T89	Domain 1027 1033	Hacked
+*	Coreference T4 T14 T15
+*	Coreference T22 T3 T8
+*	Coreference T19 T58
+*	Coreference T61 T49 T20 T2
+*	Coreference T83 T31 T11
+*	Coreference T89 T35
+*	Coreference T40 T44
+*	Coreference T47 T30 T18
+*	Coreference T64 T59 T66 T12 T9 T69 T72 T88 T77
+*	Coreference T54 T60
+*	Coreference T76 T51 T84 T80
+*	Coreference T82 T79

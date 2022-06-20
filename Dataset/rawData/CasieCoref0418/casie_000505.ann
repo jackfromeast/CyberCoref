@@ -1,0 +1,73 @@
+T2	Device 8 18	the device
+T3	Attack-Pattern 37 62	denial of service attacks
+T9	Vulnerability 146 154	The flaw
+T11	Device 237 250	the appliance
+T14	Person 265 290	a Cisco Security Advisory
+T13	Time 298 307	Wednesday
+T16	Organization 309 314	Cisco
+T17	Vulnerability 321 338	the vulnerability
+T18	Attack-Pattern 392 416	cause the device to hang
+T19	Attack-Pattern 451 474	denial of service (DoS)
+T62	Attack-Pattern 420 439	unexpectedly reload
+T21	Vulnerability 487 494	The bug
+T26	Vulnerability 496 509	CVE-2017-3826
+T20	Vulnerability 611 613	It
+T23	Device 622 657	Cisco NetFlow Generation Appliances
+T60	Version 658 666	NGA 3140
+T24	Version 668 676	NGA 3240
+T25	Version 681 689	NGA 3340
+T6	Course-of-Action 100 107	a patch
+T5	Time 81 90	Wednesday
+T4	System 64 77	Cisco Systems
+T7	Device 112 144	its NetFlow Generation Appliance
+T28	Vulnerability 1258 1275	the vulnerability
+T30	Organization 1277 1282	Cisco
+T32	Vulnerability 1329 1336	the bug
+T33	Version 1390 1398	1.1 (1a)
+T59	Software 1338 1381	Cisco NetFlow Generation Appliance Software
+T36	Campaign 1431 1445	does not apply
+T38	Organization 1400 1411	The company
+T37	Device 1449 1457	NGA 3140
+T61	Time 1494 1510	January 11, 2014
+T43	Time 1512 1522	Last month
+T42	Organization 1524 1529	Cisco
+T41	Device 1580 1609	its Cisco Prime Home hardware
+T47	Vulnerability 1637 1643	a flaw
+T49	System 1671 1690	WebEx Chrome Plugin
+T45	Organization 1623 1628	Cisco
+T44	Time 1614 1621	January
+T50	Attack-Pattern 1769 1811	exposed computers to remote code execution
+T51	Course-of-Action 1836 1843	a patch
+T54	Time 1844 1850	Monday
+T52	Organization 1813 1826	Cisco Systems
+T57	Device 1967 1994	Adaptive Security Appliance
+T56	Vulnerability 1858 1891	a critical security vulnerability
+T1	Hacker-Group 373 388	remote attacker
+T12	Course-of-Action 1254 1275	fix the vulnerability
+T15	Device 691 720	NetFlow Generation Appliances
+T22	Hacker-Group 834 842	attacker
+T27	Attack-Pattern 910 953	sending malformed SCTP packets on a network
+T29	Attack-Pattern 880 906	exploit this vulnerability
+T34	Vulnerability 893 906	vulnerability
+T39	Device 1041 1044	NGA
+T46	Code 1092 1099	exploit
+T48	Hacker-Group 1116 1124	attacker
+T53	Organization 1208 1213	Cisco
+T55	Organization 598 603	Cisco
+T63	Information 582 590	NGA data
+T64	Packet 546 558	SCTP packets
+T65	Packet 993 1005	SCTP packets
+T66	Course-of-Action 1382 1398	release 1.1 (1a)
+T31	Course-of-Action 1311 1336	update that fixes the bug
+T8	Vulnerability 1541 1576	authentication bypass vulnerability
+T35	Course-of-Action 1423 1430	the fix
+*	Coreference T3 T19
+*	Coreference T13 T5
+*	Coreference T4 T52
+*	Coreference T7 T23 T59 T15 T11 T39
+*	Coreference T16 T45 T55 T53 T30 T42 T38
+T10	Protocol 185 221	Stream Control Transmission Protocol
+T40	Protocol 223 227	SCTP
+*	Coreference T10 T40
+T58	Vulnerability 1074 1087	vulnerability
+*	Coreference T28 T32 T34 T17 T9 T21 T26 T20 T58

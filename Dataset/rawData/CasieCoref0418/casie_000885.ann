@@ -1,0 +1,81 @@
+T1	Campaign 7 19	has released
+T2	Organization 0 6	Oracle
+T3	Course-of-Action 20 50	a wide-ranging security update
+T4	Campaign 54 61	address
+T5	Vulnerability 76 102	CVE-listed vulnerabilities
+T6	Software 106 137	its various enterprise products
+T8	Campaign 307 316	addresses
+T9	Vulnerability 328 339	three flaws
+T7	Course-of-Action 296 306	the update
+T10	System 286 294	Database
+T22	Campaign 1070 1078	will get
+T23	Course-of-Action 1079 1096	12 security fixes
+T21	System 1062 1069	Java SE
+T33	Vulnerability 1134 1161	exploitable vulnerabilities
+T28	Campaign 2034 2037	get
+T29	Course-of-Action 2038 2056	the Oracle patches
+T27	Person 2027 2033	admins
+T30	Vulnerability 2123 2137	CVE-2018-10933
+T15	Campaign 623 628	noted
+T16	Organization 616 622	Oracle
+T17	Vulnerability 638 648	three bugs
+T18	Campaign 654 660	impact
+T19	Version 665 680	server versions
+T31	System 684 692	Database
+T32	Campaign 418 427	exploited
+T11	Vulnerability 341 367	Two of the vulnerabilities
+T13	Vulnerability 369 382	CVE-2018-3259
+T14	Vulnerability 387 400	CVE-2018-3299
+T12	Vulnerability 469 482	CVE-2018-7489
+T20	Campaign 729 742	be vulnerable
+T24	Campaign 1187 1192	notes
+T25	Organization 1180 1186	Oracle
+T26	Vulnerability 1225 1234	the flaws
+T34	Number 62 75	more than 300
+T35	Vulnerability 805 821	CVE-listed flaws
+T36	Vulnerability 1824 1828	CVSS
+T37	Vulnerability 1806 1811	flaws
+T38	Number 1803 1805	24
+T39	Vulnerability 1572 1586	CVE-2018-11776
+T40	Vulnerability 1591 1604	CVE-2018-8014
+T41	Vulnerability 1614 1631	remote code flaws
+T42	Device 1635 1659	MySQL Enterprise Monitor
+T43	Software 2496 2503	OpenSSH
+T44	Vulnerability 2476 2479	bug
+T45	Information 2383 2391	password
+T46	Information 2395 2411	other credential
+T47	Device 2218 2232	target machine
+T49	Vulnerability 2287 2289	it
+T50	Person 2067 2071	they
+*	Coreference T10 T31
+*	Coreference T16 T25 T2 T51 T52 T61
+T51	Organization 179 185	Oracle
+T52	Organization 209 212	its
+T53	Vulnerability 609 614	three
+T54	Vulnerability 833 835	12
+*	Coreference T5 T35 T26 T56 T57
+T55	Vulnerability 1009 1011	12
+*	Coreference T54 T55
+*	Coreference T33 T23
+T56	Vulnerability 1463 1477	CVE-listed bug
+T57	Vulnerability 1518 1523	those
+T58	Vulnerability 1554 1557	two
+*	Coreference T58 T39 T40 T41
+T59	Vulnerability 1681 1687	24 bug
+T60	Vulnerability 1701 1706	which
+*	Coreference T59 T60 T9 T37 T11 T13
+T61	Organization 1864 1870	Oracle
+*	Coreference T27 T50
+*	Coreference T30 T49 T44
+T62	Code 2247 2272	SSH2_MSG_USERAUTH_SUCCESS
+T63	Code 2274 2281	message
+*	Coreference T62 T63
+T64	Code 2301 2326	SSH2_MSG_USERAUTH_REQUEST
+T65	Code 2328 2335	message
+*	Coreference T64 T65
+T66	Hacker-Group 2352 2361	miscreant
+T67	Hacker-Group 2195 2203	attacker
+*	Coreference T67 T66
+T48	Campaign 2448 2457	bad thing
+T68	Campaign 2366 2411	log in without a password or other credential
+*	Coreference T68 T48

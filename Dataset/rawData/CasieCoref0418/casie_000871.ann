@@ -1,0 +1,110 @@
+T22	Campaign 1734 1748	gaining access
+T25	Hacker-Group 1714 1733	unauthorized actors
+T23	Information 1765 1785	personal information
+T24	Domain 1794 1815	the W-2 online portal
+T48	Person 1752 1763	individuals
+T27	Campaign 1851 1863	was accessed
+T28	Domain 1840 1850	the portal
+T29	Hacker-Group 1871 1878	hackers
+T30	Person 1886 1893	someone
+T31	Attack-Pattern 1894 1920	using stolen login details
+T26	Campaign 1687 1703	recent incidents
+T53	Organization 1588 1595	Equifax
+T52	Organization 1567 1583	Northrop Grumman
+T38	Campaign 1952 1971	unauthorized access
+T39	Domain 1975 1992	our online portal
+T32	Campaign 2044 2052	accessed
+T35	Attack-Pattern 2019 2043	using stolen credentials
+T33	Information 2053 2068	W-2 information
+T34	Person 2092 2103	individuals
+T37	Person 2011 2018	persons
+T36	Person 1999 2007	a person
+T42	Campaign 2240 2256	were compromised
+T41	Organization 2190 2197	Equifax
+T40	System 2228 2239	its systems
+T43	Campaign 2310 2321	gain access
+T44	Domain 2325 2342	the online portal
+T1	Campaign 75 83	exposing
+T4	Organization 0 16	Northrop Grumman
+T2	Information 95 116	sensitive tax records
+T3	Hacker-Group 120 130	miscreants
+T45	Person 84 93	employees
+T7	Campaign 334 340	access
+T8	Information 351 364	W-2 paperwork
+T6	Attack-Pattern 292 315	infiltrated the website
+T5	Hacker-Group 285 291	crooks
+T46	Person 341 349	staffers
+T47	Time 373 377	2016
+T49	Purpose 439 456	claim tax rebates
+T51	Organization 207 231	the aerospace contractor
+T9	Campaign 646 664	have been accessed
+T10	Information 612 636	The personal information
+T21	Information 895 924	customized security questions
+T20	Information 884 891	answers
+T19	Information 857 879	personal email address
+T18	Information 834 855	personal phone number
+T17	Information 793 817	wage and tax information
+T16	Information 757 787	employer identification number
+T15	Information 733 755	Social Security number
+T14	Information 714 731	work phone number
+T13	Information 694 712	work email address
+T12	Information 685 692	address
+T11	Information 674 683	your name
+T54	Person 505 512	victims
+T55	Person 930 933	you
+T56	Organization 1478 1480	we
+T57	Organization 1296 1298	it
+T58	Organization 1656 1660	them
+T59	Organization 1923 1925	We
+T60	Organization 1043 1045	it
+T61	Hacker-Group 326 330	them
+T62	System 2265 2267	it
+*	Coreference T31 T35
+*	Coreference T22 T43 T7 T9 T27 T32
+*	Coreference T23 T33 T92
+T63	Domain 41 57	internal portals
+T64	File 137 149	letter [PDF]
+T65	Organization 169 205	California Attorney General's office
+*	Coreference T3 T5 T61 T68 T70 T25 T29
+T66	Domain 308 315	website
+*	Coreference T63 T66 T73 T79 T44 T28 T24 T39
+*	Coreference T2 T8 T67
+T67	Information 394 403	W-2 forms
+T68	Hacker-Group 428 435	thieves
+T69	Person 465 474	employees
+T70	Hacker-Group 489 494	crims
+T71	Organization 525 529	corp
+*	Coreference T71 T65
+T72	File 551 558	letters
+*	Coreference T64 T72
+T73	Domain 958 975	W-2 online portal
+T74	Person 1002 1011	employees
+*	Coreference T55 T74 T45 T46 T69 T54 T77 T48 T34
+T75	Organization 982 992	contractor
+T76	Organization 1017 1037	Stealth Bomber maker
+T77	Person 1070 1085	exposed workers
+T78	Organization 1147 1163	Northrop Grumman
+T79	Domain 1192 1206	the W-2 portal
+T80	Organization 1275 1290	aerospace giant
+T81	Organization 1328 1355	Equifax Workforce Solutions
+T82	Organization 1384 1397	defense giant
+T83	Campaign 1426 1435	intrusion
+T84	Organization 1541 1549	Northrop
+*	Coreference T56 T84 T80 T76 T60 T57 T52 T4 T51 T75 T78
+*	Coreference T82 T81 T53 T41 T86 T59 T90
+T85	Organization 1618 1645	law enforcement authorities
+*	Coreference T85 T58
+T86	Organization 1831 1838	Equifax
+T87	Information 2025 2043	stolen credentials
+T88	Information 1900 1920	stolen login details
+*	Coreference T88 T87
+T89	Person 2109 2129	Equifax spokesperson
+T90	Organization 1493 1500	Equifax
+T91	Campaign 1468 1476	incident
+*	Coreference T83 T91 T26
+*	Coreference T62 T40
+T92	Information 2290 2301	information
+T93	Campaign 1670 1683	investigation
+T94	Campaign 2167 2180	investigation
+*	Coreference T93 T94
+T50	Time 242 283	between April 18, 2016 and March 29, 2017

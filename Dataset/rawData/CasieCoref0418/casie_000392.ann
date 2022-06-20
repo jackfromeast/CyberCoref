@@ -1,0 +1,37 @@
+T13	Person 217 230	Mohamed Baset
+T14	Time 208 215	Tuesday
+T12	Vulnerability 357 361	flaw
+T11	Person 337 339	he
+T9	Attack-Pattern 367 416	allows an attacker to access audio or video files
+T19	Device 422 438	Facebook servers
+T20	Attack-Pattern 443 457	play them back
+T15	Campaign 23 29	claims
+T7	Person 35 45	researcher
+T1	Information 55 73	multimedia content
+T8	Information 82 102	audio-based messages
+T3	Attack-Pattern 147 178	be intercepted by a third-party
+T6	Organization 0 8	Facebook
+T18	Organization 459 467	Facebook
+T4	Person 234 250	security analyst
+T5	Organization 254 281	ecommerce firm Linio México
+T10	Organization 348 356	Facebook
+T17	Domain 506 516	Threatpost
+T23	Vulnerability 571 575	flaw
+T24	Software 637 646	Messenger
+T25	Person 649 654	Baset
+T26	Campaign 673 687	alleged threat
+T27	Campaign 717 738	narrow attack surface
+T28	Campaign 764 788	dangerous for most users
+T29	Person 783 788	users
+T30	Hacker-Group 377 385	attacker
+T32	Person 688 690	he
+T33	Software 116 142	Facebook Messenger service
+T2	Person 519 521	We
+T35	File 448 452	them
+*	Coreference T12 T23
+*	Coreference T10 T18 T6
+T31	File 411 416	files
+*	Coreference T31 T35
+T16	Campaign 482 496	Baset’s claims
+T21	File 533 551	researcher reports
+*	Coreference T25 T32 T11 T4 T13

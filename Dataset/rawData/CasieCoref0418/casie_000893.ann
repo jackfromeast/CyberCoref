@@ -1,0 +1,104 @@
+T7	Campaign 152 163	doesn’t pay
+T6	Organization 146 151	Apple
+T2	Money 214 222	$100,000
+T4	Money 175 182	$75,000
+T8	Organization 43 63	Turkish Crime Family
+T9	Person 0 21	A new band of hackers
+T1	Campaign 203 209	ransom
+T27	Campaign 1049 1067	asking for payment
+T28	Attack-Pattern 1022 1040	the alleged breach
+T10	Campaign 297 318	haven’t been breached
+T12	System 285 296	its systems
+T11	Organization 274 279	Apple
+T13	Campaign 359 385	have not been any breaches
+T14	System 404 411	systems
+T15	System 422 428	iCloud
+T16	Information 433 441	Apple ID
+T34	Organization 396 401	Apple
+T17	Campaign 504 522	have been obtained
+T20	Information 483 492	passwords
+T21	Information 463 478	email addresses
+T33	Information 455 459	list
+T18	Campaign 528 550	previously compromised
+T19	Organization 551 571	third-party services
+T22	Campaign 590 598	obtained
+T26	Information 581 589	accounts
+T23	Campaign 604 626	previously compromised
+T24	Organization 627 647	third party services
+T30	Campaign 1835 1846	have access
+T32	Person 1814 1827	these hackers
+T31	Information 1850 1858	the data
+T3	Information 1919 1923	data
+T5	Hacker-Group 763 783	Turkish Crime Family
+T25	Hacker-Group 2393 2413	Turkish Crime Family
+T29	Campaign 2229 2235	attack
+T35	Number 2132 2143	200 million
+T36	Information 2144 2152	accounts
+T37	Person 2793 2798	users
+T38	Information 2863 2867	data
+T39	Information 118 133	iCloud accounts
+T40	Number 113 117	200m
+T41	Device 1975 1989	Apple hardware
+T42	Money 1412 1419	$75,000
+T43	Hacker-Group 1151 1154	you
+T44	Device 2066 2068	it
+T45	Campaign 2178 2180	it
+T46	Hacker-Group 1859 1863	they
+T47	Hacker-Group 1879 1883	they
+T48	Hacker-Group 1572 1574	it
+T49	Hacker-Group 78 80	it
+T51	Hacker-Group 245 247	it
+*	Coreference T4 T42 T2 T60 T63
+*	Coreference T12 T14
+*	Coreference T18 T23
+*	Coreference T19 T24
+*	Coreference T39 T53 T33
+*	Coreference T31 T3 T38
+T52	Hacker-Group 31 37	itself
+T53	Information 262 265	lot
+T54	Organization 324 331	company
+T55	Number 576 580	200m
+*	Coreference T40 T55
+T56	Organization 701 706	Apple
+T57	Organization 707 713	itself
+*	Coreference T56 T57 T34 T11 T6 T54 T75
+T58	Hacker-Group 784 790	itself
+T59	Organization 961 973	organisation
+T60	Money 1091 1106	iTunes vouchers
+T61	Hacker-Group 1212 1217	group
+T62	Hacker-Group 1218 1224	itself
+*	Coreference T61 T62 T9 T52 T8 T49 T51 T5 T58 T59 T43 T66 T67 T68 T48 T32 T46 T47 T77 T25
+T63	Money 1238 1244	amount
+T64	Person 1326 1329	one
+T65	Person 1277 1304	a media relations operative
+*	Coreference T65 T64
+T66	Hacker-Group 1463 1466	our
+T67	Hacker-Group 1504 1513	our group
+T68	Hacker-Group 1543 1555	organisation
+T69	Domain 1607 1623	Motherboard site
+T70	Person 1625 1640	David Kennerley
+T71	Person 1642 1680	director of threat research at Webroot
+*	Coreference T70 T71
+T72	Campaign 1723 1729	threat
+T73	Person 1950 1956	people
+T74	Person 1969 1974	their
+*	Coreference T73 T74
+T75	Organization 2040 2045	Apple
+T76	Device 2058 2061	kit
+*	Coreference T76 T44
+T78	Organization 2200 2205	Apple
+*	Coreference T45 T29
+T77	Hacker-Group 2243 2247	they
+T79	Information 2334 2342	accounts
+*	Coreference T36 T79 T80
+T80	Information 2379 2387	accounts
+T81	Organization 2512 2517	Apple
+*	Coreference T78 T81
+T82	Organization 2621 2626	Apple
+T83	Person 2627 2631	user
+T84	Person 2650 2655	their
+*	Coreference T83 T84 T37 T50
+T85	Device 2692 2698	device
+T86	Device 2663 2669	device
+*	Coreference T86 T85
+T50	Person 2857 2862	their

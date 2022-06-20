@@ -1,0 +1,93 @@
+T1	Campaign 88 99	data breach
+T4	Person 23 30	clients
+T5	Person 48 52	they
+T2	Organization 127 136	companies
+T3	Organization 0 9	JobStreet
+T10	Campaign 439 445	breach
+T11	Information 399 417	JobStreet accounts
+T19	Campaign 667 673	breach
+T18	Organization 624 652	Telecommunications providers
+T20	Organization 682 687	Altel
+T31	Organization 789 792	XoX
+T30	Organization 777 784	Umobile
+T29	Organization 767 775	Tunetalk
+T28	Organization 758 765	Redtone
+T27	Organization 752 756	PLDT
+T26	Organization 733 750	Merchantrade Asia
+T25	Organization 726 731	Maxis
+T24	Organization 717 724	Friendi
+T23	Organization 703 715	EnablingAsia
+T22	Organization 697 701	DiGi
+T21	Organization 689 695	Celcom
+T14	Campaign 524 530	breach
+T17	Organization 594 622	telecommunications companies
+T16	Person 566 581	Malaysian users
+T32	Campaign 1051 1062	were stolen
+T33	Information 1043 1050	records
+T35	Organization 1068 1087	these organisations
+T36	Campaign 1210 1226	has been exposed
+T38	Information 1131 1161	personal candidate information
+T37	Time 1193 1209	before July 2012
+T7	Information 1176 1184	accounts
+T39	Campaign 1718 1729	compromised
+T46	Organization 1604 1613	JobStreet
+T45	Information 1615 1629	dates of birth
+T44	Information 1631 1638	genders
+T43	Information 1640 1660	geographic locations
+T42	Information 1662 1678	marital statuses
+T41	Information 1680 1693	nationalities
+T40	Information 1698 1707	usernames
+T47	Campaign 1840 1850	data leaks
+T6	Number 389 398	3,883,455
+T8	Information 217 237	personal information
+T9	Email 336 341	email
+T12	Domain 361 387	website haveibeenpwned.com
+T13	Information 459 470	information
+T15	Information 1522 1531	passwords
+T34	Information 1511 1520	login IDs
+T48	Information 1533 1538	names
+T49	Information 1540 1546	emails
+T50	Information 1551 1564	phone numbers
+T51	Information 1500 1509	addresses
+T52	Information 1477 1498	identity card numbers
+T53	Information 1447 1467	personal information
+T54	Person 1248 1257	customers
+T55	Person 1369 1395	JobStreet CEO Suresh Thiru
+T56	Information 1324 1340	user information
+T57	Domain 1353 1366	JobStreet.com
+T58	Person 1865 1905	Malaysian Communications Minister Salleh
+T59	Campaign 1972 1976	leak
+T60	Domain 447 449	It
+T61	Person 173 175	we
+T62	Organization 1981 1983	we
+T63	Organization 1920 1922	We
+T64	Person 164 167	you
+T65	Person 2028 2030	he
+T67	Campaign 811 813	It
+*	Coreference T11 T8
+*	Coreference T10 T1 T47 T14 T19 T67 T59
+*	Coreference T18 T17
+*	Coreference T3 T57 T46 T66 T61 T71 T78 T79 T80 T81
+*	Coreference T4 T5 T64
+T66	Person 139 141	We
+T68	Organization 263 292	corporations and associations
+*	Coreference T2 T68
+T69	Number 114 116	19
+T70	Number 260 262	19
+*	Coreference T69 T70
+T71	Organization 325 329	ours
+T72	Email 34 39	email
+*	Coreference T12 T60 T82
+T73	Organization 828 841	organisations
+T74	Organization 854 882	Academy of Medicine Malaysia
+T75	Organization 888 916	Malaysian Dental Association
+T76	Organization 922 951	Malaysian Medical Association
+T77	Organization 961 1001	National Specialist Register of Malaysia
+*	Coreference T73 T74 T75 T76 T77 T35
+T78	Organization 1090 1093	Our
+T79	Organization 1244 1247	our
+T80	Organization 1263 1267	team
+T81	Organization 1294 1297	our
+T82	Organization 1566 1584	Haveibeenpwned.com
+*	Coreference T45 T44 T43 T42 T41 T40 T38 T54 T56 T53 T52 T51 T34 T15 T48 T49 T50
+*	Coreference T58 T63 T62 T65

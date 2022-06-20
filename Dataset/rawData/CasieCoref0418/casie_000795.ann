@@ -1,0 +1,84 @@
+T1	Attack-Pattern 74 82	phishing
+T3	Purpose 113 145	stealing them to a remote server
+T4	Software 19 38	mobile applications
+T8	Campaign 462 475	were phishing
+T11	Software 440 461	these 13 applications
+T12	Campaign 809 813	lure
+T13	Person 814 819	users
+T14	Software 838 846	the apps
+T5	Campaign 243 248	steal
+T6	Information 249 270	Instagram credentials
+T2	Information 1945 1963	Instagram password
+T7	Information 1975 1983	password
+T10	Hacker-Group 2045 2060	malware authors
+T17	Information 2110 2128	stolen credentials
+T18	Organization 0 4	ESET
+T19	Organization 147 181	Global cybersecurity provider ESET
+T20	Information 87 108	Instagram credentials
+T21	Number 16 18	13
+T22	Number 209 211	13
+T23	Software 212 216	apps
+T24	Person 310 325	Instagram users
+T25	Software 278 282	apps
+T26	Number 704 715	1.5 million
+T27	Person 716 721	users
+T28	Course-of-Action 770 804	removed from the Google Play Store
+T29	Software 760 764	apps
+T30	Organization 748 755	company
+T31	Organization 1115 1119	ESET
+T15	Attack-Pattern 1371 1403	harvesting Instagram credentials
+T16	Attack-Pattern 1408 1439	sending them to a remote server
+T32	Person 1623 1632	attackers
+T33	Person 1657 1661	user
+T34	Information 1733 1751	stolen credentials
+T35	Campaign 1684 1690	threat
+T36	Organization 2196 2200	ESET
+T37	Information 2234 2255	sensitive information
+T38	Person 1807 1812	users
+T39	Purpose 1192 1214	spreading spam and ads
+T40	Device 1006 1023	attackers’ server
+T41	Purpose 1077 1113	raise follower counts of other users
+T42	Person 651 676	Instagram users worldwide
+T43	Software 610 614	apps
+T44	Location 597 603	Turkey
+T45	Software 563 567	apps
+T46	Organization 540 544	ESET
+T47	Information 480 501	Instagram credentials
+T9	Device 525 538	remote server
+T48	Information 1416 1420	them
+T49	Information 515 519	them
+T50	Information 2012 2014	it
+T51	Information 122 126	them
+*	Coreference T3 T16
+*	Coreference T4 T11 T23 T25 T45 T43 T29 T14 T60 T66
+*	Coreference T21 T22
+*	Coreference T38 T27 T33 T13 T24 T42 T64 T69
+*	Coreference T31 T36 T18 T46 T19 T54 T65
+T52	Software 46 63	Google Play Store
+T53	Software 220 237	Google Play Store
+*	Coreference T52 T53 T55 T68
+T54	Organization 297 302	ESET,
+*	Coreference T1 T8 T15
+T55	Software 787 804	Google Play Store
+T56	Information 927 944	Instagram account
+T57	Information 950 961	credentials
+*	Coreference T9 T40 T62
+T58	Information 1043 1063	compromised accounts
+*	Coreference T56 T58 T59 T63
+T59	Information 1167 1187	compromised accounts
+T60	Software 1327 1339	applications
+T61	Information 1382 1403	Instagram credentials
+*	Coreference T61 T48 T34 T7 T6 T17 T20 T47 T2 T51 T49 T57 T50 T37
+T62	Device 1426 1440	remote server.
+T63	Information 1460 1477	Instagram account
+T64	Person 1549 1553	user
+T65	Organization 1785 1792	company
+T66	Software 1834 1838	apps
+T67	Campaign 1925 1932	threats
+*	Coreference T35 T67
+T68	Software 2177 2194	Google Play Store
+T69	Person 2213 2218	users
+T70	Software 2273 2277	apps
+T71	Software 2159 2171	applications
+*	Coreference T71 T70 T72
+T72	Software 2380 2383	its

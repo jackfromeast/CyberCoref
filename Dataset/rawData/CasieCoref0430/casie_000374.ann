@@ -1,0 +1,74 @@
+T7	Vulnerability 194 204	 The issue
+T8	Attack-Pattern 241 304	allowing a remote attacker to gain a shell with root privileges
+T9	Device 307 326	 an affected device
+T1	Person 0 11	Researchers
+T3	Malware 39 57	 a hidden backdoor
+T4	Device 61 73	VoIP devices
+T5	Organization 86 121	Chinese manufacturer DBL Technology
+T6	Attack-Pattern 134 193	allow access by the manufacturer or malicious third parties
+T27	Organization 15 24	Trustwave
+T14	Organization 1268 1277	Trustwave
+T21	Vulnerability 1335 1337	it
+T18	Device 1373 1377	GoIP
+T26	Version 1378 1396	1, 4, 8, 16 and 32
+T19	Device 1424 1446	DBL Technology devices
+T20	Device 1451 1458	OEM kit
+T24	Course-of-Action 1523 1536	fix the issue
+T25	Vulnerability 1526 1536	 the issue
+T28	Time 1492 1504	last October
+T29	Hacker-Group 259 267	attacker
+T31	Information 448 459	information
+T32	Person 464 469	users
+T33	Device 472 483	 the device
+T34	Attack-Pattern 484 531	through the use of logins ‘ctlcmd’ and ‘limitsh
+T35	Code 511 517	ctlcmd
+T36	Code 524 531	limitsh
+T37	Person 542 574	 an additional undocumented user
+T38	Attack-Pattern 609 655	provides root level shell access on the device
+T39	Device 644 655	 the device
+T40	Information 667 690	 a traditional password
+T41	Information 691 704	 this account
+T42	Person 778 780	he
+T43	Campaign 720 768	 a proprietary challenge-response authentication
+T44	Campaign 793 806	Investigation
+T45	Person 887 901	 a remote user
+T46	Information 930 936	secret
+T47	Protocol 982 995	 the protocol
+T48	Campaign 1056 1074	challenge-response
+T49	Campaign 1091 1113	password-based log-ins
+T50	Person 1119 1128	 the user
+T51	Information 1141 1152	 a password
+T52	Course-of-Action 1120 1234	the user is asked for a password, which is then obscured to guard against “network interception and replay attacks
+T54	Campaign 1195 1215	network interception
+T55	Campaign 1220 1234	replay attacks
+T13	Vulnerability 1236 1246	 The issue
+T12	Device 1280 1307	 an 8 port VoIP GSM Gateway
+T15	Organization 1312 1324	 the company
+T16	Organization 1505 1514	 the firm
+T17	Campaign 1539 1574	Verification of the patched version
+T22	Campaign 1587 1610	 the challenge response
+T23	Version 1640 1659	 the latest version
+T53	Person 1699 1723	DBL Technology engineers
+T56	Campaign 1776 1804	 a flawed challenge response
+T57	Person 1876 1882	Kettle
+T58	Campaign 1913 1943	 the latest challenge response
+T59	Campaign 1957 1975	 the older variant
+T60	Campaign 2003 2005	it
+T61	Number 2066 2073	several
+T62	Version 2102 2121	 a modified version
+T63	Hash 2124 2147	 the MD5 hash algorithm
+T64	Hash 2028 2031	MD5
+T2	Organization 149 166	 the manufacturer
+T65	Organization 170 193	malicious third parties
+T66	Domain 373 380	 a blog
+T68	Purpose 1407 1458	affect many more DBL Technology devices and OEM kit
+T71	Vulnerability 1861 1863	it
+T10	Person 328 348	Trustwave researcher
+T74	Person 349 360	Neil Kettle
+T30	Device 392 420	Telnet interface of the GoIP
+T75	Person 584 590	dbladm
+*	Coreference T27 T14 T15
+*	Coreference T7 T25 T21 T13 T71
+*	Coreference T10 T74 T42
+*	Coreference T37 T75
+*	Coreference T60 T58

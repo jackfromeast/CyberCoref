@@ -1,0 +1,127 @@
+T23	Campaign 1384 1411	credential-stuffing attacks
+T18	Attack-Pattern 1202 1208	stolen
+T14	Information 1180 1201	password combinations
+T13	Information 1167 1175	username
+T16	Time 1133 1137	2016
+T9	Organization 1109 1129	Global organizations
+T31	Campaign 2711 2725	 a data breach
+T34	Information 2774 2794	personal information
+T22	Campaign 1858 1886	credential- stuffing attacks
+T3	Time 49 53	2016
+T2	Information 12 30	online credentials
+T4	Number 0 11	Billions of
+T6	Attack-Pattern 80 101	automated login hacks
+T10	Domain 158 183	enterprise Web properties
+T11	Purpose 111 183	overwhelming legitimate human-login traffic on enterprise Web properties
+T12	Time 197 202	today
+T15	Organization 208 222	Shape Security
+T19	Number 310 313	90%
+T20	System 339 362	Internet-facing systems
+T21	Number 374 377	100
+T24	Organization 378 383	firms
+T25	Person 402 411	customers
+T26	Organization 415 421	retail
+T27	Organization 423 430	finance
+T28	Organization 432 438	travel
+T29	Organization 440 450	government
+T30	Organization 462 472	industries
+T32	Person 474 479	Shape
+T35	Number 489 500	millions of
+T36	Campaign 501 510	instances
+T37	Campaign 563 590	credential stuffing attacks
+T38	Information 514 525	credentials
+T39	Campaign 610 636	Online-credential breaches
+T40	Attack-Pattern 648 700	expose any other personally identifiable information
+T41	Information 665 700	personally identifiable information
+T42	Campaign 746 772	massive security incidents
+T43	Time 792 797	today
+T44	Hacker-Group 826 835	attackers
+T45	Attack-Pattern 840 880	using stolen passwords quite effectively
+T46	Hacker-Group 885 894	attackers
+T48	Purpose 949 988	across various other Web systems online
+T49	System 970 981	Web systems
+T50	Money 1035 1056	hundreds of thousands
+T51	Money 1067 1089	millions - of accounts
+T52	Attack-Pattern 1099 1107	takeover
+T53	Number 1157 1166	3 billion
+T5	Campaign 1236 1275	Yahoo's massive 1.5 billion user breach
+T55	Campaign 1278 1295	Credential spills
+T56	Time 1327 1331	2016
+T57	Campaign 1362 1379	credential spills
+T58	Time 1416 1426	many years
+T59	Campaign 1428 1445	the scale of both
+T60	Time 1449 1453	2016
+T61	Person 1476 1496	Shuman Ghosemajumder
+T62	Person 1498 1511	CTO for Shape
+T63	Campaign 1540 1557	credential spills
+T64	Campaign 1621 1637	credential spill
+T65	Time 1662 1671	last year
+T66	Organization 1674 1679	Shape
+T68	Organization 1710 1716	retail
+T69	Organization 1718 1725	finance
+T70	Organization 1727 1733	travel
+T71	Organization 1735 1745	government
+T72	Organization 1757 1767	industries
+T73	Time 1771 1775	2016
+T74	Number 1789 1800	millions of
+T75	Information 1801 1812	credentials
+T76	Vulnerability 1835 1843	breaches
+T77	Time 1899 1906	4-month
+T78	Number 1895 1898	one
+T79	Organization 1937 1945	retailer
+T80	Organization 1960 1974	Shape Security
+T81	Number 1985 1997	15.5 million
+T82	Information 1998 2005	account
+T83	Campaign 2006 2020	login attempts
+T84	Number 2038 2045	500,000
+T85	Information 2046 2054	accounts
+T86	Organization 2063 2071	retailer
+T88	Organization 2155 2169	many companies
+T89	Attack-Pattern 2196 2252	 the volume of automated login traffic they're being hit
+T90	Campaign 2211 2234	automated login traffic
+T91	Campaign 2265 2279	 these attacks
+T92	Attack-Pattern 2287 2329	taking advantage of vulnerabilities per se
+T93	Vulnerability 2307 2322	vulnerabilities
+T95	Attack-Pattern 2411 2430	scaling up the rate
+T96	Campaign 2484 2498	 These attacks
+T97	Person 2512 2517	users
+T98	Campaign 2521 2525	risk
+T99	Purpose 2541 2579	put a traffic burden on infrastructure
+T100	Purpose 2590 2635	add to the login latency for real human users
+T101	Person 2624 2635	human users
+T102	Vulnerability 2596 2614	 the login latency
+T103	Number 2638 2646	A lot of
+T104	Organization 2682 2694	organization
+T105	Campaign 2730 2743	loses control
+T106	Person 2797 2810	Ghosemajumder
+T107	Organization 2848 2857	companies
+T108	Organization 2888 2898	themselves
+T109	Information 2906 2922	 those passwords
+T110	Attack-Pattern 2937 2968	attack them and their own users
+T111	Person 2963 2968	users
+T112	Organization 2944 2948	them
+T1	Campaign 80 101	automated login hacks
+T113	Campaign 321 335	login activity
+T114	Campaign 531 548	reported breaches
+T115	Information 853 862	passwords
+T116	Information 923 941	stolen credentials
+T47	Number 1650 1655	three
+T67	Information 2089 2099	credential
+T87	Information 2439 2455	 the credentials
+T117	Campaign 2531 2535	they
+T122	Pronoun 1339 1341	we
+T125	Hacker-Group 1030 1034	them
+T17	Campaign 250 275	credential-stuffing login
+T7	Organization 1777 1779	it
+T8	Information 2746 2769	 their users' passwords
+T33	Campaign 2331 2335	They
+*	Coreference T12 T43
+*	Coreference T15 T80
+*	Coreference T32 T66 T7
+*	Coreference T56 T16 T60 T3 T73
+*	Coreference T61 T106 T62
+*	Coreference T82 T85
+*	Coreference T44 T46 T125
+*	Coreference T57 T55 T64 T63
+*	Coreference T96 T91 T33
+*	Coreference T107 T108 T112

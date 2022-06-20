@@ -1,0 +1,82 @@
+T2	Campaign 78 88	has warned
+T3	Organization 75 77	HP
+T6	Campaign 121 132	has flagged
+T7	Organization 118 120	HP
+T8	Vulnerability 133 151	two critical flaws
+T9	Device 177 191	printer models
+T12	Campaign 916 934	have been assigned
+T13	Vulnerability 947 960	CVE-2018-5924
+T14	Vulnerability 965 978	CVE-2018-5925
+T11	Vulnerability 900 908	The bugs
+T15	Attack-Pattern 1005 1038	could allow remote code execution
+T16	Campaign 1071 1091	have been identified
+T18	Vulnerability 1042 1070	Two security vulnerabilities
+T17	Device 1105 1123	HP Inkjet printers
+T22	Campaign 1304 1320	hasn’t indicated
+T21	Organization 1292 1303	The company
+T20	Campaign 1339 1357	are publicly known
+T19	Vulnerability 1329 1338	the flaws
+T25	Campaign 1391 1410	recently made aware
+T24	Vulnerability 1414 1429	a vulnerability
+T23	Person 1460 1484	a third-party researcher
+T26	Device 1441 1456	inkjet printers
+T31	Campaign 1533 1542	announced
+T30	Organization 1526 1532	HP Inc
+T1	Campaign 58 73	should be fixed
+T5	Vulnerability 39 52	serious flaws
+T4	Device 15 33	HP Inkjet printers
+T10	Campaign 205 222	should be patched
+T28	Campaign 1499 1503	come
+T29	Time 1509 1525	a few days after
+T27	Course-of-Action 1487 1498	The patches
+T32	Campaign 1367 1373	attack
+T34	Organization 2016 2059	chief information security officers (CISOs)
+T35	Person 2161 2185	MedSec CEO, Justine Bone
+T37	Money 1806 1829	between $500 to $10,000
+T38	Person 1794 1805	researchers
+T39	File 1773 1784	bug reports
+T40	Time 830 840	after 2010
+T41	System 850 857	Windows
+T42	Device 861 874	Mac computers
+T43	Software 308 316	firmware
+T44	Organization 1383 1385	it
+T45	Organization 197 199	it
+T46	Organization 1543 1545	it
+*	Coreference T3 T7 T45 T47 T49 T51 T53 T21 T44 T30 T46 T57 T63 T36 T65
+*	Coreference T4 T17 T26
+*	Coreference T1 T10
+T47	Organization 266 268	HP
+T48	Person 533 542	customers
+T49	Organization 579 581	HP
+T50	Person 645 654	Customers
+*	Coreference T50 T48
+T51	Organization 677 679	HP
+T52	Software 719 727	firmware
+*	Coreference T52 T43
+*	Coreference T8 T11
+T53	Organization 1266 1268	HP
+T54	File 584 592	advisory
+T55	File 1281 1289	advisory
+*	Coreference T55 T54
+T56	Campaign 1624 1657	print security bug bounty program
+T57	Organization 1660 1678	The computer maker
+T58	Campaign 1740 1747	program
+*	Coreference T58 T56
+T59	Organization 1873 1881	Bugcrowd
+T60	Organization 1698 1725	Australian-founded Bugcrowd
+*	Coreference T60 T59
+T61	Person 1911 1922	researchers
+*	Coreference T61 T38
+T62	File 1950 1961	bug reports
+*	Coreference T39 T62
+T63	Organization 2131 2133	HP
+T64	Organization 2191 2196	CISOs
+*	Coreference T64 T34 T66
+T33	Person 2337 2341	Bone
+*	Coreference T35 T33
+T36	Organization 2357 2359	HP
+T65	Organization 2508 2510	HP
+T66	Organization 2551 2556	CISOs
+T67	Device 411 428	business printers
+T68	Device 2437 2454	business printers
+*	Coreference T68 T67

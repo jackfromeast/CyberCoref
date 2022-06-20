@@ -1,0 +1,95 @@
+T40	Person 2223 2272	Cornell computer science professor Emin Gün Sirer
+T39	Vulnerability 2202 2221	these software bugs
+T37	Campaign 2345 2359	are vulnerable
+T38	System 2331 2344	bitcoin forks
+T16	Vulnerability 727 751	the recent vulnerability
+T49	Vulnerability 904 916	software bug
+T51	System 1073 1095	cryptocurrency network
+T9	Person 265 307	Casaba Security co-founder Jason Glassberg
+T5	Vulnerability 160 176	the software bug
+T6	Vulnerability 198 212	CVE-2018-17144
+T7	Attack-Pattern 231 263	a denial-of-service (DoS) attack
+T12	Person 348 357	Glassberg
+T11	Vulnerability 374 391	the vulnerability
+T14	System 395 420	the Bitcoin Core codebase
+T21	Organization 1598 1625	The Bitcoin Core developers
+T20	Vulnerability 1682 1704	this DoS vulnerability
+T19	Vulnerability 1431 1467	the recent Bitcoin Core software bug
+T23	Course-of-Action 1752 1759	upgrade
+T24	Version 1763 1777	version 0.16.3
+T25	Software 1781 1793	the software
+T26	Software 1715 1727	Bitcoin Core
+T1	Course-of-Action 37 42	fixed
+T2	Organization 0 27	The Bitcoin Core developers
+T3	Vulnerability 43 64	a major vulnerability
+T4	System 68 113	the Bitcoin (BTC) network’s (client) codebase
+T34	System 2102 2128	the litecoin (LTC) network
+T32	Vulnerability 2063 2076	vulnerability
+T31	Vulnerability 2048 2062	CVE-2018-17144
+T28	Software 1972 1991	its client software
+T35	Campaign 2144 2156	has received
+T36	Course-of-Action 2157 2164	a patch
+T47	Course-of-Action 2676 2683	a patch
+T48	System 2709 2724	bitcoin network
+T30	Software 1877 1890	Bitcoin Knots
+T17	Course-of-Action 1114 1137	Critical Patch Released
+T44	Person 2375 2409	The Turkish-American cryptographer
+T43	Vulnerability 2426 2450	critical vulnerabilities
+T45	Attack-Pattern 2481 2520	its network was hit with the DAO attack
+T33	Money 2567 2574	bitcoin
+T27	Course-of-Action 1996 2003	patched
+T18	Course-of-Action 1481 1488	patched
+T29	Campaign 983 989	attack
+T52	Campaign 475 479	they
+T54	Vulnerability 316 318	It
+*	Coreference T21 T2
+*	Coreference T4 T48 T38
+*	Coreference T3 T5 T6 T54 T11 T16 T20 T49 T25 T19 T65 T31 T32
+*	Coreference T9 T12
+T8	Campaign 444 456	transactions
+*	Coreference T8 T52 T22 T56
+T10	Campaign 571 594	Denial-of-Service (DoS)
+*	Coreference T10 T7
+T13	Software 608 640	The Bitcoin Core client software
+T15	Person 652 662	BTC miners
+T22	Campaign 675 687	transactions
+T41	Hacker-Group 958 966	attacker
+T42	Campaign 600 607	Attacks
+*	Coreference T42 T29 T50 T59 T61 T69 T71 T72 T53
+T46	Hacker-Group 1155 1164	bad actor
+*	Coreference T41 T46 T55
+T50	Campaign 1184 1194	51% attack
+T56	Campaign 1218 1230	transactions
+T57	Money 1268 1283	financial gains
+T58	Money 1325 1333	$490,000
+*	Coreference T58 T57
+T59	Campaign 1352 1358	attack
+T60	System 1379 1394	Bitcoin network
+T55	Hacker-Group 1492 1501	bad actor
+T61	Campaign 1525 1535	51% attack
+T62	System 1543 1567	cryptocurrency’s network
+*	Coreference T51 T62
+T65	Vulnerability 1854 1875	the DoS vulnerability
+T66	Software 1892 1932	one of at least 96 bitcoin forks to date
+*	Coreference T30 T66
+*	Coreference T13 T26
+T67	Money 2005 2022	"Copycat" Cryptos
+T68	Money 2280 2298	Copycat currencies
+*	Coreference T67 T68
+T69	Campaign 2367 2373	attack
+*	Coreference T44 T40
+*	Coreference T39 T43
+T70	Software 2454 2473	Ethereum’s codebase
+T71	Campaign 2514 2520	attack
+T72	Campaign 2618 2628	51% attack
+*	Coreference T36 T47
+T73	Organization 2761 2769	Crypto51
+T74	Version 1795 1812	Previous versions
+T75	Version 1814 1830	0.14.0 to 0.16.3
+*	Coreference T74 T75
+T53	Campaign 2820 2830	51% attack
+T76	Organization 1409 1417	Crypto51
+*	Coreference T76 T73
+T77	Money 2798 2807	cost $122
+T78	Money 2884 2892	estimate
+*	Coreference T77 T78

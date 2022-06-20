@@ -1,0 +1,97 @@
+T31	Email 2519 2534	email addresses
+T32	Information 2539 2548	passwords
+T34	Information 2511 2515	list
+T3	Attack-Pattern 80 144	access to a large cache of iCloud and other Apple email accounts
+T5	Hacker-Group 13 29	group of hackers
+T4	Hacker-Group 3 9	hacker
+T2	Organization 61 66	Apple
+T7	Hacker-Group 189 209	Turkish Crime Family
+T6	Hacker-Group 150 157	hackers
+T9	Money 221 251	$75,000 in Bitcoin or Ethereum
+T11	Money 302 337	$100,000 worth of iTunes gift cards
+T22	Campaign 2298 2315	extortion efforts
+T21	Hacker-Group 2233 2240	hackers
+T23	Attack-Pattern 2251 2280	feed information to reporters
+T25	System 2452 2467	Apple's systems
+T26	System 2478 2484	iCloud
+T27	Information 2489 2497	Apple ID
+T14	Information 1107 1121	iCloud account
+T15	Hacker-Group 1063 1069	hacker
+T16	Information 1138 1154	backed-up photos
+T33	Person 1091 1104	elderly woman
+T17	Campaign 1692 1703	have access
+T20	Information 1724 1744	Apple email accounts
+T18	Hacker-Group 1675 1682	hackers
+T1	Information 367 388	alleged cache of data
+T8	Money 406 411	money
+T10	Person 474 489	Apple customers
+T12	Hacker-Group 546 553	hackers
+T19	Organization 559 570	Motherboard
+T36	Hacker-Group 576 583	hackers
+T37	Information 593 604	screenshots
+T38	Email 608 622	alleged emails
+T40	Organization 767 772	Apple
+T41	Organization 693 704	Motherboard
+T42	Hacker-Group 679 682	One
+T43	Information 718 731	email account
+T44	Information 816 824	data set
+T45	Person 830 869	unnamed member of Apple's security team
+T47	Hacker-Group 883 890	hackers
+T48	Time 891 901	a week ago
+T49	Email 927 933	emails
+T50	Hacker-Group 961 968	hackers
+T51	Information 985 998	YouTube video
+T52	Information 1042 1057	stolen accounts
+T13	Device 1193 1199	device
+T53	Information 1246 1298	video that you have uploaded on your YouTube channel
+T54	Hacker-Group 1397 1412	cyber criminals
+T56	Person 1463 1494	member of Apple's security team
+T57	Number 1712 1723	300 million
+T58	Hacker-Group 1575 1581	hacker
+T59	Person 1514 1531	Apple team member
+T60	Email 1628 1645	one of the emails
+T61	Email 1766 1773	@icloud
+T62	Email 1778 1781	@me
+T63	Hacker-Group 1804 1811	hackers
+T64	Hacker-Group 1865 1872	hackers
+T65	Number 1895 1906	559 million
+T67	Hacker-Group 1928 1935	hackers
+T68	File 2062 2067	video
+T70	Email 2086 2092	emails
+T66	Hacker-Group 2133 2140	hackers
+T69	Organization 2226 2231	Apple
+T71	Email 2401 2406	email
+T72	Person 2359 2377	Apple spokesperson
+T73	Organization 2383 2394	Motherboard
+T74	Hacker-Group 391 392	I
+T75	Person 1349 1351	we
+T76	Person 1202 1204	We
+T77	Person 1380 1382	we
+T79	Hacker-Group 1363 1366	you
+T81	Hacker-Group 1228 1231	you
+T82	Hacker-Group 1257 1260	you
+T83	Information 1302 1304	it
+T84	Email 2118 2120	it
+T85	Hacker-Group 1886 1890	they
+*	Coreference T40 T2 T69
+*	Coreference T41 T73 T19 T29 T80
+*	Coreference T43 T28 T20 T78
+*	Coreference T57 T65
+*	Coreference T50 T18 T67 T66 T6 T36 T12 T47 T64 T58 T21 T15 T63 T7 T5 T24 T74 T42 T4 T30 T46 T81 T82 T79 T54 T85
+T24	Hacker-Group 174 184	themselves
+T28	Information 107 144	iCloud and other Apple email accounts
+T29	Organization 635 640	group
+T30	Hacker-Group 779 782	you
+T35	Person 645 677	members of Apple's security team
+*	Coreference T35 T45 T76 T75 T77 T56 T59
+T39	Information 948 955	account
+T46	Hacker-Group 1002 1006	them
+*	Coreference T53 T51 T83 T68
+T55	Organization 1602 1613	authorities
+T78	Information 1907 1915	accounts
+T80	Organization 1952 1963	Motherboard
+T86	Information 1991 2013	stolen iCloud accounts
+*	Coreference T14 T52 T86 T88 T87
+T87	Information 2109 2116	account
+T88	Information 1653 1669	accessed account
+*	Coreference T84 T70 T31

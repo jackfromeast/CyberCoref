@@ -1,0 +1,54 @@
+T12	Hacker-Group 133 138	FIN10
+T13	System 165 173	networks
+T2	Information 184 198	sensitive data
+T21	Information 529 540	stolen data
+T15	Person 282 286	them
+T5	Person 244 257	board members
+T4	Person 222 239	victim executives
+T6	Campaign 292 298	paying
+T7	Money 307 310	100
+T8	Money 315 327	500 bitcoins
+T9	Money 347 355	$125,000
+T10	Money 360 368	$620,000
+T11	Time 375 389	mid April 2017
+T17	Campaign 431 442	 the demand
+T16	Person 401 408	victims
+T18	Hacker-Group 444 449	FIN10
+T19	Attack-Pattern 480 517	destroyed critical production systems
+T22	Campaign 635 644	paying up
+T23	Person 622 629	victims
+T25	Campaign 892 901	extortion
+T26	Campaign 907 929	destruction of systems
+T27	Hacker-Group 949 954	FIN10
+T28	Hacker-Group 988 1001	threat actors
+T24	Organization 0 7	FireEye
+T29	Hacker-Group 95 110	 a threat actor
+T30	Hacker-Group 126 131	FIN10
+T31	Purpose 32 53	financially motivated
+T1	Purpose 152 173	compromising networks
+T14	Purpose 175 198	stealing sensitive data
+T3	Hacker-Group 662 667	FIN10
+T20	Time 685 689	2013
+T32	Time 741 745	2016
+T33	Person 782 798	Canadian victims
+T34	Organization 814 821	casinos
+T35	Organization 826 846	mining organizations
+T36	Information 869 890	sensitive victim data
+T37	Organization 931 938	FireEye
+T38	Campaign 853 890	 the release of sensitive victim data
+T39	Person 756 758	we
+T40	Person 111 113	we
+T41	Campaign 668 677	operation
+T42	Campaign 693 710	 their operations
+T43	Campaign 54 74	intrusion operations
+T44	Campaign 459 475	 their operation
+T45	Hacker-Group 961 964	one
+*	Coreference T2 T21 T36
+*	Coreference T6 T22
+*	Coreference T16 T33 T23
+*	Coreference T24 T37
+*	Coreference T3 T30 T27 T12 T18 T28 T29 T45
+*	Coreference T9 T7
+*	Coreference T10 T8
+*	Coreference T42 T41 T43 T44
+*	Coreference T39 T40

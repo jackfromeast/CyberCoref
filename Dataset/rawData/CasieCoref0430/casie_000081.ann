@@ -1,0 +1,49 @@
+T3	Hacker-Group 69 83	 the attackers
+T2	Purpose 106 125	access patient data
+T16	Attack-Pattern 191 224	encrypting the practice's servers
+T15	Malware 172 180	 a virus
+T12	Person 147 159	 an employee
+T8	Time 130 146	February 6, 2017
+T10	Hacker-Group 774 781	hackers
+T13	System 819 826	network
+T9	Information 718 742	suspicious user accounts
+T14	Organization 812 816	ABCD
+T5	Information 556 560	data
+T6	System 565 576	 the server
+T7	Malware 497 516	these virus strains
+T17	Organization 5 17	 the company
+T18	Person 44 50	victim
+T19	Malware 53 68	 the ransomware
+T1	Information 113 125	patient data
+T20	Device 201 224	 the practice's servers
+T21	Course-of-Action 262 296	 the company's anti-virus software
+T22	Organization 302 319	ABCD's IT company
+T23	Device 336 348	 its servers
+T24	Course-of-Action 332 356	take its servers offline
+T25	Course-of-Action 361 400	identify the virus as Dharma Ransomware
+T26	Malware 369 379	 the virus
+T27	Malware 383 400	Dharma Ransomware
+T28	Malware 401 421	 a variant of Crysis
+T29	Software 432 448	decryption tools
+T30	Organization 465 482	ABCD's IT company
+T4	Attack-Pattern 527 576	do not exfiltrate ('remove') data from the server
+T31	Organization 624 636	 the company
+T32	Device 688 702	ABCD's servers
+T33	Device 707 716	computers
+T11	Attack-Pattern 786 827	have accessed portions of ABCD's network.
+T34	Organization 828 843	 The IT company
+T35	Course-of-Action 856 893	remove the virus and all corrupt data
+T36	Malware 862 872	 the virus
+T37	Information 881 893	corrupt data
+T38	Device 898 910	 its servers
+T39	Information 951 955	data
+T40	Course-of-Action 960 976	 a secure backup
+T41	Information 995 1019	confidential information
+T42	Information 1053 1081	protected health information
+T43	Organization 1083 1095	 the company
+*	Coreference T3 T10
+*	Coreference T5 T39 T41 T42
+*	Coreference T36 T15 T26 T27 T28 T7
+*	Coreference T20 T32 T23 T38 T6 T33
+*	Coreference T34 T43 T31 T30 T22
+*	Coreference T18 T17

@@ -1,0 +1,58 @@
+T10	Organization 1111 1126	IBM X-Force Red
+T9	System 1143 1161	smart city systems
+T6	Organization 1175 1183	Libelium
+T7	Organization 1185 1192	Echelon
+T8	Organization 1197 1205	Battelle
+T2	Campaign 4 18	has discovered
+T3	Vulnerability 19 46	17 zero-day vulnerabilities
+T4	System 50 68	smart city systems
+T1	Organization 0 3	IBM
+T13	Vulnerability 1476 1517	the 17 previously-unknown vulnerabilities
+T14	Person 1426 1467	IBM X-Force Red researcher Daniel Crowley
+T15	System 1532 1539	systems
+T16	Organization 1548 1565	four smart cities
+T18	Person 1773 1788	the researchers
+T20	Vulnerability 1817 1866	critical pre-authentication shell injection flaws
+T21	System 1881 1904	wireless sensor network
+T17	Organization 1870 1878	Libelium
+T22	Time 445 452	by 2021
+T23	Money 432 444	$135 billion
+T24	Money 388 399	$80 billion
+T25	Time 400 409	this year
+T26	Organization 158 200	 the cybersecurity firm's X-Force Red team
+T27	Time 151 157	Monday
+T28	Hacker-Group 228 235	hackers
+T29	Organization 808 810	We
+T11	Location 138 147	Las Vegas
+T12	Campaign 253 271	old-school threats
+T19	Software 337 358	Smart city technology
+T30	Organization 573 579	cities
+T31	Organization 283 294	 the cities
+T34	Campaign 795 806	cyberattack
+T36	System 884 904	core country systems
+T37	Hacker-Group 863 876	threat actors
+T38	Organization 1021 1025	city
+T39	Campaign 826 837	 the damage
+T40	Campaign 1044 1066	similar levels of risk
+T41	Person 1082 1093	researchers
+T42	Organization 1233 1241	Libelium
+T43	Organization 1244 1292	 a wireless sensor network hardware manufacturer
+T44	Organization 1300 1307	Echelon
+T45	Organization 1343 1362	non-profit Battelle
+T46	Vulnerability 1628 1637	 the bugs
+T47	Vulnerability 1567 1572	eight
+T48	Vulnerability 1799 1813	four instances
+T49	System 1906 1914	Meshlium
+*	Coreference T6 T17 T42 T43
+*	Coreference T3 T13
+*	Coreference T31 T30
+*	Coreference T1 T29
+*	Coreference T28 T37
+*	Coreference T39 T40
+*	Coreference T4 T9 T15
+*	Coreference T7 T44
+*	Coreference T8 T45
+*	Coreference T26 T10
+*	Coreference T47 T46
+*	Coreference T18 T14
+*	Coreference T21 T49

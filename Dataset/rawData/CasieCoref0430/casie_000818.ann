@@ -1,0 +1,41 @@
+T11	Campaign 112 143	 The computer ransomware attack
+T12	Time 152 170	Sunday, April 29th
+T4	System 77 92	computer system
+T3	Hacker-Group 44 51	hackers
+T5	Organization 0 12	Wasaga Beach
+T6	Time 93 111	earlier this month
+T10	Organization 65 74	 the town
+T15	Attack-Pattern 56 65	took over
+T7	Hacker-Group 375 386	the hackers
+T8	Organization 350 359	 the town
+T14	Money 635 651	 the ransom paid
+T2	Money 29 40	 the ransom
+T16	Time 240 246	Monday
+T17	Malware 430 451	 the ransomware virus
+T18	Hacker-Group 452 461	attackers
+T19	Person 250 273	CAO George Vadeboncoeur
+T1	Time 512 521	six hours
+T9	Information 775 779	data
+T20	Person 697 699	He
+T21	Person 189 193	they
+T22	Person 320 322	he
+T23	Person 705 707	he
+T24	Person 388 390	He
+T25	Hacker-Group 479 483	they
+T26	Person 748 750	he
+T27	Person 467 469	He
+T13	Person 172 177	Staff
+T28	Organization 210 214	town
+T29	Information 215 219	data
+T30	Information 286 295	 the data
+T31	Money 345 350	money
+T32	Organization 395 404	 the town
+T33	Person 584 596	Vadeboncoeur
+T34	Organization 602 606	town
+T35	Organization 763 772	 the town
+*	Coreference T3 T7 T18 T25
+*	Coreference T13 T21
+*	Coreference T10 T28 T8 T32 T34 T35
+*	Coreference T29 T30 T9
+*	Coreference T19 T22 T24 T27 T33 T20 T23 T26
+*	Coreference T2 T31 T14

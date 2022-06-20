@@ -1,0 +1,76 @@
+T17	Person 829 845	Vahagn Vardanyan
+T15	Vulnerability 649 662	vulnerability
+T8	Person 0 11	Researchers
+T2	Vulnerability 56 69	vulnerability
+T3	Software 77 96	SAP GUI application
+T6	Vulnerability 103 105	it
+T4	Vulnerability 131 159	the most dangerous SAP issue
+T7	Time 160 170	since 2011
+T34	Vulnerability 1240 1253	vulnerability
+T10	Person 690 707	SAP administrator
+T12	Course-of-Action 725 730	patch
+T13	Software 754 761	SAP GUI
+T14	Organization 765 774	a company
+T18	Course-of-Action 906 913	patched
+T20	Vulnerability 888 901	vulnerability
+T24	Version 967 974	2407616
+T23	Course-of-Action 953 966	Security Note
+T22	Time 947 952	March
+T21	Course-of-Action 926 931	a fix
+T19	Organization 917 920	SAP
+T27	Time 1048 1067	the March Patch Day
+T25	Vulnerability 1013 1034	SAP GUI vulnerability
+T35	System 1324 1338	infrastructure
+T32	Software 1484 1496	update tools
+T36	Organization 17 38	security firm ERPScan
+T1	Vulnerability 175 177	it
+T5	Person 201 213	SAP customer
+T37	Person 229 233	user
+T38	Vulnerability 239 252	vulnerability
+T39	Hacker-Group 263 271	attacker
+T40	Device 280 293	all endpoints
+T41	Software 299 326	compromised SAP GUI clients
+T42	Attack-Pattern 327 383	automatically install malware that locks their computers
+T43	Malware 349 356	malware
+T44	Person 392 400	SAP user
+T45	System 416 422	system
+T46	Person 433 437	user
+T47	Software 457 476	SAP GUI application
+T48	Malware 482 500	malicious software
+T49	Attack-Pattern 506 556	run and prevent them from logging on to SAP Server
+T50	Person 522 526	them
+T51	Domain 546 556	SAP Server
+T52	Course-of-Action 581 597	patching process
+T9	Device 734 748	every endpoint
+T11	Organization 789 799	enterprise
+T53	Software 817 821	them
+T54	Person 847 873	senior security researcher
+T55	Organization 875 882	ERPScan
+T56	Person 979 995	SAP spokesperson
+T26	URL 1109 1118	blog post
+T33	Person 1275 1283	customer
+T57	Person 1295 1308	all customers
+T58	Course-of-Action 1288 1350	advise all customers to patch their infrastructure immediately
+T28	Person 1352 1361	Customers
+T29	Course-of-Action 1366 1496	required to apply the SAP GUI patch released on their landscape using their standard client software distribution and update tools
+T30	Software 1442 1479	standard client software distribution
+T31	Software 1533 1550	end-user software
+T59	Organization 1571 1578	vendors
+T60	Person 1594 1606	spokesperson
+T61	Vulnerability 1623 1644	SAP GUI vulnerability
+T62	Time 1662 1672	since 2011
+T66	Person 1504 1508	they
+T68	Organization 1197 1199	We
+*	Coreference T7 T62
+*	Coreference T40 T9 T63
+*	Coreference T57 T46 T44 T28 T33 T50 T66
+*	Coreference T34 T61 T25 T38 T1 T20 T2 T15 T6 T4
+*	Coreference T47 T41
+*	Coreference T48 T43
+T63	Device 671 682	client side
+*	Coreference T13 T3 T53
+*	Coreference T17 T54
+*	Coreference T21 T18 T23 T16
+*	Coreference T68 T19
+T16	Course-of-Action 1388 1401	SAP GUI patch
+*	Coreference T60 T56

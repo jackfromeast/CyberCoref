@@ -1,0 +1,52 @@
+T1	Purpose 166 172	ransom
+T6	Time 5 23	the past few weeks
+T5	Hacker-Group 25 32	hackers
+T4	Software 60 113	publicly accessible servers running database software
+T2	Software 122 129	MongoDB
+T3	Software 134 140	Hadoop
+T11	Person 347 360	Victor Gevers
+T10	Vulnerability 420 435	security issues
+T8	Number 47 56	thousands
+T7	Information 150 161	 their data
+T12	Person 257 263	admins
+T13	Software 268 284	 their databases
+T14	Person 362 403	chairman of the non-profit GDI Foundation
+T9	Person 448 455	victims
+T15	Organization 462 473	Motherboard
+T16	Person 496 502	Gevers
+T17	Campaign 520 542	 the malicious attacks
+T18	Time 554 571	began in December
+T19	Time 580 586	Monday
+T20	Hacker-Group 635 649	 the vigilante
+T21	Attack-Pattern 675 753	creating an empty folder called "your_db_is_not_secure" in some open databases
+T22	Path 708 729	your_db_is_not_secure
+T23	Software 739 753	open databases
+T24	Number 796 811	49 of the 2,641
+T25	Software 812 826	open databases
+T26	Software 832 855	 the Cassandra software
+T27	Person 857 863	Gevers
+T28	Organization 869 880	Motherboard
+T29	Person 955 972	potential victims
+T30	Person 1000 1023	database administrators
+T31	Person 1065 1071	Gevers
+T32	Organization 1102 1121	 the GDI Foundation
+T33	Person 1141 1148	victims
+T34	Email 1157 1162	email
+T35	Course-of-Action 1131 1162	informing victims too via email
+T36	Organization 1176 1201	group of security experts
+T37	Person 1249 1266	potential targets
+T38	Email 1216 1222	emails
+T39	Person 1305 1320	database owners
+T40	Email 1270 1283	 the messages
+T42	Campaign 549 553	they
+T43	Hacker-Group 659 663	they
+*	Coreference T9 T33
+*	Coreference T15 T28
+*	Coreference T16 T31 T11 T27 T14
+*	Coreference T29 T37
+*	Coreference T30 T39 T12
+*	Coreference T13 T4
+*	Coreference T42 T17
+*	Coreference T43 T20
+*	Coreference T25 T23
+*	Coreference T40 T38

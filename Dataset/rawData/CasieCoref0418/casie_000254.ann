@@ -1,0 +1,97 @@
+T4	Information 717 732	encryption keys
+T3	Information 703 712	passwords
+T1	System 743 755	the keychain
+T12	System 2075 2083	keychain
+T11	Information 2054 2065	credentials
+T13	Malware 2003 2014	Mac malware
+T5	File 0 34	Malicious Microsoft Word documents
+T6	Code 46 52	macros
+T7	Time 58 62	long
+T8	Person 80 93	Windows users
+T9	Time 95 98	Now
+T14	Person 100 120	security researchers
+T15	Campaign 159 176	real-world attack
+T16	Purpose 180 191	infect Macs
+T17	System 187 191	Macs
+T18	Person 193 199	Allies
+T19	Person 204 210	Rivals
+T20	Organization 236 278	Carnegie Endowment for International Peace
+T21	System 360 364	Macs
+T22	Software 315 321	EmPyre
+T23	Time 366 377	By the time
+T24	Person 382 393	researchers
+T25	Domain 432 452	securitychecking.org
+T26	Code 479 486	payload
+T27	Software 549 555	Empyre
+T28	Code 570 575	macro
+T29	Campaign 608 618	infections
+T2	Attack-Pattern 674 692	monitoring webcams
+T30	Attack-Pattern 694 712	stealing passwords
+T31	Attack-Pattern 717 755	encryption keys stored in the keychain
+T32	Attack-Pattern 761 789	accessing browsing histories
+T33	Information 771 789	browsing histories
+T34	Malware 818 825	malware
+T35	Code 889 905	malicious macros
+T36	Number 945 958	large numbers
+T37	Person 962 991	people who should know better
+T38	Code 993 1004	Word macros
+T39	Campaign 1072 1098	hacker-caused power outage
+T40	Number 1111 1118	225,000
+T41	Person 1119 1129	Ukrainians
+T42	Time 1153 1166	December 2015
+T43	Code 1168 1184	Malicious macros
+T44	Malware 1235 1245	ransomware
+T45	Attack-Pattern 1190 1245	power some of the most aggressive strains of ransomware
+T47	Malware 1270 1275	Locky
+T48	Code 1277 1283	Macros
+T49	Time 1313 1322	late 2014
+T50	Malware 1344 1358	Dridex malware
+T51	Software 1395 1399	Java
+T52	Software 1401 1412	Adobe Flash
+T53	Software 1418 1435	Internet Explorer
+T54	Software 1468 1480	applications
+T55	Code 1492 1498	macros
+T56	File 1502 1516	Word documents
+T57	Hacker-Group 1518 1522	they
+T58	Person 1565 1579	Patrick Wardle
+T59	Person 1588 1608	director of research
+T60	Organization 1612 1625	security firm
+T61	Organization 1626 1632	Synack
+T62	Code 1702 1708	macros
+T63	Vulnerability 1751 1782	memory corruption vulnerability
+T64	Malware 1788 1795	malware
+T65	Time 1907 1916	on Monday
+T66	Time 1922 1934	the same day
+T67	Number 1940 1943	two
+T68	Person 1954 1965	researchers
+T10	Purpose 2048 2083	steal credentials from the keychain
+T69	Malware 2123 2130	malware
+T70	File 2094 2117	malicious Word document
+T71	Code 2179 2183	code
+T72	Person 1889 1895	Wardle
+T73	Malware 2239 2263	mainstream MacOS malware
+T74	Malware 2287 2311	its Windows counterparts
+T75	File 404 426	booby-trapped document
+T77	File 533 535	it
+T78	File 1662 1680	malicious document
+T79	System 1856 1862	system
+T80	Course-of-Action 1874 1881	patched
+T81	Person 2167 2177	developers
+T83	Malware 878 882	they
+T86	Pronoun 281 283	It
+T88	Malware 1441 1443	it
+*	Coreference T1 T12
+*	Coreference T17 T21
+*	Coreference T22 T27 T76
+*	Coreference T64 T13 T69
+*	Coreference T56 T75 T78 T70 T5 T77
+T76	Software 326 355	open-source exploit framework
+*	Coreference T83 T34 T43 T28 T6 T35 T48 T55 T62
+T46	Code 1029 1052	initial infection point
+*	Coreference T46 T38
+*	Coreference T44 T47
+*	Coreference T88 T50
+T85	Course-of-Action 1374 1435	improved security in Java, Adobe Flash, and Internet Explorer
+*	Coreference T58 T59
+*	Coreference T61 T60
+*	Coreference T66 T65

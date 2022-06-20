@@ -1,0 +1,98 @@
+T23	Person 2274 2288	Darren Shepard
+T20	Vulnerability 2353 2356	bug
+T8	Information 1627 1641	sensitive data
+T6	Person 1610 1620	this actor
+T2	Vulnerability 128 153	first major security hole
+T3	Vulnerability 178 181	bug
+T4	Vulnerability 183 199	CVE-2018-1002105
+T5	Vulnerability 205 245	the Kubernetes privilege escalation flaw
+T13	Course-of-Action 1920 1925	fixes
+T14	Person 1874 1897	Kubernetes distributors
+T17	Organization 2118 2125	Red Hat
+T16	Course-of-Action 2147 2154	patches
+T18	Course-of-Action 2159 2174	service updates
+T24	System 0 10	Kubernetes
+T25	System 41 77	cloud container orchestration system
+T26	System 124 127	its
+T1	Vulnerability 266 297	CVSS 9.8 critical security hole
+T27	Version 266 274	CVSS 9.8
+T28	Packet 306 339	specially crafted network request
+T29	Person 345 349	user
+T30	Attack-Pattern 354 466	establish a connection through the Kubernetes application programming interface (API) server to a backend server
+T31	Software 389 446	Kubernetes application programming interface (API) server
+T32	Software 452 466	backend server
+T33	Hacker-Group 489 497	attacker
+T34	Attack-Pattern 502 578	send arbitrary requests over the network connection directly to that backend
+T35	Packet 507 525	arbitrary requests
+T36	Software 571 578	backend
+T37	Packet 611 619	requests
+T38	Attack-Pattern 580 603	Adding insult to injury
+T39	Attack-Pattern 624 713	authenticated with the Kubernetes API server's Transport Layer Security (TLS) credentials
+T40	Information 647 713	Kubernetes API server's Transport Layer Security (TLS) credentials
+T41	Person 760 801	users (authenticated and unauthenticated)
+T42	Attack-Pattern 817 844	perform discovery API calls
+T43	Person 883 889	anyone
+T44	Vulnerability 911 915	hole
+T45	Attack-Pattern 920 959	take command of your Kubernetes cluster
+T46	Software 941 959	Kubernetes cluster
+T47	Vulnerability 1044 1057	vulnerability
+T48	Attack-Pattern 1007 1030	no simple way to detect
+T49	Packet 1085 1106	unauthorized requests
+T50	Attack-Pattern 1153 1220	do not appear in the Kubernetes API server audit logs or server log
+T51	File 1174 1206	Kubernetes API server audit logs
+T52	File 1210 1220	server log
+T53	Packet 1226 1234	requests
+T54	Software 1252 1259	kubelet
+T55	File 1263 1289	aggregated API server logs
+T56	Attack-Pattern 1299 1393	indistinguishable from correctly authorized and proxied requests via the Kubernetes API server
+T57	Protocol 1322 1363	correctly authorized and proxied requests
+T58	Software 1372 1393	Kubernetes API server
+T59	Person 1412 1419	Red Hat
+T60	Vulnerability 1431 1456	privilege escalation flaw
+T61	Person 1479 1487	any user
+T62	Purpose 1491 1545	gain full administrator privileges on any compute node
+T63	Software 1561 1575	Kubernetes pod
+T7	Purpose 1621 1641	steal sensitive data
+T64	Purpose 1645 1666	inject malicious code
+T65	Code 1652 1666	malicious code
+T66	Purpose 1686 1733	bring down production applications and services
+T67	Software 1697 1720	production applications
+T68	Software 1725 1733	services
+T69	Software 1749 1772	organization's firewall
+T9	Course-of-Action 1799 1817	upgrade Kubernetes
+T10	Code 1823 1830	program
+T70	Software 1847 1857	Kubernetes
+T12	Person 1927 1934	Red Hat
+T71	Software 1952 1977	Kubernetes-based services
+T72	Software 1982 1990	products
+T73	Software 2004 2040	Red Hat OpenShift Container Platform
+T74	Software 2042 2066	Red Hat OpenShift Online
+T75	Software 2072 2099	Red Hat OpenShift Dedicated
+T15	Person 2178 2192	affected users
+T76	Vulnerability 2238 2251	security hole
+T77	Person 2290 2336	chief architect and co-founder at Rancher Labs
+T19	Course-of-Action 2361 2425	reported it using the Kubernetes vulnerability reporting process
+T21	Vulnerability 2468 2481	vulnerability
+T22	Attack-Pattern 2498 2527	no obvious traces in the logs
+T78	File 2523 2527	logs
+T79	Vulnerability 2555 2591	Kubernetes privilege escalation flaw
+T80	Course-of-Action 2678 2709	upgrade your Kubernetes systems
+T81	System 2691 2709	Kubernetes systems
+T82	Organization 2726 2733	company
+T83	Vulnerability 2370 2372	it
+T84	Vulnerability 259 261	It
+T85	Person 1672 1676	they
+T86	Vulnerability 2438 2440	it
+T87	Vulnerability 2633 2635	it
+T89	Packet 1148 1152	they
+T90	Vulnerability 1463 1465	it
+T91	System 89 91	it
+*	Coreference T29 T61 T41 T43 T6 T85
+*	Coreference T32 T36
+*	Coreference T37 T35 T49 T53 T57 T89
+*	Coreference T17 T12 T59
+*	Coreference T60 T79 T5 T20 T3 T4 T84 T76 T2 T1 T44 T47 T21 T83 T86 T87
+*	Coreference T9 T80
+*	Coreference T24 T25 T91 T26 T81 T70
+*	Coreference T63 T46
+*	Coreference T23 T77

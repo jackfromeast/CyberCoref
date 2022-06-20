@@ -1,0 +1,64 @@
+T40	Attack-Pattern 108 131	crash victims' chat app
+T5	Campaign 231 254	discovered and reported
+T6	Vulnerability 255 263	the flaw
+T9	Vulnerability 265 293	a memory heap overflow issue
+T10	Organization 307 315	WhatsApp
+T11	Time 319 325	August
+T16	Vulnerability 392 420	the potentially serious flaw
+T14	Person 350 361	Silvanovich
+T17	Attack-Pattern 523 583	triggering the corruption error and crashing the application
+T2	Organization 0 8	WhatsApp
+T3	Vulnerability 21 36	a vulnerability
+T4	System 40 59	its smartphone code
+T13	Course-of-Action 336 341	a fix
+T41	Time 327 330	Now
+T22	Vulnerability 1136 1144	the flaw
+T24	Version 1160 1178	the latest version
+T25	Software 1182 1190	WhatsApp
+T26	System 1194 1201	Android
+T27	System 1206 1209	iOS
+T30	Course-of-Action 1556 1571	security bundle
+T29	Organization 1518 1527	Microsoft
+T42	Time 1503 1516	Earlier today
+T31	Organization 1578 1583	Adobe
+T33	Course-of-Action 1610 1622	patch bundle
+T34	Time 1629 1639	many weeks
+T38	Time 1692 1701	last week
+T36	Organization 1644 1650	Google
+T1	Attack-Pattern 142 156	placing a call
+T39	Vulnerability 461 464	bug
+T43	Person 485 489	user
+T44	Information 511 521	RTP packet
+T45	Packet 602 618	malformed packet
+T46	Person 713 726	WhatsApp user
+T47	Person 766 777	Silvanovich
+T50	Person 845 856	Silvanovich
+T51	Attack-Pattern 900 921	remote code execution
+T52	Purpose 997 1015	draw the attention
+T53	Vulnerability 970 974	flaw
+T55	Organization 1244 1250	Google
+T56	Organization 1254 1262	Facebook
+T57	Organization 1350 1357	PR team
+T58	Time 1371 1376	today
+T59	Course-of-Action 1477 1501	October security patches
+T60	Course-of-Action 13 59	patched a vulnerability in its smartphone code
+T61	Attack-Pattern 670 682	call request
+T54	Person 810 836	Android and iPhone clients
+T18	Vulnerability 1075 1099	the bug has been patched
+T19	Course-of-Action 1122 1144	get a fix for the flaw
+T20	Person 1100 1105	users
+T21	Software 1295 1306	desktop app
+T23	System 1669 1676	Android
+T35	Course-of-Action 1658 1691	posted the Android monthly update
+T64	Vulnerability 790 792	It
+*	Coreference T10 T25 T2
+*	Coreference T26 T23
+*	Coreference T36 T55
+T7	Person 158 210	Google Project Zero whizkid and Tamagotchi whisperer
+T8	Person 211 230	Natalie Silvanovich
+*	Coreference T8 T14 T47 T50
+*	Coreference T16 T39 T6 T9 T64 T53
+T12	Person 1026 1043	Google researcher
+T15	Person 1044 1057	Tavis Ormandy
+*	Coreference T12 T15
+*	Coreference T18 T22

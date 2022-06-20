@@ -1,0 +1,151 @@
+T6	System 836 843	Windows
+T7	Organization 849 858	Microsoft
+T9	Vulnerability 985 991	issues
+T10	Organization 928 937	Microsoft
+T17	Course-of-Action 2312 2328	a software patch
+T16	Time 2293 2298	March
+T23	Organization 2300 2302	it
+T20	Attack-Pattern 2362 2389	exploited by the ransomware
+T22	System 2421 2428	systems
+T21	System 2437 2447	Windows 10
+T25	Organization 2539 2546	company
+T26	Course-of-Action 2574 2590	software updates
+T27	System 2594 2604	Windows XP
+T29	Organization 2753 2762	Microsoft
+T28	Time 2740 2751	Late Friday
+T31	System 2816 2829	older systems
+T33	System 2858 2868	Windows XP
+T35	Course-of-Action 3423 3430	updates
+T36	System 3434 3447	older systems
+T38	Organization 3627 3631	they
+T39	Course-of-Action 3642 3657	emergency patch
+T40	System 3662 3664	XP
+T2	Person 388 395	victims
+T3	Malware 358 365	malware
+T14	Software 1996 2013	Microsoft product
+T13	Vulnerability 1978 1983	Flaws
+T32	Location 0 7	SEATTLE
+T41	Malware 15 33	malicious software
+T42	Domain 72 80	internet
+T43	Time 87 99	15 years ago
+T44	Hacker-Group 156 184	authors of the damaging code
+T45	Organization 190 199	Microsoft
+T46	Person 137 144	villain
+T47	Campaign 210 221	cyberattack
+T48	Organization 263 270	company
+T49	Campaign 306 312	debate
+T1	Attack-Pattern 366 448	demanding ransom from victims in exchange for the unlocking of their digital files
+T50	Money 376 382	ransom
+T51	File 435 448	digital files
+T52	Time 450 459	This time
+T53	Organization 469 478	Microsoft
+T54	Campaign 531 537	attack
+T55	Person 542 549	assault
+T56	Vulnerability 564 569	flaws
+T57	System 577 601	Windows operating system
+T58	Time 606 612	Sunday
+T59	Person 614 624	Brad Smith
+T60	Person 626 671	Microsoft’s president and chief legal officer
+T61	Domain 681 685	blog
+T63	Malware 736 746	ransomware
+T64	Course-of-Action 767 877	an unusual step it took to release a security update for versions of Windows that Microsoft no longer supports
+T4	Version 824 832	versions
+T5	Person 879 888	Mr. Smith
+T11	Organization 902 920	technology company
+T66	Organization 922 924	we
+T8	Person 994 996	He
+T67	Campaign 1036 1042	attack
+T68	Organization 1138 1152	tech companies
+T69	Person 1157 1166	customers
+T70	Course-of-Action 1193 1213	update their systems
+T72	Person 1217 1221	they
+T73	Person 1244 1246	He
+T74	Organization 1274 1295	intelligence services
+T75	Vulnerability 1307 1327	latest vulnerability
+T76	Organization 1366 1390	National Security Agency
+T77	Time 1395 1401	Monday
+T78	Person 1405 1424	Microsoft spokesman
+T80	Organization 1471 1480	Microsoft
+T81	Organization 1533 1535	it
+T82	Time 1548 1552	2002
+T83	Person 1559 1569	Bill Gates
+T84	Person 1571 1597	the former chief executive
+T85	Campaign 1608 1620	call to arms
+T86	Organization 1632 1639	company
+T87	Number 1646 1655	a wave of
+T88	Malware 1656 1674	malicious software
+T89	System 1720 1728	internet
+T90	Device 1691 1702	Windows PCs
+T91	Course-of-Action 1599 1639	issued a call to arms inside the company
+T92	Software 1734 1742	software
+T93	Organization 1828 1835	company
+T94	Person 1873 1882	Mr. Gates
+T95	Email 1895 1900	email
+T96	Person 1904 1913	employees
+T98	Software 2015 2022	service
+T12	Organization 2068 2076	platform
+T99	Software 2081 2089	services
+T101	Organization 2131 2133	us
+T102	Organization 2139 2146	company
+T103	Organization 2165 2172	company
+T104	Money 2184 2203	billions of dollars
+T105	Campaign 2209 2229	security initiatives
+T106	Number 2251 2256	3,500
+T107	Person 2257 2288	engineers dedicated to security
+T15	Course-of-Action 2161 2288	the company has poured billions of dollars into security initiatives, employing more than 3,500 engineers dedicated to security
+T18	Vulnerability 2348 2361	vulnerability
+T19	Malware 2379 2389	ransomware
+T108	Malware 2400 2408	WannaCry
+T109	Course-of-Action 2410 2476	protecting systems such as Windows 10, its latest operating system
+T110	System 2460 2476	operating system
+T111	Vulnerability 2482 2496	security flaws
+T112	Version 2500 2514	older editions
+T113	System 2518 2525	Windows
+T24	Version 2608 2615	version
+T114	Time 2634 2638	2001
+T115	Person 2647 2656	customers
+T116	Person 2699 2708	observers
+T117	Person 2725 2730	users
+T118	Course-of-Action 2763 2874	took the unusual step of making patches that protect older systems against WannaCry, including Windows XP, free
+T30	Malware 2838 2846	WannaCry
+T119	Organization 2877 2886	Companies
+T120	Organization 2892 2901	Microsoft
+T121	Organization 2931 2935	they
+T122	Person 2948 2975	people using older software
+T123	Software 2961 2975	older software
+T124	Person 2978 2992	Zeynep Tufekci
+T125	Person 2997 3101	associate professor at the school of information and library science at the University of North Carolina
+T127	Organization 3114 3128	New York Times
+T128	Time 3152 3159	weekend
+T129	Money 3166 3171	money
+T130	Person 3172 3176	they
+T131	Person 3193 3202	customers
+T132	Course-of-Action 3255 3266	fix defects
+T134	Person 3273 3289	security experts
+T135	Organization 3328 3337	Microsoft
+T136	Course-of-Action 3363 3411	keep updating old software products indefinitely
+T34	Device 3459 3468	computers
+T138	Person 3512 3517	users
+T139	Person 3532 3546	Mikko Hypponen
+T140	Person 3552 3603	chief research officer of F-Secure, a security firm
+T37	Malware 3671 3679	WannaCry
+T141	System 3726 3728	XP
+T142	Person 3736 3748	Mr. Hypponen
+*	Coreference T40 T141
+*	Coreference T31 T36 T110 T27 T113 T33 T21
+*	Coreference T82 T114
+*	Coreference T83 T94 T84
+*	Coreference T92 T123
+*	Coreference T37 T30 T108
+*	Coreference T25 T103 T119 T23 T121 T130 T38
+*	Coreference T8 T5 T59 T60 T73
+*	Coreference T47 T54
+*	Coreference T9 T56
+*	Coreference T6 T57
+*	Coreference T101 T102
+*	Coreference T142 T139 T140 T62
+T62	Person 3707 3709	we
+*	Coreference T124 T125
+*	Coreference T131 T122 T138
+*	Coreference T135 T120 T29 T80 T81 T53 T45 T7 T10 T11
+T65	Software 3381 3398	software products

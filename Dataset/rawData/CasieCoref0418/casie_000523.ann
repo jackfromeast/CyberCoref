@@ -1,0 +1,60 @@
+T2	Vulnerability 50 100	the latest Microsoft Office zero-day vulnerability
+T3	Organization 0 29	Netskope Threat Research Labs
+T6	Vulnerability 296 329	the latest zero-day vulnerability
+T7	Software 333 349	Microsoft Office
+T4	Organization 192 194	we
+T11	Organization 351 360	Microsoft
+T14	Organization 416 442	Netskope Threat Protection
+T15	Vulnerability 474 496	this new vulnerability
+T25	Malware 500 520	Backdoor.Explot.ANWK
+T23	Malware 566 591	Backdoor.Generckd.4818242
+T24	Malware 596 621	Backdoor.Generckd.4818381
+T17	Organization 895 897	We
+T21	Vulnerability 1011 1051	latest Microsoft Office zero-day exploit
+T18	Domain 911 933	domains btt5sxcx90.com
+T19	Domain 935 946	hyoeyeep.ws
+T20	Domain 951 968	rottastics36w.net
+T11	Organization 351 360	Microsoft
+T9	Vulnerability 375 392	the vulnerability
+T10	Time 409 414	today
+T26	Software 61 77	Microsoft Office
+T28	Malware 118 140	Godzilla botnet loader
+T27	Malware 227 249	Godzilla Botnet loader
+T29	Code 258 266	payloads
+T30	Code 283 291	exploits
+T34	Vulnerability 628 641	vulnerability
+T35	Hacker-Group 649 666	a malicious actor
+T36	Attack-Pattern 670 699	execute a Visual Basic script
+T37	Person 710 716	victim
+T38	Code 745 764	an embedded exploit
+T40	Software 1018 1034	Microsoft Office
+T41	Campaign 1093 1110	the spam campaign
+T42	Vulnerability 1115 1123	zero-day
+T43	Hacker-Group 1202 1214	attack group
+T44	Campaign 1231 1238	attacks
+T45	Organization 1240 1248	Netskope
+T46	Person 1260 1265	users
+T47	Course-of-Action 1269 1298	block all the IPs and domains
+T48	Organization 1357 1359	we
+T50	Person 1368 1373	users
+T49	Software 1386 1407	Office Protected View
+T51	Course-of-Action 1422 1438	prevent exposure
+T52	Campaign 1447 1453	attack
+T53	Domain 1337 1341	blog
+T5	Domain 165 169	blog
+T1	IP 208 211	IPs
+T8	Course-of-Action 375 408	the vulnerability will be patched
+T12	Code 526 549	payload for the exploit
+T13	Malware 461 496	exploits for this new vulnerability
+T22	Code 855 894	VBScript code in the malicious document
+T31	File 876 894	malicious document
+T16	Code 982 990	payloads
+T55	Organization 1068 1070	we
+T57	Organization 1177 1179	we
+*	Coreference T23 T24 T12
+*	Coreference T34 T9 T21 T2 T15 T6
+*	Coreference T40 T7 T26
+*	Coreference T28 T27
+*	Coreference T3 T4 T17 T55 T57 T45 T48
+*	Coreference T13 T25
+T32	Code 784 797	VBScript code

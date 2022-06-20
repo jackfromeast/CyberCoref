@@ -1,0 +1,129 @@
+T17	Software 1772 1783	Google Play
+T6	Campaign 492 508	attractive lures
+T5	Software 454 466	Mobile games
+T8	Hacker-Group 513 527	cybercriminals
+T9	Person 535 540	users
+T10	Purpose 544 573	download their malicious apps
+T3	Information 277 300	credit card information
+T1	Attack-Pattern 218 254	released versions of these fake apps
+T4	Hacker-Group 199 208	attackers
+T23	Person 270 274	user
+T13	Software 946 961	Super Mario Run
+T12	Malware 918 927	fake apps
+T21	Attack-Pattern 1838 1854	via social media
+T22	Purpose 1859 1882	lead to a malicious app
+T24	Organization 0 11	Trend Micro
+T25	Malware 32 54	malicious Android apps
+T26	Attack-Pattern 55 114	abusing the name of the popular mobile game Super Mario Run
+T27	Software 87 114	mobile game Super Mario Run
+T28	Organization 116 118	We
+T29	Time 119 127	earlier 
+T30	Malware 146 155	fake apps
+T32	Attack-Pattern 161 197	using the app’s popularity to spread
+T34	Malware 239 254	these fake apps
+T35	Software 302 317	Super Mario Run
+T2	Software 323 334	mobile game
+T36	Organization 340 348	Nintendo
+T37	System 371 374	iOS
+T38	Time 387 401	September 2016
+T39	System 419 426	Android
+T40	Version 427 434	version
+T41	Time 438 452	March 23, 2017
+T42	Malware 559 573	malicious apps
+T43	Malware 578 610	potentially unwanted apps (PUAs)
+T44	Time 628 638	first time
+T45	Software 658 670	popular game
+T46	Software 721 731	Pokémon Go
+T47	Organization 780 806	 Smart Protection Network™
+T48	Number 825 828	400
+T49	Software 838 842	apps
+T50	Time 850 876	first three months in 2017
+T51	Time 884 906	In the same time frame
+T52	Number 915 917	34
+T11	Time 1025 1038	December 2016
+T54	Malware 1089 1117	credit card stealing variant
+T55	Malware 1145 1165	ANDROIDOS_FOBUS.OPSF
+T56	Hacker-Group 1168 1182	Cybercriminals
+T57	Attack-Pattern 1194 1281	take advantage of popular and hotly anticipated titles to push their own malicious apps
+T58	Malware 1267 1281	malicious apps
+T59	Malware 1283 1288	These
+T60	Software 1317 1339	third-party app stores
+T61	Person 1346 1351	users
+T62	Software 1369 1379	app stores
+T63	Version 1392 1413	“unreleased” versions
+T64	Software 1417 1432	legitimate apps
+T65	Software 1447 1451	apps
+T66	Software 1462 1472	These apps
+T67	Person 1527 1537	end users 
+T68	Course-of-Action 1577 1640	users download and install apps only from legitimate app stores
+T69	Person 1577 1582	users
+T70	Software 1604 1608	apps
+T71	Software 1619 1640	legitimate app stores
+T72	Software 1649 1660	Google Play
+T73	Software 1664 1693	trusted third-party app store
+T74	Organization 1553 1555	We
+T14	Hacker-Group 1714 1722	attacker
+T15	Software 1742 1756	fake app store
+T7	Domain 1842 1854	social media
+T16	Malware 1869 1882	malicious app
+T18	Person 1826 1832	friend
+T19	Course-of-Action 1884 1955	Disabling the “Allow installation of apps from unknown sources” setting
+T20	Software 1965 1969	apps
+T75	Software 1921 1925	apps
+T76	Software 2118 2121	app
+T77	Software 2129 2158	trusted third-party app store
+T78	Software 2078 2080	it
+T79	Campaign 2173 2191	malicious behavior
+T80	Attack-Pattern 2200 2354	installing other apps on the user’s device without any user input and consent, or hiding icons and processes, an app needs device administrator privileges
+T81	Malware 2217 2221	apps
+T82	Device 2229 2242	user’s device
+T83	Person 2255 2259	user
+T84	Code 2299 2308	processes
+T85	Software 2313 2316	app
+T86	Device 2323 2343	device administrator
+T87	Software 2356 2371	Legitimate apps
+T88	Person 2394 2399	users
+T89	Software 2432 2435	app
+T90	Person 2445 2449	them
+T91	Attack-Pattern 2432 2449	app asks for them
+T92	Software 2480 2485	games
+T93	Person 2508 2528	device administrator
+T94	Software 2544 2548	game
+T95	Attack-Pattern 2550 2577	asking for these privileges
+T96	Organization 2614 2625	Trend Micro
+T97	Person 2636 2641	Users
+T98	Course-of-Action 2654 2755	install apps from the Google Play or trusted third-party app stores and use mobile security solutions
+T99	Software 2662 2666	apps
+T100	Software 2676 2687	Google Play
+T101	Software 2691 2721	trusted third-party app stores
+T102	Software 2730 2755	mobile security solutions
+T103	Software 2764 2792	Trend Micro™ Mobile Security
+T104	Campaign 2802 2825	threats from app stores
+T105	Malware 2833 2837	they
+T106	Device 2877 2883	device
+T107	Information 2887 2891	data
+T108	Person 2893 2909	Enterprise users
+T109	Course-of-Action 2917 2985	consider a solution like Trend Micro™ Mobile Security for Enterprise
+T111	Campaign 3001 3018	device management
+T112	Campaign 3020 3035	data protection
+T113	Campaign 3037 3059	application management
+T114	Campaign 3061 3082	compliance management
+T115	Campaign 3084 3110	configuration provisioning
+T116	Person 3134 3143	employers
+T117	Course-of-Action 3001 3130	device management, data protection, application management, compliance management, configuration provisioning, and other features
+T118	Information 3156 3163	privacy
+T119	Campaign 3224 3237	BYOD programs
+*	Coreference T25 T42 T58 T59
+*	Coreference T17 T72 T100
+*	Coreference T62 T71 T60 T73 T64 T77 T15
+*	Coreference T86 T93
+*	Coreference T96 T24
+*	Coreference T75 T30 T70 T34 T20
+*	Coreference T35 T2 T27 T13
+*	Coreference T54 T55 T31
+T31	Malware 1125 1130	Fobus
+*	Coreference T67 T61
+*	Coreference T88 T90
+T33	Course-of-Action 2987 2991	This
+*	Coreference T33 T109
+*	Coreference T78 T76

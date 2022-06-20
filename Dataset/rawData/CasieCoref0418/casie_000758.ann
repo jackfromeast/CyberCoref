@@ -1,0 +1,62 @@
+T28	Course-of-Action 1037 1040	fix
+T29	Vulnerability 1045 1058	vulnerability
+T23	Course-of-Action 1065 1072	patched
+T24	Device 1073 1080	servers
+T30	Software 1060 1064	Zoom
+T26	Version 1094 1106	new versions
+T27	Software 1114 1122	software
+T1	Course-of-Action 42 45	fix
+T4	Course-of-Action 23 38	software update
+T2	Vulnerability 46 60	security flaws
+T3	Organization 0 7	Tenable
+T5	Time 80 89	this week
+T15	Software 361 373	the software
+T14	Software 340 344	Zoom
+T9	Organization 115 151	Columbia-based cybersecurity company
+T10	Vulnerability 163 178	a vulnerability
+T11	System 189 210	conferencing platform
+T12	Attack-Pattern 241 282	take control of a user’s desktop remotely
+T8	Organization 95 107	research arm
+T32	Software 182 186	Zoom
+T16	Vulnerability 401 414	security flaw
+T17	Attack-Pattern 477 503	Hijack control of a screen
+T31	Attack-Pattern 522 550	download and execute malware
+T18	Attack-Pattern 556 611	Impersonate others in the meeting through chat messages
+T19	Attack-Pattern 617 656	Kick out other attendees of the meeting
+T21	Person 730 751	Tenable’s David Wells
+T22	Vulnerability 698 711	vulnerability
+T37	System 937 960	Wide Area Network (WAN)
+T35	Vulnerability 894 907	vulnerability
+T6	Attack-Pattern 228 237	attackers
+T7	Course-of-Action 353 360	updated
+T13	Organization 388 395	Tenable
+T34	Hacker-Group 442 451	attackers
+T38	Organization 679 686	company
+T20	Device 841 853	Zoom servers
+T25	Course-of-Action 1155 1190	ensure their software is up-to-date
+T33	Organization 1128 1135	company
+T36	Vulnerability 1197 1210	vulnerability
+T39	Software 1317 1321	Zoom
+T40	Person 1324 1351	Tenable CTO Renaud Deraison
+T41	Hacker-Group 514 518	them
+*	Coreference T28 T1
+*	Coreference T23 T7
+*	Coreference T24 T20
+*	Coreference T3 T13 T9 T42 T38 T43
+*	Coreference T30 T14 T32 T39 T27 T15 T48 T50 T52
+*	Coreference T10 T22 T35 T36 T29 T2 T16 T44 T47 T53
+*	Coreference T6 T34 T41
+T42	Organization 322 329	Tenable
+T43	Organization 730 737	Tenable
+T44	Vulnerability 754 758	This
+T45	Domain 660 669	blog post
+T46	Domain 860 869	blog post
+*	Coreference T46 T45
+T47	Vulnerability 966 979	vulnerability
+T48	Software 1020 1024	Zoom
+T49	Organization 1001 1010	companies
+*	Coreference T49 T33
+T50	Software 1168 1176	software
+T51	Campaign 1241 1253	cyber attack
+T52	Software 1302 1310	services
+T53	Vulnerability 1218 1233	perfect example

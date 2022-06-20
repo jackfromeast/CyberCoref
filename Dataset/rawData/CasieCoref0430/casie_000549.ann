@@ -1,0 +1,109 @@
+T2	Vulnerability 86 115	a new zero-day code injection
+T5	Vulnerability 120 141	persistence technique
+T20	Software 616 628	applications
+T8	Vulnerability 1741 1758	the vulnerability
+T9	Person 1599 1614	The researchers
+T12	Vulnerability 2322 2336	injecting code
+T11	Hacker-Group 2275 2286	an attacker
+T13	Vulnerability 2293 2317	a new zero-day technique
+T15	Course-of-Action 2915 2922	the fix
+T16	Person 2900 2902	We
+T21	Campaign 244 255	 the attack
+T22	Course-of-Action 259 278	antivirus solutions
+T23	Campaign 305 316	DoubleAgent
+T24	Course-of-Action 329 358	 the antivirus security agent
+T25	Malware 363 381	 a malicious agent
+T1	Hacker-Group 162 171	attackers
+T4	Attack-Pattern 175 225	take over applications and entire Windows machines
+T26	Software 185 197	applications
+T27	Device 209 225	Windows machines
+T28	Course-of-Action 442 472	Microsoft Application Verifier
+T29	System 426 433	Windows
+T30	Software 482 489	 a tool
+T31	Person 0 71	Security researchers from computer and network security outfit Cybellum
+T3	Campaign 384 395	DoubleAgent
+T32	System 502 535	all versions of Microsoft Windows
+T33	Course-of-Action 502 514	all versions
+T34	Software 550 578	 a runtime verification tool
+T17	Course-of-Action 591 628	discover and fix bugs in applications
+T18	Organization 630 642	 the company
+T35	Person 659 670	researchers
+T36	Software 709 729	Application Verifier
+T37	Hacker-Group 740 752	 an attacker
+T38	Software 811 826	custom verifier
+T39	Software 775 797	 the standard verifier
+T40	Hacker-Group 827 839	 An attacker
+T41	Attack-Pattern 873 918	inject a custom verifier into any application
+T42	Software 907 918	application
+T43	Software 924 944	 the custom verifier
+T44	Hacker-Group 963 976	 the attacker
+T45	Attack-Pattern 985 1018	full control over the application
+T46	Software 1002 1018	 the application
+T47	Campaign 1029 1040	 the attack
+T48	Software 1067 1092	all kinds of applications
+T49	Person 1097 1113	 the researchers
+T50	Course-of-Action 1132 1151	antivirus solutions
+T51	Software 1171 1179	software
+T52	Campaign 1229 1240	DoubleAgent
+T53	Hacker-Group 1241 1254	 the attacker
+T54	Attack-Pattern 1259 1357	take full control over the antivirus and do as he wish without the fear of being caught or blocked
+T55	Course-of-Action 1281 1295	 the antivirus
+T56	Person 1387 1407	Cybellum researchers
+T57	Attack-Pattern 1420 1449	 a DoubleAgent code injection
+T58	Course-of-Action 1458 1483	Symantec Norton antivirus
+T59	Code 1497 1513	PoC exploit code
+T60	Domain 1517 1523	GitHub
+T61	Information 1530 1547	technical details
+T62	Attack-Pattern 1553 1579	 the DoubleAgent technique
+T63	Course-of-Action 1629 1652	major antivirus vendors
+T7	Course-of-Action 1722 1758	issued a patch for the vulnerability
+T6	Course-of-Action 1690 1702	Malwarebytes
+T64	Software 1776 1801	vulnerable antivirus apps
+T65	Organization 1815 1820	Avast
+T66	Organization 1822 1833	BitDefender
+T67	Organization 1835 1839	ESET
+T68	Organization 1841 1850	Kaspersky
+T69	Organization 1856 1864	F-Secure
+T70	Organization 1867 1876	Microsoft
+T71	Software 1940 1959	Protected Processes
+T72	Course-of-Action 1896 1932	design concept for antivirus vendors
+T73	Course-of-Action 2003 2021	antivirus services
+T74	Course-of-Action 2023 2042	Antivirus processes
+T75	Software 2062 2081	Protected Processes
+T76	Software 2086 2123	 the protected process infrastructure
+T77	Course-of-Action 2173 2220	built-in defense against code injection attacks
+T78	Course-of-Action 2145 2164	signed code to load
+T79	Code 2152 2156	code
+T80	Campaign 2198 2220	code injection attacks
+T81	Person 2222 2238	 the researchers
+T14	Software 2439 2455	Windows Defender
+T82	Organization 2498 2507	Microsoft
+T83	Time 2535 2556	more than 3 years ago
+T84	Vulnerability 2558 2576	 The vulnerability
+T85	Campaign 2588 2611	 the DoubleAgent attack
+T86	Version 2621 2669	all Microsoft Windows versions and architectures
+T87	Attack-Pattern 2670 2691	 The attack technique
+T88	Software 2721 2732	application
+T89	System 2742 2749	 the OS
+T90	Course-of-Action 2784 2816	detect and prevent these attacks
+T91	Campaign 2802 2816	 these attacks
+T92	Course-of-Action 2822 2874	stop blindly trusting traditional security solutions
+T93	Person 2876 2892	 the researchers
+T94	Software 2983 3015	 the Avast and AVG 2017 products
+T95	Time 3034 3043	this year
+T96	Campaign 3150 3161	 the attack
+T97	Hacker-Group 3185 3192	hackers
+T98	Vulnerability 2338 2340	it
+T99	Person 1360 1364	they
+T101	Campaign 302 304	it
+T102	Campaign 321 323	it
+T103	Person 1684 1688	them
+T104	Person 227 231	They
+T100	Software 404 422	 a legitimate tool
+*	Coreference T2 T13 T98 T84
+*	Coreference T70 T82
+*	Coreference T9 T103 T81 T56
+*	Coreference T104 T31 T99
+*	Coreference T28 T30 T100 T34
+*	Coreference T71 T75
+*	Coreference T96 T85 T101 T21 T23 T102 T3 T47 T52

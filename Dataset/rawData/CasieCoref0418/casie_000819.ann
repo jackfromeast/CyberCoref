@@ -1,0 +1,46 @@
+T10	Information 262 271	addresses
+T9	Information 238 257	their phone numbers
+T11	Information 215 226	information
+T12	Person 189 194	women
+T7	Person 300 319	the member of staff
+T4	Information 74 96	their personal details
+T2	Person 109 126	a member of staff
+T3	Organization 130 149	Crosshouse Hospital
+T5	Person 56 64	patients
+T13	Campaign 411 417	breach
+T16	Information 435 446	information
+T14	System 455 487	the Radiology Information System
+T15	Person 492 500	patients
+T17	Campaign 619 625	breach
+T18	Time 643 683	between April and September of this year
+T23	Person 557 574	A member of staff
+T20	Person 801 818	a member of staff
+T22	Information 845 860	patient records
+T1	Organization 1225 1258	Information Commissioner’s Office
+T8	Person 704 720	Medical Director
+T19	Person 686 702	Dr Alison Graham
+T24	Organization 1072 1074	We
+T25	Organization 912 914	We
+T26	Organization 1023 1025	We
+T27	Organization 1304 1306	we
+T28	Organization 1173 1175	We
+*	Coreference T11 T16 T4 T22
+*	Coreference T13 T17 T34 T37
+T21	Person 74 79	their
+T29	Person 157 165	affected
+T30	Person 238 243	their
+*	Coreference T12 T30 T5 T15 T21 T29 T31 T35 T36
+*	Coreference T2 T7 T20
+T31	Person 333 338	their
+*	Coreference T19 T8
+T32	Organization 729 749	NHS Ayrshire & Arran
+T33	Organization 757 777	NHS Ayrshire & Arran
+*	Coreference T32 T33 T25 T26 T24 T28 T27
+T34	Campaign 1015 1021	breach
+T35	Person 974 982	patients
+T36	Person 1047 1053	anyone
+T37	Campaign 1066 1070	this
+T38	Campaign 1289 1302	investigation
+T39	Campaign 1343 1350	details
+*	Coreference T38 T39
+T6	Organization 1201 1216	Police Scotland

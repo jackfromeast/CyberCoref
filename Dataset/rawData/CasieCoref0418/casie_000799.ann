@@ -1,0 +1,51 @@
+T22	System 1391 1396	Linux
+T23	Course-of-Action 1435 1451	the patched code
+T24	Organization 1358 1364	Debian
+T35	Course-of-Action 1477 1484	upgrade
+T32	Campaign 62 69	exploit
+T34	Version 2 13	new version
+T33	System 17 20	Git
+T31	Vulnerability 72 120	potential arbitrary code execution vulnerability
+T1	Campaign 223 231	reported
+T2	Person 235 251	Etienne Stalmans
+T3	Vulnerability 207 221	CVE-2018-11235
+T4	Vulnerability 188 205	The security hole
+T29	Vulnerability 266 270	flaw
+T30	System 274 277	Git
+T7	Campaign 616 625	describes
+T10	System 674 692	NTFS-based systems
+T9	Software 667 670	Git
+T8	Vulnerability 626 632	a flaw
+T6	Vulnerability 600 614	CVE-2018-11233
+T5	Vulnerability 577 598	Another vulnerability
+T36	Vulnerability 1533 1546	vulnerability
+T11	Campaign 855 867	is available
+T12	Course-of-Action 847 854	a patch
+T14	Campaign 882 890	released
+T15	Course-of-Action 891 901	the update
+T13	Person 869 881	The Git team
+T25	Version 991 1006	versions 2.14.4
+T26	Version 1008 1014	2.15.2
+T28	Version 1027 1033	2.13.7
+T27	Version 1016 1022	2.16.4
+T16	Version 905 911	2.13.7
+T20	System 1306 1333	Visual Studio 2017 platform
+T17	Course-of-Action 1253 1261	a hotfix
+T18	Organization 1216 1234	The software giant
+T38	Version 1087 1097	2.17.1 (2)
+T19	Course-of-Action 1376 1384	updating
+T21	Person 1181 1214	Visual Studio Team Services users
+T37	System 1109 1116	Windows
+T39	Software 1401 1423	software distributions
+T40	Organization 1049 1058	Microsoft
+T41	Software 985 987	it
+*	Coreference T23 T15
+*	Coreference T9 T30 T33 T41 T43
+*	Coreference T5 T6 T8 T42
+*	Coreference T4 T3 T29 T31
+T42	Vulnerability 776 789	vulnerability
+T43	Software 1101 1104	Git
+*	Coreference T18 T40
+T44	File 166 186	malicious repository
+T45	File 1137 1159	malicious repositories
+*	Coreference T45 T44

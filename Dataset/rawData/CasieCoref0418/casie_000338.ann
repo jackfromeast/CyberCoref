@@ -1,0 +1,77 @@
+T7	Time 186 197	a few weeks
+T10	Person 265 281	security experts
+T11	Organization 285 298	Kaspersky Lab
+T9	Time 241 248	a month
+T13	Vulnerability 203 209	threat
+T18	Organization 363 376	Kaspersky Lab
+T17	Vulnerability 386 393	exploit
+T21	Vulnerability 548 561	vulnerability
+T22	Organization 583 592	Microsoft
+T23	Vulnerability 596 609	CVE-2018-8589
+T24	System 642 651	Windows 7
+T25	Attack-Pattern 689 771	gain "elevated privileges" and create exploits to gain access to a victim's system
+T27	Purpose 776 794	run malicious code
+T41	Version 624 638	32-bit version
+T34	Organization 921 940	the computing giant
+T35	Vulnerability 954 975	Windows vulnerability
+T32	Organization 834 847	Kaspersky Lab
+T31	Time 816 833	a few weeks after
+T29	Vulnerability 859 882	similar zero-day threat
+T30	System 898 904	system
+T42	Organization 886 895	Microsoft
+T38	Vulnerability 1235 1245	their kind
+T36	Organization 1214 1216	we
+T39	Time 1205 1212	a month
+T2	Attack-Pattern 34 78	allowed attackers to hijack a Windows system
+T3	Vulnerability 0 22	Zero-day vulnerability
+T4	Organization 80 89	Microsoft
+T5	Vulnerability 102 132	a major zero-day vulnerability
+T6	System 136 143	Windows
+T12	Course-of-Action 303 361	fixed as part of Microsoft's monthly Patch Tuesday release
+T43	Organization 320 329	Microsoft
+T46	Hacker-Group 42 51	attackers
+T47	System 64 78	Windows system
+T1	Course-of-Action 94 144	patched a major zero-day vulnerability in Windows,
+T44	Vulnerability 161 168	exploit
+T8	Time 346 353	Tuesday
+T14	Number 424 435	a number of
+T19	Campaign 436 448	cyberattacks
+T45	Location 456 467	Middle East
+T15	Organization 493 500	company
+T16	Course-of-Action 503 542	Automatic Exploit Prevention technology
+T20	Hacker-Group 676 685	attackers
+T48	Vulnerability 727 735	exploits
+T49	Code 780 794	malicious code
+T26	Person 756 762	victim
+T50	System 765 771	system
+T28	System 954 961	Windows
+T33	Hacker-Group 1002 1036	state-backed cyber-espionage group
+T51	Hacker-Group 1046 1057	FruityArmor
+T52	Time 1060 1071	Autumn 2018
+T53	Vulnerability 1115 1139	zero-day vulnerabilities
+T54	Person 1147 1159	Anton Ivanov
+T56	Organization 1180 1193	Kaspersky Lab
+T37	Number 1228 1231	two
+T40	Number 1259 1262	two
+T57	Campaign 1273 1280	attacks
+T59	Organization 1391 1400	companies
+T60	System 1433 1462	necessary tools and solutions
+T61	Organization 1508 1512	them
+T62	Course-of-Action 1404 1462	have in their possession all necessary tools and solutions
+T63	Organization 1557 1561	they
+T64	Campaign 1605 1612	attacks
+T68	Organization 1350 1352	us
+T69	Pronoun 1103 1105	it
+*	Coreference T7 T31
+*	Coreference T30 T50
+*	Coreference T22 T4 T43 T42
+*	Coreference T47 T28 T24 T6
+*	Coreference T44 T17 T48 T5 T35 T53 T3 T21 T29 T13 T23
+*	Coreference T61 T63
+*	Coreference T18 T11 T32
+*	Coreference T33 T51
+T55	Person 1161 1176	Security Expert
+*	Coreference T54 T55
+T71	Campaign 1312 1342	cyberthreat actors’ activities
+*	Coreference T71 T57
+*	Coreference T68 T36 T56

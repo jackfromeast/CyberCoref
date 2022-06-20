@@ -1,0 +1,65 @@
+T22	Person 632 650	CRITIFENCE experts
+T23	Person 665 669	they
+T19	Vulnerability 681 691	two issues
+T20	Protocol 695 722	the Modicon Modbus protocol
+T21	System 731 767	PLC (Programmable Logic Controllers)
+T3	Person 917 935	CRITIFENCE experts
+T5	Vulnerability 1005 1019	the two issues
+T6	Vulnerability 1021 1034	CVE-2017-6032
+T7	Vulnerability 1039 1052	CVE-2017-6034
+T10	Organization 1295 1305	CRITIFENCE
+T9	Vulnerability 1272 1294	the two security flaws
+T16	Organization 1380 1394	the PLC vendor
+T15	System 1401 1409	products
+T13	Organization 1360 1378	Schneider Electric
+T24	Organization 39 55	Security Affairs
+T25	File 24 35	 an article
+T26	Malware 64 86	ClearEnergy ransomware
+T27	Purpose 94 193	destroy process automation logics in critical infrastructure, SCADA and industrial control systems,
+T28	System 166 192	industrial control systems
+T29	System 156 161	SCADA
+T30	Person 195 215	security researchers
+T31	Organization 236 249	 the company 
+T32	Campaign 284 302	real world attacks
+T33	Organization 303 315	 the company
+T34	Domain 221 228	Twitter
+T35	Organization 376 380	they
+T36	Person 258 262	they
+T37	Organization 417 429	 the company
+T38	Malware 493 523	 a proof-of-concept ransomware
+T39	Information 554 561	details
+T40	Time 562 582	in the upcoming days
+T8	Time 619 630	a day later
+T11	Device 769 778	equipment
+T14	Device 802 823	industrial facilities
+T17	Device 868 895	automate sensors and motors
+T4	Malware 961 991	 a proof-of-concept ransomware
+T18	System 1063 1069	 a PLC
+T2	Information 1079 1092	logic diagram
+T41	Time 1120 1128	due time
+T42	System 1148 1156	 the PLC
+T43	Software 1159 1167	software
+T44	Organization 1243 1247	they
+T45	Organization 1193 1203	CRITIFENCE
+T46	File 1221 1242	 the technical report
+T47	Time 1424 1441	Earlier this year
+T48	Person 1443 1454	researchers
+T49	Organization 1459 1501	 the Georgia Institute of Technology (GIT)
+T50	Malware 1514 1544	 a proof-of-concept ransomware
+T51	Malware 1558 1569	LogicLocker
+T52	System 1585 1620	programmable logic controller (PLC)
+T53	Information 1621 1631	parameters
+T54	Attack-Pattern 1579 1631	alter programmable logic controller (PLC) parameters
+T55	Attack-Pattern 1001 1093	use the two issues (CVE-2017-6032 and CVE-2017-6034) to delete a PLC's ladder logic diagram,
+T1	Organization 459 463	they
+T56	Malware 482 484	it
+T57	Attack-Pattern 1142 1167	wiping the PLC's software
+T12	Course-of-Action 1346 1354	 a patch
+*	Coreference T22 T3 T23
+*	Coreference T5 T19 T9
+*	Coreference T37 T31 T33 T1
+*	Coreference T38 T56
+*	Coreference T18 T42 T52 T21
+*	Coreference T10 T44 T45
+*	Coreference T30 T36 T35
+*	Coreference T50 T51

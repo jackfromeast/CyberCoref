@@ -1,0 +1,62 @@
+T7	Attack-Pattern 221 265	allowed a user to bypass a device's passcode
+T4	Vulnerability 185 204	two vulnerabilities
+T2	Version 115 121	12.0.1
+T5	Course-of-Action 150 161	the release
+T6	System 165 171	iOS 12
+T12	Attack-Pattern 535 578	stop charging when their screens turned off
+T11	Vulnerability 498 503	a bug
+T9	Organization 485 487	it
+T8	Organization 469 474	Apple
+T23	Device 515 531	 the new iPhones
+T15	Vulnerability 709 733	a number of smaller bugs
+T14	Organization 687 698	The company
+T19	Course-of-Action 1194 1204	The update
+T18	Time 1238 1241	now
+T21	Vulnerability 1363 1374	these flaws
+T22	Device 6 12	iPhone
+T26	System 23 26	iOS
+T27	Number 41 52	a number of
+T28	Vulnerability 53 57	bugs
+T29	Vulnerability 63 77	security flaws
+T30	Person 95 109	early adopters
+T24	Course-of-Action 123 143	Apple's first update
+T1	Organization 123 128	Apple
+T3	Course-of-Action 177 204	patched two vulnerabilities
+T31	Person 228 235	 a user
+T33	Software 313 317	Siri
+T34	Person 363 384	 the phone's contacts
+T35	File 450 460	 the video
+T10	Course-of-Action 492 503	fixed a bug
+T36	Vulnerability 591 600	 an issue
+T37	Domain 650 665	multiple forums
+T38	Domain 670 684	message boards
+T13	Course-of-Action 703 733	fixed a number of smaller bugs
+T39	Vulnerability 742 748	 A bug
+T40	System 793 809	2.4-GHz networks
+T41	System 822 836	5 GHz networks
+T42	Vulnerability 837 843	 a bug
+T43	Device 866 875	Bluetooth
+T44	Vulnerability 902 908	 a bug
+T45	Software 955 965	video apps
+T46	Person 981 991	iPad users
+T47	System 1041 1061	 the original iOS 12
+T48	Version 1059 1061	12
+T49	Person 1125 1128	You
+T20	Person 1228 1237	all users
+T50	Person 1246 1249	you
+T51	Person 1288 1290	we
+T52	Person 1301 1304	you
+T17	Course-of-Action 1305 1333	update to the new patch ASAP
+T16	Hacker-Group 1397 1404	hackers
+T53	Device 1414 1425	 your phone
+T54	Vulnerability 626 628	it
+T58	Person 1337 1340	you
+T61	Person 386 389	You
+T32	Hacker-Group 267 281	Spanish hacker
+T62	Hacker-Group 282 296	Jose Rodriguez
+T59	System 111 121	iOS 12.0.1
+*	Coreference T8 T1 T9 T14
+*	Coreference T32 T62
+*	Coreference T36 T11 T54
+*	Coreference T59 T6 T47
+*	Coreference T29 T21

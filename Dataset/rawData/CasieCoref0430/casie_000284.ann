@@ -1,0 +1,89 @@
+T16	Person 1093 1115	Candace Steele Flippin
+T13	Device 1019 1036	implanted devices
+T2	Vulnerability 75 90	vulnerabilities
+T4	Attack-Pattern 102 135	allow a hacker to access a device
+T5	Device 42 69	implantable cardiac devices
+T3	Organization 24 39	St.Jude Medical
+T25	Vulnerability 1921 1940	the larger problems
+T24	Code 1969 1985	a universal code
+T20	Attack-Pattern 1997 2034	allow hackers to control the implants
+T15	Course-of-Action 1868 1887	the announced fixes
+T8	Course-of-Action 420 423	fix
+T9	Vulnerability 424 443	the vulnerabilities
+T22	Device 494 501	devices
+T10	Time 512 518	Monday
+T28	Course-of-Action 449 451	it
+T11	Organization 377 385	St. Jude
+T19	Vulnerability 146 150	they
+T23	Organization 218 226	 the FDA
+T30	Time 235 241	Monday
+T31	Device 242 254	 The devices
+T32	Device 261 271	pacemakers
+T33	Device 276 290	defibrillators
+T34	Person 324 332	patients
+T35	Purpose 157 217	deplete the battery or administer incorrect pacing or shocks
+T36	Device 541 569	 the Merlin@home Transmitter
+T37	System 605 628	 the Merlin.net network
+T38	Organization 629 637	 The FDA
+T39	Person 643 651	patients
+T40	Device 671 683	 the devices
+T41	Course-of-Action 530 540	 the patch
+T42	Vulnerability 727 747	 the vulnerabilities
+T43	Person 692 700	patients
+T44	Organization 749 774	Abbott Laboratories (ABT)
+T45	Organization 800 808	St. Jude
+T46	Money 825 836	$25 billion
+T47	Organization 843 845	it
+T48	Organization 861 869	 the FDA
+T49	Organization 874 877	DHS
+T50	Course-of-Action 881 936	update and improve the security of the affected devices
+T52	Organization 1148 1156	CNNMoney
+T53	Email 1159 1168	 an email
+T54	Organization 1174 1176	we
+T55	Organization 1202 1204	we
+T57	System 1305 1312	systems
+T58	Organization 1314 1322	 The FDA
+T59	Hacker-Group 1328 1335	hackers
+T60	Device 1349 1358	 a device
+T61	Attack-Pattern 1362 1387	accessing its transmitter
+T62	Time 1389 1403	In August 2016
+T64	Person 1426 1438	Carson Block
+T65	Campaign 1448 1457	 a report
+T68	Person 1511 1513	he
+T69	Organization 1538 1546	St. Jude
+T70	Time 1593 1605	in September
+T72	Organization 1634 1642	the firm
+T73	Person 1660 1665	Block
+T74	Organization 1706 1714	the firm
+T75	Time 1671 1677	Monday
+T76	Organization 1786 1794	St. Jude
+T77	Vulnerability 1820 1840	 the vulnerabilities
+T78	Person 1843 1848	Block
+T79	Organization 2057 2065	St. Jude
+T80	Vulnerability 2068 2083	vulnerabilities
+T81	Device 2114 2140	internet-connected devices
+T82	Time 2165 2176	In December
+T83	Organization 2177 2185	 the FDA
+T84	Organization 2209 2222	manufacturers
+T26	Organization 4 7	FDA
+T7	Course-of-Action 399 416	 a software patch
+T86	Organization 1766 1768	we
+T87	Organization 1728 1730	It
+T1	Vulnerability 1065 1090	potential vulnerabilities
+T6	Person 1117 1141	a spokeswoman for Abbott
+T12	Vulnerability 1263 1288	potential vulnerabilities
+T14	Person 1405 1425	Muddy Waters founder
+T17	Device 1467 1485	St. Jude's devices
+T18	Person 1607 1609	it
+T21	Organization 1405 1417	Muddy Waters
+*	Coreference T10 T75 T30
+*	Coreference T72 T74 T21 T87
+*	Coreference T28 T7
+*	Coreference T23 T26 T58 T48 T38 T83
+*	Coreference T19 T2
+*	Coreference T11 T3 T45 T76 T69 T79 T18
+*	Coreference T44 T47
+*	Coreference T6 T16
+*	Coreference T55 T54
+*	Coreference T14 T64 T68 T73 T78
+*	Coreference T80 T77 T1 T12

@@ -1,0 +1,65 @@
+T9	Information 1222 1229	records
+T11	Organization 1153 1163	healthcare
+T12	Time 1137 1141	2015
+T2	Purpose 362 375	obtain access
+T3	Information 418 459	personally identifiable information (PII)
+T1	Information 379 413	protected health information (PHI)
+T7	Organization 316 345	medical and dental facilities
+T5	Hacker-Group 273 282	attackers
+T6	System 297 312	the FTP servers
+T4	Purpose 475 485	intimidate
+T14	Purpose 487 496	blackmail
+T15	Purpose 501 507	harass
+T13	Campaign 1420 1433	data breaches
+T10	Organization 31 62	Federal Bureau of Investigation
+T16	Organization 64 67	FBI
+T17	Organization 101 120	healthcare industry
+T18	Hacker-Group 126 142	malicious actors
+T19	Protocol 166 188	File Transfer Protocol
+T20	Protocol 190 193	FTP
+T21	Device 195 202	servers
+T22	Purpose 214 230	anonymous access
+T23	Organization 249 271	law enforcement agency
+T24	Organization 545 583	medical and dental healthcare entities
+T25	Course-of-Action 634 690	check networks for FTP servers running in anonymous mode
+T26	Organization 530 533	FBI
+T27	Device 744 754	FTP server
+T28	Device 845 851	server
+T29	Organization 1019 1022	FBI
+T30	Organization 858 861	FBI
+T31	Information 983 991	password
+T32	Information 998 1006	password
+T33	Information 922 930	username
+T34	Person 888 893	users
+T35	Device 874 881	servers
+T36	Malware 1091 1106	malicious tools
+T37	Campaign 1120 1132	cyberattacks
+T38	Device 1051 1062	FTP servers
+T39	Number 1200 1221	more than 100 million
+T8	Time 1338 1342	2016
+T40	Money 1453 1499	operational, reputational and financial damage
+T41	Organization 1503 1527	healthcare organizations
+T43	Time 1630 1650	last quarter of 2016
+T44	Malware 1662 1669	malware
+T45	Malware 1671 1681	ransomware
+T46	Campaign 1683 1693	IPS events
+T47	Campaign 1695 1719	exploit kits and botnets
+T48	Organization 1300 1302	it
+T49	Information 469 471	it
+*	Coreference T2 T22
+*	Coreference T7 T24
+*	Coreference T18 T36 T5
+*	Coreference T16 T30 T29 T26 T10 T23
+*	Coreference T31 T32
+*	Coreference T20 T19
+*	Coreference T35 T38 T21 T6 T50
+*	Coreference T28 T27
+T50	Device 653 664	FTP servers
+*	Coreference T17 T11 T51 T48 T41 T42
+T51	Organization 1167 1193	the most attacked industry
+T52	Organization 1323 1326	IBM
+T53	Organization 1143 1146	IBM
+*	Coreference T52 T53
+*	Coreference T37 T13
+T54	Organization 1560 1568	Fortinet
+T42	Organization 1602 1622	healthcare companies

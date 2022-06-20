@@ -1,0 +1,79 @@
+T2	Organization 319 327	The town
+T18	Campaign 142 155	a cyberattack
+T21	Organization 112 120	the town
+T26	Attack-Pattern 211 235	infected with ransomware
+T6	System 1187 1197	the system
+T4	Information 1158 1169	information
+T9	Organization 1399 1407	The town
+T10	Time 1305 1315	late April
+T11	Organization 1317 1329	Wasaga Beach
+T12	System 1334 1356	their computer systems
+T13	Attack-Pattern 1357 1379	hacked and locked down
+T14	Time 1384 1397	several weeks
+T15	Hacker-Group 1424 1435	the hackers
+T16	Money 1436 1450	three Bitcoins
+T17	Money 1472 1479	$34,000
+T3	System 0 38	The Town of Midland’s computer systems
+T24	Time 60 72	long weekend
+T22	Time 77 110	the early morning hours of Sept 1
+T25	Organization 132 138	victim
+T23	System 169 183	town’s network
+T19	Attack-Pattern 184 206	was illegally accessed
+T20	Malware 241 248	malware
+T27	Attack-Pattern 261 318	encrypt a number of town systems rendering them unusable.
+T28	System 281 293	town systems
+T29	System 368 372	them
+T1	Person 374 384	Town staff
+T30	System 411 423	the attacked
+T31	Course-of-Action 428 467	activate a cyber incident investigation
+T32	Course-of-Action 403 423	isolate the attacked
+T33	Person 482 492	town staff
+T34	Course-of-Action 533 571	restore access to the system and files
+T35	System 555 561	system
+T36	File 566 571	files
+T37	Course-of-Action 579 614	try and return operations to normal
+T38	Person 640 649	Residents
+T39	Time 1947 1972	At the time of the attack
+T40	Campaign 1966 1972	attack
+T41	System 2119 2126	systems
+T42	Person 2268 2289	cybersecurity experts
+T43	Vulnerability 691 697	matter
+T45	Person 772 793	cybersecurity experts
+T46	Person 744 746	We
+T47	Campaign 813 843	these types of illegal attacks
+T48	Organization 906 953	Information and Privacy Commissioner of Ontario
+T49	Organization 882 897	law enforcement
+T50	Campaign 870 878	incident
+T53	System 1049 1056	systems
+T51	Organization 980 1020	fire and water and wastewater management
+T52	Organization 956 970	Vital services
+T5	Person 1230 1251	cybersecurity experts
+T7	Money 1496 1501	costs
+T8	Money 1596 1604	$250,000
+T55	Money 1534 1566	new hardware and consultant fees
+T54	Money 1512 1532	loss of productivity
+T57	Course-of-Action 1833 1874	strategy to address cybersecurity threats
+T56	Organization 1905 1909	town
+T58	Campaign 1702 1733	the cyberattack in Wasaga Beach
+T59	Location 1721 1733	Wasaga Beach
+T60	Location 1735 1742	Midland
+T61	Course-of-Action 1747 1829	secured an insurance policy for protection in the event of such illegal activities
+T62	Campaign 1811 1829	illegal activities
+T64	System 304 308	them
+T65	Person 2147 2149	we
+T66	Person 849 851	we
+T67	Person 672 674	we
+*	Coreference T11 T59
+*	Coreference T1 T33
+*	Coreference T25 T21
+T68	Malware 225 235	ransomware
+*	Coreference T20 T68
+*	Coreference T28 T64 T29
+T44	Person 725 730	Mayor
+T63	Person 731 741	Gord McKay
+*	Coreference T44 T63
+*	Coreference T66 T46
+*	Coreference T50 T18
+*	Coreference T17 T16
+*	Coreference T8 T7
+*	Coreference T40 T58

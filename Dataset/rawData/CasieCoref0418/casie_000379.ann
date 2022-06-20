@@ -1,0 +1,48 @@
+T4	Information 568 579	staff names
+T2	Email 517 537	spear-phishing email
+T6	Money 1094 1101	0.3 BTC
+T8	Organization 0 24	Forcepoint security labs
+T9	Malware 50 60	ransomware
+T10	Time 87 101	September 2016
+T11	Malware 102 106	that
+T12	Organization 115 139	healthcare organisations
+T13	Malware 142 154	Philadelphia
+T14	Version 174 185	new version
+T15	Malware 190 198	Stampedo
+T16	Campaign 258 285	widening targeting campaign
+T17	Location 297 317	beyond US perimeters
+T18	Money 333 354	a few hundred dollars
+T19	Domain 371 378	YouTube
+T20	Malware 380 382	it
+T21	Hacker-Group 389 408	have-a-go criminals
+T22	Malware 433 438	tools
+T23	Campaign 455 486	targeted and convincing attacks
+T3	Campaign 492 498	attack
+T1	Information 549 563	tailored logos
+T7	Campaign 595 604	deception
+T24	Malware 625 632	variant
+T26	System 668 684	operating system
+T27	Information 686 694	username
+T25	Location 696 703	country
+T28	Code 708 719	system code
+T30	Attack-Pattern 633 821	communicates information including operating system, username, country and system code back to its command and control and generates a victim ID, bitcoin wallet ID and bitcoin ransom price
+T33	Person 823 835	Carl Leonard
+T34	Person 837 877	principal security analyst at Forcepoint
+T35	Organization 938 940	we
+T36	Malware 952 964	Philadelphia
+T37	Malware 985 1010	poorly written ransomware
+T5	Money 1069 1075	ransom
+T40	Path 1107 1132	command and control paths
+T41	Purpose 1159 1196	targeting hospitals for this campaign
+T42	Organization 1169 1178	hospitals
+T43	Campaign 1188 1196	campaign
+T44	Malware 1150 1155	actor
+T45	Purpose 107 139	targets healthcare organisations
+*	Coreference T13 T36 T20 T24
+T29	Information 779 796	bitcoin wallet ID
+T31	Information 768 777	victim ID
+T32	Information 801 821	bitcoin ransom price
+*	Coreference T33 T34 T35
+*	Coreference T5 T6
+*	Coreference T3 T16
+T38	Attack-Pattern 1011 1054	that is available cheaply to script kiddies

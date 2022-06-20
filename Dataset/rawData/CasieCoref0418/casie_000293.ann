@@ -1,0 +1,113 @@
+T6	Campaign 645 664	a ransomware attack
+T7	Hacker-Group 666 673	hackers
+T8	Attack-Pattern 674 701	place malware on a computer
+T11	Attack-Pattern 734 750	restricts access
+T9	System 707 713	system
+T26	Device 717 726	computers
+T18	Hacker-Group 839 843	them
+T17	Money 844 851	$51,000
+T20	System 890 907	encrypted systems
+T25	Organization 877 887	government
+T1	Campaign 41 60	a ransomware attack
+T5	Time 11 17	a week
+T3	Location 81 88	Atlanta
+T4	Hacker-Group 24 31	hackers
+T22	Information 1204 1224	personal information
+T23	Information 1175 1190	government data
+T24	Campaign 2327 2346	a ransomware attack
+T2	Organization 73 77	city
+T19	Person 94 109	local officials
+T27	Person 149 151	We
+T28	Campaign 171 188	hostage situation
+T29	Person 191 204	Atlanta Mayor
+T30	Person 205 225	Keisha Lance Bottoms
+T31	File 236 245	statement
+T32	Time 250 258	Thursday
+T33	Person 299 308	residents
+T34	Organization 260 276	municipal courts
+T35	Money 359 364	bills
+T36	Money 334 349	traffic tickets
+T37	Person 388 397	employees
+T40	Organization 448 451	CNN
+T41	Organization 467 471	city
+T42	Person 484 493	employees
+T43	Device 511 525	work computers
+T44	Device 530 538	printers
+T45	Time 543 557	the first time
+T46	Time 561 570	Wednesday
+T47	Person 581 590	officials
+T48	Device 608 617	computers
+T10	Attack-Pattern 761 786	demand payment to undo it
+T49	Malware 784 786	it
+T50	Malware 680 687	malware
+T51	Device 693 701	computer
+T12	Hacker-Group 792 800	culprits
+T14	Purpose 806 851	demanded the city of Atlanta pay them $51,000
+T16	Person 909 916	Bottoms
+T52	Organization 943 947	city
+T53	Person 982 991	officials
+T54	Location 974 981	Atlanta
+T55	Organization 1005 1026	local law enforcement
+T56	Organization 1032 1035	FBI
+T57	Organization 1041 1072	Department of Homeland Security
+T58	Organization 1078 1092	Secret Service
+T59	Time 1118 1133	round-the-clock
+T21	Course-of-Action 1110 1240	working round-the-clock on the matter to investigate whether any government data or anybody's personal information was compromised
+T61	Organization 1245 1263	information portal
+T62	Domain 1287 1312	city government's website
+T63	Person 1321 1330	residents
+T64	Person 1335 1344	employees
+T65	Campaign 1360 1391	latest developments of the hack
+T66	Person 1393 1402	Officials
+T67	Location 1408 1415	Atlanta
+T68	Organization 1408 1438	Atlanta Information Management
+T71	Organization 1487 1491	city
+T72	Time 1513 1521	March 22
+T73	Person 1538 1547	officials
+T74	Information 1560 1569	city data
+T75	Person 1587 1596	customers
+T76	Software 1620 1637	city applications
+T77	Person 1666 1672	people
+T78	Course-of-Action 1656 1753	prevented people from using online applications to pay bills and access court-related information
+T80	Information 1728 1753	court-related information
+T81	Person 1764 1781	Atlanta officials
+T82	Campaign 1823 1829	attack
+T83	Organization 1834 1861	Atlanta-based security firm
+T84	Organization 1869 1885	Dell SecureWorks
+T85	Organization 1908 1912	city
+T86	Campaign 1929 1935	attack
+T87	Hacker-Group 1963 1969	SamSam
+T88	Hacker-Group 1806 1811	those
+T89	Hacker-Group 1950 1955	group
+T90	Organization 1984 2002	The New York Times
+T91	Hacker-Group 2039 2044	group
+T92	Time 2070 2076	Monday
+T93	Person 2078 2091	Mayor Bottoms
+T94	Organization 2147 2151	city
+T95	Person 2131 2137	public
+T96	System 2201 2208	systems
+T97	Campaign 2250 2256	matter
+T98	Person 2267 2268	I
+T99	Campaign 2302 2306	this
+T100	Person 2349 2356	Bottoms
+T101	Campaign 2382 2388	attack
+T102	Campaign 2364 2368	This
+T103	Organization 2396 2406	government
+T105	Person 2445 2447	us
+T106	Attack-Pattern 1555 1638	some city data is encrypted and customers are not able to access city applications.
+T107	Attack-Pattern 1640 1644	This
+T108	Attack-Pattern 260 371	municipal courts were closed again and residents were unable to pay their traffic tickets or water bills online
+T113	Hacker-Group 2054 2056	it
+T114	Campaign 2420 2422	it
+*	Coreference T54 T3 T67
+*	Coreference T41 T85 T71 T52 T94 T2
+*	Coreference T82 T65 T86
+*	Coreference T73 T66 T81
+*	Coreference T49 T50
+*	Coreference T29 T30 T93 T16 T100 T98
+T13	Organization 1444 1472	city's technology department
+*	Coreference T18 T12
+*	Coreference T107 T106
+*	Coreference T89 T88 T113 T87 T91
+T15	Campaign 2428 2434	attack
+*	Coreference T101 T114 T15

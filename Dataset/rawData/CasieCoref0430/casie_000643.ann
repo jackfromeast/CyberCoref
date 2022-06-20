@@ -1,0 +1,94 @@
+T1	Vulnerability 10 18	iOS bugs
+T4	Organization 45 50	Apple
+T5	System 65 68	iOS
+T6	Version 69 83	12.1.4 release
+T15	Time 263 276	earlier today
+T11	Version 240 254	12.1.4 release
+T12	System 236 239	iOS
+T13	Organization 221 226	Apple
+T16	Course-of-Action 287 292	fixes
+T17	Vulnerability 297 323	Foundation and IOKit flaws
+T18	Purpose 380 400	used to hack devices
+T29	Campaign 747 756	delivered
+T30	System 761 769	 the iOS
+T31	Version 770 776	12.1.4
+T60	Organization 1499 1504	Apple
+T62	System 1514 1517	iOS
+T63	Version 1518 1524	12.1.4
+T64	Course-of-Action 1534 1556	 a supplemental update
+T65	System 1560 1565	macOS
+T66	Course-of-Action 1566 1572	Mojave
+T68	Vulnerability 1606 1619	FaceTime flaw
+T69	Attack-Pattern 1625 1657	allowed interlopers to eavesdrop
+T70	Software 1661 1675	Group FaceTime
+T71	Course-of-Action 1682 1693	 The update
+T73	Software 1706 1720	 a Live Photos
+T74	Vulnerability 1724 1736	FaceTime bug
+T78	Vulnerability 1833 1863	 the Live Photos vulnerability
+T76	Organization 1763 1768	Apple
+T58	Campaign 1488 1497	 the find
+T59	Person 1448 1469	 The same researchers
+T83	Hacker-Group 115 122	hackers
+T1	Vulnerability 10 18	iOS bugs
+T10	Person 136 156	 a Google researcher
+T8	Vulnerability 179 207	the zero-day vulnerabilities
+T9	Time 211 219	Thursday
+T23	Time 526 534	Thursday
+T20	Person 433 439	Hawkes
+T25	Vulnerability 542 555	 the iOS bugs
+T26	Vulnerability 574 598	zero-day vulnerabilities
+T82	Vulnerability 613 633	 the vulnerabilities
+T32	Organization 700 705	Apple
+T27	Vulnerability 678 682	bugs
+T33	Vulnerability 813 826	CVE-2019-7286
+T34	Vulnerability 828 847	the Foundation flaw
+T35	Vulnerability 856 882	 a memory corruption issue
+T36	Attack-Pattern 894 934	allow an app to gain elevated privileges
+T39	Device 983 1008	iPod touch 6th generation
+T38	Device 959 967	iPad Air
+T37	Device 938 947	iPhone 5s
+T42	Vulnerability 1181 1190	 the flaw
+T43	Person 1023 1033	researcher
+T52	Vulnerability 1222 1235	CVE-2019-7287
+T50	Vulnerability 1203 1206	bug
+T53	Vulnerability 1250 1270	 a memory corruption
+T55	Device 1377 1386	iPhone 5s
+T56	Device 1398 1406	iPad Air
+T57	Device 1422 1447	iPod touch 6th generation
+T1	Vulnerability 10 18	iOS bugs
+T3	Organization 426 431	ZDNet
+T14	Organization 513 520	Twitter
+T19	Course-of-Action 1699 1720	patched a Live Photos
+T21	Information 1823 1863	Details of the Live Photos vulnerability
+T22	Course-of-Action 1576 1619	address the widely publicized FaceTime flaw
+T24	Device 1391 1396	later
+T28	Device 1411 1416	later
+T48	File 700 719	Apple documentation
+T40	Person 1035 1082	Clement Lecigne of Google Threat Analysis Group
+T44	Person 1084 1115	Ian Beer of Google Project Zero
+T45	Person 1120 1154	Samuel Grob of Google Project Zero
+T41	Software 1325 1332	 an app
+T46	Attack-Pattern 1336 1373	executive code with kernel privileges
+T47	Course-of-Action 1782 1805	thorough security audit
+T49	Vulnerability 1316 1318	it
+T7	Person 441 447	leader
+T51	Organization 451 486	Google's Project Zero security team
+T2	Person 343 362	security researcher
+T54	Person 363 373	Ben Hawkes
+*	Coreference T6 T11
+*	Coreference T17 T34 T42
+*	Coreference T30 T12 T62 T5
+*	Coreference T31 T63
+*	Coreference T68 T74
+*	Coreference T4 T60 T76 T32 T13
+*	Coreference T9 T23
+*	Coreference T20 T54
+*	Coreference T82 T78 T8 T26
+*	Coreference T1 T50 T25 T27
+*	Coreference T33 T52 T49
+*	Coreference T35 T53
+*	Coreference T39 T57
+*	Coreference T38 T56
+*	Coreference T37 T55
+*	Coreference T10 T43 T59 T2
+*	Coreference T24 T28

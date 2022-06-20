@@ -1,0 +1,90 @@
+T8	Person 203 213	researcher
+T7	Time 237 246	yesterday
+T12	Time 304 313	last July
+T10	Vulnerability 268 272	flaw
+T5	Attack-Pattern 117 168	allow an attacker to obtain the password reset link
+T3	Vulnerability 55 63	zero-day
+T16	Vulnerability 430 435	issue
+T15	Person 400 421	WordPress site owners
+T13	Person 359 367	Golunski
+T19	Vulnerability 513 526	CVE-2017-8295
+T20	Vulnerability 490 495	issue
+T19	Vulnerability 513 526	CVE-2017-8295
+T18	Version 561 569	versions
+T28	Vulnerability 1490 1503	vulnerability
+T26	Vulnerability 1337 1342	issue
+T27	Person 1288 1302	WordPress team
+T31	Campaign 2878 2885	patches
+T32	Vulnerability 2891 2896	issue
+T30	Person 2863 2877	WordPress team
+T24	Person 1153 1174	legitimate site owner
+T21	Hacker-Group 1070 1078	attacker
+T37	Person 1019 1024	users
+T4	System 71 105	WordPress password reset mechanism
+T35	Hacker-Group 126 134	attacker
+T38	URL 149 168	password reset link
+T6	Organization 280 303	WordPress security team
+T2	Time 315 341	After more than ten months
+T9	Course-of-Action 450 469	protect their sites
+T11	Domain 464 469	sites
+T14	Software 551 560	WordPress
+T17	Domain 592 607	WordPress sites
+T33	Email 625 646	password reset emails
+T34	Person 661 669	Golunski
+T36	Hacker-Group 674 682	attacker
+T39	Packet 695 717	malicious HTTP request
+T40	Campaign 734 766	tainted password reset operation
+T41	Attack-Pattern 770 809	injecting a custom SERVER_NAME variable
+T42	Domain 820 839	attacker-domain.com
+T43	Domain 867 881	WordPress site
+T44	Email 900 920	password reset email
+T45	Domain 982 1011	wordpress@attacker-domain.com
+T46	Vulnerability 1042 1050	zero-day
+T22	Email 1125 1145	password reset email
+T23	Email 1189 1209	wrong Sender address
+T47	Attack-Pattern 1115 1174	sending a password reset email to the legitimate site owner
+T48	Campaign 1225 1247	exploitation scenarios
+T25	Course-of-Action 1323 1342	patching this issue
+T49	Campaign 1633 1639	attack
+T50	Email 1668 1682	victim's email
+T51	Campaign 1717 1723	attack
+T52	Campaign 1787 1793	attack
+T53	Person 1811 1826	Denis Sinegubko
+T54	Person 1796 1809	His colleague
+T55	Vulnerability 1860 1865	issue
+T56	Campaign 1907 1913	attack
+T57	IP 1997 2007	IP address
+T58	Domain 1961 1976	individual site
+T59	Domain 2035 2058	sites on shared servers
+T61	Device 2069 2104	poorly configured dedicated servers
+T62	Campaign 2118 2133	attack scenario
+T63	Person 2177 2178	I
+T64	Person 2269 2276	Montpas
+T65	Number 2189 2201	thousands of
+T66	Domain 2202 2207	sites
+T67	Vulnerability 2239 2252	vulnerability
+T68	Person 2296 2301	users
+T69	Person 2494 2499	users
+T70	Person 2570 2578	Golunski
+T71	Person 2606 2611	users
+T72	Person 2634 2645	site owners
+T73	Person 2333 2343	webmasters
+T74	Course-of-Action 2391 2428	prevent exploitation of this zero-day
+T75	Vulnerability 2420 2428	zero-day
+T76	Information 2550 2567	SERVER_NAME value
+T77	Domain 2592 2598	Reddit
+T78	Device 2656 2667	dummy vhost
+T79	Packet 2685 2724	requests with unrecognized Host headers
+T80	Person 2764 2767	you
+T81	Software 2829 2842	Reddit thread
+T1	Person 23 37	Dawid Golunski
+T82	Person 0 22	Polish security expert
+T84	Campaign 1946 1948	it
+T86	Person 439 443	they
+T87	Campaign 1921 1923	it
+*	Coreference T52 T56 T51 T49 T87 T84
+*	Coreference T34 T1 T70 T13 T82
+*	Coreference T86 T15
+*	Coreference T54 T53
+*	Coreference T32 T75 T26 T46 T20 T19 T3 T10 T16 T28 T67 T55
+*	Coreference T63 T64

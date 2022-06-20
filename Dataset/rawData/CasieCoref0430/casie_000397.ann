@@ -1,0 +1,108 @@
+T1	Vulnerability 13 38	worrisome vulnerabilities
+T4	Time 98 107	last week
+T11	Software 42 87	Honeywell building automation system software
+T23	Device 339 365	 its XL Web II controllers
+T20	Time 1786 1799	last Thursday
+T5	Vulnerability 1816 1831	vulnerabilities
+T16	System 1834 1848	 the Honeywell
+T17	Version 1892 1928	XLWeb 500 XLWebExe-1-02-08 and prior
+T12	Vulnerability 1951 1979	authentication-related flaws
+T22	Attack-Pattern 2016 2053	passwords either stored in clear text
+T15	Attack-Pattern 2057 2096	reachable by accessing a particular URL
+T26	Vulnerability 2211 2244	 a session fixation vulnerability
+T27	Attack-Pattern 2245 2297	allowing an attacker to establish new users sessions
+T28	Attack-Pattern 2335 2379	giving them access to authenticated sessions
+T24	Organization 2189 2198	Honeywell
+T30	Course-of-Action 2389 2396	patched
+T29	Organization 2381 2383	It
+T31	Vulnerability 2396 2417	 a path traversal bug
+T32	Attack-Pattern 2423 2491	allowed attackers to carry out directory traversal attacks via a URL
+T14	Course-of-Action 268 275	patches
+T7	Vulnerability 276 291	vulnerabilities
+T13	Course-of-Action 250 262	new firmware
+T8	Time 240 249	September
+T9	Organization 217 226	Honeywell
+T34	Number 0 12	A handful of
+T35	Organization 42 51	Honeywell
+T3	Attack-Pattern 88 97	disclosed
+T36	Campaign 112 116	case
+T37	Organization 136 149	 the industry
+T38	System 179 184	SCADA
+T39	System 189 215	industrial control systems
+T41	Vulnerability 366 376	 The flaws
+T42	Hacker-Group 387 399	 an attacker
+T43	Attack-Pattern 415 456	access relatively unprotected credentials
+T44	Information 433 456	unprotected credentials
+T45	Information 465 470	those
+T46	Purpose 474 484	manipulate
+T47	System 499 539	environmental controls inside a building
+T48	System 547 552	these
+T49	System 560 591	critical infrastructure systems
+T50	System 600 610	wastewater
+T51	System 612 618	energy
+T52	System 622 635	manufacturing
+T55	Course-of-Action 690 696	remedy
+T56	Protocol 704 726	 a worst-case scenario
+T57	Hacker-Group 734 746	 an attacker
+T58	Attack-Pattern 762 790	pivot to a corporate network
+T59	System 783 790	network
+T60	Person 792 799	Experts
+T61	Domain 805 815	Threatpost
+T62	System 821 848	building automation systems
+T63	System 985 989	They
+T64	System 880 887	heating
+T65	System 889 905	air conditioning
+T66	System 907 912	water
+T67	System 914 922	lighting
+T68	System 927 931	door
+T69	System 1051 1058	systems
+T71	Organization 1159 1200	 the United States Green Building Council
+T72	Vulnerability 1212 1216	risk
+T73	System 1265 1285	building system HMIs
+T74	Purpose 1299 1307	mischief
+T75	Purpose 1322 1328	ransom
+T76	Attack-Pattern 1245 1285	method of accessing building system HMIs
+T77	System 1330 1341	Controllers
+T78	Course-of-Action 1359 1377	 an easy interface
+T79	System 1402 1417	building system
+T80	Protocol 1458 1476	protocol expertise
+T81	Protocol 1433 1454	programming knowledge
+T82	Person 1493 1508	Michael Toecker
+T83	Organization 1512 1540	Context Information Security
+T84	System 1591 1613	equipment from the HMI
+T85	Person 1570 1577	 a user
+T86	Hacker-Group 1619 1623	they
+T87	System 1632 1645	 the building
+T10	Campaign 1773 1785	 an advisory
+T19	Number 1930 1946	Four of the five
+T88	Information 2016 2025	passwords
+T89	URL 2093 2096	URL
+T91	Attack-Pattern 2136 2172	open and change parameters via a URL
+T92	URL 2166 2172	 a URL
+T93	Organization 2174 2182	ICS-CERT
+T25	Course-of-Action 2204 2211	patched
+T94	Hacker-Group 2431 2440	attackers
+T95	Campaign 2474 2481	attacks
+T96	URL 2485 2491	 a URL
+T2	Money 967 983	operations costs
+T97	Course-of-Action 1690 1693	fix
+T98	Number 1811 1815	five
+T100	Hacker-Group 2253 2265	 an attacker
+T102	Hacker-Group 2342 2346	them
+T6	Person 326 336	Maxim Rupp
+T33	Person 315 325	researcher
+T40	Campaign 637 669	building automation system hacks
+T53	Protocol 1102 1133	Energy and Environmental Design
+T54	Protocol 1135 1139	LEED
+T21	Organization 1696 1755	The Industrial Control System Cyber Emergency Response Team
+T70	Organization 1757 1765	ICS-CERT
+*	Coreference T7 T1
+*	Coreference T87 T79 T73
+*	Coreference T35 T9 T37 T24 T29
+*	Coreference T33 T6
+*	Coreference T44 T45
+*	Coreference T57 T42
+*	Coreference T63 T62 T69
+*	Coreference T53 T54
+*	Coreference T70 T21 T93
+*	Coreference T102 T100

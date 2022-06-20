@@ -1,0 +1,40 @@
+T1	Campaign 34 53	a ransomware attack
+T2	Organization 0 12	Liberty Life
+T5	Money 593 601	millions
+T6	Hacker-Group 567 578	the hackers
+T7	Organization 274 291	An external party
+T9	Information 314 318	data
+T8	Person 324 326	us
+T11	Person 24 30	victim
+T12	Information 59 77	 the personal data
+T13	Number 81 92	millions of
+T14	Person 93 126	the insurance company’s customers
+T15	Time 149 159	Last night
+T16	Time 161 168	16 June
+T17	Organization 170 182	 the company
+T19	Hacker-Group 207 214	hackers
+T21	Person 192 271	customers that hackers have gained unauthorised access to its IT infrastructure
+T20	Device 249 271	 its IT infrastructure
+T22	Information 227 246	unauthorised access
+T3	Vulnerability 346 371	potential vulnerabilities
+T23	System 379 386	systems
+T24	Person 444 453	customers
+T4	Hacker-Group 613 617	them
+T25	Purpose 605 661	prevent them from releasing sensitive data about clients
+T10	Information 633 647	sensitive data
+T26	Person 654 661	clients
+T27	Course-of-Action 492 544	taken immediate steps to secure our computer systems
+T28	System 528 544	computer systems
+T29	Organization 664 671	Liberty
+T30	Campaign 688 699	 the breach
+T31	Person 704 706	we
+T32	Person 734 746	stakeholders
+T33	Person 800 802	We
+T34	Campaign 830 844	 the situation
+T35	Person 484 486	we
+T36	Person 340 342	us
+*	Coreference T2 T29 T17
+*	Coreference T15 T16
+*	Coreference T8 T36
+*	Coreference T4 T6
+*	Coreference T30 T1

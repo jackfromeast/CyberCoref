@@ -1,0 +1,72 @@
+T6	Vulnerability 610 617	the bug
+T7	Person 585 599	the researcher
+T4	Person 570 583	Netanel Rubin
+T2	Vulnerability 455 482	SQL injection vulnerability
+T3	Attack-Pattern 515 531	execute PHP code
+T17	Vulnerability 435 440	issue
+T10	Person 619 624	Rubin
+T9	Vulnerability 652 667	vulnerabilities
+T12	System 711 738	e-commerce platform Magento
+T13	Software 744 753	WordPress
+T15	Vulnerability 765 772	the bug
+T16	Time 800 806	Monday
+T20	Vulnerability 2 24	critical vulnerability
+T21	Software 28 34	Moodle
+T22	Software 39 87	open source PHP-based learning management system
+T23	Organization 114 121	schools
+T24	Organization 126 138	universities
+T25	System 157 163	server
+T26	Number 194 214	Tens of thousands of
+T27	Organization 215 227	universities
+T28	Organization 253 287	California State University system
+T29	Organization 289 313	the University of Oxford
+T30	Organization 319 338	Stanford University
+T31	Software 348 355	service
+T32	Information 381 396	course outlines
+T33	Person 367 375	students
+T34	Information 398 404	grades
+T35	Information 416 429	personal data
+T36	Hacker-Group 503 511	attacker
+T19	System 537 556	university’s server
+T5	Domain 787 791	blog
+T1	System 671 709	Mozilla’s Bugzilla bug tracking system
+T8	Version 844 864	previous versions of
+T11	Software 865 871	Moodle
+T14	Person 884 899	managers/admins
+T18	Software 913 925	web services
+T37	Person 932 940	advisory
+T38	Person 948 972	School IT administrators
+T39	Course-of-Action 997 1010	apply a patch
+T41	Time 1049 1060	10 days ago
+T42	Person 1016 1041	maintainers of the system
+T40	Person 1062 1067	Rubin
+T43	Campaign 1232 1255	object injection attack
+T44	Campaign 1267 1273	attack
+T45	Person 1295 1300	Rubin
+T46	Person 1376 1378	he
+T47	Person 1385 1387	he
+T48	Attack-Pattern 1394 1468	use the system’s “update” method to update any row in an affected database
+T49	Software 1451 1468	affected database
+T50	Attack-Pattern 1470 1474	This
+T51	Person 1480 1483	him
+T52	Information 1499 1527	tweak administrator accounts
+T53	File 1544 1562	site configuration
+T54	Information 1529 1538	passwords
+T55	Person 1584 1586	we
+T56	Person 1594 1596	he
+T57	Person 1604 1609	Rubin
+T58	Attack-Pattern 1617 1637	double SQL injection
+T59	Person 1670 1673	him
+T60	Purpose 1674 1708	gain full administrator privileges
+T61	Device 1716 1722	server
+T62	System 1731 1737	Moodle
+T63	Code 1746 1798	gaining full administrator privileges executing code
+T64	Device 1857 1863	server
+T65	Person 1866 1871	Rubin
+T70	Campaign 1332 1334	it
+T71	Person 1084 1086	he
+*	Coreference T20 T17 T2 T6 T15
+*	Coreference T31 T22 T11 T62 T21
+*	Coreference T44 T43 T70
+*	Coreference T46 T47 T10 T4 T7 T40 T71 T45 T51 T56 T57 T59 T65
+*	Coreference T50 T48

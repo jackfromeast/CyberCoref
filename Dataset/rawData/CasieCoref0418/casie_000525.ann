@@ -1,0 +1,81 @@
+T6	File 1148 1180	a rejected financial transaction
+T18	Email 1130 1138	messages
+T10	Person 1247 1256	the users
+T2	Attack-Pattern 616 643	distribution email messages
+T3	Person 690 697	victims
+T12	Campaign 1705 1722	phishing campaign
+T14	Purpose 1738 1769	distribute the Locky ransomware
+T13	Time 1683 1695	January 26th
+T15	Attack-Pattern 1771 1818	leveraging the same email messages and metadata
+T7	Malware 43 59	Locky ransomware
+T8	Campaign 141 169	Sage ransomware distribution
+T17	Hacker-Group 171 185	Cybercriminals
+T19	Hacker-Group 351 357	crooks
+T20	Malware 365 370	Locky
+T21	Malware 454 467	Necurs botnet
+T22	Malware 429 451	main Locky distributor
+T23	Malware 496 511	Sage ransomware
+T25	Person 0 28	PhishMe security researchers
+T26	Malware 251 256	Locky
+T27	Malware 261 265	Sage
+T24	Campaign 534 547	malware stage
+T28	Time 595 604	this year
+T1	Attack-Pattern 685 736	fool victims into opening the malicious attachments
+T4	Hacker-Group 749 758	operators
+T5	Campaign 769 780	this tactic
+T29	Purpose 862 880	avoid spam filters
+T30	Attack-Pattern 894 909	delivery emails
+T16	Malware 198 212	infrastructure
+T9	Purpose 1241 1274	trick the users into opening them
+T11	Campaign 1280 1288	campaign
+T31	Organization 1303 1310	PhishMe
+T32	File 1319 1328	.zip file
+T33	File 1337 1351	document_1.zip
+T34	Malware 1480 1487	payload
+T35	Malware 1545 1552	malware
+T36	Time 1886 1898	January 30th
+T37	Malware 2319 2332	Kovter Trojan
+T38	Malware 2068 2081	Kovter Trojan
+T39	Campaign 1972 1990	Locky distribution
+T40	Malware 2035 2045	ransomware
+T41	Malware 2107 2113	Kovter
+T42	Malware 2118 2123	Locky
+T44	Organization 2184 2193	Microsoft
+T43	Malware 2383 2387	Sage
+T45	Malware 2373 2378	Locky
+T46	Malware 2350 2364	infrastructure
+T47	Hacker-Group 2410 2424	cybercriminals
+T48	Attack-Pattern 2437 2480	delivery infrastructure and malware support
+T49	Malware 2446 2460	infrastructure
+T50	Malware 2465 2480	malware support
+T52	Campaign 2486 2541	overlapping distribution of these two ransomware pieces
+T51	Attack-Pattern 1410 1438	download the Sage ransomware
+T53	Malware 1423 1438	Sage ransomware
+T54	Attack-Pattern 2253 2269	drip Locky first
+T55	Malware 2258 2263	Locky
+T56	Attack-Pattern 2306 2332	dropping the Kovter Trojan
+T57	File 1013 1028	file attachment
+T58	File 1092 1100	.js file
+T59	File 1107 1122	Office document
+T60	Information 986 1006	file attachment name
+T61	Information 961 978	the victim`s name
+T62	Malware 83 106	delivery infrastructure
+T63	Information 274 288	same recourses
+T64	System 1456 1463	Windows
+T65	Domain 1625 1663	Tor2Web gateway addresses on rzunt3u2[
+T66	Attack-Pattern 1873 1882	infection
+T67	Attack-Pattern 2207 2234	two-step delivery technique
+T68	Hacker-Group 948 952	they
+T69	Attack-Pattern 2291 2293	it
+T70	File 1394 1396	it
+*	Coreference T17 T47
+*	Coreference T37 T41 T38
+*	Coreference T53 T27 T23 T43
+*	Coreference T45 T55 T20 T42 T26 T7
+*	Coreference T62 T16
+*	Coreference T21 T22
+*	Coreference T68 T4
+T71	Email 1270 1274	them
+*	Coreference T18 T71
+*	Coreference T32 T33 T70
+*	Coreference T69 T67

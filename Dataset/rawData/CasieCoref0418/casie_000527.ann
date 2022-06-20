@@ -1,0 +1,57 @@
+T11	System 131 147	Dueling Networks
+T10	Person 122 127	users
+T9	Information 98 107	passwords
+T8	Email 64 79	email addresses
+T6	Hacker-Group 0 8	A hacker
+T2	Information 1394 1402	the data
+T3	Attack-Pattern 1354 1383	used a vulnerability in MySQL
+T4	Hacker-Group 1343 1353	the hacker
+T5	Number 52 63	6.5 million
+T7	System 220 235	Dueling Network
+T12	Time 249 253	2016
+T13	Domain 263 275	site's forum
+T14	Domain 313 318	forum
+T15	Person 354 359	users
+T16	Time 433 436	Now
+T17	Information 476 485	passwords
+T18	Domain 499 504	sites
+T19	Information 533 541	password
+T20	Person 549 559	site admin
+T21	Organization 565 576	Motherboard
+T22	Hacker-Group 582 588	hacker
+T24	Information 625 633	accounts
+T25	Number 604 624	at least 6.5 million
+T23	Person 648 658	site admin
+T26	Person 711 729	individual players
+T27	Person 798 802	user
+T28	Number 734 741	many of
+T29	Information 746 754	accounts
+T30	Person 869 879	site admin
+T31	Information 889 902	Weak password
+T32	Information 949 953	data
+T34	Hacker-Group 964 970	hacker
+T33	Email 997 1012	email addresses
+T35	Information 1017 1026	passwords
+T36	Hash 1039 1042	MD5
+T37	Hacker-Group 1104 1111	hackers
+T38	Information 1149 1158	passwords
+T39	Email 1265 1280	email addresses
+T40	Information 1219 1245	passwords for any accounts
+T41	Person 1282 1302	Black Luster Soldier
+T42	System 1317 1332	Dueling Network
+T1	Purpose 1387 1402	obtain the data
+T43	System 1590 1605	Dueling Network
+T44	Campaign 1471 1475	hack
+T45	Person 1486 1491	users
+T46	Information 1520 1529	passwords
+T47	Domain 505 509	they
+T48	Information 917 921	them
+T49	Person 1554 1558	they
+*	Coreference T7 T11 T42 T43
+*	Coreference T14 T13
+*	Coreference T18 T47
+*	Coreference T23 T20 T30
+*	Coreference T48 T31
+T50	Person 1304 1332	the admin of Dueling Network
+*	Coreference T50 T41
+*	Coreference T45 T49

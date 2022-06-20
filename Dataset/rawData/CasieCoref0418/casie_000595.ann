@@ -1,0 +1,125 @@
+T65	Organization 1802 1833	The American Consumer Institute
+T68	Campaign 1886 1895	contained
+T69	Vulnerability 1896 1920	firmware vulnerabilities
+T55	Person 1394 1417	The security researcher
+T56	Vulnerability 1429 1441	the new flaw
+T70	Organization 1932 1935	ACI
+T22	Device 538 545	routers
+T24	Course-of-Action 560 576	a security patch
+T12	Organization 336 342	D-Link
+T15	Device 371 378	routers
+T46	Vulnerability 1199 1209	the issues
+T45	Organization 1154 1160	D-Link
+T48	Organization 1280 1286	D-Link
+T49	Vulnerability 1309 1333	security vulnerabilities
+T51	Device 1344 1356	its products
+T52	Person 1381 1392	researchers
+T49	Vulnerability 1309 1333	security vulnerabilities
+T51	Device 1344 1356	its products
+T21	Campaign 474 483	prompting
+T20	Person 489 497	Adamczyk
+T18	Organization 499 505	D-Link
+T7	Organization 238 244	D-Link
+T8	Time 245 253	last May
+T11	Device 298 311	router models
+T9	Vulnerability 260 281	three vulnerabilities
+T1	Campaign 67 75	warnings
+T4	Organization 39 45	D-Link
+T2	Person 81 101	security researchers
+T13	Campaign 323 334	the warning
+T16	Campaign 402 408	reveal
+T17	Device 452 458	models
+T25	Device 668 685	The D-Link models
+T37	Time 804 808	2013
+T34	Device 772 779	DWR-111
+T33	Device 759 766	DWR-921
+T32	Device 750 757	DWR-912
+T31	Device 741 748	DWR-712
+T30	Device 731 739	DWR-640L
+T29	Device 722 729	DWR-512
+T28	Device 712 720	DWR-140L
+T27	Device 699 710	the DWR-116
+T38	Time 847 851	2012
+T36	Device 815 827	the DIR-640L
+T35	Device 856 867	the DWR-111
+T39	Time 871 875	2014
+T43	Vulnerability 1080 1098	the security flaws
+T41	Person 1048 1056	Adamczyk
+T61	Vulnerability 1488 1509	a prior security flaw
+T60	Organization 1475 1477	it
+T58	Organization 1454 1460	D-Link
+T63	Device 1783 1790	routers
+T64	Organization 1742 1758	the manufacturer
+T76	Device 2038 2045	routers
+T78	Course-of-Action 2525 2532	patches
+T79	Vulnerability 2560 2584	a security vulnerability
+T81	Time 8 37	second time in roughly a year
+T80	Device 116 133	company’s routers
+T3	Campaign 139 154	latest incident
+T6	Number 292 297	eight
+T10	Course-of-Action 343 350	patched
+T14	Number 351 354	two
+T82	Number 448 451	six
+T83	Organization 413 415	it
+T19	Number 534 537	six
+T23	Device 606 624	end-of-life models
+T84	Person 643 649	owners
+T26	Number 781 784	six
+T40	Organization 878 892	Naked Security
+T85	Device 924 938	current models
+T86	Device 974 987	listed models
+T42	Information 1066 1098	details about the security flaws
+T87	Protocol 1122 1140	security protocols
+T44	Course-of-Action 1191 1209	address the issues
+T88	Device 2441 2447	router
+T89	Device 2459 2462	its
+T90	Person 2509 2512	you
+T77	Person 2596 2599	you
+T91	Person 2622 2625	you
+T92	Device 2608 2620	older router
+T93	File 2005 2013	analysis
+T73	Number 2056 2058	12
+T74	Vulnerability 2059 2083	critical vulnerabilities
+T75	Number 2088 2090	36
+T94	Vulnerability 2091 2116	high-risk vulnerabilities
+T95	Organization 2145 2148	ACI
+T96	Vulnerability 2187 2202	vulnerabilities
+T97	Number 2240 2243	103
+T98	Vulnerability 2244 2259	vulnerabilities
+T99	Device 2264 2270	router
+T100	Person 2277 2285	shoppers
+T101	Organization 2301 2307	market
+T102	Device 2314 2324	new router
+T103	Organization 2368 2380	manufacturer
+T104	Device 2423 2429	router
+T105	Number 1947 1963	more than 32,000
+T71	Vulnerability 1964 1985	known vulnerabilities
+T72	Number 1882 1885	155
+T67	Device 1859 1866	routers
+T106	Number 1855 1858	186
+T62	Device 1721 1740	older router models
+T66	Campaign 1526 1545	directory traversal
+T107	Campaign 1551 1564	dot dot slash
+T108	Campaign 1566 1573	attacks
+T109	Vulnerability 1581 1586	flaws
+T110	Hacker-Group 1595 1613	malicious attacker
+T111	File 1632 1644	system files
+T112	Packet 1659 1671	HTTP request
+T59	Course-of-Action 1482 1509	fixed a prior security flaw
+T47	Course-of-Action 1301 1333	address security vulnerabilities
+T50	Time 1247 1274	second time in about a year
+T115	Person 2705 2708	you
+T116	Device 585 589	they
+T118	Organization 1867 1869	it
+*	Coreference T70 T95
+*	Coreference T20 T41
+*	Coreference T81 T50
+*	Coreference T4 T7 T45 T18 T60 T58 T12 T48 T83
+T5	Person 167 211	Silesian University of Technology researcher
+T53	Person 212 227	Błazej Adamczyk
+*	Coreference T5 T53
+*	Coreference T13 T1
+*	Coreference T22 T116 T23
+*	Coreference T66 T107 T108
+*	Coreference T118 T65
+*	Coreference T109 T49 T43 T46

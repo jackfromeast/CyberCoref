@@ -1,0 +1,59 @@
+T7	Vulnerability 229 241	 a new issue
+T12	Person 509 522	Tavis Ormandy
+T10	Vulnerability 485 487	it
+T13	Vulnerability 698 715	 the latest issue
+T15	Person 665 687	researcher Martin Vigo
+T23	Software 655 663	LastPass
+T22	Person 627 637	researcher
+T18	Person 1024 1028	Vigo
+T16	Vulnerability 996 1006	 The flaws
+T19	Vulnerability 1141 1151	weaknesses
+T20	Attack-Pattern 1163 1216	under specific circumstances allow 2FA to be bypassed
+T8	Software 1228 1250	Google’s Authenticator
+T26	Code 1255 1263	QR codes
+T1	Vulnerability 92 105	serious flaws
+T3	Person 130 143	Tavis Ormandy
+T5	Time 68 73	March
+T21	Organization 121 127	Google
+T9	Time 204 212	Days ago
+T25	Organization 257 269	 the company
+T27	Number 78 88	two rounds
+T2	Time 188 202	 a single week
+T4	System 725 733	 the 2FA
+T6	Vulnerability 345 358	serious flaws
+T11	Software 34 42	LastPass
+T14	System 272 321	two-factor/two-step authentication (2FA) security
+T24	System 776 801	Two-factor authentication
+T28	Software 961 978	password managers
+T29	Software 987 995	LastPass
+T17	Software 1367 1375	LastPass
+T30	Person 1270 1277	 a user
+T31	Software 1296 1304	LastPass
+T32	Campaign 1319 1329	 an attack
+T33	Hash 1397 1412	 the login hash
+T34	Code 1494 1518	Authenticator’s QR codes
+T35	Attack-Pattern 1528 1574	sets a Cross-Site Request Forgery (CSRF) token
+T36	Code 1532 1574	 a Cross-Site Request Forgery (CSRF) token
+T37	Vulnerability 1591 1599	weakness
+T38	Software 1625 1633	LastPass
+T39	Vulnerability 1662 1668	issues
+T40	Vulnerability 1768 1785	 these weaknesses
+T41	Person 1601 1603	We
+T42	System 901 903	it
+T44	Vulnerability 615 617	it
+T45	Information 1478 1480	it
+T43	Organization 592 604	 the company
+T46	System 835 883	convenient but less secure two-step verification
+T47	System 1198 1201	2FA
+T48	Information 1434 1454	 the master password
+*	Coreference T12 T3
+*	Coreference T15 T22
+*	Coreference T1 T6
+*	Coreference T14 T24 T4 T46 T42 T47
+*	Coreference T17 T31 T11 T23 T29 T38
+*	Coreference T9 T2
+*	Coreference T25 T21 T43
+*	Coreference T10 T7 T44 T13 T16
+*	Coreference T45 T48
+*	Coreference T34 T26
+*	Coreference T40 T39

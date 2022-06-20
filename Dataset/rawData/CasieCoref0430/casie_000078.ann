@@ -1,0 +1,78 @@
+T12	Malware 637 643	Emotet
+T19	Organization 687 701	specific banks
+T20	Organization 706 728	financial institutions
+T23	Attack-Pattern 746 790	trick people into opening infected documents
+T22	Person 752 758	people
+T24	Time 804 822	the past few weeks
+T27	Organization 857 865	 the IRS
+T29	Domain 890 900	IRS Online
+T6	File 153 168	tax transcripts
+T5	Email 135 146	 The emails
+T9	Person 220 225	users
+T10	Attack-Pattern 213 262	entice users to open documents containing malware
+T3	Organization 126 134	 the IRS
+T1	Email 95 112	fraudulent emails
+T7	Time 29 34	today
+T14	Campaign 441 450	 the scam
+T13	File 412 426	tax transcript
+T16	Person 498 507	employees
+T31	File 310 332	Tax Account Transcript
+T11	Email 263 278	 The scam email
+T25	Campaign 823 832	 the scam
+T33	Organization 4 28	Internal Revenue Service
+T2	Course-of-Action 35 79	warned the public of a tax transcript scheme
+T34	Attack-Pattern 95 134	fraudulent emails impersonating the IRS
+T4	File 172 200	 the summary of a tax return
+T8	File 234 243	documents
+T30	Malware 255 262	malware
+T32	File 286 300	 an attachment
+T35	Attack-Pattern 301 333	labeled “Tax Account Transcript”
+T36	Attack-Pattern 359 428	 the subject line uses some variation of the phrase “tax transcript.”
+T37	Organization 428 436	 The IRS
+T15	Malware 518 530	 the malware
+T17	Malware 539 541	it
+T38	Attack-Pattern 546 575	spread throughout the network
+T39	System 563 575	 the network
+T40	Attack-Pattern 580 626	potentially take months to successfully remove
+T41	Malware 644 667	 the well-known malware
+T18	File 772 790	infected documents
+T21	Attack-Pattern 867 900	pretending to be from “IRS Online
+T26	Organization 902 954	 The United States Computer Emergency Readiness Team
+T28	Organization 956 963	US-CERT
+T42	Time 985 989	July
+T43	Version 996 1012	earlier versions
+T44	Malware 1015 1026	 the Emotet
+T45	Course-of-Action 1030 1047	Alert (TA18-201A)
+T46	Malware 1048 1062	Emotet Malware
+T47	Organization 1064 1071	US-CERT
+T48	Malware 1083 1102	 the Emotet Malware
+T50	Organization 1160 1216	state, local, tribal, and territorial (SLTT) governments
+T51	Person 1221 1252	 the private and public sectors
+T52	Organization 1254 1262	 The IRS
+T53	Person 1271 1280	taxpayers
+T54	Email 1298 1316	unsolicited emails
+T55	Attack-Pattern 1345 1396	email a sensitive document such as a tax transcript
+T56	File 1350 1371	 a sensitive document
+T57	File 1379 1396	 a tax transcript
+T58	Person 1398 1407	Taxpayers
+T59	Course-of-Action 1415 1451	not open the email or the attachment
+T60	Email 1423 1433	 the email
+T61	File 1436 1451	 the attachment
+T62	Email 1519 1535	phishing@irs.gov
+T63	Device 1461 1481	 a personal computer
+T64	Course-of-Action 1483 1535	delete or forward the scam email to phishing@irs.gov
+T65	Email 1500 1515	 the scam email
+T66	Device 1556 1579	 an employer’s computer
+T67	Attack-Pattern 1581 1626	notify the company’s technology professionals
+T68	Person 1587 1626	 the company’s technology professionals
+T70	Organization 1342 1344	it
+T71	Organization 1281 1283	it
+T49	Malware 1142 1149	malware
+*	Coreference T12 T44 T41 T46 T48 T49
+*	Coreference T37 T52 T3 T27 T33 T71 T70
+*	Coreference T56 T8 T18 T57 T13 T6 T32 T61 T31
+*	Coreference T28 T47 T26
+*	Coreference T30 T15 T17
+*	Coreference T53 T58
+*	Coreference T60 T11 T65 T5
+*	Coreference T63 T66

@@ -1,0 +1,99 @@
+T2	Email 203 219	malicious emails
+T4	Organization 249 256	the IRS
+T12	Campaign 1650 1658	phishing
+T14	Attack-Pattern 1699 1746	using the term “tax refund” in an email subject
+T13	Hacker-Group 1621 1635	cybercriminals
+T17	Organization 1790 1793	IRS
+T15	Email 1752 1759	message
+T6	Information 176 184	W2 forms
+T7	Campaign 760 768	phishing
+T10	Information 1446 1449	W2s
+T8	Hacker-Group 1381 1395	cybercriminals
+T11	Information 1501 1512	information
+T18	Person 1487 1493	victim
+T19	Time 72 82	tax season
+T20	Campaign 148 153	fraud
+T21	Attack-Pattern 168 191	selling W2 forms online
+T5	Attack-Pattern 195 256	sending malicious emails that look like they are from the IRS
+T1	Hacker-Group 258 272	cybercriminals
+T3	Person 321 333	Rick Holland
+T22	Person 335 368	VP of strategy at Digital Shadows
+T23	Hacker-Group 421 435	cybercriminals
+T24	Domain 454 462	dark web
+T25	Campaign 480 499	tax fraud campaigns
+T26	Time 302 319	this time of year
+T27	Time 501 518	Earlier this year
+T28	Person 524 573	Treasury Inspector General for Tax Administration
+T29	Campaign 627 641	fraudulent tax
+T30	Time 661 682	between 2013 and 2015
+T31	Organization 729 732	IRS
+T32	Time 703 724	around that same time
+T33	Campaign 773 790	malware incidents
+T34	Time 798 813	2016 tax season
+T35	Number 827 838	400 percent
+T36	Organization 1068 1105	external digital risk management team
+T37	Domain 1147 1155	dark web
+T38	Campaign 1188 1197	tax fraud
+T39	Time 1205 1214	this year
+T40	Time 1222 1230	February
+T41	Time 1258 1262	2017
+T42	Number 1287 1300	40 percent of
+T43	Time 1305 1309	2016
+T44	Person 1317 1329	Rick Holland
+T45	Person 1331 1364	VP of strategy at Digital Shadows
+T46	Domain 1416 1424	dark web
+T9	Money 1467 1469	$4
+T47	Campaign 1548 1556	campaign
+T48	Hacker-Group 1561 1574	cybercriminal
+T49	Person 1601 1603	he
+T50	Malware 1663 1670	malware
+T51	Time 1686 1695	this time
+T52	Attack-Pattern 1765 1793	looks like it’s from the IRS
+T16	Email 1810 1826	malicious emails
+T53	Malware 1856 1863	malware
+T54	Device 1869 1877	computer
+T55	Attack-Pattern 1845 1896	delivering malware to a computer for other purposes
+T56	Purpose 1907 1930	participate in a botnet
+T57	Person 2170 2177	Holland
+T58	Time 2191 2205	end of the day
+T59	Hacker-Group 2207 2217	fraudsters
+T60	Attack-Pattern 2281 2299	social engineering
+T61	Person 2389 2398	consumers
+T62	Person 2403 2413	businesses
+T63	Hacker-Group 2466 2491	cyber campaigns criminals
+T64	Time 2510 2520	tax season
+T65	Campaign 2544 2549	fraud
+T66	Time 2587 2604	this time of year
+T67	Hacker-Group 2606 2620	Cybercriminals
+T68	Information 2653 2676	credit card information
+T69	Attack-Pattern 2740 2766	social engineering tactics
+T70	Hacker-Group 2774 2783	criminals
+T71	Information 2814 2826	payment data
+T72	Purpose 2836 2846	make money
+T73	Campaign 2106 2108	it
+T74	Hacker-Group 2686 2690	they
+T75	Person 2066 2067	I
+T78	Hacker-Group 2239 2243	they
+T79	Email 235 239	they
+*	Coreference T12 T7 T73
+*	Coreference T17 T31
+*	Coreference T37 T46 T24
+*	Coreference T20 T25 T65 T38 T80 T81
+*	Coreference T44 T3 T57 T22 T45 T49 T75 T84
+*	Coreference T50 T53
+*	Coreference T66 T64
+*	Coreference T60 T69
+*	Coreference T79 T2
+*	Coreference T26 T19 T32
+*	Coreference T23 T1
+T80	Campaign 877 887	fraudulent
+T81	Campaign 940 949	tax fraud
+T82	Hacker-Group 961 976	Digital Shadows
+*	Coreference T48 T8 T13
+*	Coreference T16 T15
+T76	Purpose 1888 1896	purposes
+*	Coreference T56 T76
+T83	Hacker-Group 2146 2157	adversaries
+*	Coreference T78 T59
+T84	Person 2343 2350	Holland
+*	Coreference T67 T63 T74 T70

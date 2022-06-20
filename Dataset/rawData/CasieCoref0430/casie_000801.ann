@@ -1,0 +1,119 @@
+T5	Campaign 892 897	trick
+T7	Software 923 938	the real Chrome
+T4	Malware 874 882	Betaling
+T6	Person 898 903	users
+T2	Information 67 79	user details
+T12	Campaign 1971 1979	collects
+T14	Information 1984 1995	information
+T13	Malware 1962 1970	Betaling
+T10	Campaign 1536 1542	loaded
+T11	Software 1550 1566	a Chrome browser
+T9	Domain 1520 1535	a phishing page
+T8	Malware 1507 1515	Betaling
+T15	Software 510 523	Google Chrome
+T16	Organization 125 138	MalwareHunter
+T17	Email 82 103	 an AOL email address
+T1	Malware 4 7	app
+T3	Software 431 457	 the Google Chrome browser
+T18	File 395 412	Google Chrome.exe
+T19	Device 844 859	 a Windows 7 PC
+T20	Malware 604 622	 the malicious app
+T21	Person 632 637	users
+T22	Version 655 705	 a minimum version of .NET Framework 4.0 or higher
+T23	Software 730 743	Google Chrome
+T24	System 794 810	Windows 8/8.1/10
+T25	Software 762 770	 the app
+T26	Email 2011 2032	 an AOL email address
+T27	Email 2058 2077	 This email address
+T28	Person 2098 2118	security researchers
+T29	Code 2127 2157	 the application's source code
+T30	Person 2346 2357	researchers
+T31	Time 2437 2449	January 2016
+T32	Person 2476 2483	victims
+T33	Person 2565 2587	 a security researcher
+T34	Email 2787 2802	email addresses
+T35	Email 2965 2983	patrick***@live.nl
+T36	Email 2988 3012	patrick*******@gmail.com
+T37	Path 3137 3154	C:\Users\Patrick\
+T38	Email 3596 3605	 an email
+T39	Email 3610 3626	 the AOL account
+T40	Email 3630 3655	ankit******@speedpost.net
+T41	Vulnerability 3713 3717	bugs
+T42	Organization 3543 3560	Bleeping Computer
+T43	Person 3532 3537	Guido
+T44	Time 3569 3580	August 2016
+T45	Email 3476 3491	email addresses
+T46	Email 3336 3351	email addresses
+T47	File 3085 3104	Betaling's PDB file
+T48	Malware 2637 2649	 the malware
+T49	Malware 2285 2293	 the app
+T50	Email 2036 2057	whatsapp.hack@aol.com
+T51	Malware 1730 1742	 the malware
+T52	Attack-Pattern 1866 1898	some data validation takes place
+T53	Attack-Pattern 1816 1835	blind to user input
+T54	Domain 1786 1809	 the fake Chrome window
+T55	Email 2835 2859	 the author's own emails
+T56	Person 1296 1301	users
+T57	Number 1271 1292	hundreds or thousands
+T58	Malware 1239 1246	malware
+T59	Person 1379 1399	security researchers
+T60	Person 563 580	experienced users
+T61	File 3174 3182	EXE file
+T62	Person 2531 2533	he
+T63	Software 1170 1172	it
+T64	Person 2180 2184	they
+T65	Malware 918 920	it
+T66	Information 2006 2008	it
+T67	Purpose 481 483	it
+T70	Person 1602 1606	they
+T71	Software 1144 1146	it
+T72	Software 1129 1131	it
+T73	Person 2867 2869	he
+T74	Malware 139 156	 this application
+T75	Malware 298 310	applications
+T76	Malware 366 375	 This app
+T77	Purpose 424 457	pass as the Google Chrome browser
+T78	Malware 485 493	Betaling
+T79	Purpose 706 720	 a requirement
+T80	Software 986 1011	the rest of the Chrome UI
+T81	Malware 1327 1335	Betaling
+T82	Malware 1340 1343	its
+T83	Malware 1423 1431	Betaling
+T84	Malware 1450 1453	its
+T85	Person 1480 1498	Non-infosec people
+T86	Software 1625 1641	 a Chrome window
+T87	Malware 1668 1676	Betaling
+T88	Purpose 1710 1715	Dutch
+T89	Purpose 1753 1759	target
+T90	Information 2199 2210	recent logs
+T91	Information 2319 2330	recent logs
+T92	Malware 2336 2344	Betaling
+T93	Information 2369 2373	logs
+T94	Information 2405 2416	 These logs
+T95	Information 2463 2470	details
+T68	Person 2651 2656	Guido
+T96	Person 2613 2618	Guido
+T97	Malware 2678 2690	 the malware
+T98	Information 2735 2754	 the keylogger logs
+T99	Email 2826 2831	these
+T100	Person 2835 2846	 the author
+T101	Malware 3085 3093	Betaling
+T69	Person 3454 3464	 the owner
+*	Coreference T3 T11 T18 T23 T15 T86
+*	Coreference T56 T21 T6
+*	Coreference T30 T28 T33 T59 T64 T62
+*	Coreference T35 T36
+*	Coreference T34 T45 T17 T27 T46 T26
+*	Coreference T77 T67
+*	Coreference T22 T79
+*	Coreference T80 T72 T71 T63
+*	Coreference T85 T70
+*	Coreference T8 T87 T51 T49 T1 T25 T74 T75 T76 T78 T20 T4 T13 T65 T58 T81 T82 T83 T84 T92 T48 T97 T101
+*	Coreference T88 T89
+*	Coreference T9 T54
+*	Coreference T14 T66
+*	Coreference T90 T91
+*	Coreference T93 T94 T95 T98
+*	Coreference T96 T68 T43
+*	Coreference T99 T55
+*	Coreference T100 T73

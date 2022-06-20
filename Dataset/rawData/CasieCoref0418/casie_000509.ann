@@ -1,0 +1,74 @@
+T13	Campaign 622 631	an attack
+T10	Organization 572 584	the ministry
+T11	Organization 589 605	other facilities
+T12	Time 635 649	early February
+T6	Person 288 297	employees
+T5	Person 264 283	national servicemen
+T4	Information 239 256	the personal data
+T16	Information 725 738	date of birth
+T17	Information 706 719	phone numbers
+T18	Information 682 704	identification numbers
+T19	Information 657 670	personal data
+T15	Campaign 781 793	the incident
+T20	Campaign 839 854	was compromised
+T21	Information 816 838	classified information
+T1	Campaign 163 171	a breach
+T2	System 175 203	an Internet-connected system
+T3	Time 204 222	earlier this month
+T22	Time 97 108	February 28
+T7	Location 411 420	Singapore
+T8	Organization 485 491	MINDEF
+T24	Organization 140 146	MINDEF
+T23	Organization 110 138	Singapore’s defense ministry
+T25	Person 518 527	personnel
+T26	Purpose 531 550	access the Internet
+T9	System 881 896	separate system
+T27	Domain 993 1005	cyber domain
+T28	Location 1022 1046	highly-networked country
+T29	Location 1048 1057	Singapore
+T30	Time 1204 1213	last year
+T31	Organization 1215 1223	Deloitte
+T32	Location 1235 1244	Singapore
+T33	Campaign 1299 1312	cyber attacks
+T34	Campaign 1355 1367	Cyberattacks
+T35	Location 1320 1329	Singapore
+T36	Location 1371 1375	Asia
+T37	Location 1392 1401	Singapore
+T39	Campaign 2125 2137	cyber attack
+T40	Organization 2143 2149	MINDEF
+T41	Purpose 2258 2292	gaining access to official secrets
+T42	Organization 2312 2333	Singaporean officials
+T43	Campaign 2362 2368	attack
+T44	Hacker-Group 2405 2420	regular hackers
+T45	Person 2485 2491	actors
+T46	Person 1712 1727	Lee Hsien Loong
+T47	Campaign 1930 1942	cyber attack
+T48	Course-of-Action 1509 1545	safeguarding critical infrastructure
+T50	Course-of-Action 1482 1507	creating new institutions
+T51	Purpose 1448 1470	boosting cybersecurity
+T38	Number 260 263	850
+T52	Vulnerability 393 405	difficulties
+T53	System 497 509	I-net system
+T14	Course-of-Action 1586 1628	collaborating more with the private sector
+T54	Time 1840 1857	October last year
+T55	Time 1943 1952	this week
+T61	Campaign 430 432	it
+T62	Campaign 2198 2200	it
+*	Coreference T12 T22
+*	Coreference T40 T8 T24 T23
+T59	Campaign 4 10	breach
+T65	Location 39 51	Asian states
+T66	Campaign 79 92	cyber threats
+T64	Campaign 337 343	breach
+*	Coreference T64 T1 T67 T61
+T67	Campaign 363 365	it
+T57	Information 863 865	it
+*	Coreference T21 T57
+*	Coreference T15 T13
+T56	Location 952 954	it
+*	Coreference T56 T28 T37 T7 T35 T32 T29 T60
+T60	Location 1088 1090	it
+T63	Person 1697 1711	Prime Minister
+*	Coreference T63 T46
+*	Coreference T47 T39 T62 T43
+T49	Course-of-Action 1547 1580	training cyber security personnel

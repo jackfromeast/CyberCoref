@@ -1,0 +1,82 @@
+T17	Campaign 1239 1259	the Pawn Storm phish
+T21	Software 1312 1327	Google Defender
+T18	Software 1210 1230	The fake application
+T20	File 1276 1299	a Google security alert
+T22	Campaign 1330 1343	Today's phish
+T10	Email 130 132	It
+T6	Person 141 149	the user
+T5	Domain 153 169	a lookalike site
+T2	Email 18 24	e-mail
+T3	Campaign 96 128	a well-disguised phishing attack
+T8	Campaign 323 332	the phish
+T11	Person 236 246	the victim
+T31	Purpose 271 295	give the site permission
+T16	Campaign 437 446	The phish
+T28	Campaign 1712 1721	the phish
+T26	Person 1525 1533	contacts
+T24	Domain 1481 1499	the malicious site
+T14	Person 351 363	the contacts
+T32	Information 303 321	Google credentials
+T1	File 60 83	 a Google Docs document
+T4	Email 41 51	 a request
+T9	Campaign 812 823	 The attack
+T34	Domain 1828 1840	 The domains
+T35	Campaign 1848 1859	 the attack
+T36	Organization 1884 1893	NameCheap
+T37	Software 1903 1934	 a Panama-based privacy service
+T38	Information 1945 1974	 the registration information
+T39	Information 1975 1989	 The hostnames
+T40	Device 2005 2014	 a server
+T41	Campaign 2022 2051	Cloudflare's content delivery
+T42	System 2056 2092	denial-of-service protection network
+T43	Domain 1685 1695	 the sites
+T44	Information 1810 1827	victims' accounts
+T45	Malware 1777 1786	 the worm
+T25	Malware 1657 1666	 the worm
+T46	Organization 1632 1638	Google
+T30	Information 1538 1558	 the target's e-mail
+T27	Person 1450 1461	 the target
+T47	Person 1602 1606	them
+T48	Email 1568 1598	copies of the original message
+T49	Information 1418 1446	the name of Google's service
+T50	Software 1395 1411	fake application
+T19	Attack-Pattern 1344 1392	asks the target to grant access to "Google Docs"
+T23	Software 1380 1391	Google Docs
+T13	File 366 398	 the victim's Gmail address book
+T15	Person 408 412	them
+T29	File 415 435	 its list of targets
+T12	Software 828 863	 the OAuth authentication interface
+T33	Software 892 904	Web services
+T51	Person 914 919	users
+T52	Information 943 954	 a password
+T53	Software 967 972	OAuth
+T54	Campaign 973 984	 the attack
+T55	Course-of-Action 1071 1090	 the authentication
+T56	Email 1142 1154	 your e-mail
+T57	Software 1189 1207	 your Google Drive
+T58	File 1176 1186	 the files
+T59	Email 638 649	 The e-mail
+T60	Attack-Pattern 654 666	 a technique
+T61	File 671 692	 a Trend Micro report
+T62	Campaign 736 754	espionage campaign
+T63	Campaign 713 723	Pawn Storm
+T64	Campaign 780 811	Russian intelligence operations
+T66	Domain 570 580	 the sites
+T67	Number 490 501	a number of
+T68	Person 502 511	reporters
+T69	System 548 561	 the Internet
+T70	Attack-Pattern 133 169	directs the user to a lookalike site
+T71	Attack-Pattern 174 231	grants the site access to the target's Google credentials
+T7	Information 199 231	 the target's Google credentials
+T75	Campaign 517 519	it
+T72	Campaign 597 607	the attack
+*	Coreference T18 T50
+*	Coreference T45 T25
+*	Coreference T2 T10
+*	Coreference T11 T6
+*	Coreference T32 T7
+*	Coreference T15 T14
+*	Coreference T8 T16 T3 T72 T75
+*	Coreference T63 T62 T9 T54 T17 T28 T35 T22
+*	Coreference T53 T12
+*	Coreference T26 T47

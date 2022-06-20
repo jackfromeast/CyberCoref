@@ -1,0 +1,49 @@
+T8	Campaign 155 176	had been held hostage
+T9	System 140 154	health network
+T10	Time 183 196	late Thursday
+T11	Attack-Pattern 203 226	ransomware locked files
+T12	Campaign 402 405	pay
+T15	Time 388 398	seven days
+T14	Organization 375 387	the hospital
+T13	Hacker-Group 365 369	They
+T7	Attack-Pattern 428 449	permanently encrypted
+T2	Campaign 28 32	paid
+T6	Organization 13 27	Hancock Health
+T1	Money 35 42	$55,000
+T4	Hacker-Group 53 60	hackers
+T5	System 81 101	its computer systems
+T20	Campaign 882 891	asked for
+T21	Hacker-Group 871 881	The hacker
+T24	Attack-Pattern 935 962	make anonymous transactions
+T3	Money 43 49	ransom
+T23	Organization 802 810	business
+T16	Campaign 538 547	was taken
+T18	Information 509 537	personal patient information
+T17	Hacker-Group 551 562	the hackers
+T26	Person 862 864	he
+T27	File 721 725	them
+T28	Organization 0 10	GREENFIELD
+*	Coreference T28 T6 T14
+T29	Person 103 121	hospital officials
+T30	Malware 203 213	ransomware
+T31	File 221 226	files
+T32	Information 237 260	patient medical records
+T33	Hacker-Group 266 273	hackers
+T34	File 299 304	files
+*	Coreference T31 T34 T25 T40 T27
+*	Coreference T13 T33 T17
+T25	File 413 418	files
+T37	Person 451 460	officials
+*	Coreference T29 T37
+T38	Campaign 489 495	attack
+T39	Person 611 640	Hancock Health CEO Steve Long
+T40	File 646 660	affected files
+T41	Person 784 788	Long
+*	Coreference T39 T41 T26
+T42	Money 838 844	ransom
+T19	Money 897 905	bitcoins
+T22	Money 908 926	a virtual currency
+*	Coreference T19 T22
+T43	Money 1035 1048	four bitcoins
+T44	Money 1070 1077	$55,000
+*	Coreference T43 T44 T1 T3

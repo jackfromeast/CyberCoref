@@ -1,0 +1,50 @@
+T17	Campaign 587 593	forged
+T21	Attack-Pattern 579 581	He
+T18	File 594 615	security certificates
+T19	Campaign 617 632	masquerading as
+T20	Organization 633 647	a safe company
+T9	Campaign 416 420	sent
+T11	Organization 447 472	a legitimate organization
+T10	File 421 427	emails
+T8	Person 407 415	attacker
+T12	Campaign 490 496	attack
+T13	Organization 497 514	120 organizations
+T14	Organization 516 534	government offices
+T16	Person 561 577	private citizens
+T15	Organization 536 555	public institutions
+T1	Campaign 9 15	forges
+T2	File 16 37	security certificates
+T3	Person 0 8	Attacker
+T4	Campaign 39 44	sends
+T5	File 45 51	emails
+T6	Organization 55 73	government offices
+T7	Person 78 94	private citizens
+T22	Campaign 189 202	cyber attacks
+T23	Organization 122 159	National Authority for Cyber Security
+T24	Domain 902 921	Authority's website
+T25	Organization 653 690	National Authority for Cyber Security
+T27	Hacker-Group 368 370	he
+*	Coreference T17 T1
+*	Coreference T18 T2
+*	Coreference T9 T4
+*	Coreference T10 T5
+*	Coreference T8 T3
+*	Coreference T14 T6
+*	Coreference T16 T7
+T29	Organization 254 263	Authority
+*	Coreference T23 T29 T25
+T30	Campaign 277 285	evidence
+T31	Campaign 169 177	evidence
+*	Coreference T31 T30
+T32	Campaign 315 319	plan
+T33	Campaign 181 188	planned
+*	Coreference T33 T32
+*	Coreference T27 T21
+T28	Location 229 248	Israeli marketplace
+T34	Location 803 822	Israeli marketplace
+*	Coreference T28 T34
+T35	Campaign 836 843	attacks
+*	Coreference T22 T35
+T36	Course-of-Action 764 774	guidelines
+T37	Course-of-Action 866 876	guidelines
+*	Coreference T36 T37

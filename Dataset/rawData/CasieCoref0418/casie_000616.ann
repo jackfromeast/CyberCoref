@@ -1,0 +1,109 @@
+T3	Organization 498 521	The British News Agency
+T6	Hacker-Group 451 460	The group
+T13	Organization 1074 1091	service providers
+T14	Software 1097 1102	Gmail
+T15	Software 1106 1114	Facebook
+T17	Person 1124 1130	people
+T11	Attack-Pattern 1026 1040	spear phishing
+T52	Attack-Pattern 998 1019	watering hole attacks
+T8	Organization 910 924	real companies
+T9	Attack-Pattern 871 887	false identities
+T33	Information 1729 1736	account
+T36	Person 1770 1782	a journalist
+T37	Person 1787 1807	political researcher
+T38	Organization 1811 1820	KNBC News
+T32	Email 1699 1707	Messages
+T27	Information 1642 1650	accounts
+T25	Email 1602 1608	emails
+T26	Email 1613 1636	Twitter direct messages
+T28	Location 1576 1591	the Middle East
+T30	Location 1567 1571	Iran
+T29	Person 1544 1563	Israeli researchers
+T47	Information 1677 1697	Jewish Israeli names
+T40	Person 1870 1901	an Israeli political researcher
+T39	Email 1828 1836	messages
+T48	Location 1912 1922	California
+T49	Organization 1998 2019	an Israeli university
+T43	Email 2029 2036	message
+T42	Person 2066 2079	a Jewish girl
+T46	Location 2090 2094	Iran
+T22	Domain 1331 1349	legitimate website
+T53	Information 1361 1368	details
+T54	Person 1379 1385	agency
+T55	Information 1392 1404	contact list
+T56	Person 1412 1427	management team
+T20	Organization 1468 1479	the targets
+T23	Purpose 1484 1508	infect them with malware
+T21	Domain 1444 1452	the site
+T51	Information 832 855	private social accounts
+T57	Hacker-Group 0 12	Hacker group
+T58	Hacker-Group 14 29	Charming Kitten
+T59	Information 67 78	information
+T60	Organization 98 116	cybersecurity firm
+T61	Organization 117 125	ClearSky
+T62	Hacker-Group 130 159	Iranian cyber espionage group
+T63	Hacker-Group 169 184	Charming Kitten
+T64	Campaign 212 220	campaign
+T65	Person 231 251	academic researchers
+T66	Person 253 275	human rights activists
+T67	Location 326 330	Iran
+T68	Organization 277 290	media outlets
+T69	Person 295 313	political advisors
+T70	File 347 353	report
+T71	Time 364 381	earlier this week
+T72	Organization 398 425	threat intelligence company
+T73	Organization 426 449	ClearSky Cyber Security
+T1	Location 578 582	Iran
+T2	Purpose 525 540	lure targets in
+T4	Organization 479 490	news outlet
+T74	Location 588 591	U.S
+T75	Location 594 600	Israel
+T76	Location 609 612	U.K
+T77	File 619 625	report
+T78	Location 651 660	countries
+T79	Location 555 570	group's targets
+T80	Location 636 640	some
+T81	Location 671 677	France
+T82	Location 679 686	Germany
+T83	Location 688 699	Switzerland
+T84	Location 701 708	Denmark
+T85	Location 710 715	India
+T86	Location 717 723	Turkey
+T87	Location 732 752	United Arab Emirates
+T88	File 759 765	report
+T5	Attack-Pattern 787 794	methods
+T50	Purpose 803 855	gain access to computers and private social accounts
+T89	Device 818 827	computers
+T7	Attack-Pattern 889 924	the impersonation of real companies
+T10	Attack-Pattern 926 981	the insertion of malicious code into a breached website
+T90	Domain 965 981	breached website
+T91	Code 943 957	malicious code
+T12	Attack-Pattern 1057 1091	pretending to be service providers
+T16	Purpose 1118 1167	trick people into giving out personal information
+T18	Information 1147 1167	personal information
+T92	Organization 1267 1286	British News Agency
+T93	Organization 1171 1215	significant mainstay of the group's activity
+T19	Purpose 1460 1479	attract the targets
+T45	Malware 1501 1508	malware
+T96	Organization 1491 1495	them
+T97	File 1527 1533	report
+T24	Purpose 1974 1994	apply for a position
+T31	Email 2102 2110	messages
+T34	Domain 2127 2141	phishing pages
+T35	Organization 2143 2151	ClearSky
+T41	Information 2177 2185	accounts
+T44	Campaign 2247 2254	attacks
+T98	Number 2225 2237	success rate
+T99	Number 2266 2276	around 10%
+T100	Person 2283 2292	Mr. Dolev
+*	Coreference T3 T92 T94 T93
+*	Coreference T58 T63 T57 T62 T6
+*	Coreference T61 T35 T60
+*	Coreference T1 T30 T67 T46
+*	Coreference T73 T72
+*	Coreference T88 T77 T70 T97
+T102	Attack-Pattern 857 862	Those
+*	Coreference T102 T5
+*	Coreference T10 T52 T11
+T94	Organization 1224 1255	establishment of a media outlet
+*	Coreference T20 T96

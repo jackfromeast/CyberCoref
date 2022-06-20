@@ -1,0 +1,139 @@
+T1	Hacker-Group 455 462	hackers
+T3	Information 469 473	data
+T4	System 479 495	infected systems
+T5	Campaign 6 16	ATM heists
+T6	Hacker-Group 35 51	group of hackers
+T7	Time 75 80	years
+T8	Time 97 110	starting 2016
+T9	Hacker-Group 117 122	group
+T10	Software 145 168	legitimate Windows apps
+T11	Malware 173 189	fileless malware
+T12	Organization 203 222	government agencies
+T13	Organization 227 232	banks
+T14	Number 245 247	40
+T15	Location 248 257	countries
+T16	Attack-Pattern 139 189	using legitimate Windows apps and fileless malware
+T17	Campaign 273 280	attacks
+T18	Attack-Pattern 286 305	stealthy techniques
+T19	Attack-Pattern 311 355	left a minimal footprint on infected servers
+T20	Device 339 355	infected servers
+T21	Person 357 370	investigators
+T22	Person 436 440	they
+T2	Purpose 463 473	stole data
+T23	Information 526 530	data
+T24	Person 504 508	they
+T25	Campaign 555 562	attacks
+T26	Time 582 590	recently
+T27	Person 592 631	Security researchers from Kaspersky Lab
+T28	Person 637 641	ones
+T29	Campaign 661 676	initial attacks
+T30	Time 677 690	this February
+T31	Person 700 704	they
+T32	Purpose 719 726	purpose
+T33	Campaign 742 752	bank hacks
+T34	Organization 772 795	Security Analyst Summit
+T35	Organization 797 800	SAS
+T36	Time 807 817	these days
+T37	Person 834 859	Kaspersky Lab researchers
+T38	Hacker-Group 865 871	crooks
+T39	System 887 912	networks of various banks
+T40	Code 927 935	exploits
+T41	Hacker-Group 943 947	they
+T42	Software 953 977	legitimate Windows tools
+T43	Malware 982 1000	PowerShell malware
+T44	Purpose 1004 1025	escalate their access
+T45	System 1029 1043	nearby systems
+T46	System 1066 1072	system
+T47	System 1090 1108	bank's ATM network
+T48	Hacker-Group 1110 1117	Hackers
+T49	System 1128 1162	system's remote management feature
+T50	Device 1181 1185	ATMs
+T51	Protocol 1190 1193	RDP
+T52	Attack-Pattern 1118 1193	used this system's remote management feature to connect to the ATMs via RDP
+T53	Hacker-Group 1195 1199	They
+T54	Attack-Pattern 1205 1275	transferred and installed a new breed of ATM malware on these machines
+T55	Malware 1233 1257	new breed of ATM malware
+T56	Device 1267 1275	machines
+T57	Person 1283 1304	Kaspersky Lab experts
+T58	Malware 1312 1319	ATMitch
+T59	Malware 1326 1333	malware
+T60	Attack-Pattern 1344 1393	reading a local command.txt file for instructions
+T61	File 1360 1376	command.txt file
+T62	Hacker-Group 1400 1409	attackers
+T63	Hacker-Group 1415 1419	they
+T64	Attack-Pattern 1424 1458	partners in front of specific ATMs
+T65	Hacker-Group 1460 1464	they
+T66	Attack-Pattern 1467 1510	upload instructions to the command.txt file
+T67	File 1494 1510	command.txt file
+T68	Malware 1519 1526	malware
+T69	File 1541 1545	them
+T70	Purpose 1547 1563	spewing out cash
+T71	File 1574 1585	log entries
+T72	Person 1587 1598	researchers
+T73	Device 1611 1614	ATM
+T74	Hacker-Group 1697 1711	ATMs attackers
+T75	Attack-Pattern 1731 1740	technique
+T76	Malware 1753 1760	malware
+T77	Attack-Pattern 1767 1804	self-delete once the attack would end
+T78	Campaign 1788 1794	attack
+T79	Malware 1806 1831	cleaning up all its files
+T80	File 1826 1831	files
+T81	Device 1869 1872	ATM
+T82	Malware 1877 1884	malware
+T83	Attack-Pattern 1885 1919	left behind a file named "tv.dll."
+T84	File 1899 1903	file
+T85	File 1911 1917	tv.dll
+T86	Person 1950 1961	researchers
+T87	Malware 1992 1999	malware
+T88	Malware 2018 2020	it
+T89	Organization 2029 2034	banks
+T90	Hacker-Group 2059 2064	group
+T91	Time 2080 2098	this past February
+T92	Hacker-Group 2065 2069	they
+T93	Course-of-Action 2011 2034	traced it back to banks
+T94	Person 2111 2122	researchers
+T95	Course-of-Action 2123 2154	tracked down only two incidents
+T96	Campaign 2145 2154	incidents
+T97	Malware 2160 2167	ATMitch
+T98	Organization 2174 2178	bank
+T99	Location 2182 2188	Russia
+T100	Organization 2193 2196	one
+T101	Location 2200 2210	Kazakhstan
+T102	Person 2216 2220	they
+T103	Organization 2313 2324	hacked bank
+T104	Device 2332 2342	hacked ATM
+T105	Malware 2414 2435	self-deleting malware
+T106	Code 2440 2468	malicious PowerShell scripts
+T107	Attack-Pattern 2469 2488	executing in memory
+T108	Attack-Pattern 2490 2527	without leaving any artifacts on disk
+T109	Device 2538 2558	bank server/computer
+T110	Device 2566 2569	AMT
+T111	Attack-Pattern 2595 2622	clues are wiped from memory
+T112	Malware 2624 2631	ATMitch
+T113	Malware 2649 2660	ATM malware
+T114	Device 2690 2694	ATMs
+T115	Malware 2745 2759	GreenDispenser
+T116	Version 2765 2780	recent versions
+T117	Malware 2788 2793	Alice
+T118	Malware 2798 2817	Ploutus ATM malware
+*	Coreference T3 T23
+*	Coreference T4 T45 T20
+*	Coreference T10 T42
+*	Coreference T18 T75
+*	Coreference T28 T27
+*	Coreference T30 T91
+*	Coreference T61 T67 T69
+*	Coreference T80 T84 T85
+*	Coreference T37 T94 T72 T86 T57 T121 T102
+*	Coreference T98 T89 T13
+*	Coreference T53 T62 T78 T74 T65 T63
+*	Coreference T87 T55 T68 T76 T82 T11 T88 T59 T105 T58 T112 T97
+*	Coreference T9 T6
+*	Coreference T17 T5 T25
+*	Coreference T22 T21 T24
+*	Coreference T34 T35
+T121	Person 825 832	Maarten
+*	Coreference T41 T38 T48
+*	Coreference T46 T47
+*	Coreference T92 T90
+*	Coreference T110 T104 T50 T114 T56 T73

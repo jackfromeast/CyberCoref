@@ -1,0 +1,30 @@
+T4	Hacker-Group 40 56	computer hackers
+T8	Organization 134 159	Kettell Video Productions
+T6	Attack-Pattern 188 211	encrypted all his files
+T7	Hacker-Group 176 183	hackers
+T13	Hacker-Group 441 445	They
+T12	Person 469 474	staff
+T10	Money 519 525	£1,000
+T11	Person 87 93	victim
+T3	Person 0 21	The boss of a company
+T1	Person 68 74	others
+T2	Time 95 108	Two years ago
+T14	Organization 109 133	Stuart Kettell’s company
+T15	File 201 211	 his files
+T5	Attack-Pattern 216 246	demanded money to decrypt them
+T16	Money 225 230	money
+T17	File 242 246	them
+T18	Campaign 338 356	 this cyber attack
+T19	Person 248 262	Stuart Kettell
+T20	Money 303 315	charity fund
+T21	Hacker-Group 369 381	 The hackers
+T22	System 394 410	computer systems
+T23	Information 488 505	 the company data
+T24	Money 529 553	online currency bitcoins
+T9	Location 413 425	 the Warwick
+T25	Organization 432 439	company
+T26	Vulnerability 561 568	matters
+*	Coreference T14 T8 T25
+*	Coreference T15 T17
+*	Coreference T10 T24
+*	Coreference T13 T21

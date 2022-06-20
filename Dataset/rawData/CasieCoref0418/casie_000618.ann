@@ -1,0 +1,58 @@
+T7	Information 756 779	personal health records
+T6	Time 800 804	2015
+T4	Time 240 252	recent years
+T2	Information 189 214	electronic health records
+T16	Person 1215 1232	American citizens
+T15	Time 1142 1156	last few years
+T11	Organization 938 955	Johnson & Johnson
+T13	Time 927 936	Last fall
+T10	Device 987 1004	its insulin pumps
+T9	Vulnerability 1009 1033	a security vulnerability
+T1	Person 0 10	Regulators
+T8	Person 15 36	medical-device-makers
+T18	Number 169 185	Tens of millions
+T20	Course-of-Action 56 91	expected barrage of hacking attacks
+T21	Campaign 76 91	hacking attacks
+T3	Number 256 262	number
+T22	Person 284 288	some
+T23	Campaign 309 329	High-profile attacks
+T24	Organization 339 348	hospitals
+T25	Person 353 368	health insurers
+T27	Device 423 438	medical devices
+T28	Device 444 454	pacemakers
+T29	Device 459 472	insulin pumps
+T30	Organization 478 506	Food and Drug Administration
+T31	Organization 508 511	FDA
+T32	Vulnerability 557 562	issue
+T33	Organization 603 611	agencies
+T34	Campaign 643 662	medical device hack
+T35	Time 727 732	years
+T36	Number 734 755	More than 113 million
+T5	Time 921 925	2014
+T37	Information 819 832	provider data
+T38	Organization 849 888	Department of Health and Human Services
+T39	Organization 890 893	DHS
+T40	Number 896 906	nine times
+T12	Person 972 981	customers
+T41	Number 1169 1196	more than a hundred million
+T19	Hacker-Group 1039 1046	hackers
+T42	Device 1071 1077	device
+T43	Purpose 1060 1077	access the device
+T44	Purpose 1082 1127	cause a potentially fatal overdose of insulin
+T17	Information 1197 1232	health records of American citizens
+T14	Campaign 1257 1282	well-publicized incidents
+T45	Person 1285 1295	Terry Rice
+T46	Person 1297 1333	vice president of IT risk management
+T47	Person 1338 1391	chief information security officer at Merck & Company
+T48	Organization 1402 1431	Energy and Commerce Oversight
+T49	Organization 1436 1463	Investigations Subcommittee
+T50	Time 1464 1473	last week
+T51	Campaign 140 144	them
+T52	Person 1158 1160	we
+*	Coreference T51 T21
+*	Coreference T30 T31
+T53	Vulnerability 402 421	a new vulnerability
+*	Coreference T32 T53
+*	Coreference T38 T39
+*	Coreference T42 T10
+*	Coreference T45 T46 T47

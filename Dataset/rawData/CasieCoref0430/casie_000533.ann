@@ -1,0 +1,116 @@
+T15	Information 1284 1288	data
+T17	Device 1294 1312	infected computers
+T16	Attack-Pattern 1223 1245	The malware's features
+T2	Information 246 264	GBs of information
+T31	Campaign 2389 2398	collected
+T35	Organization 2345 2362	the Internet cafe
+T34	Hacker-Group 2364 2373	the crook
+T32	Information 2408 2418	data alone
+T47	Campaign 2986 3013	data theft and exfiltration
+T48	Malware 2950 2963	its botmaster
+T49	Malware 2935 2945	GhostAdmin
+T37	System 2494 2504	a database
+T38	Information 2513 2524	information
+T46	Organization 2425 2444	the lottery company
+T45	Malware 2446 2470	the GhostAdmin botmaster
+T39	Information 2533 2538	names
+T40	Information 2540 2555	dates of births
+T41	Information 2557 2570	phone numbers
+T44	Information 2591 2611	employer information
+T43	Information 2580 2589	addresses
+T42	Information 2572 2578	emails
+T10	Attack-Pattern 1057 1072	exfiltrate data
+T27	Campaign 2231 2240	be stolen
+T28	Person 2246 2264	GhostAdmin victims
+T30	Information 2192 2213	the same server files
+T3	Malware 6 16	GhostAdmin
+T4	Malware 46 60	botnet malware
+T5	Information 85 104	current information
+T6	Malware 105 117	 the malware
+T7	Campaign 157 169	live attacks
+T8	Organization 210 223	two companies
+T1	Purpose 194 223	target at least two companies
+T9	Purpose 228 264	steal hundreds of GBs of information
+T11	Organization 279 296	MalwareHunterTeam
+T12	Person 307 318	researchers
+T13	Code 338 364	 the malware's source code
+T18	Malware 366 376	GhostAdmin
+T19	Version 388 421	 a reworked version of CrimeScene
+T20	Malware 431 452	botnet malware family
+T21	Time 476 489	3-4 years ago
+T22	Malware 507 517	GhostAdmin
+T23	Version 553 564	version 2.0
+T24	Malware 565 577	 The malware
+T25	Attack-Pattern 587 606	infecting computers
+T26	Device 597 606	computers
+T29	Attack-Pattern 608 632	gaining boot persistence
+T33	Attack-Pattern 638 717	establishing a communications channel with its command and control (C&C) server
+T50	Device 680 717	 its command and control (C&C) server
+T51	Hacker-Group 744 764	GhostAdmin's authors
+T52	Device 857 875	infected computers
+T53	Attack-Pattern 765 791	access to this IRC channel
+T54	Attack-Pattern 796 855	issue commands that will be picked up by all connected bots
+T55	Device 837 855	all connected bots
+T56	Malware 877 889	 The malware
+T57	System 907 931	 the victim's filesystem
+T58	URL 952 956	URLs
+T59	Attack-Pattern 894 931	interact with the victim's filesystem
+T60	Attack-Pattern 933 956	browse to specific URLs
+T61	Attack-Pattern 958 988	download and execute new files
+T62	File 979 988	new files
+T63	Attack-Pattern 990 1006	take screenshots
+T64	Attack-Pattern 1008 1020	record audio
+T65	Attack-Pattern 1029 1055	remote desktop connections
+T66	Attack-Pattern 1074 1090	delete log files
+T67	File 1081 1090	log files
+T68	Attack-Pattern 1092 1121	interact with local databases
+T69	File 1106 1121	local databases
+T70	Attack-Pattern 1123 1144	wipe browsing history
+T14	Device 1336 1352	 a remote server
+T71	Malware 1354 1364	GhostAdmin
+T72	File 1382 1403	 a configuration file
+T73	File 1433 1443	 this file
+T74	Information 1455 1480	FTP and email credentials
+T75	Information 1481 1501	 The FTP credentials
+T76	Device 1509 1520	 the server
+T77	Information 1530 1553	 the stolen information
+T78	Information 1645 1667	 the email credentials
+T79	Email 1684 1693	 an email
+T81	Hacker-Group 1696 1718	 the GhostAdmin author
+T80	Person 1729 1738	 a victim
+T82	Malware 1747 1759	 his malware
+T83	Information 1775 1788	error reports
+T84	Organization 1790 1807	MalwareHunterTeam
+T85	Information 2916 2933	 its current form
+T86	Number 3088 3099	6 out of 55
+T87	Domain 3068 3078	VirusTotal
+T88	Number 3039 3064	GhostAdmin detection rate
+T36	Organization 2660 2677	MalwareHunterTeam
+T89	Device 2725 2733	ten bots
+T90	Malware 2787 2810	botnet malware families
+T91	Malware 2819 2825	Necurs
+T92	Malware 2829 2838	Andromeda
+T93	Malware 2851 2867	millions of bots
+T94	Malware 2869 2879	GhostAdmin
+T95	Person 2905 2912	victims
+T96	Number 2750 2767	victims headcount
+T97	Version 1817 1840	 the GhostAdmin version
+T98	Person 1868 1875	 a user
+T99	Person 1900 1905	Jarad
+T101	Person 1952 1957	Jarad
+T102	Device 1984 1992	computer
+T103	Information 1999 2019	 the FTP credentials
+T104	File 2028 2061	 the malware's configuration file
+T105	Organization 2063 2080	MalwareHunterTeam
+T106	Malware 2102 2112	GhostAdmin
+T107	Device 2133 2148	 the FTP server
+T108	Information 2087 2130	screenshots of GhostAdmin creator's desktop
+T109	Pronoun 1947 1950	him
+T110	Person 1841 1843	he
+T111	Information 1331 1333	it
+T100	Hacker-Group 1920 1939	all malware authors
+*	Coreference T44 T85
+*	Coreference T36 T11 T105 T84 T110
+*	Coreference T22 T49 T18 T106 T3 T6 T24 T56 T71 T94
+*	Coreference T15 T111
+*	Coreference T99 T101 T98

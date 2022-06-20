@@ -1,0 +1,132 @@
+T23	Attack-Pattern 1548 1578	required to view online videos
+T22	Malware 1479 1496	3rd party trojans
+T21	Software 1525 1538	flash updates
+T27	Purpose 1609 1636	install a number of malware
+T66	Attack-Pattern 3231 3250	fake computer scans
+T35	Purpose 3272 3288	buying a license
+T24	Person 3261 3266	users
+T31	Information 1894 1914	personal information
+T32	Information 1927 1941	sensitive info
+T6	Organization 541 563	the Russian Federation
+T7	Malware 447 467	anti-spyware program
+T2	Hacker-Group 235 239	they
+T3	Hacker-Group 146 155	Criminals
+T82	Malware 256 266	fake tools
+T4	Attack-Pattern 2077 2122	automate the complaint process for email spam
+T33	System 2033 2062	a legitimate anti-spam system
+T37	Malware 2019 2021	it
+T41	Information 2260 2278	the list of emails
+T56	Information 2987 3011	payment card information
+T58	Purpose 3043 3083	use that for further fraudulent purposes
+T68	Person 3357 3367	developers
+T72	Purpose 3376 3395	make a lot of money
+T38	Attack-Pattern 3399 3425	tempting users into paying
+T53	Malware 2822 2845	the first major malware
+T52	Purpose 2898 2920	paying the license fee
+T54	System 2856 2861	MacOS
+T18	Money 2938 2943	US$59
+T19	Money 2948 2953	US$79
+T46	Vulnerability 3759 3765	issues
+T47	System 3777 3784	Windows
+T7	Software 447 467	anti-spyware program
+T17	Malware 986 999	some variants
+T16	Information 1050 1076	sensitive user information
+T9	Malware 342 365	rogue security software
+T28	Campaign 2 37	 this day and age of online attacks
+T49	Device 90 98	computer
+T59	Device 109 116	devices
+T61	Purpose 124 144	 the various threats
+T62	Course-of-Action 176 203	existing security solutions
+T63	Device 206 217	 the device
+T1	Purpose 282 318	prevent these attacks from happening
+T64	Time 415 434	 the past few years
+T5	Malware 564 577	 The software
+T14	Protocol 610 620	 a license
+T65	Campaign 673 683	infections
+T69	File 689 710	critical system files
+T70	Software 731 745	 this software
+T73	Person 837 860	Microsoft Windows users
+T74	Malware 810 823	ANG Antivirus
+T75	Purpose 935 975	scare you into buying a software license
+T15	Malware 1439 1452	ANG Antivirus
+T76	Campaign 1099 1103	tool
+T77	Software 1123 1161	Microsoft Security Essentials software
+T78	Malware 1217 1227	 a malware
+T79	Malware 1190 1214	Security Essentials 2010
+T80	Time 1255 1271	February of 2010
+T83	Number 1352 1355	150
+T84	Software 1391 1399	browsers
+T85	Software 1403 1430	 the Windows Command Prompt
+T86	Malware 1454 1473	Security Essentials
+T20	Malware 1592 1603	 the trojan
+T25	Malware 1647 1671	Security Essentials 2010
+T30	Malware 1846 1859	 this malware
+T29	Malware 2123 2135	 The program
+T88	Person 2151 2158	 a user
+T89	Email 2192 2197	email
+T90	Malware 2200 2213	 the software
+T45	Malware 2237 2249	 the program
+T44	Purpose 2291 2343	sell it to other spammers as a fresh list of targets
+T91	Time 2436 2447	May of 2006
+T92	Software 2369 2388	 this security tool
+T93	Organization 2448 2460	 The company
+T94	Organization 2495 2512	 a security forum
+T95	Organization 2522 2535	Blue Security
+T10	Attack-Pattern 2549 2571	 a massive spam attack
+T96	Person 2580 2585	users
+T97	Person 2587 2596	Blue Frog
+T98	Time 2606 2620	one week later
+T99	Person 2622 2637	Macintosh users
+T100	Campaign 2665 2679	security tools
+T101	Device 2687 2702	 their computer
+T102	Software 2719 2731	Mac Defender
+T103	Person 2768 2783	 its developers
+T50	Attack-Pattern 2881 2920	trick users into paying the license fee
+T57	Malware 2964 2976	 the malware
+T55	Protocol 3020 3032	 the license
+T104	Campaign 3123 3139	 a software tool
+T105	Device 3154 3165	 a computer
+T106	Malware 3176 3183	spyware
+T11	Software 3193 3213	 the Zinaps software
+T12	Malware 3465 3478	 this malware
+T60	Software 3500 3506	Zinaps
+T107	Software 3517 3538	 the Windows Registry
+T108	Attack-Pattern 3540 3599	ensuring the software runs as soon as the computer boots up
+T109	Attack-Pattern 3615 3648	removing the software much harder
+T110	Attack-Pattern 3674 3702	leaves traces after its gone
+T43	Malware 3810 3823	 this malware
+T112	Purpose 3833 3861	force users to buy a license
+T113	Information 3901 3916	security issues
+T116	Campaign 289 303	 these attacks
+T71	Vulnerability 757 770	2017 variants
+T115	Malware 914 916	it
+T117	Malware 884 886	it
+T118	Person 1326 1331	users
+T81	Malware 1304 1316	 the malware
+T119	Malware 1707 1716	 this one
+T120	Purpose 1741 1800	purchase a license to supposedly remove quite a few threats
+T121	Purpose 1885 1975	stealing personal information or any more sensitive info and is no longer an active threat
+T122	Person 1734 1737	you
+T124	Person 585 588	you
+T8	Malware 487 517	Total Virus Protection malware
+T13	Malware 1997 2010	 this program
+T34	Information 2296 2298	it
+T26	Malware 2815 2817	It
+T36	Software 3324 3347	rogue security software
+T39	Malware 3601 3603	It
+T40	Software 3703 3741	 This scareware rogue security program
+*	Coreference T35 T52
+*	Coreference T38 T50
+*	Coreference T18 T19
+*	Coreference T74 T15 T117 T115
+*	Coreference T75 T112
+*	Coreference T28 T116
+*	Coreference T7 T8 T5
+*	Coreference T2 T3
+*	Coreference T78 T79 T81 T25
+*	Coreference T22 T20
+*	Coreference T41 T34
+*	Coreference T30 T13 T29 T37 T45 T119
+*	Coreference T26 T53 T102 T57
+*	Coreference T60 T11
+*	Coreference T12 T39 T43 T40

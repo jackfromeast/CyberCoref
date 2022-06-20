@@ -1,0 +1,177 @@
+T29	File 3107 3113	emails
+T30	Email 3175 3179	they
+T28	Domain 3193 3200	Dropbox
+T32	Person 3229 3239	recipients
+T33	Attack-Pattern 3223 3283	trick recipients into clicking on a "verify your email" link
+T23	Campaign 2953 2969	phishing attacks
+T24	Attack-Pattern 2975 3025	redirect users to real-looking but malicious sites
+T25	Email 2874 2896	 the Locky spam emails
+T3	Campaign 6 21	attack campaign
+T2	Attack-Pattern 31 57	flinging phishing messages
+T4	Email 69 97	ransomware-laced spam emails
+T5	Person 111 118	victims
+T18	Hacker-Group 2403 2417	 the attackers
+T8	Time 500 508	24 hours
+T7	Email 458 469	spam emails
+T35	Time 349 355	Monday
+T20	Malware 2777 2782	Locky
+T19	Email 2750 2768	malicious messages
+T22	Attack-Pattern 2660 2708	uses emails that pretend to carry voice messages
+T11	File 2159 2173	 a ransom note
+T10	Malware 2133 2148	 The ransomware
+T34	Person 2176 2187	 the victim
+T16	Person 2204 2210	victim
+T13	Money 2319 2331	0.5 bitcoins
+T14	Money 2351 2357	$2,400
+T1	Number 122 140	massive quantities
+T36	Campaign 141 161	 The attack campaign
+T37	Malware 171 202	crypto-locking Locky ransomware
+T38	Malware 234 239	Locky
+T39	Person 257 270	Alan Woodward
+T40	Person 271 328	 a computer science professor at the University of Surrey
+T41	Campaign 329 342	 The campaign
+T42	Organization 370 413	cloud-based cybersecurity provider AppRiver
+T43	Number 439 449	23 million
+T6	Campaign 544 561	malware campaigns
+T44	Time 582 606	 the latter half of 2017
+T45	Person 614 623	Troy Gill
+T46	Person 625 666	manager of security research for AppRiver
+T47	Organization 684 714	Finnish security firm F-Secure
+T48	Number 724 737	 the majority
+T49	System 763 775	 its systems
+T50	Course-of-Action 790 814	blocking relate to Locky
+T51	Malware 809 814	Locky
+T52	Attack-Pattern 835 839	spam
+T53	URL 849 854	links
+T54	Domain 858 872	infected sites
+T55	Email 740 758	 the spam messages
+T56	Email 886 894	messages
+T57	File 901 922	malicious attachments
+T58	System 926 935	 a system
+T59	Malware 973 978	Locky
+T60	File 980 999	crypto-locked files
+T61	Attack-Pattern 1005 1040	have the extension ".lukitus" added
+T62	Organization 1145 1153	F-Secure
+T63	Malware 1154 1183	 The Lukitus variant of Locky
+T64	Time 1202 1212	last month
+T65	Person 1214 1226	Rommel Joven
+T66	Person 1227 1248	 a malware researcher
+T67	Organization 1254 1276	security firm Fortinet
+T68	Attack-Pattern 1303 1336	distributed via email attachments
+T69	Campaign 1358 1371	spam campaign
+T70	Malware 1416 1423	botnets
+T71	Malware 1425 1431	Necurs
+T72	Campaign 1486 1499	Locky attacks
+T73	Attack-Pattern 1502 1506	Spam
+T74	Malware 1517 1534	Locky Attachments
+T75	Organization 1535 1543	AppRiver
+T76	Email 1549 1555	emails
+T77	Campaign 1566 1589	 the new Locky campaign
+T78	Attack-Pattern 1604 1710	a variety of subject lines, including these words: documents, images, photo, pictures, please print, scans
+T79	Email 1718 1725	message
+T80	File 1736 1753	 a zip attachment
+T81	Code 1767 1800	 a Visual Basic Script (VBS) file
+T82	Attack-Pattern 1809 1843	nested inside a secondary zip file
+T83	File 1822 1843	 a secondary zip file
+T84	Person 1846 1850	Gill
+T85	Code 1878 1886	VBS file
+T86	Attack-Pattern 1887 2007	initiates a downloader that reaches out to greatesthits[dot]mygoldmusic[dotcom] to pull down the latest Locky ransomware
+T87	Domain 1930 1966	greatesthits[dot]mygoldmusic[dotcom]
+T88	Malware 1991 2007	Locky ransomware
+T89	Malware 2009 2014	Locky
+T90	Attack-Pattern 2028 2052	encrypting all the files
+T91	File 2042 2052	 the files
+T92	System 2055 2073	 the target system
+T93	Attack-Pattern 2078 2131	appending [.]lukitus to the users now-encrypted files
+T94	File 2112 2131	now-encrypted files
+T9	Attack-Pattern 2154 2197	drops a ransom note on the victim's desktop
+T12	Software 2235 2251	 the Tor browser
+T95	Domain 2267 2296	 an .onion (aka Darkweb) site
+T96	Attack-Pattern 2214 2251	instructed to install the Tor browser
+T15	Person 2360 2364	Gill
+T17	Attack-Pattern 2425 2462	 a redirect to the decryption service
+T97	Domain 2439 2462	 the decryption service
+T98	Time 2471 2477	Friday
+T99	Person 2490 2504	Xavier Mertens
+T100	Location 2600 2607	Belgium
+T101	Person 2505 2537	 a freelance security consultant
+T102	Person 2542 2590	SANS Institute Internet Storm Center contributor
+T103	Person 2614 2616	he
+T104	Campaign 2640 2654	malicious spam
+T105	Email 2665 2671	emails
+T106	Organization 2710 2731	Internet Storm Center
+T21	Attack-Pattern 2787 2862	showing fake alerts stating that the HoeflerText font needs to be installed
+T107	File 2909 2930	malicious attachments
+T108	Domain 2993 3025	real-looking but malicious sites
+T109	Person 3027 3038	Peter Kruse
+T110	Person 3039 3084	 an e-crime specialist at CSIS Security Group
+T111	Location 3088 3095	Denmark
+T112	Campaign 3124 3149	 this ransomware campaign
+T26	Attack-Pattern 3154 3200	skinned to look like they've come from Dropbox
+T27	URL 3256 3283	 a "verify your email" link
+T31	Person 3285 3290	Kruse
+T113	Campaign 3295 3307	 the attacks
+T114	Hacker-Group 3329 3339	 the group
+T115	Version 3347 3388	 the Affid=3 [aka affiliate ID=3] version
+T116	Malware 3392 3397	Locky
+T117	Person 3403 3410	victims
+T118	URL 3419 3428	 the link
+T119	Person 3430 3434	they
+T120	Domain 3471 3479	websites
+T121	Number 3458 3470	 a number of
+T122	URL 3492 3499	 a link
+T123	File 3513 3534	 a zipped attack file
+T124	Attack-Pattern 3513 3551	 a zipped attack file being downloaded
+T125	Campaign 3556 3571	 the VBS attack
+T126	Person 3601 3628	security researcher JamesWT
+T127	Person 3629 3707	 a former member of the anti-malware research group called Malware Hunter Team
+T128	URL 3733 3742	 the link
+T129	Domain 3756 3765	 the site
+T130	Code 3787 3815	 a malicious JavaScript file
+T131	Attack-Pattern 3780 3843	execute a malicious JavaScript file that functions as a dropper
+T132	File 3881 3896	 a payload file
+T133	Attack-Pattern 3873 3896	download a payload file
+T134	Campaign 3906 3913	attacks
+T135	File 3914 3932	 this payload file
+T136	Malware 3936 3941	Locky
+T137	Person 3947 3954	JamesWT
+T138	Organization 3961 3965	ISMG
+T139	Malware 3971 3978	malware
+T140	Campaign 3983 3996	 the campaign
+T141	Person 4002 4004	he
+T142	Malware 4077 4093	Shade ransomware
+T143	Domain 4017 4052	malware-checking service VirusTotal
+T148	Malware 1290 1292	it
+T149	Organization 567 569	we
+T150	Code 3853 3855	it
+T144	File 1319 1336	email attachments
+*	Coreference T52 T73
+*	Coreference T92 T49 T58
+*	Coreference T60 T94
+*	Coreference T41 T3 T36 T6
+*	Coreference T123 T57
+*	Coreference T45 T84 T15 T46
+*	Coreference T10 T37 T142 T88
+*	Coreference T109 T31 T110
+*	Coreference T136 T89 T38 T116 T20 T51 T59 T139
+*	Coreference T113 T23
+*	Coreference T132 T135
+*	Coreference T30 T29
+*	Coreference T39 T40
+*	Coreference T8 T35
+*	Coreference T149 T42
+*	Coreference T66 T65
+*	Coreference T62 T47
+*	Coreference T148 T63
+*	Coreference T74 T144
+*	Coreference T77 T69
+*	Coreference T4 T7 T55
+*	Coreference T79 T76
+*	Coreference T13 T14
+*	Coreference T99 T101 T103 T102
+*	Coreference T19 T105 T25
+*	Coreference T80 T83
+*	Coreference T118 T27 T122 T128
+*	Coreference T150 T130
+*	Coreference T140 T134
+*	Coreference T112 T104

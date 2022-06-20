@@ -1,0 +1,112 @@
+T1	Organization 9 22	UK university
+T3	Campaign 47 64	ransomware attack
+T4	Time 65 74	this week
+T10	Malware 149 156	malware
+T11	Location 160 166	Europe
+T6	Organization 202 238	Northern Ireland’s Ulster University
+T7	Time 246 254	same day
+T8	Campaign 257 274	ransomware outage
+T7	Time 246 254	same day
+T2	Number 83 90	figures
+T12	Organization 102 109	country
+T5	Campaign 172 178	attack
+T15	Organization 394 404	AV partner
+T16	Vulnerability 416 431	zero-day threat
+T17	Organization 484 487	UCL
+T14	Time 375 384	yesterday
+T18	Number 489 494	Three
+T19	File 495 512	departmental file
+T20	Attack-Pattern 495 597	departmental file shares have been affected and remained at “read only” access at the time of writing.
+T21	Time 574 588	at the time of
+T22	Organization 607 626	counterparts at UCL
+T24	Course-of-Action 663 759	be following best practice regarding back-ups, which will help mitigate the impact of the attack
+T25	Campaign 753 759	attack
+T26	Organization 776 779	ISD
+T27	Course-of-Action 780 896	take backups of all our shared drives and this should protect most data even if it has been encrypted by the malware
+T28	Malware 889 896	malware
+T29	Device 800 817	our shared drives
+T30	Information 842 851	most data
+T31	Information 860 862	it
+T32	Campaign 924 934	infections
+T33	File 1008 1012	file
+T34	Course-of-Action 969 1012	restore the most recent back up of the file
+T35	Organization 1014 1017	ISD
+T36	Time 1081 1123	at close of business on Tuesday 12th June.
+T37	Person 1125 1136	Fraser Kyne
+T38	Person 1138 1157	EMEA CTO at Bromium
+T39	Course-of-Action 1159 1232	urged all UK university IT teams to be on high alert for possible attacks
+T40	Organization 1169 1191	UK university IT teams
+T41	Campaign 1225 1232	attacks
+T42	Malware 1279 1289	ransomware
+T43	Vulnerability 1326 1342	zero-day exploit
+T44	Organization 1312 1315	UCL
+T45	Attack-Pattern 1302 1389	get in at UCL through a zero-day exploit, which allowed it to bypass antivirus software
+T46	Software 1371 1389	antivirus software
+T47	Person 1392 1394	he
+T48	Software 1446 1455	antivirus
+T49	Course-of-Action 1484 1517	stop things that it knows are bad
+T50	Software 1501 1503	it
+T51	Malware 1535 1542	malware
+T52	Number 1530 1534	most
+T53	Malware 1580 1582	it
+T55	Software 1642 1651	antivirus
+T56	Organization 1689 1692	UCL
+T57	Person 1741 1745	user
+T58	Domain 1757 1776	compromised website
+T59	File 1799 1824	phishing email attachment
+T60	Organization 1865 1877	Malwarebytes
+T61	Location 1887 1889	UK
+T62	Location 1912 1918	Europe
+T63	Campaign 1897 1908	hardest hit
+T64	Malware 1936 1946	ransomware
+T65	Number 1959 1970	three-times
+T66	Location 1997 1999	UK
+T67	Time 2003 2010	Q1 2017
+T68	Organization 2030 2046	impacted country
+T69	Location 2048 2054	France
+T70	Malware 2071 2081	ransomware
+T71	Number 2101 2103	4%
+T72	Location 2111 2117	Europe
+T73	Campaign 2082 2092	infections
+T74	Campaign 2118 2122	they
+T75	Number 2133 2136	57%
+T76	Location 2144 2146	UK
+T77	Time 2147 2159	year-on-year
+T78	Number 2165 2180	total volume of
+T79	Campaign 2181 2194	cyber-attacks
+T80	Organization 2198 2206	UK firms
+T81	Number 2214 2218	500%
+T82	Time 2219 2232	year-on-year,
+T83	Location 2278 2284	Europe
+T84	Location 2286 2291	Italy
+T85	Location 2300 2302	UK
+T86	Number 2334 2348	highest number
+T87	Location 2374 2380	Europe
+T88	Campaign 2352 2370	malware detections
+T89	Number 2382 2387	16.3%
+T90	Number 2392 2397	16.2%
+T91	Organization 761 763	It
+T92	File 1037 1043	backup
+T93	Person 903 905	we
+T95	Person 961 963	we
+T97	Pronoun 1358 1360	it
+T104	Software 1465 1467	it
+*	Coreference T26 T35 T23 T98 T13
+*	Coreference T61 T85 T76 T66
+*	Coreference T87 T72 T11 T62 T83
+*	Coreference T89 T90
+*	Coreference T31 T30
+*	Coreference T47 T38 T37
+*	Coreference T55 T50 T48 T46 T104
+*	Coreference T53 T51
+*	Coreference T73 T32 T74
+*	Coreference T5 T3 T25
+T9	Organization 284 309	University College London
+T96	Organization 311 314	UCL
+*	Coreference T9 T96 T56 T44 T17
+T13	Organization 317 359	Ulster Uni’s Information Services Division
+T98	Organization 361 364	ISD
+T23	Organization 648 651	ISD
+T102	Organization 628 645	Ulster University
+*	Coreference T91 T102
+*	Coreference T95 T93

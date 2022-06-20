@@ -1,0 +1,111 @@
+T13	Campaign 1478 1481	pay
+T16	Campaign 1554 1560	demand
+T15	Hacker-Group 1533 1542	attackers
+T25	Campaign 1998 2015	ransomware attack
+T3	Campaign 621 656	Ransomware online extortion schemes
+T4	Organization 588 604	Indian companies
+T5	Time 660 697	the first six months of the year 2016
+T6	Money 726 736	$3 billion
+T1	Campaign 73 91	ransomware attacks
+T2	Location 51 56	India
+T20	Campaign 1776 1802	virtual kidnapping of data
+T28	Information 2087 2096	the files
+T26	Malware 2061 2072	The malware
+T33	Attack-Pattern 2101 2165	converted them into foreign MP3 files or an encrypted RSA format
+T17	Campaign 1458 1466	instruct
+T11	Hacker-Group 1450 1457	hackers
+T12	Person 1467 1474	victims
+T29	Campaign 2401 2415	pay the ransom
+T31	System 2309 2315	system
+T32	Person 2333 2339	a user
+T30	Malware 2289 2299	ransomware
+T23	Money 1846 1851	money
+T22	Attack-Pattern 1809 1841	information is kept as a hostage
+T24	Campaign 1930 1941	data breach
+T10	Malware 1203 1213	Ransomware
+T8	Person 1311 1325	computer users
+T9	System 1355 1368	their systems
+T21	Campaign 1746 1767	kidnapping for ransom
+T14	Malware 1688 1698	ransomware
+T18	Malware 1654 1664	Dogspectus
+T19	Malware 1644 1649	Petya
+T27	Malware 1630 1642	Cryptolocker
+T34	Vulnerability 447 485	vulnerability towards cyber infections
+T35	Malware 517 524	malware
+T36	Person 534 536	We
+T37	Person 1900 1902	We
+T39	File 2111 2115	them
+T40	Malware 2351 2353	it
+T41	Malware 2696 2698	it
+T43	Malware 2659 2661	it
+T44	Person 150 166	industry experts
+T45	Location 189 196	country
+*	Coreference T2 T45 T47 T56
+T46	Campaign 272 279	threats
+T47	Location 303 308	India
+T48	Malware 361 371	ransomware
+T49	Malware 73 83	ransomware
+T50	Campaign 517 532	malware threats
+*	Coreference T46 T50
+T51	Organization 610 617	victims
+*	Coreference T4 T51
+T52	Malware 621 631	Ransomware
+T53	Money 709 713	loss
+*	Coreference T53 T6
+T55	Malware 809 819	Ransomware
+T56	Location 863 868	India
+T57	Organization 849 859	businesses
+T58	Campaign 889 911	cyber security attacks
+T60	Organization 927 940	organizations
+*	Coreference T57 T60
+T61	Campaign 998 1016	security incidents
+T62	Number 973 987	highest number
+T63	Number 1050 1063	14.8 per cent
+*	Coreference T63 T62
+*	Coreference T61 T58
+T64	Malware 1086 1096	Ransomware
+*	Coreference T64 T10 T49 T48 T35 T52 T55 T65 T14 T26 T30 T40 T82 T86 T43 T41 T95
+T65	Malware 1100 1118	a class of malware
+T66	Money 1268 1274	ransom
+T7	Hacker-Group 1385 1393	criminal
+T67	Money 1412 1417	money
+*	Coreference T67 T66 T23
+*	Coreference T12 T8
+T68	Money 1490 1497	Bitcoin
+T69	Information 1561 1577	credit card data
+T70	Money 1603 1617	financial loss
+*	Coreference T7 T11 T15
+*	Coreference T69 T70
+T71	Information 1809 1820	information
+T72	Person 1834 1841	hostage
+*	Coreference T71 T72 T73 T80
+T73	Person 1891 1898	hostage
+*	Coreference T37 T36
+T74	File 2037 2042	files
+T75	File 1426 1431	files
+*	Coreference T75 T74 T28 T39 T76 T79
+T76	File 2121 2138	foreign MP3 files
+T77	Person 2181 2187	victim
+*	Coreference T77 T32 T81
+T79	File 2369 2379	some files
+T80	Information 2383 2387	data
+T81	Person 2397 2400	one
+T82	Malware 2426 2436	ransomware
+T83	Campaign 2458 2484	advanced persistent threat
+T84	Campaign 2486 2489	APT
+*	Coreference T83 T84
+T85	Campaign 2550 2572	deadliest cyber crimes
+T86	Malware 2574 2584	Ransomware
+T87	Version 2705 2712	version
+T88	Version 2757 2764	version
+*	Coreference T87 T88 T91
+T89	Person 2815 2822	someone
+T90	Course-of-Action 2831 2839	solution
+T91	Version 2862 2869	version
+T93	Malware 2875 2882	malware
+T92	Course-of-Action 2894 2902	solution
+*	Coreference T90 T92
+T94	Version 2930 2938	versions
+T95	Malware 2966 2976	ransomware
+T96	System 3057 3064	systems
+*	Coreference T9 T96

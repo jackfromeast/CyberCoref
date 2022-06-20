@@ -1,0 +1,85 @@
+T2	Campaign 373 393	these ransom attacks
+T3	System 402 420	insecure databases
+T4	Hacker-Group 459 467	Harak1r1
+T27	Hacker-Group 435 444	 a hacker
+T8	Attack-Pattern 575 603	leaving behind a ransom note
+T6	Money 614 621	0.2 BTC
+T7	Money 629 633	$220
+T10	Attack-Pattern 546 569	deleting their contents
+T9	Attack-Pattern 505 544	compromising open MongoDB installations
+T23	Purpose 1791 1809	demanding a ransom
+T19	Attack-Pattern 1730 1758	leaving behind a ransom note
+T21	Attack-Pattern 1646 1688	compromise insecure database installations
+T20	Hacker-Group 1636 1645	attackers
+T22	Attack-Pattern 1620 1634	data hijacking
+T25	Attack-Pattern 1690 1699	copy data
+T26	Attack-Pattern 1706 1725	delete the contents
+T1	Campaign 99 115	online extortion
+T17	Campaign 1481 1489	phishing
+T12	System 1131 1146	MongoDB servers
+T13	Campaign 1180 1197	ransomware attack
+T14	Hacker-Group 1199 1210	an attacker
+T15	Attack-Pattern 1211 1255	compromises a computer via malware or Trojan
+T16	Attack-Pattern 1260 1279	encrypts local data
+T18	Time 793 812	 the following week
+T28	Number 787 793	10,000
+T29	Number 767 772	2,000
+T31	Campaign 7 14	attacks
+T32	Software 23 39	insecure MongoDB
+T33	Software 41 47	Hadoop
+T34	Software 52 73	CouchDB installations
+T35	Malware 127 137	ransomware
+T36	Hacker-Group 232 245	Victor Gevers
+T38	Campaign 296 303	attacks
+T39	Time 306 326	 the past two months
+T5	Software 690 716	open MongoDB installations
+T30	Campaign 660 681	escalation of attacks
+T40	Number 1095 1119	50 percent of the 56,000
+T41	Person 1050 1070	Security researchers
+T42	Hacker-Group 1034 1048	cybercriminals
+T43	Number 828 844	more than 56,000
+T44	System 845 867	open MongoDB databases
+T45	Campaign 887 893	attack
+T11	Campaign 1599 1613	data hijacking
+T24	Malware 1378 1388	ransomware
+T46	Person 1961 1987	senior security researcher
+T47	Person 1949 1959	Josh Gomez
+T48	Campaign 2036 2043	attacks
+T49	Organization 2088 2132	high-value repositories with weak protection
+T50	System 1908 1921	SQL databases
+T51	Money 1822 1829	Bitcoin
+T52	Hacker-Group 247 294	an ethical hacker and founder of GDI Foundation
+T37	Hacker-Group 473 479	Gevers
+T53	Organization 947 961	GDI Foundation
+T54	Organization 280 294	GDI Foundation
+T55	System 1002 1011	databases
+T56	Device 1222 1233	 a computer
+T57	Malware 1238 1245	malware
+T58	Information 1275 1279	data
+T59	Information 1310 1328	 an encryption key
+T60	Malware 1491 1498	malware
+T61	Person 1531 1538	experts
+T62	Malware 1249 1255	Trojan
+T63	Malware 1544 1548	both
+T65	Money 1744 1753	 a ransom
+T66	Money 1800 1809	 a ransom
+T67	Organization 1831 1837	Rapid7
+T68	Organization 1074 1080	Rapid7
+T69	System 1866 1875	databases
+*	Coreference T8 T19
+*	Coreference T10 T26
+*	Coreference T9 T21
+*	Coreference T22 T11
+*	Coreference T35 T24
+*	Coreference T36 T52 T37
+*	Coreference T38 T31 T2 T30 T48
+*	Coreference T27 T4
+*	Coreference T6 T7
+*	Coreference T54 T53
+*	Coreference T44 T55
+*	Coreference T45 T13
+*	Coreference T57 T60
+*	Coreference T42 T20
+*	Coreference T66 T65 T51
+*	Coreference T68 T67
+*	Coreference T46 T47

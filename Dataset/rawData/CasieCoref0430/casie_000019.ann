@@ -1,0 +1,87 @@
+T14	Money 609 620	 the ransom
+T15	Organization 562 589	the publicly listed company
+T13	Campaign 520 531	 the attack
+T12	Organization 483 494	Media Prima
+T2	Organization 34 71	Malaysian media giant Media Prima Bhd
+T3	Hacker-Group 0 19	Ransomware creators
+T6	System 157 173	computer systems
+T7	Hacker-Group 106 110	they
+T16	Organization 130 142	 the company
+T9	Hacker-Group 343 355	 The hackers
+T11	Money 419 433	US$6.3 million
+T25	Hacker-Group 1623 1635	 the hackers
+T26	Organization 1572 1592	the Californian port
+T21	Campaign 1491 1509	ransomware attacks
+T22	Organization 1462 1487	 the high-profile victims
+T23	Organization 1543 1564	the Port of San Diego
+T30	File 1928 1962	 the ransom note requested payment
+T29	Organization 1894 1902	The Port
+T1	Money 90 98	bitcoins
+T4	Organization 188 204	The Edge Markets
+T5	Hacker-Group 237 249	 the hackers
+T17	Time 260 270	November 8
+T18	Person 291 315	 the company’s employees
+T19	System 325 342	 the email system
+T20	Organization 622 629	Sources
+T28	Organization 640 656	The Edge Markets
+T32	Organization 701 717	 the media giant
+T33	Software 734 741	G Suite
+T34	Software 742 774	 a Google product hosted offsite
+T35	System 676 693	 the office email
+T36	Organization 817 829	 the company
+T37	Organization 961 972	 the police
+T38	Hacker-Group 999 1012	extortionists
+T39	Person 1033 1044	individuals
+T40	Time 1047 1063	 the recent past
+T41	Attack-Pattern 1078 1140	threatening to reveal the porn-viewing habits of their victims
+T42	Person 1126 1140	 their victims
+T43	Organization 1226 1251	cybersecurity firm Sophos
+T44	Malware 1252 1274	 the SamSam ransomware
+T45	Organization 1302 1322	business enterprises
+T46	Organization 1327 1340	public bodies
+T47	Hacker-Group 1370 1383	 its creators
+T48	Money 1408 1420	US$6 million
+T49	Time 1438 1453	three years ago
+T50	Time 1512 1528	 the recent past
+T24	Organization 1679 1721	 the U.S. Federal Bureau of Investigations
+T51	Organization 1722 1763	 the U.S. Department of Homeland Security
+T52	Organization 1767 1788	 the U.S. Coast Guard
+T53	Malware 1858 1868	ransomware
+T54	Campaign 1880 1892	 this attack
+T27	Money 1966 1973	Bitcoin
+T31	Number 1983 1994	 the amount
+T55	Organization 2055 2077	 the Port of San Diego
+T56	Organization 2087 2090	CCN
+T57	Time 2100 2111	at the time
+T58	Malware 2165 2175	ransomware
+T59	Person 2142 2161	high-profile target
+T60	Time 2178 2194	 the recent past
+T61	Organization 2198 2252	 the Professional Golfers Association (PGA) of America
+T62	Campaign 2256 2266	 this case
+T63	Hacker-Group 2267 2279	 the hackers
+T64	Attack-Pattern 2280 2327	encrypted critical files denying access to them
+T65	File 2290 2304	critical files
+T66	File 2323 2327	them
+T69	Hacker-Group 1673 1675	it
+T71	Hacker-Group 1427 1429	it
+T73	Hacker-Group 1646 1648	it
+T8	Organization 539 546	sources
+T68	Organization 1189 1199	businesses
+T70	Organization 974 992	Lucrative Business
+T10	Money 374 388	1,000 bitcoins
+*	Coreference T13 T54 T21
+*	Coreference T12 T32 T36
+*	Coreference T23 T55
+*	Coreference T4 T28
+*	Coreference T40 T60 T50
+*	Coreference T7 T3 T5
+*	Coreference T16 T2
+*	Coreference T8 T20
+*	Coreference T33 T34
+*	Coreference T68 T70 T45
+*	Coreference T11 T10 T14
+*	Coreference T71 T47
+*	Coreference T22 T46 T59
+*	Coreference T73 T25 T69
+*	Coreference T53 T44 T58
+*	Coreference T66 T65

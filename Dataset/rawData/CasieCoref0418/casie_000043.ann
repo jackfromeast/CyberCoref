@@ -1,0 +1,123 @@
+T3	File 51 73	US Air Force documents
+T2	Device 3 25	unsecured backup drive
+T4	File 85 117	highly sensitive personnel files
+T6	Person 121 153	senior and high-ranking officers
+T11	File 204 209	files
+T13	Person 229 235	anyone
+T21	Campaign 3018 3031	data exposure
+T23	Information 3035 3059	military personnel files
+T22	Organization 2969 2990	Defense subcontractor
+T31	Person 3098 3103	staff
+T24	Campaign 3141 3150	data leak
+T26	Person 3117 3124	victims
+T25	Organization 3163 3204	the US Special Operations Command (SOCOM)
+T30	Organization 3253 3273	US military branches
+T27	Organization 3287 3291	Army
+T28	Organization 3293 3297	Navy
+T29	Organization 3303 3312	Air Force
+T9	File 2480 2507	the same kinds of documents
+T8	Campaign 2528 2543	a massive theft
+T14	File 2547 2562	sensitive files
+T16	Person 2648 2666	military employees
+T15	Organization 2570 2600	Office of Personnel Management
+T12	Organization 2633 2643	government
+T18	Campaign 2917 2930	second breach
+T19	Information 2934 2947	military data
+T20	Time 2951 2964	recent months
+T1	Number 38 47	thousands
+T17	Person 155 175	Security researchers
+T34	Number 191 200	gigabytes
+T5	Device 248 279	internet-connected backup drive
+T10	Vulnerability 284 306	not password protected
+T35	File 312 317	files
+T36	Organization 331 336	ZDNet
+T37	Information 359 379	personal information
+T38	Information 389 394	names
+T39	Information 399 408	addresses
+T40	Information 410 415	ranks
+T41	Information 421 444	Social Security numbers
+T42	Number 458 463	4,000
+T43	Person 464 472	officers
+T44	File 482 486	file
+T45	Information 497 522	security clearance levels
+T46	Number 526 534	hundreds
+T47	Person 544 552	officers
+T48	Person 562 597	whom possess "top secret" clearance
+T49	Information 613 648	sensitive compartmented information
+T50	Information 679 692	Phone numbers
+T51	Information 697 716	contact information
+T52	Person 720 725	staff
+T53	Person 730 743	their spouses
+T54	Information 762 804	sensitive and private personal information
+T55	File 834 846	spreadsheets
+T56	Number 820 833	several other
+T57	Device 852 857	drive
+T58	Person 887 905	lieutenant colonel
+T59	Organization 941 946	ZDNet
+T60	Person 966 973	officer
+T61	Email 977 982	email
+T62	Information 1010 1014	data
+T63	Time 1027 1036	last week
+T64	Person 1061 1104	MacKeeper security researcher Bob Diachenko
+T65	File 1121 1139	damaging documents
+T66	Device 1147 1152	drive
+T67	File 1166 1188	completed applications
+T68	Person 1238 1259	US four-star generals
+T69	Person 1269 1273	whom
+T70	File 1347 1364	SF86 applications
+T71	Information 1380 1414	sensitive and detailed information
+T72	Information 1426 1461	financial and mental health history
+T73	Information 1463 1479	past convictions
+T74	Information 1481 1517	relationships with foreign nationals
+T75	Information 1523 1549	other personal information
+T76	File 1551 1581	These completed questionnaires
+T77	Person 1606 1615	candidate
+T78	Person 1670 1695	national security experts
+T79	Number 1662 1669	Several
+T80	Person 1700 1727	former government officials
+T81	Campaign 1749 1754	story
+T82	Information 1770 1781	information
+T83	Organization 1806 1825	foreign adversaries
+T84	Person 1830 1835	spies
+T85	Information 1851 1853	it
+T86	Person 1937 1945	generals
+T87	Time 2040 2058	over the past week
+T88	Person 2031 2039	generals
+T89	Person 2177 2186	Mark Zaid
+T90	Person 2190 2216	national security attorney
+T91	Email 2224 2229	email
+T92	Information 2107 2118	information
+T93	File 2235 2239	form
+T94	Person 2247 2269	prospective applicants
+T95	Information 2313 2320	arrests
+T96	Information 2322 2326	drug
+T97	Information 2331 2345	alcohol issues
+T98	Information 2350 2372	mental health concerns
+T99	Information 2405 2425	Completed SF86 forms
+T7	Number 2622 2632	22 million
+T33	File 2672 2683	spreadsheet
+T100	Person 2704 2712	officers
+T101	Number 3012 3017	large
+T32	Information 3063 3089	physical and mental health
+T102	Person 3318 3323	those
+T104	Software 3391 3403	backup drive
+T108	Person 1898 1900	we
+*	Coreference T11 T4 T3
+*	Coreference T36 T59
+*	Coreference T57 T66 T5 T2 T104
+*	Coreference T67 T70 T76 T93 T99
+*	Coreference T92 T82 T71 T85
+*	Coreference T43 T47
+*	Coreference T60 T58
+T105	Organization 1291 1302	US military
+T110	Organization 1307 1311	NATO
+*	Coreference T69 T68 T86 T88
+T111	Number 1234 1237	two
+T107	Person 1728 1730	we
+*	Coreference T90 T89 T106
+T106	Person 2399 2403	Zaid
+*	Coreference T33 T14
+T112	Organization 2740 2748	military
+*	Coreference T112 T105 T30
+*	Coreference T26 T31 T102
+*	Coreference T24 T18 T21

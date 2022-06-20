@@ -1,0 +1,82 @@
+T11	Information 829 838	user data
+T13	Information 850 854	them
+T4	Hacker-Group 654 658	they
+T3	Hacker-Group 604 640	the hacktivist group Anonymous India
+T29	Campaign 1371 1381	data leaks
+T5	Hacker-Group 719 736	The hacking group
+T7	Vulnerability 758 773	vulnerabilities
+T8	System 777 795	Snapchat’s systems
+T22	Time 1087 1096	last year
+T19	Vulnerability 1040 1048	the flaw
+T24	Organization 1120 1135	the authorities
+T28	Organization 1203 1212	DailyMail
+T25	Attack-Pattern 1160 1193	used to steal Snapchat users data
+T26	Vulnerability 1142 1155	the same flaw
+T31	Organization 2259 2263	they
+T33	Vulnerability 2284 2288	this
+T36	Organization 2173 2185	 the company
+T15	Vulnerability 967 972	flaws
+T16	System 976 983	systems
+T17	Organization 987 1000	big companies
+T35	Hacker-Group 886 897	the hackers
+T10	Software 65 73	Snapchat
+T37	Time 126 135	this time
+T39	Information 174 180	tweets
+T40	Information 185 193	hashtags
+T41	Information 196 235	Uninstall_Snapchat and #BoycottSnapchat
+T42	Person 244 250	people
+T43	Location 309 314	India
+T44	Person 322 356	one of Snapchat’s former employees
+T45	Person 367 389	the CEO of the company
+T46	Organization 416 429	 the business
+T47	Location 433 438	India
+T48	Software 444 466	 the Snapchat platform
+T49	Person 481 492	rich people
+T50	Location 507 521	poor countries
+T51	Location 528 533	India
+T52	Location 541 546	Spain
+T53	Location 556 561	India
+T54	Software 579 586	Twitter
+T55	Number 680 691	1.7 million
+T34	Campaign 692 717	Snapchat users’ data leak
+T1	Person 692 706	Snapchat users
+T6	Number 817 828	1.7 million
+T9	Domain 857 870	 the dark web
+T12	Attack-Pattern 811 870	steal 1.7 million user data and leaked them on the dark web
+T14	Money 1017 1022	money
+T20	Software 1052 1071	Snapchat’s security
+T21	Hacker-Group 1213 1225	 The hackers
+T23	Time 1137 1140	Now
+T27	Software 1299 1307	Snapchat
+T56	Person 1249 1257	 the CEO
+T57	Organization 1466 1478	 the company
+T58	Software 1535 1543	 the app
+T60	Person 1571 1600	everyone who wishes to use it
+T59	Software 1598 1600	it
+T61	Person 1604 1632	spokesperson for the company
+T62	Software 1660 1668	Snapchat
+T63	Software 1794 1810	 the application
+T64	Organization 1718 1735	 the social media
+T65	Organization 1751 1755	many
+T66	Organization 1777 1783	others
+T67	Software 1852 1854	it
+T68	Organization 1870 1882	 the company
+T69	Software 1910 1918	 the app
+T70	Software 1959 1981	 the Apple’s App Store
+T71	Campaign 2002 2010	incident
+T72	Software 2065 2082	Google Play Store
+T73	Software 2053 2055	it
+T32	Course-of-Action 2280 2288	fix this
+T77	Software 2012 2014	it
+T80	Organization 2290 2294	they
+T2	Software 0 63	One of the biggest and most popular social networking platforms
+T38	Software 264 272	 the app
+T81	Hacker-Group 908 949	one of the many bug bounty hunting groups
+T18	Organization 1334 1342	Snapchat
+*	Coreference T43 T53 T47 T51
+*	Coreference T13 T11
+*	Coreference T10 T2 T38
+*	Coreference T19 T26 T33
+*	Coreference T3 T4 T5 T35
+*	Coreference T67 T63 T59 T69 T77 T73 T58 T62 T27
+*	Coreference T36 T68 T18 T57

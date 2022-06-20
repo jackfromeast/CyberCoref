@@ -1,0 +1,78 @@
+T13	Information 1100 1111	your emails
+T12	Hacker-Group 1060 1070	The hacker
+T15	Information 1134 1142	accounts
+T3	Organization 0 6	Google
+T7	Course-of-Action 73 96	A Chrome browser update
+T8	Time 131 139	February
+T9	Vulnerability 141 151	now issues
+T20	File 1404 1433	a copy of a practice schedule
+T21	Person 1365 1377	team members
+T23	Information 1726 1739	their account
+T22	Person 1709 1720	your friend
+T4	Campaign 34 51	the phishing scam
+T5	Person 66 71	users
+T18	Email 1300 1306	emails
+T16	Hacker-Group 1274 1287	these hackers
+T25	Campaign 2100 2116	phishing attacks
+T26	Campaign 887 908	designed to look like
+T27	File 878 886	an image
+T1	Campaign 196 205	 the scam
+T6	Time 311 324	in the future
+T28	Organization 326 332	Google
+T29	Person 442 455	Satnam Narang
+T30	Organization 493 499	Norton
+T10	Campaign 523 547	 the Gmail phishing scam
+T31	Email 565 574	 an email
+T32	Email 643 653	 The email
+T33	File 676 690	 an attachment
+T34	Organization 719 732	 this Twitter
+T35	File 783 798	 the attachment
+T36	File 857 871	 an attachment
+T37	File 929 939	 the image
+T38	Organization 998 1004	Google
+T11	Time 1154 1165	In the past
+T14	Email 1218 1228	 the email
+T39	Campaign 1192 1199	 a scam
+T40	Person 1234 1240	Narang
+T17	Campaign 1521 1533	 this attack
+T19	URL 1635 1643	 the URL
+T41	Information 1598 1614	'data:/text/html
+T42	Person 1646 1652	Narang
+T24	Person 1763 1769	Narang
+T43	Information 1822 1841	 your Gmail account
+T44	Course-of-Action 1797 1818	two-step verification
+T45	Campaign 1952 1963	 the attack
+T46	Person 1964 1986	 a Google spokesperson
+T47	Campaign 2515 2520	scams
+T48	Person 2339 2344	Users
+T49	Course-of-Action 2354 2384	activate two-step verification
+T50	Course-of-Action 2400 2418	account protection
+T51	Course-of-Action 2081 2137	protect users from phishing attacks in a variety of ways
+T52	Course-of-Action 2037 2060	strengthen our defenses
+T53	Course-of-Action 2289 2327	preventing suspicious account sign-ins
+T54	Information 2311 2318	account
+T55	Course-of-Action 24 71	a fix for the phishing scam that affected users
+T2	Course-of-Action 2150 2203	machine learning based detection of phishing messages
+T56	Course-of-Action 2205 2287	Safe Browsing warnings that notify users of dangerous links in emails and browsers
+T60	Person 1167 1170	you
+T61	Person 940 943	you
+T62	Person 1022 1025	you
+T64	Person 1663 1666	you
+T65	Person 917 920	you
+T66	Person 2555 2558	you
+T67	Person 2474 2476	We
+T69	Person 2073 2075	We
+T70	Campaign 2069 2071	it
+T71	Email 665 667	it
+T59	Person 457 511	Senior Security Response Manager at Norton by Symantec
+*	Coreference T12 T16
+*	Coreference T27 T37 T36
+*	Coreference T3 T28 T38
+*	Coreference T1 T4 T10
+*	Coreference T17 T45 T70
+*	Coreference T40 T24 T42 T29 T59
+*	Coreference T43 T54
+*	Coreference T31 T32 T71
+*	Coreference T33 T35
+*	Coreference T65 T61 T62 T60
+*	Coreference T18 T14

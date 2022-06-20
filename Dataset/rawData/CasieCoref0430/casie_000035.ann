@@ -1,0 +1,70 @@
+T7	Organization 153 158	Apple
+T4	Vulnerability 174 192	 the security hole
+T1	Person 35 55	security researchers
+T34	Code 3 10	exploit
+T8	Campaign 221 235	first reported
+T9	Organization 239 245	Forbes
+T11	Vulnerability 305 314	 the hole
+T12	Attack-Pattern 320 351	allowed access to deleted files
+T16	Person 271 280	Amat Cama
+T15	Person 247 266	hackers Richard Zhu
+T14	Version 375 381	iOS 12
+T13	Device 355 366	iOS devices
+T23	Vulnerability 1339 1364	 the iPhone vulnerability
+T32	Code 1390 1398	exploits
+T24	Course-of-Action 1458 1465	patched
+T26	Organization 1427 1432	Apple
+T25	Time 1473 1491	the next few weeks
+T33	Code 1444 1457	 this exploit
+T29	Organization 1492 1504	 The company
+T30	Version 1530 1552	 the next beta version
+T31	System 1556 1559	iOS
+T28	Version 1560 1566	12.1.1
+T21	Person 934 944	developers
+T20	Vulnerability 965 969	bugs
+T37	Vulnerability 996 1001	holes
+T18	Vulnerability 652 670	 The vulnerablitiy
+T3	Person 64 68	them
+T38	Device 76 88	 an iPhone X
+T2	Attack-Pattern 93 151	access a photo that was supposedly deleted from the device
+T39	Information 99 107	 a photo
+T40	Device 140 151	 the device
+T5	Course-of-Action 196 202	 a fix
+T6	Vulnerability 397 408	 a weakness
+T10	Version 411 438	 the current public version
+T41	Software 441 460	 the Safari browser
+T42	Organization 506 511	Apple
+T43	Location 499 504	Tokyo
+T44	Hacker-Group 533 545	 the hackers
+T45	Money 574 581	$50,000
+T46	Campaign 468 495	 the Mobile Pwn2Own contest
+T47	Campaign 582 591	 The hack
+T48	Attack-Pattern 621 651	retrieve more than just photos
+T49	Information 645 651	photos
+T17	Software 682 706	 a just-in-time compiler
+T35	Code 718 726	programs
+T50	Software 801 809	software
+T51	Vulnerability 835 850	vulnerabilities
+T52	Vulnerability 852 876	Software vulnerabilities
+T19	Device 1070 1101	 a malicious Wi-Fi access point
+T36	Attack-Pattern 1041 1101	exploit the JIT compiler with a malicious Wi-Fi access point
+T53	Software 1048 1065	 the JIT compiler
+T54	Hacker-Group 1015 1027	 The hackers
+T55	Organization 1112 1117	Apple
+T56	Organization 1133 1140	company
+T57	Hacker-Group 1168 1175	hackers
+T58	Device 1214 1229	Android devices
+T59	System 1239 1261	 the Samsung Galaxy S9
+T60	System 1265 1280	 the Xiaomi Mi6
+T61	Code 1202 1210	exploits
+T22	Campaign 1415 1425	 the event
+T27	Course-of-Action 1517 1522	patch
+*	Coreference T40 T13 T58 T38
+*	Coreference T24 T27
+*	Coreference T34 T61 T32 T33
+*	Coreference T39 T49
+*	Coreference T7 T55 T42 T26 T29
+*	Coreference T51 T18 T6 T52
+*	Coreference T3 T1
+*	Coreference T47 T46
+*	Coreference T23 T11

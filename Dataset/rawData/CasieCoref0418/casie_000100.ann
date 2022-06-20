@@ -1,0 +1,112 @@
+T76	Campaign 2141 2145	said
+T75	Person 2125 2140	the researchers
+T74	Campaign 2162 2184	hold off on publishing
+T77	Person 2151 2155	they
+T71	Campaign 2103 2111	impacted
+T73	Organization 2095 2102	vendors
+T72	Vulnerability 2115 2123	the bugs
+T13	Campaign 421 437	have been issued
+T14	Course-of-Action 413 420	patches
+T67	Campaign 507 513	update
+T8	Campaign 107 117	have found
+T5	System 152 178	real-time operating system
+T7	Person 95 106	Researchers
+T4	System 181 189	FreeRTOS
+T6	Vulnerability 208 231	serious vulnerabilities
+T85	Device 133 151	Internet of Things
+T15	Campaign 805 810	found
+T18	System 786 794	FreeRTOS
+T16	Person 796 804	Karliner
+T17	Vulnerability 811 829	13 vulnerabilities
+T19	Attack-Pattern 830 858	enabling an array of attacks
+T20	Attack-Pattern 870 891	remote code execution
+T21	Attack-Pattern 893 909	information leak
+T84	Version 766 782	several versions
+T22	Vulnerability 914 936	denial-of-service bugs
+T24	Campaign 963 973	discovered
+T25	Vulnerability 974 998	multiple vulnerabilities
+T27	System 1037 1072	the AWS secure connectivity modules
+T23	Person 960 962	we
+T86	System 1006 1029	FreeRTOS’s TCP/IP stack
+T28	Campaign 1099 1113	are present in
+T31	Vulnerability 1074 1098	The same vulnerabilities
+T29	System 1114 1143	WHIS Connect TCP/IP component
+T30	System 1148 1165	OpenRTOS\SafeRTOS
+T33	Campaign 1240 1248	exist in
+T32	Vulnerability 1207 1226	The vulnerabilities
+T34	System 1249 1272	FreeRTOS’s TCP/IP stack
+T35	System 1280 1315	the AWS secure connectivity modules
+T36	System 1334 1367	the WHIS Connect TCP/IP component
+T37	System 1372 1389	OpenRTOS\SafeRTOS
+T42	Vulnerability 1733 1747	CVE-2018-16598
+T43	Vulnerability 1704 1718	CVE-2018-16523
+T41	Vulnerability 1676 1702	one denial of service flaw
+T50	Vulnerability 1660 1674	CVE-2018-16603
+T49	Vulnerability 1644 1658	CVE-2018-16602
+T48	Vulnerability 1628 1642	CVE-2018-16601
+T47	Vulnerability 1612 1626	CVE-2018-16600
+T46	Vulnerability 1596 1610	CVE-2018-16599
+T45	Vulnerability 1580 1594	CVE-2018-16527
+T44	Vulnerability 1564 1578	CVE-2018-16524
+T40	Vulnerability 1524 1562	seven information leak vulnerabilities
+T38	Vulnerability 1392 1413	These vulnerabilities
+T39	Vulnerability 1422 1453	four remote code execution bugs
+T51	Vulnerability 1455 1469	CVE-2018-16522
+T52	Vulnerability 1471 1485	CVE-2018-16525
+T53	Vulnerability 1487 1501	CVE-2018-16526
+T54	Vulnerability 1507 1521	CVE-2018-16528
+T55	Campaign 1785 1798	has disclosed
+T58	Organization 1782 1784	it
+T59	Vulnerability 1799 1818	the security issues
+T60	Organization 1822 1828	Amazon
+T57	Campaign 1777 1781	said
+T56	Organization 1771 1776	zLabs
+T62	Campaign 1859 1864	patch
+T61	Organization 1851 1855	them
+T63	Vulnerability 1865 1884	the vulnerabilities
+T64	Campaign 1898 1911	were deployed
+T66	System 1916 1928	AWS FreeRTOS
+T65	Course-of-Action 1886 1897	Those fixes
+T80	Version 1929 1943	versions 1.3.2
+T68	Campaign 2000 2007	patched
+T69	System 1980 1989	RTOS WHIS
+T70	Vulnerability 1957 1976	The vulnerabilities
+T1	Campaign 40 44	leak
+T2	Information 45 62	their information
+T26	Device 27 38	IoT devices
+T3	Person 13 20	hackers
+T79	Campaign 2217 2233	have been sealed
+T78	Vulnerability 2207 2216	all holes
+T9	Campaign 340 344	leak
+T10	Information 345 356	information
+T11	Device 362 381	the devices’ memory
+T12	Person 254 261	hackers
+T83	System 316 338	infrastructure systems
+T82	Device 292 303	smart homes
+T81	Device 281 288	devices
+T87	Pronoun 84 88	them
+T88	Pronoun 960 962	we
+T89	Pronoun 392 396	them
+T90	Pronoun 1851 1855	them
+T91	Pronoun 461 463	it
+T92	Pronoun 2151 2155	they
+T93	Pronoun 1782 1784	it
+*	Coreference T76 T57
+*	Coreference T13 T79
+*	Coreference T8 T15
+*	Coreference T4 T18 T66
+*	Coreference T20 T39
+*	Coreference T22 T41
+*	Coreference T24 T55
+*	Coreference T27 T35
+*	Coreference T86 T34
+*	Coreference T29 T36
+*	Coreference T30 T37
+*	Coreference T49 T54 T45 T53 T50 T42 T46 T43 T52 T44 T47 T51 T48
+*	Coreference T71 T68 T14 T62 T67
+*	Coreference T40 T25 T38 T6 T17 T31 T70 T32 T63
+*	Coreference T1 T9
+*	Coreference T10 T21 T2
+*	Coreference T26 T81
+*	Coreference T3 T12
+*	Coreference T75 T7 T23 T77

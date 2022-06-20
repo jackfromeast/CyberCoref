@@ -1,0 +1,147 @@
+T11	Campaign 702 706	sent
+T8	Hacker-Group 648 656	phishers
+T9	Organization 629 642	40 businesses
+T12	Time 618 627	last year
+T6	Hacker-Group 719 727	scammers
+T10	Purpose 657 692	asked for their employees’ W2 forms
+T17	Campaign 820 843	other phishing attempts
+T13	Attack-Pattern 849 895	ask tax professionals to update their accounts
+T14	Attack-Pattern 902 931	direct them to fake Web sites
+T23	Person 966 977	individuals
+T18	Person 1011 1024	tax preparers
+T19	Organization 1026 1048	tax software companies
+T20	Organization 1052 1057	banks
+T21	Attack-Pattern 1059 1098	asking them to update their information
+T25	Campaign 2650 2668	can directly steal
+T32	Hacker-Group 2636 2649	the attackers
+T31	Information 2674 2688	their accounts
+T26	Campaign 2133 2149	phishing attacks
+T27	System 2160 2183	popular online services
+T1	Campaign 80 85	trick
+T7	Time 3 12	this year
+T2	Person 86 95	taxpayers
+T3	Person 97 106	employers
+T4	Person 111 124	tax preparers
+T5	Purpose 130 151	giving up information
+T36	Hacker-Group 58 66	phishers
+T29	Campaign 2236 2251	mass harvesting
+T28	Hacker-Group 2223 2231	phishers
+T33	Purpose 2304 2343	can be used to attack secondary targets
+T24	Information 2252 2265	email address
+T30	Information 2267 2298	password credential combination
+T15	Attack-Pattern 937 942	steal
+T16	Information 943 960	their credentials
+T34	Campaign 3091 3107	phishing attacks
+T35	Time 3111 3115	2016
+T37	Time 350 362	January 2016
+T38	Person 555 576	PhishLabs researchers
+T39	Campaign 445 457	IRS phishing
+T40	Time 490 503	previous year
+T41	Campaign 260 268	phishing
+T42	Hacker-Group 168 177	attackers
+T43	Campaign 378 390	IRS phishing
+T44	Number 1445 1451	66,000
+T45	IP 1452 1464	IP addresses
+T46	Number 1405 1412	170,000
+T47	Domain 1413 1420	domains
+T48	Domain 1367 1391	malicious phishing sites
+T49	Number 1347 1356	1 million
+T50	Person 1316 1337	PhishLabs researchers
+T51	Time 1702 1706	2016
+T52	Campaign 3134 3141	Attacks
+T53	Organization 3238 3243	Adobe
+T54	Organization 3259 3267	DocuSigh
+T55	Email 3325 3340	email addresses
+T56	Information 3344 3353	usernames
+T57	Campaign 2791 2798	attacks
+T58	Software 3150 3158	software
+T59	Time 1996 2000	2017
+T60	Email 2089 2104	email addresses
+T61	Organization 1654 1660	Google
+T62	Organization 1665 1672	Dropbox
+T22	Email 987 993	emails
+T63	Campaign 1609 1616	attacks
+T64	Domain 3038 3053	ecommerce sites
+T65	Information 2497 2506	usernames
+T66	Information 2511 2520	passwords
+T67	Domain 2538 2543	sites
+T68	Email 2431 2446	email addresses
+T69	Person 2477 2483	people
+T70	Hacker-Group 2591 2600	attackers
+T71	Person 1812 1818	victim
+T72	Organization 1066 1070	them
+T73	Organization 3316 3320	they
+T74	Person 909 913	them
+T76	File 707 711	them
+T78	Person 35 37	we
+T79	Organization 2422 2426	they
+T80	Organization 3303 3307	them
+T81	Organization 2080 2084	they
+*	Coreference T13 T21
+*	Coreference T31 T16 T93
+*	Coreference T36 T28 T8 T42 T6 T70 T32
+*	Coreference T38 T50
+*	Coreference T44 T46
+*	Coreference T35 T51 T59
+*	Coreference T56 T65
+*	Coreference T60 T55 T68 T24 T114 T77
+T82	Money 220 227	refunds
+T83	Organization 242 251	PhishLabs
+T85	Domain 391 396	sites
+*	Coreference T39 T43
+T86	Person 734 747	Crane Hassold
+T87	Person 749 797	a senior security threat researcher at PhishLabs
+*	Coreference T86 T87
+T88	File 673 692	employees’ W2 forms
+*	Coreference T88 T76
+T90	Number 515 522	numbers
+T91	Person 853 870	tax professionals
+*	Coreference T91 T74
+T92	Domain 917 931	fake Web sites
+T93	Information 1081 1098	their information
+T94	Organization 1138 1141	IRS
+T95	Hacker-Group 1184 1205	other scams criminals
+T96	Person 1227 1239	someone else
+T97	Money 1242 1249	refunds
+T98	Money 1125 1132	returns
+*	Coreference T98 T97 T82
+T101	Organization 216 219	IRS
+*	Coreference T101 T94
+T104	Software 1516 1538	cloud storage services
+T105	Software 1567 1586	targeted businesses
+*	Coreference T96 T23
+T75	Organization 1750 1768	financial industry
+T107	Software 1772 1794	cloud storage services
+T108	Software 1903 1925	cloud storage services
+T109	Organization 1940 1962	financial institutions
+T110	Organization 1966 1992	the most targeted industry
+T112	Organization 2026 2035	providers
+T113	Organization 1643 1652	providers
+*	Coreference T113 T112 T81
+*	Coreference T78 T83 T115
+T114	Information 2108 2117	usernames
+T115	Organization 2056 2065	PhishLabs
+*	Coreference T26 T63 T57 T34 T52
+T77	Information 2450 2459	usernames
+*	Coreference T30 T66
+T117	Organization 2326 2343	secondary targets
+T118	Organization 2363 2386	These secondary targets
+*	Coreference T118 T117 T79
+T119	Organization 2545 2565	Financial industries
+T120	Organization 2570 2577	targets
+*	Coreference T119 T120 T75 T109 T110
+T121	Software 2702 2724	cloud storage services
+T122	Software 2740 2758	financial services
+T123	Software 2762 2769	targets
+*	Coreference T121 T123 T105 T104 T107 T108 T126 T129
+T124	Number 2827 2833	number
+T125	Number 2775 2787	total number
+T126	Software 2868 2890	cloud storage services
+T127	Organization 2968 2987	targeted industries
+T128	Software 2900 2909	financial
+T129	Software 2914 2927	cloud storage
+*	Coreference T128 T122
+T130	Organization 3245 3253	Adobe ID
+*	Coreference T53 T130
+T131	Hacker-Group 3276 3285	attackers
+*	Coreference T80 T73

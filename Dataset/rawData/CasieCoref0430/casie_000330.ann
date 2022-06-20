@@ -1,0 +1,198 @@
+T2	Malware 1025 1044	these virus strains
+T3	Information 1084 1088	data
+T7	Hacker-Group 1268 1275	hackers
+T6	Information 1222 1235	user accounts
+T14	Information 2154 2178	confidential information
+T16	Device 2217 2228	its servers
+T17	Device 2233 2242	computers
+T20	Information 2287 2311	confidential information
+T11	Campaign 1716 1730	ransom demands
+T13	Organization 1692 1696	ABCD
+T12	Person 1760 1775	unknown persons
+T9	Organization 0 15	ABCD Pediatrics
+T21	Organization 17 28	PA (“ABCD”)
+T22	Campaign 55 83	quality pediatric healthcare
+T23	Location 86 107	 the San Antonio area
+T24	Person 158 165	patient
+T25	Time 167 177	every time
+T26	Number 153 157	each
+T27	Organization 201 205	ABCD
+T28	Course-of-Action 220 248	inform you about an incident
+T29	Campaign 236 248	 an incident
+T32	File 360 432	 the Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+T33	File 434 452	Public Law 104-191
+T34	File 457 511	 the included Administrative Simplification provisions
+T35	Time 513 551	During the morning of February 6, 2017
+T36	Person 552 583	 an employee of ABCD Pediatrics
+T37	Malware 599 607	 a virus
+T38	Attack-Pattern 632 657	encrypting ABCD’s servers
+T39	Device 643 657	ABCD’s servers
+T40	Software 702 729	existing antivirus software
+T41	Course-of-Action 658 729	 The encryption was slowed significantly by existing antivirus software
+T42	Organization 747 751	ABCD
+T43	Organization 773 788	 its IT Company
+T45	Device 794 808	ABCD’s servers
+T46	Device 813 822	computers
+T48	Organization 865 882	ABCD’s IT Company
+T49	Malware 893 903	 the virus
+T50	Malware 908 925	Dharma Ransomware
+T51	Malware 936 975	 a variant of an older ransomware virus
+T52	Malware 984 990	CriSiS
+T53	Organization 993 1010	ABCD’s IT Company
+T1	Device 1093 1104	 the server
+T4	Attack-Pattern 1115 1150	exfiltration could not be ruled out
+T57	Course-of-Action 1353 1408	removed the virus and all corrupt data from its servers
+T60	Malware 1360 1370	 the virus
+T59	Device 1452 1466	ABCD’s servers
+T61	Device 1471 1480	computers
+T62	Campaign 1503 1517	 this incident
+T58	Device 1396 1408	 its servers
+T63	Course-of-Action 1538 1563	restore all affected data
+T64	Information 1581 1605	confidential information
+T65	Information 1639 1667	protected health information
+T66	Organization 1786 1790	ABCD
+T67	Organization 1817 1819	it
+T68	File 1831 1840	user logs
+T69	Code 1857 1874	computer programs
+T70	Person 1878 1885	persons
+T71	Device 1902 1913	 the server
+T72	Time 1917 1942	 a limited period of time
+T73	Course-of-Action 1959 1981	notifying its patients
+T74	Organization 1983 1987	ABCD
+T75	Course-of-Action 1988 2041	notified the Federal Bureau of Investigations (“FBI”)
+T76	Course-of-Action 2055 2105	notify the Department of Health and Human Services
+T77	Organization 2061 2105	 the Department of Health and Human Services
+T78	Organization 1996 2041	 the Federal Bureau of Investigations (“FBI”)
+T15	Organization 2373 2377	ABCD
+T18	Information 2431 2455	confidential information
+T19	Campaign 2482 2496	 this incident
+T80	Information 2509 2529	affected information
+T81	Person 2548 2551	one
+T82	Information 2554 2558	name
+T83	Information 2560 2567	address
+T84	Information 2569 2578	telephone
+T85	Information 2580 2593	date of birth
+T86	Information 2595 2624	other demographic information
+T87	Information 2626 2648	Social Security Number
+T88	Information 2650 2679	insurance billing information
+T89	Code 2681 2716	current procedural technology codes
+T90	Information 2718 2733	medical records
+T91	Information 2739 2757	laboratory reports
+T92	Organization 2759 2763	ABCD
+T93	Information 2769 2791	 its patient’s privacy
+T94	Information 2812 2829	their information
+T95	Organization 2846 2850	ABCD
+T96	Number 2855 2867	a variety of
+T97	Course-of-Action 2868 2915	security measures in place before this incident
+T98	Campaign 2901 2915	 this incident
+T99	Course-of-Action 2927 3053	network filtering and security monitoring, intrusion detection systems, firewalls, antivirus software, and password protection
+T100	Campaign 2949 2968	security monitoring
+T101	System 2970 2997	intrusion detection systems
+T102	Software 2999 3008	firewalls
+T103	Software 3010 3028	antivirus software
+T104	Campaign 2927 2944	network filtering
+T105	Campaign 3034 3053	password protection
+T106	Campaign 3064 3078	 this incident
+T107	Organization 3080 3097	ABCD’s IT Company
+T108	Campaign 3119 3133	 the intrusion
+T109	Course-of-Action 3138 3283	implemented several measures to ensure this kind of incident does not occur again, which include state of the art cyber monitoring on its network
+T110	Course-of-Action 3098 3133	located the source of the intrusion
+T111	Time 3525 3577	Friday from 9:00 AM to 9:00 PM Eastern Standard Time
+T112	Campaign 3190 3198	incident
+T113	System 3272 3283	its network
+T114	Campaign 3235 3268	state of the art cyber monitoring
+T115	Number 3150 3157	several
+T116	Organization 3285 3289	ABCD
+T117	Organization 3294 3308	its IT Company
+T118	Organization 3383 3409	Equifax Personal Solutions
+T119	Course-of-Action 3369 3478	arranged with Equifax Personal Solutions to help protect the identity and credit information of all patients.
+T120	Course-of-Action 3321 3359	assess its physical and cyber security
+T121	Person 3469 3477	patients
+T122	Information 3443 3461	credit information
+T123	Information 3425 3438	 the identity
+T124	Person 3479 3487	Patients
+T125	Time 3510 3516	Monday
+T126	Person 3599 3603	they
+T127	Person 3632 3639	patient
+T128	Person 3655 3659	they
+T129	Person 3699 3733	 a customer service representative
+T130	Campaign 3739 3752	 the incident
+T131	Person 3754 3762	Patients
+T132	Course-of-Action 3772 3813	place a fraud alert on their credit files
+T133	File 3794 3813	 their credit files
+T134	Number 3818 3828	 the three
+T135	Organization 3829 3860	major credit reporting agencies
+T136	Course-of-Action 3862 3876	 A fraud alert
+T137	Information 3910 3929	one’s credit report
+T138	Course-of-Action 3930 4039	 The fraud alert signals creditors to take additional steps to verify one’s identity prior to granting credit
+T139	Information 4000 4014	one’s identity
+T140	Information 4033 4039	credit
+T141	Person 3955 3964	creditors
+T142	Person 4086 4093	someone
+T143	Information 4172 4178	credit
+T144	Organization 4184 4195	 the agency
+T145	Information 4205 4213	identity
+T146	Course-of-Action 4215 4227	Fraud alerts
+T147	Time 4246 4253	90 days
+T148	Course-of-Action 4274 4358	renew it or use the automatic fraud alert feature within a Credit Watch subscription
+T149	Software 4330 4358	 a Credit Watch subscription
+T150	Person 4360 4368	Patients
+T151	Information 4391 4411	 their credit report
+T153	Person 4444 4452	patients
+T152	Course-of-Action 4416 4442	establishing a fraud alert
+T154	Person 4507 4511	they
+T155	Information 4533 4553	 their credit report
+T156	Person 4560 4568	patients
+T157	Information 4576 4596	 their credit report
+T158	Campaign 4639 4644	fraud
+T159	Information 4654 4669	credit accounts
+T160	Course-of-Action 4702 4855	a fraud alert has been placed on their account, patients should continue to monitor future credit reports to ensure an imposter has not opened an account
+T161	Information 4786 4807	future credit reports
+T162	Information 4844 4855	 an account
+T163	Hacker-Group 4817 4829	 an imposter
+T164	Person 4750 4758	patients
+T165	Information 4734 4748	 their account
+T166	Person 4860 4868	patients
+T167	Person 4902 4906	they
+T168	Course-of-Action 4920 5027	call all three credit bureaus (information listed above) and place a security freeze on thier credit report
+T169	Number 4929 4934	three
+T170	Information 4935 4976	credit bureaus (information listed above)
+T171	Information 5014 5027	credit report
+T172	Organization 5096 5109	credit agency
+T173	Organization 5086 5091	state
+T174	Money 5029 5036	Charges
+T175	Campaign 5059 5077	 a security freeze
+T176	Campaign 5145 5159	 this incident
+T177	Person 5180 5188	patients
+T178	Time 5230 5297	Monday through Friday from 9:00 AM to 9:00 PM Eastern Standard Time
+T180	Software 4130 4132	it
+T181	Information 4606 4608	it
+T183	Person 5111 5113	We
+T184	Information 1523 1525	it
+T185	Organization 2047 2049	it
+T188	Person 3361 3363	We
+T189	Pronoun 3599 3603	they
+T190	Person 4261 4264	you
+T191	Organization 2244 2246	it
+T30	Information 271 314	 its patients’ protected health information
+T31	Malware 950 975	an older ransomware virus
+T8	System 1306 1320	ABCD’s network
+T10	Organization 1322 1339	ABCD’s IT Company
+T5	Device 1181 1195	ABCD’s servers
+T44	Device 1200 1209	computers
+T47	Information 1410 1428	Secure backup data
+T54	Organization 2113 2130	ABCD’s IT Company
+T55	Software 4041 4054	 This service
+*	Coreference T45 T59 T39 T5 T16
+*	Coreference T53 T107 T43 T48 T117 T10 T54 T191
+*	Coreference T14 T20 T18
+*	Coreference T9 T21 T27 T42 T92 T67 T66 T116 T15 T95 T74 T13 T185
+*	Coreference T49 T50 T37 T51 T60
+*	Coreference T31 T52
+*	Coreference T44 T46 T61 T17
+*	Coreference T47 T184
+*	Coreference T29 T62 T112 T106 T176 T98 T130 T19
+*	Coreference T180 T55
+*	Coreference T154 T153
+*	Coreference T181 T157
+*	Coreference T167 T166

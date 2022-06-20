@@ -1,0 +1,48 @@
+T20	Campaign 629 660	some of the more recent attacks
+T4	Campaign 715 721	ransom
+T1	Campaign 448 455	payment
+T3	System 359 371	the platform
+T2	Person 403 413	the victim
+T12	Attack-Pattern 490 515	lose access to your files
+T10	Campaign 1187 1201	ransom payment
+T11	Person 1145 1158	those victims
+T6	Campaign 922 927	leave
+T7	Hacker-Group 914 918	they
+T8	Attack-Pattern 948 965	logoff the system
+T5	File 928 943	the ransom note
+T9	Time 0 18	Earlier this month
+T14	Number 206 209	200
+T15	System 210 219	databases
+T16	System 256 263	MongoDB
+T17	Time 120 129	January 3
+T18	Person 175 182	victims
+T19	Person 20 31	Salted Hash
+T21	Software 1283 1296	Elasticsearch
+T22	Hacker-Group 1216 1225	criminals
+T23	System 1405 1411	Hadoop
+T24	Email 1051 1080	nine different email accounts
+T25	Domain 1120 1131	Google Docs
+T26	System 1416 1423	CouchDB
+T27	System 91 98	MongoDB
+T28	Hacker-Group 1374 1378	they
+T29	File 564 568	they
+T31	File 582 586	they
+*	Coreference T1 T10 T4
+*	Coreference T11 T18 T2
+*	Coreference T16 T27
+T32	Campaign 291 298	attacks
+*	Coreference T31 T29 T38
+T30	Campaign 789 796	attacks
+T33	Person 762 773	researchers
+T34	Hacker-Group 981 992	individuals
+T35	Hacker-Group 824 835	individuals
+*	Coreference T7 T35 T34
+T36	System 322 335	Elasticsearch
+*	Coreference T36 T21 T37
+T37	Software 1301 1325	Java-based search engine
+*	Coreference T28 T22
+T38	File 535 558	security certifications
+T39	Money 440 447	Bitcoin
+T40	Money 1021 1028	Bitcoin
+*	Coreference T39 T40
+T13	Number 223 239	more than 40,000

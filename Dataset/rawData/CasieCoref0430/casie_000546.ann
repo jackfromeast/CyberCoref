@@ -1,0 +1,99 @@
+T2	File 788 807	their attack emails
+T4	Person 853 866	the recipient
+T5	File 867 877	the notice
+T3	Person 770 774	they
+T2	File 788 807	their attack emails
+T13	Person 2024 2029	users
+T11	Attack-Pattern 2035 2052	clicking on links
+T12	Attack-Pattern 2058 2087	led them to Maktub ransomware
+T14	Campaign 1994 2007	the UK attack
+T9	Hacker-Group 1182 1195	the attackers
+T16	Campaign 2 15	spam campaign
+T17	Person 26 38	German users
+T18	Person 90 95	users
+T19	Attack-Pattern 101 119	installing malware
+T20	Malware 112 119	malware
+T21	Information 151 185	 the victim's personal information
+T22	File 190 218	 its poisoned email messages
+T23	Attack-Pattern 124 218	embedding several pieces of the victim's personal information into its poisoned email messages
+T24	Campaign 219 232	 The campaign
+T25	Time 262 283	at least January 2017
+T26	Person 296 303	 a user
+T27	Email 312 321	 an email
+T28	Location 342 348	German
+T29	File 349 361	 Its message
+T30	Person 369 383	 the recipient
+T31	Money 438 454	 the transaction
+T32	Person 484 493	 The user
+T33	Email 517 527	 the email
+T34	File 629 641	spam message
+T35	Person 657 669	German users
+T36	Campaign 710 728	 this type of scam
+T37	Hacker-Group 733 747	 the attackers
+T6	Attack-Pattern 812 824	 a technique
+T1	Person 893 906	Andrew Brandt
+T38	Person 908 947	director of threat research at Symantec
+T39	File 1014 1021	message
+T40	Information 1039 1065	 the recipient’s full name
+T41	Email 1067 1082	mailing address
+T42	Information 1088 1104	telephone number
+T43	Information 1135 1147	 the message
+T44	Person 1150 1156	Brandt
+T7	Information 1203 1230	users' personal information
+T8	Person 1245 1255	bad actors
+T15	Organization 1264 1270	Google
+T45	Software 1281 1286	tools
+T46	Information 1302 1315	these details
+T47	Information 1323 1349	 your personal information
+T48	Person 1373 1378	users
+T49	Person 1395 1407	 a recipient
+T50	File 1427 1456	 the double-zipped attachment
+T51	Malware 1490 1498	Nymaim.B
+T52	System 1503 1540	 its command and control (C&C) server
+T53	Malware 1541 1561	 this banking trojan
+T54	Domain 1567 1585	afegesinge[dot]com
+T55	Number 1609 1611	13
+T56	Malware 1618 1625	malware
+T57	Attack-Pattern 1626 1658	executables communicated with it
+T58	Time 1668 1678	April 2016
+T61	File 1779 1795	malicious emails
+T62	Money 1833 1838	money
+T63	Information 1875 1911	 their real-life address information
+T64	File 1919 1932	 the messages
+T65	Campaign 1963 1983	 the German campaign
+T10	URL 2047 2052	links
+T66	Malware 2070 2087	Maktub ransomware
+T67	Email 2113 2122	 an email
+T68	Organization 2199 2211	 the company
+T69	Information 2251 2278	 the message’s authenticity
+T70	Person 2359 2364	users
+T71	Course-of-Action 2372 2431	maintain an up-to-date security solution on their computers
+T72	Device 2415 2431	 their computers
+T74	Course-of-Action 2498 2526	delete any suspicious emails
+T75	File 2509 2526	suspicious emails
+T76	Person 679 681	us
+T77	Person 547 551	they
+T78	Pronoun 1823 1827	they
+T80	Course-of-Action 2471 2475	they
+T81	Campaign 753 755	it
+T82	Email 2136 2138	it
+T83	Pronoun 1656 1658	it
+T84	Person 384 388	they
+T85	Person 2062 2066	them
+T86	Email 2297 2299	it
+T59	Person 1694 1711	BBC News reporter
+T79	Person 1712 1722	Shari Vahl
+T60	Person 1727 1743	ZDNet journalist
+T87	Person 1744 1758	Zack Whittaker
+T88	Course-of-Action 2443 2459	software updates
+*	Coreference T1 T44 T38
+*	Coreference T84 T30 T77
+*	Coreference T33 T29
+*	Coreference T79 T59
+*	Coreference T60 T87
+*	Coreference T36 T81
+*	Coreference T85 T13
+*	Coreference T88 T80
+*	Coreference T82 T67 T86
+*	Coreference T53 T51
+*	Coreference T24 T16 T65

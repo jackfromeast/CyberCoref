@@ -1,0 +1,59 @@
+T18	Hacker-Group 1256 1268	The attacker
+T20	Domain 1278 1287	TicketFly
+T22	Money 1292 1301	1 bitcoin
+T24	Money 1351 1357	$7,544
+T23	Campaign 1309 1324	the cyberattack
+T4	Information 393 409	user information
+T3	Information 419 435	credit card data
+T8	Time 883 892	Next time
+T6	Hacker-Group 893 894	I
+T7	Information 908 916	database
+T9	Hacker-Group 919 929	The hacker
+T10	Information 945 962	an e-mail address
+T11	Information 981 991	a database
+T13	Information 1043 1054	information
+T14	Email 1066 1081	email addresses
+T15	Information 1083 1096	phone numbers
+T16	Information 1098 1103	names
+T17	Information 1108 1117	addresses
+T12	Domain 0 9	Ticketfly
+T1	Time 666 671	6 a.m
+T26	Hacker-Group 679 685	hacker
+T27	Hacker-Group 699 706	IShAkDz
+T28	Campaign 733 739	attack
+T29	Hacker-Group 786 792	hacker
+T5	Hacker-Group 1136 1144	attacker
+T19	Hacker-Group 1407 1421	alleged hacker
+T21	Organization 312 319	company
+T30	Time 120 128	Thursday
+T32	Domain 353 362	Ticketfly
+T34	Person 585 606	Ticketfly spokeswoman
+T33	Information 547 560	customer data
+T35	Domain 1150 1154	CNET
+T36	Domain 1446 1455	Ticketfly
+T37	Person 1363 1384	Ticketfly spokeswoman
+T38	Domain 748 757	Ticketfly
+T39	System 230 247	Ticketfly systems
+T31	Vulnerability 300 305	issue
+T40	Email 618 623	email
+T41	Number 1007 1012	4,000
+T42	Email 1125 1130	email
+T43	Domain 1180 1189	TicketFly
+T44	Vulnerability 1474 1480	issues
+T45	Domain 1488 1495	website
+T46	Person 1166 1169	she
+T47	Organization 212 214	we
+T48	Pronoun 868 869	I
+T49	Organization 271 273	we
+T50	Domain 475 477	We
+T51	Person 1160 1162	he
+T53	Organization 137 139	it
+*	Coreference T7 T11
+*	Coreference T26 T9 T5 T19 T27 T6 T29 T18
+*	Coreference T43 T20 T36 T12 T32 T38 T50
+T54	Organization 68 92	online ticketing service
+*	Coreference T54 T53 T47 T21 T49
+T55	Campaign 161 175	cyber incident
+*	Coreference T24 T22
+*	Coreference T28 T23 T2
+T2	Campaign 460 471	cyberattack

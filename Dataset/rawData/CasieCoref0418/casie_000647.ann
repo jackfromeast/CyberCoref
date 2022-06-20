@@ -1,0 +1,74 @@
+T1	Email 0 17	Fraudulent emails
+T3	Person 40 51	individuals
+T4	Organization 59 68	companies
+T7	Email 165 175	This email
+T6	Organization 195 221	UVA Community Credit Union
+T8	Person 230 234	them
+T9	Attack-Pattern 321 370	redirects the individual to a fraudulent web page
+T12	Email 290 299	The email
+T10	Domain 309 315	a link
+T14	Attack-Pattern 379 449	contain a virus or malicious software, or solicit password information
+T17	Email 466 474	an email
+T16	Person 454 457	you
+T21	Information 1483 1502	account information
+T23	Person 1408 1411	you
+T25	Organization 1456 1482	UVA Community Credit Union
+T2	Information 240 250	an account
+T5	Domain 351 370	fraudulent web page
+T11	Person 335 345	individual
+T13	Malware 398 416	malicious software
+T24	Malware 389 394	virus
+T26	Malware 421 449	solicit password information
+T15	URL 506 510	link
+T18	System 537 543	system
+T19	Malware 559 566	viruses
+T22	Person 571 574	you
+T27	Domain 599 617	fraudulent website
+T28	Vulnerability 633 637	risk
+T29	Campaign 642 658	subsequent fraud
+T30	Information 667 676	passwords
+T31	Information 685 718	Online Banking and Email accounts
+T32	Course-of-Action 756 798	latest updates from your anti-virus vendor
+T33	Course-of-Action 803 825	run a full system scan
+T34	Course-of-Action 852 870	anti-virus vendors
+T35	Course-of-Action 882 916	update the latest virus signatures
+T36	Course-of-Action 1089 1134	monitor your accounts for suspicious activity
+T37	Information 1102 1110	accounts
+T38	Campaign 1115 1134	suspicious activity
+T39	Organization 1146 1161	Security Center
+T40	Organization 1268 1294	UVA Community Credit Union
+T41	Email 1321 1326	email
+T42	Device 1328 1338	cell phone
+T43	Email 1340 1352	text message
+T44	Device 1357 1366	telephone
+T45	Information 1383 1403	personal information
+T46	Person 1424 1430	victim
+T47	Campaign 1436 1440	scam
+T48	Organization 1538 1540	us
+T20	Information 1556 1568	434-964-2001
+T49	Information 1583 1597	1-888-887-9136
+T50	Person 1242 1248	victim
+T51	Campaign 1261 1266	theft
+T52	Person 1226 1229	you
+T53	Course-of-Action 1182 1206	protecting your computer
+T54	Device 1198 1206	computer
+T55	Software 972 991	anti-virus software
+T56	Course-of-Action 957 991	configure your anti-virus software
+T57	Course-of-Action 995 1038	automatically update and scan your computer
+T58	Device 1030 1038	computer
+T59	Person 1314 1317	you
+T61	Person 619 622	you
+T62	Person 743 746	you
+T65	Person 1070 1073	you
+T66	Person 1214 1217	you
+T70	Person 720 723	You
+*	Coreference T3 T11
+*	Coreference T41 T7 T1 T17 T12
+*	Coreference T21 T45
+*	Coreference T40 T25 T6 T8 T48
+*	Coreference T2 T37
+*	Coreference T5 T27
+*	Coreference T24 T19
+*	Coreference T42 T44
+*	Coreference T54 T58
+*	Coreference T52 T59 T16 T22 T61 T70 T62 T65 T66 T23

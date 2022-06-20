@@ -1,0 +1,42 @@
+T15	Person 703 707	they
+T14	Person 666 670	They
+T13	Attack-Pattern 671 699	threaten to destroy the data
+T5	Organization 4 33	Pennsylvania Senate Democrats
+T2	Campaign 53 70	ransomware attack
+T3	Attack-Pattern 80 139	locked senators and employees out of their computer network
+T4	Time 150 179	early morning hours of Friday
+T12	Campaign 605 619	demand payment
+T6	Campaign 387 412	payment has been demanded
+T7	Hacker-Group 448 457	attackers
+T8	Campaign 499 516	ransomware attack
+T9	Person 518 525	hackers
+T11	Malware 548 555	malware
+T10	Attack-Pattern 571 594	encrypts important data
+T1	Person 181 196	state officials
+T18	Person 233 242	Jay Costa
+T19	Organization 333 342	Microsoft
+T16	Information 1228 1232	data
+T20	Person 1184 1198	Stacey Witalec
+T21	Person 1140 1182	spokeswoman for the Pennsylvania Democrats
+T22	Person 1057 1080	spokeswoman for the FBI
+T23	Organization 963 971	official
+T24	System 797 813	computer network
+T25	Information 660 664	data
+T26	Organization 1011 1015	they
+T29	Person 367 369	He
+*	Coreference T2 T8 T31
+*	Coreference T16 T25 T10
+*	Coreference T18 T29 T17
+T30	Organization 276 285	Democrats
+T31	Campaign 358 365	problem
+*	Coreference T7 T9 T14 T15 T33 T34
+*	Coreference T6 T12
+T27	Person 721 744	The Democratic senators
+T28	Person 787 792	their
+*	Coreference T27 T28
+*	Coreference T5 T23 T32 T26
+T32	Organization 981 990	Democrats
+*	Coreference T21 T20
+T33	Hacker-Group 1272 1281	attackers
+T34	Hacker-Group 1297 1307	themselves
+T17	Person 248 265	Democratic leader

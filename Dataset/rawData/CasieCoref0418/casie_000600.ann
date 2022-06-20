@@ -1,0 +1,63 @@
+T2	Campaign 457 461	hack
+T3	Information 424 433	this info
+T4	Information 374 394	personal information
+T5	Person 401 414	the recipient
+T6	Campaign 45 64	email spam campaign
+T7	Person 92 104	UK residents
+T9	Email 148 163	email addresses
+T10	Person 168 178	recipients
+T11	File 216 229	attached file
+T12	Email 258 268	email body
+T13	Information 284 297	exact address
+T14	Information 239 248	last name
+T15	Information 188 198	first name
+T1	File 523 536	attached file
+T16	Person 739 748	recipient
+T17	File 773 791	attached Word file
+T18	Email 858 863	email
+T19	Information 833 841	password
+T20	File 879 885	macros
+T21	Attack-Pattern 898 926	view the document’s contents
+T23	File 966 970	file
+T22	Software 980 1003	malicious macro program
+T24	File 1019 1023	file
+T25	File 1065 1073	GIF file
+T26	File 1112 1116	file
+T27	Malware 1121 1127	Trojan
+T28	Attack-Pattern 1133 1167	turns the victim’s file into a bot
+T29	File 1143 1156	victim’s file
+T30	Malware 1164 1167	bot
+T31	Attack-Pattern 1173 1195	ropes it into a botnet
+T32	File 1179 1181	it
+T34	Person 1200 1207	Ducklin
+T35	Malware 1219 1226	malware
+T36	File 1243 1247	file
+T37	Malware 1282 1293	current bot
+T38	Attack-Pattern 1298 1325	download additional malware
+T39	Malware 1307 1325	additional malware
+T40	Hacker-Group 1350 1359	attackers
+T41	Person 1420 1427	someone
+T42	Information 1447 1460	personal info
+T43	Person 1467 1471	them
+T45	Person 661 680	well-meaning sender
+T46	Person 708 730	native English speaker
+T47	Person 330 336	sender
+T8	Person 112 129	Sophos researcher
+T48	Person 130 142	Paul Ducklin
+T49	Person 793 795	he
+T50	Person 1480 1484	they
+T51	File 1075 1077	It
+T52	File 1086 1088	it
+T54	Attack-Pattern 1029 1031	it
+T56	Person 799 802	she
+*	Coreference T4 T42 T3
+*	Coreference T10 T16 T7 T5
+*	Coreference T34 T48 T8
+*	Coreference T1 T11
+T44	Email 604 614	email body
+*	Coreference T23 T24
+*	Coreference T25 T51 T52
+*	Coreference T32 T29
+*	Coreference T41 T43 T50
+T33	Attack-Pattern 943 954	this action
+*	Coreference T33 T54 T21

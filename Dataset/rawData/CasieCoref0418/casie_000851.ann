@@ -1,0 +1,66 @@
+T8	Campaign 303 315	had been hit
+T10	Organization 243 257	Macron's party
+T11	Organization 269 279	En Marche!
+T12	Organization 285 292	Onwards
+T13	Campaign 385 390	trick
+T15	Attack-Pattern 435 481	click on professionally-looking fake web pages
+T14	Person 418 431	staff members
+T9	Campaign 342 360	"phishing" attacks
+T16	Campaign 1173 1189	phishing attacks
+T19	Person 1080 1095	Emmanuel Macron
+T18	Campaign 1631 1636	trick
+T21	Purpose 1659 1691	divulging their user credentials
+T20	Person 1637 1653	campaign workers
+T17	Domain 1588 1606	the fake web sites
+T1	Campaign 147 152	steal
+T7	Organization 90 99	his party
+T3	Time 177 184	January
+T2	Information 153 170	email credentials
+T22	Organization 30 61	Emmanuel Macron's campaign team
+T4	Campaign 213 223	compromise
+T6	Person 194 198	they
+T5	Information 228 241	campaign data
+T23	Organization 1731 1740	En Marche
+T24	Email 1755 1760	email
+T25	Information 1770 1794	confidential information
+T27	Organization 1718 1720	it
+T28	Hacker-Group 605 607	it
+T29	Organization 1535 1537	it
+*	Coreference T13 T18
+T31	Person 0 29	French presidential candidate
+T32	Organization 113 119	target
+*	Coreference T7 T32 T10 T11 T23 T12 T26 T52 T53 T54
+T26	Organization 300 302	it
+T30	Campaign 487 501	latest attacks
+T33	Organization 520 545	security firm Trend Micro
+T34	Organization 635 646	Macron team
+*	Coreference T22 T34 T57 T29 T27
+T35	Person 554 565	researchers
+T36	Hacker-Group 583 604	cyber espionage group
+T37	Hacker-Group 619 629	Pawn Storm
+*	Coreference T36 T28 T37 T39 T40 T41
+T38	Person 660 667	experts
+T39	Hacker-Group 677 682	group
+T40	Hacker-Group 699 709	Fancy Bear
+T41	Hacker-Group 715 721	APT 28
+T42	Organization 727 767	Russian military intelligence agency GRU
+T43	Campaign 802 809	attacks
+T44	Campaign 813 830	Macron's campaign
+*	Coreference T30 T9 T43 T16 T55
+T45	Organization 769 775	Russia
+T46	Person 832 838	Macron
+T47	Person 840 863	an independent centrist
+*	Coreference T46 T47 T31 T19 T50
+T48	Person 919 949	far-right leader Marine Le Pen
+T49	Person 992 998	Le Pen
+*	Coreference T48 T49
+T50	Person 1103 1117	only candidate
+T51	Campaign 1125 1153	French presidential campaign
+*	Coreference T44 T51
+T52	Organization 1193 1202	his party
+T53	Organization 1278 1287	En Marche
+T54	Organization 1325 1330	party
+T55	Campaign 1375 1382	attacks
+T56	Organization 1442 1448	Russia
+*	Coreference T45 T56
+T57	Organization 1501 1516	Macron campaign

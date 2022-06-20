@@ -1,0 +1,126 @@
+T24	Campaign 720 723	fix
+T23	Organization 682 693	the company
+T35	Time 706 716	six months
+T28	Campaign 761 771	delivering
+T29	Course-of-Action 772 779	patches
+T30	Vulnerability 795 808	CVE-2017-0106
+T31	Vulnerability 810 823	CVE-2017-0199
+T32	Vulnerability 829 842	CVE-2017-0204
+T22	Time 847 852	April
+T36	Campaign 898 905	patched
+T38	Vulnerability 906 918	the zero-day
+T37	Organization 888 897	Microsoft
+T49	Campaign 1248 1260	is available
+T50	Course-of-Action 1240 1247	a patch
+T51	Time 1231 1234	now
+T65	Course-of-Action 2134 2141	a patch
+T58	Campaign 1804 1812	detected
+T59	Vulnerability 1813 1825	the zero-day
+T60	Organization 1788 1795	FireEye
+T34	Campaign 1944 1949	found
+T78	Vulnerability 1903 1934	a sophisticated backdoor trojan
+T33	Attack-Pattern 1981 2018	used for economic espionage campaigns
+T15	Campaign 535 555	submitted a write-up
+T16	Person 528 534	Hanson
+T17	Vulnerability 559 573	the three bugs
+T19	Campaign 577 582	found
+T21	Time 599 611	October 2016
+T18	Person 574 576	he
+T20	Organization 586 595	Microsoft
+T4	Software 79 95	Microsoft Office
+T5	System 100 107	WordPad
+T2	Vulnerability 27 68	a recently patched zero-day vulnerability
+T1	Vulnerability 12 25	CVE-2017-0199
+T9	Organization 172 179	FireEye
+T7	Vulnerability 189 206	the vulnerability
+T8	Attack-Pattern 240 263	pushing mundane malware
+T10	Campaign 393 403	discovered
+T11	Vulnerability 404 410	a flaw
+T12	Person 361 392	security researcher Ryan Hanson
+T13	Time 345 354	July 2016
+T14	Attack-Pattern 438 496	exploit to execute code on the underlying operating system
+T26	Campaign 739 749	discovered
+T25	Vulnerability 724 738	the three bugs
+T27	Person 753 759	Hanson
+T39	Campaign 995 1004	revealing
+T41	Vulnerability 1005 1017	the zero-day
+T40	Organization 980 994	both companies
+T43	Campaign 1114 1122	discover
+T44	Vulnerability 1123 1136	the same flaw
+T42	Organization 1095 1101	others
+T47	Campaign 1189 1198	revealing
+T48	Vulnerability 1217 1229	the zero-day
+T46	Organization 1165 1172	FireEye
+T45	Organization 1154 1160	McAfee
+T53	Campaign 1425 1435	discovered
+T54	Vulnerability 1463 1471	the flaw
+T52	Organization 1420 1424	they
+T55	Vulnerability 1355 1367	the zero-day
+T56	Time 1397 1413	January 25, 2017
+T57	Organization 1346 1353	FireEye
+T63	Course-of-Action 2087 2096	disclosed
+T64	Vulnerability 2097 2109	the zero-day
+T62	Organization 2079 2086	FireEye
+T61	Organization 2068 2074	McAfee
+T69	Vulnerability 2191 2211	the zero-day exploit
+T68	Hacker-Group 2154 2164	this group
+T72	Vulnerability 2257 2270	this zero-day
+T71	Vulnerability 2289 2312	an Office vulnerability
+T75	Vulnerability 2353 2371	this vulnerability
+T73	Organization 2314 2343	Microsoft's security advisory
+T77	Software 2386 2393	WordPad
+T3	Code 2747 2766	PowerShell commands
+T6	Device 2786 2801	user's computer
+T66	Person 2484 2489	users
+T67	File 2564 2583	booby-trapped files
+T70	Version 2443 2463	all Windows versions
+T74	Software 2402 2417	document viewer
+T76	Hacker-Group 277 315	state-sponsored cyber-espionage groups
+T79	Hacker-Group 224 239	cyber-criminals
+T80	Organization 152 171	cyber-security firm
+T81	Time 136 145	yesterday
+T82	Person 2541 2545	they
+T83	Person 2520 2524	they
+T85	Person 429 431	he
+T86	Vulnerability 1637 1639	it
+T88	Vulnerability 931 933	it
+T89	Organization 1801 1803	it
+*	Coreference T37 T20 T84 T23 T40 T97
+*	Coreference T50 T36 T65 T29
+*	Coreference T34 T19
+*	Coreference T5 T77 T74 T105
+*	Coreference T47 T28 T39
+*	Coreference T10 T43 T53 T26
+*	Coreference T44 T54 T11 T96 T86
+*	Coreference T45 T61
+*	Coreference T9 T60 T62 T57 T46 T80 T93 T52 T87 T89 T95
+*	Coreference T75 T71 T1 T2 T7 T41 T72 T55 T69 T64 T48 T59 T88 T38 T106
+T90	Malware 248 263	mundane malware
+*	Coreference T85 T12 T16 T27 T18
+T91	System 469 496	underlying operating system
+T84	Organization 621 628	company
+T92	Organization 960 966	McAfee
+T93	Organization 971 978	FireEye
+T94	Organization 1270 1284	security firms
+*	Coreference T17 T25
+T87	Organization 1479 1486	FireEye
+T95	Organization 1522 1541	cyber-security firm
+T96	Vulnerability 1587 1605	Microsoft zero-day
+T97	Organization 671 680	Microsoft
+T98	Hacker-Group 1551 1562	Gamma Group
+T99	Hacker-Group 1685 1692	company
+*	Coreference T99 T98 T103 T68
+T100	Malware 1702 1728	"lawful intercept" spyware
+T101	Campaign 1752 1760	campaign
+T102	Campaign 1508 1516	campaign
+*	Coreference T102 T101
+T103	Organization 2025 2030	group
+T104	Hacker-Group 2223 2239	crimeware groups
+*	Coreference T66 T83 T82
+T105	Software 2589 2596	WordPad
+T106	Vulnerability 2616 2623	exploit
+T107	File 2642 2646	file
+T108	File 2718 2721	RTF
+T109	File 2674 2701	HTA (HTML application) file
+*	Coreference T109 T108 T107 T110
+T110	File 414 423	RTF files

@@ -1,0 +1,137 @@
+T1	Campaign 120 138	 a security breach
+T4	Organization 0 8	OneLogin
+T2	Information 148 161	customer data
+T33	Attack-Pattern 204 226	decrypt encrypted data
+T5	Campaign 490 499	 A breach
+T6	Hacker-Group 513 522	intruders
+T7	Information 534 547	customer data
+T8	Person 589 598	customers
+T9	Campaign 899 918	unauthorized access
+T11	Organization 922 930	OneLogin
+T12	Information 931 935	data
+T13	Organization 877 889	 the company
+T10	Campaign 956 975	unauthorized access
+T15	Information 988 992	data
+T17	Time 938 943	Today
+T14	Organization 979 987	OneLogin
+T19	Information 1991 2004	Customer data
+T32	Attack-Pattern 2047 2069	decrypt encrypted data
+T27	Hacker-Group 3762 3774	threat actor
+T26	Software 3794 3802	database
+T28	Information 3823 3834	information
+T29	Person 3841 3846	users
+T30	Software 3848 3852	apps
+T31	Information 3875 3879	keys
+T23	Attack-Pattern 3304 3335	used them to access the AWS API
+T22	Information 3291 3299	AWS keys
+T21	Hacker-Group 3247 3262	 a threat actor
+T24	Location 3403 3410	 the US
+T34	Domain 9 27	 an online service
+T3	Location 245 258	San Francisco
+T36	Organization 260 268	OneLogin
+T37	Software 321 344	cloud-base applications
+T38	Organization 346 354	OneLogin
+T39	Person 367 381	 its customers
+T40	Number 387 392	2,000
+T41	Organization 393 402	companies
+T42	Number 406 408	44
+T43	Location 409 418	countries
+T44	Number 425 428	300
+T45	Organization 429 440	app vendors
+T46	Number 445 457	more than 70
+T47	Organization 458 489	software-as-a-service providers
+T48	Attack-Pattern 526 547	decrypt customer data
+T49	Person 606 624	OneLogin customers
+T50	Information 706 726	customer’s usernames
+T51	Information 731 740	passwords
+T52	Software 751 776	 their other applications
+T53	Time 799 808	Wednesday
+T54	Person 810 866	OneLogin chief information security officer Alvaro Hoyos
+T55	Location 1000 1014	US data region
+T16	Course-of-Action 1030 1062	blocked this unauthorized access
+T56	Course-of-Action 1064 1102	reported the matter to law enforcement
+T57	Organization 1124 1153	 an independent security firm
+T58	Course-of-Action 1157 1203	determine how the unauthorized access happened
+T59	Campaign 1242 1256	 this incident
+T60	Course-of-Action 1208 1256	verify the extent of the impact of this incident
+T61	Course-of-Action 1400 1477	reached out to impacted customers with specific recommended remediation steps
+T62	Person 1415 1433	impacted customers
+T63	Person 1266 1279	our customers
+T18	Person 2107 2116	customers
+T64	Organization 2090 2098	OneLogin
+T65	Course-of-Action 2161 2246	directed customers to a list of required steps to minimize any damage from the breach
+T66	Person 2170 2179	customers
+T67	Campaign 2235 2246	 the breach
+T68	Course-of-Action 2256 2296	generating new API keys and OAuth tokens
+T69	Course-of-Action 2347 2404	creating new security certificates as well as credentials
+T70	Course-of-Action 2406 2469	recycling any secrets stored in OneLogin’s Secure Notes feature
+T71	Course-of-Action 2475 2514	having end-users update their passwords
+T72	Campaign 2825 2837	 this breach
+T73	Domain 2856 2892	cloud-based single sign-on] services
+T20	Attack-Pattern 3263 3299	obtained access to a set of AWS keys
+T74	Information 3309 3313	them
+T75	Code 3323 3335	 the AWS API
+T76	Campaign 3426 3437	 the attack
+T77	Time 3449 3477	May 31, 2017 around 2 am PST
+T78	Code 3486 3498	 the AWS API
+T79	Hacker-Group 3499 3509	 the actor
+T80	Code 3526 3535	instances
+T81	Device 3543 3557	infrastructure
+T82	Purpose 3564 3578	reconnaissance
+T83	Person 3580 3594	OneLogin staff
+T85	Time 3643 3651	9 am PST
+T84	Campaign 3610 3635	unusual database activity
+T86	Course-of-Action 3671 3726	shut down the affected instance as well as the AWS keys
+T25	Course-of-Action 3890 3920	encrypt certain sensitive data
+T87	Hacker-Group 3982 3999	 the threat actor
+T88	Attack-Pattern 4029 4041	decrypt data
+T89	Person 1323 1325	us
+T90	Person 1303 1307	they
+T91	Organization 2667 2671	they
+T93	Person 1258 1260	We
+T94	Code 3752 3754	it
+T95	Person 3887 3889	we
+T96	Person 3943 3945	we
+T97	Person 4043 4045	We
+T98	Person 4143 4145	we
+T99	Person 2571 2574	she
+T100	Person 944 946	we
+T101	Person 2983 2987	they
+T102	Person 1016 1018	We
+T103	Person 1384 1386	we
+T104	Organization 105 107	it
+T105	Person 2957 2973	victim customers
+T35	Organization 1756 1768	 The company
+T106	Organization 1824 1835	Motherboard
+T107	Campaign 1916 1929	 the incident
+T108	Person 1896 1910	 its customers
+T109	Organization 1869 1877	OneLogin
+T110	Organization 2131 2142	Motherboard
+T111	System 2298 2303	OAuth
+T112	System 2309 2344	 a system for logging into accounts
+T113	System 2284 2289	OAuth
+T114	Person 2516 2565	Gartner Inc. financial fraud analyst Avivah Litan
+T115	Organization 2596 2605	companies
+T116	Domain 2617 2652	cloud-based single sign-on services
+T117	System 3024 3053	 their authentication systems
+T118	Person 3075 3083	employee
+T119	Person 3122 3137	KrebsOnSecurity
+T92	Organization 3376 3400	smaller service provider
+T120	Code 3680 3702	 the affected instance
+*	Coreference T7 T50 T2 T19
+*	Coreference T12 T15
+*	Coreference T13 T41
+*	Coreference T31 T22 T74
+*	Coreference T87 T27 T21 T79
+*	Coreference T37 T52
+*	Coreference T4 T11 T36 T14 T64 T38 T34 T100 T102 T93 T89 T103 T35 T109
+*	Coreference T32 T88 T33 T48
+*	Coreference T49 T62 T18 T39 T8 T29 T63 T90
+*	Coreference T72 T67 T5 T1 T9 T10 T59
+*	Coreference T101 T105
+*	Coreference T110 T106
+*	Coreference T112 T111 T113
+*	Coreference T99 T114
+*	Coreference T91 T115
+*	Coreference T94 T120
+*	Coreference T97 T96 T95 T119 T98

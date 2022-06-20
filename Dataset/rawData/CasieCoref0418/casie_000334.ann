@@ -1,0 +1,79 @@
+T12	Hacker-Group 301 316	cyber criminals
+T11	Malware 355 365	ransomware
+T2	Money 121 133	two bitcoins
+T3	Money 156 163	$25,000
+T4	Person 89 93	They
+T20	Time 72 87	ET on Wednesday
+T21	Person 0 9	Officials
+T22	Location 13 30	Mecklenburg, N.C.
+T7	Money 223 229	ransom
+T5	Hacker-Group 167 174	hackers
+T6	Attack-Pattern 179 218	are holding the county’s computer files
+T8	Person 240 244	they
+T23	Time 65 70	1 p.m
+T1	Purpose 117 133	pay two bitcoins
+T24	File 195 218	county’s computer files
+T9	Malware 337 345	software
+T13	Attack-Pattern 317 465	deploying a form of software known as ransomware, which freezes up files on a computer network until someone enters a decryption code to unlock them
+T10	File 384 389	files
+T25	System 395 411	computer network
+T26	Person 418 425	someone
+T27	Code 435 450	decryption code
+T28	File 461 465	them
+T29	Code 482 486	code
+T14	Hacker-Group 522 529	hackers
+T15	Person 534 542	official
+T30	Organization 551 557	county
+T31	Organization 577 598	the city of Charlotte
+T32	Malware 609 619	ransomware
+T33	Person 642 650	employee
+T34	File 665 681	email attachment
+T35	Purpose 698 734	wrecking havoc with daily operations
+T36	Campaign 718 734	daily operations
+T37	Person 737 740	She
+T38	Organization 779 811	county’s code enforcement office
+T39	Person 860 869	Employees
+T40	Person 914 917	she
+T41	Course-of-Action 932 967	switching to paper records for work
+T42	Time 971 980	Wednesday
+T43	Organization 1000 1018	Charlotte Observer
+T44	Person 1024 1032	official
+T19	Organization 1057 1063	county
+T16	Money 1125 1131	ransom
+T18	Course-of-Action 1114 1131	paying the ransom
+T45	Information 1166 1180	decryption key
+T17	Hacker-Group 1208 1215	hackers
+T46	Information 1260 1263	key
+T47	Hacker-Group 1269 1286	anonymous hackers
+T48	Organization 1318 1336	Mecklenburg county
+T49	Person 1367 1375	official
+T50	Campaign 1387 1393	attack
+T51	Campaign 1420 1447	broader money-making scheme
+T52	Campaign 1478 1485	attacks
+T53	Software 1515 1533	Microsoft software
+T54	Number 1542 1553	millions of
+T55	Device 1554 1563	computers
+T56	Number 1567 1570	two
+T57	Time 1586 1603	earlier this year
+T58	Attack-Pattern 1605 1669	affecting everything from businesses to governments to hospitals
+T59	Organization 1631 1641	businesses
+T60	Organization 1645 1656	governments
+T61	Organization 1660 1669	hospitals
+T62	Campaign 1689 1698	incidents
+T63	Organization 1711 1746	Europe and Asia, U.S. organizations
+T64	System 1772 1786	transit system
+T65	Location 1790 1800	Sacramento
+T66	Organization 1815 1823	hospital
+T67	Location 1827 1838	Los Angeles
+T68	Location 1802 1808	Calif.
+T69	Malware 1458 1468	ransomware
+T73	Person 923 927	they
+*	Coreference T4 T21 T8
+*	Coreference T2 T3
+*	Coreference T28 T10
+*	Coreference T29 T27
+*	Coreference T14 T12
+*	Coreference T32 T11 T9
+*	Coreference T37 T15 T40
+*	Coreference T73 T39
+*	Coreference T45 T46

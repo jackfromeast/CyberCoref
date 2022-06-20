@@ -1,0 +1,113 @@
+T6	Information 1910 1918	QR codes
+T2	Information 71 83	browser data
+T12	Attack-Pattern 1524 1528	lure
+T14	Person 1529 1536	victims
+T13	Hacker-Group 1506 1514	attacker
+T15	Attack-Pattern 1566 1587	insert malicious code
+T3	Domain 1539 1548	 his site
+T9	Person 2842 2853	researchers
+T10	Software 2882 2888	Chrome
+T11	Software 2893 2900	Firefox
+T1	Person 98 127	privacy expert Lukasz Olejnik
+T4	Device 0 49	Sensors used to detect the level of ambient light
+T16	Time 129 149	Over the past decade
+T17	Device 151 172	ambient light sensors
+T18	Device 201 212	smartphones
+T19	Device 214 221	tablets
+T20	Device 227 234	laptops
+T21	Device 394 406	 The sensors
+T22	Organization 437 473	 the World Wide Web Consortium (W3C)
+T23	Software 531 541	 a browser
+T24	Domain 514 522	websites
+T25	Software 498 501	API
+T26	Device 559 592	 a device's ambient light sensors
+T27	Software 594 602	Browsers
+T28	Software 611 617	Chrome
+T29	Software 622 629	Firefox
+T30	Version 651 671	versions of this API
+T31	Time 693 703	Last month
+T32	Organization 723 731	 the W3C
+T33	Organization 761 777	 the Google team
+T34	Device 792 819	ambient light sensors (ALS)
+T35	Device 835 844	gyroscope
+T36	Device 846 858	magnetometer
+T37	Device 864 885	accelerometer sensors
+T38	System 908 939	 the browser permissions system
+T39	Domain 957 965	websites
+T40	Device 971 985	 these sensors
+T41	Person 1004 1009	users
+T42	Device 1073 1080	sensors
+T43	Number 1061 1072	 these four
+T44	Organization 1082 1088	Google
+T45	Software 1148 1156	browsers
+T46	Software 1177 1196	mobile applications
+T47	Person 1226 1235	 the user
+T48	Device 1267 1281	 these sensors
+T49	Person 1317 1324	Olejnik
+T50	Person 1329 1357	fellow researcher Artur Janc
+T51	Device 1465 1491	 the ambient light sensors
+T52	Hacker-Group 1553 1556	one
+T53	Domain 1591 1603	another site
+T54	URL 1625 1629	URLs
+T55	Person 1629 1636	 a user
+T56	Campaign 1672 1678	attack
+T57	Device 1796 1817	ambient light sensors
+T58	URL 1727 1751	previously visited links
+T59	Person 1844 1851	Olejnik
+T60	Person 1856 1860	Janc
+T61	Device 1878 1899	ambient light sensors
+T5	Campaign 1926 1938	 this attack
+T62	Device 1975 1996	ambient light sensors
+T63	Software 2021 2027	Chrome
+T64	Software 2053 2061	 the API
+T65	Software 2104 2111	Firefox
+T66	Person 2149 2156	Olejnik
+T67	Campaign 2168 2180	 this attack
+T69	Organization 2230 2238	 the W3C
+T70	Device 2279 2291	 the sensors
+T71	Person 2327 2342	 the researcher
+T72	Person 2364 2378	browser makers
+T73	Campaign 2491 2498	attacks
+T74	Person 2499 2506	Olejnik
+T75	Person 2511 2515	Janc
+T76	Location 2591 2596	place
+T77	Campaign 2597 2609	 the attacks
+T78	Course-of-Action 2379 2484	quantize the result by limiting the precision of the sensor output to only a few values in a preset range
+T79	Person 2742 2749	Olejnik
+T80	Person 2754 2758	Janc
+T81	Device 2780 2794	 these sensors
+T7	Person 2954 2961	Olejnik
+T8	Person 3015 3026	advertisers
+T82	Person 3036 3041	users
+T83	Software 3062 3083	W3C Web Bluetooth API
+T84	Vulnerability 3100 3113	privacy holes
+T85	Software 3131 3155	W3C Proximity Sensor API
+T86	Domain 3163 3171	websites
+T87	Person 3176 3187	advertisers
+T88	Location 3196 3227	 the position of nearby objects
+T89	Campaign 2195 2197	it
+T90	Campaign 2635 2639	they
+T91	Campaign 2689 2693	them
+T92	Device 242 246	they
+T93	Device 2083 2087	they
+T94	Software 71 78	browser
+T95	Device 2427 2438	 the sensor
+T68	Person 2212 2226	browser makers
+*	Coreference T9 T71
+*	Coreference T25 T64
+*	Coreference T10 T28 T63
+*	Coreference T11 T65 T29
+*	Coreference T32 T69 T22
+*	Coreference T33 T44
+*	Coreference T3 T86 T24 T39
+*	Coreference T27 T23 T94
+*	Coreference T41 T82 T55 T47 T14
+*	Coreference T70 T81 T61 T62 T57 T17 T51 T4 T92 T93 T95
+*	Coreference T75 T60 T80 T50
+*	Coreference T7 T49 T74 T79 T59 T66
+*	Coreference T48 T42 T40
+*	Coreference T58 T54
+*	Coreference T5 T56 T73 T77 T67 T89 T90
+*	Coreference T68 T72
+*	Coreference T83 T85
+*	Coreference T8 T87

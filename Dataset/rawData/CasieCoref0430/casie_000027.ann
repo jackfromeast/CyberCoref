@@ -1,0 +1,84 @@
+T4	Course-of-Action 75 97	issued security alerts
+T5	Organization 65 70	Cisco
+T7	Device 139 151	its products
+T8	Software 156 164	services
+T10	System 292 322	 the Apache Struts 2 framework
+T13	Attack-Pattern 381 437	dropping cryptocurrency miner malware on exposed systems
+T11	Device 246 260	Cisco products
+T12	Version 268 289	 a vulnerable version
+T51	Organization 520 525	Cisco
+T15	Vulnerability 502 518	 the Struts flaw
+T2	Course-of-Action 58 63	fixed
+T1	Vulnerability 13 31	Umbrella misconfig
+T3	Vulnerability 0 11	Struts bugs
+T24	System 537 551	Cisco products
+T19	System 553 564	SocialMiner
+T20	System 566 590	Identity Services Engine
+T21	System 592 599	Finesse
+T22	Organization 601 634	Unified Contact Centre Enterprise
+T23	Organization 639 667	the Video Distribution Suite
+T17	Course-of-Action 705 712	patches
+T18	Vulnerability 717 741	the Struts vulnerability
+T52	System 672 690	Internet Streaming
+T27	Software 751 800	cloud-hosted Network Performance Analysis service
+T26	Course-of-Action 815 830	a Struts update
+T49	Organization 743 748	Cisco
+T28	Course-of-Action 1169 1176	patched
+T29	Organization 1180 1185	Cisco
+T31	Software 1138 1154	the Umbrella API
+T30	Vulnerability 1061 1079	 The vulnerability
+T33	Organization 1433 1438	Cisco
+T39	Vulnerability 1650 1667	the vulnerability
+T38	Course-of-Action 1638 1645	Patches
+T41	Course-of-Action 1823 1830	patched
+T43	Organization 1812 1817	Cisco
+T42	Vulnerability 1831 1864	three high impact vulnerabilities
+T44	Device 1878 1893	network devices
+T34	Vulnerability 1216 1247	Two high-impact vulnerabilities
+T35	Software 1250 1289	 the Umbrella Enterprise Roaming Client
+T36	Software 1294 1319	Enterprise Roaming Module
+T37	Attack-Pattern 1360 1406	elevate user privileges to Administrator level
+T56	Vulnerability 1439 1470	 A third critical vulnerability
+T61	Attack-Pattern 1589 1607	freeze the devices
+T62	Device 1595 1607	 the devices
+T57	Device 1511 1541	 the Cisco RV110W VPN firewall
+T58	Device 1546 1552	RV130W
+T59	Device 1557 1584	RV215W wireless VPN routers
+T48	Purpose 1963 1989	read sensitive information
+T45	Purpose 1923 1958	remotely execute arbitrary commands
+T47	Vulnerability 2002 2028	the thirty vulnerabilities
+T65	Number 102 104	30
+T64	Number 233 245	20 different
+T9	Hacker-Group 370 380	miscreants
+T66	Malware 390 418	cryptocurrency miner malware
+T67	System 422 437	exposed systems
+T68	Number 449 451	18
+T14	Code 478 498	exploitation vectors
+T16	Vulnerability 838 854	 A critical flaw
+T25	Software 857 901	 the application programming interface (API)
+T69	Software 906 934	Cisco's cloud-based Umbrella
+T70	Hacker-Group 943 952	attackers
+T71	Purpose 956 1018	view and potentially modify data across multiple organisations
+T72	Organization 1005 1018	organisations
+T73	Attack-Pattern 1019 1060	using the secure internet gateway service
+T74	Vulnerability 1091 1133	insufficient authentication configurations
+T54	Hacker-Group 1347 1356	attackers
+T55	Attack-Pattern 1491 1584	run code remotely on the Cisco RV110W VPN firewall and RV130W and RV215W wireless VPN routers
+T60	Campaign 1611 1636	denial of service attacks
+T40	Course-of-Action 1668 1717	address an improper boundary restriction on input
+T75	Software 1747 1798	 the devices' web-based remote management interface
+T76	Organization 1800 1805	Cisco
+T46	Number 2040 2042	13
+T77	Device 1993 1997	them
+T6	Vulnerability 105 120	vulnerabilities
+T50	Number 532 536	Five
+T32	Course-of-Action 1422 1429	patched
+*	Coreference T15 T3 T18
+*	Coreference T49 T76 T43 T5 T51 T33 T29
+*	Coreference T44 T62 T77
+*	Coreference T35 T36
+*	Coreference T11 T7 T24
+*	Coreference T30 T16 T74
+*	Coreference T38 T32
+*	Coreference T39 T56
+*	Coreference T47 T6

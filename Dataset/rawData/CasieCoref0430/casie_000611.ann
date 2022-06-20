@@ -1,0 +1,125 @@
+T4	Campaign 182 196	 a data breach
+T5	System 206 227	 its computer systems
+T7	Person 286 294	customer
+T8	Person 299 303	user
+T9	Email 304 319	email addresses
+T10	Organization 233 240	company
+T1	Campaign 114 130	phishing attacks
+T2	Person 140 154	 its customers
+T3	Person 159 164	users
+T12	Campaign 543 570	 a malicious email campaign
+T50	Time 517 522	May 9
+T59	Organization 498 506	DocuSign
+T15	Organization 911 934	a malicious third-party
+T13	Organization 941 958	DocuSign branding
+T16	Email 891 895	they
+T17	Email 834 846	the messages
+T18	Organization 872 880	DocuSign
+T19	Organization 1050 1077	 this malicious third party
+T22	Person 1111 1120	customers
+T23	Person 1125 1130	users
+T21	Email 1095 1107	the messages
+T27	Person 1186 1195	customers
+T28	Person 1200 1205	users
+T30	Organization 1269 1293	 a malicious third party
+T31	System 1337 1352	non-core system
+T33	Email 1535 1550	email addresses
+T40	Information 1569 1574	names
+T39	Information 1576 1594	physical addresses
+T38	Information 1596 1605	passwords
+T37	Information 1607 1630	social security numbers
+T36	Information 1632 1648	credit card data
+T35	Information 1658 1669	information
+T58	Information 1687 1694	content
+T45	Hacker-Group 3013 3027	 the criminals
+T54	Organization 2462 2470	DocuSign
+T53	Email 2426 2435	 an email
+T56	Attack-Pattern 2474 2489	clicking a link
+T55	Email 2493 2504	the message
+T60	Organization 10 61	a major provider of electronic signature technology
+T61	Organization 0 8	DocuSign
+T62	Time 76 81	today
+T63	Malware 87 113	a series of recent malware
+T6	Campaign 254 270	 the data stolen
+T64	Campaign 324 337	 the incident
+T65	Hacker-Group 380 389	attackers
+T66	Campaign 370 372	it
+T67	Person 400 405	users
+T57	Attack-Pattern 425 476	expecting to click on links in emails from DocuSign
+T68	URL 447 452	links
+T69	Email 456 462	emails
+T70	Organization 468 476	DocuSign
+T11	Domain 613 625	docusign.com
+T71	URL 727 734	 a link
+T73	Malware 791 798	malware
+T72	File 753 798	Microsoft Word document that harbored malware
+T14	Email 985 995	 the email
+T75	Organization 1027 1035	DocuSign
+T20	Organization 1139 1141	it
+T24	Information 1167 1205	DocuSign’s list of customers and users
+T25	Time 1246 1251	today
+T26	Domain 1470 1479	 its site
+T29	Organization 1434 1442	DocuSign
+T76	Email 1426 1431	email
+T77	Person 1416 1421	users
+T78	Organization 1365 1367	us
+T79	Organization 1252 1254	we
+T80	File 1484 1510	complete forensic analysis
+T32	Organization 2930 2938	DocuSign
+T34	Organization 2944 2946	it
+T81	Number 2951 2972	more than 100 million
+T82	Person 2973 2978	users
+T46	Information 3037 3071	 the company’s customer email list
+T47	Organization 2774 2782	DocuSign
+T48	Hacker-Group 2818 2826	phishers
+T49	Hacker-Group 2831 2846	malware writers
+T84	Campaign 2851 2865	 this incident
+T85	Campaign 2889 2896	attacks
+T86	Person 2904 2914	 its users
+T87	Person 2919 2928	customers
+T88	Email 2763 2772	 an email
+T89	Organization 2675 2683	DocuSign
+T90	Organization 2689 2691	it
+T91	Person 2707 2717	recipients
+T92	File 2725 2731	 a PDF
+T93	File 2733 2748	Office document
+T94	File 2752 2760	ZIP file
+T95	File 2378 2398	 a DocuSign document
+T96	Email 2403 2408	email
+T97	Person 2353 2356	you
+T52	File 2527 2542	 your documents
+T98	Domain 2564 2576	docusign.com
+T99	Code 2590 2615	 the unique security code
+T100	Email 2648 2673	legitimate DocuSign email
+T101	Software 1781 1815	DocuSign’s core eSignature service
+T41	System 1734 1762	DocuSign’s eSignature system
+T42	File 1702 1720	customer documents
+T43	File 1831 1849	customer documents
+T44	Information 1854 1858	data
+T51	Organization 1874 1886	 The company
+T102	Person 1897 1903	people
+T104	Domain 1960 1977	spam@docusign.com
+T105	Email 1919 1956	suspicious emails related to DocuSign
+T103	Organization 1948 1956	DocuSign
+T106	File 2198 2212	 an attachment
+T107	URL 2230 2237	 a link
+T108	URL 2275 2299	https://www.docusign.com
+T109	URL 2303 2327	https://www.docusign.net
+T110	Email 1997 2010	 the missives
+T111	Person 2049 2052	you
+T112	Email 2014 2018	They
+T113	Person 2068 2079	 the sender
+T114	File 2098 2109	 a document
+T115	Domain 2147 2158	docusgn.com
+T116	Email 2178 2188	@docus.com
+T117	Email 1817 1826	envelopes
+T118	Person 2224 2227	you
+T122	Organization 528 530	it
+T74	Organization 799 811	 The company
+T83	Information 3096 3098	it
+*	Coreference T34 T61 T75 T54 T103 T89 T47 T70 T32 T59 T29 T90 T60 T10 T122 T74 T18 T79 T78 T51
+*	Coreference T6 T4 T64 T66 T84
+*	Coreference T16 T17
+*	Coreference T15 T19
+*	Coreference T112 T110
+*	Coreference T46 T83

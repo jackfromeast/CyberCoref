@@ -1,0 +1,80 @@
+T4	Attack-Pattern 609 641	disguised as a "consultancy fee"
+T7	Hacker-Group 642 651	the group
+T5	Time 36 46	January 11
+T10	Money 770 781	100 Bitcoin
+T11	Money 783 800	£75,000 / $94,000
+T3	Vulnerability 674 689	security issues
+T6	System 718 740	online banking portals
+T13	Organization 705 715	Lloyd Bank
+T3	Vulnerability 674 689	security issues
+T13	Organization 705 715	Lloyd Bank
+T6	System 718 740	online banking portals
+T15	Time 48 61	the first day
+T16	Campaign 4 21	extortion attempt
+T17	Person 67 88	Lloyds Bank customers
+T18	Domain 143 165	online banking portals
+T19	Person 167 176	Customers
+T20	Number 228 236	two days
+T21	Campaign 197 210	brief outages
+T22	Time 245 254	third day
+T23	Time 259 265	Friday
+T24	Time 267 277	January 13
+T25	Domain 279 296	Bleeping Computer
+T26	Number 306 309	two
+T27	Email 329 334	email
+T28	Domain 339 346	Twitter
+T29	Number 353 356	two
+T30	Hacker-Group 357 364	hackers
+T31	Hacker-Group 399 405	Hacker
+T32	Attack-Pattern 409 554	sent Bleeping Computer a link to a PasteBin page that contained a copy of an email the group allegedly sent to a high-ranking Lloyds Bank manager
+T33	Domain 414 431	Bleeping Computer
+T34	URL 434 438	link
+T35	Domain 444 457	PasteBin page
+T36	File 475 491	copy of an email
+T37	Hacker-Group 496 501	group
+T38	Person 522 554	high-ranking Lloyds Bank manager
+T39	Email 560 565	email
+T2	Money 595 608	ransom demand
+T40	Money 625 640	consultancy fee
+T1	Hacker-Group 746 753	hackers
+T8	Purpose 759 801	asking for 100 Bitcoin (£75,000 / $94,000)
+T9	Software 819 827	services
+T12	Vulnerability 872 877	flaws
+T14	Software 894 902	services
+T42	Email 939 944	email
+T43	Hacker-Group 961 967	hacker
+T44	Domain 984 991	Twitter
+T45	Time 992 1009	a few hours later
+T46	Person 1049 1058	colleague
+T47	URL 1078 1091	PasteBin link
+T48	Person 1104 1108	they
+T49	Hacker-Group 1126 1132	Hacker
+T50	Campaign 1159 1163	demo
+T51	Hacker-Group 1186 1190	they
+T52	Campaign 1207 1226	Lloyds Bank outages
+T53	Campaign 1232 1236	demo
+T54	Hacker-Group 1259 1266	hackers
+T55	Hacker-Group 1279 1283	they
+T56	Campaign 1295 1307	DDoS attacks
+T57	Hacker-Group 1309 1315	Hacker
+T58	Person 1325 1360	your reporter and other journalists
+T59	Domain 1371 1397	Lloyds Bank online portals
+T60	Campaign 1409 1415	attack
+T61	Software 1430 1437	service
+T62	Campaign 1466 1472	attack
+T63	Hacker-Group 1487 1489	he
+*	Coreference T25 T33
+*	Coreference T28 T44
+*	Coreference T61 T9 T14
+*	Coreference T50 T53
+*	Coreference T56 T60 T62
+*	Coreference T48 T46
+*	Coreference T5 T15
+*	Coreference T22 T23 T24
+*	Coreference T17 T19
+*	Coreference T37 T31 T7 T1
+*	Coreference T39 T27 T42
+*	Coreference T2 T40
+*	Coreference T10 T11
+*	Coreference T49 T43 T57 T63
+*	Coreference T54 T55 T51

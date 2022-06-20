@@ -1,0 +1,88 @@
+T5	Organization 205 210	Three
+T8	Vulnerability 237 254	a technical issue
+T3	System 260 271	its systems
+T6	Organization 216 218	it
+T12	Information 855 878	my personal information
+T9	Person 829 835	people
+T14	Campaign 940 960	their details leaked
+T13	Person 921 930	customers
+T25	Person 2164 2169	users
+T23	Information 2120 2140	Customer information
+T27	Campaign 2189 2201	the incident
+T19	Hacker-Group 1932 1942	fraudsters
+T18	Person 1982 1997	Three customers
+T21	Information 2019 2028	addresses
+T20	Information 2009 2014	names
+T10	Campaign 693 724	shocking breach of data privacy
+T1	Campaign 47 66	a fresh data breach
+T17	Person 78 87	customers
+T24	Information 100 115	 their accounts
+T28	Information 135 145	 the names
+T29	Information 147 156	addresses
+T30	Information 158 171	phone numbers
+T31	Information 176 203	call histories of strangers
+T4	Organization 308 339	its customer service department
+T7	Person 345 353	customer
+T32	Person 355 366	Andy Fidler
+T33	Person 372 385	 the Guardian
+T34	Information 407 422	 the data usage
+T35	Information 427 479	full call and text history of another named customer
+T36	Time 501 513	Sunday night
+T37	Person 524 537	Mark Thompson
+T38	Organization 547 555	Facebook
+T39	Person 556 558	he
+T40	Person 386 388	he
+T42	Information 567 574	 a call
+T43	Information 630 641	her account
+T44	Information 656 667	his details
+T45	Person 669 677	Thompson
+T46	Person 727 729	He
+T47	Information 739 763	Three UK’s Facebook page
+T48	Information 790 801	 my details
+T11	Person 1022 1031	customers
+T49	Information 1087 1113	other people’s information
+T50	Organization 1135 1143	Three UK
+T51	Person 984 1005	members of the public
+T52	Number 1201 1210	9 million
+T53	Person 1211 1220	customers
+T54	Location 1224 1231	Britain
+T55	Organization 1162 1192	 the telecoms giant Hutchinson
+T56	Person 1295 1304	customers
+T57	Information 1335 1393	 the mobile account details of other Three users using My3
+T58	Person 1366 1393	other Three users using My3
+T59	Person 1395 1407	 a spokesman
+T60	Information 1418 1435	financial details
+T61	Organization 1504 1542	 The Information Commissioner’s Office
+T62	Vulnerability 1491 1502	 the matter
+T63	Person 1614 1628	 A spokeswoman
+T64	Person 1632 1646	 the regulator
+T65	Information 1709 1729	personal information
+T66	Person 1781 1790	consumers
+T67	Vulnerability 1865 1877	 The problem
+T68	Time 1884 1901	four months after
+T15	Information 1952 1997	personal data of thousands of Three customers
+T16	Number 1969 1981	thousands of
+T69	Attack-Pattern 2033 2118	using authorised logins to its database of customers eligible for an upgraded handset
+T22	System 2059 2094	 its database of customers eligible
+T70	Number 2156 2163	133,000
+T26	Organization 1607 1612	Three
+T71	Organization 1683 1696	organisations
+T73	Person 1119 1123	they
+T74	Organization 1238 1240	it
+T75	Organization 1548 1550	it
+T76	Organization 1730 1734	they
+T79	Pronoun 485 487	he
+T84	Person 1056 1060	they
+T2	Organization 25 30	Three
+T81	Organization 0 24	The mobile phone company
+T72	Person 579 599	 a complete stranger
+T77	Person 609 612	she
+*	Coreference T81 T2 T5 T6
+*	Coreference T32 T7 T40
+*	Coreference T37 T39 T45 T46
+*	Coreference T72 T77
+*	Coreference T84 T11 T73
+*	Coreference T50 T55 T74
+*	Coreference T75 T61
+*	Coreference T71 T76
+*	Coreference T67 T62

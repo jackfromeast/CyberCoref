@@ -1,0 +1,68 @@
+T3	Software 96 113	Internet Explorer
+T2	Vulnerability 56 60	flaw
+T11	Attack-Pattern 396 434	directing users to a malicious website
+T10	Software 347 354	browser
+T29	Organization 335 344	Microsoft
+T14	Vulnerability 454 467	CVE-2018-8653
+T20	System 578 592	Windows Server
+T19	Version 554 556	10
+T31	Version 546 549	8.1
+T5	Course-of-Action 150 177	an emergency security patch
+T7	Organization 115 124	Microsoft
+T22	Vulnerability 623 658	remote code execution vulnerability
+T35	Campaign 43 49	attack
+T1	Software 186 211	Internet Explorer browser
+T4	Vulnerability 289 311	critical vulnerability
+T6	Vulnerability 439 443	flaw
+T8	Software 477 494	Internet Explorer
+T9	Version 495 496	9
+T13	Version 498 500	10
+T15	Version 505 507	11
+T16	Course-of-Action 518 524	update
+T17	System 535 542	Windows
+T18	Version 543 544	7
+T30	Version 593 597	2008
+T32	Version 599 603	2012
+T36	Version 605 609	2016
+T33	Version 614 618	2019
+T21	Code 686 702	scripting engine
+T37	Code 711 718	objects
+T38	Device 722 728	memory
+T39	Software 732 749	Internet Explorer
+T40	Organization 752 761	Microsoft
+T41	File 772 792	its support document
+T42	Vulnerability 814 827	vulnerability
+T43	Device 842 848	memory
+T44	Hacker-Group 871 879	attacker
+T45	Code 894 908	arbitrary code
+T46	Attack-Pattern 886 943	execute arbitrary code in the context of the current user
+T47	Person 931 943	current user
+T25	Organization 950 957	company
+T23	Course-of-Action 962 974	issued a fix
+T24	Vulnerability 983 987	flaw
+T26	Time 1016 1029	Patch Tuesday
+T27	Course-of-Action 1098 1117	patched immediately
+T28	Vulnerability 1057 1059	it
+T48	Organization 1119 1128	Microsoft
+T49	Software 1151 1168	Internet Explorer
+T50	Time 1195 1209	past few years
+T51	Organization 1213 1215	it
+T53	Person 1302 1316	business users
+T54	Organization 1322 1329	company
+T55	Software 1368 1372	Edge
+T56	Organization 1414 1423	Microsoft
+T57	Software 1450 1457	browser
+T58	Software 1467 1493	Google's Chromium platform
+T52	Software 1231 1249	newer browser Edge
+T59	Device 315 322	several
+T61	Number 75 83	multiple
+*	Coreference T2 T6 T14 T4
+*	Coreference T49 T1 T3 T8 T39
+T60	Person 236 260	Google security engineer
+T64	Person 261 276	Clement Lecigne
+*	Coreference T60 T64
+*	Coreference T29 T7
+*	Coreference T42 T22 T24 T28
+*	Coreference T54 T48 T25 T51
+*	Coreference T55 T52
+T12	Software 0 16	Troubled browser

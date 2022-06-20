@@ -1,0 +1,86 @@
+T12	Campaign 1245 1271	was originally designed as
+T13	Malware 1232 1244	this malware
+T31	Software 1272 1300	a fake Bitdefender antivirus
+T14	Campaign 1306 1329	was later repackaged as
+T32	Software 1330 1356	a fake Flash Player update
+T19	Campaign 2717 2723	access
+T24	Information 2770 2793	email account passwords
+T25	Information 2810 2825	account details
+T23	System 2731 2739	keychain
+T5	Campaign 136 145	posing as
+T7	Malware 117 130	MacDownloader
+T6	Software 158 184	a fake Flash Player update
+T1	Campaign 69 74	steal
+T4	Malware 39 46	malware
+T2	Information 75 84	passwords
+T3	System 90 108	the macOS keychain
+T26	Time 0 9	This week
+T15	Campaign 1560 1568	displays
+T16	Malware 1546 1559	MacDownloader
+T17	Attack-Pattern 1601 1660	offers an "Update Flash-Player" button and a "Close" button
+T33	Software 1569 1595	a fake Flash Player update
+T8	Campaign 865 875	collection
+T11	Malware 780 793	MacDownloader
+T9	Information 879 890	credentials
+T10	System 896 929	macOS’s Keychain password manager
+T20	Campaign 2331 2339	collects
+T22	Malware 2317 2330	MacDownloader
+T21	Information 2340 2365	user keychain information
+T18	Attack-Pattern 2508 2557	acquired through a fake System Preferences dialog
+T34	Code 412 416	them
+T35	Information 2378 2380	it
+T37	Malware 2667 2669	it
+T38	Malware 2276 2278	it
+*	Coreference T13 T4 T7 T28 T41 T11 T45 T36 T48 T49 T31 T52 T16 T55 T60 T63 T70 T38 T22 T73 T37
+*	Coreference T23 T3 T10 T80
+*	Coreference T8 T20
+T27	Person 10 21	researchers
+T28	Malware 194 202	malware 
+T29	Code 291 305	malware's code
+T30	Hacker-Group 357 364	amateur
+T39	Code 392 396	code
+*	Coreference T39 T34
+T41	Malware 460 473	MacDownloader
+T42	Hacker-Group 573 593	an amateur developer
+*	Coreference T30 T42 T61
+T43	Code 618 622	code
+*	Coreference T29 T43
+T44	System 845 860	infected system
+*	Coreference T2 T9 T64 T69
+T45	Malware 967 974	malware
+T46	Hacker-Group 992 1003	same actors
+T36	Malware 1034 1041	malware
+T47	Device 1066 1090	Command & Control server
+T48	Malware 1160 1167	malware
+T49	Malware 1181 1198	OSX/MacDownloader
+T50	Organization 1112 1131	Intego VirusBarrier
+T51	Person 1200 1220	Security researchers
+*	Coreference T51 T27
+T52	Malware 1378 1385	malware
+T53	Code 1430 1461	poorly implemented shell script
+T54	Device 1520 1530	C&C server
+*	Coreference T47 T54 T72
+T55	Malware 1675 1682	malware
+T60	Malware 1841 1848	malware
+T61	Hacker-Group 1995 2004	developer
+T62	Person 2055 2059	user
+T63	Malware 2078 2086	software
+T64	Information 2138 2146	password
+T65	Information 2169 2173	info
+T66	System 2181 2187	system
+T67	System 1791 1797	system
+*	Coreference T67 T66
+T68	Person 2196 2200	user
+*	Coreference T62 T68
+T69	Information 2214 2222	password
+T70	Malware 2242 2250	software
+T71	Information 2261 2265	info
+*	Coreference T65 T71 T21 T74 T35
+T72	Device 2389 2399	C&C server
+T73	Malware 2648 2655	malware
+T74	Information 2690 2710	keychain information
+T77	Information 2475 2496	username and password
+T78	Information 2563 2580	name and password
+*	Coreference T77 T78 T79
+T79	Information 2612 2637	Administrator credentials
+T80	System 2864 2872	keychain

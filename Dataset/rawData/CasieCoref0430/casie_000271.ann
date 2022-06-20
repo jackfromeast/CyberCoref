@@ -1,0 +1,117 @@
+T13	Purpose 527 552	entering personal details
+T12	Domain 516 520	site
+T21	Organization 491 513	 a legitimate business
+T10	Person 427 437	recipients
+T2	Email 228 245	“phishing” emails
+T8	Organization 342 364	government departments
+T4	Organization 295 300	Apple
+T5	Organization 305 311	Amazon
+T6	Organization 316 321	banks
+T7	Organization 323 332	charities
+T3	Organization 268 277	companies
+T16	Email 737 752	Phishing emails
+T18	Hacker-Group 1050 1054	they
+T19	Hacker-Group 991 1000	criminals
+T23	Person 0 9	Consumers
+T24	Hacker-Group 52 80	sophisticated cybercriminals
+T25	Organization 89 104	major companies
+T26	Email 161 172	fake emails
+T27	Person 173 202	 a leading cyber-crime expert
+T28	Number 216 224	Billions
+T1	Person 278 280	we
+T29	Person 379 388	consumers
+T9	Purpose 421 461	trick recipients into visiting a website
+T31	Domain 451 461	 a website
+T32	Purpose 474 520	created to mirror a legitimate business’s site
+T33	Information 592 597	These
+T34	Hacker-Group 613 622	criminals
+T36	Attack-Pattern 654 677	accessing bank accounts
+T37	Attack-Pattern 679 694	making payments
+T38	Attack-Pattern 698 735	applying for credit or other services
+T39	Information 664 677	bank accounts
+T40	Software 721 735	other services
+T41	Money 711 717	credit
+T14	Purpose 778 806	mimic the firm’s real emails
+T42	Email 808 812	They
+T43	Hacker-Group 859 869	fraudsters
+T45	Attack-Pattern 937 956	bypass spam filters
+T17	Attack-Pattern 870 900	invest more in their processes
+T46	Purpose 958 989	To add to the convincing effect
+T47	Domain 1012 1024	domain names
+T48	Person 1077 1087	recipients
+T50	Attack-Pattern 1005 1049	buying domain names similar to the companies
+T51	Time 1136 1143	January
+T53	Organization 1144 1156	Action Fraud
+T54	Organization 1266 1270	HMRC
+T55	Organization 1272 1278	Amazon
+T57	Campaign 1225 1230	scams
+T59	Organization 1405 1424	the real businesses
+T60	Course-of-Action 1445 1468	protect their customers
+T61	Person 1452 1468	 their customers
+T62	Person 1470 1485	Chris Underhill
+T64	Organization 1514 1537	Cyber Security Partners
+T65	Organization 1538 1552	 a consultancy
+T66	Organization 1559 1564	firms
+T67	Email 1585 1590	email
+T68	Course-of-Action 1628 1672	prevent fraudsters impersonating them online
+T69	Hacker-Group 1636 1646	fraudsters
+T70	Organization 1661 1665	them
+T71	Purpose 1647 1672	impersonating them online
+T72	Person 1674 1676	He
+T73	Organization 1687 1692	firms
+T74	Domain 1768 1780	domain names
+T75	Domain 1791 1801	 their own
+T76	Course-of-Action 1709 1801	take the basic – and inexpensive – precaution of buying up domain names similar to their own
+T77	Person 1803 1805	He
+T79	Email 1962 1972	the emails
+T80	Person 1948 1958	the sender
+T81	Organization 1983 1998	Telegraph Money
+T82	Course-of-Action 2038 2054	buy domain names
+T83	Domain 2042 2054	domain names
+T84	URL 2063 2075	amazonuk.org
+T85	URL 2077 2092	amazon.eu.co.uk
+T86	Money 2127 2132	£5.99
+T88	URL 2096 2109	amazonuk.tech
+T89	Organization 2163 2181	The Goodwill Group
+T91	Organization 2182 2213	 a fraud-prevention consultancy
+T92	Person 2220 2229	consumers
+T93	Course-of-Action 2238 2306	be incredibly sceptical” about any unsolicited digital communication
+T94	Organization 2317 2335	familiar companies
+T95	URL 2355 2360	links
+T96	Information 2374 2394	personal information
+T97	Person 2436 2438	he
+T98	Attack-Pattern 2345 2394	contained links or asked for personal information
+T99	Person 2445 2447	He
+T100	Email 2518 2527	 an email
+T101	Software 2532 2542	 a service
+T102	Email 2395 2399	they
+T11	Information 581 590	passwords
+T30	Email 561 576	email addresses
+T103	Information 536 552	personal details
+T35	Number 625 634	 a number
+T44	Email 901 912	 the emails
+T20	Organization 1035 1049	 the companies
+T49	Email 1112 1123	 the emails
+T52	Software 1157 1199	 the national cybercrime reporting service
+T104	Organization 1319 1325	others
+T58	Email 1355 1368	 these emails
+T78	Person 1925 1938	 the consumer
+T105	Course-of-Action 1942 1972	check the sender of the emails
+T106	Email 2340 2344	they
+T107	Person 140 144	them
+T109	Person 2543 2546	you
+T118	Person 2497 2500	you
+T22	Email 783 806	 the firm’s real emails
+T15	Person 1487 1510	chief technical officer
+T63	Person 2143 2158	Andrew Goodwill
+T87	Organization 1284 1311	the Department of Education
+*	Coreference T5 T55
+*	Coreference T49 T16 T44 T42 T58
+*	Coreference T23 T107
+*	Coreference T33 T103
+*	Coreference T18 T19
+*	Coreference T15 T62 T77 T72
+*	Coreference T65 T64
+*	Coreference T91 T63 T97 T99
+*	Coreference T118 T109
+*	Coreference T102 T106

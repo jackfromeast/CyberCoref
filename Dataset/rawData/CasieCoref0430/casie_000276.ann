@@ -1,0 +1,64 @@
+T19	Person 359 372	Satnam Narang
+T20	Person 374 398	senior research engineer
+T21	Organization 402 409	Tenable
+T23	Software 477 497	Internet Explorer 11
+T30	Software 473 475	IE
+T25	Software 574 578	IE 9
+T28	Software 607 612	IE 10
+T24	System 503 512	Windows 7
+T35	System 516 526	Windows 10
+T26	System 538 572	Windows Server 2012, 2016 and 2019
+T27	System 582 601	Windows Server 2008
+T29	System 616 635	Windows Server 2012
+T10	Organization 218 220	it
+T8	Vulnerability 235 247	the weakness
+T13	Vulnerability 249 262	CVE-2018-8653
+T15	Organization 294 300	Google
+T16	Vulnerability 307 326	a new vulnerability
+T36	Vulnerability 640 649	 the flaw
+T39	System 716 730	 their systems
+T32	Course-of-Action 1185 1212	the latest security updates
+T34	Course-of-Action 1145 1159	Windows Update
+T33	Organization 1115 1124	Microsoft
+T4	Course-of-Action 25 52	an emergency software patch
+T1	Time 10 15	today
+T2	Organization 0 9	Microsoft
+T7	Software 89 127	its Internet Explorer (IE) Web browser
+T6	Vulnerability 61 85	a critical security hole
+T3	Hacker-Group 133 142	attackers
+T5	Device 175 192	Windows computers
+T9	Campaign 341 357	targeted attacks
+T12	Person 691 696	users
+T14	Person 786 792	Narang
+T18	Malware 856 863	malware
+T37	Hacker-Group 867 876	attackers
+T38	Vulnerability 887 895	the flaw
+T40	Purpose 883 927	use the flaw to break into Windows computers
+T41	Attack-Pattern 938 996	getting a user to visit a hacked or booby-trapped Web site
+T42	Device 910 927	Windows computers
+T44	Domain 961 996	 a hacked or booby-trapped Web site
+T45	Hacker-Group 997 1009	 An attacker
+T47	Attack-Pattern 1021 1037	install programs
+T48	Attack-Pattern 1039 1043	view
+T49	Attack-Pattern 1045 1051	change
+T50	Attack-Pattern 1056 1067	delete data
+T51	Attack-Pattern 1072 1091	create new accounts
+T52	Information 1097 1113	full user rights
+T54	Person 1130 1135	users
+T31	Person 1242 1258	Windows 10 users
+T55	Course-of-Action 1290 1294	this
+T56	Version 1335 1351	earlier versions
+T57	System 1355 1362	Windows
+T58	Course-of-Action 1282 1289	updates
+T59	Course-of-Action 710 730	update their systems
+T60	Purpose 155 192	using to break into Windows computers
+T11	Organization 193 212	 The software giant
+T22	Vulnerability 415 433	 the vulnerability
+T17	Course-of-Action 844 854	 the patch
+*	Coreference T19 T14 T20
+*	Coreference T36 T38 T16 T22
+*	Coreference T33 T2
+*	Coreference T40 T60
+*	Coreference T11 T10
+*	Coreference T8 T13
+*	Coreference T30 T7

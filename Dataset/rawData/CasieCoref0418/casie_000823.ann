@@ -1,0 +1,72 @@
+T4	Campaign 250 267	ransomware attack
+T6	Time 293 311	previous 12 months
+T5	Person 212 231	their SMB customers
+T2	Campaign 73 91	ransomware attacks
+T1	Campaign 1263 1281	ransomware attacks
+T10	Campaign 695 712	paying the ransom
+T11	Attack-Pattern 744 789	lost some of the data that had been encrypted
+T12	Hacker-Group 793 806	the attackers
+T13	Campaign 840 858	ransomware attacks
+T14	Organization 879 887	business
+T9	Money 568 583	ransom demanded
+T8	Money 596 600	£500
+T7	Money 605 610	£2000
+T15	Money 665 670	£2000
+T16	Campaign 364 371	attacks
+T17	Organization 991 1012	smaller organizations
+T18	Location 35 41	Europe
+T3	Organization 165 194	European IT service providers
+T19	Number 158 161	87%
+T20	Number 426 429	27%
+T21	Number 327 330	40%
+T22	Person 1165 1172	victims
+T23	Number 1147 1150	40%
+T24	Malware 1154 1164	ransomware
+T25	Campaign 979 985	attack
+T26	Number 685 688	47%
+T27	Number 930 933	62%
+T28	Malware 1499 1509	Ransomware
+T29	Purpose 1553 1565	money-making
+T30	Organization 1586 1628	professional and well-funded organizations
+T31	Person 1636 1649	Andrew Stuart
+T32	Person 1651 1668	managing director
+T33	Malware 1486 1496	ransomware
+T34	Course-of-Action 1427 1436	antivirus
+T35	Campaign 1342 1349	attacks
+T36	Organization 733 737	they
+T37	Organization 1292 1294	it
+T38	Organization 195 197	it
+*	Coreference T27 T23
+*	Coreference T16 T35 T25 T2 T44 T45 T1 T13
+T39	Organization 0 27	Small and medium businesses
+T40	Organization 130 156	data protection firm Datto
+*	Coreference T38 T40
+*	Coreference T5 T39 T14
+T41	Organization 334 345	respondents
+T42	Time 384 388	time
+*	Coreference T42 T6
+T43	Organization 413 424	respondents
+T44	Campaign 462 469	attacks
+T45	Campaign 516 523	attacks
+T48	Organization 622 636	reported cases
+*	Coreference T3 T41 T43 T51 T52
+T49	Organization 679 683	half
+*	Coreference T49 T36
+T50	Campaign 819 838	financial penalties
+T51	Organization 917 928	respondents
+T52	Organization 940 944	they
+T53	Organization 1105 1113	business
+*	Coreference T17 T53
+T54	Person 1115 1120	Datto
+T55	Money 1033 1047	financial loss
+T56	Time 1052 1060	downtime
+T57	Time 959 967	downtime
+*	Coreference T56 T57
+T58	Organization 1207 1218	authorities
+T59	Organization 1224 1227	FBI
+*	Coreference T58 T59 T37
+T60	Organization 1384 1392	industry
+*	Coreference T33 T24
+T61	Campaign 1553 1575	money-making operation
+*	Coreference T28 T61
+*	Coreference T32 T31

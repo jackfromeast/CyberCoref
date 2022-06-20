@@ -1,0 +1,63 @@
+T8	Campaign 1377 1395	a hacking campaign
+T5	Hacker-Group 1348 1357	the group
+T3	Person 1404 1428	Democratic Party members
+T2	Information 1466 1480	private emails
+T1	Purpose 1435 1462	resulted in the publication
+T4	Purpose 1493 1546	destabilize the Hillary Clinton presidential campaign
+T6	Purpose 1551 1586	undermine the US democratic process
+T7	Campaign 1891 1902	 the attack
+T10	Time 90 99	last week
+T12	Organization 25 89	 the Organization for Security and Co-operation in Europe (OSCE)
+T13	Campaign 144 167	 a “major” cyber-attack
+T14	Time 367 381	early November
+T15	System 441 456	 its IT network
+T16	Campaign 382 393	 The attack
+T17	Person 570 593	Mersiha Causevic Podzic
+T18	Hacker-Group 634 647	 the attacker
+T19	Hacker-Group 823 850	Russian hacking group APT28
+T20	Campaign 860 871	 the attack
+T21	Organization 772 802	 a Western intelligence agency
+T22	Hacker-Group 1289 1329	APT28 (aka Fancy Bear/Sofacy/Pawn Storm)
+T26	Campaign 1258 1266	campaign
+T27	Organization 2001 2019	 this organization
+T28	Organization 1917 1926	 the OSCE
+T29	Person 1645 1658	Russian spies
+T30	Number 1632 1634	35
+T31	Person 1599 1614	President Obama
+T32	Time 1588 1597	Last week
+T33	Hacker-Group 1724 1729	APT28
+T34	Organization 1750 1787	Russian intelligence service: the FSB
+T36	Organization 1820 1829	 the OSCE
+T37	Organization 959 963	OSCE
+T38	Number 978 981	700
+T39	Person 982 990	monitors
+T40	Organization 1020 1026	Russia
+T41	Location 1030 1045	eastern Ukraine
+T42	Campaign 1095 1120	cyber espionage campaigns
+T43	Hacker-Group 1215 1240	 the RAT Sofacy (X-Agent)
+T45	Person 2022 2025	she
+T46	Organization 294 296	it
+T47	Organization 109 111	it
+T11	Organization 189 193	body
+T48	Campaign 322 357	major information security incident
+T9	Organization 542 551	 the OSCE
+T49	Organization 656 665	 the OSCE
+T50	Campaign 1047 1059	The conflict
+T51	Campaign 1002 1014	the conflict
+T52	Campaign 1164 1167	one
+T23	Organization 1681 1689	 the GRU
+T24	Location 1186 1195	Ukrainian
+T25	Person 1831 1852	Veronique Roger-Lacan
+T44	Organization 2031 2034	AFP
+T53	Organization 285 288	AFP
+*	Coreference T10 T32
+*	Coreference T12 T47 T11 T46 T9 T49 T37 T36 T28
+*	Coreference T48 T13 T16
+*	Coreference T18 T19 T22 T33 T5 T43
+*	Coreference T51 T50
+*	Coreference T52 T26
+*	Coreference T24 T41
+*	Coreference T45 T25
+*	Coreference T53 T44
+*	Coreference T27 T34
+*	Coreference T8 T7

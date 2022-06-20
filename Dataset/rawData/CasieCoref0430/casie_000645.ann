@@ -1,0 +1,96 @@
+T5	Time 6 17	last Friday
+T4	Person 32 39	victims
+T2	Campaign 99 121	ransomware cyberattack
+T3	Campaign 129 137	WannaCry
+T23	Hacker-Group 1993 2002	criminals
+T22	Person 2031 2040	consumers
+T25	Information 1953 1962	fake news
+T26	Information 1938 1951	digital trust
+T28	Person 2267 2272	users
+T15	Campaign 519 531	 the payment
+T16	Time 501 511	three days
+T18	Time 562 572	seven days
+T19	Attack-Pattern 580 611	the files would be lost forever
+T17	Person 484 489	users
+T11	Person 274 279	Users
+T9	Malware 139 149	Ransomware
+T10	Malware 163 170	malware
+T7	Attack-Pattern 185 200	seizing control
+T8	Attack-Pattern 208 245	blocking access to a computer’s files
+T20	Campaign 664 684	 the WannaCry attack
+T29	Campaign 2337 2354	ransomware attack
+T30	Malware 2217 2238	 the WannaCry malware
+T12	Attack-Pattern 380 431	 the threat of permanently losing all of their data
+T14	Campaign 462 482	 the WannaCry attack
+T33	Number 19 31	over 200,000
+T34	Number 43 46	150
+T35	Location 47 56	countries
+T1	Organization 731 740	companies
+T6	Person 745 756	individuals
+T13	Course-of-Action 784 805	protect their devices
+T36	Device 791 805	 their devices
+T37	Campaign 867 872	fraud
+T38	Software 912 931	mobile applications
+T39	Attack-Pattern 843 862	new damaging routes
+T40	Attack-Pattern 880 900	 these attack routes
+T41	Software 956 986	third-party application stores
+T42	Software 1007 1026	mobile applications
+T43	Software 1044 1048	they
+T44	Course-of-Action 1064 1106	protect users from the WannaCry ransomware
+T45	Person 1072 1077	users
+T46	Malware 1082 1106	 the WannaCry ransomware
+T47	Software 1149 1160	 these apps
+T48	Software 1171 1177	adware
+T49	Purpose 1187 1205	infect the devices
+T50	Device 1193 1205	 the devices
+T51	Course-of-Action 1245 1270	protecting users’ devices
+T52	Purpose 1281 1298	causing them harm
+T53	Device 1289 1293	them
+T54	Device 1256 1270	users’ devices
+T55	Software 1306 1312	adware
+T56	Software 1448 1460	 This adware
+T57	Hacker-Group 1376 1385	attackers
+T58	Software 1407 1420	Android games
+T59	Software 1425 1429	apps
+T60	Software 1336 1351	Adware.mobidash
+T61	Software 1751 1762	 the adware
+T62	Campaign 1787 1810	 its malicious activity
+T27	Malware 2420 2462	variant of a financially motivated malware
+T63	Version 2402 2416	 a new version
+T64	Course-of-Action 2389 2397	 a patch
+T31	Course-of-Action 2278 2354	installing a patch that allegedly prevents the new massive ransomware attack
+T32	Information 1968 1987	all sorts of tricks
+T24	Purpose 2010 2040	get the attention of consumers
+T65	Purpose 2044 2071	get them to click on a link
+T21	URL 2064 2071	 a link
+T66	Device 1850 1861	 the device
+T67	Vulnerability 1599 1613	 the real risk
+T68	Device 1635 1657	 the end user’s device
+T69	Campaign 1681 1689	activity
+T70	Information 1697 1717	 their authorization
+T71	Domain 1488 1505	webpages with ads
+T72	Email 1518 1526	messages
+T73	Device 1556 1571	 the DNS server
+T74	Software 1443 1447	them
+T75	Purpose 1722 1750	hide this dangerous behavior
+T76	Person 2077 2079	we
+T77	Person 2048 2052	them
+T79	Person 1910 1912	We
+T80	Person 303 307	they
+T81	Person 435 439	they
+T83	Software 1272 1276	they
+T85	Person 2211 2213	we
+T86	Software 1206 1210	they
+T89	Software 1833 1835	it
+*	Coreference T16 T18
+*	Coreference T45 T17 T11 T28 T80 T81
+*	Coreference T3 T20 T14 T2 T29
+*	Coreference T10 T9 T30 T46
+*	Coreference T13 T51
+*	Coreference T47 T59 T74
+*	Coreference T56 T61 T55 T48 T86 T83 T89
+*	Coreference T62 T69
+*	Coreference T43 T42 T38
+*	Coreference T53 T54
+*	Coreference T79 T76 T85
+*	Coreference T22 T77

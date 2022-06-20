@@ -1,0 +1,87 @@
+T15	Vulnerability 363 374	24 problems
+T14	Organization 347 353	Google
+T27	Attack-Pattern 490 544	execute arbitrary code using a “specially crafted file
+T18	Time 429 446	September 5, 2018
+T16	Time 378 395	September 1, 2018
+T5	Device 116 121	Pixel
+T6	Device 126 146	select Nexus devices
+T7	Course-of-Action 86 88	it
+T8	Course-of-Action 152 175	September 5, 2018 patch
+T9	Course-of-Action 185 190	fixes
+T2	Organization 57 63	Google
+T1	Course-of-Action 37 51	security patch
+T21	Course-of-Action 654 670	security patches
+T22	Vulnerability 620 631	most issues
+T25	Course-of-Action 1442 1470	the September security patch
+T10	Vulnerability 195 220	almost 60 vulnerabilities
+T4	Number 202 204	60
+T29	Device 332 345	Pixel devices
+T30	Course-of-Action 261 271	The update
+T13	Number 363 365	24
+T17	Number 423 425	35
+T31	Course-of-Action 354 374	resolved 24 problems
+T32	Course-of-Action 401 425	patched an additional 35
+T33	Hacker-Group 468 483	remote attacker
+T34	File 522 544	specially crafted file
+T36	Code 571 589	privileged process
+T20	Organization 672 678	Google
+T38	Organization 691 693	it
+T40	Hacker-Group 733 741	attacker
+T41	Vulnerability 748 766	this vulnerability
+T42	Person 777 785	customer
+T44	Organization 823 829	Google
+T45	Course-of-Action 803 821	the security fixes
+T46	Course-of-Action 906 965	Improve battery charge in Retail Mode (Pixel 2, Pixel 2 XL)
+T47	Course-of-Action 970 1039	Improve SW Version reporting (Pixel, Pixel XL, Pixel 2, Pixel 2 XL)  
+T48	Course-of-Action 1042 1120	Improve audio quality over car speakers (Pixel, Pixel XL, Pixel 2, Pixel 2 XL)
+T49	Version 978 988	SW Version
+T52	File 1256 1264	OTA file
+T53	Information 1228 1252	the latest factory image
+T56	Version 1322 1333	fresh build
+T55	Course-of-Action 1351 1374	sideload the OTA update
+T23	Time 1501 1506	hours
+T59	Device 1536 1553	Google’s hardware
+T60	Vulnerability 1569 1590	fixed vulnerabilities
+T61	Organization 1592 1601	Essential
+T3	Time 152 169	September 5, 2018
+T12	System 244 259	AOSP repository
+T37	Vulnerability 632 636	that
+T63	Version 1000 1005	Pixel
+T64	Version 1007 1015	Pixel XL
+T65	Version 1017 1024	Pixel 2
+T66	Version 1026 1036	Pixel 2 XL
+T67	Version 954 964	Pixel 2 XL
+T68	Version 945 952	Pixel 2
+T69	Version 1083 1089	Pixel,
+T70	Version 1090 1098	Pixel XL
+T71	Version 1100 1107	Pixel 2
+T72	Version 1109 1119	Pixel 2 XL
+T50	Course-of-Action 1155 1179	September security patch
+T73	Device 1204 1209	phone
+T74	Device 1342 1347	phone
+T24	Organization 1412 1419	company
+T54	URL 1274 1279	links
+T26	Device 1478 1493	Essential Phone
+T75	Course-of-Action 1618 1624	update
+T76	Course-of-Action 1634 1671	various audio and accessibility fixes
+T77	Person 1211 1214	you
+T78	Person 1299 1302	you
+T79	Person 1124 1127	you
+T81	Organization 1510 1512	it
+*	Coreference T73 T74
+*	Coreference T29 T5
+*	Coreference T7 T1
+*	Coreference T22 T37 T41
+T11	Device 286 302	in-car Bluetooth
+*	Coreference T3 T18
+T19	Course-of-Action 459 464	patch
+T80	Course-of-Action 871 877	update
+*	Coreference T77 T79 T78
+*	Coreference T20 T14 T2 T38 T44
+*	Coreference T45 T80 T8 T30 T19 T25 T50 T75
+T28	Time 7 16	new month
+*	Coreference T40 T33
+T35	Course-of-Action 1219 1264	download the latest factory image or OTA file
+T39	Course-of-Action 1314 1347	flash a fresh build to your phone
+T43	Organization 1389 1398	Essential
+*	Coreference T24 T43 T81 T61

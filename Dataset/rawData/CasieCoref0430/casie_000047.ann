@@ -1,0 +1,102 @@
+T3	Information 39 43	them
+T5	Hacker-Group 12 31	 the Shadow Brokers
+T7	Time 3 11	Thursday
+T6	Purpose 56 75	 an attempt to sell
+T1	Malware 103 133	Windows and Unix hacking tools
+T16	Information 569 574	files
+T2	Hacker-Group 524 543	 The Shadow Brokers
+T20	Malware 2296 2314	 the hacking tools
+T21	Hacker-Group 2260 2279	 the Shadow Brokers
+T9	Malware 208 221	hacking tools
+T10	Hacker-Group 283 302	 the Equation Group
+T13	Hacker-Group 147 165	The Shadow Brokers
+T14	Hacker-Group 196 200	they
+T12	Time 184 190	August
+T4	Information 76 81	these
+T11	Money 138 145	bitcoin
+T8	Device 226 233	routers
+T17	Device 238 255	firewall products
+T18	Hacker-Group 303 329	 a top cyberespionage team
+T22	Organization 357 365	 the NSA
+T23	Malware 366 378	 Those tools
+T24	Malware 397 437	previously unknown and valuable exploits
+T25	Person 503 523	security researchers
+T26	Hacker-Group 461 479	 the hacking group
+T15	Number 566 568	61
+T27	Organization 614 628	security firms
+T28	Person 642 655	Jake Williams
+T29	Person 657 685	founder of Rendition InfoSec
+T30	Person 686 706	 a security provider
+T31	Person 708 710	He
+T32	Malware 727 737	 the tools
+T33	Purpose 840 857	detection evasion
+T34	Malware 819 823	they
+T35	Malware 879 889	 the tools
+T36	Malware 873 876	one
+T37	Attack-Pattern 902 925	edit Windows event logs
+T38	File 907 925	Windows event logs
+T39	Hacker-Group 939 948	 a hacker
+T40	Malware 958 967	 the tool
+T41	Attack-Pattern 971 1032	selectively delete notifications and alerts in the event logs
+T42	Purpose 1034 1092	preventing the victim from realizing they’ve been breached
+T43	File 1017 1032	 the event logs
+T44	Person 1094 1096	he
+T45	Person 1044 1055	 the victim
+T46	Person 1071 1075	they
+T47	Hacker-Group 1277 1296	 the Shadow Brokers
+T48	Hacker-Group 1302 1306	they
+T49	Time 1268 1276	Thursday
+T50	Malware 1315 1341	 the Windows hacking tools
+T51	Course-of-Action 1358 1394	 a Kaspersky Lab’s antivirus product
+T52	Malware 1414 1418	them
+T53	Hacker-Group 1430 1452	 The clandestine group
+T54	Malware 1500 1513	hacking tools
+T55	Money 1518 1536	1 million bitcoins
+T56	Money 1561 1575	US$584 million
+T57	Time 1581 1601	after several months
+T60	Money 1641 1652	10 bitcoins
+T58	Money 1695 1703	bitcoins
+T59	Hacker-Group 1708 1724	TheShadowBrokers
+T61	Hacker-Group 1726 1736	 the group
+T62	Person 1802 1810	Williams
+T63	Hacker-Group 1819 1838	 the Shadow Brokers
+T64	Hacker-Group 1850 1855	spies
+T65	Organization 1867 1890	 the Russian government
+T66	Campaign 1904 1908	dump
+T67	Location 1925 1933	 the U.S
+T69	Time 1947 1959	recent weeks
+T70	Organization 1961 1987	U.S. intelligence agencies
+T71	Hacker-Group 2006 2018	 the Kremlin
+T72	Campaign 2037 2055	 the U.S. election
+T73	Person 2082 2104	President Barack Obama
+T74	Location 2143 2149	Russia
+T75	Person 2188 2195	Russian
+T76	Person 2229 2237	Williams
+T19	Hacker-Group 2315 2325	 The group
+T77	System 2361 2366	Linux
+T78	System 2371 2378	Windows
+T79	Malware 2361 2398	Linux and Windows-based hacking tools
+T80	Money 2423 2438	10,000 bitcoins
+T81	Time 2443 2451	Thursday
+T82	Organization 2453 2462	Microsoft
+T83	Malware 2508 2521	hacking tools
+T84	Organization 2468 2470	it
+T85	Campaign 552 556	dump
+T88	Hacker-Group 2179 2183	they
+T90	Person 1935 1937	he
+T92	Hacker-Group 261 265	they
+T95	Person 1256 1258	he
+T68	Malware 2334 2348	 their arsenal
+*	Coreference T7 T49 T81
+*	Coreference T66 T85
+*	Coreference T74 T75
+*	Coreference T21 T59 T2 T48 T47 T5 T13 T63 T14 T92 T26 T61 T19 T64 T88
+*	Coreference T18 T10
+*	Coreference T29 T28 T25 T30 T31 T44 T95
+*	Coreference T40 T36
+*	Coreference T43 T38
+*	Coreference T52 T50 T54
+*	Coreference T34 T35 T32 T1 T9 T23 T24 T20
+*	Coreference T56 T55
+*	Coreference T90 T62 T76
+*	Coreference T79 T68

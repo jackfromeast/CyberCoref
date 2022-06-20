@@ -1,0 +1,93 @@
+T15	Campaign 2353 2360	hacking
+T18	Hacker-Group 2331 2348	Chinese nationals
+T17	Campaign 2362 2367	theft
+T16	Information 2371 2384	trade secrets
+T5	Campaign 317 337	 the WannaCry attack
+T6	Attack-Pattern 395 436	locking vital information away from users
+T7	System 448 465	hospital networks
+T1	Campaign 51 71	 a ransomware attack
+T4	Organization 36 47	North Korea
+T2	Time 75 78	May
+T3	Attack-Pattern 84 135	locked more than 300,000 computers in 150 countries
+T8	Campaign 913 927	ransom demands
+T9	Person 896 903	victims
+T10	Campaign 875 886	 the attack
+T12	Malware 1073 1091	malicious software
+T13	Device 1096 1105	computers
+T14	Organization 1108 1138	 the U.K.'s health-care sector
+T19	Attack-Pattern 1158 1205	compromising systems that perform critical work
+T20	Organization 4 15	White House
+T21	Organization 138 149	North Korea
+T22	Time 201 219	more than a decade
+T23	Person 222 259	Homeland Security adviser Tom Bossert
+T24	Organization 267 281	 a White House
+T25	Time 291 306	Tuesday morning
+T26	Campaign 369 390	havoc and destruction
+T27	Hacker-Group 597 615	individual hackers
+T28	Time 721 727	Monday
+T30	Person 729 736	Bossert
+T31	Malware 840 859	 the WannaCry virus
+T32	Person 532 539	Bossert
+T33	Organization 777 787	Washington
+T34	Person 861 868	Bossert
+T35	Malware 1026 1034	WannaCry
+T36	Person 1058 1060	he
+T37	Person 468 470	We
+T38	Device 937 953	 their computers
+T11	Person 1245 1252	Bossert
+T39	Person 1274 1283	reporters
+T40	Time 1287 1294	Tuesday
+T41	Person 1314 1328	NPR's Elise Hu
+T42	Campaign 1357 1369	cyberattacks
+T43	Organization 1384 1395	North Korea
+T44	Organization 1335 1350	Morning Edition
+T45	Hacker-Group 1432 1451	Pyongyang's hackers
+T46	System 1468 1483	global networks
+T47	System 1487 1500	 the Internet
+T48	Time 1576 1579	May
+T49	Person 1581 1592	North Korea
+T50	Campaign 1561 1572	 the attack
+T51	Person 1618 1637	NPR's Bill Chappell
+T52	Malware 1660 1668	WannaCry
+T53	Code 1688 1728	lines of code that are identical to work
+T54	Hacker-Group 1732 1766	hackers known as the Lazarus Group
+T55	Organization 1799 1810	North Korea
+T56	Organization 1835 1846	 the nation
+T57	Time 1877 1884	October
+T59	Organization 1943 1958	 his government
+T60	Hacker-Group 1990 1999	Pyongyang
+T61	Campaign 2008 2019	 the attack
+T62	Person 2021 2028	Bossert
+T63	Person 2054 2069	President Trump
+T29	Person 2220 2222	We
+T64	Hacker-Group 2237 2252	Russian hackers
+T65	Person 2256 2267	 a Canadian
+T66	Person 2196 2216	 the American people
+T67	System 2164 2176	 the systems
+T68	Organization 2082 2137	 the modernization of government information-technology
+T69	Time 2297 2312	A few weeks ago
+T70	Campaign 2389 2403	identity theft
+T71	Person 2463 2465	he
+T72	Person 2314 2316	we
+T73	Campaign 2595 2602	attacks
+T74	Person 2473 2475	He
+T75	Organization 2485 2504	 the administration
+T76	Hacker-Group 2566 2575	Pyongyang
+T80	Person 2177 2179	we
+T82	Person 308 310	He
+T84	Hacker-Group 1506 1510	they
+T85	Hacker-Group 2291 2295	them
+T86	Person 483 485	we
+T87	Person 631 633	we
+T77	Device 109 118	computers
+T79	Campaign 1300 1312	 the hacking
+T58	Person 1886 1938	Britain's Minister of State for Security Ben Wallace
+*	Coreference T7 T46
+*	Coreference T13 T38 T77
+*	Coreference T20 T24
+*	Coreference T25 T40
+*	Coreference T48 T28 T2
+*	Coreference T43 T4 T49 T55 T21 T56
+*	Coreference T45 T60 T76 T84 T54
+*	Coreference T10 T61 T50 T73 T42 T52 T35 T31 T5 T1 T12 T79
+*	Coreference T72 T71 T82 T23 T37 T86 T34 T32 T30 T11 T62 T87 T36 T80 T29 T74

@@ -1,0 +1,115 @@
+T2	Campaign 203 210	exposed
+T3	Information 211 220	user data
+T4	Information 225 247	private voice messages
+T5	Person 276 284	children
+T10	Person 1667 1683	registered users
+T14	Information 1779 1787	messages
+T15	Information 1769 1775	images
+T17	Hacker-Group 1841 1847	hacker
+T18	Information 1866 1870	data
+T19	Attack-Pattern 1887 1914	‘guessing’ simple passwords
+T7	File 886 899	a ransom note
+T12	Organization 0 11	Spiral Toys
+T20	Organization 17 48	parent company behind CloudPets
+T21	Time 50 59	yesterday
+T22	Organization 69 96	California Attorney General
+T23	Campaign 99 105	breach
+T24	Person 156 163	experts
+T1	Campaign 182 197	database breach
+T25	Number 249 253	many
+T26	Organization 317 324	company
+T27	Campaign 344 350	breach
+T28	Time 357 363	Feb 22
+T29	Organization 369 371	it
+T30	Person 399 419	Motherboard reporter
+T31	Person 440 451	researchers
+T32	Person 452 461	Troy Hunt
+T33	Person 466 479	Victor Gevers
+T34	Information 513 537	toymaker’s customer data
+T35	Person 583 587	Hunt
+T36	Person 592 598	Gevers
+T37	Number 627 638	a number of
+T38	Person 639 659	Spiral Toys contacts
+T39	System 675 699	ZenDesk ticketing system
+T40	Time 708 714	Dec 30
+T41	Attack-Pattern 612 659	reached out to a number of Spiral Toys contacts
+T42	Information 720 724	data
+T43	Attack-Pattern 720 793	data was copied and deleted from an exposed MongoDB instance found online
+T44	Software 764 771	MongoDB
+T45	Number 812 822	many times
+T9	Software 827 835	database
+T8	Attack-Pattern 827 911	database was accessed before its contents were deleted and a ransom note left behind
+T6	Campaign 934 941	attacks
+T46	Software 967 984	MongoDB databases
+T47	Information 990 1000	recordings
+T48	Software 1024 1032	database
+T49	Software 1042 1050	database
+T50	Path 1077 1103	file paths to the messages
+T51	Software 1129 1170	Amazon Web Services AWS S3 storage bucket
+T52	Software 1176 1184	database
+T53	Organization 1186 1197	Spiral Toys
+T54	Email 1236 1242	emails
+T55	Information 1247 1266	encrypted passwords
+T57	Organization 1391 1402	Spiral Toys
+T58	Information 1365 1373	password
+T59	Information 1414 1430	hashed passwords
+T60	Person 1456 1460	Hunt
+T56	Person 1274 1278	Hunt
+T61	Attack-Pattern 1337 1454	Combined with a nonexistent password strength rule on Spiral Toys’ part, the hashed passwords could easily be cracked
+T62	Organization 1471 1478	company
+T63	Organization 1494 1496	it
+T64	Number 1510 1517	500,000
+T65	Person 1518 1532	affected users
+T67	Attack-Pattern 1562 1606	implement new password strength requirements
+T68	Attack-Pattern 1503 1556	notify 500,000 affected users, force a password reset
+T69	Information 1576 1584	password
+T70	Person 1608 1612	Hunt
+T71	Person 1617 1623	Gevers
+T72	Number 1659 1666	800,000
+T11	Campaign 1699 1705	breach
+T73	Campaign 1712 1718	breach
+T13	System 1809 1817	internet
+T74	Organization 1820 1831	Spiral Toys
+T16	Purpose 1854 1870	get to that data
+T75	Hacker-Group 1874 1878	they
+T76	Information 1898 1914	simple passwords
+T77	Person 1958 1962	Hunt
+T78	Hacker-Group 1941 1947	hacker
+T79	Campaign 1983 1996	hash cracking
+T80	Campaign 2004 2006	it
+T81	Software 2074 2083	databases
+T82	Information 2096 2104	password
+T83	Person 2113 2117	Hunt
+T84	Person 2124 2128	Hunt
+T85	Attack-Pattern 1983 2083	hash cracking is and it’s a highly automated process that’s particularly effective against databases
+T86	Information 2152 2161	passwords
+T87	Information 2170 2173	qwe
+T88	Information 2176 2191	sample password
+T89	Software 2207 2216	CloudPets
+T90	Email 2247 2269	stolen email addresses
+T91	Software 2299 2308	CloudPets
+T92	Software 2325 2329	that
+T93	Protocol 2366 2375	Bluetooth
+T94	Software 2405 2415	mobile app
+T95	Person 2480 2485	child
+T96	Person 2519 2525	parent
+T97	Person 2540 2545	adult
+T98	Software 2573 2580	product
+T99	Software 2558 2562	bear
+T100	Software 2593 2595	it
+T101	System 2639 2642	IOT
+T102	Person 2663 2669	Gevers
+T103	Organization 2699 2703	they
+T104	Course-of-Action 2699 2762	they learn from this and start making a new secure product line
+*	Coreference T49 T9 T48 T46 T52
+*	Coreference T74 T53 T12 T57 T103
+*	Coreference T102 T36 T71 T33
+*	Coreference T11 T27 T73 T23 T1
+*	Coreference T84 T83 T56 T35 T60 T70 T77 T32
+*	Coreference T89 T91
+*	Coreference T75 T78 T17
+*	Coreference T80 T79
+*	Coreference T26 T29 T20
+*	Coreference T62 T63
+*	Coreference T55 T59
+*	Coreference T98 T100 T99

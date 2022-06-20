@@ -1,0 +1,67 @@
+T2	Organization 0 11	Thunderbird
+T4	Vulnerability 43 75	a dozen security vulnerabilities
+T9	Vulnerability 168 178	two errors
+T6	Vulnerability 228 242	CVE-2018-12372
+T7	Vulnerability 331 345	CVE-2018-12373
+T1	Code 23 27	code
+T3	Course-of-Action 33 75	fixes for a dozen security vulnerabilities
+T10	Person 1827 1847	program's developers
+T11	Vulnerability 1871 1875	bugs
+T12	Software 1911 1924	e-mail client
+T13	Vulnerability 2000 2005	risks
+T14	Software 2009 2016	browser
+T15	Software 2020 2041	browser-like contexts
+T16	System 1373 1383	Windows 10
+T18	System 1723 1741	Windows 10 systems
+T19	Vulnerability 1100 1114	CVE-2018-12360
+T20	Vulnerability 1183 1211	use-after-free vulnerability
+T21	Vulnerability 801 815	CVE-2018-12359
+T22	Software 719 741	EFAIL-safe email tools
+T23	Person 634 651	Thunderbird users
+T24	Course-of-Action 779 799	critical-rated fixes
+T25	Person 470 481	discoverers
+T26	Vulnerability 577 592	vulnerabilities
+T27	Time 130 133	May
+T28	Campaign 92 113	EFAIL encryption mess
+T8	Course-of-Action 135 159	The EFAIL-specific fixes
+T5	Hacker-Group 256 264	attacker
+T29	Email 392 399	message
+T30	Vulnerability 414 419	EFAIL
+T31	Vulnerability 1473 1487	CVE-2018-12368
+T32	Person 1385 1390	users
+T33	Person 1419 1423	they
+T34	File 1437 1471	executable SettingContent-ms files
+T35	Vulnerability 1495 1498	bug
+T36	File 1582 1592	executable
+T37	Person 1519 1559	users unfamiliar with this new file type
+T38	File 1546 1559	new file type
+T39	Software 1744 1755	Thunderbird
+T40	Software 1804 1821	Firefox code base
+T41	Vulnerability 1776 1794	memory safety bugs
+T42	Software 1613 1625	WebExtension
+T43	Attack-Pattern 1672 1694	execute arbitrary code
+T44	Information 1635 1668	limited downloads.open permission
+T46	Vulnerability 885 900	buffer overflow
+T47	Software 689 695	client
+T48	Software 743 754	Thunderbird
+T49	Version 755 759	52.9
+T50	Information 1023 1027	data
+T51	Vulnerability 822 880	buffer overflow leading to a potentially exploitable crash
+T45	Vulnerability 1121 1178	use-after-free, also with a potentially exploitable crash
+T52	Vulnerability 497 519	issue's exploitability
+T53	Email 528 566	messages encrypted with PGP and S/MIME
+T54	Protocol 560 566	S/MIME
+T55	Software 552 555	PGP
+T56	Information 275 308	S/MIME and PGP decryption oracles
+T57	Email 312 325	HTML messages
+T58	Information 356 372	S/MIME plaintext
+T17	Person 1322 1341	Security researcher
+T59	Person 1342 1353	Matt Nelson
+*	Coreference T4 T3 T26
+*	Coreference T11 T35
+*	Coreference T12 T47
+*	Coreference T16 T18
+*	Coreference T7 T31 T21 T19 T6
+*	Coreference T29 T57
+*	Coreference T48 T2 T39
+*	Coreference T32 T33

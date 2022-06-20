@@ -1,0 +1,64 @@
+T8	Email 581 594	text messages
+T10	Organization 558 571	the same bank
+T9	Person 539 554	three customers
+T13	Purpose 733 768	give access to their online banking
+T14	Purpose 825 837	siphon money
+T12	Person 704 714	the people
+T1	Campaign 89 106	a ‘smishing’ scam
+T3	Time 36 45	this week
+T2	Person 52 66	bank customers
+T4	Campaign 205 238	Smishing messages (SMS + fishing)
+T5	Domain 299 320	a counterfeit website
+T6	Purpose 342 364	enter personal details
+T15	Purpose 368 382	transfer money
+T16	File 6 22	national reports
+T17	Person 117 137	 a man from Coventry
+T18	Person 139 156	Trading Standards
+T19	Person 173 182	residents
+T20	Information 254 279	 a phony telephone number
+T21	Information 385 398	 your account
+T22	Information 348 364	personal details
+T23	Money 377 382	money
+T24	File 515 527	 the reports
+T25	Time 528 537	this week
+T7	Information 666 681	 a phone number
+T26	Information 641 656	 their accounts
+T27	Campaign 630 638	activity
+T11	Information 784 800	 a security code
+T28	Information 843 851	accounts
+T29	Campaign 874 882	campaign
+T30	Campaign 854 863	Take Five
+T31	Organization 886 911	Financial Fraud Action UK
+T32	Organization 913 919	FFA UK
+T33	Information 1207 1216	 your PIN
+T34	Information 1182 1198	security details
+T35	Information 1225 1233	password
+T36	Money 498 511	 a large bill
+T37	Information 448 470	 a premium-rate number
+T38	Campaign 411 415	They
+T39	Campaign 973 990	national campaign
+T40	Campaign 940 955	financial fraud
+T41	Organization 1010 1026	 the major banks
+T42	Organization 1037 1064	financial service providers
+T43	Location 1071 1078	 the UK
+T44	Organization 1410 1414	bank
+T45	Organization 1418 1430	organisation
+T46	Organization 1791 1808	Trading Standards
+T47	Email 1293 1310	 an email request
+T48	Person 1314 1320	caller
+T49	Campaign 1684 1699	financial fraud
+T50	Person 1733 1739	anyone
+T51	Campaign 1760 1769	incidents
+T52	Campaign 1111 1126	financial fraud
+T53	Information 1261 1275	 these details
+T54	Information 1666 1677	information
+T59	Campaign 471 475	they
+*	Coreference T9 T2
+*	Coreference T3 T25
+*	Coreference T16 T24
+*	Coreference T18 T46
+*	Coreference T20 T7
+*	Coreference T28 T21 T26
+*	Coreference T29 T39
+*	Coreference T22 T34 T53 T11 T6
+*	Coreference T59 T38 T4

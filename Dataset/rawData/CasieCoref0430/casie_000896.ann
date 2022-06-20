@@ -1,0 +1,119 @@
+T1	Course-of-Action 24 31	patched
+T3	Organization 9 23	the chip giant
+T2	Vulnerability 32 52	five vulnerabilities
+T6	Course-of-Action 103 110	patched
+T5	Vulnerability 111 146	three high-severity vulnerabilities
+T7	Organization 86 91	Intel
+T10	Device 212 220	products
+T9	Attack-Pattern 158 192	allow the escalation of privileges
+T11	Course-of-Action 246 251	fixed
+T13	Vulnerability 252 261	five bugs
+T12	Organization 231 245	the chip giant
+T18	Course-of-Action 681 687	update
+T19	Version 691 717	version 20.90.0.7 or later
+T20	Software 721 733	the software
+T15	Course-of-Action 596 612	software updates
+T16	Organization 577 582	Intel
+T62	Campaign 616 624	mitigate
+T17	Vulnerability 624 653	 this potential vulnerability
+T38	Organization 1478 1483	Intel
+T39	Course-of-Action 1501 1507	update
+T41	Version 1511 1537	versions 2.5.0.15 or later
+T46	Campaign 1643 1650	patched
+T45	Organization 1623 1637	The chip-maker
+T47	Vulnerability 1651 1691	a high-severity and medium-severity flaw
+T48	System 1695 1739	its Software Guard Extensions (SGX) platform
+T49	Software 1744 1752	software
+T97	Attack-Pattern 1791 1851	protect select code and data from disclosure or modification
+T53	Course-of-Action 2854 2870	has been patched
+T54	System 2821 2841	SSD data-center tool
+T56	Vulnerability 2763 2809	a medium escalation of privilege vulnerability
+T63	Organization 2813 2818	Intel
+T55	System 2846 2853	Windows
+T58	Course-of-Action 3167 3172	patch
+T64	Organization 3159 3164	Intel
+T59	Course-of-Action 3228 3233	fixes
+T60	Organization 3239 3244	Adobe
+T61	Organization 3249 3258	Microsoft
+T26	Software 891 916	versions before 20.90.0.7
+T25	Software 854 887	the software’s ZeroConfig service
+T24	Organization 784 801	Insomnia Security
+T23	Person 766 780	Thomas Hibbert
+T21	Vulnerability 735 752	The vulnerability
+T28	Vulnerability 918 927	The issue
+T27	Attack-Pattern 974 1021	enable escalation of privilege via local access
+T32	System 1102 1109	Windows
+T31	System 1075 1097	System Support Utility
+T29	Vulnerability 1023 1050	The other high-severity bug
+T35	Vulnerability 1171 1179	This bug
+T34	Vulnerability 1181 1194	CVE-2019-0088
+T33	Attack-Pattern 1311 1356	gain escalation of privilege via local access
+T65	Organization 1060 1072	 the company
+T37	System 1413 1435	System Support Utility
+T66	System 1440 1447	Windows
+T67	Version 1448 1463	before 2.5.0.15
+T42	Campaign 1601 1612	discovering
+T44	Person 1539 1582	Independent security researcher Alec Blance
+T43	Vulnerability 1613 1621	the flaw
+T70	Vulnerability 1873 1897	security vulnerabilities
+T71	System 1901 1914	Intel SGX SDK
+T72	Software 1919 1946	Intel SGX Platform Software
+T8	Attack-Pattern 1951 1980	allow escalation of privilege
+T69	Organization 2014 2019	Intel
+T74	Vulnerability 2167 2185	 The vulnerability
+T76	Organization 2253 2258	Intel
+T75	System 2261 2268	SGX SDK
+T77	Software 2273 2290	Platform Software
+T78	System 2295 2302	Windows
+T79	Version 2303 2317	before 2.2.100
+T80	Vulnerability 2020 2043	 The high-severity flaw
+T81	System 2047 2050	SGX
+T82	Vulnerability 2052 2066	CVE-2018-18098
+T83	Attack-Pattern 2102 2166	allow an attacker with local access to gain escalated privileges
+T51	Person 2341 2375	researcher Saif Allah ben Massaoud
+T52	Vulnerability 2320 2322	It
+T84	Vulnerability 2385 2398	vulnerability
+T85	System 2401 2414	 the platform
+T86	Vulnerability 2416 2430	CVE-2018-12155
+T90	Organization 3086 3091	Intel
+T88	Attack-Pattern 3028 3078	enable an escalation of privilege via local access
+T92	Version 2968 2982	before v3.0.17
+T91	System 2960 2967	Windows
+T93	Software 2924 2955	 the Intel SSD Data Center Tool
+T94	Vulnerability 2873 2903	Improper directory permissions
+T87	Campaign 2561 2573	data leakage
+T95	System 2576 2604	 the cryptographic libraries
+T96	System 2607 2624	 the SGX platform
+T98	File 2208 2212	file
+T100	Organization 656 658	it
+T4	Organization 72 75	its
+T14	Device 71 84	 its products
+T22	Vulnerability 264 269	three
+T30	Vulnerability 295 298	two
+T36	Vulnerability 339 349	these bugs
+T40	Organization 390 395	Intel
+T50	Software 398 428	PROset/Wireless Wi-Fi software
+T57	Organization 439 442	its
+T73	Software 438 478	 its wireless connection management tool
+T89	Course-of-Action 560 574	Intel’s update
+T101	Vulnerability 1358 1375	The vulnerability
+T102	Person 1495 1500	users
+T103	Person 1291 1295	user
+T104	Person 1164 1169	users
+T105	Person 954 958	user
+T106	Information 1984 1995	information
+T68	System 2661 2672	 a function
+T99	Organization 3101 3113	 The company
+*	Coreference T31 T37
+*	Coreference T71 T75 T85 T81 T96
+*	Coreference T7 T76 T38 T69 T16 T64 T90 T63 T3 T12 T4 T40 T57 T100 T65 T45 T99
+*	Coreference T91 T78 T55 T32 T66
+*	Coreference T34 T82 T2 T5 T29 T80 T13 T22 T35 T101
+*	Coreference T14 T10
+*	Coreference T50 T73
+*	Coreference T21 T28
+*	Coreference T103 T102 T104 T105
+*	Coreference T30 T47
+*	Coreference T84 T86
+*	Coreference T95 T68
+*	Coreference T54 T93

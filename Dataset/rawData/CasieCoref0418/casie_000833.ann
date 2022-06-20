@@ -1,0 +1,81 @@
+T3	Person 84 99	the researchers
+T4	Vulnerability 114 129	buffer overflow
+T5	System 137 166	ScStoragePathFromUrl function
+T6	Software 174 188	WebDAV service
+T7	Attack-Pattern 195 272	an attacker sends an overlong IF header request as part of a PROPFIND request
+T1	Campaign 5 15	disclosure
+T2	Time 19 27	March 27
+T10	Vulnerability 341 354	CVE-2017-7269
+T13	Time 409 425	about for months
+T11	Vulnerability 391 393	it
+T29	Vulnerability 2562 2585	an unpatchable zero-day
+T28	System 2621 2644	compromised web servers
+T18	Organization 1358 1367	Microsoft
+T17	Course-of-Action 1393 1398	a fix
+T14	Course-of-Action 1560 1578	guerrilla patching
+T19	Course-of-Action 1787 1790	fix
+T20	Vulnerability 1791 1800	the issue
+T21	Vulnerability 1745 1760	a vulnerability
+T22	Software 1736 1744	software
+T25	Vulnerability 1951 1964	CVE-2017-7269
+T24	Course-of-Action 1931 1946	a “micro-patch”
+T26	Organization 1837 1868	A company called Acros Security
+T8	Time 621 630	July 2015
+T9	System 513 527	Windows Server
+T12	Version 528 535	2003 R2
+T15	Organization 548 557	Microsoft
+T16	Time 539 543	2005
+T30	Course-of-Action 1824 1826	it
+T31	Person 1580 1582	We
+T32	Person 1966 1968	We
+T33	Person 297 300	you
+T34	Software 577 579	it
+T35	Organization 1831 1835	them
+T39	Organization 2247 2251	them
+T41	Organization 2314 2318	they
+*	Coreference T10 T25 T11 T4 T29
+*	Coreference T18 T15
+T23	Hacker-Group 198 206	attacker
+T43	Software 316 322	WebDAV
+*	Coreference T6 T43
+T40	Vulnerability 433 445	new exploits
+T44	Software 492 499	IIS 6.0
+*	Coreference T44 T34 T49 T55 T66
+T45	System 746 756	Windows XP
+T36	Organization 773 786	organisations
+T46	Organization 808 818	themselves
+T47	Organization 856 866	themselves
+*	Coreference T36 T46 T47
+T48	Organization 899 914	analysts RiskIQ
+T49	Software 939 946	IIS 6.0
+T50	Organization 980 989	companies
+T51	Software 1049 1056	IIS 5.0
+T52	Organization 1069 1078	companies
+*	Coreference T52 T50
+T53	Device 1166 1174	machines
+T54	Software 1202 1210	software
+*	Coreference T54 T51
+T37	Course-of-Action 1460 1463	fix
+*	Coreference T17 T37
+T55	Software 1481 1488	IIS 6.0
+T56	Person 1323 1333	researcher
+*	Coreference T56 T31 T32 T62 T3
+*	Coreference T19 T30
+T58	Organization 1720 1726	vendor
+*	Coreference T58 T35 T60 T61 T39 T41
+*	Coreference T21 T20
+T59	Organization 1994 1999	Acros
+*	Coreference T26 T59
+T60	Person 2047 2096	anyone staring down the barrel of limited options
+T61	Organization 2191 2207	software vendors
+T62	Person 2236 2238	we
+T63	System 2403 2405	XP
+*	Coreference T63 T45
+T64	Vulnerability 2408 2424	zombie afterlife
+T65	Vulnerability 2432 2450	example of this MO
+*	Coreference T64 T65
+T66	Software 2525 2532	IIS 6.0
+T67	Organization 2662 2668	anyone
+T68	Organization 2671 2680	Microsoft
+*	Coreference T67 T68
+*	Coreference T28 T9

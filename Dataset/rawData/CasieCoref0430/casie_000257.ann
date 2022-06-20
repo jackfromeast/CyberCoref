@@ -1,0 +1,55 @@
+T5	Person 56 63	Racco42
+T2	Vulnerability 74 92	 the vulnerability
+T3	Time 96 115	Thursday, January 1
+T25	Person 2 21	security researcher
+T14	Vulnerability 117 127	 The issue
+T10	System 146 159	Cerber server
+T11	Person 764 768	they
+T16	Information 779 790	information
+T18	Information 796 807	server logs
+T8	Device 234 263	 a command and control server
+T6	Device 216 227	 The server
+T9	Person 301 313	 the victims
+T12	Device 315 324	computers
+T13	Malware 351 373	 the actual ransomware
+T15	Attack-Pattern 381 417	would later run and infect their PCs
+T19	Device 408 417	their PCs
+T20	System 268 290	 a mere staging server
+T21	File 437 454	 the server files
+T22	Number 431 437	one of
+T23	URL 456 491	hxxp://truthforeyoue.top/search.php
+T24	Code 503 519	page source code
+T27	Person 606 621	Jaromir Horejsi
+T26	Person 580 605	Avast security researcher
+T28	Organization 640 655	 the Avast team
+T29	Attack-Pattern 656 707	leveraged this error to get control over the server
+T30	Attack-Pattern 493 519	displayed page source code
+T31	Time 713 736	a period of three hours
+T32	Organization 737 753	 the Avast teams
+T33	Organization 808 823	 The Avast team
+T34	Number 838 841	700
+T35	Person 842 847	users
+T36	Software 857 874	Cerber installers
+T37	Device 889 898	their PCs
+T38	Time 929 940	a whole day
+T39	Number 947 950	one
+T40	Device 951 991	typical Cerber ransomware staging server
+T41	Code 1017 1025	payloads
+T42	Number 1036 1041	8,400
+T43	Person 1042 1047	users
+T44	Campaign 1054 1070	 a spam run peak
+T45	Campaign 1074 1096	malvertising campaigns
+T46	Attack-Pattern 1009 1047	deliver payloads to around 8,400 users
+T1	Number 142 145	one
+T4	Vulnerability 196 215	 a misconfiguration
+T17	Code 542 544	it
+T47	Device 696 707	 the server
+T7	Number 913 925	 this number
+*	Coreference T6 T47 T10 T20
+*	Coreference T19 T37
+*	Coreference T28 T32 T33 T11
+*	Coreference T2 T14 T4
+*	Coreference T23 T21
+*	Coreference T17 T24
+*	Coreference T5 T25
+*	Coreference T26 T27

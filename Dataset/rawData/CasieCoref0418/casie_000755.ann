@@ -1,0 +1,97 @@
+T1	Course-of-Action 32 37	fixed
+T4	Organization 4 21	US Postal Service
+T2	Vulnerability 40 57	security weakness
+T3	Domain 61 69	usps.com
+T5	Attack-Pattern 75 128	let anyone see the personal account info of its users
+T10	Organization 270 274	USPS
+T12	Time 298 307	this week
+T8	Time 221 236	over a year ago
+T9	Person 243 265	independent researcher
+T6	Vulnerability 176 194	open vulnerability
+T15	Organization 314 331	Krebs on Security
+T14	Vulnerability 344 349	issue
+T17	Attack-Pattern 544 566	access a USPS database
+T18	Attack-Pattern 608 636	track user data and packages
+T16	Software 474 520	site’s application programming interface (API)
+T25	Vulnerability 443 466	authentication weakness
+T27	Domain 414 421	website
+T26	Vulnerability 355 368	vulnerability
+T30	Vulnerability 1527 1542	vulnerabilities
+T31	System 1550 1557	network
+T32	Hacker-Group 1485 1494	criminals
+T20	Information 819 840	mailing campaign data
+T21	Information 804 817	phone numbers
+T22	Email 796 802	emails
+T23	Information 765 785	Users’ personal data
+T24	Domain 892 896	site
+T33	Information 140 149	usernames
+T34	Information 154 170	street addresses
+T7	Course-of-Action 281 288	patched
+T11	Number 382 392	60 million
+T13	Information 393 406	user accounts
+T35	Person 578 588	businesses
+T36	Person 593 604	advertisers
+T37	Software 642 645	API
+T38	Information 710 719	user data
+T39	Organization 724 728	USPS
+T19	Person 861 896	anyone who was logged into the site
+T28	Person 916 920	user
+T40	Person 955 967	another user
+T41	Information 1010 1033	account’s email address
+T42	Information 1038 1050	phone number
+T43	Organization 1061 1065	USPS
+T44	Email 1087 1105	confirmation email
+T45	Information 1136 1152	street addresses
+T46	System 1180 1188	database
+T47	Person 1194 1208	logged-in user
+T48	Information 1270 1315	data of multiple people in the same household
+T49	Person 1317 1322	Krebs
+T50	Vulnerability 1349 1362	vulnerability
+T51	Malware 1368 1389	special hacking tools
+T52	Information 1415 1419	data
+T53	Organization 1422 1426	USPS
+T54	Person 1450 1455	Krebs
+T29	Information 1462 1473	information
+T55	Organization 1619 1633	Postal Service
+T56	System 1807 1813	system
+T57	Time 1817 1824	October
+T58	Vulnerability 1846 1859	vulnerability
+T59	Vulnerability 1891 1907	other weaknesses
+T60	Organization 1950 1954	USPS
+T61	Vulnerability 1972 1977	issue
+T63	Vulnerability 2072 2085	vulnerability
+T62	Campaign 2040 2048	exploits
+T64	Organization 2090 2094	USPS
+T69	Vulnerability 289 291	it
+*	Coreference T4 T70 T10 T39 T43 T53 T55 T60 T82 T64 T83
+*	Coreference T27 T24 T3
+*	Coreference T21 T42
+*	Coreference T34 T45
+*	Coreference T49 T54
+*	Coreference T50 T30 T58 T63 T26 T6 T2 T69 T14 T61 T68
+T70	Organization 27 29	it
+T71	Information 94 110	personal account
+T66	Vulnerability 423 425	It
+T72	Vulnerability 521 525	that
+*	Coreference T72 T25
+*	Coreference T16 T37
+T73	Person 534 540	anyone
+T74	Person 123 128	users
+T75	Information 678 685	account
+*	Coreference T38 T23 T48 T52 T13 T71 T75 T77
+T76	Person 79 85	anyone
+T77	Information 935 942	account
+T65	Person 972 976	they
+T78	System 553 566	USPS database
+*	Coreference T46 T78
+*	Coreference T19 T47 T76 T73 T65 T28
+T79	Hacker-Group 1674 1680	anyone
+*	Coreference T32 T79
+T80	System 1715 1722	systems
+*	Coreference T31 T80 T56
+T81	Campaign 1794 1799	audit
+T67	Campaign 1870 1872	it
+*	Coreference T67 T81
+T68	Vulnerability 1983 1985	it
+T82	Organization 1909 1911	We
+T83	Organization 2157 2159	it

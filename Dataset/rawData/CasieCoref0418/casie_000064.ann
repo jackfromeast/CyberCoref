@@ -1,0 +1,76 @@
+T2	Attack-Pattern 90 116	locked down critical files
+T3	Device 15 24	computers
+T16	Malware 66 84	malicious software
+T17	Time 44 48	week
+T22	Organization 0 3	PGA
+T21	Location 7 14	America
+T18	Campaign 231 248	ransomware attack
+T19	System 200 207	servers
+T20	Attack-Pattern 255 336	blocked them from obtaining access to material relating to major golf tournaments
+T5	Hacker-Group 569 576	hackers
+T8	Person 1218 1227	officials
+T13	Organization 1822 1825	PGA
+T11	Money 1720 1731	53 bitcoins
+T12	Money 1747 1755	$335,000
+T9	Campaign 1693 1702	extortion
+T6	File 102 116	critical files
+T1	Purpose 121 144	demanded cryptocurrency
+T23	Person 163 172	Officials
+T24	Time 187 194	Tuesday
+T25	Person 263 267	them
+T26	File 293 336	material relating to major golf tournaments
+T4	Purpose 545 561	Transfer bitcoin
+T27	Money 554 561	bitcoin
+T28	File 589 594	files
+T29	Attack-Pattern 580 594	lose the files
+T30	System 610 617	network
+T31	File 643 648	files
+T32	Device 657 661	host
+T33	System 669 676	network
+T34	Attack-Pattern 682 725	been encrypted with a strong algorythm (sic
+T35	Code 704 720	strong algorythm
+T36	Attack-Pattern 745 817	Backups were either encrypted or deleted or backup disks were formatted.
+T37	System 854 860	system
+T38	File 872 877	files
+T39	Information 901 922	bitcoin wallet number
+T40	File 1006 1011	files
+T41	Information 1022 1036	decryption key
+T42	Hacker-Group 1042 1049	hackers
+T43	Hacker-Group 1060 1064	they
+T44	Organization 1110 1124	PGA of America
+T45	Attack-Pattern 1128 1162	unlocking two files free-of-charge
+T46	File 1142 1147	files
+T7	Money 1259 1272	ransom demand
+T47	Person 1166 1172	source
+T48	Organization 1204 1212	Golfweek
+T49	Organization 1302 1327	law enforcement officials
+T50	Person 1332 1353	cybersecurity experts
+T51	System 1359 1366	network
+T52	Time 1386 1395	Wednesday
+T53	Person 1400 1420	external researchers
+T54	Organization 1446 1460	PGA of America
+T55	Organization 1490 1509	golfing association
+T56	Malware 1530 1540	ransomware
+T57	Device 1554 1563	computers
+T58	Device 1569 1599	tech website Bleeping Computer
+T59	Money 1610 1616	demand
+T60	Malware 1629 1646	BitPaymer variant
+T61	Person 1648 1674	Researcher Lawrence Abrams
+T10	Person 1757 1763	Abrams
+T62	Malware 1774 1783	BitPaymer
+T63	Malware 1790 1807	secure ransomware
+T64	File 1887 1892	files
+T65	Course-of-Action 1847 1862	rely on backups
+T14	Money 1904 1930	significant bitcoin demand
+*	Coreference T5 T42 T43
+*	Coreference T30 T51 T33
+*	Coreference T44 T54 T22 T13
+*	Coreference T40 T64 T31 T28 T46 T38
+*	Coreference T7 T59
+*	Coreference T60 T62 T56 T63
+*	Coreference T19 T3
+T15	Person 494 502	Golfweek
+T67	Attack-Pattern 517 533	extortion threat
+*	Coreference T53 T50
+*	Coreference T12 T11 T14
+*	Coreference T10 T61

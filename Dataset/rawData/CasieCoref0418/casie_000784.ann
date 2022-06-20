@@ -1,0 +1,101 @@
+T1	Campaign 23 34	have stolen
+T2	Hacker-Group 0 8	A hacker
+T4	System 68 90	several major networks
+T3	Information 46 62	television shows
+T10	Campaign 504 515	have stolen
+T7	Hacker-Group 429 439	The hacker
+T8	Hacker-Group 443 450	hackers
+T9	Hacker-Group 472 487	thedarkoverlord
+T11	Information 516 534	unreleased content
+T12	Organization 540 543	ABC
+T13	Organization 545 548	Fox
+T14	Organization 550 569	National Geographic
+T15	Organization 574 577	IFC
+T16	Campaign 1375 1395	This specific breach
+T17	Organization 1454 1480	the postproduction studios
+T18	Campaign 1958 1980	its blackmail requests
+T20	Hacker-Group 1907 1922	thedarkoverlord
+T19	Organization 1934 1941	Netflix
+T32	Time 1897 1905	Saturday
+T5	Campaign 235 254	its ransom requests
+T6	Organization 198 219	the streaming service
+T21	Campaign 2441 2452	its demands
+T24	Time 2429 2437	Saturday
+T23	Attack-Pattern 2377 2406	threatened to release content
+T22	Hacker-Group 2366 2376	The hacker
+T33	Organization 2418 2425	studios
+T25	Campaign 2844 2852	demanded
+T26	Money 2853 2864	50 bitcoins
+T27	Money 2877 2884	$43,000
+T31	Attack-Pattern 2787 2838	wiped the organization’s servers and backup servers
+T30	Hacker-Group 2775 2786	the hackers
+T28	Campaign 2933 2936	pay
+T29	Organization 2908 2924	The organization
+T34	Money 2064 2080	a lot more money
+T35	Organization 2467 2470	ABC
+T36	Organization 2472 2475	Fox
+T37	Organization 2480 2483	IFC
+T38	Organization 2522 2541	National Geographic
+T39	Organization 2704 2735	Little Red Door Cancer Services
+T40	Location 2739 2759	East Central Indiana
+T41	Organization 1184 1191	Netflix
+T42	System 843 851	networks
+T43	Time 723 734	a month ago
+T44	Location 374 385	Los Angeles
+T45	System 390 409	television networks
+T46	Organization 414 427	movie studios
+T47	Person 2202 2205	you
+T48	Organization 1128 1130	it
+T49	Hacker-Group 2207 2209	We
+T50	Organization 1647 1651	they
+*	Coreference T1 T10
+*	Coreference T12 T35
+*	Coreference T13 T36 T72
+*	Coreference T14 T38
+*	Coreference T15 T37
+*	Coreference T32 T24
+*	Coreference T21 T25 T18 T5 T82
+T53	Hacker-Group 186 192	person
+T54	Campaign 260 266	breach
+T55	Organization 299 336	postproduction company Larson Studios
+T56	Organization 340 370	popular digital-mixing service
+*	Coreference T56 T55 T6 T58 T60 T61
+T57	Organization 583 614	Federal Bureau of Investigation
+T58	Organization 641 655	Larson Studios
+T59	Campaign 630 637	episode
+*	Coreference T54 T59 T16
+T60	Organization 699 716	content companies
+T61	Organization 749 763	Larson Studios
+T62	Hacker-Group 806 821	thedarkoverlord
+T63	Hacker-Group 934 940	hacker
+T64	Hacker-Group 904 906	we
+T65	Hacker-Group 948 950	We
+T66	Organization 123 130	Netflix
+T67	Organization 1199 1201	We
+T68	Organization 986 993	Netflix
+T51	Organization 1232 1249	production vendor
+T70	Organization 1320 1359	appropriate law enforcement authorities
+T71	Organization 1564 1571	Netflix
+T72	Organization 1576 1579	Fox
+T73	Organization 1686 1708	postproduction vendors
+*	Coreference T51 T73
+T74	Organization 1549 1558	companies
+*	Coreference T50 T74
+T75	Software 1838 1851	cybersecurity
+T76	Software 1613 1645	cybersecurity defense technology
+*	Coreference T76 T75
+T77	Organization 2014 2021	Netflix
+T80	Person 2043 2046	You
+*	Coreference T80 T47 T19 T41 T66 T67 T68 T48 T71 T77 T83
+T81	Hacker-Group 2155 2157	We
+T82	Money 2110 2122	modest offer
+T83	Organization 2247 2257	yourselves
+T84	Hacker-Group 2354 2363	ourselves
+T85	Hacker-Group 2333 2348	merciful entity
+*	Coreference T85 T84 T9 T20 T62 T63 T64 T65 T81 T49 T22 T7 T30 T2 T53 T86
+T86	Hacker-Group 2582 2597	thedarkoverlord
+T87	Campaign 2615 2635	other recent attacks
+T88	Organization 2669 2682	small charity
+*	Coreference T88 T39 T89 T29
+T89	Organization 2797 2810	organization’
+*	Coreference T26 T27

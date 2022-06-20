@@ -1,0 +1,41 @@
+T1	Campaign 80 84	paid
+T2	System 116 132	computer systems
+T3	Organization 35 63	the Canadian town of Midland
+T6	Campaign 183 187	paid
+T7	Hacker-Group 191 206	cyber criminals
+T9	System 215 226	its servers
+T8	Organization 150 178	the Canadian town of Midland
+T15	Campaign 641 656	a ransom demand
+T13	Attack-Pattern 487 503	a malware attack
+T14	Hacker-Group 508 515	hackers
+T11	System 569 581	town systems
+T12	Attack-Pattern 527 550	encrypt the information
+T16	Organization 629 636	Midland
+T17	Time 422 433	September 1
+T19	Location 447 467	the Ontario province
+T18	Organization 435 443	the town
+T5	Money 134 144	The ransom
+T20	Campaign 363 371	has paid
+T21	Organization 355 362	Midland
+T4	Time 710 726	a few days later
+T10	System 803 814	 the system
+T22	Domain 981 999	Midland’s web site
+T23	System 591 595	them
+T25	Money 13 20	Bitcoin
+T26	Money 22 25	BTC
+T27	Money 256 263	Bitcoin
+T28	Money 265 268	BTC
+T29	Money 375 389	cryptocurrency
+T30	Organization 474 483	 a victim
+T31	Organization 680 689	 The town
+T32	Money 733 741	 the sum
+T24	Organization 850 859	 The Town
+T33	Campaign 917 930	circumstances
+T34	Campaign 664 674	decryption
+T35	Campaign 932 942	Decryption
+*	Coreference T3 T8 T21 T18 T30 T16 T31 T24
+*	Coreference T10 T2 T11 T9 T23
+*	Coreference T27 T28 T25 T26 T5 T29 T32
+*	Coreference T14 T7
+*	Coreference T33 T15
+*	Coreference T34 T35

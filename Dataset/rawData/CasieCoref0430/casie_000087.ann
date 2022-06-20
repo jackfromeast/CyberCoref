@@ -1,0 +1,94 @@
+T9	Organization 969 982	organisations
+T8	Course-of-Action 997 1010	patch updates
+T3	Campaign 852 866	 a data breach
+T5	Person 792 806	 its customers
+T4	Person 839 849	the victim
+T6	Organization 773 788	an organisation
+T2	Organization 559 572	organisations
+T12	Software 180 182	it
+T13	Organization 2471 2473	it
+T15	Organization 0 33	Global software industry advocate
+T16	Organization 34 37	BSA
+T17	Organization 40 61	The Software Alliance
+T18	Organization 73 97	Australian organisations
+T19	Software 154 173	unlicensed software
+T20	Time 240 249	last year
+T22	Number 262 264	28
+T21	Software 297 316	unlicensed software
+T23	Time 329 333	2017
+T24	Time 356 360	2016
+T25	Number 336 341	twice
+T26	Number 361 368	 The 28
+T27	Campaign 215 239	infringement settlements
+T28	Campaign 270 281	settlements
+T29	Campaign 369 380	settlements
+T30	Money 402 410	$347,000
+T31	Location 448 457	Australia
+T32	Organization 459 462	BSA
+T1	Software 595 614	unlicensed software
+T33	Software 674 693	unlicensed software
+T34	Organization 641 651	Businesses
+T35	Software 698 740	software downloaded from an unknown source
+T36	Malware 754 761	malware
+T37	Person 878 920	BSA APAC’s director of compliance programs
+T38	Person 922 930	Gary Gan
+T39	Software 950 967	licensed software
+T7	Organization 1108 1121	 the business
+T10	Number 1138 1145	 the 28
+T11	Campaign 1146 1157	settlements
+T40	Organization 1166 1207	 a Western Australia-based energy company
+T41	Software 1229 1248	unlicensed software
+T42	Campaign 1249 1264	 The settlement
+T43	Campaign 1132 1135	One
+T44	Number 1287 1294	$40,000
+T45	Organization 1302 1310	business
+T46	Software 1324 1343	unlicensed software
+T47	Organization 1481 1494	organisations
+T48	Organization 1508 1512	they
+T14	Organization 1526 1530	they
+T49	Information 1545 1556	 their data
+T50	Organization 1660 1670	businesses
+T51	Software 1700 1709	SAM tools
+T52	Software 1785 1804	unlicensed software
+T53	Organization 1747 1757	businesses
+T54	Software 1847 1850	SAM
+T55	Organization 1871 1881	businesses
+T56	Person 1906 1909	Gan
+T57	Organization 1920 1928	 The BSA
+T58	Software 1971 1993	 its members’ software
+T59	Organization 1995 2002	Members
+T60	Organization 2011 2016	Adobe
+T61	Organization 2018 2023	Apple
+T62	Organization 2025 2028	IBM
+T63	Organization 2030 2039	Microsoft
+T64	Organization 2041 2045	Okta
+T65	Organization 2047 2053	Oracle
+T66	Organization 2055 2063	Symantec
+T67	Organization 2065 2076	Trend Micro
+T68	Organization 2081 2088	Workday
+T69	Organization 2106 2109	BSA
+T70	Money 2123 2130	$20,000
+T71	Person 2134 2153	eligible recipients
+T72	Software 2225 2246	BSA members’ software
+T73	Person 2248 2268	Potential recipients
+T74	Information 2316 2332	 the information
+T75	Information 2176 2187	information
+T76	Organization 2355 2380	 the BSA’s legal advisers
+T77	Organization 2444 2460	 the BSA members
+T78	Organization 2462 2465	BSA
+T79	Software 2563 2582	unlicensed software
+T80	Information 2188 2246	regarding unlawful copying or use of BSA members’ software
+*	Coreference T28 T27 T29 T11
+*	Coreference T26 T22 T10
+*	Coreference T19 T12 T21 T1 T33 T41 T52 T79
+*	Coreference T23 T20
+*	Coreference T2 T34
+*	Coreference T38 T37 T56
+*	Coreference T43 T42
+*	Coreference T47 T48 T14
+*	Coreference T51 T54
+*	Coreference T53 T50 T55
+*	Coreference T80 T75 T74
+*	Coreference T73 T71
+*	Coreference T77 T59
+*	Coreference T78 T13 T16 T15 T17 T32 T57 T69

@@ -1,0 +1,62 @@
+T10	Hacker-Group 559 569	Fancy Bear
+T11	Information 584 599	medical records
+T12	Person 603 612	Olympians
+T13	Time 620 629	last year
+T14	Person 636 661	U.S. and British athletes
+T15	Information 715 731	selected records
+T4	Software 422 466	Therapeutic Use Exemption (TUE) applications
+T5	Device 477 489	IAAF servers
+T3	Person 412 420	athletes
+T6	Campaign 498 527	an unauthorized remote access
+T7	System 531 542	its network
+T8	Time 546 557	February 21
+T1	Campaign 384 394	the attack
+T17	Time 236 243	April 3
+T18	Campaign 332 338	attack
+T19	Hacker-Group 346 362	Fancy Bear group
+T20	Organization 311 315	IAAF
+T21	Organization 259 309	International Association of Athletics Federations
+T2	Organization 750 754	IAAF
+T9	Organization 901 908	company
+T16	System 1412 1447	Democratic Party's computer systems
+T22	Campaign 1395 1410	hack of the U.S
+T23	Software 1327 1356	Russian intelligence services
+T24	Person 1240 1257	cyber-researchers
+T26	Organization 1024 1036	organization
+T27	Campaign 960 983	sophisticated intrusion
+T28	Campaign 1086 1095	situation
+T29	Organization 1114 1140	world's best organizations
+T30	Organization 1177 1179	we
+T31	Hacker-Group 1186 1196	Fancy Bear
+T32	Time 1225 1234	last year
+T34	Course-of-Action 1144 1173	create as safe an environment
+T35	Organization 773 801	Context Information Security
+T36	Organization 805 829	British security company
+T37	Time 834 841	January
+T38	System 888 895	systems
+T40	Organization 174 198	World Anti-Doping Agency
+T41	Location 207 210	U.S
+T42	Organization 212 228	Democratic Party
+T43	Hacker-Group 96 117	Russian hacking group
+T46	Campaign 128 143	other incidents
+T44	Person 67 73	victim
+T47	Organization 4 43	world governing body of track and field
+T25	Person 986 1000	IAAF President
+T48	Person 1001 1014	Sebastian Coe
+T49	Hacker-Group 1358 1362	They
+T51	Organization 1061 1063	it
+T52	Organization 372 374	it
+T54	Pronoun 49 51	it
+T55	Organization 760 762	it
+*	Coreference T11 T15
+*	Coreference T13 T32
+*	Coreference T1 T18
+*	Coreference T10 T31 T19 T49 T50
+*	Coreference T20 T2 T55
+T45	Campaign 79 90	cyberattack
+T39	Campaign 159 166	hacking
+*	Coreference T21 T52 T53
+T53	Organization 364 366	It
+*	Coreference T51 T26 T30
+T33	Hacker-Group 1276 1289	another group
+T50	Hacker-Group 1297 1301	they

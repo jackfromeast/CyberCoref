@@ -1,0 +1,87 @@
+T5	Vulnerability 36 50	software flaws
+T2	Organization 15 17	it
+T6	Vulnerability 458 465	problem
+T8	Time 469 474	March
+T9	Organization 415 419	firm
+T11	Code 681 689	exploits
+T4	Organization 0 9	Microsoft
+T15	Person 1269 1296	Whisteblower Edward Snowden
+T13	File 1312 1328	leaked documents
+T14	Time 1332 1336	2013
+T1	Campaign 72 78	breach
+T3	System 86 107	global banking system
+T16	Time 133 142	last week
+T17	Time 147 153	Friday
+T18	Hacker-Group 157 162	group
+T19	Hacker-Group 174 188	Shadow Brokers
+T20	Malware 218 231	hacking tools
+T21	Malware 244 248	they
+T22	Organization 270 297	US National Security Agency
+T23	Purpose 307 329	spy on money transfers
+T24	System 349 385	Microsoft's Windows operating system
+T25	Organization 429 431	it
+T7	Person 477 486	Customers
+T26	Vulnerability 522 526	risk
+T27	Hacker-Group 528 542	Shadow Brokers
+T28	Person 613 622	engineers
+T29	Code 645 663	disclosed exploits
+T10	Course-of-Action 702 709	patched
+T30	Organization 716 723	company
+T31	Hacker-Group 755 757	it
+T32	Vulnerability 778 783	flaws
+T33	Organization 785 794	Microsoft
+T34	Organization 817 830	third parties
+T35	Vulnerability 849 857	problems
+T36	Campaign 887 891	case
+T37	Organization 897 916	Reuters news agency
+T38	Organization 935 942	company
+T39	Organization 952 954	it
+T40	Organization 972 975	NSA
+T41	Organization 984 1015	other part of the US government
+T42	Organization 1029 1031	it
+T43	Malware 1039 1052	hacking tools
+T44	Organization 1094 1103	Microsoft
+T45	Vulnerability 1119 1124	issue
+T46	Organization 1127 1149	tech blog Ars Technica
+T47	Course-of-Action 1194 1199	patch
+T12	Organization 1354 1357	NSA
+T49	System 1517 1522	Swift
+T50	Organization 1534 1547	world's banks
+T51	Number 1681 1687	11,000
+T52	Organization 1688 1710	financial institutions
+T53	Organization 1735 1748	third parties
+T54	Organization 1760 1781	Swift Service Bureaus
+T55	System 1807 1822	Swift's network
+T56	Organization 1844 1847	NSA
+T57	System 1861 1866	Swift
+T58	Hacker-Group 1879 1893	Shadow Brokers
+T59	Organization 1941 1944	NSA
+T60	System 1993 2023	international financial system
+T61	Organization 2058 2078	Swift Service Bureau
+T62	System 2108 2121	Swift network
+T63	Person 2132 2163	security researcher Matt Suiche
+T64	Campaign 2170 2185	the latest leak
+T65	Location 2195 2197	US
+T66	System 2227 2252	region's financial system
+T67	Organization 2254 2257	NSA
+T68	System 1661 1663	It
+T69	Organization 578 580	it
+T71	Vulnerability 115 119	they
+T77	Organization 839 841	it
+*	Coreference T10 T47
+*	Coreference T4 T44 T33 T2 T9 T25 T69 T30 T38 T77 T42
+*	Coreference T54 T61 T34 T53
+*	Coreference T55 T62
+*	Coreference T43 T21 T20 T11 T29
+*	Coreference T31 T58 T27 T19 T18
+T72	Course-of-Action 30 35	fixed
+*	Coreference T71 T5 T6 T35 T32 T45
+*	Coreference T39 T37
+T70	Organization 299 302	NSA
+*	Coreference T70 T22 T40 T12 T56 T59
+T48	Purpose 1362 1472	carried surveillance of the Brussels-based Society for Worldwide Interbank Financial Telecommunication (Swift)
+T73	System 1466 1471	Swift
+T74	System 1405 1464	Society for Worldwide Interbank Financial Telecommunication
+*	Coreference T73 T74 T49 T57 T68 T60 T76
+T75	Time 1477 1490	several years
+T76	System 2403 2408	Swift

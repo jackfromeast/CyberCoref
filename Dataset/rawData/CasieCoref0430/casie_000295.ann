@@ -1,0 +1,55 @@
+T14	File 677 688	the message
+T15	Person 699 715	a trusted source
+T16	Person 610 626	 a business user
+T10	Attack-Pattern 558 577	Display name spoofs
+T19	Campaign 978 1000	spear phishing attacks
+T17	Campaign 950 966	phishing attacks
+T11	Attack-Pattern 901 918	domain lookalikes
+T12	Attack-Pattern 829 842	Direct spoofs
+T8	Hacker-Group 208 217	Attackers
+T6	Person 341 346	users
+T9	Campaign 434 450	phishing threats
+T7	Organization 0 9	GreatHorn
+T18	Number 29 39	56 million
+T20	Email 40 46	emails
+T21	Number 52 58	91,500
+T22	Time 84 89	March
+T23	Time 93 106	November 2016
+T24	Information 107 116	 The data
+T25	Information 136 147	name spoofs
+T26	Hacker-Group 192 206	cybercriminals
+T27	Attack-Pattern 128 147	display name spoofs
+T28	Campaign 246 282	highly targeted, non-payload attacks
+T29	Attack-Pattern 288 331	exploit trust and leverage pressure tactics
+T30	Purpose 335 407	trick users into taking action that will put their organizations at risk
+T5	Organization 379 399	 their organizations
+T32	Number 426 433	537,000
+T33	Organization 451 460	GreatHorn
+T34	File 472 485	 its research
+T35	Number 487 507	91 percent (490,557)
+T36	Information 545 556	name spoofs
+T37	Information 566 577	name spoofs
+T1	Person 589 598	 a person
+T2	Purpose 639 671	fool the recipient into thinking
+T3	Person 643 657	 the recipient
+T4	Organization 785 808	incoming communications
+T13	Time 809 816	all day
+T38	Time 818 827	every day
+T39	Campaign 872 878	attack
+T40	Number 885 894	8 percent
+T41	Number 927 946	less than 1 percent
+T42	Version 879 883	type
+T43	Campaign 1057 1071	 these attacks
+T44	Campaign 1097 1109	 the attacks
+T45	Course-of-Action 1176 1219	mitigate risk solely via human intervention
+T46	Person 1240 1243	you
+T47	Person 1256 1271	 your end users
+T48	Organization 1279 1288	GreatHorn
+T49	Person 1289 1292	CEO
+T50	Person 1293 1306	Kevin O’Brien
+T31	Attack-Pattern 537 556	display name spoofs
+*	Coreference T7 T33 T48
+*	Coreference T37 T25 T36
+*	Coreference T27 T31
+*	Coreference T19 T43 T44
+*	Coreference T49 T50

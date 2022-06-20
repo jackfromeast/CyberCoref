@@ -1,0 +1,93 @@
+T2	Campaign 802 807	trick
+T6	File 760 781	spear phishing emails
+T1	Person 787 794	hackers
+T3	Person 808 814	people
+T5	Attack-Pattern 856 885	clicking on virus-laden links
+T4	Attack-Pattern 820 852	downloading infected attachments
+T7	System 1031 1046	system networks
+T8	Malware 2526 2538	Trojan horse
+T9	Time 2559 2563	2006
+T10	Time 2662 2685	at least five years ago
+T11	Malware 2607 2614	malware
+T12	File 2870 2875	files
+T13	Organization 35 58	U.S. security officials
+T14	Organization 214 245	Department of Homeland Security
+T15	Campaign 277 292	cyber incidents
+T16	Time 343 363	from the year before
+T17	Campaign 461 470	incidents
+T18	Time 471 480	last year
+T19	Time 948 958	Every year
+T20	Campaign 993 1014	sophisticated attacks
+T21	System 917 924	network
+T22	Malware 1610 1630	non-targeted malware
+T23	Time 1276 1286	since 2011
+T24	Organization 1049 1125	Homeland Security's Industrial Control Systems Cyber Emergency Response Team
+T25	Person 1485 1510	cybersecurity researchers
+T26	Organization 1679 1697	cybersecurity firm
+T27	Location 1701 1712	San Antonio
+T28	Organization 1986 1992	Google
+T29	Number 1821 1827	30,000
+T30	Number 1631 1645	at least 3,000
+T31	Person 2422 2442	Ben Miller of Dragos
+T32	Organization 435 437	it
+T33	Organization 1730 1732	it
+T34	Organization 2254 2257	you
+T35	Person 2292 2295	you
+T37	Organization 3465 3469	they
+T39	Organization 3510 3514	they
+T40	Organization 685 687	It
+T41	Organization 3440 3444	they
+T42	Organization 251 253	it
+T43	Person 2337 2340	you
+*	Coreference T7 T21 T63 T72
+*	Coreference T14 T42 T44 T32 T40 T50
+T44	Organization 365 375	The agency
+*	Coreference T16 T18
+T45	Domain 555 571	industrial sites
+T46	Domain 583 683	manufacturing sites, power generation facilities, refineries, chemical plants and nuclear facilities
+*	Coreference T45 T46
+T47	Campaign 717 722	these
+*	Coreference T17 T47
+T48	Hacker-Group 960 971	adversaries
+T49	Time 1197 1206	last year
+T50	Organization 1288 1305	Homeland Security
+T51	Number 1136 1152	increased number
+T52	Number 1272 1275	400
+*	Coreference T51 T52 T53 T54
+T53	Number 1342 1346	that
+T54	Number 1371 1377	number
+T55	Organization 1386 1402	energy companies
+T56	Organization 1660 1675	Dragos Security
+*	Coreference T56 T26 T33
+T57	System 1951 1961	VirusTotal
+T58	System 1963 1976	a web service
+*	Coreference T57 T58 T59 T38
+T59	System 1935 1943	database
+T60	Malware 2012 2019	malware
+T61	Malware 2074 2077	its
+*	Coreference T60 T61 T62 T71
+T62	Malware 2159 2166	malware
+T63	System 2186 2199	these systems
+*	Coreference T34 T35 T43
+T64	Person 2457 2463	Miller
+*	Coreference T31 T64 T70 T75
+T65	Malware 2515 2522	Sinowal
+*	Coreference T65 T8
+T66	Device 2632 2640	computer
+T67	Device 2644 2652	computer
+*	Coreference T66 T67
+T38	System 2788 2803	VirusTotal data
+T68	Device 2720 2741	industrial facilities
+T36	Campaign 2898 2902	grim
+T69	System 2955 2972	computer controls
+T70	Person 3026 3032	Miller
+T71	Vulnerability 3044 3052	breaches
+T72	System 3418 3434	facility systems
+*	Coreference T41 T37 T39
+T73	Device 3523 3540	same thumb drives
+T74	Device 3402 3412	USB drives
+*	Coreference T74 T73
+T75	Person 3604 3610	Miller
+T76	Device 3494 3503	computers
+T77	Device 3554 3563	computers
+*	Coreference T76 T77

@@ -1,0 +1,61 @@
+T2	Information 144 157	phone numbers
+T3	Information 134 139	names
+T4	Information 123 132	Addresses
+T25	Person 162 167	staff
+T5	Campaign 189 200	data breach
+T6	Campaign 250 267	major data breach
+T11	Person 230 241	its workers
+T10	Organization 201 214	SPORTS Direct
+T9	Hacker-Group 310 317	hackers
+T8	Information 277 297	personal information
+T29	Hacker-Group 321 335	cyber attacker
+T30	System 353 369	internal systems
+T31	Information 381 388	details
+T32	Information 393 406	phone numbers
+T33	Information 408 413	names
+T34	Information 418 442	home and email addresses
+T36	Organization 450 462	retail giant
+T35	Person 472 485	staff members
+T12	Campaign 560 566	breach
+T13	Person 518 525	workers
+T14	Time 588 597	September
+T15	Campaign 628 634	attack
+T16	Time 635 653	three months later
+T28	Organization 599 612	Sports Direct
+T19	Domain 701 714	internal site
+T18	Information 662 674	phone number
+T26	Organization 691 698	company
+T21	Information 858 878	personal information
+T22	Information 930 938	the data
+T24	Campaign 988 994	breach
+T37	Organization 0 9	News Corp
+T38	Organization 15 43	network of leading companies
+T1	Number 465 471	30,000
+T7	Organization 504 516	The Register
+T17	Organization 956 969	Sports Direct
+T20	Organization 1076 1099	sporting goods retailer
+T39	Person 1548 1552	they
+T40	Organization 1645 1647	We
+T41	Organization 837 839	it
+*	Coreference T3 T33
+*	Coreference T11 T13 T25 T35 T27 T42
+*	Coreference T8 T21 T31 T22
+*	Coreference T12 T5 T24 T6 T15
+*	Coreference T37 T38
+*	Coreference T29 T9
+*	Coreference T36 T10 T28 T26 T17 T20 T45 T40
+*	Coreference T32 T2
+T23	Organization 797 830	Information Commissioner's office
+*	Coreference T41 T23
+T27	Person 998 1003	staff
+T42	Person 1135 1142	workers
+T43	Person 1210 1240	Committee chairman Iain Wright
+T44	Time 1268 1277	last year
+T45	Organization 1288 1301	Sports Direct
+T46	Time 1426 1434	November
+T47	Person 1440 1443	MPs
+T48	Person 1264 1267	MPs
+T49	Organization 1453 1482	Business and Skills Committee
+*	Coreference T39 T47
+T50	Organization 1561 1573	Sport Direct
+T51	Person 1610 1637	spokesman for Sports Direct

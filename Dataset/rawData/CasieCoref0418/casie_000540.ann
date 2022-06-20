@@ -1,0 +1,167 @@
+T30	Device 2975 2991	locked computers
+T29	System 2964 2971	network
+T31	Person 2868 2878	The victim
+T55	Malware 2644 2665	The SamSam ransomware
+T56	Organization 2681 2688	Atlanta
+T58	Attack-Pattern 2715 2734	gets into a network
+T59	Attack-Pattern 2739 2768	spreads to multiple computers
+T60	Attack-Pattern 2776 2791	locking them up
+T8	Organization 0 8	The city
+T7	System 48 63	online services
+T1	Attack-Pattern 93 120	held encrypted data hostage
+T9	Time 19 37	the past two weeks
+T3	Campaign 771 795	“ransomware” cyberattack
+T4	Organization 799 818	the City of Atlanta
+T5	Time 842 851	two weeks
+T14	Money 1092 1099	$51,000
+T11	Time 1068 1078	seven days
+T13	Organization 1059 1067	the city
+T12	Hacker-Group 1030 1043	The criminals
+T17	Organization 1259 1267	the city
+T35	Hacker-Group 3252 3265	The attackers
+T33	Organization 3302 3310	the city
+T39	Campaign 3538 3541	pay
+T41	Organization 3515 3522	Atlanta
+T40	Hacker-Group 3542 3555	the attackers
+T43	Malware 4103 4117	the ransomware
+T44	System 4032 4056	Atlanta’s online systems
+T46	Organization 4195 4203	the city
+T47	Organization 4440 4448	the city
+T21	Hacker-Group 2320 2329	attackers
+T24	Vulnerability 2335 2350	vulnerabilities
+T22	System 2354 2363	a network
+T26	Money 2609 2616	$50,000
+T27	Organization 2569 2596	The health care institution
+T54	Time 2447 2464	Earlier this year
+T53	Hacker-Group 2465 2474	attackers
+T52	Malware 2496 2502	SamSam
+T51	Attack-Pattern 2506 2519	lock up files
+T49	Organization 2523 2548	Hancock Regional Hospital
+T50	Location 2552 2568	Greenfield, Ind.
+T18	Attack-Pattern 2370 2405	use the ransomware to encrypt files
+T19	Hacker-Group 2365 2369	they
+T6	Malware 77 120	ransomware that held encrypted data hostage
+T2	Time 212 220	March 22
+T15	Device 183 196	work computer
+T37	System 269 276	desktop
+T61	File 367 372	files
+T62	System 380 387	desktop
+T63	Software 437 447	extensions
+T64	Person 449 454	Noble
+T65	Person 466 507	city’s chief information security officer
+T66	Vulnerability 522 529	problem
+T67	File 541 548	message
+T68	Person 556 559	she
+T70	Time 601 612	for a while
+T69	Vulnerability 687 704	computer problems
+T71	Organization 675 681	office
+T72	Person 707 712	Noble
+T73	Vulnerability 725 742	computer problems
+T74	Domain 1010 1028	municipal Web site
+T10	Money 1107 1129	cryptocurrency bitcoin
+T75	Purpose 1141 1170	decryption key for their data
+T76	Time 886 902	During that time
+T77	Organization 907 917	metropolis
+T78	Information 943 957	encrypted data
+T79	Device 961 981	employees’ computers
+T80	System 994 1002	services
+T81	Time 1200 1209	last week
+T82	System 1215 1231	several services
+T16	Person 1299 1313	City officials
+T83	Organization 1364 1383	Scientific American
+T84	Vulnerability 1335 1345	the matter
+T85	Organization 1385 1423	The Department of Watershed Management
+T86	Money 1458 1486	online or telephone payments
+T87	Money 1491 1513	water and sewage bills
+T88	Organization 1523 1548	the Department of Finance
+T89	Course-of-Action 1549 1593	issue business licenses through its Web page
+T90	Information 1555 1572	business licenses
+T91	Domain 1585 1593	Web page
+T92	Person 3985 4000	city’s IT staff
+T93	Time 4007 4020	the past week
+T94	Information 4063 4077	backed-up data
+T42	Information 4145 4149	data
+T45	System 4264 4271	systems
+T95	Person 4312 4325	Justin Cappos
+T96	Person 4327 4428	a professor of computer science and engineering at New York University’s Tandon School of Engineering
+T48	System 4504 4511	systems
+T97	Information 4576 4580	data
+T99	Hacker-Group 3573 3589	Ransomware gangs
+T98	Person 3634 3641	victims
+T100	Organization 3683 3690	Atlanta
+T101	Malware 3742 3749	malware
+T102	Hacker-Group 3874 3889	cyber criminals
+T103	System 3835 3843	services
+T104	Attack-Pattern 3916 3943	decrypting the city’s files
+T105	File 3931 3943	city’s files
+T106	Organization 3900 3907	Atlanta
+T107	Person 3945 3953	Williams
+T36	Domain 3329 3333	site
+T38	URL 3434 3462	a link to the bitcoin wallet
+T108	Money 3448 3462	bitcoin wallet
+T109	File 3385 3417	a screen shot of the ransom note
+T28	Organization 2998 3026	city’s technology department
+T110	Organization 3112 3115	FBI
+T111	Organization 3117 3148	Department of Homeland Security
+T112	Campaign 3244 3250	attack
+T113	Course-of-Action 3201 3250	help assess the damage and investigate the attack
+T114	Person 3150 3197	Secret Service and independent forensic experts
+T20	File 2400 2405	files
+T23	Information 2629 2641	patient data
+T25	Person 2799 2812	Jake Williams
+T57	Person 2814 2865	founder of computer security firm Rendition Infosec
+T115	Organization 1599 1622	Atlanta Municipal Court
+T116	Malware 2191 2209	malicious software
+T117	System 2230 2247	computer networks
+T119	Software 2256 2313	software whose security protections have not been updated
+T118	System 2085 2098	airport wi-fi
+T120	Time 2108 2123	Tuesday morning
+T121	Malware 2173 2179	SamSam
+T122	Malware 2129 2139	ransomware
+T123	Organization 2155 2162	Atlanta
+T124	Organization 1763 1767	city
+T125	Course-of-Action 1822 1841	security precaution
+T126	System 1847 1909	Hartsfield–Jackson Atlanta International Airport wi-fi network
+T127	Person 2003 2014	Anne Torres
+T128	Person 1686 1692	person
+T32	Person 154 166	Amanda Noble
+T129	Person 133 153	Atlanta City Auditor
+T130	Person 222 225	she
+T131	Device 2784 2788	them
+T134	Malware 2210 2212	it
+T135	Person 4225 4226	I
+T136	Pronoun 3696 3698	it
+T137	Organization 4290 4294	they
+T138	Organization 4530 4534	they
+T139	Pronoun 3806 3808	it
+T140	Person 646 647	I
+T141	Pronoun 3673 3675	he
+T142	Person 343 346	she
+T146	Pronoun 3769 3773	they
+T147	Organization 4247 4251	them
+T148	Malware 2712 2714	it
+T149	Person 630 631	I
+T150	Person 4120 4122	he
+T151	File 2441 2445	them
+*	Coreference T52 T121 T122 T134 T55 T148
+*	Coreference T37 T62
+*	Coreference T69 T73
+*	Coreference T42 T97
+*	Coreference T45 T48
+*	Coreference T107 T25 T57 T150
+*	Coreference T129 T32 T130 T142 T64 T72 T68
+*	Coreference T149 T140
+*	Coreference T76 T5
+*	Coreference T14 T10
+*	Coreference T4 T13 T17 T56 T41 T106 T123 T100 T124 T33
+*	Coreference T21 T19 T53
+*	Coreference T151 T20
+T132	Device 2759 2768	computers
+*	Coreference T132 T131
+T34	Organization 3027 3057	Atlanta Information Management
+T133	Organization 3059 3062	AIM
+*	Coreference T34 T133
+*	Coreference T40 T35
+*	Coreference T95 T96 T135
+*	Coreference T137 T147 T46
+*	Coreference T138 T47

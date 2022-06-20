@@ -1,0 +1,74 @@
+T40	Organization 988 997	Zimperium
+T42	Vulnerability 1066 1079	"N-day" flaws
+T1	Software 60 76	the Nvidia Video
+T2	Software 84 98	Android driver
+T5	Organization 121 130	Zimperium
+T6	Vulnerability 147 156	the flaws
+T7	Vulnerability 168 198	an exploit acquisition program
+T3	Vulnerability 25 49	security vulnerabilities
+T8	Time 203 210	Tuesday
+T9	Person 212 239	Zimperium zLabs researchers
+T11	Vulnerability 272 290	the security flaws
+T12	Vulnerability 310 324	privilege bugs
+T15	Software 366 384	MSM Thermal driver
+T14	Software 338 361	the NVIDIA Video driver
+T17	Vulnerability 402 415	CVE-2016-2435
+T16	Vulnerability 386 400	The Nvidia bug
+T20	System 425 432	Android
+T21	Device 440 459	the Nexus 9 handset
+T63	Version 433 436	6.0
+T28	Vulnerability 461 472	The problem
+T30	Attack-Pattern 485 515	attackers craft an application
+T31	Attack-Pattern 560 586	force privilege escalation
+T67	Attack-Pattern 519 555	tamper with read/write memory values
+T23	Vulnerability 614 627	CVE-2016-2411
+T22	Vulnerability 588 612	The second security flaw
+T24	Software 638 679	a Qualcomm power management kernel driver
+T26	Software 681 703	the MSM Thermal driver
+T27	System 708 715	Android
+T32	Attack-Pattern 799 848	root access through an internal bug in the driver
+T33	Attack-Pattern 850 881	leading to privilege escalation
+T66	Version 716 725	version 6
+T35	Vulnerability 883 893	These bugs
+T52	Time 1275 1283	February
+T50	Organization 1285 1294	Zimperium
+T51	Vulnerability 1361 1384	known security problems
+T53	Vulnerability 1557 1562	a bug
+T44	Course-of-Action 1202 1207	patch
+T47	Course-of-Action 1247 1257	the update
+T45	Organization 1226 1233	vendors
+T55	Course-of-Action 1587 1592	a fix
+T58	Vulnerability 1613 1629	an N-day exploit
+T57	Attack-Pattern 1676 1707	user systems can be compromised
+T59	Course-of-Action 1714 1731	a security update
+T65	Course-of-Action 1889 1905	security updates
+T61	Vulnerability 1770 1793	patched vulnerabilities
+T62	Vulnerability 1759 1765	N-days
+T38	Course-of-Action 930 960	the most part security updates
+T4	Vulnerability 2045 2058	N-day exploit
+T68	Hacker-Group 774 778	they
+*	Coreference T42 T62
+*	Coreference T40 T50 T5 T29 T34 T46
+*	Coreference T15 T26
+*	Coreference T20 T27
+*	Coreference T58 T4
+*	Coreference T3 T11 T12 T6 T35
+*	Coreference T16 T17 T28
+*	Coreference T22 T23
+T13	Hacker-Group 733 741	attacker
+*	Coreference T13 T68 T18
+T18	Hacker-Group 788 798	themselves
+T19	Vulnerability 1455 1462	exploit
+T25	Vulnerability 1536 1550	these exploits
+*	Coreference T19 T25 T51
+T29	Organization 1795 1804	Zimperium
+T34	Organization 1912 1919	company
+T36	Hacker-Group 485 494	attackers
+*	Coreference T63 T66
+T37	Malware 751 772	malicious application
+T39	Malware 504 515	application
+T41	Vulnerability 822 834	internal bug
+T43	Course-of-Action 1141 1146	patch
+*	Coreference T43 T44 T47
+T46	Organization 1463 1472	purchaser
+*	Coreference T59 T55

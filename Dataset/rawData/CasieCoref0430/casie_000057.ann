@@ -1,0 +1,141 @@
+T23	Money 2391 2405	ransom demands
+T24	Money 2414 2418	$300
+T25	Money 2422 2428	$2,000
+T11	Hacker-Group 1296 1311	These attackers
+T7	Organization 1372 1393	many small businesses
+T3	Attack-Pattern 70 119	locks all files on a targeted computer or network
+T4	Hacker-Group 0 12	Cyberthieves
+T5	Malware 39 62	 the malicious software
+T2	Person 125 135	 the owner
+T33	Person 3494 3498	they
+T32	Person 3481 3488	parents
+T26	Campaign 2771 2789	ransomware attacks
+T27	Person 2741 2745	they
+T29	Person 3405 3409	they
+T30	Person 3390 3399	consumers
+T21	Organization 2365 2381	small businesses
+T9	Money 1426 1430	$300
+T10	Money 1434 1440	$2,000
+T19	Campaign 2008 2019	 the ransom
+T18	Organization 1988 2004	small businesses
+T12	Campaign 1607 1625	ransomware attacks
+T13	Organization 1634 1677	organizations with fewer than 200 employees
+T14	Time 1726 1730	2015
+T16	Campaign 1849 1869	 a ransomware attack
+T15	Organization 1821 1837	small businesses
+T34	Device 88 108	 a targeted computer
+T35	System 112 119	network
+T1	Purpose 136 143	pays up
+T36	Organization 185 198	organizations
+T37	Organization 199 222	 The Catholic Charities
+T38	Location 226 258	Santa Clara County in California
+T39	Person 293 305	 a co-worker
+T40	File 316 345	 a malicious email attachment
+T41	File 352 367	compressed file
+T42	Attack-Pattern 376 434	opened connected her computer with a server in the Ukraine
+T43	Location 422 434	 the Ukraine
+T44	Device 397 405	computer
+T45	Person 442 453	Will Bailey
+T46	Person 455 490	director of IT for the organization
+T47	Attack-Pattern 496 526	downloaded the ransomware code
+T48	File 493 495	It
+T49	Code 506 526	 the ransomware code
+T50	Attack-Pattern 540 567	encrypt files on her device
+T51	File 548 553	files
+T52	Device 561 567	device
+T53	Hacker-Group 576 588	cyberthieves
+T54	Campaign 732 756	breach of an institution
+T55	Organization 913 929	Small businesses
+T56	Malware 973 983	ransomware
+T57	Organization 992 996	they
+T58	Person 1051 1061	Ryan Olson
+T59	Person 1063 1144	director of the Palo Alto Networks Unit 42 cybersecurity threat intelligence team
+T60	Vulnerability 1230 1266	lack the more sophisticated defenses
+T61	Organization 1225 1229	they
+T6	Money 1399 1417	low ransom demands
+T8	Organization 1447 1463	small businesses
+T62	Person 1510 1520	Eric Hodge
+T63	Person 1522 1544	director of consulting
+T65	Person 393 396	her
+T66	Hacker-Group 656 660	they
+T72	Person 557 560	her
+T73	Campaign 2919 2923	them
+T74	Person 368 371	she
+T76	Person 3907 3909	he
+T22	Organization 623 642	large organizations
+T77	Organization 665 686	smaller organizations
+T67	Campaign 865 867	it
+T78	Purpose 891 910	result in a payment
+T68	Vulnerability 1030 1043	vulnerability
+T79	Money 1020 1025	money
+T80	Organization 1207 1223	small businesses
+T69	Organization 1272 1287	larger business
+T81	Number 1935 1943	 the U.S
+T82	Time 1911 1921	six months
+T83	Purpose 2127 2141	pay the ransom
+T84	Person 2070 2077	experts
+T75	Organization 2173 2193	 the small companies
+T85	Person 2271 2276	Hodge
+T86	Hacker-Group 2290 2299	attackers
+T20	Organization 2435 2451	small businesses
+T87	Purpose 2476 2493	pay those amounts
+T88	Malware 2496 2506	Ransomware
+T89	Location 2527 2531	U.S.
+T90	Organization 2532 2559	small to midsize businesses
+T91	Money 2576 2587	$75 billion
+T92	File 2625 2649	 a September 2016 survey
+T93	Organization 2653 2681	data protection vendor Datto
+T94	Number 2691 2701	31 percent
+T95	Person 2704 2735	 the Datto survey’s respondents
+T96	File 2704 2721	 the Datto survey
+T70	Number 2826 2836	63 percent
+T97	Campaign 2841 2855	 these attacks
+T98	Money 2935 2950	$8,500 per hour
+T17	File 2969 3016	Symantec’s 2016 Internet Security Threat Report
+T99	Number 3018 3028	43 percent
+T100	Time 3032 3041	last year
+T101	Email 3044 3059	phishing emails
+T102	Malware 3104 3114	ransomware
+T103	Attack-Pattern 3093 3114	laced with ransomware
+T104	Attack-Pattern 3116 3141	targeted small businesses
+T105	Organization 3125 3141	small businesses
+T106	Organization 3300 3311	IBM X-Force
+T107	Number 3328 3331	600
+T108	Person 3332 3354	business professionals
+T109	Number 3359 3364	1,000
+T110	Person 3365 3374	consumers
+T111	Number 3376 3386	54 percent
+T28	Purpose 3416 3428	pay a ransom
+T64	Information 3440 3461	 their financial data
+T112	Number 3467 3477	55 percent
+T31	Information 3517 3531	digital photos
+T71	Hacker-Group 3547 3561	cybercriminals
+T113	Malware 3594 3604	ransomware
+T114	Organization 3606 3622	small businesses
+T115	Person 3627 3636	consumers
+T116	Person 3738 3763	Palo Alto Networks’ Olson
+T117	Course-of-Action 3785 3833	keeping systems up-to-date with security updates
+T118	Course-of-Action 3839 3905	taking precautions before opening attachments or clicking on links
+T119	Course-of-Action 3921 3948	maintaining offline backups
+T120	Course-of-Action 3952 3992	cloud-based backups outside your network
+T121	File 4016 4033	compromised files
+*	Coreference T23 T6
+*	Coreference T24 T9
+*	Coreference T25 T10
+*	Coreference T4 T53 T66
+*	Coreference T16 T12 T26 T19 T97 T73
+*	Coreference T34 T44
+*	Coreference T7 T55 T18 T21 T15 T8 T77 T80 T13 T75 T20 T90 T105
+*	Coreference T33 T32
+*	Coreference T29 T30 T110 T115
+*	Coreference T40 T41 T48
+*	Coreference T45 T46
+*	Coreference T72 T65 T74 T39
+*	Coreference T67 T54
+*	Coreference T57 T56
+*	Coreference T59 T58
+*	Coreference T69 T22
+*	Coreference T62 T63
+*	Coreference T87 T83 T78
+*	Coreference T27 T95
+*	Coreference T76 T116

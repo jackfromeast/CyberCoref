@@ -1,0 +1,188 @@
+T17	Hacker-Group 492 496	they
+T19	Person 511 517	friend
+T20	Person 521 534	family member
+T22	Person 583 596	their targets
+T46	Organization 2130 2142	DHL branding
+T49	Person 2210 2220	recipients
+T50	Attack-Pattern 2224 2249	download an attached file
+T75	Malware 2265 2298	highly destructive trojan malware
+T64	Campaign 3546 3563	phishing campaign
+T65	Person 3574 3585	Apple users
+T67	Purpose 3613 3636	updating their profiles
+T68	Time 3741 3747	May 25
+T73	Person 3600 3607	victims
+T38	File 1768 1792	fake E-Toll notification
+T39	Purpose 1897 1913	download malware
+T37	Organization 1741 1750	Mailguard
+T55	Organization 1716 1739	Email filtering company
+T42	File 1975 1980	logos
+T40	File 1944 1956	notification
+T43	Organization 1984 2000	Microsoft Office
+T44	Organization 2005 2014	Mailguard
+T51	Campaign 2323 2338	phishing attack
+T52	Purpose 2353 2396	steals Ethereum from users of MyEtherWallet
+T57	Person 2448 2466	Ethereum investors
+T62	Attack-Pattern 2472 2495	logging in to the bogus
+T61	Purpose 2539 2562	steal their credentials
+T54	Software 2404 2417	MyEtherWallet
+T4	Campaign 0 8	Phishing
+T5	Purpose 64 93	sharing sensitive information
+T6	Email 172 189	fraudulent emails
+T58	Campaign 2612 2641	link-baiting phishing attacks
+T59	Campaign 3445 3474	link-baiting phishing attacks
+T60	Person 3492 3498	people
+T63	Purpose 3504 3537	revealing their login information
+T29	Email 1431 1446	Fake eFax email
+T35	URL 1605 1613	The link
+T34	Domain 1622 1637	a phishing page
+T31	Person 1456 1472	email recipients
+T32	Attack-Pattern 1476 1520	telling them they have received ‘a new eFax’
+T33	Attack-Pattern 1543 1565	click on a link button
+T8	Campaign 223 231	Phishing
+T9	Purpose 261 297	gain access to a computer or network
+T11	Hacker-Group 306 310	they
+T10	Purpose 315 330	install malware
+T23	Attack-Pattern 694 698	lure
+T28	Attack-Pattern 641 656	uses trojanized
+T27	Hacker-Group 628 640	Dark Caracal
+T25	Purpose 710 734	clicking malicious links
+T26	Purpose 739 766	downloading Android malware
+T24	Person 699 704	users
+T70	Software 670 683	Facebook apps
+T69	Software 657 665	WhatsApp
+T71	Purpose 793 821	collect vast amounts of data
+T72	Malware 775 781	Pallas
+T53	Campaign 2310 2316	MEWKit
+T14	Person 426 434	familiar
+T15	File 436 449	trusted logos
+T16	Organization 466 486	legitimate companies
+T12	Hacker-Group 376 384	Phishers
+T3	Hacker-Group 28 37	fraudster
+T2	Person 48 58	individual
+T7	Hacker-Group 250 257	scammer
+T1	Information 95 110	account numbers
+T76	Information 112 135	Social Security numbers
+T77	Information 137 154	login credentials
+T78	Information 191 196	texts
+T79	Domain 201 221	counterfeit websites
+T80	Malware 340 350	ransomware
+T81	Device 357 374	victim's computer
+T13	Campaign 619 626	attacks
+T18	Hacker-Group 823 835	Dark Caracal
+T21	Organization 852 863	governments
+T82	Organization 865 887	military organizations
+T83	Organization 889 898	utilities
+T84	Organization 900 922	financial institutions
+T85	Organization 924 947	manufacturing companies
+T86	Organization 952 971	defense contractors
+T87	Malware 977 990	Stealth Mango
+T88	Malware 1005 1012	Tangelo
+T89	System 992 999	Android
+T90	System 1014 1017	iOS
+T91	Organization 1034 1063	Lookout Security Intelligence
+T92	Malware 1069 1091	surveillanceware tools
+T94	Person 1126 1135	diplomats
+T95	Person 1137 1146	activists
+T96	Person 1151 1169	military personnel
+T97	Location 1187 1195	Pakistan
+T99	Location 1210 1214	Iraq
+T100	Location 1216 1221	India
+T101	Location 1230 1233	UAE
+T102	Organization 1248 1264	Lookout Security
+T103	Information 1267 1271	data
+T104	Organization 1277 1328	U.S., Australian, and German officials and military
+T105	Campaign 1355 1363	campaign
+T106	Organization 1391 1424	members in the Pakistani military
+T30	Email 1573 1578	email
+T108	Email 1698 1704	emails
+T36	File 1807 1825	infected .doc file
+T109	File 1855 1859	file
+T110	Organization 1840 1849	Mailguard
+T111	Code 1871 1886	malicious macro
+T112	Device 1921 1938	victim’s computer
+T41	Version 2497 2511	cloned version
+T45	Software 2571 2576	Gmail
+T48	Organization 2668 2681	ComputerWorld
+T56	Email 2724 2729	email
+T74	Device 2751 2765	Google servers
+T113	Person 2801 2810	recipient
+T114	Person 2790 2796	sender
+T115	Software 2815 2820	Gmail
+T116	Email 2826 2831	email
+T117	Person 2852 2862	recipients
+T118	Software 2878 2883	Gmail
+T119	Email 2911 2916	email
+T120	Email 3003 3008	email
+T121	URL 3014 3018	link
+T122	Email 3025 3030	email
+T123	Domain 3054 3072	email-looking page
+T124	Information 3040 3047	message
+T125	Email 3116 3122	Emails
+T126	URL 3138 3142	link
+T127	Person 3184 3202	intended recipient
+T128	URL 3229 3233	link
+T129	Information 3317 3344	login username and password
+T130	Organization 3310 3316	Google
+T131	Email 3276 3281	mails
+T132	Person 3385 3403	intended recipient
+T133	Person 3240 3247	someone
+T136	Person 1364 1366	we
+T137	Organization 1489 1493	they
+T140	File 2045 2047	It
+T142	Campaign 2427 2429	it
+T143	Organization 1530 1534	they
+*	Coreference T65 T24
+*	Coreference T40 T38 T140
+*	Coreference T10 T26 T39 T145
+*	Coreference T5 T63
+*	Coreference T34 T123
+*	Coreference T81 T112 T144
+*	Coreference T4 T51 T58 T64 T8 T59 T105 T13 T147 T53 T152 T142 T162 T163
+*	Coreference T91 T102
+*	Coreference T118 T115 T45
+*	Coreference T122 T120 T30 T119 T125 T131 T116 T56 T108 T29 T139
+*	Coreference T35 T121 T126 T128 T146
+*	Coreference T49 T31 T113 T117 T159 T160 T133 T60
+T66	Information 72 93	sensitive information
+*	Coreference T3 T7 T11 T12 T17 T27 T18
+T138	Malware 323 330	malware
+*	Coreference T138 T80
+T144	Device 278 286	computer
+T145	Purpose 405 409	this
+T141	Malware 759 766	malware
+*	Coreference T141 T72
+T93	Person 1104 1124	government officials
+T98	Location 1197 1208	Afghanistan
+T135	Organization 1484 1488	them
+*	Coreference T104 T135 T137 T143
+T146	URL 1554 1558	link
+T147	Campaign 1639 1643	This
+T107	Campaign 1653 1663	new attack
+*	Coreference T55 T37 T44 T110 T149
+*	Coreference T36 T109 T150
+T148	Code 1887 1891	that
+*	Coreference T148 T111
+T149	Organization 2114 2123	MailGuard
+T150	File 2089 2097	document
+T47	File 2160 2187	fake shipping notifications
+T151	Software 2383 2396	MyEtherWallet
+*	Coreference T151 T54
+T152	Campaign 2339 2343	that
+T153	Domain 2448 2456	Ethereum
+T154	Domain 2360 2368	Ethereum
+*	Coreference T154 T153 T155
+T155	Domain 2519 2526	website
+T156	Software 2684 2701	Confidential Mode
+T134	Person 2944 2947	you
+T157	Software 2968 2985	Confidential Mode
+*	Coreference T156 T157
+T158	Information 3089 3093	that
+*	Coreference T158 T124
+T159	Person 3283 3287	they
+T160	Person 3373 3377	they
+*	Coreference T127 T132
+T139	Email 3434 3436	it
+T161	Person 357 363	victim
+*	Coreference T161 T2 T73
+T162	Campaign 3774 3779	scams
+T163	Campaign 3762 3765	one

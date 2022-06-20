@@ -1,0 +1,130 @@
+T1	Campaign 107 124	sizable data leak
+T4	Campaign 770 776	breach
+T5	System 780 793	their systems
+T6	Organization 737 741	firm
+T9	Information 1422 1439	their credentials
+T10	Campaign 2257 2274	phishing campaign
+T11	Person 2239 2246	someone
+T3	Number 16 27	millions of
+T2	Information 28 67	records containing personal information
+T13	Information 217 224	records
+T14	Number 244 249	53 GB
+T15	Software 250 258	database
+T16	Organization 296 312	Dun & Bradstreet
+T17	Organization 316 337	business service firm
+T18	Software 343 351	database
+T19	Hacker-Group 404 411	hackers
+T20	Person 416 425	marketers
+T21	Information 362 373	information
+T23	Location 489 502	United States
+T22	Information 448 462	corporate data
+T24	Organization 467 477	businesses
+T25	Information 514 534	professional details
+T26	Information 539 558	contact information
+T27	Person 563 570	members
+T28	Organization 593 603	businesses
+T29	Organization 614 630	Dun & Bradstreet
+T30	Email 656 661	email
+T31	Organization 690 694	firm
+T32	Email 799 804	email
+T33	Information 831 842	leaked data
+T34	Number 855 869	“thousands” of
+T35	Organization 870 885	other companies
+T36	Information 900 911	leaked data
+T37	Time 925 939	six months old
+T38	Organization 953 969	Dun & Bradstreet
+T40	Campaign 1188 1193	event
+T41	Person 1292 1301	Troy Hunt
+T7	Domain 1310 1327	Have I Been Pwned
+T42	Domain 1331 1351	data leak alert site
+T43	Person 1366 1370	user
+T44	Information 1384 1405	one of their accounts
+T45	Person 1463 1465	He
+T47	Person 1532 1536	Hunt
+T48	Software 1609 1617	database
+T49	Organization 1566 1579	organizations
+T50	Information 1594 1601	records
+T51	Organization 1628 1667	The United States Department Of Defense
+T52	Number 1669 1676	101,013
+T53	Organization 1681 1713	The United States Postal Service
+T54	Number 1715 1721	88,153
+T55	Organization 1726 1735	AT&T Inc.
+T56	Number 1737 1743	67,382
+T57	Organization 1748 1769	Wal-Mart Stores, Inc.
+T58	Number 1771 1777	55,421
+T59	Organization 1782 1804	CVS Health Corporation
+T60	Number 1806 1812	40,739
+T61	Organization 1817 1842	The Ohio State University
+T62	Number 1844 1850	38,705
+T63	Organization 1855 1869	Citigroup Inc.
+T64	Number 1871 1877	35,292
+T65	Organization 1882 1920	Wells Fargo Bank, National Association
+T66	Number 1922 1928	34,928
+T67	Organization 1933 1960	Kaiser Foundation Hospitals
+T68	Number 1962 1968	34,805
+T69	Organization 1973 2016	International Business Machines Corporation
+T70	Number 2018 2024	33,412
+T71	Person 2092 2096	Hunt
+T72	Person 2128 2130	he
+T73	Software 2160 2168	database
+T74	Hacker-Group 2278 2297	resourceful scammer
+T75	Attack-Pattern 2311 2404	use the information contained in this list (including names, titles, and contact information)
+T76	Campaign 2417 2455	very convincing and effective campaign
+T77	Information 2319 2330	information
+T78	Person 2531 2565	government officials and employees
+T79	Information 2486 2493	records
+T80	Software 2501 2516	leaked database
+T81	Person 2567 2571	Hunt
+T82	Information 2604 2621	personnel records
+T83	Software 2644 2682	database for the Department of Defense
+T84	Person 2691 2698	Soldier
+T85	Person 2745 2762	Chemical Engineer
+T86	Person 2769 2789	Intelligence Analyst
+T87	Person 2817 2821	Hunt
+T88	Organization 2870 2883	U.S. military
+T89	Information 2926 2961	personally identifiable information
+T90	Information 2921 2924	PII
+T91	Information 2967 2976	job title
+T92	Campaign 3027 3050	state-sponsored hacking
+T93	Person 3098 3102	Hunt
+T94	Person 3201 3205	Hunt
+T95	Information 3129 3133	list
+T96	Organization 3150 3163	foreign power
+T97	Organization 3187 3190	U.S
+T98	Information 3232 3236	data
+T100	Organization 3325 3341	Dun & Bradstreet
+T101	Software 3348 3356	database
+T102	Organization 3414 3424	businesses
+T103	Information 3437 3439	it
+T104	Hacker-Group 136 154	potential scammers
+T105	Information 170 181	information
+T106	Information 1103 1124	business contact data
+T107	Information 1264 1268	data
+T108	Software 1282 1290	database
+T8	Software 1510 1518	database
+T46	Information 2900 2904	data
+T109	Number 160 169	plenty of
+T110	Information 436 438	it
+T111	Person 1523 1530	himself
+T112	Information 2365 2370	names
+T113	Information 2372 2378	titles
+T114	Information 2384 2403	contact information
+T116	Hacker-Group 3061 3088	international cyber threats
+T118	Person 2050 2053	you
+T121	Person 2045 2048	you
+*	Coreference T102 T28 T24
+*	Coreference T30 T32
+*	Coreference T16 T38 T29 T100 T17 T6 T31 T49
+*	Coreference T91 T113
+*	Coreference T98 T46 T107 T21 T105 T2 T50 T79 T13 T110 T33 T36 T77
+*	Coreference T101 T73 T108 T8 T48 T15 T80
+T12	Attack-Pattern 202 209	schemes
+*	Coreference T4 T1 T40
+*	Coreference T42 T7
+*	Coreference T9 T44
+*	Coreference T45 T41 T111 T47 T71 T72 T81 T87 T93 T94
+*	Coreference T118 T121
+*	Coreference T89 T90
+T39	Information 2203 2207	list
+*	Coreference T95 T39 T115 T103
+T115	Information 2033 2037	list

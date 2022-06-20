@@ -1,0 +1,88 @@
+T1	Campaign 60 88	the Samsam ransomware attack
+T2	Attack-Pattern 94 122	forced their systems offline
+T4	Organization 0 7	LabCorp
+T7	Organization 653 660	LabCorp
+T9	Campaign 1674 1685	data breach
+T12	Money 2623 2635	$850,000 USD
+T11	Time 817 850	At 6:00 p.m. on Saturday, July 14
+T17	Location 45 53	the U.S.
+T18	Malware 241 256	 the ransomware
+T19	Attack-Pattern 269 336	encrypt thousands of systems and several hundred production servers
+T20	System 290 297	systems
+T21	Device 318 336	production servers
+T22	Organization 374 386	 the LabCorp
+T23	Time 399 405	Monday
+T25	Organization 459 467	 the SEC
+T26	File 440 454	 an 8-K filing
+T27	Campaign 374 395	 the LabCorp incident
+T28	Course-of-Action 484 500	recovery efforts
+T29	Course-of-Action 216 240	detection and mitigation
+T31	Organization 528 532	they
+T32	Number 545 555	90-percent
+T33	Hacker-Group 705 722	 the Samsam group
+T34	Protocol 748 751	RDP
+T35	Attack-Pattern 728 775	brute force against RDP and deployed ransomware
+T38	Device 862 870	computer
+T39	Organization 885 901	 The LabCorp SOC
+T40	Course-of-Action 993 1053	alerting IR teams and severing various links and connections
+T41	Campaign 1155 1166	 the attack
+T42	Number 1234 1239	7,000
+T43	Number 1252 1257	1,900
+T44	System 1240 1247	systems
+T45	Device 1258 1265	servers
+T46	Campaign 1201 1212	 the attack
+T47	Number 1283 1295	 those 1,900
+T48	Device 1296 1303	servers
+T49	Number 1305 1308	350
+T50	Device 1314 1332	production servers
+T51	Course-of-Action 1334 1360	 The analysis and recovery
+T53	Campaign 1431 1442	 the attack
+T54	System 1497 1512	Windows systems
+T55	Attack-Pattern 1445 1473	 a brute forced RDP instance
+T57	Protocol 1692 1700	 the RDP
+T58	Campaign 1714 1726	 this attack
+T60	Organization 1794 1801	LabCorp
+T61	Course-of-Action 1814 1849	implement two-factor authentication
+T62	Organization 1883 1894	the company
+T63	Course-of-Action 1935 1960	two-factor authentication
+T64	Campaign 1996 2007	 the attack
+T65	Person 2009 2020	Salted Hash
+T66	Organization 2040 2047	LabCorp
+T67	Organization 2126 2133	LabCorp
+T68	Organization 2188 2192	they
+T69	Course-of-Action 2272 2300	backups (tested and current)
+T70	Campaign 2345 2358	 the incident
+T71	Hacker-Group 2373 2390	 the Samsam group
+T73	Location 2490 2510	 the City of Atlanta
+T74	Campaign 1615 1626	 the attack
+T3	Campaign 165 179	 a data breach
+T24	Organization 411 423	 the company
+T30	Organization 510 522	 the company
+T8	Time 669 691	at midnight on July 13
+T75	Organization 1092 1104	 the company
+T52	Organization 1394 1406	 the company
+T10	Organization 1630 1642	 the company
+T76	Organization 2094 2098	they
+T14	Hacker-Group 2594 2604	 the group
+T13	Person 2640 2654	 their victims
+T16	Time 2512 2520	In March
+T15	Campaign 2660 2683	paid the ransom demands
+T77	Time 2474 2486	in two weeks
+T78	Campaign 2167 2178	 the attack
+T79	Campaign 434 436	it
+T81	Hacker-Group 2408 2412	they
+T87	Malware 59 81	 the Samsam ransomware
+T6	Campaign 632 649	the Samsam attack
+T5	System 795 815	 the LabCorp network
+T36	Organization 903 928	Security Operation Center
+T37	Campaign 1746 1773	most attacks of this nature
+T56	Software 1541 1582	NetFlow management and traffic monitoring
+T59	Organization 2425 2467	 the Colorado Department of Transportation
+*	Coreference T33 T71 T81 T14
+*	Coreference T34 T57
+*	Coreference T61 T63
+*	Coreference T41 T53 T46 T74 T78 T58 T64 T27 T70 T3 T79 T6
+*	Coreference T22 T4 T10 T75 T52 T30 T62 T24 T31 T7 T60 T66 T67 T76 T68
+*	Coreference T19 T2
+*	Coreference T18 T87
+*	Coreference T39 T36

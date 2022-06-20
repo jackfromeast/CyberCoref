@@ -1,0 +1,133 @@
+T7	Organization 255 275	third-party services
+T8	Information 187 196	passwords
+T9	Information 167 182	email addresses
+T1	Campaign 25 33	breaches
+T2	System 52 59	systems
+T3	System 70 76	iCloud
+T4	Information 81 89	Apple ID
+T48	Organization 44 49	Apple
+T23	Domain 1723 1733	icloud.com
+T30	Domain 1735 1741	me.com
+T24	Hacker-Group 1570 1575	group
+T29	Hacker-Group 1661 1663	it
+T28	Hacker-Group 1588 1590	it
+T25	Information 1644 1655	credentials
+T27	Time 1681 1704	over the past few years
+T46	Domain 1746 1753	mac.com
+T31	Information 1754 1762	accounts
+T32	Software 1768 1784	stolen databases
+T47	Person 1789 1796	members
+T40	Information 2310 2324	their password
+T10	Purpose 608 611	pay
+T11	Organization 599 604	Apple
+T12	Hacker-Group 586 593	hackers
+T13	Money 612 620	$700,000
+T14	Money 624 632	$100,000
+T15	Money 657 667	$1 million
+T43	Time 792 799	April 7
+T44	Device 766 773	devices
+T18	Purpose 869 891	asked for other things
+T20	Hacker-Group 850 855	group
+T21	Hacker-Group 861 863	it
+T19	Organization 897 902	Apple
+T34	Purpose 1870 1895	made their ransom request
+T35	Hacker-Group 1832 1839	hackers
+T36	Campaign 2525 2536	data breach
+T37	Domain 2546 2551	Yahoo
+T39	Information 2578 2586	accounts
+T42	Campaign 2948 2961	data breaches
+T16	Person 95 115	Apple representative
+T5	Hacker-Group 280 285	group
+T6	Hacker-Group 305 325	Turkish Crime Family
+T26	Hacker-Group 294 300	itself
+T38	Information 341 358	login credentials
+T45	Number 373 384	750 million
+T49	Email 385 395	icloud.com
+T50	Email 397 403	me.com
+T51	Email 408 415	mac.com
+T52	Email 416 431	email addresses
+T53	Hacker-Group 441 446	group
+T54	Number 452 473	more than 250 million
+T55	Information 483 494	credentials
+T56	Attack-Pattern 495 528	provide access to iCloud accounts
+T57	Information 513 528	iCloud accounts
+T58	Vulnerability 534 580	don't have two-factor authentication turned on
+T59	Money 677 692	iTunes vouchers
+T17	Purpose 729 773	wiping data from iCloud accounts and devices
+T60	Information 736 740	data
+T61	Information 746 761	iCloud accounts
+T62	Information 784 788	them
+T63	Time 836 844	Thursday
+T64	Hacker-Group 908 912	they
+T65	Course-of-Action 956 1014	monitoring to prevent unauthorized access to user accounts
+T66	Information 1001 1014	user accounts
+T67	Organization 941 943	We
+T68	Course-of-Action 1023 1077	working with law enforcement to identify the criminals
+T69	Organization 1036 1051	law enforcement
+T70	Hacker-Group 1068 1077	criminals
+T71	Person 1093 1113	Apple representative
+T72	Campaign 1154 1161	attacks
+T73	Organization 1163 1165	we
+T74	Person 1181 1186	users
+T75	Course-of-Action 1194 1214	use strong passwords
+T76	Course-of-Action 1216 1257	not use those same passwords across sites
+T77	Course-of-Action 1262 1295	turn on two-factor authentication
+T78	Hacker-Group 1350 1355	group
+T79	Hacker-Group 1412 1417	group
+T80	Time 1457 1470	past few days
+T81	Hacker-Group 1472 1474	it
+T82	Software 1610 1618	database
+T83	Number 1622 1643	more than 500 million
+T22	Domain 1814 1826	black market
+T33	Hacker-Group 1862 1866	they
+T84	Time 1905 1917	few days ago
+T85	Information 1975 1986	credentials
+T86	Hacker-Group 1919 1925	others
+T87	Hacker-Group 1992 1996	them
+T88	Number 2020 2041	more than 750 million
+T89	Hacker-Group 2047 2052	group
+T90	Number 2072 2081	1 million
+T91	Device 2082 2108	high-quality proxy servers
+T92	Information 2135 2146	credentials
+T93	Hacker-Group 2152 2156	them
+T94	Attack-Pattern 2157 2194	access to unprotected iCloud accounts
+T95	Organization 2196 2201	Apple
+T96	Course-of-Action 2211 2247	two-factor authentication for iCloud
+T97	Software 2241 2247	iCloud
+T98	Information 2253 2261	accounts
+T41	Information 2362 2388	accessible iCloud accounts
+T99	Hacker-Group 2405 2425	Turkish Crime Family
+T100	Number 2429 2440	250 million
+T101	Number 2568 2577	1 billion
+T102	Hacker-Group 2597 2601	they
+T103	Information 2614 2632	reused credentials
+T104	Hacker-Group 2737 2757	Turkish Crime Family
+T105	Email 2851 2866	email addresses
+T106	Information 2871 2891	plain text passwords
+T107	Hacker-Group 2980 2992	bogus hacker
+T108	Time 3000 3014	over the years
+T109	Organization 3060 3065	Apple
+T110	Course-of-Action 3079 3121	create a strong password for their account
+T111	Course-of-Action 3126 3184	turn on two-factor authentication or two-step verification
+T112	Person 3040 3045	users
+T117	Hacker-Group 706 710	they
+T118	Person 2902 2904	he
+T123	Person 2638 2639	I
+T130	Hacker-Group 1531 1533	it
+*	Coreference T3 T97
+*	Coreference T23 T49
+*	Coreference T32 T82
+*	Coreference T16 T71
+*	Coreference T52 T9 T105
+*	Coreference T56 T94
+*	Coreference T74 T112
+*	Coreference T96 T111 T77
+*	Coreference T88 T90
+*	Coreference T95 T109 T11 T67 T48 T19
+*	Coreference T73 T69
+*	Coreference T30 T50
+*	Coreference T46 T51
+*	Coreference T33 T35 T24 T28 T5 T26 T99 T6 T53 T12 T64 T21 T117 T20 T70 T78 T79 T81 T130 T29 T87 T89 T93
+*	Coreference T66 T98 T61 T57 T62 T41
+*	Coreference T25 T92 T85 T40
+*	Coreference T55 T38 T8

@@ -1,0 +1,61 @@
+T21	Software 1619 1635	web applications
+T23	Person 1537 1548	researchers
+T17	Organization 1554 1581	Spanish outfit Hack Players
+T18	Organization 1583 1589	Google
+T10	Vulnerability 1792 1800	the flaw
+T22	System 1699 1703	them
+T5	Vulnerability 1861 1878	the vulnerability
+T12	Time 1913 1926	before Monday
+T4	Campaign 125 130	fixed
+T1	Person 95 124	 the Apache Struts developers
+T3	System 162 202	the framework's Jakarta Multipart parser
+T13	Vulnerability 130 158	 a high-impact vulnerability
+T14	Time 88 94	Monday
+T2	Campaign 953 960	upgrade
+T8	System 960 974	 the framework
+T6	Version 978 993	versions 2.3.32
+T7	Version 997 1005	2.5.10.1
+T9	System 915 928	Apache Struts
+T25	Course-of-Action 1956 1963	upgrade
+T24	Course-of-Action 1967 1994	the patched Struts versions
+T26	Attack-Pattern 2089 2122	discard any requests not matching
+T11	Number 1608 1618	35 million
+T15	Code 1135 1160	 the Linux command whoami
+T16	Software 62 83	Java web applications
+T19	Software 383 408	 the Java web application
+T20	Hacker-Group 257 266	attackers
+T27	Attack-Pattern 270 313	execute system commands with the privileges
+T28	Code 452 465	functionality
+T29	Person 839 869	director of Vulnerability Labs
+T30	Person 825 837	Amol Sarwate
+T31	Attack-Pattern 1405 1420	 an IRC bouncer
+T33	Attack-Pattern 1277 1300	stop the Linux firewall
+T34	Attack-Pattern 1310 1336	download an ELF executable
+T35	Device 1355 1366	 the server
+T38	Organization 728 730	we
+T40	Campaign 1118 1122	them
+T41	Software 0 13	Apache Struts
+T42	Software 16 57	 an open-source web development framework
+T43	Vulnerability 203 221	 The vulnerability
+T44	System 469 498	 the Jakarta Multipart parser
+T45	System 637 665	 the Apache Struts framework
+T46	Campaign 737 741	this
+T47	Organization 873 879	Qualys
+T48	Organization 556 562	Qualys
+T49	Organization 897 906	Companies
+T50	Organization 932 937	their
+T51	Campaign 1071 1107	a high number of exploitation events
+T36	Vulnerability 1715 1725	vulnerable
+T37	Campaign 2004 2017	 a workaround
+T39	Campaign 2035 2077	creating a Servlet filter for Content-Type
+T32	Attack-Pattern 1421 1431	 a DoS bot
+*	Coreference T41 T42 T45 T9 T8
+*	Coreference T3 T44
+*	Coreference T30 T29 T38
+*	Coreference T48 T47
+*	Coreference T49 T50
+*	Coreference T51 T40
+*	Coreference T21 T22
+*	Coreference T36 T10 T5 T13 T43 T46
+*	Coreference T6 T24 T7
+*	Coreference T37 T39

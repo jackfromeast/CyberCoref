@@ -1,0 +1,59 @@
+T1	Campaign 1135 1147	was released
+T2	Time 1151 1157	Monday
+T5	Campaign 1094 1099	fixed
+T6	Organization 1069 1093	the iThings manufacturer
+T4	Vulnerability 1100 1115	the abused flaw
+T11	Version 1123 1127	10.3
+T3	System 1119 1122	iOS
+T7	Campaign 99 114	paying a “fine”
+T9	Person 84 93	iOS users
+T10	Attack-Pattern 22 74	Mobile Safari handles pop-up dialogs has been abused
+T8	Person 907 919	 the victims
+T12	Person 406 408	he
+T13	Person 421 423	he
+T14	Domain 655 659	them
+T15	Person 548 551	him
+T16	Purpose 1302 1304	it
+T17	Campaign 161 167	attack
+T18	Vulnerability 2 5	bug
+T19	Person 231 236	users
+T20	Person 260 264	user
+T21	Software 480 492	 the browser
+T22	Software 388 394	Safari
+T23	Software 562 574	 the browser
+T24	Hacker-Group 576 589	 The scammers
+T25	Domain 633 640	domains
+T26	Software 722 735	Mobile Safari
+T27	Code 676 691	JavaScript code
+T28	Vulnerability 710 718	 the bug
+T29	Purpose 750 757	targets
+T30	Campaign 775 801	English-speaking countries
+T31	Campaign 854 865	 The attack
+T32	Software 887 893	Safari
+T33	Hacker-Group 963 972	attackers
+T35	Campaign 1052 1063	 the attack
+T36	System 1212 1215	iOS
+T37	Software 1242 1255	Mobile Safari
+T38	Purpose 1274 1297	find a local URL lookup
+T39	Campaign 1423 1429	attack
+T40	Vulnerability 1440 1443	its
+T41	Software 1483 1504	older versions of iOS
+T42	System 1514 1519	iOS 8
+T43	Software 1672 1679	browser
+T44	Software 1762 1774	 the browser
+T45	Person 1798 1803	Users
+T46	Person 1734 1743	 the user
+T47	Campaign 1879 1902	 this particular attack
+T34	Person 983 988	users
+*	Coreference T18 T17 T31 T35 T39 T47
+*	Coreference T9 T19 T20 T12 T13 T15
+*	Coreference T22 T21 T23 T26 T32 T37 T43 T44
+*	Coreference T25 T14
+*	Coreference T27 T28 T4 T40
+*	Coreference T29 T30
+*	Coreference T24 T33
+*	Coreference T3 T36
+*	Coreference T38 T16
+*	Coreference T41 T42
+*	Coreference T46 T45
+*	Coreference T34 T8

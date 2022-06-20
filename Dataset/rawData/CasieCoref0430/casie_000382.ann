@@ -1,0 +1,81 @@
+T32	Vulnerability 1697 1710	CVE-2016-6483
+T33	Vulnerability 1712 1725	CVE-2016-6195
+T34	Vulnerability 1727 1740	CVE-2016-6635
+T35	Vulnerability 1742 1755	CVE-2015-1431
+T36	Vulnerability 1757 1770	CVE-2015-7808
+T37	Vulnerability 1772 1785	CVE-2014-9574
+T38	Vulnerability 1790 1803	CVE-2013-6129
+T43	Vulnerability 1647 1662	vulnerabilities
+T44	Time 1676 1688	recent years
+T6	Campaign 432 445	data breaches
+T7	Information 472 488	stolen passwords
+T9	Information 397 408	credentials
+T10	Time 315 324	 its 2016
+T8	Organization 367 374	Verizon
+T5	Hacker-Group 68 72	They
+T2	Information 91 99	username
+T4	Software 131 146	online services
+T21	Information 104 125	password combinations
+T23	Information 1242 1262	personal information
+T26	Hacker-Group 1223 1235	 The thieves
+T27	Information 1315 1324	passwords
+T24	Information 1280 1293	user accounts
+T45	Purpose 1383 1404	gain admin privileges
+T12	Information 633 650	login credentials
+T13	Hacker-Group 607 621	cybercriminals
+T30	Information 1453 1464	credentials
+T31	Purpose 1489 1513	post a malicious message
+T29	Hacker-Group 1423 1430	hackers
+T42	Person 1441 1450	moderator
+T15	Information 806 817	credentials
+T16	Hacker-Group 728 735	hackers
+T17	Purpose 752 780	break into multiple accounts
+T41	Person 796 803	someone
+T19	Information 1039 1061	credential information
+T20	Organization 932 948	software vendors
+T3	Hacker-Group 0 7	Hackers
+T25	Campaign 39 58	credential security
+T40	Time 62 66	2016
+T1	Number 79 90	millions of
+T46	Attack-Pattern 73 146	stole millions of username and password combinations from online services
+T47	Organization 172 177	Blogs
+T48	Organization 182 199	discussion forums
+T49	Campaign 253 267	 an old attack
+T50	Hacker-Group 304 311	hackers
+T51	Information 239 250	credentials
+T52	Campaign 228 250	Exploiting credentials
+T54	Number 425 428	63%
+T11	Person 656 661	users
+T55	Information 708 717	passwords
+T56	Information 763 780	multiple accounts
+T14	Time 916 925	Meanwhile
+T57	Course-of-Action 956 1061	provide advanced hashing, salting and other scrambling technologies for protecting credential information
+T58	Hash 973 980	hashing
+T59	Information 1070 1072	it
+T18	Hacker-Group 1096 1105	attackers
+T60	Vulnerability 1160 1173	vulnerability
+T61	Version 1176 1196	 an outdated version
+T62	Software 1199 1222	 the vBulletin software
+T63	Domain 1113 1134	Clash of Kings' forum
+T22	Number 1268 1279	1.6 million
+T64	Hacker-Group 1338 1350	 an attacker
+T65	File 1356 1379	misplaced install files
+T28	Attack-Pattern 1351 1379	used misplaced install files
+T66	Attack-Pattern 1431 1485	stole one moderator's credentials and used the account
+T67	Information 1473 1485	 the account
+T68	Person 1554 1580	 the forum's administrator
+T69	Information 1584 1596	 his account
+T70	Campaign 1620 1637	 a massive breach
+T39	Attack-Pattern 1534 1553	viewing the message
+T53	Organization 360 364	DBIR
+T73	Organization 325 358	Data Breach Investigations Report
+*	Coreference T10 T40
+*	Coreference T3 T5
+*	Coreference T52 T49
+*	Coreference T73 T53
+*	Coreference T9 T12 T15
+*	Coreference T59 T19
+*	Coreference T18 T26
+*	Coreference T69 T67
+*	Coreference T16 T13
+*	Coreference T11 T41

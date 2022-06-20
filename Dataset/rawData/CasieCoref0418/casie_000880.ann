@@ -1,0 +1,33 @@
+T1	Campaign 58 77	ransom was demanded
+T2	System 130 146	computer systems
+T3	Organization 15 24	Officials
+T5	Organization 111 117	county
+T4	Organization 28 42	Licking County
+T6	Device 120 125	phone
+T10	Campaign 306 324	demanded a payment
+T13	Organization 340 350	the county
+T12	System 372 385	their systems
+T11	Malware 296 305	the virus
+T8	Campaign 431 455	money that was requested
+T9	Person 387 396	Officials
+T14	Organization 562 564	it
+*	Coreference T2 T12 T20 T24
+*	Coreference T3 T9 T5 T7 T4 T13 T17
+T7	Organization 217 242	Licking county government
+T16	Malware 150 164	computer virus
+*	Coreference T16 T11 T22 T23
+*	Coreference T10 T8
+T17	Organization 457 467	The county
+T18	Campaign 506 513	problem
+T19	Organization 477 490	IT department
+*	Coreference T19 T14 T21
+T20	System 570 580	the system
+T21	Organization 602 613	technicians
+T15	Campaign 625 627	it
+*	Coreference T18 T15
+T22	Malware 634 639	virus
+T23	Malware 649 659	ransomware
+T24	System 700 708	computer
+T25	Person 729 745	county employees
+T26	Person 771 776	their
+*	Coreference T25 T26

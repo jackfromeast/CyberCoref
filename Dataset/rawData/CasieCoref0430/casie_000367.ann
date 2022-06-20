@@ -1,0 +1,109 @@
+T18	Money 1012 1018	$6,800
+T20	Money 1039 1046	$51,000
+T3	Money 145 157	 the $51,000
+T8	Campaign 270 291	the ransomware attack
+T12	Time 331 359	5 a.m. on Thursday, March 22
+T9	Device 295 309	city computers
+T10	Attack-Pattern 365 405	encrypted some financial and person data
+T25	Device 1200 1214	 the computers
+T24	Money 1179 1189	6 bitcoins
+T23	Device 1167 1175	computer
+T22	Money 1146 1157	.8 bitcoins
+T26	Money 1249 1256	$51,000
+T30	Campaign 2088 2109	pay the ransom demand
+T28	Organization 2069 2076	Atlanta
+T15	Information 842 853	information
+T29	Information 1864 1889	customer or employee data
+T4	Money 158 164	ransom
+T7	Person 0 17	Federal officials
+T32	Organization 19 28	Microsoft
+T33	Organization 33 38	Cisco
+T6	Organization 55 75	 the city of Atlanta
+T5	Campaign 86 97	 the attack
+T34	Person 103 118	Atlanta's mayor
+T2	Organization 131 140	 the city
+T1	Time 172 180	Saturday
+T35	Person 182 199	Atlanta officials
+T36	Person 204 220	federal partners
+T37	Information 380 405	financial and person data
+T38	Person 415 438	Cityofatlanta officials
+T39	Person 441 457	federal partners
+T40	Time 475 491	around the clock
+T41	Vulnerability 503 509	issues
+T13	Organization 565 574	 the City
+T11	Campaign 520 548	 the ransomware cyber attack
+T42	Course-of-Action 467 491	working around the clock
+T43	Organization 596 599	DPW
+T44	Organization 576 587	solid waste
+T45	Organization 635 649	ATLPublicWorks
+T46	Time 668 694	March 24, 2018 On Thursday
+T47	Campaign 695 722	 the official investigation
+T48	Organization 737 740	FBI
+T49	Organization 742 778	U.S. Department of Homeland Security
+T50	Person 780 809	Cisco cybersecurity officials
+T51	Organization 814 823	Microsoft
+T14	Course-of-Action 696 904	the official investigation included “the FBI, U.S. Department of Homeland Security, Cisco cybersecurity officials and Microsoft to determine what information has been accessed and how to resolve the situation
+T52	Person 906 922	 A city employee
+T53	Organization 928 932	WXIA
+T54	Organization 652 666	ATLPublicWorks
+T16	Campaign 948 966	 the ransom demand
+T17	Campaign 982 1008	 a pay-per-computer option
+T19	Purpose 949 1074	the ransom demand, which included a pay-per-computer option of $6,800 or an option to pay $51,000 to unlock the entire system
+T55	System 1056 1074	 the entire system
+T21	Campaign 1096 1114	 the ransom demand
+T57	Purpose 1141 1214	Send .8 bitcoins for each computer or 6 bitcoins for all of the computers
+T58	Money 1274 1283	8 bitcoin
+T59	Domain 1311 1325	 their website
+T60	Hacker-Group 1359 1363	They
+T61	Software 1397 1419	 a decryption software
+T62	File 1446 1466	 the encrypted files
+T63	Time 1489 1495	Friday
+T64	Time 1497 1505	March 23
+T65	Person 1507 1521	city employees
+T66	Person 1554 1558	they
+T67	Person 1591 1595	They
+T68	Device 1620 1636	 their computers
+T69	Vulnerability 1642 1652	 the issue
+T70	Person 1667 1676	Officials
+T71	Campaign 1709 1720	 the attack
+T73	Person 1757 1771	city employees
+T74	Person 1776 1785	customers
+T75	Information 1796 1823	 their personal information
+T27	Person 1907 1920	Mayor Bottoms
+T76	Software 1936 1944	services
+T77	Person 1995 2004	residents
+T78	Software 2015 2019	ones
+T79	Course-of-Action 1749 1823	advised city employees and customers to monitor their personal information
+T80	Person 2039 2052	Mayor Bottoms
+T81	Person 2176 2192	federal partners
+T82	Course-of-Action 2131 2242	looking for guidance from, specifically, our federal partners on how to best navigate the best course of action
+T83	Campaign 2251 2270	 a press conference
+T84	Person 2272 2279	Bottoms
+T85	Person 2373 2376	She
+T86	Campaign 2388 2409	 the press conference
+T87	Person 2418 2429	Richard Cox
+T88	Person 2431 2477	the City of Atlanta's chief operations officer
+T89	Person 2478 2492	 the poor dude
+T90	Person 2520 2533	Atlanta’s COO
+T91	Person 2535 2537	He
+T31	Campaign 2564 2582	 the ransom demand
+T93	Person 2324 2326	we
+T94	Person 2292 2294	we
+T56	Person 1722 1727	Mayor
+T72	Person 1728 1748	Keisha Lance Bottoms
+*	Coreference T28 T6 T2
+*	Coreference T32 T51
+*	Coreference T41 T69
+*	Coreference T45 T54
+*	Coreference T16 T31 T30 T21
+*	Coreference T83 T86
+*	Coreference T66 T65 T67
+*	Coreference T3 T4 T20 T26
+*	Coreference T5 T8 T11 T71
+*	Coreference T39 T36 T7
+*	Coreference T35 T38
+*	Coreference T58 T22
+*	Coreference T56 T72 T27 T80
+*	Coreference T84 T94 T93 T85
+*	Coreference T88 T87
+*	Coreference T89 T90 T91

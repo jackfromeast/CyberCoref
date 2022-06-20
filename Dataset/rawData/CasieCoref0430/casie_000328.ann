@@ -1,0 +1,102 @@
+T2	Organization 106 133	US-based internet companies
+T4	Purpose 402 408	wiring
+T38	Money 414 428	US$100 million
+T39	Hacker-Group 444 451	scammer
+T9	Organization 515 541	an Asia-based manufacturer
+T7	Person 469 488	Evaldas Rimasauskas
+T12	Time 578 599	at least 2013 to 2015
+T15	Person 642 651	employees
+T16	Person 656 662	agents
+T13	Email 602 628	Fraudulent phishing emails
+T17	Organization 666 686	the victim companies
+T20	Information 915 929	email accounts
+T18	Email 836 842	emails
+T37	Organization 881 899	Asian manufacturer
+T36	Person 858 872	 the employees
+T22	Organization 976 984	the firm
+T25	Person 986 997	Rimasauskas
+T26	File 1075 1095	fabricating invoices
+T27	File 1097 1106	contracts
+T28	File 1111 1118	letters
+T32	Organization 1203 1223	the victim companies
+T31	Person 1193 1199	agents
+T30	Person 1178 1188	executives
+T34	Person 1860 1871	individuals
+T35	Email 1879 1892	 their emails
+T3	Person 23 40	 a Lithuanian man
+T1	Campaign 62 92	 an email phishing scam attack
+T41	Information 141 151	identities
+T42	Number 207 215	 the two
+T43	Organization 216 225	companies
+T44	Organization 249 280	tech giants Google and Facebook
+T45	Time 304 312	April 27
+T46	Information 331 364	 the identities of both companies
+T47	Organization 355 364	companies
+T6	Organization 365 379	 The companies
+T5	Information 454 467	bank accounts
+T48	Number 490 492	48
+T8	Organization 563 572	companies
+T10	Number 554 562	 the two
+T11	Money 714 733	multimillion-dollar
+T14	Campaign 734 746	transactions
+T49	Organization 752 771	[the Asian] company
+T50	Organization 773 808	 the US Department of Justice (DOJ)
+T40	Organization 814 822	 The DOJ
+T19	Email 1040 1058	 the forged emails
+T21	Organization 1012 1020	 the DOJ
+T24	Time 1024 1029	March
+T29	Organization 1262 1284	vendor management team
+T52	Person 1323 1338	 a spokesperson
+T53	Organization 1343 1349	Google
+T54	Money 1383 1393	 the funds
+T55	Organization 1439 1447	Facebook
+T56	Number 1458 1469	the bulk of
+T57	Money 1469 1479	 the funds
+T58	Campaign 1493 1506	 the incident
+T59	Organization 1537 1552	law enforcement
+T60	Campaign 1555 1573	 its investigation
+T61	Person 1575 1592	 a representative
+T62	Organization 1598 1606	Facebook
+T63	Organization 1612 1620	 The BBC
+T64	Organization 1643 1649	Google
+T65	Organization 1654 1662	Facebook
+T66	Money 1681 1686	money
+T67	Campaign 1744 1757	 the incident
+T68	Number 1764 1772	 the two
+T69	Organization 1773 1782	companies
+T70	Course-of-Action 1788 1819	advanced cybersecurity measures
+T33	Campaign 1829 1850	 the phishing attacks
+T71	Campaign 1895 1902	attacks
+T72	Course-of-Action 1940 1987	proper verification of dubious payment requests
+T73	Person 2000 2005	staff
+T74	Organization 2010 2021	large firms
+T75	Person 2034 2038	they
+T76	Person 2093 2134	James Maude of cyber-security firm Avecto
+T77	Organization 2108 2134	cyber-security firm Avecto
+T78	Organization 2139 2147	 the BBC
+T79	Person 2235 2239	them
+T80	Person 2154 2160	people
+T81	Person 2191 2194	you
+T82	Person 1227 1229	We
+T83	Campaign 1238 1249	 this fraud
+T84	Person 1398 1400	we
+T86	Information 952 956	they
+T87	Person 1372 1374	We
+T88	Organization 1687 1691	they
+T89	Person 2217 2220	you
+T92	Organization 1721 1725	they
+*	Coreference T7 T25
+*	Coreference T22 T74
+*	Coreference T40 T21 T50
+*	Coreference T53 T64
+*	Coreference T54 T57
+*	Coreference T58 T67
+*	Coreference T55 T65 T62
+*	Coreference T63 T78
+*	Coreference T75 T73
+*	Coreference T79 T80
+*	Coreference T81 T89
+*	Coreference T6 T47 T43
+*	Coreference T20 T86
+*	Coreference T84 T87
+*	Coreference T92 T88

@@ -1,0 +1,122 @@
+T18	Information 1040 1068	personal medical information
+T23	Information 3141 3168	private patient information
+T20	Campaign 1139 1149	the attack
+T8	System 433 443	the system
+T10	Purpose 501 518	asked for Bitcoin
+T11	Hacker-Group 490 500	The hacker
+T2	Campaign 43 57	a cyber attack
+T1	Organization 13 27	Hancock Health
+T5	Time 58 66	Thursday
+T3	Hacker-Group 73 81	a hacker
+T12	Campaign 902 921	a ransomware attack
+T15	System 874 885	the network
+T16	Time 816 832	Friday afternoon
+T13	Hacker-Group 927 944	an unnamed hacker
+T14	Attack-Pattern 950 1002	attempted to shut down (Hancock Health’s) operations
+T22	Organization 2576 2588	the hospital
+T26	Person 33 39	victim
+T4	Money 92 99	Bitcoin
+T25	System 132 163	 the hospital’s computer system
+T6	Organization 0 10	GREENFIELD
+T27	Person 165 174	Employees
+T28	Time 200 214	Thursday night
+T29	System 220 232	 the network
+T30	Person 332 340	Rob Matt
+T31	Person 272 331	senior vice president/chief strategy and innovation officer
+T32	Email 366 376	 a message
+T33	Device 387 414	 a hospital computer screen
+T7	Attack-Pattern 433 488	the system would be held hostage until a ransom is paid
+T9	Information 1119 1149	disclose details of the attack
+T19	Money 1170 1176	ransom
+T34	Person 1320 1322	he
+T35	Campaign 1196 1207	 The attack
+T36	Campaign 1222 1237	digital padlock
+T37	Person 1252 1261	personnel
+T38	System 1280 1318	 the health network’s computer systems
+T39	Campaign 1328 1339	 The attack
+T40	Person 1361 1373	 an employee
+T41	Email 1381 1406	 a malware-infected email
+T42	Campaign 1407 1423	 a common tactic
+T43	System 1437 1453	computer systems
+T44	Person 1455 1457	he
+T45	Campaign 1463 1474	 The attack
+T46	Person 1494 1496	he
+T47	Person 1510 1523	FBI officials
+T48	Attack-Pattern 1542 1572	this method of security breach
+T49	Person 1587 1605	 a 15-year-old kid
+T50	Person 1641 1645	Long
+T51	File 1652 1679	Protecting patients Notices
+T52	Time 1687 1693	Friday
+T53	Person 1882 1889	Doctors
+T54	Person 1894 1900	nurses
+T55	Organization 1710 1735	Hancock Regional Hospital
+T56	Person 1744 1752	visitors
+T57	Person 1793 1810	hospital employee
+T58	System 1826 1840	 a HRH network
+T59	Device 1855 1864	computers
+T60	Organization 1814 1820	office
+T61	Time 1942 1945	now
+T62	Person 1988 1992	Long
+T63	Person 2171 2179	patients
+T64	Vulnerability 2210 2220	 a problem
+T65	Campaign 2229 2240	 the attack
+T66	Person 2276 2280	Long
+T67	Person 2287 2309	Hospital staff members
+T68	Organization 2321 2329	 the FBI
+T69	Organization 2333 2364	 a national IT security company
+T70	Vulnerability 2415 2425	 the issue
+T71	Time 2398 2404	Friday
+T72	Course-of-Action 2408 2425	resolve the issue
+T73	Person 2427 2431	Long
+T74	Organization 2437 2452	law enforcement
+T75	Information 2520 2527	details
+T21	Person 2623 2627	Long
+T76	Person 2637 2647	 his staff
+T77	Person 2660 2670	IT workers
+T78	Time 2707 2723	Thursday evening
+T79	Course-of-Action 2684 2706	identified the problem
+T80	Vulnerability 2694 2706	 the problem
+T81	Person 2729 2730	I
+T82	Person 2759 2766	anybody
+T83	Organization 2775 2784	 the team
+T84	Person 2830 2831	I
+T85	Person 2871 2873	he
+T86	Person 2880 2887	Leaders
+T87	Person 2896 2914	hospital employees
+T88	Number 2931 2936	1,200
+T89	Person 2937 2943	people
+T90	Time 2964 2970	Friday
+T91	Person 3009 3017	patients
+T93	Organization 3060 3083	 the hospital cafeteria
+T94	Person 3093 3097	Long
+T95	Person 3104 3108	Long
+T96	Vulnerability 3283 3292	 an issue
+T97	Person 3321 3323	he
+T98	Person 3295 3297	We
+T99	Vulnerability 3309 3318	questions
+T100	Campaign 2086 2099	 the incident
+T102	Person 2785 2786	I
+T106	Person 1998 2000	he
+T107	Person 3251 3253	he
+T112	Money 511 518	Bitcoin
+T113	Money 521 539	a virtual currency
+T114	Organization 611 634	 The hospital’s IT team
+T115	System 665 677	 the network
+T116	Vulnerability 688 700	 the problem
+T117	Campaign 701 712	 The attack
+T118	Person 834 852	Hancock Health CEO
+T119	Person 853 863	Steve Long
+T120	System 722 760	Hancock Health’s entire health network
+T121	Person 1005 1021	Hospital leaders
+T122	Person 1091 1095	Long
+T17	Person 3022 3027	staff
+T24	Person 3191 3209	hospital officials
+*	Coreference T70 T64 T80
+*	Coreference T31 T30
+*	Coreference T112 T113
+*	Coreference T39 T35 T20 T45 T12 T100 T65
+*	Coreference T117 T2
+*	Coreference T8 T25
+*	Coreference T115 T29 T120 T15
+*	Coreference T43 T38 T58
+*	Coreference T102 T81 T84 T85 T119 T118 T122 T34 T44 T50 T62 T66 T94 T95 T73 T21 T46 T106 T107 T97

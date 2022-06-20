@@ -1,0 +1,70 @@
+T12	Information 396 435	citizen or customer account information
+T10	Attack-Pattern 450 461	compromised
+T18	Campaign 173 185	cyber-attack
+T1	Organization 137 145	The city
+T19	Location 116 134	SPRING HILL, Tenn.
+T4	Purpose 235 253	ransom of $250,000
+T5	Money 245 253	$250,000
+T3	Attack-Pattern 223 227	lock
+T2	System 204 219	computer system
+T1	Organization 137 145	The city
+T6	Campaign 341 347	attack
+T8	Organization 255 266	Spring Hill
+T17	Organization 292 317	local government agencies
+T7	Campaign 554 571	ransomware attack
+T13	Time 572 586	Friday evening
+T11	Organization 540 542	We
+T14	Attack-Pattern 614 633	locking our servers
+T15	Purpose 1298 1312	pay the ransom
+T16	Organization 1282 1284	we
+T20	Campaign 4 22	email-borne attack
+T21	Attack-Pattern 23 89	locked the city’s servers and many of the daily business functions
+T22	Device 41 48	servers
+T23	System 65 89	daily business functions
+T24	Person 91 100	officials
+T25	Organization 108 111	TNS
+T26	Organization 154 160	victim
+T28	Number 271 285	one of several
+T29	Organization 327 333	victim
+T30	Person 353 367	city officials
+T31	Person 372 376	they
+T9	Attack-Pattern 440 446	stolen
+T32	Campaign 463 465	It
+T33	Campaign 635 637	It
+T34	Organization 654 669	our departments
+T35	Time 717 723	Sunday
+T38	System 839 872	manual system of paper and pencil
+T41	Campaign 907 928	those kinds of things
+T42	Organization 951 985	appropriate government authorities
+T43	Campaign 1017 1025	incident
+T44	Time 1049 1058	this week
+T45	Campaign 1096 1104	incident
+T46	Person 1106 1108	He
+T47	Campaign 1128 1132	hack
+T48	Malware 1148 1153	virus
+T50	Attack-Pattern 1200 1242	locking the system using an encryption key
+T51	Information 1228 1242	encryption key
+T52	File 1182 1198	email attachment
+T53	Organization 1245 1247	We
+T54	System 1340 1346	system
+T55	Organization 1314 1316	We
+T56	Time 1373 1383	a few days
+T57	Organization 1422 1424	we
+T58	Money 501 537	online credit or debit card payments
+T59	Device 626 633	servers
+T60	Organization 675 677	we
+T39	Campaign 1073 1086	investigation
+T40	Campaign 1114 1116	it
+T61	System 1212 1218	system
+T62	System 1267 1269	it
+T49	Person 931 934	Lay
+T77	Organization 1370 1372	us
+*	Coreference T54 T61 T62
+*	Coreference T33 T18 T6 T20 T32 T7 T45 T43 T40
+*	Coreference T53 T55 T57 T16 T60 T11 T77
+*	Coreference T1 T26
+*	Coreference T8 T29
+*	Coreference T30 T31
+T27	Person 727 745	City Administrator
+T36	Person 746 756	Victor Lay
+*	Coreference T27 T36 T49 T46

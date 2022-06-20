@@ -1,0 +1,68 @@
+T22	Campaign 1201 1204	had
+T4	Vulnerability 1205 1227	the same vulnerability
+T1	Campaign 1139 1147	saw that
+T3	Domain 1148 1159	all of them
+T5	Hacker-Group 1137 1138	I
+T23	System 1176 1191	the same server
+T19	Vulnerability 1239 1249	 a exploit
+T20	Device 1252 1267	 the web-server
+T18	Hacker-Group 1232 1233	I
+T2	Malware 20 27	malware
+T6	Hacker-Group 32 43	 the hacker
+T7	Vulnerability 59 76	zero day exploits
+T8	Software 78 86	software
+T9	Hacker-Group 108 117	attackers
+T10	Software 129 137	software
+T11	System 142 150	networks
+T12	Domain 165 174	 the site
+T13	Hacker-Group 204 211	hackers
+T14	Hacker-Group 262 299	 a young, ideologically driven hacker
+T15	Hacker-Group 250 259	Kapustkiy
+T16	Hacker-Group 0 9	Kapustkiy
+T21	Domain 328 358	government and corporate sites
+T24	Purpose 372 389	political reasons
+T25	Purpose 436 446	make money
+T26	Vulnerability 478 495	Zero day exploits
+T27	Hacker-Group 531 538	hackers
+T28	Malware 595 602	Malware
+T29	Software 607 615	software
+T30	Money 634 674	tens or hundreds of thousands of dollars
+T31	Domain 677 690	 the Dark Web
+T32	Vulnerability 753 766	Zero day bugs
+T33	Person 811 818	victims
+T34	Hacker-Group 851 858	hackers
+T35	Attack-Pattern 864 891	access to corporate systems
+T36	Vulnerability 820 844	Bugs in Flash or Windows
+T37	Malware 893 900	Malware
+T38	Hacker-Group 1062 1077	Russian hackers
+T39	Malware 1031 1039	Sandworm
+T40	Hacker-Group 175 176	I
+T43	Hacker-Group 241 243	he
+T44	Hacker-Group 361 362	I
+T45	Hacker-Group 153 154	I
+T46	Hacker-Group 1272 1273	I
+T48	Hacker-Group 1094 1095	I
+T49	Hacker-Group 392 394	he
+T50	Hacker-Group 186 187	I
+T17	Domain 221 230	 the same
+T51	Domain 232 237	sites
+T52	Campaign 470 475	hacks
+T53	Vulnerability 616 620	bugs
+T55	Person 697 706	IT leader
+T58	Organization 963 981	 the United States
+T59	Organization 986 992	Israel
+T60	Organization 1003 1007	Iran
+T61	Organization 1088 1092	NATO
+T41	Domain 1125 1132	domains
+T42	Domain 1291 1304	several sites
+*	Coreference T10 T8 T29
+*	Coreference T32 T7 T26
+*	Coreference T37 T28 T2
+*	Coreference T40 T45 T43 T15 T16 T14 T6 T50
+*	Coreference T9 T13 T27 T34
+*	Coreference T12 T17
+*	Coreference T44 T49
+*	Coreference T48 T5 T18 T46
+*	Coreference T3 T41
+*	Coreference T19 T4
+*	Coreference T20 T23

@@ -1,0 +1,94 @@
+T18	Campaign 642 648	attack
+T6	Person 706 714	Tor user
+T8	Domain 732 740	web page
+T9	Domain 796 800	page
+T19	Purpose 764 780	emit ultrasounds
+T20	Purpose 865 885	emit the ultrasounds
+T5	Attack-Pattern 815 837	hidden JavaScript code
+T3	Person 578 587	Tor users
+T21	Information 619 636	few other details
+T2	IP 605 612	real IP
+T10	Person 1100 1110	researcher
+T15	Information 1342 1360	device MAC address
+T16	Information 1327 1336	IMEI code
+T13	Information 1297 1313	telephone number
+T17	Information 1271 1295	geo-location coordinates
+T22	Device 1197 1202	phone
+T14	Information 1315 1325	Android ID
+T12	IP 1254 1269	real IP address
+T24	Person 1085 1094	Mavroudis
+T25	Campaign 5 17	attack model
+T26	Time 51 62	end of 2016
+T27	Organization 68 91	team of six researchers
+T29	Number 76 79	six
+T30	Organization 129 170	Black Hat Europe 2016 security conference
+T31	Time 174 182	November
+T32	Organization 191 224	33rd Chaos Communication Congress
+T33	Time 230 239	last week
+T34	Device 264 266	TV
+T35	Device 270 275	radio
+T36	Code 285 292	ad code
+T37	Device 303 309	mobile
+T38	Device 313 321	computer
+T39	Code 323 325	it
+T40	Device 370 398	microphone of nearby laptops
+T41	Device 400 408	desktops
+T42	Device 410 417	tablets
+T43	Device 421 432	smartphones
+T44	Time 446 455	last week
+T45	Organization 458 491	33rd Chaos Communication Congress
+T46	Person 493 511	Vasilios Mavroudis
+T47	Number 513 516	one
+T48	Person 524 539	six researchers
+T4	Campaign 552 574	deanonymization attack
+T1	Attack-Pattern 593 636	leaks their real IP and a few other details
+T49	Organization 658 671	research team
+T50	Software 854 861	browser
+T11	Protocol 894 909	HTML5 Audio API
+T51	Person 924 933	Mavroudis
+T52	Device 939 951	mobile phone
+T53	Software 965 968	app
+T54	Purpose 988 1029	embedded one of the many advertising SDKs
+T55	Protocol 1013 1029	advertising SDKs
+T56	Organization 1055 1059	uXDT
+T57	Number 997 1012	one of the many
+T58	Campaign 1064 1069	tests
+T7	Number 1127 1134	some of
+T59	Information 1227 1234	details
+T60	Person 1375 1384	Mavroudis
+T61	Attack-Pattern 1413 1434	deliver these attacks
+T62	Person 1446 1474	social-engineering Tor users
+T63	Attack-Pattern 1478 1497	access certain URLs
+T64	Hacker-Group 1560 1569	attackers
+T65	Attack-Pattern 1581 1649	run a malicious Tor exit node and perform a Man-in-the-Middle attack
+T66	Campaign 1643 1649	attack
+T67	Attack-Pattern 1651 1688	forcibly injecting the malicious code
+T68	Information 1754 1762	Tor node
+T69	Attack-Pattern 1774 1787	attack method
+T70	Attack-Pattern 1805 1825	hide the ultrasounds
+T71	File 1869 1890	videos or audio files
+T72	Person 1904 1913	Tor users
+T73	Organization 1936 1939	FBI
+T74	Attack-Pattern 1973 1979	method
+T75	Domain 2052 2063	Tor network
+T76	File 2020 2044	child pornography videos
+T77	Campaign 2096 2113	Operation Playpen
+T78	Vulnerability 2131 2144	Flash exploit
+T80	Organization 107 112	their
+T81	Organization 1703 1707	uXDT
+T82	Campaign 1427 1434	attacks
+T83	URL 1493 1497	URLs
+T85	Course-of-Action 1990 2063	deploy it to track viewers of child pornography videos on the Tor network
+T86	Attack-Pattern 2121 2123	it
+T88	Attack-Pattern 2075 2077	it
+T89	Attack-Pattern 1997 1999	it
+*	Coreference T8 T9
+*	Coreference T32 T45
+*	Coreference T33 T44
+*	Coreference T60 T51 T46 T24 T10
+*	Coreference T56 T81
+*	Coreference T80 T27 T49
+*	Coreference T36 T39
+*	Coreference T18 T4
+*	Coreference T82 T66
+*	Coreference T74 T89 T88 T69 T70 T86

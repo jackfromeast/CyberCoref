@@ -1,0 +1,132 @@
+T26	Campaign 2680 2710	the largest phishing operation
+T29	Software 2729 2744	Blockchain.info
+T30	Software 2746 2787	the biggest Bitcoin wallet service online
+T31	Hacker-Group 2648 2669	the Coinhoarder group
+T27	Campaign 2838 2856	phishing campaigns
+T32	Software 2867 2882	Blockchain.info
+T33	Time 2886 2917	December 2016 and December 2017
+T4	Software 76 90	Google AdWords
+T3	Domain 108 130	Bitcoin phishing sites
+T2	Person 99 104	users
+T28	Money 55 66	$50 million
+T7	Software 686 744	the real Blockchain.info Bitcoin wallet management service
+T6	Hacker-Group 626 632	Crooks
+T8	Hacker-Group 746 767	Coinhoarder operators
+T10	Domain 780 794	phishing pages
+T11	Purpose 817 838	log users credentials
+T12	Purpose 864 896	steal funds from users' accounts
+T14	Attack-Pattern 974 1024	buy legitimate ads via the Google AdWords platform
+T13	Hacker-Group 967 973	crooks
+T15	Domain 1044 1064	their phishing sites
+T18	Hacker-Group 1287 1296	the group
+T19	Person 1323 1328	users
+T20	Domain 1332 1350	its phishing sites
+T21	Hacker-Group 1967 1979	threat actor
+T23	Domain 2006 2020	phishing pages
+T25	Location 2049 2066	African countries
+T24	Person 2041 2048	victims
+T34	Campaign 2 32	Ukrainian cybercrime operation
+T1	Campaign 136 145	operation
+T35	Attack-Pattern 70 104	using Google AdWords to lure users
+T36	Time 177 187	this month
+T37	Organization 193 215	Ukrainian cyber police
+T38	Device 226 233	servers
+T39	Domain 254 268	phishing sites
+T40	Information 280 291	information
+T41	Organization 311 342	Cisco's Talos security division
+T42	Hacker-Group 396 401	group
+T43	Time 426 436	the future
+T44	Time 593 606	February 2017
+T45	Time 617 624	earlier
+T46	Information 491 514	codename of Coinhoarder
+T47	Hacker-Group 443 448	group
+T48	Time 539 544	years
+T49	Domain 652 672	typosquatted domains
+T5	Domain 804 811	domains
+T9	Hacker-Group 846 850	they
+T50	Organization 911 916	Cisco
+T51	Campaign 935 947	malvertising
+T52	Campaign 951 965	spam campaigns
+T53	Software 1001 1024	Google AdWords platform
+T16	URL 1035 1040	links
+T54	Information 1079 1116	Bitcoin-related Google search results
+T55	Organization 1179 1184	Cisco
+T56	Campaign 1123 1128	trick
+T57	Information 1208 1222	DNS query data
+T58	Domain 1236 1242	domain
+T59	Number 1252 1264	over 200,000
+T60	Person 1265 1270	users
+T17	Number 1303 1319	tens of millions
+T61	Person 1375 1380	users
+T62	Domain 1400 1414	the fake sites
+T63	Campaign 1654 1662	campaign
+T64	Time 1684 1698	September 2017
+T65	Time 1702 1715	December 2017
+T66	Hacker-Group 1721 1726	group
+T67	Money 1739 1750	$10 million
+T68	Campaign 1769 1777	campaign
+T69	Time 1790 1799	3.5 weeks
+T70	Hacker-Group 1805 1810	group
+T71	Money 1824 1834	$2 million
+T72	Person 1837 1848	Researchers
+T73	Campaign 1448 1454	thefts
+T74	Domain 1502 1545	the Coinhoarder groups typosquatted domains
+T75	Software 1467 1479	social media
+T76	Organization 1547 1552	Cisco
+T77	Hacker-Group 1562 1567	group
+T78	Money 1580 1591	$50 million
+T79	Time 1616 1632	past three years
+T80	Money 1601 1608	Bitcoin
+T81	Hacker-Group 1869 1875	crooks
+T82	Person 1935 1949	Bitcoin owners
+T83	Location 1953 1959	Africa
+T22	Location 2077 2095	developing nations
+T84	Person 2205 2216	researchers
+T85	File 2227 2233	report
+T86	Time 2244 2253	yesterday
+T87	Organization 2189 2202	digital asset
+T88	Organization 2137 2153	local currencies
+T89	Organization 2102 2109	banking
+T90	Hacker-Group 2270 2279	attackers
+T91	Person 2313 2318	users
+T93	Location 2322 2367	countries whose first language is not English
+T92	Person 2389 2403	easier targets
+T94	Domain 2437 2451	phishing sites
+T95	Organization 2406 2411	Cisco
+T96	Organization 2417 2419	it
+T97	Domain 2528 2544	Highload Systems
+T98	Device 2466 2507	servers of a bulletproof hosting provider
+T99	Location 2519 2526	Ukraine
+T100	Organization 2560 2593	Ukraine's cyber police department
+T101	Device 2619 2626	servers
+T102	Organization 2641 2646	Cisco
+T103	Device 2789 2806	Bleeping Computer
+T104	Organization 2952 2957	Cisco
+T105	Attack-Pattern 2929 2939	new tricks
+T106	File 2968 2984	previous reports
+T107	Hacker-Group 2986 2992	crooks
+T108	Campaign 3111 3128	homograph attacks
+T109	Protocol 3077 3082	HTTPS
+T110	Domain 3053 3067	phishing sites
+T111	Attack-Pattern 3006 3072	using Let's Encrypt certificates to make their phishing sites load
+T112	Information 3012 3038	Let's Encrypt certificates
+T113	Pronoun 370 372	it
+T114	Pronoun 1272 1274	It
+T115	Pronoun 1352 1354	It
+T116	Pronoun 846 850	they
+T117	Pronoun 292 296	they
+T118	Pronoun 2417 2419	it
+*	Coreference T29 T32
+*	Coreference T31 T8
+*	Coreference T4 T53
+*	Coreference T37 T100
+*	Coreference T38 T101
+*	Coreference T49 T74
+*	Coreference T5 T58
+*	Coreference T91 T61 T60 T2 T19
+*	Coreference T65 T64 T44
+*	Coreference T42 T47 T70 T18 T77 T66
+*	Coreference T78 T28 T71 T67
+*	Coreference T72 T84
+*	Coreference T10 T68 T110 T94 T52 T3 T20 T27 T39 T23 T15 T63
+*	Coreference T95 T102 T50 T55 T104 T76

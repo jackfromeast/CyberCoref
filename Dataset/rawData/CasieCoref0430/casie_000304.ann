@@ -1,0 +1,66 @@
+T23	Person 1175 1178	you
+T6	Person 463 475	eager people
+T8	Hacker-Group 400 404	they
+T7	Attack-Pattern 408 454	gaming Facebook's official sponsored ad system
+T2	Attack-Pattern 169 229	hacking into the verified accounts of celebrities and brands
+T1	Hacker-Group 153 163	fraudsters
+T4	Person 252 272	unsuspecting victims
+T21	Person 207 218	celebrities
+T22	Organization 223 229	brands
+T10	Campaign 725 738	phishing scam
+T11	Purpose 755 786	steal your personal information
+T14	Domain 921 934	fake websites
+T12	Hacker-Group 880 901	 these cybercriminals
+T15	Campaign 865 879	phishing scams
+T25	Time 0 9	Last week
+T26	Organization 11 13	we
+T27	Campaign 44 64	cryptocurrency scams
+T28	Domain 79 86	Twitter
+T29	Campaign 122 132	spam posts
+T3	Hacker-Group 291 313	 these crypto-scammers
+T30	Domain 356 378	social media platforms
+T5	Hacker-Group 567 581	Cybercriminals
+T31	Information 791 801	 your name
+T32	Information 803 808	email
+T33	Information 813 832	credit card numbers
+T13	Domain 1003 1019	 a fake Facebook
+T34	Domain 1151 1170	 the news site CNBC
+T35	URL 1253 1262	 the link
+T36	Domain 1299 1310	CNBC domain
+T17	Hacker-Group 1320 1335	 the fraudsters
+T16	Location 1556 1565	Singapore
+T37	Organization 1630 1637	 a firm
+T38	Organization 1645 1667	 the CashlessPay Group
+T39	Money 1599 1613	cryptocurrency
+T40	Money 1692 1694	it
+T41	Organization 1711 1722	CashlessPay
+T42	Domain 1896 1904	Facebook
+T43	Organization 1924 1946	The social media giant
+T44	Organization 2005 2013	Facebook
+T45	Money 2036 2050	cryptocurrency
+T46	Time 2055 2072	earlier this year
+T47	Organization 2122 2148	cryptocurrency advertisers
+T48	Hacker-Group 2219 2227	scammers
+T49	Vulnerability 2255 2269	 this loophole
+T50	Vulnerability 2100 2170	allowing pre-approved cryptocurrency advertisers to post sponsored ads
+T51	Campaign 2279 2291	 their scams
+T18	Domain 1365 1384	 the real CNBC site
+T24	Attack-Pattern 1336 1384	mimicked the look and feel of the real CNBC site
+T53	Attack-Pattern 992 1075	starts with a fake Facebook sponsored ad promoting an easy "wealth building" scheme
+T20	Number 1858 1865	tons of
+T54	Information 195 203	accounts
+T55	Purpose 247 272	lure unsuspecting victims
+T56	Purpose 458 514	fool eager people who are looking to make a quick profit
+T57	System 415 454	Facebook's official sponsored ad system
+T58	Information 760 786	 your personal information
+T59	Attack-Pattern 902 974	created a bunch of fake websites, news articles and ads for that purpose
+T60	Person 1404 1424	 an unsuspecting eye
+T61	Person 1814 1816	we
+T63	Person 1989 1992	you
+T66	Person 1818 1821	You
+T9	Campaign 676 696	their latest schemes
+T19	Campaign 707 711	ploy
+*	Coreference T38 T41 T37 T43
+*	Coreference T8 T3
+*	Coreference T19 T10
+*	Coreference T40 T39

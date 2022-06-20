@@ -1,0 +1,105 @@
+T29	Campaign 565 575	introduced
+T25	Vulnerability 576 595	TLS vulnerabilities
+T26	Vulnerability 604 610	Logjam
+T27	Vulnerability 612 623	weak export
+T28	Vulnerability 628 639	RC4 ciphers
+T23	Organization 516 524	BlueCoat
+T30	Attack-Pattern 644 689	didn't validate digital certificates properly
+T32	Campaign 746 751	found
+T34	Software 728 740	anti-viruses
+T33	Person 691 706	The researchers
+T35	Attack-Pattern 761 786	intercept TLS connections
+T1	Campaign 176 181	found
+T2	Software 34 46	anti-viruses
+T6	Software 0 25	Popular security products
+T3	Software 51 62	middleboxes
+T4	Vulnerability 93 122	poor transport layer security
+T5	Person 159 170	researchers
+T36	Campaign 1476 1480	find
+T38	Vulnerability 1445 1472	Many of the vulnerabilities
+T37	Person 1473 1475	we
+T39	Software 1484 1503	anti-virus products
+T40	Software 1508 1529	corporate middleboxes
+T41	Attack-Pattern 1540 1572	failing to validate certificates
+T7	Attack-Pattern 1577 1603	advertising broken ciphers
+T42	Campaign 2479 2488	disclosed
+T43	Vulnerability 2489 2508	the vulnerabilities
+T45	Software 2512 2533	the security products
+T46	Organization 2537 2544	vendors
+T44	Person 2463 2478	The researchers
+T47	Campaign 2741 2758	required patching
+T48	Vulnerability 2734 2740	Logjam
+T49	Vulnerability 2706 2725	TLS vulnerabilities
+T50	Organization 2687 2700	manufacturers
+T8	Organization 264 270	Google
+T9	Organization 272 279	Mozilla
+T10	Organization 285 295	Cloudflare
+T11	Organization 494 502	WebTitan
+T12	Organization 480 488	Untangle
+T13	Organization 472 478	Sophos
+T14	Organization 461 470	Microsoft
+T15	Organization 452 459	Juniper
+T16	Organization 442 450	Fortinet
+T17	Organization 435 440	Cisco
+T18	Organization 423 433	CheckPoint
+T19	Organization 412 421	Barracuda
+T20	Organization 401 410	Blue Coat
+T21	Organization 396 399	A10
+T22	Version 808 810	10
+T24	Version 815 817	11
+T31	System 822 829	Windows
+T51	Software 793 798	Avast
+T52	Software 965 977	web browsers
+T53	Device 981 1013	devices in organisation networks
+T54	Person 1426 1437	researchers
+T55	Organization 2158 2173	Qualys SSL Labs
+T56	Person 2215 2229	administrators
+T57	Person 2235 2246	researchers
+T58	Organization 2281 2299	anti-virus vendors
+T59	System 2385 2396	file system
+T60	Protocol 2442 2447	HTTPS
+T61	Information 2398 2412	browser memory
+T62	Information 2422 2447	content loaded over HTTPS
+T63	Software 1868 1872	them
+T64	Person 2660 2662	we
+T65	Person 2449 2453	they
+T67	Person 1730 1734	they
+T68	Software 1028 1032	them
+T69	Person 2105 2109	they
+T70	Person 2761 2765	they
+T72	Software 1725 1727	it
+T73	Person 1979 1981	We
+T74	Person 2616 2618	we
+*	Coreference T26 T48
+*	Coreference T30 T41
+*	Coreference T34 T2 T39
+*	Coreference T6 T45 T81 T68 T66 T72
+*	Coreference T3 T40 T71 T63 T99 T100 T102
+*	Coreference T43 T49 T25 T38 T4
+T75	Person 194 205	researchers
+*	Coreference T23 T20
+T76	Protocol 845 848	TLS
+T77	Protocol 576 579	TLS
+T78	Protocol 98 122	transport layer security
+T79	Protocol 124 127	TLS
+*	Coreference T78 T79 T77 T76 T80 T82 T83 T96 T101
+T80	Protocol 886 889	TLS
+T81	Software 911 928	security products
+T82	Protocol 1046 1049	TLS
+T83	Protocol 1159 1162	TLS
+T84	Campaign 1207 1219	interception
+T85	Person 1251 1262	researchers
+T86	Campaign 870 882	Interception
+*	Coreference T86 T84 T92
+T92	Campaign 129 141	interception
+T66	Software 1666 1683	security products
+T95	Person 1771 1782	researchers
+T71	Software 1826 1835	middlebox
+T96	Protocol 1883 1886	TLS
+*	Coreference T73 T69 T5 T75 T33 T85 T54 T37 T67 T95 T57 T65 T44
+T99	Software 2035 2042	proxies
+T100	Software 2116 2135	Testing middleboxes
+T101	Protocol 2313 2316	TLS
+*	Coreference T46 T58 T50
+*	Coreference T74 T64 T70
+T102	Software 303 314	middleboxes

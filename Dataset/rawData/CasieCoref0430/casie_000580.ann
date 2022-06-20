@@ -1,0 +1,114 @@
+T22	File 1582 1595	The decoy PDF
+T19	File 1647 1654	invoice
+T23	Purpose 1694 1712	executing the file
+T27	Person 1677 1688	 the victim
+T2	Campaign 43 59	phishing attacks
+T5	File 72 81	PDF files
+T3	Software 83 98	URL redirection
+T4	Software 104 126	Cloud Storage services
+T6	Purpose 147 164	propagate malware
+T28	Purpose 130 142	infect users
+T29	Campaign 2812 2837	the CloudPhishing fan-out
+T24	Person 2784 2800	the shared users
+T8	File 486 507	these malicious files
+T11	Attack-Pattern 550 589	creating a secondary propagation vector
+T12	Person 434 439	users
+T10	Person 536 548	shared users
+T9	File 518 522	PDFs
+T16	Campaign 1001 1033	The CloudPhishing fan-out effect
+T17	Person 1103 1113	colleagues
+T20	Software 1149 1164	a cloud service
+T15	Attack-Pattern 1069 1097	shares the phishing document
+T18	Person 1046 1054	a victim
+T13	Campaign 616 644	CloudPhishing Fan-out Effect
+T14	Campaign 700 713	CloudPhishing
+T30	Organization 0 29	Netskope Threat Research Labs
+T1	Attack-Pattern 60 81	using decoy PDF files
+T31	Organization 179 192	organizations
+T32	Software 244 266	Cloud Storage services
+T33	Software 271 282	PDF readers
+T34	Course-of-Action 214 231	security policies
+T35	Person 290 295	users
+T36	Software 313 335	 these useful services
+T37	Campaign 336 350	 these attacks
+T38	Software 363 385	 the corporate network
+T39	Device 393 408	users’ machines
+T25	Software 470 484	cloud services
+T7	Domain 649 659	 this blog
+T40	Campaign 802 812	 an attack
+T41	Person 847 858	 the target
+T42	Campaign 873 887	future attacks
+T43	Person 775 777	We
+T44	Campaign 759 773	detected cases
+T45	Person 903 905	we
+T46	Organization 918 931	 the Netskope
+T47	Campaign 988 999	this attack
+T48	File 1075 1097	 the phishing document
+T49	File 2656 2673	 The phishing PDF
+T50	Software 2701 2716	URL redirectors
+T51	Software 2721 2735	cloud services
+T52	Attack-Pattern 2745 2776	 a secondary propagation vector
+T53	Software 2900 2911	PDF readers
+T54	Hacker-Group 2912 2925	 the attacker
+T55	Campaign 2953 2960	attacks
+T56	Hacker-Group 3031 3044	 the attacker
+T57	Domain 3068 3082	phishing pages
+T58	Code 3086 3104	malicious payloads
+T59	Software 3111 3135	URL redirection services
+T60	Software 3140 3162	Cloud Storage services
+T61	Version 2314 2336	 the latest version of
+T62	Software 2337 2361	the Adobe Acrobat Reader
+T63	Person 2363 2365	we
+T64	Person 2376 2381	users
+T65	File 2440 2448	 the PDF
+T66	URL 2462 2479	 an external link
+T67	Person 2481 2483	We
+T68	Person 2496 2501	users
+T69	URL 2552 2561	 the link
+T71	Software 2624 2655	 the PDF reader’s Trust Manager
+T70	Course-of-Action 2571 2655	regularly monitor managed Internet access settings in the PDF reader’s Trust Manager
+T72	Information 2597 2621	Internet access settings
+T73	Software 2103 2128	 the Adobe Acrobat Reader
+T74	Person 2158 2167	 the user
+T75	File 2172 2185	 the document
+T76	URL 2197 2204	 a link
+T77	URL 2230 2233	URL
+T78	Course-of-Action 2129 2167	prompts a security warning to the user
+T79	File 2079 2091	Our analysis
+T80	Domain 2041 2054	 the web page
+T81	File 1799 1813	 The decoy PDF
+T82	Hacker-Group 1860 1873	 The attacker
+T83	URL 1878 1895	 the TinyURL link
+T84	Campaign 1910 1916	tactic
+T85	URL 1924 1942	 the original link
+T86	Domain 1968 1981	 the web page
+T87	Time 1947 1967	the time of analysis
+T88	URL 1825 1842	 the TinyURL link
+T89	URL 1844 1858	http://TinyURL
+T90	Campaign 1784 1798	future attacks
+T91	File 1619 1639	 an email attachment
+T92	Organization 1523 1556	Netskope Active Threat Protection
+T93	Malware 1560 1580	Backdoor.Phishing.FW
+T94	Malware 1452 1464	 This threat
+T95	Campaign 1440 1451	 the attack
+T96	Software 1394 1402	OneDrive
+T97	File 1374 1383	 the file
+T98	Software 1403 1424	 the SaaS application
+T99	File 1307 1322	shared document
+T100	Person 1214 1226	shared users
+T101	URL 2527 2541	 the hyperlink
+T102	Person 661 663	we
+T106	Person 591 593	We
+T105	File 1329 1331	it
+*	Coreference T22 T81
+*	Coreference T62 T73
+*	Coreference T80 T86
+*	Coreference T83 T88 T89
+*	Coreference T37 T2
+*	Coreference T32 T4 T60
+*	Coreference T8 T9
+*	Coreference T102 T106 T43
+*	Coreference T95 T47 T16 T13 T29
+*	Coreference T99 T105
+*	Coreference T101 T69
+*	Coreference T54 T56

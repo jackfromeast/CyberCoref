@@ -1,0 +1,86 @@
+T8	Money 236 240	$300
+T6	Person 226 231	users
+T2	Organization 100 118	Major corporations
+T1	Campaign 163 181	ransomware attacks
+T4	Attack-Pattern 187 204	encrypt computers
+T15	Organization 1466 1475	Microsoft
+T16	Time 1499 1508	this year
+T18	System 1426 1454	the Windows operating system
+T17	Vulnerability 1407 1422	a vulnerability
+T23	Software 1772 1785	all platforms
+T21	System 1791 1801	Windows XP
+T22	System 1805 1815	Windows 10
+T13	Campaign 1112 1142	the WannaCry ransomware attack
+T29	Malware 1044 1052	NotPetya
+T30	Time 1153 1156	May
+T31	Device 1191 1200	computers
+T32	Attack-Pattern 1204 1283	taking advantage of a National Security Agency hacking tool called Eternal Blue
+T10	Campaign 824 850	the same ransomware attack
+T11	System 814 820	victim
+T28	Time 792 799	Tuesday
+T25	System 678 699	a health care network
+T24	System 646 676	Heritage Valley Health Systems
+T9	Malware 4 14	ransomware
+T34	Vulnerability 30 50	leaked vulnerability
+T35	Organization 74 98	National Security Agency
+T5	Purpose 265 279	restore access
+T7	Location 304 310	Europe
+T36	Location 313 331	the United Kingdom
+T37	Location 333 340	Ukraine
+T38	Location 342 347	Spain
+T39	Location 352 358	France
+T40	Malware 414 419	virus
+T41	Location 438 455	the United States
+T42	Time 457 462	Today
+T43	Person 464 494	one of the largest drug makers
+T44	Location 502 505	U.S
+T45	Person 508 513	Merck
+T46	Malware 546 553	malware
+T47	Organization 562 598	the multinational law firm DLA Piper
+T48	Location 641 644	U.S
+T49	Malware 1013 1020	malware
+T50	Course-of-Action 1076 1099	multiple security firms
+T51	Campaign 941 945	hack
+T52	Organization 983 1007	Pittsburgh Action News 4
+T53	Malware 1271 1283	Eternal Blue
+T54	Course-of-Action 1226 1250	National Security Agency
+T55	Person 1518 1531	Windows users
+T12	Malware 1375 1387	Eternal Blue
+T33	Course-of-Action 1532 1552	installed the update
+T56	Malware 1580 1588	WannaCry
+T57	Malware 1646 1656	ransomware
+T58	Organization 1859 1868	Microsoft
+T59	Person 1885 1890	users
+T60	Malware 1968 1975	malware
+T61	File 2000 2017	email attachments
+T62	Organization 2019 2028	Microsoft
+T63	Location 2121 2128	Ukraine
+T64	Campaign 2187 2206	ransomware outbreak
+T66	Person 2250 2261	Costin Raiu
+T67	Malware 2109 2119	ransomware
+T68	Software 2049 2067	antivirus software
+T69	Course-of-Action 2082 2119	detecting and removing the ransomware
+T70	Number 368 373	a few
+T71	Number 623 625	20
+T72	Organization 714 747	hospitals in Western Pennsylvania
+T27	Time 1310 1320	last April
+T74	Code 1291 1298	exploit
+T75	Course-of-Action 1476 1490	issued a patch
+T14	Course-of-Action 1732 1815	security update previously provided for all platforms from Windows XP to Windows 10
+T19	Malware 1703 1706	one
+T76	System 805 807	it
+*	Coreference T35 T54
+*	Coreference T44 T48
+*	Coreference T53 T12
+*	Coreference T58 T62 T15
+T3	Domain 246 261	bitcoin address
+*	Coreference T43 T45
+*	Coreference T24 T25 T76 T11
+*	Coreference T10 T1 T51
+*	Coreference T49 T29
+T26	Hacker-Group 1324 1352	a hacker or group of hackers
+T65	Hacker-Group 1360 1373	ShadowBrokers
+*	Coreference T26 T65
+T73	Person 2263 2320	the director of a global research team with Kaspersky Lab
+*	Coreference T66 T73
+*	Coreference T37 T63

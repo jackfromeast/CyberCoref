@@ -1,0 +1,87 @@
+T28	Information 2182 2186	data
+T29	Attack-Pattern 2241 2271	installing malware on a router
+T32	Information 2325 2329	data
+T26	Campaign 1992 2012	 a data exfiltration
+T10	Information 409 413	data
+T11	Device 461 470	 a router
+T36	Person 374 381	 a user
+T8	Device 384 392	computer
+T2	Person 71 78	hackers
+T3	Information 91 95	data
+T4	Person 100 109	 a victim
+T5	Device 112 120	computer
+T7	Device 154 167	 their router
+T30	Attack-Pattern 121 141	using the LED lights
+T22	Campaign 1480 1492	exfiltration
+T23	Information 1496 1500	data
+T12	Campaign 936 947	exfiltrated
+T13	Information 919 928	 the data
+T14	Malware 893 905	 the malware
+T6	Information 950 966	 the binary form
+T24	Information 1644 1648	data
+T37	Device 1614 1623	 a router
+T16	Information 1204 1215	information
+T17	Device 1249 1260	 the router
+T20	Attack-Pattern 1147 1175	capture the blinking pattern
+T19	Information 1381 1390	 the data
+T21	Attack-Pattern 1352 1380	captures the blinking lights
+T34	Person 2427 2436	attackers
+T35	Information 2459 2468	 the data
+T38	Hacker-Group 169 173	They
+T39	Device 1072 1074	it
+T40	Device 1036 1038	it
+T43	Campaign 1873 1875	it
+T45	Device 1082 1084	it
+T46	Person 2188 2192	they
+T1	Person 0 11	Researchers
+T9	Person 155 160	their
+T15	Malware 189 199	 a malware
+T18	Malware 206 210	xLED
+T25	Campaign 484 498	 the operation
+T27	Campaign 365 413	hack into a user’s computer and steal vital data
+T31	Malware 533 540	malware
+T33	Malware 547 551	xLED
+T47	Device 586 595	 a router
+T48	Person 612 621	 a victim
+T49	Device 631 642	 the router
+T50	Hacker-Group 687 698	 the hacker
+T51	Malware 709 721	 the malware
+T52	Vulnerability 657 672	a security flaw
+T41	Device 808 819	 the router
+T53	Vulnerability 768 777	 a flawed
+T42	Campaign 833 835	it
+T54	Hacker-Group 846 859	 the attacker
+T55	Device 876 887	 the device
+T56	Device 1017 1027	 the light
+T57	Device 1261 1272	 The device
+T58	Device 1106 1131	 A video recording device
+T59	Device 1314 1328	 a CCTV camera
+T60	Device 1293 1311	 a recording drone
+T61	Person 1430 1446	 The researchers
+T62	Device 1549 1558	 a router
+T44	Device 1528 1532	LEDs
+T63	Device 1607 1611	LEDs
+T64	Person 1697 1713	 the researchers
+T65	Campaign 1805 1816	 the method
+T66	Device 1827 1842	Optical Sensors
+T67	Campaign 1721 1751	various video-recording setups
+T68	Device 1929 1944	 the LED lights
+T69	Device 2061 2076	Optical Sensors
+T70	Person 2086 2102	 the researchers
+T71	Campaign 2117 2128	 the method
+T72	Campaign 2220 2231	 the method
+T73	Malware 2358 2370	 the malware
+T74	Device 2384 2395	 the router
+T75	Device 2511 2534	video recording devices
+*	Coreference T2 T34 T38 T50 T54
+*	Coreference T20 T21
+*	Coreference T4 T9 T36 T48
+*	Coreference T15 T18 T31 T33 T51 T14 T73
+*	Coreference T3 T10 T13 T16 T19 T23 T24 T28 T35
+*	Coreference T27 T25 T42
+*	Coreference T52 T53 T29
+*	Coreference T56 T40 T39 T45
+*	Coreference T58 T57 T60 T59 T62 T41 T55 T37 T7 T17 T11 T8 T5 T47 T49 T74 T75
+*	Coreference T61 T1 T64 T70 T46
+*	Coreference T44 T63 T68
+*	Coreference T65 T66 T67 T43 T69 T71 T72

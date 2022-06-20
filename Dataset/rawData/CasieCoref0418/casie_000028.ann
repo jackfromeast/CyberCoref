@@ -1,0 +1,146 @@
+T32	Person 1499 1504	Kenin
+T34	Device 1447 1454	devices
+T31	Vulnerability 1489 1493	flaw
+T4	Person 0 11	Simon Kenin
+T3	Person 97 99	he
+T5	Device 150 164	Netgear router
+T1	Vulnerability 114 142	authentication vulnerability
+T65	Organization 38 47	Trustwave
+T64	Person 13 34	a security researcher
+T8	Person 232 234	he
+T7	Vulnerability 286 299	serious issue
+T11	Campaign 962 982	accidental discovery
+T15	Vulnerability 995 1008	CVE-2017-5521
+T20	Person 1070 1071	I
+T9	Vulnerability 1063 1068	issue
+T10	Attack-Pattern 1087 1157	very first call to passwordrecovered.cgi will give out the credentials
+T22	Vulnerability 1213 1220	new bug
+T23	Person 1226 1227	I
+T29	Person 1376 1381	Kenin
+T28	Person 1261 1262	I
+T24	Vulnerability 1275 1279	bugs
+T27	Device 1293 1307	NETGEAR models
+T25	Vulnerability 1325 1335	second bug
+T30	Device 1367 1373	models
+T12	Person 1309 1310	I
+T14	Device 2024 2031	devices
+T43	Campaign 2717 2726	discovery
+T44	Person 2685 2696	Simon Kenin
+T45	Organization 2643 2652	Trustwave
+T18	Campaign 2772 2781	discovery
+T46	Organization 2728 2735	Netgear
+T54	Organization 3001 3010	Trustwave
+T52	Vulnerability 2947 2962	(CVE-2017-5521)
+T51	Vulnerability 2933 2946	vulnerability
+T50	Organization 2909 2916	NETGEAR
+T56	Organization 3091 3098	NETGEAR
+T57	Device 3177 3193	affected routers
+T38	Device 2232 2254	the vulnerable devices
+T36	Organization 2153 2160	Netgear
+T35	Time 2142 2151	June 2016
+T17	Course-of-Action 2196 2209	offered a fix
+T41	Device 2346 2366	the unpatched models
+T42	Organization 2319 2323	they
+T40	Organization 2297 2304	Netgear
+T59	Device 3289 3305	affected devices
+T21	Course-of-Action 3226 3240	Firmware fixes
+T61	Vulnerability 3355 3386	password recovery vulnerability
+T62	Course-of-Action 3319 3339	the firmware release
+T66	Course-of-Action 3202 3224	available firmware fix
+T48	Course-of-Action 2813 2818	fixes
+T49	Device 2858 2865	devices
+T2	Software 255 268	web interface
+T6	Person 301 306	Kenin
+T67	File 320 330	unauth.cgi
+T68	Code 332 336	code
+T69	Code 365 387	two different exploits
+T71	Time 391 395	2014
+T72	Vulnerability 400 441	unauthenticated password disclosure flaws
+T73	Version 447 460	short version
+T74	Time 468 472	2014
+T75	Vulnerability 473 486	vulnerability
+T76	Hacker-Group 498 506	attacker
+T77	File 515 525	unauth.cgi
+T78	Attack-Pattern 529 592	issue a number that can be passed over to passwordrecovered.cgi
+T79	File 571 592	passwordrecovered.cgi
+T80	Purpose 605 624	receive credentials
+T81	Person 626 631	Kenin
+T82	Code 645 653	exploits
+T83	Attack-Pattern 670 686	get his password
+T84	Time 788 801	following day
+T85	Person 802 804	he
+T86	Device 829 844	Netgear devices
+T87	Purpose 934 955	obtaining credentials
+T88	Information 944 955	credentials
+T19	File 1106 1127	passwordrecovered.cgi
+T26	Number 1347 1366	much wider range of
+T70	Number 1434 1446	ten thousand
+T13	Person 1521 1523	he
+T33	Number 1533 1544	real number
+T89	Number 1561 1582	hundreds of thousands
+T90	Number 1592 1600	millions
+T91	Vulnerability 1607 1620	vulnerability
+T92	Hacker-Group 1638 1653	remote attacker
+T93	Vulnerability 1657 1707	remote administration is set to be Internet facing
+T94	Person 1718 1758	anyone with physical access to a network
+T95	Device 1766 1783	vulnerable router
+T96	Vulnerability 1796 1798	it
+T97	Device 1878 1898	vulnerable equipment
+T98	Person 1901 1906	Kenin
+T100	Person 1914 1919	Kenin
+T101	Organization 1935 1942	Netgear
+T102	Vulnerability 1960 1968	problems
+T103	Vulnerability 1974 1976	it
+T104	Number 2021 2023	18
+T16	Device 2097 2117	additional 25 models
+T105	Campaign 1999 2013	first advisory
+T106	Campaign 2068 2083	second advisory
+T107	Time 2121 2137	few months later
+T108	Campaign 2182 2190	advisory
+T37	Number 2216 2231	small subset of
+T109	Course-of-Action 2262 2272	workaround
+T110	Device 2277 2283	others
+T39	Course-of-Action 2338 2366	fix all the unpatched models
+T111	Organization 2393 2401	Bugcrowd
+T112	Course-of-Action 2405 2449	improve their vulnerability handling process
+T113	Organization 2368 2372	They
+T114	Organization 2451 2458	Netgear
+T115	Domain 2465 2476	status page
+T116	Vulnerability 2484 2497	vulnerability
+T117	Organization 2499 2503	they
+T118	Course-of-Action 2463 2497	a status page on the vulnerability
+T119	Course-of-Action 2509 2529	provide a workaround
+T120	Software 2563 2571	firmware
+T121	Course-of-Action 2736 2754	issued a statement
+T122	Person 2802 2807	users
+T53	Person 3042 3059	security analysts
+T123	Vulnerability 3076 3089	vulnerability
+T47	Course-of-Action 3103 3159	published a knowledge base article from our support page
+T124	File 3115 3137	knowledge base article
+T125	Domain 3143 3159	our support page
+T55	Number 3273 3284	majority of
+T58	URL 3398 3402	link
+T63	Device 3411 3416	model
+T126	URL 3431 3452	firmware release page
+T133	Person 883 885	he
+T134	Person 925 928	him
+T138	Organization 3012 3014	We
+T144	Organization 2577 2579	It
+*	Coreference T45 T54 T65
+*	Coreference T50 T56 T138
+*	Coreference T21 T66 T62
+*	Coreference T71 T74
+*	Coreference T76 T92
+*	Coreference T79 T19
+*	Coreference T80 T87
+*	Coreference T43 T18 T11
+*	Coreference T109 T119
+*	Coreference T20 T12 T28 T23
+*	Coreference T4 T32 T6 T81 T44 T98 T13 T8 T29 T100 T64 T53 T3 T85 T133 T134
+*	Coreference T103 T102 T96 T93 T15 T52 T9 T22 T31 T91 T116 T61 T123 T51
+*	Coreference T1 T7
+*	Coreference T67 T77
+*	Coreference T82 T68
+*	Coreference T36 T101 T40 T42 T113 T114 T117 T144
+*	Coreference T97 T95
+*	Coreference T57 T41 T59

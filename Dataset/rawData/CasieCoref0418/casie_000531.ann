@@ -1,0 +1,70 @@
+T17	Organization 2559 2561	it
+T4	Organization 2509 2514	Adobe
+T8	Software 2590 2603	the extension
+T1	Vulnerability 2615 2633	the security holes
+T21	Person 1969 1971	he
+T6	Code 2000 2008	its code
+T7	Software 1951 1964	the extension
+T9	Software 2024 2026	it
+T23	Attack-Pattern 2045 2079	cross-site scripting (XSS) attacks
+T10	Person 2532 2539	Ormandy
+T13	Organization 0 5	Adobe
+T14	Time 149 153	2017
+T15	Time 177 195	earlier this month
+T16	Organization 222 227	Adobe
+T19	Course-of-Action 252 386	Patch Tuesday of using its regular security updates to force Adobe Acrobat DC users into silently installing a Google Chrome extension
+T20	Purpose 350 386	installing a Google Chrome extension
+T24	Person 313 335	Adobe Acrobat DC users
+T18	Person 423 429	people
+T25	Software 456 465	extension
+T26	Person 814 819	Users
+T27	Organization 866 871	Adobe
+T28	Software 896 918	Windows-only extension
+T29	Domain 948 964	Chrome web store
+T30	Organization 971 981	DARE Adobe
+T31	Software 995 1004	extension
+T32	Course-of-Action 1035 1074	part of a ‘security’ update for Acrobat
+T33	Person 1088 1089	I
+T34	Software 1103 1112	extension
+T35	Software 1122 1129	browser
+T36	Software 1157 1164	Acrobat
+T37	System 1170 1195	ALL systems on my network
+T38	Course-of-Action 1148 1195	removing Acrobat from ALL systems on my network
+T39	Course-of-Action 1200 1234	blocking any further installations
+T40	Software 1263 1270	Acrobat
+T41	Person 1527 1532	users
+T42	Software 1546 1576	Adobe Acrobat Chrome extension
+T43	Information 1584 1612	anonymous product usage data
+T44	Organization 1642 1649	company
+T45	URL 1695 1720	the URLs visited by users
+T46	Malware 1810 1817	spyware
+T47	Person 1835 1875	Controversial Google security researcher
+T5	Vulnerability 2031 2079	vulnerable to cross-site scripting (XSS) attacks
+T22	Software 2291 2310	additional software
+T48	Device 2319 2327	computer
+T49	Vulnerability 2353 2377	potential attack surface
+T50	Software 2394 2402	software
+T51	Software 2479 2487	software
+T2	Software 2122 2138	Chrome web store
+T52	Person 1131 1132	I
+T53	Person 1459 1460	I
+T54	Person 140 142	we
+T56	Person 619 622	you
+T57	Person 2283 2286	you
+T60	Software 1664 1666	it
+T62	Person 540 544	they
+T64	Person 1314 1315	I
+T66	Person 2329 2332	you
+T68	Person 1412 1413	I
+T69	Person 565 569	them
+*	Coreference T29 T2
+*	Coreference T34 T7 T42 T8 T60 T9
+*	Coreference T36 T40
+*	Coreference T4 T16 T17 T30 T27 T13 T11 T44
+*	Coreference T62 T69 T18
+*	Coreference T28 T31
+*	Coreference T52 T33
+T11	Organization 1622 1627	Adobe
+T12	Person 1876 1889	Tavis Ormandy
+*	Coreference T47 T12 T21
+T55	Course-of-Action 2570 2633	issued an update to the extension that fixes the security holes

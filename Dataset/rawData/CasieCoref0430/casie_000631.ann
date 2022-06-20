@@ -1,0 +1,69 @@
+T11	Organization 454 477	Department of Education
+T15	Organization 418 426	colleges
+T14	Organization 406 413	schools
+T12	Person 380 390	tricksters
+T21	File 617 631	guidance forms
+T38	Person 599 603	they
+T24	Person 566 589	financial administrator
+T23	Person 550 562	head teacher
+T13	Person 479 494	 The fraudsters
+T36	Organization 531 547	 the institution
+T33	Person 1857 1870	an individual
+T32	Organization 1835 1851	 an organisation
+T30	Organization 1877 1894	some corporations
+T40	Hacker-Group 1924 1936	blackmailers
+T37	Campaign 1981 2000	a ransomware attack
+T2	Person 289 294	users
+T3	Hacker-Group 266 280	 the attackers
+T4	Purpose 300 344	clicking on the malware-infected attachments
+T35	Campaign 225 236	the attacks
+T19	Money 888 894	£8,000
+T26	Campaign 1584 1602	ransomware attacks
+T28	Hacker-Group 1559 1575	online criminals
+T5	Organization 145 171	educational establishments
+T7	Hacker-Group 115 125	fraudsters
+T8	Purpose 177 212	opening dangerous email attachments
+T25	Campaign 63 81	ransomware attacks
+T10	Organization 12 20	colleges
+T9	Organization 0 7	Schools
+T17	Organization 1074 1092	telecoms providers
+T27	Person 1121 1138	 the head teacher
+T42	Organization 1166 1202	 the Department of Work and Pensions
+T43	Campaign 99 108	incidents
+T6	File 195 212	email attachments
+T1	File 311 344	 the malware-infected attachments
+T44	Organization 349 361	Action Fraud
+T16	Email 502 512	 the email
+T45	Information 516 528	phone number
+T22	Person 634 649	 the individual
+T46	Information 676 697	sensitive information
+T47	Email 698 709	 The emails
+T48	File 724 736	 a .ZIP file
+T49	File 767 796	 a boobytrapped Word document
+T50	File 800 817	Excel spreadsheet
+T51	Campaign 833 858	 the ransomware infection
+T52	File 873 880	reports
+T18	Device 946 969	 the victims’ computers
+T20	Money 991 996	money
+T29	Organization 1006 1013	schools
+T53	Number 1002 1005	few
+T54	Campaign 1043 1048	scams
+T41	System 1146 1162	internet systems
+T55	Campaign 1231 1242	 the attack
+T56	Email 1350 1367	suspicious emails
+T57	Money 1799 1804	money
+T31	Attack-Pattern 1943 1967	having their data locked
+T34	Information 1949 1960	 their data
+T39	File 1760 1777	email attachments
+T58	File 938 943	files
+T59	Money 1539 1544	money
+T60	Person 663 667	they
+*	Coreference T11 T42
+*	Coreference T15 T10
+*	Coreference T23 T27
+*	Coreference T7 T2 T13 T38 T60
+*	Coreference T33 T22
+*	Coreference T37 T35 T55 T25 T51 T26
+*	Coreference T9 T14 T29
+*	Coreference T1 T39 T6
+*	Coreference T16 T47

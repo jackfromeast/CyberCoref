@@ -1,0 +1,116 @@
+T3	Campaign 40 55	have discovered
+T1	Person 0 20	Security researchers
+T2	Organization 24 39	Qualys Security
+T4	Vulnerability 58 68	Linux flaw
+T5	Campaign 80 92	be exploited
+T30	Attack-Pattern 96 116	gain root privileges
+T7	System 161 184	SELinux-enabled systems
+T6	Attack-Pattern 121 157	overwrite any file on the filesystem
+T11	Campaign 239 249	resides in
+T12	Software 254 258	Sudo
+T28	Software 261 282	get_process_ttyname()
+T13	System 287 292	Linux
+T9	Campaign 210 220	tracked as
+T8	Vulnerability 195 208	severity flaw
+T10	Vulnerability 221 237	CVE-2017-1000367
+T31	Campaign 421 433	be exploited
+T32	Vulnerability 400 414	The Linux flaw
+T33	Attack-Pattern 455 485	privileges to execute commands
+T34	Attack-Pattern 505 557	allow attackers to escalate their privileges to root
+T35	Software 490 494	Sudo
+T14	Campaign 974 984	discovered
+T18	Person 971 973	We
+T15	Vulnerability 985 1000	a vulnerability
+T16	Software 1004 1008	Sudo
+T17	System 1037 1042	Linux
+T29	Software 1011 1032	get_process_ttyname()
+T19	Campaign 3271 3278	affects
+T23	Version 3318 3324	1.8.20
+T22	Version 3288 3309	versions from 1.8.6p7
+T21	Software 3283 3287	Sudo
+T20	Vulnerability 3260 3270	Linux flaw
+T26	Campaign 3344 3349	fixes
+T25	Version 3335 3343	1.8.20p1
+T24	Software 3330 3334	Sudo
+T27	Vulnerability 3354 3363	the issue
+T36	Path 2772 2780	/dev/shm
+T37	Path 2643 2647	/dev
+T38	Path 2398 2402	/dev
+T39	Path 2507 2511	/dev
+T40	Path 2449 2457	/dev/pts
+T41	Path 2113 2117	/dev
+T42	Path 1559 1572	src/selinux.c
+T43	Vulnerability 1273 1289	CVE-2017-1000367
+T44	File 2758 2762	/dev
+T45	File 2963 2971	/dev/shm
+T46	System 2211 2218	SELinux
+T47	Path 2581 2589	/dev/pts
+T48	URL 2680 2693	symbolic link
+T49	Attack-Pattern 3062 3089	overwrite an arbitrary file
+T50	Vulnerability 3093 3141	writing to the standard output or standard error
+T51	Path 3241 3253	/etc/sudoers
+T52	Path 3221 3232	/etc/shadow
+T53	Path 2127 2135	/dev/shm
+T54	Person 1433 1435	he
+T56	URL 3022 3024	it
+T57	Vulnerability 3350 3352	it
+T59	Person 1407 1410	him
+T60	Software 2469 2471	it
+T61	Software 1627 1629	it
+*	Coreference T6 T49
+*	Coreference T28 T29 T63 T70
+*	Coreference T4 T20 T32 T8 T10 T43 T15 T79 T85 T57 T27
+*	Coreference T17 T46 T13 T94
+*	Coreference T23 T25
+*	Coreference T35 T16 T12 T21 T24 T62
+*	Coreference T37 T40 T45 T38 T44 T36 T47 T39 T83
+T62	Software 319 323	Sudo
+T63	Software 563 600	Sudo’s get_process_ttyname() function
+T64	File 681 697	field 7 (tty_nr)
+T65	File 705 711	fields
+*	Coreference T64 T65
+T66	System 817 840	SELinux-enabled systems
+*	Coreference T7 T66 T72
+T67	Person 801 813	Sudoer users
+T68	Person 856 861	their
+T69	Person 918 923	their
+*	Coreference T68 T69
+T70	Software 1049 1057	function
+T71	Organization 1303 1320	security advisory
+*	Coreference T18 T71
+T72	System 1329 1351	SELinux-enabled system
+T73	Person 1358 1362	user
+T74	Person 1366 1372	Sudoer
+*	Coreference T73 T74 T59 T54 T75
+T75	Person 1607 1611	his 
+T76	Software 1611 1615	tty 
+*	Coreference T76 T61
+T77	Device 1792 1805	device number
+T78	Device 1846 1854	terminal
+T79	Vulnerability 1674 1678	This
+*	Coreference T77 T78
+T80	Person 1957 1961	user
+T81	Person 1697 1701	user
+*	Coreference T81 T80 T82 T84
+T82	Person 1764 1768	user
+T83	Path 1947 1951	/dev
+T84	Person 2176 2180	user
+T85	Vulnerability 2321 2324	bug
+T86	Device 2348 2361	device number
+T87	Device 2430 2438	terminal
+*	Coreference T86 T87
+T88	Software 2407 2411	sudo
+*	Coreference T88 T60 T58 T89 T90 T96
+T58	Software 2564 2568	sudo
+T89	Software 2601 2605	sudo
+T90	Software 2790 2794	Sudo
+T91	URL 2943 2956	symbolic link
+*	Coreference T91 T56
+T55	File 3200 3212	trusted file
+*	Coreference T55 T52 T51
+T92	Software 1759 1763	Sudo
+T93	Software 1907 1911	Sudo
+*	Coreference T92 T93 T95
+T94	System 2289 2296	SELinux
+T95	Software 2258 2262	sudo
+T96	Software 3038 3042	sudo

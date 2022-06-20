@@ -1,0 +1,90 @@
+T19	Organization 780 816	Association of British Travel Agents
+T13	Hacker-Group 848 871	an external infiltrator
+T15	Information 889 896	details
+T17	Person 907 918	individuals
+T8	Campaign 535 548	data breaches
+T9	Time 491 495	2017
+T10	Organization 577 617	the Association of British Travel Agents
+T27	Information 1371 1375	data
+T28	Person 1393 1402	customers
+T29	Person 1426 1438	ABTA Members
+T21	Person 1406 1418	ABTA Members
+T23	Campaign 1249 1268	unauthorised access
+T36	Information 1762 1773	information
+T37	Person 1786 1795	customers
+T39	Domain 1737 1744	website
+T38	Information 1707 1720	documentation
+T32	Vulnerability 1568 1581	vulnerability
+T33	Device 1589 1599	web server
+T22	Organization 1517 1521	ABTA
+T25	Organization 1489 1491	it
+T34	Organization 1479 1483	ABTA
+T1	Campaign 307 323	Data compromised
+T2	Information 341 346	names
+T7	Information 432 445	phone numbers
+T6	Information 412 426	ethnicity data
+T5	Information 389 410	personal bank details
+T4	Information 360 378	physical addresses
+T3	Information 348 354	emails
+T11	Campaign 670 683	data breaches
+T12	Time 684 693	this year
+T16	Organization 0 5	Yahoo
+T30	Organization 7 26	Adult Friend Finder
+T40	Organization 28 36	LinkedIn
+T41	Organization 38 44	Tumblr
+T42	Organization 49 61	Daily Motion
+T43	Time 95 99	2016
+T44	Campaign 120 125	hacks
+T45	Organization 150 159	companies
+T46	Organization 180 185	firms
+T47	Organization 213 222	companies
+T48	Organization 227 240	public bodies
+T49	Location 241 257	around the world
+T50	Hacker-Group 288 295	hackers
+T51	Campaign 455 460	hacks
+T52	Organization 637 641	ABTA
+T53	Campaign 741 746	hacks
+T14	Domain 752 760	abta.com
+T20	Device 761 771	web server
+T54	Organization 818 822	ABTA
+T18	Number 900 906	43,000
+T55	Number 927 932	1,000
+T56	File 951 956	files
+T57	Information 976 1005	personal identity information
+T58	Person 1009 1018	customers
+T59	Organization 1022 1026	ABTA
+T60	Time 1050 1065	11 January 2017
+T61	Number 1080 1083	650
+T62	Information 1101 1130	personal identity information
+T63	Person 1134 1146	ABTA members
+T64	Organization 1155 1186	UK’s largest travel association
+T65	Person 1188 1202	ABTA’s members
+T66	Person 1211 1224	travel agents
+T67	Person 1229 1243	tour operators
+T68	Vulnerability 1302 1322	system vulnerability
+T24	System 1528 1538	IT systems
+T26	Organization 1612 1616	ABTA
+T31	Person 1627 1652	third-party web developer
+T69	Organization 1657 1672	hosting company
+T35	Person 1822 1832	ABTA’s CEO
+T70	Person 1834 1845	Mark Tanzer
+T71	Course-of-Action 1902 1948	warn its members and customers of ABTA members
+T72	Person 1911 1918	members
+T73	Person 1923 1948	customers of ABTA members
+T74	Organization 1992 1997	group
+T75	Organization 2019 2039	relevant authorities
+T76	Organization 2055 2085	Information Commissioner (ICO)
+T77	Organization 2094 2100	police
+T78	Organization 1880 1882	it
+*	Coreference T19 T10 T52 T54
+*	Coreference T37 T58 T28 T73
+*	Coreference T32 T68
+*	Coreference T33 T20
+*	Coreference T45 T47
+*	Coreference T53 T51 T1 T8 T11
+*	Coreference T57 T62
+*	Coreference T65 T21 T63 T29 T72
+T79	Information 936 941	these
+*	Coreference T79 T15
+*	Coreference T26 T22 T34 T25
+*	Coreference T35 T70 T78

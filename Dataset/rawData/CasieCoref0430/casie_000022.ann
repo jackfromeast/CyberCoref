@@ -1,0 +1,82 @@
+T3	Person 2 17	Boeing employee
+T2	Information 38 63	 the personal information
+T5	Person 77 91	his co-workers
+T6	Time 92 106	late last year
+T9	Campaign 647 658	 the breach
+T10	Time 671 684	Nov. 21, 2016
+T11	Campaign 1365 1376	 the breach
+T12	Time 1414 1420	Jan. 9
+T8	Campaign 323 332	 a breach
+T7	Information 336 371	personally identifiable information
+T1	Number 67 73	36,000
+T4	Person 112 114	he
+T13	File 122 144	 a company spreadsheet
+T14	Location 171 189	Forty-seven states
+T15	Location 201 211	Washington
+T16	Organization 257 266	companies
+T17	Organization 270 289	government entities
+T18	Organization 395 404	companies
+T19	Organization 427 457	 the Attorney General’s office
+T20	Campaign 460 473	 the incident
+T21	Number 492 495	500
+T22	Person 498 520	 the state’s residents
+T23	Campaign 524 538	 this instance
+T24	Organization 539 545	Boeing
+T25	Information 552 568	 the information
+T26	Person 578 598	Washington residents
+T27	Number 572 577	7,288
+T28	Person 690 708	 a Boeing employee
+T29	File 751 765	 a spreadsheet
+T30	Person 769 779	his spouse
+T31	Person 148 169	his non-Boeing spouse
+T32	Organization 798 810	 the company
+T33	File 811 820	 The file
+T34	Information 831 877	sensitive, personally identifiable information
+T35	Number 881 887	36,000
+T36	Person 890 928	 the aircraft manufacturer’s employees
+T37	File 929 938	 The file
+T38	Information 947 957	 the names
+T39	Information 959 974	places of birth
+T40	Information 976 982	BEMSID
+T41	Information 987 1006	employee ID numbers
+T42	Information 1012 1039	accounting department codes
+T43	File 1040 1056	 The spreadsheet
+T44	Information 1071 1094	Social security numbers
+T45	Information 1099 1113	dates of birth
+T46	Organization 1156 1161	Olson
+T47	Software 1163 1183	Spreadsheet software
+T48	Software 1193 1210	Microsoft’s Excel
+T49	Time 1392 1409	earlier this year
+T50	Organization 1425 1437	 the company
+T51	Person 1461 1470	employees
+T52	Time 1477 1490	a month later
+T53	Time 1492 1498	Feb. 8
+T54	Organization 1527 1533	Boeing
+T55	Organization 1541 1543	it
+T56	File 1554 1579	copies of the spreadsheet
+T57	Device 1628 1659	 the Boeing employee’s computer
+T58	Course-of-Action 1584 1676	carried out a “forensic examination” of both the Boeing employee’s computer and his spouse’s
+T59	Person 1664 1674	his spouse
+T60	File 1687 1689	it
+T61	Person 1708 1721	 the employee
+T62	Person 1726 1736	his spouse
+T63	Organization 1755 1757	us
+T64	Person 1763 1767	they
+T65	Person 1822 1827	Olson
+T66	Organization 1850 1856	Boeing
+T67	Organization 1857 1895	 the second largest defense contractor
+T68	Organization 1915 1930	Lockheed Martin
+T69	Information 1955 1975	 its employee’s data
+T75	Organization 1937 1939	it
+*	Coreference T9 T11 T8 T20 T23
+*	Coreference T34 T7 T25 T2
+*	Coreference T1 T35
+*	Coreference T33 T37
+*	Coreference T39 T45
+*	Coreference T46 T65 T63
+*	Coreference T61 T3 T28 T51 T4
+*	Coreference T31 T30 T62 T59
+*	Coreference T43 T56 T60 T13 T29
+*	Coreference T32 T24 T50
+*	Coreference T18 T16
+*	Coreference T55 T54 T66 T67 T75

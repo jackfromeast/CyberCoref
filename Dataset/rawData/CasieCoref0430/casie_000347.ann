@@ -1,0 +1,201 @@
+T33	Person 157 165	patients
+T41	Organization 12 31	 a medical practice
+T40	Person 0 9	Officials
+T39	Location 35 47	Blue Springs
+T7	Organization 634 654	the medical practice
+T8	Campaign 1492 1513	the ransomware attack
+T9	Time 1517 1523	May 12
+T10	Organization 1438 1462	Blue Springs Family Care
+T5	Organization 1465 1480	computer vendor
+T25	Information 2336 2348	patient data
+T3	Hacker-Group 406 419	The attackers
+T34	Device 518 531	 the computer
+T35	System 554 565	 the system
+T37	Malware 348 358	Ransomware
+T38	Malware 372 379	malware
+T36	Attack-Pattern 385 404	locks up a computer
+T21	Campaign 2191 2210	a ransomware attack
+T23	Time 2280 2286	July 9
+T22	Attack-Pattern 2223 2276	cut off access to its electronic health record system
+T20	Location 2157 2180	Harrisonville, Missouri
+T18	Organization 2125 2153	Cass Regional Medical Center
+T19	Time 2113 2123	Last month
+T14	Campaign 1954 1972	ransomware attacks
+T13	Time 1976 1980	2017
+T15	Organization 1990 2014	the health care industry
+T16	Campaign 2070 2088	ransomware attacks
+T17	System 2016 2034	Financial services
+T32	Information 331 346	patient records
+T29	System 283 302	its computer system
+T26	Attack-Pattern 223 279	had installed malware and ransomware encryption programs
+T28	Hacker-Group 215 222	hackers
+T27	Time 206 209	May
+T30	Organization 167 191	Blue Springs Family Care
+T11	Campaign 1864 1882	ransomware attacks
+T12	Organization 1805 1827	Health care businesses
+T4	Person 52 56	they
+T42	Course-of-Action 61 107	taking steps to strengthen privacy protections
+T1	Campaign 113 133	 a ransomware attack
+T43	Number 150 156	45,000
+T44	Malware 237 244	malware
+T45	Code 249 279	ransomware encryption programs
+T31	Hacker-Group 311 315	them
+T46	Device 393 404	 a computer
+T47	Money 436 445	 a ransom
+T2	Money 456 463	Bitcoin
+T48	Purpose 430 565	demand a ransom, often in Bitcoin or other cryptocurrencies, as a condition of unlocking the computer and allowing access to the system
+T49	Person 567 583	Melanie Peterson
+T50	Person 585 627	Blue Springs Family Care’s privacy officer
+T6	Money 666 675	 a ransom
+T51	Device 722 730	computer
+T52	Person 754 762	patients
+T53	Organization 764 788	Blue Springs Family Care
+T54	Information 813 834	patients’ information
+T55	Hacker-Group 852 876	unauthorized individuals
+T56	Course-of-Action 897 959	taken steps to strengthen its defenses against similar attacks
+T57	Campaign 944 959	similar attacks
+T58	Person 975 983	Peterson
+T59	Organization 988 1016	 the family medical practice
+T60	System 1040 1060	 its computer system
+T61	Course-of-Action 1033 1060	rebuilt its computer system
+T62	Course-of-Action 1078 1147	make sure that no traces of any kind of virus were left in the system
+T63	Information 1096 1102	traces
+T64	Malware 1106 1123	any kind of virus
+T65	System 1136 1147	 the system
+T66	Number 1149 1160	 The number
+T67	Person 1164 1181	affected patients
+T68	Organization 1212 1233	 the medical practice
+T69	Information 1254 1269	medical records
+T70	Time 1281 1289	10 years
+T71	Person 1291 1299	Peterson
+T72	Organization 1309 1352	 the FBI and Blue Springs Police Department
+T73	Campaign 1369 1380	 the attack
+T74	Hacker-Group 1389 1401	 the hackers
+T75	Person 1428 1431	she
+T76	Person 1542 1550	patients
+T77	Organization 1552 1576	Blue Springs Family Care
+T78	Organization 1590 1612	 a forensic IT company
+T79	Organization 1582 1584	it
+T80	System 1631 1652	 the affected systems
+T81	Software 1668 1676	software
+T82	Course-of-Action 1585 1744	hired a forensic IT company to help quarantine the affected systems and to install software to monitor whether any unauthorized person was accessing the system
+T83	Person 1700 1719	unauthorized person
+T84	System 1733 1744	 the system
+T85	Campaign 1745 1756	 The attack
+T86	Organization 1760 1784	Blue Springs Family Care
+T87	Organization 1897 1903	Beazly
+T88	Organization 1904 1938	 a cybersecurity insurance company
+T89	Number 1940 1950	45 percent
+T90	Number 2056 2066	12 percent
+T91	System 2240 2276	 its electronic health record system
+T92	Person 2288 2306	Hospital officials
+T24	Organization 2363 2376	Cass Regional
+T93	Organization 2405 2438	Missouri health care institutions
+T94	Time 2450 2470	 the last few months
+T95	Campaign 2474 2489	cyber-attackers
+T96	Organization 2491 2497	Others
+T97	Organization 2506 2546	Children’s Mercy Hospital in Kansas City
+T98	Organization 2548 2570	Barnes Jewish Hospital
+T99	Location 2574 2583	St. Louis
+T100	Location 2535 2541	Kansas
+T102	Organization 2603 2618	Peters Hospital
+T103	Location 2622 2624	St
+T104	Organization 2626 2632	Peters
+T105	Organization 2637 2671	John J. Pershing VA Medical Center
+T106	Organization 2699 2748	 the Cerebral Palsy Research Foundation of Kansas
+T107	Organization 2750 2805	the Kansas Department for Aging and Disability Services
+T108	Organization 2807 2836	Atchison Hospital Association
+T109	Location 2692 2698	Kansas
+T110	Organization 2840 2867	 a private medical practice
+T111	Location 2871 2880	McPherson
+T112	Time 2923 2928	March
+T113	Campaign 2904 2916	cyberattacks
+T114	Information 2959 2986	 a health or medical record
+T115	Number 2996 3004	a lot of
+T116	Information 3005 3016	information
+T117	File 3057 3066	documents
+T118	Person 3091 3105	Madeline Allen
+T119	Person 3106 3119	 an assistant
+T120	Person 3125 3182	president in the cybertech practice at Lockton Companies,
+T121	Person 3182 3219	 a Kansas City-based insurance broker
+T122	Information 3236 3256	 your medical record
+T123	Information 3279 3303	 your health information
+T124	Information 3327 3334	address
+T125	Information 3335 3363	 your social security number
+T126	Information 3364 3384	 your date of birth,
+T127	Person 3395 3404	 a driver
+T128	Information 3407 3421	license number
+T129	Organization 3137 3182	 the cybertech practice at Lockton Companies,
+T130	Attack-Pattern 3424 3474	All of those things can be used to impersonate you
+T131	Money 3525 3532	 a loan
+T132	Information 3624 3643	 your health record
+T133	Person 3646 3651	Allen
+T134	Information 3681 3694	health record
+T135	Person 3698 3705	someone
+T136	Information 3719 3739	valuable information
+T138	Hacker-Group 3759 3763	they
+T137	Hacker-Group 3742 3755	 the bad guys
+T139	Attack-Pattern 3778 3803	monetize that information
+T140	Information 3792 3803	information
+T141	Organization 3810 3834	health care institutions
+T142	Person 3836 3841	Allen
+T143	Organization 3887 3891	they
+T144	Person 3927 3930	she
+T145	Person 4005 4009	they
+T146	Hacker-Group 4029 4041	cyberattacks
+T147	Person 4055 4071	 their employees
+T148	Course-of-Action 4048 4071	educate their employees
+T150	Person 4078 4082	them
+T149	Campaign 4151 4163	 the attacks
+T151	Person 4191 4194	she
+T152	Hacker-Group 4093 4099	people
+T153	Attack-Pattern 4220 4327	click on a link thinking it’s legitimate or respond to an email that looks legitimate when in fact it’s not
+T154	Email 4274 4283	 an email
+T155	URL 4228 4235	 a link
+T156	Person 4357 4366	employees
+T157	Person 4371 4376	staff
+T158	Organization 4410 4432	health care facilities
+T159	Course-of-Action 4339 4376	 the education of employees and staff
+T160	Email 741 750	 a letter
+T161	Email 882 884	it
+T162	Organization 890 892	it
+T163	Time 960 973	in the future
+T164	Email 1527 1538	 its letter
+T167	Pronoun 3662 3665	you
+T168	Pronoun 3598 3601	you
+T170	Pronoun 4332 4333	I
+T171	Pronoun 3927 3930	she
+T172	Pronoun 4078 4082	them
+T173	Pronoun 4191 4194	she
+T174	Pronoun 3471 3474	you
+T175	Pronoun 2934 2937	you
+T177	Pronoun 3887 3891	they
+T180	Pronoun 3484 3486	it
+T181	Pronoun 4005 4009	they
+T166	Number 1198 1200	it
+T101	Organization 2585 2601	Barnes-Jewish St
+*	Coreference T18 T105 T24
+*	Coreference T19 T94
+*	Coreference T34 T51 T46
+*	Coreference T47 T6 T2
+*	Coreference T60 T80 T65
+*	Coreference T76 T67
+*	Coreference T41 T7 T68 T110 T59
+*	Coreference T89 T90
+*	Coreference T102 T98 T101
+*	Coreference T100 T109
+*	Coreference T85 T113 T14 T149 T146 T11 T21 T95 T16 T8
+*	Coreference T120 T129
+*	Coreference T136 T122 T140 T114 T116 T134 T132 T123
+*	Coreference T148 T159
+*	Coreference T160 T164 T161
+*	Coreference T96 T75 T49 T58 T104 T71 T50
+*	Coreference T10 T53 T86 T30 T77 T79 T162
+*	Coreference T138 T137
+*	Coreference T93 T141 T143 T12 T158 T15
+*	Coreference T142 T145 T144 T133
+*	Coreference T150 T147 T156 T151
+*	Coreference T4 T40
+*	Coreference T31 T28
+*	Coreference T37 T38
+*	Coreference T66 T166

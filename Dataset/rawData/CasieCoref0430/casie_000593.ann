@@ -1,0 +1,88 @@
+T18	Purpose 998 1022	extract embedded malware
+T14	Vulnerability 938 951	CVE-2015-1641
+T17	Vulnerability 886 905	the new DOC exploit
+T6	Person 1124 1126	we
+T2	File 1111 1123	The DOC file
+T7	File 1195 1230	US pak track ii naval dialogues.doc
+T3	Vulnerability 1256 1269	CVE-2015-1641
+T4	Hash 1137 1182	SHA1 d336b8424a65f5c0b83328aa89089c2e4ddbcf72
+T5	Software 84 107	 a downloader component
+T8	Time 134 138	2013
+T9	Version 165 172	2.0-LNK
+T11	Version 144 163	 the version number
+T12	Version 256 273	 A second version
+T13	Version 275 282	2.1-LNK
+T20	Version 398 415	next two versions
+T21	Malware 436 443	BigBoss
+T22	Version 446 453	2.2-LNK
+T23	Malware 460 470	SillyGoose
+T24	Version 473 480	2.3-LNK
+T25	Time 544 552	mid-2015
+T26	Time 633 637	2013
+T27	Time 614 628	September 2016
+T19	Vulnerability 1079 1109	DLL side-loading vulnerability
+T28	Malware 1023 1045	 The extracted malware
+T29	File 1232 1246	 This document
+T30	Malware 27 34	MM Core
+T31	Malware 15 24	BaneChant
+T32	Malware 50 53	APT
+T33	Malware 197 206	BaneChant
+T10	Packet 211 255	its command-and-control (C2) network request
+T34	Malware 306 317	StrangeLove
+T35	Malware 419 426	MM Core
+T36	Malware 498 505	BigBoss
+T37	Campaign 483 490	Attacks
+T38	Malware 563 573	SillyGoose
+T39	Malware 638 645	MM Core
+T40	Location 669 683	Middle Eastern
+T41	Location 688 711	Central Asian countries
+T42	Location 750 757	Africa 
+T43	Location 765 779	United States 
+T44	Organization 848 858	industries
+T15	Vulnerability 952 980	Microsoft Word vulnerability
+T16	Malware 1015 1022	malware
+T45	Code 1391 1405	 The shellcode
+T46	File 1453 1471	 the malicious DLL
+T47	File 1560 1568	 The DLL
+T48	Malware 1591 1622	 the file-less MM Core backdoor
+T49	File 1680 1692	 a JPEG file
+T50	File 1693 1702	 The JPEG
+T51	Code 1712 1716	code
+T52	Malware 1809 1830	 the MM Core backdoor
+T53	Malware 2121 2128	MM Core
+T54	File 1304 1338	 a legitimate Microsoft executable
+T55	File 1349 1366	 a trojanised DLL
+T56	File 1374 1389	ChoiceGuard.dll
+T57	Attack-Pattern 1299 1390	drops a legitimate Microsoft executable along with a trojanised DLL named “ChoiceGuard.dll”
+T1	Code 1283 1292	shellcode
+T58	File 1419 1444	 the Microsoft executable
+T59	File 1503 1512	 the file
+T60	Attack-Pattern 1569 1622	downloads and executes the file-less MM Core backdoor
+T61	Attack-Pattern 1645 1658	steganography
+T62	Attack-Pattern 1836 1878	extract and install an embedded downloader
+T63	Software 1914 1930	Windows start-up
+T64	Malware 1947 1963	 This downloader
+T65	Malware 1855 1878	 an embedded downloader
+T66	File 1995 2009	trojanised DLL
+T67	File 2045 2062	 the MM Core JPEG
+T68	Attack-Pattern 2075 2097	executing it in memory
+T69	Malware 2141 2162	 its backdoor routine
+T70	Information 2183 2201	system information
+T72	Person 906 908	we
+T73	Malware 1884 1886	it
+T74	Malware 180 182	it
+T75	Malware 1908 1910	it
+T76	Code 1518 1520	it
+T77	Malware 109 111	It
+T78	Pronoun 362 364	we
+T79	Person 859 861	we
+T81	Vulnerability 987 989	it
+*	Coreference T8 T26
+*	Coreference T21 T36
+*	Coreference T23 T38
+*	Coreference T45 T1 T76
+*	Coreference T14 T15 T3 T81
+*	Coreference T16 T28
+*	Coreference T50 T49
+*	Coreference T47 T46 T59
+*	Coreference T73 T75 T52 T35 T53 T30 T48 T39 T31 T33 T77 T74

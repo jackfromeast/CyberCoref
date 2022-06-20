@@ -1,0 +1,50 @@
+T1	Vulnerability 33 68	 an unpatched memory corruption bug
+T14	Code 152 160	exploits
+T18	Person 625 636	Researchers
+T6	System 669 693	fully-patched Windows 10
+T17	System 698 724	Windows 8.1 client systems
+T5	Vulnerability 651 660	 the flaw
+T20	System 736 778	 the server equivalents of these platforms
+T21	System 780 799	Windows Server 2016
+T22	System 804 826	Windows Server 2012 R2
+T11	Person 936 949	 A researcher
+T10	Person 953 982	the moniker “PythonResponder”
+T8	Vulnerability 997 1010	 the zero day
+T9	Code 1014 1038	 a proof-of-concept code
+T2	Attack-Pattern 81 134	be exploited to cause denial of service (DoS) attacks
+T12	Vulnerability 161 179	 The vulnerability
+T15	Software 185 193	 the SMB
+T16	Software 195 215	Server Message Block
+T13	Person 0 23	Microsoft Windows users
+T23	Software 233 246	 the platform
+T24	Code 277 342	 a specially-crafted server response that contains too many bytes
+T25	Time 432 440	 a Feb 2
+T26	Person 441 454	CERT advisory
+T19	Vulnerability 827 845	 The vulnerability
+T27	Vulnerability 893 902	 the flaw
+T28	Code 919 927	exploits
+T7	Domain 1056 1062	GitHub
+T30	Hacker-Group 1204 1220	remote attackers
+T31	Attack-Pattern 1226 1259	causing denial of service attacks
+T3	Campaign 113 134	service (DoS) attacks
+T32	Person 1101 1106	users
+T33	Software 1134 1137	SMB
+T34	System 1154 1172	 the local network
+T35	System 1175 1183	 the WAN
+T36	Campaign 1244 1259	service attacks
+T37	Person 458 465	 a user
+T38	Device 477 500	 a malicious SMB server
+T39	System 515 536	Windows client system
+T40	Attack-Pattern 541 604	crash and display a blue screen of death (BSOD) in mrxsmb20.sys
+T43	Purpose 233 258	 the platform's inability
+T44	Code 592 604	mrxsmb20.sys
+T45	Person 605 618	 the advisory
+T4	Course-of-Action 1116 1183	blocking outbound SMB connections from the local network to the WAN
+*	Coreference T18 T11
+*	Coreference T2 T31
+*	Coreference T12 T19 T1 T5 T27 T8
+*	Coreference T15 T33 T16
+*	Coreference T3 T36
+*	Coreference T45 T26
+*	Coreference T28 T14
+*	Coreference T32 T37

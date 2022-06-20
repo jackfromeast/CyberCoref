@@ -1,0 +1,118 @@
+T1	Vulnerability 0 15	A security flaw
+T3	Software 26 37	LibreOffice
+T4	Software 42 59	Apache OpenOffice
+T38	Vulnerability 1664 1678	CVE-2018-16858
+T39	Time 1682 1694	mid-November
+T36	Organization 1645 1651	RedHat
+T42	Time 1732 1748	January 31, 2019
+T40	Person 1704 1710	Inführ
+T45	Time 1771 1781	February 1
+T43	Person 1755 1757	he
+T28	Person 1542 1548	Inführ
+T31	Person 1554 1556	he
+T26	Vulnerability 1566 1573	the bug
+T27	Time 1577 1587	October 18
+T17	Person 737 743	Inführ
+T18	Time 729 735	Friday
+T21	Attack-Pattern 775 817	abuse the OpenDocument scripting framework
+T19	Person 757 759	he
+T69	Attack-Pattern 821 873	adding an onmouseover event to a link in an ODT file
+T13	Vulnerability 529 539	 The issue
+T68	Attack-Pattern 613 709	achieve remote code execution by triggering an event embedded in an ODT (OpenDocument Text) file
+T24	Vulnerability 1055 1073	 the vulnerability
+T22	Person 1075 1081	Inführ
+T25	Software 1218 1229	LibreOffice
+T51	Person 1876 1882	Inführ
+T55	Person 1888 1890	he
+T54	Person 1908 1910	he
+T61	Person 2193 2195	he
+T58	Vulnerability 2205 2230	 the path traversal issue
+T59	Attack-Pattern 2244 2281	abused to execute a local Python file
+T6	Software 93 118	open-source office suites
+T4	Software 42 59	Apache OpenOffice
+T3	Software 26 37	LibreOffice
+T1	Vulnerability 0 15	A security flaw
+T9	Course-of-Action 210 220	be patched
+T8	Software 195 198	app
+T10	Software 236 253	Apache OpenOffice
+T12	Course-of-Action 505 518	being patched
+T11	Vulnerability 483 497	security holes
+T33	Vulnerability 1592 1594	it
+T26	Vulnerability 1566 1573	the bug
+T35	Time 1622 1643	 the end of the month
+T34	Software 1608 1619	LibreOffice
+T46	Course-of-Action 1862 1874	been patched
+T47	Software 1837 1847	OpenOffice
+T48	Course-of-Action 1803 1822	the LibreOffice fix
+T49	Course-of-Action 1981 1989	be fixed
+T57	Version 1965 1969	4.16
+T56	Software 1954 1964	OpenOffice
+T63	Person 2359 2367	netizens
+T64	Attack-Pattern 2387 2405	opening a ZIP file
+T65	Attack-Pattern 2407 2441	unpacking an ODT and Python script
+T66	Purpose 2483 2508	execute the Python script
+T67	Person 2514 2524	the victim
+T2	Course-of-Action 69 74	fixed
+T5	Number 78 92	one of the two
+T70	Vulnerability 119 129	 The other
+T7	Time 258 263	years
+T71	Person 291 303	contributors
+T72	Number 316 336	the number of people
+T73	Code 344 348	code
+T74	Software 351 363	 the project
+T75	Software 396 408	 the project
+T76	File 427 466	January report to the Apache Foundation
+T78	Organization 444 466	 the Apache Foundation
+T14	File 677 709	 an ODT (OpenDocument Text) file
+T79	Domain 713 725	 a blog post
+T16	Software 780 817	 the OpenDocument scripting framework
+T20	URL 851 858	 a link
+T80	File 861 873	 an ODT file
+T81	Code 1262 1286	 the Python parsing code
+T82	System 1530 1535	Linux
+T29	Course-of-Action 1599 1604	fixed
+T30	Code 1990 2019	 His proof-of-concept exploit
+T32	Software 2038 2048	OpenOffice
+T37	Software 2071 2084	 the software
+T41	File 2451 2468	 the ODT document
+T44	Version 2141 2166	 the unpatched version of
+T50	Software 2167 2178	LibreOffice
+T52	File 2261 2281	 a local Python file
+T53	File 2394 2405	 a ZIP file
+T60	Code 2416 2441	 an ODT and Python script
+T62	Code 2490 2508	 the Python script
+T83	URL 2547 2554	 a link
+T84	Person 2569 2582	 The Register
+T85	Number 2598 2601	two
+T87	Person 2698 2714	OpenOffice users
+T88	File 2760 2785	 the pythonscript.py file
+T86	Person 2602 2625	OpenOffice contributors
+T89	File 1150 1164	 a Python file
+T90	URL 936 945	 the link
+T91	Code 998 1011	Python script
+T92	Software 1178 1201	 the Python interpreter
+T93	Person 1378 1381	you
+T94	Person 1467 1469	he
+T95	System 1502 1509	Windows
+T96	Vulnerability 1475 1487	 The exploit
+T98	Person 1249 1250	I
+T99	Code 1330 1332	it
+T100	Pronoun 1554 1556	he
+T102	Person 385 387	we
+T110	Person 1093 1095	he
+T112	Vulnerability 1661 1663	it
+T113	Code 1423 1425	it
+T15	Person 555 574	security researcher
+T77	Person 575 586	Alex Inführ
+T23	Code 1401 1417	 a python script
+*	Coreference T74 T75
+*	Coreference T56 T32 T47
+*	Coreference T20 T83 T90
+*	Coreference T52 T53 T88 T89 T80
+*	Coreference T4 T10
+*	Coreference T15 T77 T40 T22 T61 T54 T55 T43 T31 T17 T28 T51 T19 T110
+*	Coreference T94 T98
+*	Coreference T81 T99
+*	Coreference T23 T113
+*	Coreference T96 T26 T24 T13 T112 T33 T38
+*	Coreference T34 T50 T25 T3

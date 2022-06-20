@@ -1,0 +1,81 @@
+T10	Information 310 323	payment cards
+T12	Campaign 365 380	a hacking spree
+T13	Organization 384 415	prominent hospitality companies
+T16	Organization 457 472	Starwood Hotels
+T17	Organization 487 513	Marriott International Inc
+T15	Organization 445 451	Hilton
+T14	Organization 426 443	Hyatt Hotels Corp
+T3	Campaign 211 223	cyber attack
+T6	Organization 97 118	its franchised hotels
+T8	Location 122 139	the United States
+T5	Organization 151 162	Holiday Inn
+T2	Information 245 271	customer payment card data
+T11	Campaign 339 349	the attack
+T18	Campaign 515 525	The breach
+T19	Time 533 565	from September 29 to December 29
+T20	Campaign 705 716	the hacking
+T21	Organization 731 741	the hotels
+T25	Organization 821 849	Staybridge Suites properties
+T24	Organization 799 816	Candlewood Suites
+T23	Organization 791 797	Indigo
+T21	Organization 731 741	the hotels
+T26	Malware 851 862	The malware
+T28	Device 897 913	magnetic stripes
+T29	Information 930 934	name
+T30	Information 936 947	card number
+T31	Information 949 964	expiration date
+T32	Information 969 995	internal verification code
+T33	Campaign 1086 1092	breach
+T34	Person 1015 1030	Hotel operators
+T35	Person 1067 1071	they
+T36	Organization 1098 1114	other businesses
+T37	Information 1126 1145	credit card numbers
+T38	Hacker-Group 1209 1216	hackers
+T39	Organization 1149 1153	they
+T7	Organization 0 7	TORONTO
+T40	Time 9 17	April 19
+T41	Organization 30 82	Global hotel chain InterContinental Hotels Group Plc
+T42	Number 88 93	1,200
+T43	Person 186 193	victims
+T44	Time 196 210	 a three-month
+T1	Organization 272 284	 The company
+T45	Time 614 623	Wednesday
+T46	Person 625 627	He
+T22	Organization 996 1008	 the company
+T27	Organization 1190 1200	themselves
+T47	Person 1223 1233	Itay Glick
+T48	Person 1235 1291	chief executive of Israeli cyber-security company Votiro
+T49	Time 1584 1592	February
+T50	Organization 1594 1610	InterContinental
+T51	Organization 1628 1634	victim
+T52	Organization 1616 1618	it
+T53	Campaign 1637 1652	 a cyber attack
+T54	Number 1686 1699	12 of its 286
+T55	Location 1721 1734	 the Americas
+T56	Malware 1754 1761	malware
+T57	Number 1558 1563	3,633
+T58	Location 1539 1552	 the Americas
+T59	Location 1482 1500	 the United States
+T60	Organization 1318 1330	data centers
+T61	Organization 1336 1341	banks
+T62	System 1358 1372	secure systems
+T63	Course-of-Action 1376 1394	protect themselves
+T64	Person 1402 1407	Glick
+T65	Organization 1409 1425	InterContinental
+T66	Organization 1462 1472	properties
+T67	Organization 1569 1579	properties
+T68	Organization 1519 1536	its business unit
+T69	Organization 1294 1298	They
+T9	Person 567 593	InterContinental spokesman
+T75	Person 594 605	Neil Hirsch
+T70	Organization 1473 1475	it
+T71	Organization 167 179	Crowne Plaza
+*	Coreference T8 T59
+*	Coreference T11 T12 T3 T18 T20
+*	Coreference T50 T65 T52 T70
+*	Coreference T55 T58
+*	Coreference T66 T67
+*	Coreference T9 T75 T46
+*	Coreference T34 T35
+*	Coreference T39 T27 T36 T69
+*	Coreference T47 T48

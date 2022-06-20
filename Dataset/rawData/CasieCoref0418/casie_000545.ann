@@ -1,0 +1,63 @@
+T8	Campaign 508 525	phone-based fraud
+T6	Person 450 456	people
+T7	File 490 495	email
+T4	Campaign 82 101	email-related fraud
+T1	Hacker-Group 171 179	scammers
+T2	Person 22 27	Brits
+T3	Person 59 65	victim
+T11	Campaign 831 844	an email scam
+T12	Person 791 800	UK adults
+T9	Campaign 1475 1483	phishing
+T10	Person 1443 1447	they
+T5	Number 10 21	one million
+T13	Number 44 46	45
+T14	Organization 194 199	Aviva
+T15	Person 205 212	insurer
+T16	Number 225 229	1000
+T17	Person 230 236	adults
+T18	Number 253 255	45
+T19	Person 330 332	6%
+T20	Person 363 369	victim
+T21	Person 338 342	they
+T22	Campaign 381 394	online attack
+T23	Number 416 427	1.2 million
+T24	Person 428 434	adults
+T25	Number 441 444	22%
+T26	Number 778 790	20.6 million
+T27	Organization 527 532	Aviva
+T28	Organization 571 581	government
+T29	Hacker-Group 653 669	pension scammers
+T30	Course-of-Action 649 669	hit pension scammers
+T31	Person 698 708	regulators
+T32	Course-of-Action 712 750	address digital fraud at the same time
+T33	Campaign 719 733	 digital fraud
+T34	Person 756 763	insurer
+T35	Number 806 808	45
+T36	Number 860 863	17m
+T37	Organization 883 888	Aviva
+T38	Number 915 918	69%
+T39	Person 922 933	respondents
+T40	Number 1023 1026	66%
+T41	Number 1037 1040	65%
+T42	Number 1057 1060	51%
+T43	Person 1074 1091	sizeable minority
+T44	Number 1151 1154	38%
+T45	Number 1204 1207	27%
+T46	Person 1179 1194	their age group
+T47	Number 1240 1243	21%
+T48	Person 1249 1267	Aviva spokesperson
+T49	Campaign 1429 1442	type of scams
+T50	Person 1488 1491	419
+T51	Campaign 1492 1497	fraud
+T52	Time 1378 1394	in the past year
+T53	Person 1299 1310	respondents
+T54	Hacker-Group 1356 1366	fraudsters
+T56	Person 1325 1329	they
+T57	Person 978 982	them
+T58	Pronoun 1218 1222	them
+*	Coreference T37 T27 T14
+T60	Number 330 332	6%
+*	Coreference T19 T21
+*	Coreference T34 T15
+*	Coreference T57 T39
+*	Coreference T53 T56 T10

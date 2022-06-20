@@ -1,0 +1,88 @@
+T8	Organization 406 420	specific banks
+T9	Organization 424 446	financial institutions
+T13	Malware 379 385	Emotet
+T14	Malware 344 368	 This well-known malware
+T11	Person 456 467	individuals
+T12	Attack-Pattern 450 499	trick individuals into opening infected documents
+T18	File 983 992	 an email
+T16	Organization 1007 1015	 the IRS
+T26	Malware 1210 1216	Emotet
+T24	Time 1255 1273	the past few weeks
+T25	Organization 1292 1300	 the IRS
+T28	System 1320 1330	IRS Online
+T30	File 1411 1425	tax transcript
+T29	Email 1332 1347	 The scam email
+T2	File 127 142	tax transcripts
+T1	File 111 117	emails
+T5	Person 161 166	users
+T21	File 1097 1107	 the email
+T22	Organization 1125 1133	 the DOR
+T31	Organization 4 33	Indiana Department of Revenue
+T32	Organization 37 66	 the Internal Revenue Service
+T33	Person 78 89	individuals
+T34	Organization 94 104	businesses
+T35	Attack-Pattern 123 150	use tax transcripts as bait
+T3	Attack-Pattern 154 186	entice users to open attachments
+T4	File 175 186	attachments
+T6	Campaign 187 199	 These scams
+T36	Organization 220 230	businesses
+T37	Organization 234 253	government agencies
+T38	Person 260 269	employees
+T40	System 328 335	network
+T39	File 274 307	 the malware infected attachments
+T41	Malware 274 286	 the malware
+T7	File 481 499	infected documents
+T10	Malware 563 570	malware
+T42	Organization 584 592	 the DOR
+T43	Organization 597 600	IRS
+T44	Person 627 638	individuals
+T45	Organization 643 653	businesses
+T46	Campaign 667 679	 these scams
+T47	Organization 682 690	 The DOR
+T48	Organization 695 698	IRS
+T49	Person 714 723	customers
+T50	Email 728 733	email
+T51	File 743 762	sensitive documents
+T52	Email 770 787	 a tax transcript
+T53	Course-of-Action 790 811	Use security software
+T54	Software 794 811	security software
+T55	Malware 831 838	malware
+T56	Malware 843 850	viruses
+T57	Course-of-Action 856 881	make sure it’s up-to-date
+T58	Software 866 868	it
+T59	Email 895 901	emails
+T60	File 903 914	attachments
+T61	Course-of-Action 884 914	Never open emails, attachments
+T62	Course-of-Action 919 954	click on links when you’re not sure
+T63	URL 928 933	links
+T17	Attack-Pattern 993 1015	claiming to be the IRS
+T15	Email 1024 1026	it
+T19	Course-of-Action 1017 1026	delete it
+T64	Course-of-Action 1030 1093	forward the email to phishing@irs.gov <mailto:phishing@irs.gov>
+T65	Email 1037 1047	 the email
+T66	Email 1051 1067	phishing@irs.gov
+T67	Email 1069 1092	mailto:phishing@irs.gov
+T20	Attack-Pattern 1108 1133	claims to be from the DOR
+T68	Email 1148 1173	investigations@dor.in.gov
+T69	Email 1175 1207	mailto:investigations@dor.in.gov
+T70	Course-of-Action 1134 1208	forward it to investigations@dor.in.gov <mailto:investigations@dor.in.gov>
+T23	Attack-Pattern 1278 1300	masqueraded as the IRS
+T27	Attack-Pattern 1302 1331	pretending to be “IRS Online”
+T71	File 1356 1370	 an attachment
+T72	Attack-Pattern 1376 1425	 the subject line often including “tax transcript
+T74	Email 1142 1144	it
+*	Coreference T52 T30 T2
+*	Coreference T5 T49 T38
+*	Coreference T44 T11 T33
+*	Coreference T6 T46
+*	Coreference T34 T45 T36
+*	Coreference T51 T7 T39
+*	Coreference T10 T41 T55 T13 T26 T14
+*	Coreference T22 T47 T42
+*	Coreference T43 T16 T25 T48
+*	Coreference T50 T18 T1 T65 T21 T29 T59 T15 T74
+*	Coreference T4 T60 T71
+*	Coreference T17 T20
+*	Coreference T64 T70
+*	Coreference T12 T3
+*	Coreference T58 T54

@@ -1,0 +1,95 @@
+T5	Campaign 184 191	receive
+T6	Person 180 183	you
+T8	Campaign 209 221	disguised as
+T9	Email 222 238	a LinkedIn email
+T7	Email 192 208	a phishing email
+T21	Campaign 1399 1410	got tricked
+T23	Purpose 1443 1462	led him to transfer
+T25	Organization 1336 1379	an Austrian airplane component manufacturer
+T24	Person 1325 1332	the CEO
+T26	Time 1306 1310	2016
+T30	Money 1470 1486	40 million euros
+T31	Hacker-Group 1494 1501	scammer
+T22	Campaign 1414 1437	a spear phishing attack
+T27	Campaign 1574 1593	a phishing campaign
+T28	Software 1539 1547	LinkedIn
+T29	Campaign 10 27	new LinkedIn scam
+T4	Campaign 91 99	designed
+T2	Email 56 71	phishing emails
+T3	Domain 76 90	a fake website
+T1	Purpose 103 126	harvest the information
+T10	Campaign 921 937	a vishing attack
+T11	Hacker-Group 877 894	the cybercriminal
+T13	Campaign 1110 1121	impersonate
+T14	Person 1122 1125	you
+T12	Hacker-Group 1091 1103	the attacker
+T19	Person 1214 1217	CEO
+T20	Organization 1221 1246	the accounting department
+T18	Purpose 1270 1282	obtain funds
+T16	Person 1175 1181	people
+T17	Organization 1185 1200	those companies
+T15	File 1145 1166	spear phishing emails
+T32	Purpose 1286 1301	money transfers
+T33	Person 1024 1027	you
+T35	Person 2242 2245	you
+T36	Person 1652 1654	we
+T37	Person 127 130	you
+T38	Person 2197 2200	you
+T39	Person 1396 1398	he
+T40	Domain 499 501	it
+T41	Person 369 372	you
+T42	Information 2254 2258	them
+T43	Person 615 618	you
+T45	Person 421 423	We
+T46	Person 906 909	you
+T47	Person 1447 1450	him
+T48	Person 989 992	you
+*	Coreference T23 T32
+*	Coreference T22 T10 T27 T70 T77 T83
+*	Coreference T7 T2 T15 T9 T44 T51
+T49	Information 115 126	information
+T50	Campaign 174 178	scam
+*	Coreference T50 T29 T28 T73 T76
+*	Coreference T6 T37 T41 T43 T46 T48 T33 T14
+T44	Email 292 306	phishing email
+T52	Domain 376 419	https://linkedinjobs (dot ) jimdo (dot) com
+*	Coreference T52 T40 T56
+T53	Software 446 456	VirusTotal
+T54	Software 564 572	AutoShun
+T55	Software 524 562	exception of a less well known scanner
+*	Coreference T55 T54
+T56	Domain 590 597	website
+T57	File 669 673	form
+T58	Device 693 695	CV
+T59	Device 702 704	CV
+*	Coreference T59 T58 T61 T68
+T60	Information 726 739	personal data
+T61	Device 144 146	CV
+T62	Hacker-Group 748 761	cybercriminal
+T63	Information 801 814	Phone numbers
+T64	Organization 831 840	companies
+*	Coreference T62 T11 T65 T66 T12 T79
+T65	Hacker-Group 910 917	himself
+T66	Hacker-Group 962 970	attacker
+T67	Information 1057 1068	information
+T68	Device 1087 1089	CV
+*	Coreference T60 T49 T67
+T34	Money 777 783	profit
+T69	Money 1286 1291	money
+*	Coreference T34 T69
+*	Coreference T24 T39 T47
+*	Coreference T45 T36
+T70	Campaign 1741 1746	scams
+T71	Organization 1708 1717	companies
+T72	Person 1782 1787	users
+T73	Software 1859 1867	LinkedIn
+T75	Organization 1921 1928	company
+T76	Software 1930 1938	LinkedIn
+T77	Campaign 2020 2025	scams
+*	Coreference T38 T35 T78
+T78	Person 2260 2263	you
+T79	Hacker-Group 2325 2332	scammer
+T80	Information 2224 2232	messages
+*	Coreference T80 T42
+T83	Campaign 2074 2079	scams
+T51	Email 348 358	spam email

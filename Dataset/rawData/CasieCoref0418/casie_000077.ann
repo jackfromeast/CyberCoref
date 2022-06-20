@@ -1,0 +1,92 @@
+T2	Person 125 140	Charlotte Flair
+T3	Person 112 120	Victoria
+T5	Information 38 48	video clip
+T6	Information 19 33	private photos
+T7	Time 8 17	this week
+T4	Person 63 89	WWE Divas Lisa Marie Varon
+T9	Device 359 365	iPhone
+T10	Information 178 184	photos
+T11	Device 261 267	iPhone
+T13	Information 291 301	video clip
+T14	Person 277 281	Lisa
+T12	Person 192 201	Charlotte
+T16	Information 1180 1186	photos
+T17	Person 1156 1161	Flair
+T18	Information 1482 1488	photos
+T20	Person 1469 1475	victim
+T36	Person 2158 2165	hackers
+T38	Information 2173 2187	private photos
+T39	Person 2191 2222	prominent Hollywood celebrities
+T40	Person 2228 2243	Amanda Seyfried
+T41	Person 2245 2256	Emma Watson
+T44	Time 2138 2152	two months ago
+T27	Information 1828 1834	videos
+T26	Information 1786 1800	private photos
+T28	Purpose 1845 1863	made public online
+T43	Person 1743 1748	Paige
+T30	Information 1970 1984	private photos
+T31	Person 1988 1997	WWE Divas
+T32	Person 2008 2022	Maria Kanellis
+T33	Person 2024 2036	Melina Perez
+T34	Person 2038 2045	Kaitlyn
+T35	Person 2050 2060	Summer Rae
+T23	Campaign 1608 1614	leaked
+T22	Person 1525 1536	Alexa Bliss
+T21	Information 1601 1607	photos
+T24	Time 1626 1634	April 28
+T1	Person 408 421	Ashley Fliehr
+T8	Person 427 436	WWE woman
+T15	Information 1212 1222	her photos
+T45	Person 1352 1362	supporters
+T46	Domain 1378 1385	Twitter
+T47	Person 1413 1418	Flair
+T19	Campaign 1951 1955	leak
+T25	Domain 2081 2107	different online platforms
+T29	Organization 2453 2470	network operators
+T37	Campaign 2485 2490	issue
+T42	Course-of-Action 2507 2567	build proper security features to prevent such infiltrations
+T48	Campaign 2554 2567	infiltrations
+T49	Pronoun 1886 1889	she
+T50	Person 756 759	she
+T51	Pronoun 1693 1697	they
+T52	Pronoun 1865 1868	She
+T53	Person 99 102	her
+T54	Person 355 358	her
+T55	Person 989 993	They
+T56	Person 384 387	Her
+T57	Pronoun 1782 1785	her
+T58	Person 257 260	her
+T59	Person 305 308	her
+T60	Person 923 927	They
+T61	Person 704 707	she
+T62	Pronoun 2125 2127	it
+T63	Pronoun 1250 1253	her
+T64	Person 873 876	Her
+T65	Pronoun 1176 1179	her
+T66	Pronoun 2436 2438	It
+T67	Person 840 843	She
+T68	Person 520 523	She
+T69	Pronoun 1126 1128	he
+T70	Pronoun 1105 1107	it
+T71	Pronoun 1212 1215	her
+T72	Pronoun 1597 1600	her
+T73	Person 630 633	She
+T74	Pronoun 1280 1284	they
+T75	Person 640 643	her
+T76	Pronoun 2267 2269	It
+*	Coreference T9 T11
+*	Coreference T17 T47
+*	Coreference T23 T19
+*	Coreference T53 T4 T3 T2 T12
+*	Coreference T10 T6
+*	Coreference T59 T14 T54
+*	Coreference T56 T1 T8 T68 T73 T75 T61 T50 T67 T64 T60 T55 T79
+T77	Time 983 987	2013
+T78	Person 975 979	Bram
+T79	Person 956 961	Flair
+T80	Time 1010 1014	2015
+T81	Person 909 921	Riki Johnson
+T82	Time 834 838	2015
+T83	Time 680 684	2013
+T84	Time 690 702	after a year
+T85	Person 1016 1021	Flair

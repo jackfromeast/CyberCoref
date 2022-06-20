@@ -1,0 +1,20 @@
+T2	Person 289 298	employees
+T4	Organization 201 221	 The school district
+T5	Email 265 280	phishing emails
+T6	Campaign 17 27	 An attack
+T7	Device 31 40	computers
+T8	Organization 44 66	Grassfield High School
+T9	Organization 103 128	Chesapeake Public Schools
+T10	Campaign 133 150	 a malware attack
+T11	Organization 176 187	 the school
+T3	Malware 226 234	 a virus
+T12	System 242 256	 their network
+T1	Attack-Pattern 265 298	phishing emails sent to employees
+T14	Malware 390 392	it
+T15	Malware 317 326	divisions
+T13	Campaign 350 352	it
+T16	Organization 402 424	Grassfield High School
+*	Coreference T11 T9
+*	Coreference T15 T3 T14
+*	Coreference T13 T10
+*	Coreference T16 T8

@@ -1,0 +1,52 @@
+T3	Vulnerability 195 215	 the vulnerabilities
+T2	Organization 225 229	QNAP
+T4	Version 233 261	this latest firmware version
+T8	Vulnerability 289 318	three command injection flaws
+T5	Time 275 283	March 21
+T19	Version 1138 1151	version 4.2.4
+T20	Time 1158 1166	20170313
+T7	Attack-Pattern 370 452	gain remote command execution on a vulnerable device as administrative user (root)
+T21	Device 402 422	 a vulnerable device
+T11	Vulnerability 743 753	 The flaws
+T10	Person 773 799	Harry Sintonen of F-Secure
+T13	Organization 830 834	QNAP
+T16	System 1059 1062	QTS
+T14	Vulnerability 1014 1034	 The vulnerabilities
+T22	Version 1063 1077	versions 4.2.2
+T23	Version 1082 1087	4.2.3
+T26	Device 32 48	QNAP NAS devices
+T27	Device 16 19	one
+T28	Software 77 94	 the QTS firmware
+T29	Version 98 111	version 4.2.4
+T30	Person 171 175	prey
+T31	Hacker-Group 179 188	attackers
+T1	Software 321 344	 the web user interface
+T6	Vulnerability 463 475	 these three
+T24	Vulnerability 477 480	one
+T25	Hacker-Group 500 528	 an unauthenticated attacker
+T32	Attack-Pattern 533 566	 a specially crafted HTTP request
+T33	Device 577 599	compromised NAS device
+T34	Campaign 616 631	further attacks
+T36	Hacker-Group 679 691	 an attacker
+T37	Attack-Pattern 696 742	read, modify or remove content from it at will
+T38	Device 732 734	it
+T9	Organization 852 860	Sintonen
+T12	Vulnerability 906 919	vulnerability
+T39	Hacker-Group 949 958	attackers
+T40	Code 971 987	working exploits
+T41	Code 1009 1013	them
+T15	Person 1089 1094	Users
+T42	Course-of-Action 1099 1166	advised to install the firmware update version 4.2.4 build 20170313
+T17	Course-of-Action 1171 1233	restrict access to the web user interface (ports 8080 and 443)
+T45	Device 160 162	it
+T18	Course-of-Action 127 129	so
+T43	Course-of-Action 69 112	upgraded the QTS firmware to version 4.2.4,
+T35	Person 655 660	users
+*	Coreference T2 T13
+*	Coreference T26 T27 T45
+*	Coreference T18 T43 T42
+*	Coreference T33 T21 T38
+*	Coreference T36 T25
+*	Coreference T11 T6 T8 T12 T14
+*	Coreference T41 T40
+*	Coreference T19 T29 T4

@@ -1,0 +1,48 @@
+T4	Campaign 768 780	be exploited
+T9	Purpose 784 804	conduct surveillance
+T5	Campaign 693 715	have expressed concern
+T7	Vulnerability 726 737	this aspect
+T3	Person 681 692	Campaigners
+T6	Software 741 749	WhatsApp
+T2	Software 376 407	 the WhatsApp messaging service
+T10	Attack-Pattern 298 358	allow some encrypted messages to reach unintended recipients
+T1	Code 257 274	 A design feature
+T8	Person 85 92	experts
+T11	Time 140 155	13 January 2017
+T12	Person 225 256	 the Guardian’s readers’ editor
+T14	Person 337 358	unintended recipients
+T13	Software 806 814	WhatsApp
+T15	Software 884 912	 a go-to communications tool
+T16	Person 916 925	activists
+T17	Person 927 937	dissidents
+T18	Person 942 951	diplomats
+T20	Organization 1078 1098	Open Whisper Systems
+T21	Person 1290 1297	 a user
+T19	Device 1302 1314	 a new phone
+T22	Software 1328 1336	 the app
+T23	Software 482 484	it
+T24	Software 409 432	Facebook-owned WhatsApp
+T25	Number 450 461	one billion
+T26	Person 462 467	users
+T27	Software 525 533	WhatsApp
+T28	Vulnerability 570 679	re-encrypted and resent automatically, without first giving the sender an opportunity to verify the recipient
+T29	Information 1007 1027	unique security keys
+T30	Course-of-Action 952 978	 Its end-to-end encryption
+T31	Protocol 1033 1063	 the acclaimed Signal protocol
+T32	Information 1100 1104	Keys
+T33	Person 1127 1132	users
+T34	Hacker-Group 1193 1202	middlemen
+T35	Course-of-Action 1136 1202	guarantee communications are secure from interception by middlemen
+T36	Software 1212 1220	WhatsApp
+T37	Protocol 1232 1245	 the protocol
+T38	Person 1350 1359	 the user
+T39	Person 1409 1418	 the user
+T40	Vulnerability 1440 1566	re-encrypted and resent by the sender automatically, without the sender having had an opportunity to verify that the recipient
+T41	Software 1748 1756	WhatsApp
+T42	Protocol 1870 1890	 the Signal protocol
+T43	Information 1909 1921	security key
+T44	Information 2042 2055	security keys
+*	Coreference T6 T13 T15 T36 T24 T23 T27
+*	Coreference T7 T28 T40
+*	Coreference T37 T31 T42
+*	Coreference T44 T43 T32 T29

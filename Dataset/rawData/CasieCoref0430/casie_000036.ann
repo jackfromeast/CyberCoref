@@ -1,0 +1,132 @@
+T11	Vulnerability 2024 2042	 The vulnerability
+T1	Vulnerability 1152 1173	 these security holes
+T2	Person 1106 1107	I
+T4	Organization 1117 1129	 the company
+T19	Vulnerability 1362 1382	CSRF vulnerabilities
+T15	Organization 2455 2463	Facebook
+T20	Attack-Pattern 2495 2499	CSRF
+T16	Time 2450 2454	2012
+T8	System 2466 2476	App Center
+T14	Person 2503 2527	 the security researcher
+T13	Vulnerability 2542 2551	 the flaw
+T6	Organization 1254 1258	they
+T7	Time 1304 1317	a month later
+T21	Course-of-Action 1281 1297	rolled out a fix
+T22	Time 2 12	decade ago
+T23	Attack-Pattern 14 40	cross-site request forgery
+T24	Attack-Pattern 42 46	CSRF
+T25	Attack-Pattern 66 72	c-surf
+T26	System 152 170	 the Worldwide Web
+T27	Attack-Pattern 260 262	it
+T29	Attack-Pattern 354 363	 the CSRF
+T30	Code 448 469	notable CSRF exploits
+T31	Time 480 490	 the years
+T32	Attack-Pattern 551 555	CSRF
+T33	Software 571 587	web applications
+T34	Code 593 605	 the cookies
+T35	Software 614 626	web browsers
+T36	Packet 633 649	 an HTTP request
+T37	Campaign 653 667	 a CSRF attack
+T38	Hacker-Group 668 681	 the attacker
+T39	Software 688 707	 a victim’s browser
+T40	Purpose 741 788	 a change or action which benefits the attacker
+T41	Hacker-Group 775 788	 the attacker
+T42	Person 802 813	 the victim
+T43	Purpose 797 813	harms the victim
+T44	Course-of-Action 861 896	 a random token in the request body
+T45	Software 917 933	 the server side
+T46	Attack-Pattern 936 948	CSRF attacks
+T47	Packet 1021 1029	requests
+T48	Attack-Pattern 1085 1089	CSRF
+T3	Organization 1189 1193	they
+T49	Attack-Pattern 1244 1248	CSRF
+T5	Vulnerability 1396 1400	them
+T18	Attack-Pattern 1430 1447	Drive-by pharming
+T50	Code 1463 1507	 the DNS settings of home routers and modems
+T51	Campaign 1450 1460	 an attack
+T52	Attack-Pattern 1528 1532	CSRF
+T53	Software 1550 1562	 The web UIs
+T54	Device 1565 1579	 these devices
+T55	Software 1605 1609	they
+T56	Person 1616 1621	users
+T57	Code 1630 1652	configuration settings
+T28	Campaign 1661 1667	attack
+T58	Time 1673 1677	2008
+T59	Person 1679 1696	banking customers
+T60	Location 1700 1706	Mexico
+T61	Device 1718 1733	Wire DSL modems
+T62	Person 1749 1756	Victims
+T63	Email 1765 1774	 an email
+T64	File 1779 1797	 an embedded image
+T65	Campaign 1806 1820	 a CSRF attack
+T66	Attack-Pattern 1826 1865	changed the DNS settings on their modem
+T67	Attack-Pattern 1757 1820	received an email with an embedded image tag with a CSRF attack
+T68	Campaign 1878 1886	instance
+T69	Person 1909 1922	Twitter users
+T70	Number 1888 1905	tens of thousands
+T71	Person 1928 1934	victim
+T72	Malware 1937 1949	 a CSRF worm
+T73	Time 1953 1957	2010
+T74	Person 1963 1973	developers
+T75	Vulnerability 1974 2023	failed to implement anti-CSRF measures for tweets
+T10	Person 2119 2146	authenticated Twitter users
+T17	Domain 2154 2167	 the web page
+T76	Code 2178 2190	 the exploit
+T77	Attack-Pattern 2197 2226	unknowingly posted two tweets
+T78	URL 2237 2244	 a link
+T79	Domain 2247 2261	 the same page
+T80	Person 2302 2308	Anyone
+T81	URL 2323 2332	 the link
+T82	Attack-Pattern 2357 2383	posted the same two tweets
+T83	Malware 2384 2393	 The worm
+T84	Malware 2422 2424	it
+T85	Organization 2438 2445	Twitter
+T86	Money 2564 2569	$5000
+T87	Course-of-Action 2429 2434	fixed
+T9	Campaign 2600 2610	 this case
+T12	Packet 2610 2627	 the HTTP request
+T88	Course-of-Action 2628 2655	included an anti-CSRF token
+T89	Course-of-Action 2689 2707	provide protection
+T90	Code 2712 2722	 the token
+T91	Code 2636 2655	 an anti-CSRF token
+T92	Software 2749 2777	 the server-side application
+T93	Packet 2782 2794	 the request
+T94	Person 2808 2828	 A Qualys researcher
+T95	Code 2856 2872	anti-CSRF tokens
+T96	Vulnerability 2916 2935	 the Facebook issue
+T97	Organization 2953 2959	PayPal
+T98	Time 2963 2967	2016
+T99	Vulnerability 2968 3017	did not validate the anti-CSRF token in paypal.me
+T100	Code 2984 3004	 the anti-CSRF token
+T101	Domain 3008 3017	paypal.me
+T102	Hacker-Group 3018 3030	 An attacker
+T103	Information 3048 3071	 a user’s profile photo
+T104	Attack-Pattern 3042 3071	change a user’s profile photo
+T105	Campaign 3080 3084	case
+T106	Person 304 305	I
+T108	Organization 1137 1141	them
+T111	Person 1267 1269	me
+T117	Person 2192 2196	they
+T110	Packet 715 725	 a request
+T109	Money 2572 2581	 a bounty
+T113	Vulnerability 2856 2900	anti-CSRF tokens were not properly validated
+T107	Number 1717 1718	2
+*	Coreference T69 T10 T117
+*	Coreference T72 T83
+*	Coreference T17 T79
+*	Coreference T77 T82
+*	Coreference T78 T81
+*	Coreference T9 T105
+*	Coreference T93 T12
+*	Coreference T91 T95 T100 T90
+*	Coreference T49 T29 T52 T20 T27 T32 T48 T24 T23 T25
+*	Coreference T4 T3 T6 T108
+*	Coreference T39 T35
+*	Coreference T111 T2
+*	Coreference T19 T5
+*	Coreference T55 T53
+*	Coreference T59 T62
+*	Coreference T65 T28
+*	Coreference T11 T75
+*	Coreference T109 T86
+*	Coreference T113 T13 T96

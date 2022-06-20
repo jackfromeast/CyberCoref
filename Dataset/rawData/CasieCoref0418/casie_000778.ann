@@ -1,0 +1,81 @@
+T1	Campaign 6 18	has released
+T2	Organization 0 5	Adobe
+T3	Course-of-Action 19 36	a priority update
+T4	Campaign 40 44	plug
+T5	Vulnerability 45 69	a critical security flaw
+T6	Software 85 97	Flash Player
+T7	System 101 108	Windows
+T9	Campaign 175 187	will address
+T8	Course-of-Action 158 174	the latest patch
+T10	Vulnerability 188 194	issues
+T11	Software 198 216	Adobe Flash Player
+T12	Software 232 254	other earlier versions
+T23	Version 217 227	29.0.0.171
+T17	Campaign 1465 1475	had issued
+T18	Organization 1453 1464	the company
+T19	Time 1434 1451	October last year
+T20	Course-of-Action 1476 1492	a security patch
+T21	Campaign 1496 1499	fix
+T22	Vulnerability 1500 1515	a critical leak
+T24	Campaign 406 415	announced
+T25	Organization 373 393	Security firm Icebrg
+T26	Time 397 405	Thursday
+T28	Software 473 484	Adobe Flash
+T27	Vulnerability 423 445	zero-day vulnerability
+T13	Campaign 898 910	was reported
+T15	Organization 914 920	Icebrg
+T16	Organization 943 966	Qihoo 360 Core Security
+T14	Vulnerability 889 897	The flaw
+T29	Campaign 1410 1424	been exploited
+T30	Vulnerability 1389 1404	vulnerabilities
+T31	Software 1374 1386	Flash Player
+T32	Hacker-Group 315 322	hackers
+T33	Hacker-Group 1028 1036	attacker
+T34	Software 1564 1575	Adobe Flash
+T35	Course-of-Action 1557 1563	update
+T36	Vulnerability 1603 1618	vulnerabilities
+T37	Device 1637 1645	machines
+T38	Person 1517 1522	Users
+T39	Course-of-Action 1651 1657	update
+T40	Device 1831 1839	computer
+T41	Software 1791 1798	browser
+T42	Campaign 740 746	attack
+T43	Software 871 887	Microsoft Office
+T44	Software 776 787	Adobe Flash
+T45	Software 846 858	Flash Player
+T46	File 706 731	Microsoft Office document
+T47	Device 645 663	victims' computers
+T48	Attack-Pattern 623 637	executing code
+T49	Vulnerability 560 573	CVE-2018-5002
+T50	Vulnerability 545 558	vulnerability
+T51	Location 528 539	Middle East
+T52	Person 515 520	users
+*	Coreference T5 T22 T10 T55
+*	Coreference T32 T33 T58
+*	Coreference T34 T45 T6 T44 T31 T11 T28 T53
+*	Coreference T35 T39 T3 T20 T8
+*	Coreference T27 T50 T36 T30 T49 T60 T61 T14 T63
+*	Coreference T38 T52 T59
+T54	Organization 149 156	company
+*	Coreference T54 T2 T56
+T55	Vulnerability 260 275	vulnerabilities
+T56	Organization 290 295	Adobe
+T57	Email 366 371	email
+T58	Hacker-Group 583 592	attackers
+T59	Person 645 652	victims
+T60	Vulnerability 691 698	exploit
+T61	Vulnerability 821 828	exploit
+T62	Campaign 980 986	attack
+*	Coreference T42 T62
+T63	Vulnerability 999 1015	zero-day exploit
+T64	Campaign 1091 1116	other behavioural aspects
+T65	Campaign 1037 1044	actions
+T66	Campaign 1160 1170	observable
+T67	Campaign 1208 1219	observables
+*	Coreference T66 T67
+T68	Organization 1293 1299	Icebrg
+*	Coreference T68 T15 T25 T18
+*	Coreference T40 T37
+T53	Software 1765 1770	flash
+T69	Software 807 815	browsers
+*	Coreference T41 T69

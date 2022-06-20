@@ -1,0 +1,193 @@
+T30	Organization 1949 1955	cities
+T31	Organization 1960 1968	entities
+T33	Hacker-Group 2145 2158	the attackers
+T34	Person 2132 2139	victims
+T1	Campaign 58 85	the ransomware cyber attack
+T2	Person 37 53	Iranian citizens
+T4	Time 141 146	March
+T64	Organization 99 118	the city of Atlanta
+T66	System 231 248	computer networks
+T67	Organization 252 269	local governments
+T68	System 271 290	health care systems
+T69	Organization 301 316	public entities
+T11	Person 334 356	Faramarz Shahi Savandi
+T10	Person 366 394	Mohammad Mehdi Shah Mansouri
+T12	Person 318 332	The defendants
+T9	Malware 430 451	the SamSam ransomware
+T7	Malware 453 471	malicious software
+T8	Information 477 490	encrypts data
+T6	Organization 497 523	the infected organizations
+T16	Campaign 652 658	ransom
+T17	Money 638 648	$6 million
+T15	Person 589 596	victims
+T13	Person 548 556	the pair
+T18	Time 659 676	over a three year
+T19	Time 699 703	2015
+T21	Person 1273 1284	the victims
+T22	Attack-Pattern 1213 1266	hijacked victims’ computer systems and shut them down
+T23	Person 1188 1202	The defendants
+T27	Person 1770 1787	Atlanta officials
+T26	Money 1822 1829	$51,000
+T28	Hacker-Group 1852 1863	the hackers
+T36	Person 2266 2287	its insurance carrier
+T39	Organization 2400 2408	the city
+T42	Campaign 2460 2467	assault
+T37	Time 2451 2459	March 22
+T41	Person 2507 2518	the two men
+T44	Person 2575 2579	they
+T46	Location 2601 2608	Atlanta
+T49	Person 2743 2750	Savandi
+T54	Money 3398 3405	$50,000
+T52	Person 3276 3287	the two men
+T61	Money 4541 4548	$30,000
+T59	Organization 4507 4513	Newark
+T47	Time 15 24	Wednesday
+T3	System 99 137	the city of Atlanta’s computer network
+T50	Number 358 360	34
+T53	Number 396 398	27
+T5	Number 575 588	more than 200
+T14	Location 608 615	country
+T71	Money 730 741	$30 million
+T73	Location 819 844	city of Atlanta computers
+T72	Campaign 811 815	hack
+T75	Time 848 853	March
+T76	Organization 863 876	city business
+T77	Time 881 885	days
+T78	Organization 755 771	various entities
+T79	Organization 0 11	Authorities
+T80	Organization 786 805	federal authorities
+T81	Time 924 930	August
+T82	Organization 959 963	city
+T83	Money 981 992	$17 million
+T84	File 887 906	One internal report
+T85	Person 1017 1023	people
+T86	Person 995 997	We
+T88	Organization 1085 1106	Channel 2 Action News
+T89	Person 1178 1180	we
+T90	Location 1380 1395	Washington D.C.
+T91	Person 1409 1416	victims
+T60	File 4558 4568	attachment
+T92	Domain 4579 4593	ransom website
+T93	Location 4624 4639	city of Atlanta
+T94	Domain 4647 4658	Tor network
+T95	Person 4674 4681	someone
+T96	Software 4713 4724	Tor browser
+T97	File 4772 4777	files
+T98	File 4802 4807	Files
+T99	Domain 4858 4862	site
+T100	Number 4830 4831	2
+T101	Person 3864 3879	Tony UcedaVelez
+T102	Person 3881 3897	CEO of Versprite
+T103	Organization 3902 3933	Atlanta based security services
+T57	Person 4013 4026	city’s behalf
+T56	Campaign 3990 3996	ransom
+T63	File 3959 3969	indictment
+T104	Person 4032 4034	he
+T105	Person 4067 4074	someone
+T106	File 4040 4042	it
+T107	Hacker-Group 4129 4138	attackers
+T108	Money 4105 4110	funds
+T109	Person 4140 4150	UcedaVelez
+T110	File 4170 4180	attachment
+T111	File 4188 4198	indictment
+T112	Person 4214 4221	someone
+T113	Organization 4242 4246	city
+T114	Information 4264 4295	attackers’ initial instructions
+T115	Hacker-Group 4264 4273	attackers
+T116	Organization 4338 4344	Newark
+T117	File 4301 4311	indictment
+T118	Software 4381 4400	Tor network browser
+T119	Domain 4415 4433	attackers’ website
+T120	Person 4440 4447	victims
+T121	File 4461 4470	two files
+T122	File 3251 3261	indictment
+T51	Money 3309 3317	bitcoins
+T123	Money 3331 3346	crypto currency
+T55	Money 3444 3451	dollars
+T124	Person 3523 3533	Echemendia
+T125	Information 3649 3672	somebody’s back account
+T126	Organization 3679 3697	Justice Department
+T127	Organization 3737 3740	AJC
+T128	Time 3755 3763	April 19
+T129	Money 3776 3784	bitcoins
+T130	File 3820 3830	indictment
+T131	Campaign 3846 3862	Atlanta’s attack
+T132	Location 3790 3802	Iranian rial
+T133	Time 2733 2741	April 19
+T134	Money 2761 2766	funds
+T48	Location 2826 2838	Iranian rial
+T135	Organization 2860 2878	currency exchanger
+T136	Campaign 2951 2965	Atlanta attack
+T137	File 2884 2894	indictment
+T138	Person 2971 2987	Ralph Echemendia
+T139	Person 2989 3061	a computer hacking consultant who advises corporations on cyber security
+T140	Person 3068 3070	he
+T141	File 3080 3090	indictment
+T142	Money 3106 3113	payment
+T143	Campaign 3138 3152	Atlanta attack
+T144	File 3161 3163	it
+T145	Person 3186 3200	federal agents
+T146	Campaign 3215 3221	breach
+T147	Person 3225 3232	Savanda
+T148	Person 3237 3245	Mansouri
+T45	Information 2676 2699	city’s compromised data
+T149	Money 2612 2628	Bitcoin payments
+T150	Information 2645 2660	encryption keys
+T151	File 2314 2324	indictment
+T152	Location 2347 2354	Atlanta
+T153	File 2359 2361	it
+T38	System 2471 2488	Atlanta’s network
+T40	Organization 2044 2062	Justice Department
+T43	Person 2069 2078	reporters
+T65	Time 2082 2091	Wednesday
+T154	Person 2101 2107	agency
+T32	Person 2241 2254	city’s behalf
+T35	Time 2194 2203	Wednesday
+T58	Organization 2160 2190	A city of Atlanta spokesperson
+T62	Location 2039 2042	U.S
+T155	Person 2001 2030	an assistant attorney general
+T156	Person 1982 1999	Brian Benczkowski
+T24	File 1872 1898	26-page federal indictment
+T25	Time 1908 1917	Wednesday
+T29	Person 1634 1662	Justice Department officials
+T157	Person 1746 1750	them
+T158	Person 1526 1541	American people
+T159	Person 1548 1555	two men
+T160	Organization 1567 1579	U.S. custody
+T161	Location 1585 1589	Iran
+T162	Location 1625 1628	U.S
+T163	Money 3488 3490	it
+T165	Money 3436 3438	it
+T166	Campaign 3980 3982	it
+T173	Person 3419 3422	you
+T177	Organization 4357 4359	it
+T178	System 1257 1261	them
+*	Coreference T59 T116 T177
+*	Coreference T93 T46 T152
+*	Coreference T96 T118
+*	Coreference T101 T109 T102 T104
+*	Coreference T126 T40
+*	Coreference T128 T133
+*	Coreference T132 T48
+*	Coreference T136 T131 T143 T146 T166
+*	Coreference T35 T25 T47 T65
+*	Coreference T62 T162
+*	Coreference T140 T139 T124 T138
+*	Coreference T7 T9
+T74	Person 1053 1058	Mayor
+T87	Person 1059 1079	Keisha Lance Bottoms
+T20	Person 1306 1329	Deputy Attorney General
+T170	Person 1330 1344	Rod Rosenstein
+*	Coreference T20 T170
+*	Coreference T66 T3
+*	Coreference T72 T1
+*	Coreference T75 T4
+*	Coreference T74 T87
+T70	System 1222 1247	victims’ computer systems
+*	Coreference T70 T178
+*	Coreference T156 T155
+T169	File 2426 2436	indictment
+T171	File 2559 2569	indictment
+*	Coreference T44 T41
+*	Coreference T163 T165 T51 T123
+*	Coreference T63 T130 T106 T111 T117 T144 T141 T151 T153 T169 T171 T137 T122

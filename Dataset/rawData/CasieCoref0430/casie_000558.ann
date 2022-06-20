@@ -1,0 +1,124 @@
+T18	Attack-Pattern 861 893	cycled through login credentials
+T17	Hacker-Group 851 860	attackers
+T16	Campaign 934 947	data breaches
+T21	Information 966 974	accounts
+T23	Purpose 1028 1053	make fraudulent purchases
+T25	Information 1000 1014	those accounts
+T2	Campaign 91 97	breach
+T45	Time 74 90	 a December 2015
+T50	Organization 13 24	the company
+T1	Information 115 136	sensitive information
+T27	Information 1085 1094	passwords
+T28	Email 1065 1080	email addresses
+T30	Information 1156 1168	the accounts
+T31	Information 1189 1194	names
+T32	Information 1196 1221	saved contact information
+T33	Information 1223 1241	purchase histories
+T24	Information 1245 1266	 the last four digits
+T34	Information 1270 1290	payment card numbers
+T35	Campaign 1564 1572	incident
+T49	Time 1554 1563	 the 2015
+T37	Information 1522 1538	expiration dates
+T38	Information 1492 1517	full payment card numbers
+T41	Information 2033 2038	names
+T42	Information 2040 2059	contact information
+T43	Email 2061 2076	email addresses
+T44	Information 2078 2096	purchase histories
+T54	Information 2101 2145	the last four digits of payment card numbers
+T39	Campaign 2014 2024	The breach
+T48	Hacker-Group 2199 2212	The attackers
+T46	Information 2243 2269	InCircle gift card numbers
+T4	Campaign 175 186	new attacks
+T5	Time 192 209	earlier this year
+T53	Organization 157 159	It
+T7	Information 223 228	names
+T8	Information 230 249	contact information
+T9	Email 251 266	email addresses
+T10	Information 271 289	purchase histories
+T11	System 452 471	its payment systems
+T12	Attack-Pattern 472 498	were infected with malware
+T14	Information 518 538	payment card details
+T52	Organization 404 415	the company
+T51	Time 436 446	early 2014
+T15	Time 3 11	April 14
+T20	Person 37 69	 the California attorney general
+T3	Person 300 313	 the retailer
+T6	Campaign 338 350	 the attacks
+T55	Vulnerability 379 399	 the latest problems
+T13	Number 510 517	350,000
+T56	Time 540 563	Over the past few years
+T57	Person 565 574	retailers
+T58	Person 583 589	Target
+T59	Person 591 601	Home Depot
+T60	Person 606 612	others
+T61	System 633 661	 their card payments systems
+T62	Course-of-Action 629 674	keep their card payments systems malware-free
+T63	Course-of-Action 680 719	Neiman Marcus Downsizes Breach Estimate
+T65	Time 756 762	Dec 26
+T66	Time 802 815	a month later
+T67	Location 785 795	California
+T68	Person 816 829	 the retailer
+T19	Number 960 965	5,200
+T22	Number 994 996	70
+T26	Domain 1291 1313	 The affected websites
+T29	Domain 1368 1384	Bergdorf Goodman
+T69	Domain 1386 1395	Last Call
+T70	Domain 1397 1401	CUSP
+T71	Domain 1406 1413	Horchow
+T72	Person 1343 1356	Neiman Marcus
+T73	Organization 1463 1482	Neiman Marcus Group
+T36	Campaign 732 740	incident
+T64	Time 722 731	 The 2015
+T74	Campaign 1573 1591	 The latest attack
+T75	Organization 1605 1624	Neiman Marcus Group
+T76	Time 1648 1654	Jan 17
+T77	Time 1677 1690	December 2015
+T78	Campaign 1663 1671	 the one
+T79	Domain 1702 1732	 the websites of Neiman Marcus
+T80	Domain 1734 1750	Bergdorf Goodman
+T81	Domain 1752 1761	Last Call
+T82	Domain 1763 1767	CUSP
+T83	Domain 1769 1776	Horchow
+T84	Domain 1806 1814	InCircle
+T85	Organization 1823 1835	 the company
+T86	Hacker-Group 1850 1859	attackers
+T87	Domain 1941 1951	 its sites
+T88	Attack-Pattern 1860 1893	recycled other stolen credentials
+T89	Purpose 1911 1951	see which ones still worked on its sites
+T40	Organization 2270 2282	 the company
+T47	Software 2289 2301	Web services
+T90	Hacker-Group 2316 2323	hackers
+T91	Campaign 2340 2348	activity
+T92	IP 2412 2424	IP addresses
+T93	System 2425 2449	 Those defensive systems
+T94	Time 2603 2615	 the January
+T95	Campaign 2616 2624	incident
+T96	Organization 2626 2645	Neimen Marcus Group
+T97	Course-of-Action 2658 2685	 a mandatory password reset
+T98	Person 2755 2760	users
+T99	Software 2792 2802	 a service
+T100	Vulnerability 2808 2817	 the risk
+T101	Person 2824 2829	users
+T102	Person 2833 2842	customers
+T103	Organization 2843 2855	 The company
+T104	Software 2914 2940	 an identity theft service
+T105	Campaign 2147 2149	It
+T106	Campaign 2766 2768	it
+T107	Campaign 1692 1694	It
+T108	Person 835 837	it
+T110	Campaign 2687 2689	It
+T112	Person 319 321	it
+*	Coreference T3 T112
+*	Coreference T29 T80
+*	Coreference T69 T81
+*	Coreference T70 T82
+*	Coreference T71 T83
+*	Coreference T96 T75 T72 T73
+*	Coreference T40 T85 T103
+*	Coreference T53 T50 T52
+*	Coreference T6 T4
+*	Coreference T68 T108
+*	Coreference T21 T25
+*	Coreference T39 T105
+*	Coreference T110 T95 T106
+*	Coreference T107 T74

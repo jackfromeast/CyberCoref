@@ -1,0 +1,40 @@
+T9	Device 875 882	devices
+T8	Version 921 934	Version 2.4.0
+T5	Version 902 917	latest versions
+T13	Vulnerability 949 959	the issues
+T2	Vulnerability 40 73	two high-security vulnerabilities
+T3	Device 92 109	G5 mobile devices
+T4	Person 0 20	MWR Labs researchers
+T7	Device 84 86	G4
+T6	Device 77 82	LG G3
+T1	Vulnerability 115 119	bugs
+T11	Vulnerability 130 151	Path Transversal flaw
+T12	Vulnerability 159 189	Arbitrary File Disclosure flaw
+T15	Course-of-Action 219 238	security advisories
+T16	Vulnerability 244 265	Path Transversal flaw
+T17	Software 284 295	application
+T18	Hacker-Group 399 407	attacker
+T19	System 420 427	network
+T14	Course-of-Action 939 959	mitigated the issues
+T10	Course-of-Action 862 894	ensure their devices are updated
+T20	Person 838 843	Users
+T21	Hacker-Group 729 737	attacker
+T22	System 697 709	WiFi network
+T23	Vulnerability 529 559	Arbitrary File Disclosure flaw
+T24	Software 589 606	Cloud application
+T25	Software 578 588	SmartShare
+T26	Device 620 647	unauthenticated HTTP Server
+T27	File 754 764	media file
+T28	Information 774 801	Cloud storage of the victim
+T29	Information 827 836	file name
+T30	Course-of-Action 489 503	authentication
+T31	File 450 460	media file
+T32	Person 433 437	user
+T33	File 464 470	folder
+T34	Information 316 330	URL parameters
+*	Coreference T11 T16
+*	Coreference T12 T23
+*	Coreference T17 T24
+*	Coreference T18 T21
+*	Coreference T19 T22
+*	Coreference T20 T32

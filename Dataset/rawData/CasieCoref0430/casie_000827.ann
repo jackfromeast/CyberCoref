@@ -1,0 +1,86 @@
+T6	Information 1337 1357	key security details
+T7	System 1368 1375	 the OS
+T9	Hacker-Group 1385 1397	 an attacker
+T10	Information 1408 1427	sensitive user data
+T4	Information 695 706	credentials
+T2	Malware 472 491	 an Android malware
+T1	Malware 459 469	Hummingbad
+T11	Attack-Pattern 661 684	installing a key-logger
+T12	Number 883 893	85 million
+T13	Device 894 901	devices
+T14	Malware 31 61	 the top mobile malware threat
+T15	Malware 0 10	Hummingbad
+T16	Vulnerability 104 112	backdoor
+T17	System 117 124	Android
+T18	Organization 139 159	Check Point Security
+T19	System 251 257	system
+T20	Malware 211 218	malware
+T21	Information 353 357	data
+T22	Time 335 342	January
+T23	Malware 409 419	Hummingbad
+T24	Money 936 944	$300,000
+T25	Hacker-Group 1023 1058	 a group of Chinese cyber-criminals
+T26	Hacker-Group 983 997	 the criminals
+T27	Information 711 747	bypassing encrypted email containers
+T3	Device 532 543	 the device
+T28	Malware 1161 1176	Android malware
+T29	Malware 1126 1140	mobile malware
+T30	Malware 1151 1157	Hiddad
+T31	Software 1205 1209	apps
+T5	Hacker-Group 1015 1022	Yingmob
+T8	Hacker-Group 1060 1067	Yingmob
+T33	Malware 1842 1856	HackerDefender
+T34	Malware 1439 1453	mobile malware
+T35	Money 1589 1596	bitcoin
+T36	Device 1796 1823	 a Command & Control server
+T37	Hacker-Group 2001 2008	hackers
+T38	Malware 1970 1986	malware families
+T39	Attack-Pattern 2084 2098	 These threats
+T40	Malware 2226 2236	ransomware
+T41	Malware 2239 2248	 a Trojan
+T42	Device 2251 2272	 the victim’s machine
+T43	Malware 63 65	It
+T44	Software 1228 1232	them
+T45	Malware 1712 1714	it
+T46	Malware 228 230	it
+T47	Malware 1716 1718	It
+T48	Organization 859 861	it
+T50	Malware 1005 1007	it
+T51	Malware 1303 1305	it
+T52	Malware 269 271	It
+T53	Malware 86 92	Triada
+T54	Malware 161 167	Triada
+T55	Organization 362 389	 the World Cyber Threat Map
+T56	Malware 433 439	baddie
+T57	Malware 554 577	fraudulent applications
+T58	Malware 769 771	It
+T59	System 472 483	 an Android
+T60	Organization 837 848	Check Point
+T49	Organization 1508 1519	Check Point
+T61	Campaign 1489 1504	malware attacks
+T62	Malware 1563 1570	Kelihos
+T63	Malware 1620 1653	the most prevalent malware family
+T64	Organization 1674 1696	organizations globally
+T65	Device 1771 1786	individual node
+T66	Malware 1861 1871	Cryptowall
+T67	Organization 1940 1949	companies
+T68	Attack-Pattern 2036 2062	attack vectors and tactics
+T69	Campaign 2150 2161	spam emails
+T70	Campaign 1607 1615	spamming
+T71	Malware 1825 1827	It
+T72	Protocol 1728 1755	peer-to-peer communications
+T32	System 1108 1115	network
+*	Coreference T43 T15 T23 T56 T1 T58 T50
+*	Coreference T54 T53 T52
+*	Coreference T46 T20 T57 T29 T34
+*	Coreference T19 T17 T59
+*	Coreference T48 T60 T49 T18
+*	Coreference T13 T3
+*	Coreference T26 T5 T25
+*	Coreference T30 T28 T51
+*	Coreference T44 T31
+*	Coreference T62 T63 T45 T47 T71
+*	Coreference T65 T36
+*	Coreference T67 T64
+*	Coreference T39 T68
+*	Coreference T69 T70

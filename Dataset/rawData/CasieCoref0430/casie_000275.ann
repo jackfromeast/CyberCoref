@@ -1,0 +1,58 @@
+T1	Campaign 80 97	phishing campaign
+T4	Attack-Pattern 103 127	utilizes PDF attachments
+T2	Time 54 63	Wednesday
+T3	File 131 143	a novel ploy
+T5	Purpose 147 172	harvest email credentials
+T6	Person 178 185	victims
+T14	Information 881 892	credentials
+T9	Purpose 905 944	gaining a small foothold into a company
+T7	Purpose 972 1005	perpetuate further phishing scams
+T10	Organization 4 30	SANS Internet Storm Center
+T12	Email 218 228	 the email
+T15	File 293 317	 a single PDF attachment
+T16	File 362 377	PDF Secure File
+T17	URL 421 428	 a link
+T18	File 439 451	the document
+T19	File 458 474	the PDF document
+T20	Device 481 493	the computer
+T21	Software 496 510	default viewer
+T22	File 546 553	the PDF
+T23	Person 564 572	the user
+T24	Email 581 601	 their email address
+T25	Information 606 614	password
+T26	Person 641 669	the most sophisticated users
+T28	Number 723 728	twice
+T29	File 765 771	 a PDF
+T30	Person 779 792	John Bambenek
+T31	Person 794 801	handler
+T32	Organization 805 831	SANS Internet Storm Center
+T36	Person 833 841	Bambenek
+T13	Hacker-Group 856 865	attackers
+T8	Information 948 965	 an email account
+T37	Organization 934 944	 a company
+T38	Campaign 991 1005	phishing scams
+T40	Organization 692 703	Joe Cubicle
+T41	Organization 1032 1039	VetMeds
+T42	Organization 1068 1078	 a VetMeds
+T43	File 1120 1136	the one-page PDF
+T45	Email 1283 1296	email address
+T46	Information 1300 1308	password
+T48	Person 1432 1440	Bambenek
+T50	Organization 1167 1175	 a SWIFT
+T51	Organization 1177 1236	Society for Worldwide Interbank Financial Telecommunication
+T47	File 1353 1366	 The document
+T33	Email 1006 1016	 The email
+T39	File 1043 1051	 the PDF
+T44	File 1151 1164	 the document
+T49	Hacker-Group 1417 1429	 the spammer
+T52	Person 1390 1393	you
+T54	Person 1309 1312	you
+T11	File 200 217	the SANS bulletin
+T27	Information 251 270	Assessment document
+*	Coreference T10 T32
+*	Coreference T30 T36 T48
+*	Coreference T41 T42
+*	Coreference T50 T51
+*	Coreference T19 T15 T18 T16 T22
+*	Coreference T43 T44 T47 T29 T39
+*	Coreference T52 T54

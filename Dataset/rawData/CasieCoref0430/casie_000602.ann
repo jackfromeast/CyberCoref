@@ -1,0 +1,92 @@
+T20	Person 1758 1772	the kit author
+T23	Information 1865 1887	the stolen information
+T25	Information 2050 2054	them
+T29	Person 1913 1917	they
+T28	Information 1947 1963	stolen usernames
+T27	Information 1965 1974	passwords
+T26	Information 1980 1999	credit card details
+T6	Email 388 403	phishing emails
+T4	Hacker-Group 356 378	wannabe cybercriminals
+T38	Domain 408 416	websites
+T2	Person 279 289	themselves
+T3	Person 248 252	they
+T37	Person 2456 2473	the kits' authors
+T34	Information 2425 2445	the hidden addresses
+T36	Person 2508 2534	the inexperienced phishers
+T31	Person 2284 2303	implicit recipients
+T33	Campaign 2330 2342	the phishing
+T16	Information 1671 1682	information
+T7	Hacker-Group 467 487	the trainee phishers
+T9	Information 516 533	their stolen data
+T11	Campaign 579 587	phishing
+T18	Malware 1539 1559	 these phishing kits
+T17	Hacker-Group 1572 1590	aspiring attackers
+T13	Malware 1626 1632	a copy
+T14	Domain 1636 1651	target websites
+T39	Domain 105 123	underground forums
+T40	Domain 127 140	 the dark web
+T41	Person 163 166	you
+T42	Malware 233 246	phishing kits
+T1	Malware 324 337	phishing kits
+T5	Campaign 661 695	 the highest profile cyber-attacks
+T8	Time 699 711	recent years
+T43	Email 722 739	 a phishing email
+T44	Hacker-Group 763 777	newbie hackers
+T45	Hacker-Group 857 871	cybercriminals
+T46	Person 943 974	 the original author of the kit
+T47	Person 976 998	Researchers at Imperva
+T48	Number 1008 1013	1,019
+T49	Malware 1014 1045	readily-available phishing kits
+T50	Organization 1055 1074	underground markets
+T51	Malware 1087 1118	low-cost and free phishing kits
+T52	Hacker-Group 1161 1176	cyber-attackers
+T53	Organization 1194 1215	 the illegal industry
+T54	Organization 1219 1238	Underground markets
+T55	Malware 1251 1264	phishing kits
+T56	Person 1414 1424	Luda Lazar
+T57	Person 1426 1463	security research engineer at Imperva
+T59	Person 1523 1526	she
+T12	Malware 1720 1744	 an undisclosed backdoor
+T15	Campaign 1799 1826	the campaigns of the crooks
+T19	Attack-Pattern 1827 1887	using the software and gain access to the stolen information
+T21	Software 1832 1845	 the software
+T22	Person 2068 2090	 the phishing kit user
+T24	Person 2152 2159	victims
+T60	Information 2172 2181	passwords
+T61	Information 2192 2204	credit cards
+T62	Person 2208 2212	they
+T30	Email 2318 2324	emails
+T32	Number 2251 2264	25 percent of
+T63	Malware 2264 2273	 the kits
+T64	Person 2361 2376	 the kit buyers
+T35	Malware 2545 2556	 these kits
+T65	Person 2564 2569	Lazar
+T66	Person 2410 2412	We
+T67	Malware 2594 2614	 these phishing kits
+T68	Hacker-Group 2729 2738	 a hacker
+T69	Person 2754 2770	 the authorities
+T70	Malware 2650 2654	them
+T71	Person 2689 2696	victims
+T72	Pronoun 2221 2225	they
+T73	Person 1395 1398	you
+T76	Person 1382 1385	you
+T77	Person 2776 2780	they
+T82	Person 27 30	you
+T84	Pronoun 2406 2408	it
+T88	Person 40 43	you
+T58	Person 1471 1473	we
+T74	Person 556 572	 the kit authors
+T10	Attack-Pattern 2586 2623	offering these phishing kits for free
+T75	Attack-Pattern 2625 2627	it
+T78	Person 2637 2642	those
+*	Coreference T50 T54
+*	Coreference T63 T35
+*	Coreference T57 T59 T56 T65
+*	Coreference T82 T88 T41
+*	Coreference T2 T3
+*	Coreference T18 T49
+*	Coreference T22 T20 T29
+*	Coreference T10 T75
+*	Coreference T67 T70
+*	Coreference T78 T37
+*	Coreference T77 T69

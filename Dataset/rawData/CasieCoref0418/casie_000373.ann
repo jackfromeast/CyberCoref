@@ -1,0 +1,81 @@
+T12	Email 1756 1762	emails
+T9	Campaign 1699 1730	spear-phishing campaign hitting
+T11	Hacker-Group 1650 1654	FIN7
+T10	Organization 1731 1750	US-based businesses
+T8	Attack-Pattern 374 406	malicious Word document attached
+T6	Email 412 426	phishing email
+T7	Organization 465 473	business
+T1	Campaign 281 293	exfiltration
+T2	Information 297 318	financial information
+T3	Attack-Pattern 228 246	install a backdoor
+T4	Attack-Pattern 180 226	gain control of the target businesses’ systems
+T15	Person 0 21	Morphisec researchers
+T16	Campaign 43 58	attack campaign
+T17	Attack-Pattern 59 81	using fileless malware
+T18	Hacker-Group 120 147	infamous FIN7 hacking group
+T20	Campaign 165 173	campaign
+T21	System 200 226	target businesses’ systems
+T22	System 260 262	it
+T23	Campaign 326 338	past attacks
+T24	File 374 397	malicious Word document
+T5	Campaign 482 503	day-to-day operations
+T25	Person 510 521	researchers
+T26	File 535 548	Word document
+T27	Campaign 560 575	fileless attack
+T28	Attack-Pattern 581 597	uses DNS queries
+T29	Purpose 601 647	deliver the next shellcode stage (Meterpreter)
+T30	Malware 670 677	variant
+T31	Campaign 687 699	DNS activity
+T32	Attack-Pattern 679 744	all the DNS activity is initiated and executed solely from memory
+T33	Device 738 744	memory
+T34	Campaign 754 770	previous attacks
+T35	Person 808 819	researchers
+T36	Campaign 839 855	important change
+T37	Organization 863 868	group
+T38	Person 909 918	defenders
+T39	Person 924 928	they
+T41	Code 999 1008	shellcode
+T40	Campaign 953 993	decryption of the second stage shellcode
+T42	Attack-Pattern 1009 1083	deletes the ‘MZ’ prefix from within a very important part of the shellcode
+T43	Code 1074 1083	shellcode
+T44	Code 1119 1122	DLL
+T45	Campaign 1132 1140	deletion
+T46	Campaign 1151 1157	attack
+T47	Attack-Pattern 1161 1192	evade memory scanning solutions
+T48	Person 1199 1210	researchers
+T49	Code 1227 1230	DLL
+T50	Device 1244 1248	disk
+T51	Code 1301 1303	it
+T52	Malware 1309 1333	CobaltStrike Meterpreter
+T53	Hacker-Group 1357 1366	attackers
+T54	Person 1371 1382	pen testers
+T55	Code 1403 1405	it
+T56	Attack-Pattern 1406 1423	passes undetected
+T13	Person 1840 1861	Morphisec researchers
+T57	Number 1875 1888	the series of
+T58	Campaign 1889 1896	attacks
+T59	Number 1915 1919	140+
+T60	Organization 1920 1925	banks
+T61	Organization 1930 1946	other businesses
+T62	Time 1947 1964	earlier this year
+T63	Hacker-Group 1985 1989	FIN7
+T64	Hacker-Group 2018 2040	infamous Carbanak gang
+T65	Hacker-Group 2054 2058	they
+T66	Campaign 1425 1451	In-memory resident attacks
+T67	Malware 1467 1483	fileless malware
+T68	Hacker-Group 1517 1522	group
+T69	Hacker-Group 1505 1509	FIN7
+T70	Hacker-Group 1601 1610	attackers
+T71	Attack-Pattern 1623 1648	implement the same tactic
+*	Coreference T16 T20
+*	Coreference T11 T69 T63 T68 T18
+*	Coreference T22 T21
+*	Coreference T25 T15 T35 T13 T48 T39
+*	Coreference T26 T24
+*	Coreference T23 T34
+T19	Code 1107 1109	it
+*	Coreference T51 T52 T41 T43 T19 T44 T49 T55
+T14	Organization 1791 1828	US Securities and Exchange Commission
+T73	Organization 1830 1833	SEC
+*	Coreference T14 T73
+*	Coreference T64 T65

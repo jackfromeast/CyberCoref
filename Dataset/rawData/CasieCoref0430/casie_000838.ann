@@ -1,0 +1,65 @@
+T4	Campaign 133 152	are still unpatched
+T32	Vulnerability 218 237	the vulnerabilities
+T5	Vulnerability 163 182	public exploit code
+T15	Organization 354 369	Western Digital
+T16	Person 321 328	Zenofex
+T8	Person 14 35	a security researcher
+T6	Person 60 67	Zenofex
+T3	Organization 116 131	Western Digital
+T1	Vulnerability 69 89	these security flaws
+T10	Device 269 297	WD MyCloud NAS device models
+T11	Person 252 259	Zenofex
+T13	Organization 489 504	Western Digital
+T19	Campaign 768 790	responsible disclosure
+T18	Device 712 735	 the vulnerable devices
+T17	Vulnerability 690 700	these bugs
+T20	Course-of-Action 869 876	patches
+T21	Vulnerability 877 894	the security bugs
+T22	Organization 853 868	Western Digital
+T25	Campaign 925 930	alert
+T23	Vulnerability 947 957	 the flaws
+T24	Person 905 907	we
+T26	Device 987 1000	their devices
+T28	Campaign 1161 1166	found
+T29	Person 1158 1160	he
+T27	Vulnerability 1190 1205	security issues
+T30	Person 1098 1105	Zenofex
+T35	Campaign 1267 1279	be exploited
+T33	Vulnerability 1241 1262	 these security flaws
+T31	Attack-Pattern 1283 1305	altering cookie values
+T34	Attack-Pattern 1309 1354	embedding shell commands in cookie parameters
+T36	Time 427 436	last year
+T9	Vulnerability 514 527	vulnerability
+T12	Number 1187 1189	85
+T37	Code 1228 1232	code
+T38	Device 1889 1896	devices
+T39	Code 1411 1415	code
+T40	Attack-Pattern 1915 1938	upload or download data
+T42	Vulnerability 1498 1511	 these issues
+T45	Person 1088 1090	he
+T46	Hacker-Group 1907 1911	them
+T2	Person 380 395	 the researcher
+T7	Organization 556 566	conference
+T14	Organization 568 586	Black Hat USA 2016
+T47	Organization 594 609	Western Digital
+T48	Campaign 618 632	 a Pwnie Award
+T49	Campaign 655 677	Lamest Vendor Response
+T50	Person 807 814	Zenofex
+T51	Person 822 825	his
+T52	Organization 974 979	users
+T53	Organization 930 944	 the community
+T54	Organization 1036 1041	their
+T44	Person 1112 1151	 a member of the Exploitee.rs community
+T55	Person 1384 1389	their
+T56	Person 1526 1533	Zenofex
+T41	Hacker-Group 1852 1861	attackers
+T43	Device 1467 1478	 the device
+*	Coreference T16 T30 T11 T6 T8 T2 T50 T51 T24 T45 T44 T29 T56
+*	Coreference T22 T3 T13 T15 T47
+*	Coreference T1 T17 T27 T33 T21 T5 T32 T9 T42
+*	Coreference T37 T39
+*	Coreference T7 T14
+*	Coreference T48 T49
+*	Coreference T53 T52 T54 T55
+*	Coreference T18 T26 T38 T43
+*	Coreference T41 T46

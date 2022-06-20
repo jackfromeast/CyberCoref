@@ -1,0 +1,74 @@
+T7	Campaign 186 196	tracked as
+T9	Vulnerability 197 210	CVE-2018-0296
+T8	Vulnerability 176 184	The flaw
+T10	Time 243 249	June 6
+T11	Campaign 254 261	affects
+T12	Software 262 280	Cisco ASA Software
+T13	Software 285 330	Cisco Firepower Threat Defense (FTD) Software
+T3	Campaign 129 138	affecting
+T2	Vulnerability 85 128	a recently disclosed denial-of-service flaw
+T4	Device 151 174	its security appliances
+T14	Campaign 374 381	upgrade
+T18	Organization 333 338	Cisco
+T15	Course-of-Action 385 409	a fixed software release
+T16	Campaign 413 422	remediate
+T17	Vulnerability 423 433	this issue
+T6	Campaign 65 72	install
+T1	Course-of-Action 73 80	the fix
+T5	Organization 39 44	Cisco
+T26	Course-of-Action 949 969	updated the advisory
+T28	Vulnerability 974 987	CVE-2018-0296
+T27	Organization 934 939	Cisco
+T20	Campaign 499 505	warned
+T21	Time 509 516	June 22
+T19	Person 436 447	Omar Santos
+T45	Organization 451 456	Cisco
+T49	Person 459 498	Product Security Incident Response Team
+T23	Campaign 603 608	notes
+T24	Attack-Pattern 633 692	remote attacker could cause a device to reload unexpectedly
+T25	Attack-Pattern 703 728	a denial-of-service (DoS)
+T22	Person 596 602	Santos
+T31	Person 1020 1034	The researcher
+T32	Vulnerability 1045 1053	the flaw
+T33	Person 1055 1072	Michał Bentkowski
+T46	Organization 1078 1108	Polish security firm Securitum
+T36	Vulnerability 1194 1201	the bug
+T35	Organization 1178 1183	Cisco
+T39	Person 1203 1213	Bentkowsky
+T38	Vulnerability 1223 1232	the issue
+T40	Organization 1236 1241	Cisco
+T52	Attack-Pattern 1254 1312	use directory-traversal techniques to disclose information
+T43	Vulnerability 1654 1667	CVE-2018-0296
+T41	Organization 1591 1608	Bleeping Computer
+T50	Vulnerability 1624 1649	proof-of-concept exploits
+T51	System 1671 1677	GitHub
+T53	Attack-Pattern 1518 1589	use directory-traversal techniques to view sensitive system information
+T47	Information 1703 1713	user names
+T48	Device 1719 1728	Cisco ASA
+T29	Hacker-Group 1335 1343	attacker
+T30	Person 28 37	customers
+T34	Person 56 61	users
+T37	Person 364 373	customers
+T42	Campaign 517 529	 The attacks
+T44	Campaign 17 24	attacks
+T55	Vulnerability 585 594	 the flaw
+T56	Vulnerability 755 766	 an exploit
+T57	Person 840 846	Santos
+T58	Attack-Pattern 858 904	 a denial-of-service condition (device reload)
+T59	Organization 926 931	Cisco
+T60	Campaign 1006 1018	 the attacks
+T61	Organization 1345 1350	Cisco
+T62	Vulnerability 1359 1362	its
+T54	Vulnerability 1453 1469	 a device reload
+T63	Hacker-Group 1502 1514	 an attacker
+T64	Vulnerability 1679 1682	One
+T65	Vulnerability 1730 1739	The other
+*	Coreference T19 T22 T57
+*	Coreference T33 T39 T31
+*	Coreference T17 T38 T36 T43 T9 T28 T8 T32 T2 T55 T56 T62 T54
+*	Coreference T40 T35 T45 T27 T18 T5 T59 T61
+*	Coreference T30 T34 T37
+*	Coreference T44 T42 T60
+*	Coreference T25 T58
+*	Coreference T29 T63
+*	Coreference T64 T50 T65

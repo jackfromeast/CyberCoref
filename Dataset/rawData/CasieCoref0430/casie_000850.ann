@@ -1,0 +1,132 @@
+T15	Campaign 1102 1125	requesting for payments
+T18	Hacker-Group 1037 1043	groups
+T17	Attack-Pattern 1044 1063	launch DDoS attacks
+T16	Campaign 1133 1145	 the attacks
+T1	Campaign 172 175	pay
+T4	Organization 160 164	they
+T2	Money 176 180	€250
+T3	Money 182 186	$275
+T5	Attack-Pattern 57 79	launching DDoS attacks
+T6	Organization 88 105	German businesses
+T8	Organization 126 144	the same companies
+T49	Time 47 56	last week
+T50	Organization 23 32	XMR Squad
+T10	Campaign 440 451	 The attack
+T9	Organization 460 471	DHL Germany
+T11	Campaign 893 909	ask for a ransom
+T13	Hacker-Group 881 885	they
+T12	Campaign 917 929	 the attacks
+T21	Campaign 1428 1443	ask for payment
+T23	Hacker-Group 1418 1427	the group
+T32	Campaign 2286 2295	asked for
+T33	Money 2296 2305	5 Bitcoin
+T34	Money 2307 2313	$6,000
+T31	Attack-Pattern 2230 2281	used a DDoS botnet built with the Mirai IoT malware
+T30	Hacker-Group 2220 2229	the group
+T35	Campaign 2323 2330	attacks
+T29	Campaign 2196 2210	 those attacks
+T24	Campaign 2144 2175	DDoS-for-Bitcoin ransom attacks
+T25	Hacker-Group 2120 2134	Stealth Ravens
+T26	Hacker-Group 2097 2104	a group
+T28	Time 2087 2095	February
+T27	Time 2075 2082	January
+T42	Campaign 2425 2432	attacks
+T41	Organization 2396 2413	German businesses
+T40	Hacker-Group 2351 2364	another group
+T39	Hacker-Group 2371 2381	Kadyrovtsy
+T38	Time 2345 2349	June
+T37	Time 2332 2341	Last year
+T48	Hacker-Group 2953 2961	copycats
+T47	Organization 3040 3049	companies
+T19	Money 1315 1327	DDoS ransoms
+T43	Campaign 2480 2487	attacks
+T45	Time 2488 2503	a month earlier
+T44	Organization 2523 2535	Polish banks
+T36	Hacker-Group 2451 2461	This group
+T7	Time 2742 2754	January 2016
+T14	Person 1087 1101	 their victims
+T20	Domain 325 335	Snipes.com
+T22	Campaign 3019 3034	extort payments
+T52	Hacker-Group 977 981	they
+T53	Hacker-Group 1889 1893	they
+T55	Campaign 502 504	it
+T56	Hacker-Group 664 668	They
+T57	Hacker-Group 1865 1869	they
+T58	Organization 155 159	them
+T59	Hacker-Group 853 855	it
+T61	Hacker-Group 1792 1796	they
+T46	Hacker-Group 2 7	group
+T62	Campaign 67 79	DDoS attacks
+T60	System 200 230	 their DDoS protection systems
+T63	Organization 233 267	German DDoS protection firm Link11
+T64	Organization 293 296	DHL
+T65	Organization 514 526	 the company
+T66	Organization 658 661	DHL
+T67	Organization 578 590	eBay Germany
+T68	Person 701 713	Daniel Smith
+T69	Person 715 746	security researcher for Radware
+T70	Person 752 808	one of the persons currently keeping tabs of the attacks
+T71	Campaign 796 808	 the attacks
+T72	Hacker-Group 809 819	 The group
+T73	Organization 838 852	 the companies
+T74	Campaign 277 284	attacks
+T51	Campaign 988 1011	 a DDoS protection test
+T75	Campaign 1051 1063	DDoS attacks
+T76	Email 868 879	 the emails
+T77	Email 1078 1084	emails
+T78	Email 1147 1165	XMR Squad's emails
+T79	Campaign 1203 1213	DDoS tests
+T80	Money 1227 1238	 the ransom
+T81	Money 1351 1358	Bitcoin
+T82	Money 1362 1394	another anonymous cryptocurrency
+T54	Hacker-Group 1456 1466	 the group
+T85	Money 1523 1550	an anonymous cryptocurrency
+T86	Hacker-Group 1557 1567	 the group
+T87	Location 1617 1623	Russia
+T88	Hacker-Group 1657 1667	 the group
+T89	Person 1749 1767	 the same reporter
+T90	Person 1624 1642	 a German reporter
+T91	Hacker-Group 1768 1778	 the group
+T92	Campaign 1808 1820	 the attacks
+T95	Domain 1939 1953	 their website
+T96	Domain 1966 1979	xmr-squad.biz
+T97	Organization 1906 1929	 their hosting provider
+T98	Location 1981 1988	Germany
+T99	Organization 2014 2053	the target of several DDoS blackmailers
+T100	Organization 2177 2183	Link11
+T101	Hacker-Group 2540 2553	 these groups
+T102	Hacker-Group 2617 2622	DD4BC
+T103	Hacker-Group 2627 2644	Armada Collective
+T104	Hacker-Group 2645 2662	 These two groups
+T105	Organization 2718 2727	companies
+T106	Hacker-Group 2605 2611	groups
+T107	Organization 2756 2763	Europol
+T108	Hacker-Group 2797 2802	DD4BC
+T109	Hacker-Group 2866 2872	groups
+T110	Hacker-Group 2910 2931	these two main groups
+T111	Campaign 3093 3097	DDoS
+*	Coreference T17 T5
+*	Coreference T6 T41 T8 T58 T4
+*	Coreference T22 T11 T21 T15
+*	Coreference T27 T7
+*	Coreference T2 T3
+*	Coreference T64 T9 T65
+*	Coreference T55 T10
+*	Coreference T68 T69 T70
+*	Coreference T62 T71 T74 T12 T75 T43 T16 T42 T92
+*	Coreference T76 T77 T78
+*	Coreference T51 T79
+*	Coreference T80 T19
+*	Coreference T82 T85
+*	Coreference T90 T89
+*	Coreference T91 T61 T46 T50 T72 T59 T56 T13 T52 T18 T23 T86 T88 T57 T53
+*	Coreference T95 T96
+*	Coreference T98 T99
+*	Coreference T25 T26 T30
+*	Coreference T100 T63
+*	Coreference T24 T29 T35
+*	Coreference T33 T34
+*	Coreference T40 T39
+*	Coreference T106 T104 T109 T110
+*	Coreference T102 T108
+*	Coreference T105 T47

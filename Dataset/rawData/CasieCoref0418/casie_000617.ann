@@ -1,0 +1,57 @@
+T2	Device 190 203	The equipment
+T3	Time 254 270	Saturday evening
+T12	Information 840 852	a voter list
+T9	Information 783 796	the poll book
+T11	Information 822 834	a flash card
+T8	Campaign 182 187	theft
+T6	Device 57 66	equipment
+T14	Person 131 145	Georgia voters
+T4	Campaign 34 43	the theft
+T5	Time 44 53	last week
+T13	Campaign 1107 1116	the theft
+T16	Device 74 108	Cobb County precinct manager’s car
+T7	Information 131 167	Georgia voters’ personal information
+T18	Person 74 102	Cobb County precinct manager
+T15	Person 272 290	Secretary of State
+T1	Person 291 301	Brian Kemp
+T19	Time 307 313	Monday
+T20	Person 316 346	Cobb County elections director
+T21	Person 347 360	Janine Eveler
+T22	Device 370 384	stolen machine
+T23	Device 398 414	ExpressPoll unit
+T24	Campaign 434 451	fraudulently vote
+T26	Time 455 462	Tuesday
+T27	File 501 539	copy of Georgia’s statewide voter file
+T28	Person 543 545	We
+T29	Campaign 607 615	election
+T30	Person 618 624	Eveler
+T31	File 642 646	file
+T32	Information 656 680	drivers’ license numbers
+T33	Information 682 691	addresses
+T34	Information 702 706	data
+T35	Information 728 751	Social Security numbers
+T36	Person 753 759	Eveler
+T10	Person 1263 1264	I
+T37	Number 1328 1334	55,000
+T39	Person 1022 1026	Kemp
+T40	Time 1081 1089	two days
+T41	Person 1059 1073	Cobb officials
+T42	Person 1236 1240	Kemp
+T43	Campaign 1417 1425	campaign
+T44	Campaign 1376 1394	Tuesday’s election
+T45	Organization 954 972	Cobb County Police
+T46	Organization 981 1001	State Election Board
+T47	Pronoun 772 775	she
+T48	Pronoun 1157 1159	we
+T49	Pronoun 1100 1103	him
+T50	Pronoun 708 710	it
+T51	Pronoun 865 867	it
+T52	Pronoun 856 858	it
+T53	Pronoun 1032 1034	it
+T54	Pronoun 1192 1194	it
+T55	Pronoun 483 485	it
+*	Coreference T2 T6
+*	Coreference T4 T8 T13
+*	Coreference T44 T29 T17
+*	Coreference T30 T36 T21
+T17	Campaign 465 473	election

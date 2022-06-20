@@ -1,0 +1,63 @@
+T1	Vulnerability 4 35	zero-day memory corruption flaw
+T4	Attack-Pattern 185 228	crash systems with denial of service attack
+T6	Organization 296 303	US-CERT
+T10	Vulnerability 305 322	the vulnerability
+T22	Attack-Pattern 350 372	execute arbitrary code
+T8	Organization 472 481	Microsoft
+T12	Vulnerability 521 538	the vulnerability
+T34	Vulnerability 562 573	the exploit
+T16	Organization 581 590	Microsoft
+T19	Vulnerability 627 636	the issue
+T31	File 913 942	proof-of-concept exploit code
+T30	System 993 1003	Windows 10
+T33	Person 1007 1041	security researcher Laurent Gaffie
+T25	System 1163 1174	SMB traffic
+T24	Vulnerability 1093 1115	memory corruption flaw
+T29	Attack-Pattern 1230 1283	tricking victims to connect to a malicious SMB server
+T28	Organization 1846 1855	Microsoft
+T9	Vulnerability 1864 1890	the memory corruption flaw
+T18	Vulnerability 1994 2003	the issue
+T20	Person 1960 1973	Windows users
+T2	File 73 112	SMB (server message block) network file
+T3	Hacker-Group 157 181	unauthenticated attacker
+T36	Attack-Pattern 247 281	open them to more possible attacks
+T37	Campaign 274 281	attacks
+T5	Information 378 425	Windows kernel privileges on vulnerable systems
+T35	System 407 425	vulnerable systems
+T7	System 647 654	Windows
+T11	Person 818 827	customers
+T15	System 832 842	Windows 10
+T21	Software 851 873	Microsoft Edge browser
+T38	File 944 952	Win10.py
+T32	Software 1080 1087	browser
+T23	Hacker-Group 1202 1211	attackers
+T26	Attack-Pattern 1312 1350	using clever social engineering tricks
+T39	System 1368 1375	Windows
+T40	Information 1403 1418	server response
+T41	System 1487 1523	SMB2 TREE_CONNECT Response structure
+T42	Organization 1526 1530	CERT
+T43	System 1583 1593	SMB server
+T44	System 1608 1629	Windows client system
+T45	File 1650 1662	mrxsmb20.sys
+T46	Code 1675 1687	exploit code
+T47	Course-of-Action 1742 1771	official patch from Microsoft
+T48	Organization 1762 1771	Microsoft
+T49	Person 1777 1790	Windows users
+T50	Campaign 1818 1825	attacks
+T27	Course-of-Action 1856 1890	patches the memory corruption flaw
+T51	Course-of-Action 1922 1957	Windows update or out-of-band patch
+T13	Course-of-Action 1978 2040	temporarily fix the issue by blocking outbound SMB connections
+T14	System 2100 2113	local network
+T52	System 252 256	them
+T53	Hacker-Group 1217 1221	they
+T54	Person 805 807	We
+*	Coreference T6 T42
+*	Coreference T19 T18 T10 T12 T1 T24 T9
+*	Coreference T16 T28 T8 T48
+*	Coreference T30 T39 T15
+T55	System 191 198	systems
+*	Coreference T55 T52
+*	Coreference T31 T38
+T17	System 1147 1154	Windows
+*	Coreference T17 T7
+*	Coreference T53 T23

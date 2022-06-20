@@ -1,0 +1,82 @@
+T3	Campaign 966 976	looks like
+T8	File 943 965	The order confirmation
+T5	Campaign 980 989	came from
+T7	Organization 990 996	Amazon
+T2	File 977 979	it
+T14	Campaign 1001 1021	appears to come from
+T6	File 998 1000	it
+T11	Information 1069 1082	email address
+T17	Campaign 1101 1105	sent
+T9	Hacker-Group 1113 1120	scammer
+T12	Campaign 1132 1141	instructs
+T20	File 1122 1131	The order
+T19	Attack-Pattern 1154 1209	pay via direct bank transfer, to a private bank account
+T18	Person 1142 1150	the user
+T13	Organization 1230 1236	Amazon
+T1	Person 1274 1281	victims
+T4	Person 437 443	victim
+T21	Person 1353 1357	They
+T22	Hacker-Group 826 830	them
+T23	Device 356 358	it
+T26	Person 1412 1416	them
+T27	Hacker-Group 1929 1933	they
+T28	Organization 1867 1871	them
+T30	Person 1310 1314	they
+T31	Device 457 459	it
+*	Coreference T7 T13 T40 T52 T64 T28 T71
+T10	Person 0 13	Amazon buyers
+T15	Hacker-Group 43 51	scammers
+T16	Information 71 98	independent seller accounts
+T32	Money 187 204	unbeatable prices
+T33	Person 231 255	Comparitech’s Lee Munson
+T35	Device 261 265	item
+T36	Device 283 293	big LCD TV
+*	Coreference T35 T36 T23
+T37	Money 325 331	£2,300
+T38	Hacker-Group 341 348	scammer
+T39	Device 390 412	“used – like new” item
+T40	Organization 461 467	Amazon
+T41	Device 529 533	item
+*	Coreference T39 T41 T31
+T42	Person 550 566	determined buyer
+*	Coreference T4 T42 T10 T18 T1 T30 T21 T26
+T43	Hacker-Group 591 597	seller
+*	Coreference T38 T43 T45 T47 T48 T22 T9 T67 T68 T27
+T44	System 606 640	Amazon’s in-house messaging system
+T45	Hacker-Group 650 656	seller
+T46	Information 721 734	email address
+T29	Person 736 742	Munson
+*	Coreference T33 T29
+T47	Hacker-Group 769 776	scammer
+T48	Hacker-Group 792 798	latter
+T49	Information 920 941	buyers’ email address
+*	Coreference T46 T49
+T50	File 881 899	order confirmation
+*	Coreference T8 T50 T2 T6
+T24	Money 1291 1298	payment
+T25	Campaign 1162 1182	direct bank transfer
+T51	Money 1381 1386	money
+*	Coreference T24 T51 T53 T54 T61
+T52	Organization 1392 1398	Amazon
+T53	Money 1424 1431	payment
+T54	Money 1484 1491	Payment
+T56	Person 1593 1600	Sellers
+T57	Domain 1503 1520	Amazon.co.uk site
+T58	Domain 1604 1616	Amazon.co.uk
+*	Coreference T57 T58 T60 T63
+T59	Person 152 159	sellers
+*	Coreference T59 T56
+T60	Domain 1647 1659	Amazon.co.uk
+T61	Money 1567 1574	payment
+T63	Domain 1734 1746	Amazon.co.uk
+T64	Organization 1796 1803	company
+T65	Person 1624 1632	customer
+T66	Person 1823 1832	customers
+*	Coreference T66 T65
+T67	Hacker-Group 1856 1863	sellers
+T68	Hacker-Group 1915 1923	scammers
+T69	Information 1945 1953	accounts
+*	Coreference T69 T16 T70 T72
+T70	Information 1983 1987	ones
+T71	Organization 2068 2074	Amazon
+T72	Information 2128 2136	accounts

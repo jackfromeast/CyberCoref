@@ -1,0 +1,121 @@
+T2	Organization 1 21	The engineering firm
+T6	Money 533 541	£120,000
+T3	Attack-Pattern 228 248	‘ransomware’ attacks
+T15	Purpose 1783 1801	ask for more money
+T8	Attack-Pattern 1160 1199	infected an estimated 200,000 computers
+T9	Time 1209 1218	last year
+T17	Hacker-Group 37 49	 the hackers
+T1	Organization 62 77	 the Daily Echo
+T18	Organization 90 92	it
+T19	Information 108 118	vital data
+T20	Information 129 149	personal information
+T22	Number 185 188	100
+T23	Number 171 177	number
+T24	Organization 190 200	Businesses
+T25	Organization 274 283	companies
+T26	Person 302 307	staff
+T27	Person 155 165	 its staff
+T28	Organization 324 330	Police
+T30	Course-of-Action 292 322	train all staff to be vigilant
+T29	Organization 351 358	company
+T31	Location 335 350	 an East Dorset
+T32	Organization 366 375	 the Echo
+T33	Time 408 414	June 1
+T34	Organization 426 437	 the victim
+T35	Campaign 441 455	computer fraud
+T16	Device 480 495	 their computer
+T4	Attack-Pattern 500 506	hacked
+T5	Purpose 511 541	a demand was made for £120,000
+T36	Person 543 571	 a Dorset Police spokeswoman
+T37	Person 583 589	victim
+T38	Organization 606 618	Action Fraud
+T39	Person 631 642	Ian Girling
+T40	Person 644 659	chief executive
+T41	Organization 663 702	Dorset Chamber of Commerce and Industry
+T42	Campaign 711 722	Cyber crime
+T43	Organization 750 759	companies
+T44	Attack-Pattern 778 784	attack
+T45	Person 819 824	staff
+T46	Person 862 867	staff
+T47	Email 876 882	emails
+T48	Organization 944 958	IT departments
+T49	Person 964 969	staff
+T50	Course-of-Action 981 1026	aware of the potential threat to the business
+T51	Organization 1052 1061	companies
+T52	Number 1039 1046	lots of
+T53	Location 1065 1071	Dorset
+T54	Organization 1080 1090	businesses
+T7	Malware 1122 1135	 the WannaCry
+T55	Malware 1136 1146	ransomware
+T56	Attack-Pattern 1147 1153	attack
+T57	Number 1182 1189	200,000
+T58	Device 1190 1199	computers
+T59	Number 1236 1242	70,000
+T60	Protocol 1245 1253	 the NHS
+T61	Person 1255 1265	Matt Horan
+T62	Person 1267 1284	security director
+T63	Organization 1288 1302	C3IA Solutions
+T64	Location 1306 1311	Poole
+T65	Organization 1331 1340	companies
+T66	Organization 1359 1407	 the government’s National Cyber Security Centre
+T11	Attack-Pattern 1434 1446	pay a ransom
+T67	Information 1489 1499	 your data
+T68	Attack-Pattern 1512 1522	 an attack
+T69	Information 1522 1531	 the data
+T70	Attack-Pattern 1564 1573	encrypted
+T71	Course-of-Action 1586 1629	 a decryption key or algorithm to unlock it
+T72	Information 1627 1629	it
+T73	Information 1638 1640	it
+T12	Person 1658 1669	 a criminal
+T14	Information 1679 1689	 your data
+T74	Purpose 1655 1689	pay a criminal to return your data
+T77	Purpose 1733 1747	take the money
+T78	Information 1763 1772	 the data
+T79	Money 1796 1801	money
+T80	Money 1737 1747	 the money
+T81	Information 1835 1839	data
+T82	Course-of-Action 1823 1906	back up all data and to ensure it’s backed up without the virus or ransomware in it
+T83	Malware 1876 1886	 the virus
+T84	Malware 1890 1900	ransomware
+T85	Information 1922 1929	backups
+T86	Malware 1940 1945	virus
+T87	Course-of-Action 1940 1979	virus checked prior to storage off-site
+T88	System 2005 2017	 your system
+T89	Malware 2020 2032	 the malware
+T90	Vulnerability 2063 2070	problem
+T91	Information 2075 2088	 your back-up
+T92	Information 2128 2140	 the back-up
+T93	Information 2151 2155	data
+T94	Course-of-Action 2163 2180	recovered from it
+T95	Person 2183 2209	General Sir Chris Deverell
+T96	Person 2211 2220	commander
+T97	Organization 2223 2253	 the UK’s Joint Forces Command
+T98	Time 2262 2271	yesterday
+T99	Campaign 2275 2288	cyber threats
+T100	Device 2344 2358	power stations
+T101	Device 2363 2382	air traffic control
+T102	Person 2385 2387	We
+T103	Campaign 2407 2421	cyber security
+T105	Person 2496 2513	sector of society
+T110	Person 2448 2450	he
+T118	Campaign 2533 2535	it
+T21	Information 1553 1555	it
+T10	Information 1904 1906	it
+T13	Information 2178 2180	it
+T75	Organization 420 422	it
+*	Coreference T15 T77
+*	Coreference T31 T53
+*	Coreference T79 T80
+*	Coreference T91 T92 T85 T13
+*	Coreference T93 T72 T14 T67 T69 T81 T78 T73 T21 T10
+*	Coreference T32 T1
+*	Coreference T39 T40
+*	Coreference T29 T34 T75
+*	Coreference T95 T96 T110 T102
+*	Coreference T103 T118
+*	Coreference T24 T25 T2 T18
+*	Coreference T46 T45 T49
+*	Coreference T26 T27
+*	Coreference T7 T55
+*	Coreference T61 T62
+*	Coreference T86 T83

@@ -1,0 +1,137 @@
+T4	Purpose 195 212	demands for money
+T5	Organization 159 169	businesses
+T34	Hacker-Group 186 193	hackers
+T7	System 283 299	computer systems
+T1	Campaign 23 40	ransomware attack
+T35	Time 11 20	last week
+T11	Campaign 465 471	attack
+T12	Malware 480 488	WannaCry
+T13	Malware 492 503	WanaCrypt0r
+T18	Malware 443 447	worm
+T14	Attack-Pattern 505 542	encrypted more than 200,000 computers
+T36	Time 456 462	Friday
+T15	Money 574 581	ransoms
+T17	Money 593 597	$600
+T16	Money 585 589	$300
+T14	Attack-Pattern 505 542	encrypted more than 200,000 computers
+T26	Campaign 1664 1683	receipt of a ransom
+T27	Hacker-Group 1631 1638	hackers
+T22	Campaign 1231 1249	ransomware demands
+T28	Campaign 1767 1785	ransomware attacks
+T32	Person 1945 1949	they
+T31	Device 1930 1939	computers
+T30	Hacker-Group 1845 1879	professional criminal organisation
+T33	Person 1921 1927	people
+T10	Purpose 410 423	demands money
+T8	Attack-Pattern 366 405	blocks access to a computer or its data
+T9	Malware 318 328	Ransomware
+T37	Person 42 64	technology specialists
+T3	Hacker-Group 94 102	criminal
+T38	Person 125 146	Cybersecurity experts
+T6	Campaign 232 254	“unprecedented” attack
+T39	Number 258 279	hundreds of thousands
+T40	Malware 342 360	malicious software
+T41	Information 435 437	it
+T42	Information 397 405	its data
+T43	Number 525 532	200,000
+T44	Device 533 542	computers
+T45	Number 556 559	150
+T46	Campaign 640 646	attack
+T47	Money 651 668	its economic cost
+T48	Person 692 710	Europol’s director
+T49	Person 712 726	Rob Wainwright
+T50	Person 776 783	victims
+T51	Time 812 830	in the coming days
+T19	Campaign 850 865	WannaCry attack
+T20	Campaign 920 940	ransomware infection
+T52	Number 947 951	many
+T53	Person 952 959	experts
+T54	Campaign 1018 1020	it
+T55	Information 1041 1045	data
+T56	Person 1063 1070	victims
+T57	Campaign 1047 1049	it
+T58	Person 1088 1102	Peter Coroneos
+T59	Person 1108 1130	former chief executive
+T60	Organization 1138 1167	Internet Industry Association
+T61	Person 1175 1181	expert
+T62	Hacker-Group 1299 1305	people
+T63	Hacker-Group 1310 1319	criminals
+T64	Hacker-Group 1343 1351	criminal
+T65	Money 1332 1337	money
+T21	Money 988 994	ransom
+T2	Money 83 88	money
+T66	Information 1418 1447	your lifetime’s family photos
+T23	Money 1461 1468	payment
+T24	Hacker-Group 1474 1482	criminal
+T25	Person 1504 1514	individual
+T67	Person 1585 1592	Gregory
+T68	Information 1654 1658	data
+T69	Organization 1725 1730	media
+T70	Campaign 1694 1698	that
+T71	Person 1739 1742	one
+T72	Campaign 1749 1752	pay
+T73	Money 1804 1819	financial gains
+T74	Person 1821 1823	he
+T75	Hacker-Group 1835 1839	they
+T29	Money 1962 1967	money
+T76	Hacker-Group 2001 2008	someone
+T77	Purpose 2009 2023	having a laugh
+T78	Campaign 1989 1991	It
+T79	Hacker-Group 2028 2035	someone
+T80	Purpose 2042 2057	trying to learn
+T81	Person 2062 2069	someone
+T82	Malware 2085 2087	it
+T83	Campaign 2157 2164	attacks
+T84	System 2173 2189	computer systems
+T85	Person 2220 2227	Gregory
+T86	Course-of-Action 2233 2243	prevention
+T87	Vulnerability 2280 2306	outdated operating systems
+T88	Person 2323 2325	he
+T89	Person 2332 2343	individuals
+T90	Organization 2348 2358	businesses
+T91	Course-of-Action 2362 2519	automate updates and invest in software that protected against viruses, malware and ransomware across not only their computers, but tablets and mobile phones
+T92	Software 2393 2456	software that protected against viruses, malware and ransomware
+T95	Device 2473 2488	their computers
+T96	Device 2494 2501	tablets
+T97	Device 2506 2512	mobile
+T93	Course-of-Action 2530 2532	It
+T94	Person 2575 2581	people
+T98	Person 2595 2606	individuals
+T99	Person 2608 2616	families
+T100	Organization 2647 2656	companies
+T101	Course-of-Action 2629 2642	work together
+T102	Course-of-Action 2665 2738	take the time to ensure that their cybersecurity practices are up to date
+T103	System 2700 2723	cybersecurity practices
+T104	Person 2741 2748	Gregory
+T105	Course-of-Action 2776 2806	daily backups of personal data
+T106	Information 2793 2806	personal data
+T107	Person 2826 2833	victims
+T108	Course-of-Action 2837 2899	wipe the infected computer, reload their data, and start again
+T109	Device 2846 2863	infected computer
+T110	Information 2878 2882	data
+T111	Campaign 1598 1600	it
+T112	Pronoun 1989 1991	It
+T113	Pronoun 1973 1976	you
+T114	Pronoun 1598 1600	it
+T115	Pronoun 1821 1823	he
+T116	Pronoun 1018 1020	it
+T117	Pronoun 2085 2087	it
+T118	Pronoun 1047 1049	it
+T120	Pronoun 2323 2325	he
+*	Coreference T4 T10
+*	Coreference T12 T13 T18
+*	Coreference T11 T46 T83
+*	Coreference T53 T61
+*	Coreference T56 T50 T107
+*	Coreference T3 T64 T24 T63
+*	Coreference T65 T2 T29
+*	Coreference T79 T76 T81
+*	Coreference T98 T25 T89
+*	Coreference T95 T44 T109 T31
+*	Coreference T94 T32 T62 T33
+*	Coreference T41 T55 T68 T110 T42
+*	Coreference T57 T54
+*	Coreference T74 T71
+*	Coreference T34 T75 T27
+*	Coreference T22 T1 T78 T20 T28 T19
+*	Coreference T85 T104 T88 T67

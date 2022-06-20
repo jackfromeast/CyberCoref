@@ -1,0 +1,145 @@
+T11	Information 2743 2756	location data
+T12	Organization 2760 2779	Ukrainian artillery
+T14	Malware 2671 2690	custom-made malware
+T13	Organization 2782 2790	 the GRU
+T16	Information 2828 2841	location data
+T17	Malware 2798 2810	 the malware
+T1	Device 2885 2899	Android device
+T8	Malware 736 754	 the malicious app
+T25	Domain 805 811	forums
+T22	Organization 786 804	Ukrainian military
+T9	Time 817 839	late 2014 through 2016
+T4	Information 866 885	contact information
+T5	Information 887 899	SMS messages
+T6	Information 901 910	call logs
+T7	Information 915 928	Internet data
+T26	Attack-Pattern 2579 2622	obtain the infected device’s exact location
+T32	Person 2630 2634	Carr
+T31	Vulnerability 2644 2666	surprising design flaw
+T24	Person 608 643	artillery officer Yaroslav Sherstuk
+T20	Person 476 487	researchers
+T23	Software 587 594	 an app
+T2	Malware 516 523	X-Agent
+T21	System 493 504	 an Android
+T27	Person 0 7	Experts
+T28	Hacker-Group 57 64	hackers
+T29	Attack-Pattern 65 145	linked to a Russian military intelligence agency used a piece of Android malware
+T34	Purpose 149 180	track Ukrainian artillery units
+T35	Organization 74 113	 a Russian military intelligence agency
+T36	Malware 130 145	Android malware
+T37	Organization 204 228	threat intelligence firm
+T38	Organization 229 240	CrowdStrike
+T39	Time 241 257	before Christmas
+T40	Hacker-Group 271 310	 the Russia-linked cyberespionage group
+T41	Hacker-Group 320 330	Fancy Bear
+T42	Hacker-Group 336 341	APT28
+T43	Hacker-Group 343 353	Pawn Storm
+T44	Hacker-Group 355 361	Sofacy
+T45	Hacker-Group 363 372	Tsar Team
+T46	Hacker-Group 374 383	Strontium
+T47	Hacker-Group 388 394	Sednit
+T49	Purpose 647 709	help military personnel reduce the time to fire D-30 howitzers
+T50	Person 652 670	military personnel
+T51	Campaign 690 709	fire D-30 howitzers
+T52	Organization 724 735	CrowdStrike
+T3	Attack-Pattern 856 928	accessing contact information, SMS messages, call logs and Internet data
+T53	Organization 929 947	 The security firm
+T54	Attack-Pattern 956 975	 these capabilities
+T55	Location 995 1001	Russia
+T57	Organization 1011 1027	Ukrainian troops
+T58	Malware 1031 1039	 the app
+T59	Organization 1041 1052	CrowdStrike
+T60	Location 1092 1099	Ukraine
+T61	Time 1124 1141	in the past years
+T62	Campaign 1162 1183	 this cyber operation
+T63	Attack-Pattern 396 460	modified a legitimate Android app used by the Ukrainian military
+T64	Organization 437 460	 the Ukrainian military
+T65	Software 418 429	Android app
+T66	Organization 1249 1261	 the company
+T68	Hacker-Group 1280 1290	Fancy Bear
+T69	Organization 1306 1327	 the Russian military
+T70	Organization 1341 1386	 the GRU foreign military intelligence agency
+T71	Person 1388 1396	Sherstuk
+T72	Organization 1408 1419	CrowdStrike
+T73	Software 1462 1470	 the app
+T74	Person 1491 1493	He
+T75	Software 1498 1514	 the application
+T76	Person 1546 1548	he
+T79	Person 1606 1618	Jeffrey Carr
+T80	Person 1620 1623	CEO
+T82	Organization 1627 1638	Taia Global
+T81	Person 1643 1650	founder
+T83	Organization 1654 1685	the Suits and Spooks conference
+T84	Organization 1700 1711	CrowdStrike
+T86	Person 1766 1768	he
+T87	Organization 1784 1802	 the security firm
+T88	Person 1840 1844	Carr
+T89	Malware 1852 1859	X-Agent
+T90	Hacker-Group 1875 1885	Fancy Bear
+T91	Malware 1886 1898	 the malware
+T92	Hacker-Group 1918 1928	 the group
+T93	Code 1929 1953	 The X-Agent source code
+T94	Organization 1987 2003	several entities
+T95	Organization 2015 2049	Ukrainian hacktivist Sean Townsend
+T96	Organization 2053 2076	 the security firm ESET
+T97	Malware 2077 2097	 The X-Agent variant
+T98	Software 2106 2131	 the Ukraine military app
+T99	Organization 2158 2164	Crysys
+T100	Organization 2165 2197	 the Hungary-based security firm
+T101	Malware 2220 2259	several sophisticated pieces of malware
+T102	Malware 2271 2275	Duqu
+T103	Person 2277 2288	Researchers
+T104	Malware 2321 2337	X-Agent implants
+T105	Hacker-Group 2360 2370	Fancy Bear
+T106	Software 2403 2430	 the Ukrainian military app
+T107	Person 2436 2440	they
+T109	Hacker-Group 2492 2505	threat actors
+T110	Software 2544 2558	 the rogue app
+T111	Software 2572 2575	GPS
+T10	Purpose 2722 2790	collect and transmit location data on Ukrainian artillery to the GRU
+T33	Person 2901 2905	Carr
+T112	Purpose 2934 2947	track someone
+T113	System 2966 2997	Ukraine’s poor cellular service
+T114	Person 2999 3014	Pavlo Narozhnyy
+T115	Organization 3039 3057	Ukraine’s military
+T116	Person 3015 3035	 a technical adviser
+T117	Organization 3064 3067	VOA
+T118	Person 3073 3075	he
+T119	Software 3082 3095	 the D-30 app
+T120	Person 3115 3117	he
+T121	Software 3138 3146	 the app
+T122	Person 3149 3154	users
+T124	Person 3190 3194	Carr
+T125	Malware 3216 3241	 the malware-infected app
+T126	Person 3276 3303	 a single Ukrainian soldier
+T127	Device 3306 3320	Android device
+T128	Person 3344 3348	user
+T129	Organization 3367 3375	Sherstuk
+T19	Malware 536 543	malware
+T48	Hacker-Group 564 574	Fancy Bear
+T18	Course-of-Action 3359 3415	contact Sherstuk personally to obtain an activation code
+T108	Campaign 1230 1248	 its investigation
+T130	Malware 3269 3271	it
+T132	Version 505 512	version
+T56	Purpose 1005 1027	track Ukrainian troops
+T140	Attack-Pattern 1028 1039	via the app
+T67	Person 1743 1764	several other experts
+T77	Attack-Pattern 2483 2505	faked by threat actors
+*	Coreference T11 T16
+*	Coreference T1 T127
+*	Coreference T53 T52 T72 T59 T38 T37 T66 T84 T87
+*	Coreference T22 T57 T64 T69 T106 T115 T35 T12
+*	Coreference T41 T68 T48 T105 T90 T40 T42 T43 T44 T45 T46 T47 T92
+*	Coreference T124 T88 T32 T33
+*	Coreference T122 T128
+*	Coreference T74 T129 T71 T76
+*	Coreference T56 T34
+*	Coreference T79 T80 T81 T86
+*	Coreference T99 T100
+*	Coreference T101 T97 T104
+*	Coreference T89 T91 T36 T19 T2 T8 T58
+*	Coreference T107 T103
+*	Coreference T17 T14
+*	Coreference T114 T116 T118 T120
+*	Coreference T119 T110 T73 T121 T75 T21 T65 T98
+*	Coreference T130 T125

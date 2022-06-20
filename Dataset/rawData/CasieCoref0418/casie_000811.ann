@@ -1,0 +1,72 @@
+T5	Vulnerability 145 152	new one
+T7	Time 103 115	this weekend
+T6	Person 116 118	he
+T1	Vulnerability 21 52	several critical security flaws
+T3	Time 84 97	the past week
+T10	Campaign 581 598	locate and report
+T14	Person 511 537	Project Zero security team
+T11	Vulnerability 599 622	serious vulnerabilities
+T13	System 631 651	widely used services
+T12	Software 665 685	the password manager
+T39	Organization 502 508	Google
+T40	Person 492 498	member
+T41	Campaign 853 865	be exploited
+T43	Organization 809 813	they
+T20	Person 1009 1024	others like him
+T19	Person 999 1004	Tavis
+T17	Vulnerability 1039 1061	these sort of problems
+T22	Vulnerability 1248 1270	the latest bug problem
+T23	Person 1218 1221	him
+T31	Organization 1337 1341	they
+T29	System 1366 1378	all services
+T28	Vulnerability 1392 1407	vulnerabilities
+T27	Vulnerability 1469 1473	they
+T42	Campaign 873 879	fixing
+T15	Course-of-Action 969 979	bug fixing
+T16	Organization 938 960	LastPass security team
+T26	Vulnerability 1438 1442	them
+T38	Vulnerability 1551 1566	security issues
+T36	Organization 1498 1521	not all online services
+T35	Organization 1572 1584	most of them
+T33	Course-of-Action 1615 1620	fixed
+T8	Person 0 7	Ormandy
+T9	Person 1624 1643	people like Ormandy
+T34	Software 236 244	LastPass
+T45	Version 245 251	4.1.43
+T2	Software 402 410	LastPass
+T4	Version 411 417	4.1.43
+T46	Time 472 486	March 25, 2017
+T18	Time 909 923	second weekend
+T21	Person 1134 1139	users
+T47	Vulnerability 1580 1584	them
+T49	Person 321 322	I
+T50	Person 290 292	he
+T51	Organization 986 990	They
+T56	Organization 1074 1078	them
+T57	Person 1021 1024	him
+*	Coreference T13 T29
+*	Coreference T17 T11
+*	Coreference T34 T2
+*	Coreference T45 T4
+*	Coreference T43 T35 T16 T51 T56 T54
+*	Coreference T8 T6 T24 T50 T25 T44 T40 T19 T57 T62 T23 T55 T9
+T24	Person 155 156	I
+T25	Person 303 306	his
+T30	Time 187 199	this morning
+T32	Time 353 365	this morning
+*	Coreference T30 T32 T46
+T37	Vulnerability 269 276	exploit
+*	Coreference T5 T37 T59
+T44	Person 448 461	Tavis Ormandy
+T52	Person 564 567	his
+T59	Vulnerability 758 762	flaw
+T60	Campaign 733 748	LastPass states
+T61	Campaign 258 264	report
+*	Coreference T61 T60 T63
+T54	Organization 1128 1133	their
+T62	Person 1170 1177	Ormandy
+T55	Person 1287 1290	his
+T63	Campaign 1291 1298	actions
+T53	Person 1201 1205	Some
+*	Coreference T53 T31
+*	Coreference T28 T26 T27 T38 T47

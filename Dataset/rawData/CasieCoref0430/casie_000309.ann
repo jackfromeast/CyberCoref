@@ -1,0 +1,125 @@
+T20	Person 1186 1195	Moskowsky
+T4	System 52 69	Steam marketplace
+T1	Person 21 23	he
+T6	Person 0 7	A bloke
+T8	Time 209 226	earlier this week
+T9	Person 232 234	he
+T13	Vulnerability 323 325	it
+T26	Person 2322 2331	Moskowsky
+T25	Time 2374 2386	early August
+T31	Person 2828 2830	he
+T30	Time 2823 2827	July
+T15	Vulnerability 679 684	flaws
+T16	Person 629 631	he
+T17	Person 522 531	Moskowsky
+T5	Attack-Pattern 115 162	steal game license keys and play pirated titles
+T3	Vulnerability 34 40	 a bug
+T2	Hacker-Group 104 111	thieves
+T33	Information 121 138	game license keys
+T11	Vulnerability 250 268	 the vulnerability
+T34	Organization 196 208	The Register
+T10	Person 284 287	him
+T35	Money 287 308	 a $20,000 bug bounty
+T12	Domain 358 383	 the Steam partner portal
+T36	Person 391 411	 the site developers
+T37	Domain 474 479	Steam
+T38	Person 480 520	 A professional bug-hunter and pentester
+T39	Person 537 539	he
+T40	Person 579 581	he
+T41	Organization 589 595	school
+T42	Time 604 627	 the past several years
+T14	Domain 721 746	 the Steam developer site
+T43	Person 748 750	he
+T44	Information 788 816	parameters in an API request
+T45	Information 826 841	activation keys
+T46	Information 872 883	 Those keys
+T47	Information 899 906	CD keys
+T48	Domain 963 968	Steam
+T18	Vulnerability 1091 1094	bug
+T19	Code 969 977	 The API
+T21	Person 993 1003	developers
+T49	Person 1007 1022	 their partners
+T50	Information 1034 1046	license keys
+T51	Person 1077 1083	gamers
+T52	Software 1050 1063	 their titles
+T53	Software 941 946	games
+T54	Software 1165 1183	 a web application
+T55	Hacker-Group 1239 1247	attacker
+T56	Domain 1265 1276	 the portal
+T57	Person 1292 1298	anyone
+T58	Information 1306 1317	 an account
+T59	Domain 1320 1341	 the developer portal
+T60	Information 1365 1390	 the game activation keys
+T61	Domain 1410 1415	Steam
+T62	Domain 1490 1495	Steam
+T63	Information 1447 1451	them
+T64	Hacker-Group 1456 1463	pirates
+T65	Code 1510 1545	 the /partnercdkeys/assignkeys/ API
+T66	Information 1550 1561	 a zero key
+T67	Number 1577 1592	a huge bunch of
+T68	Information 1593 1608	activation keys
+T69	Vulnerability 1621 1639	 the vulnerability
+T70	Person 1685 1694	Moskowsky
+T71	Organization 1700 1706	El Reg
+T72	Person 1709 1710	I
+T73	Attack-Pattern 1722 1770	bypass the verification of ownership of the game
+T74	Information 1792 1801	parameter
+T75	Number 1788 1791	one
+T76	Person 1815 1816	I
+T77	Information 1829 1835	any ID
+T78	Information 1849 1858	parameter
+T79	Information 1867 1882	any set of keys
+T80	Vulnerability 1899 1908	 the flaw
+T81	Person 1910 1919	Moskowski
+T82	Person 1944 1946	he
+T83	Person 2030 2032	he
+T84	Number 2037 2043	36,000
+T85	Information 2044 2059	activation keys
+T86	Software 2064 2072	Portal 2
+T87	Software 2073 2080	 a game
+T88	Money 2104 2109	$9.99
+T89	Domain 2112 2128	 the Steam store
+T22	Organization 2146 2151	Valve
+T23	Person 2153 2162	Moskowsky
+T90	Vulnerability 2199 2208	 the flaw
+T91	Domain 2213 2222	HackerOne
+T92	Domain 2272 2286	 the HackerOne
+T93	Vulnerability 2296 2314	 the vulnerability
+T24	Vulnerability 2361 2370	 the flaw
+T27	Time 2388 2404	Three days later
+T94	Money 2422 2441	 the $15,000 bounty
+T95	Organization 2406 2411	Valve
+T96	Course-of-Action 2258 2268	been fixed
+T97	Code 2223 2247	 The programming blunder
+T98	Money 2452 2467	 a $5,000 bonus
+T99	Organization 2489 2494	Valve
+T100	Time 2535 2545	October 31
+T101	Person 2546 2561	 The researcher
+T102	Person 2567 2569	us
+T103	Organization 2608 2613	Valve
+T104	Money 2679 2702	paying out bug bounties
+T105	Money 2717 2737	 this $20,000 bounty
+T106	Person 2768 2777	Moskowsky
+T107	Software 2795 2813	 the games service
+T108	Money 2840 2855	 a cool $25,000
+T28	Vulnerability 2871 2891	 a SQL Injection bug
+T29	Domain 2894 2920	 the same developer portal
+T109	Course-of-Action 2860 2891	weeding out a SQL Injection bug
+T110	Course-of-Action 2338 2370	submitted the report on the flaw
+T111	Attack-Pattern 1947 2072	entered a random string into the request, to pick a title at random, and in return he got 36,000 activation keys for Portal 2
+T125	Person 436 440	they
+T7	Person 175 190	Artem Moskowsky
+T32	Person 164 174	Researcher
+T113	Vulnerability 1208 1210	It
+*	Coreference T46 T47
+*	Coreference T37 T61 T48 T62 T89
+*	Coreference T90 T24 T93
+*	Coreference T91 T92
+*	Coreference T22 T95 T99 T103
+*	Coreference T32 T7 T9 T10
+*	Coreference T1 T6
+*	Coreference T38 T17 T39 T40 T16 T43 T20
+*	Coreference T3 T11 T13 T18 T113 T69
+*	Coreference T125 T36
+*	Coreference T60 T63
+*	Coreference T106 T31 T72 T76 T81 T70 T82 T83

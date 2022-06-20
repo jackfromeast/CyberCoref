@@ -1,0 +1,16 @@
+T2	Email 209 227	The deface message
+T1	Attack-Pattern 255 296	click on a cat to read group’s background
+T3	Attack-Pattern 326 347	redirected to RedTube
+T4	Person 246 251	users
+T5	Organization 0 11	Grupo Folha
+T6	Organization 69 84	Universo Online
+T7	Organization 86 89	UOL
+T8	Organization 15 61	the third largest Brazilian media conglomerate
+T10	Campaign 190 207	 the whole scheme
+T11	Organization 176 179	who
+T12	Domain 340 347	RedTube
+T13	Person 316 320	they
+T14	Organization 94 145	a web content, products and services Brazilian firm
+*	Coreference T5 T8
+*	Coreference T6 T7 T14
+*	Coreference T4 T13

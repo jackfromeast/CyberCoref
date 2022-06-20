@@ -1,0 +1,65 @@
+T5	Campaign 21 29	got into
+T4	System 34 40	system
+T3	Hacker-Group 13 20	hackers
+T20	Time 0 11	Last spring
+T21	Organization 44 56	the ministry
+T1	Campaign 185 196	gain access
+T2	Information 200 222	classified information
+T6	Campaign 123 134	the attacks
+T7	Time 160 171	four months
+T9	Campaign 1463 1478	had been hacked
+T8	Organization 1442 1462	the foreign ministry
+T10	Time 1482 1490	the past
+T11	Campaign 1696 1703	hacking
+T12	Information 1709 1719	the emails
+T16	Person 1659 1665	sister
+T15	Person 1636 1654	an Italian brother
+T17	Time 1624 1634	Last month
+T18	Person 1745 1767	President Mario Draghi
+T14	Person 1785 1791	others
+T19	Organization 1723 1744	European Central Bank
+T13	Campaign 1605 1612	attacks
+T22	Organization 245 263	Italian government
+T23	Organization 1068 1103	United States intelligence agencies
+T24	Organization 1388 1406	Italian government
+T25	Organization 1537 1544	Russian
+T26	Campaign 437 444	attacks
+T27	Person 1797 1809	police chief
+T28	Organization 1270 1277	Kremlin
+T29	Campaign 699 705	attack
+T31	Person 788 790	he
+T32	Person 1869 1873	they
+T33	Person 760 762	He
+T34	Campaign 963 965	it
+*	Coreference T3 T14
+*	Coreference T21 T8 T41 T51
+*	Coreference T22 T24
+*	Coreference T26 T6
+T38	System 462 477	computer system
+T39	Information 496 536	most important and sensitive information
+*	Coreference T2 T39
+T40	System 546 558	email system
+*	Coreference T4 T40
+T41	Organization 576 592	foreign ministry
+T42	Person 626 635	Gentiloni
+T43	Person 654 661	premier
+T44	Person 83 117	now-Prime Minister Paolo Gentiloni
+*	Coreference T31 T33 T45 T42 T43 T44
+T45	Person 806 822	foreign minister
+T46	Person 729 748	government official
+T50	Campaign 900 906	attack
+*	Coreference T29 T50 T34
+T51	Organization 991 999	ministry
+T52	Person 613 619	source
+T53	Person 971 977	source
+*	Coreference T52 T53
+T54	Organization 916 923	Russian
+T55	Campaign 1024 1035	Cyber crime
+T56	Organization 1112 1118	Russia
+*	Coreference T54 T56 T60 T25
+T57	Organization 1168 1192	Russian foreign ministry
+T58	Campaign 1149 1162	U.S. election
+T59	Campaign 1335 1348	U.S. election
+*	Coreference T59 T58
+T60	Organization 1307 1314	Russian
+T61	Organization 1500 1504	Rome

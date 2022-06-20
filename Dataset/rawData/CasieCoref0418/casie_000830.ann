@@ -1,0 +1,148 @@
+T10	Campaign 602 618	were compromised
+T12	Information 585 601	R2Games accounts
+T14	Time 550 562	July of 2016
+T13	Time 516 532	December of 2015
+T15	Campaign 620 628	exposing
+T16	Information 629 641	IP addresses
+T19	Information 690 699	usernames
+T18	Information 669 684	email addresses
+T17	Information 658 667	passwords
+T7	Campaign 130 138	obtained
+T8	Organization 146 186	for-profit notification service LeakBase
+T1	Campaign 54 74	has been compromised
+T2	Organization 0 53	Online gaming company Reality Squared Games (R2Games)
+T3	Campaign 238 248	the attack
+T5	Purpose 203 232	shared the data with LeakBase
+T4	Time 258 276	earlier this month
+T21	Campaign 809 821	being hacked
+T20	Organization 767 774	R2Games
+T22	Campaign 853 869	were compromised
+T23	Domain 846 852	forums
+T24	Hacker-Group 824 834	The hacker
+T37	Information 1121 1133	access token
+T36	Information 1115 1119	name
+T35	Information 1111 1113	ID
+T34	Information 1085 1109	Facebook related details
+T33	Information 1071 1079	birthday
+T32	Information 1056 1069	messenger IDs
+T31	Information 1025 1038	record fields
+T30	Information 992 1004	IP addresses
+T29	Information 975 990	email addresses
+T28	Information 964 973	passwords
+T27	Information 953 962	usernames
+T25	Campaign 2777 2788	data breach
+T38	Organization 2769 2776	R2Games
+T26	Campaign 3038 3054	this data breach
+T11	Person 1194 1213	security researcher
+T39	Information 1350 1365	email addresses
+T40	Information 1370 1379	usernames
+T41	Number 1543 1552	5,191,898
+T42	Information 1560 1575	email addresses
+T43	Number 1617 1626	3,379,071
+T44	Information 1636 1651	email addresses
+T45	Email 1759 1784	[number]@vk.com addresses
+T46	Email 1663 1682	mail.ar.r2games.com
+T47	Email 1686 1702	mail.r2games.com
+T48	Number 1716 1723	789,361
+T49	Information 1815 1836	r2games.com addresses
+T50	Information 1975 1990	email addresses
+T51	Email 3482 3488	emails
+T52	Email 3186 3191	email
+T53	Information 2310 2326	password "admin"
+T54	Information 3387 3395	password
+T55	Information 3356 3364	password
+T56	Information 2182 2191	passwords
+T57	Campaign 3623 3629	breach
+T58	Person 2718 2722	Hunt
+T59	Person 3298 3301	you
+T60	Information 2272 2276	them
+T61	Person 2416 2417	I
+T62	Organization 3083 3087	they
+T63	Campaign 3134 3136	it
+T64	Information 3764 3766	it
+T65	Organization 3170 3174	they
+T66	Information 2223 2227	them
+T67	Information 3720 3722	it
+T68	Person 3218 3222	them
+T69	Organization 2668 2672	they
+T70	Organization 2972 2976	them
+T72	Organization 2447 2451	they
+T74	Information 3750 3752	it
+T76	Organization 224 232	LeakBase
+T77	Organization 312 319	R2Games
+T78	System 384 387	iOS
+T79	System 392 399	Android
+T80	Software 419 427	browsers
+T81	Organization 433 440	company
+T82	Software 341 380	free-to-play, micropayment-driven games
+T83	Software 470 475	games
+T84	Organization 705 712	company
+T85	Campaign 724 738	breach reports
+T86	Person 752 760	customer
+T87	Domain 909 920	r2games.com
+T88	Organization 1136 1144	LeakBase
+T89	Person 1181 1190	Troy Hunt
+T91	Person 1218 1269	owner of the non-profit breach notification website
+*	Coreference T89 T11 T91 T6 T101 T112 T61 T58
+T6	Person 1299 1303	Hunt
+T9	Hacker-Group 192 198	hacker
+*	Coreference T3 T1 T117 T25 T26 T63 T125 T57
+T90	Information 122 129	records
+T92	Information 214 218	data
+*	Coreference T92 T90 T96 T97 T98 T104 T109
+*	Coreference T83 T82
+T93	Number 460 462	19
+T94	Number 493 503	52 million
+T95	Person 504 511	players
+*	Coreference T85 T10 T115 T116
+*	Coreference T24 T9
+T96	Information 926 943	latest record set
+*	Coreference T19 T27 T40
+*	Coreference T30 T16
+T97	Information 1156 1175	most recent records
+T75	Domain 1262 1297	website "Have I Been Pwned?" (HIBP)
+T98	Information 1316 1320	data
+T99	Information 1392 1400	password
+T100	Organization 1419 1426	R2Games
+T101	Person 1500 1504	Hunt
+T102	Information 1434 1441	address
+T103	Information 1470 1486	existing account
+*	Coreference T44 T42 T29 T18 T39 T102 T50 T49
+T104	Information 1583 1587	data
+T105	Organization 1786 1794	LeakBase
+T106	Domain 2004 2008	HIBP
+*	Coreference T106 T75 T126
+T107	Information 1708 1715	another
+T71	Information 1745 1749	they
+*	Coreference T107 T71 T108
+T108	Information 1916 1938	questionable addresses
+T109	Information 2018 2021	set
+T110	Organization 1598 1606	LeakBase
+T111	Campaign 2062 2070	breaches
+T112	Person 2193 2197	Hunt
+T113	Organization 2203 2214	Salted Hash
+T114	Information 2354 2360	others
+T115	Campaign 2483 2500	previous failures
+T116	Campaign 2506 2520	prior incident
+T117	Campaign 2573 2590	subsequent breach
+T118	Campaign 2636 2649	prior denials
+T119	Organization 2790 2801	Salted Hash
+T120	Organization 2817 2824	R2Games
+*	Coreference T119 T113
+T121	Organization 2834 2841	company
+T122	Email 2871 2877	Emails
+T123	Organization 3018 3026	LeakBase
+T124	Person 3192 3206	impacted users
+T125	Campaign 3230 3238	incident
+*	Coreference T124 T68 T86 T95 T59
+T126	Domain 3240 3244	HIBP
+*	Coreference T55 T54 T28 T17 T99 T56 T66 T60
+T73	Organization 3553 3560	R2Games
+*	Coreference T77 T81 T127 T2 T84 T20 T100 T72 T120 T121 T69 T38 T128 T73
+T127	Organization 585 592	R2Games
+*	Coreference T8 T76 T110 T88 T105 T123 T62 T65 T129
+T128	Organization 3308 3315	R2Games
+T129	Organization 3728 3736	LeakBase
+T130	Information 3641 3652	hacked data
+*	Coreference T64 T74 T130 T67
+*	Coreference T23 T87

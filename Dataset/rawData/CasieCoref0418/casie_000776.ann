@@ -1,0 +1,88 @@
+T5	Campaign 48 58	been found
+T6	Device 0 36	Western Digital My Cloud NAS devices
+T2	Campaign 121 134	have revealed
+T1	Person 109 120	researchers
+T3	Vulnerability 147 160	serious flaws
+T4	Software 177 185	firmware
+T48	Device 168 175	devices
+T7	Person 546 553	Zenofex
+T9	Vulnerability 616 636	a login bypass issue
+T10	Vulnerability 646 669	command injection flaws
+T11	Vulnerability 687 697	other bugs
+T12	Time 701 709	Saturday
+T51	Person 555 588	a member of the Exploitee.rs team
+T14	Campaign 1144 1149	found
+T13	Organization 1132 1143	SEC consult
+T15	Vulnerability 1150 1159	the flaws
+T16	Software 1187 1195	firmware
+T17	Device 1199 1220	a My Cloud EX2 device
+T49	Version 1163 1179	version 2.11.157
+T20	Device 1250 1266	My Cloud devices
+T19	Organization 1226 1230	they
+T24	Device 1455 1471	My Cloud devices
+T23	Vulnerability 1490 1505	the same issues
+T21	Person 1376 1383	Zenofex
+T27	Software 1744 1752	firmware
+T28	Vulnerability 1672 1695	similar vulnerabilities
+T29	Time 1634 1646	January 2017
+T30	Person 1548 1568	Securify researchers
+T26	Version 1706 1723	versions 2.21.119
+T50	Version 1728 1736	2.21.126
+T34	Campaign 1908 1930	responsable disclosure
+T35	Organization 1873 1884	the company
+T36	Person 1832 1855	SEC Consult researchers
+T39	Campaign 2057 2074	public disclosure
+T40	Organization 2109 2120	the company
+T38	Person 2044 2046	he
+T41	Campaign 2230 2252	responsible disclosure
+T42	Device 2175 2197	the vulnerable devices
+T43	Vulnerability 2152 2162	these bugs
+T44	Person 2276 2278	we
+T46	Vulnerability 2319 2328	the flaws
+T47	Device 2364 2371	devices
+T32	Campaign 1803 1811	be fixed
+T33	Organization 1815 1830	Western Digital
+T31	Vulnerability 1780 1790	the issues
+T37	Course-of-Action 2014 2022	patching
+T53	Vulnerability 2032 2038	issues
+T54	Device 187 198	WD My Cloud
+T55	System 216 229	private cloud
+T56	Person 429 434	Users
+T8	Device 384 394	smartphone
+T18	System 356 363	network
+T22	Person 2345 2350	users
+T58	Organization 2002 2004	it
+T59	Device 1370 1374	them
+T60	Device 453 455	it
+T62	Person 2459 2461	he
+*	Coreference T5 T14
+*	Coreference T7 T21 T51
+*	Coreference T3 T46 T15 T66
+*	Coreference T4 T16 T27 T61
+*	Coreference T49 T26
+*	Coreference T17 T20 T47 T48 T24 T6 T54 T55 T60 T59 T42
+*	Coreference T34 T41 T39
+*	Coreference T43 T31 T53 T11 T23 T71
+*	Coreference T56 T22 T65
+T25	Organization 74 93	security department
+T45	Software 507 518	application
+T52	Software 532 543	RESTful API
+*	Coreference T45 T52
+T63	Person 729 740	researchers
+T64	Hacker-Group 864 872	attacker
+T65	Person 885 889	user
+T66	Vulnerability 1048 1053	those
+T67	Protocol 1075 1079	CSRF
+T68	Person 1113 1124	researchers
+T69	Protocol 843 847	CSRF
+*	Coreference T69 T67
+*	Coreference T13 T19 T73
+T61	Software 1343 1351	firmware
+T70	Device 1405 1427	My Cloud PR4100 device
+T71	Vulnerability 1664 1668	same
+T72	Organization 0 15	Western Digital
+*	Coreference T72 T33 T35 T40 T58
+T73	Organization 750 779	SEC Consult Vulnerability Lab
+*	Coreference T62 T44 T38 T68 T63 T1 T30 T36
+T57	System 2413 2421	networks
+*	Coreference T18 T57

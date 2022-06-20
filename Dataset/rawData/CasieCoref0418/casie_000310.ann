@@ -1,0 +1,64 @@
+T20	Information 1449 1470	sensitive stolen data
+T18	Purpose 1506 1526	sell the stolen data
+T15	Hacker-Group 1422 1440	data extortionists
+T29	Time 1389 1399	early 2016
+T13	Campaign 786 794	breaches
+T10	Information 748 774	RansomwareTraditional data
+T11	Information 871 885	stolen records
+T1	Campaign 381 387	ransom
+T2	Person 395 402	victims
+T3	Money 403 415	$209 million
+T5	Attack-Pattern 354 376	holds systems and data
+T6	Malware 341 348	malware
+T7	Malware 328 338	ransomware
+T8	Money 468 479	$24 million
+T9	Time 490 494	2015
+T12	Campaign 1078 1084	ransom
+T17	Campaign 1489 1504	payment demands
+T19	Malware 0 10	Ransomware
+T21	System 74 82	Internet
+T22	Malware 129 131	It
+T23	Number 202 205	50%
+T24	Organization 209 222	organizations
+T25	Time 226 230	2016
+T26	Organization 285 295	enterprise
+T27	Time 300 304	2017
+T28	Organization 323 326	FBI
+T4	Time 423 449	first three months of 2016
+T30	Malware 522 532	ransomware
+T31	Malware 682 692	ransomware
+T32	Person 694 697	you
+T33	Time 941 951	in minutes
+T34	Information 977 1006	electronic healthcare records
+T35	Number 1015 1018	50%
+T36	Number 1022 1025	60%
+T37	Time 1031 1040	last year
+T14	Information 1125 1129	data
+T38	Malware 1267 1277	ransomware
+T39	System 1205 1220	online payments
+T40	Domain 1308 1313	sites
+T41	Person 1336 1343	sellers
+T42	Domain 1345 1367	Web-based "businesses"
+T16	Information 1556 1558	it
+T43	Information 1515 1526	stolen data
+T44	Purpose 1548 1572	utilize it in other ways
+T45	Organization 1580 1591	Web vendors
+T46	Software 1643 1674	Bitcoin-based payment interface
+T47	Money 1693 1697	$768
+T48	Malware 1805 1815	ransomware
+T49	Hacker-Group 1839 1847	creators
+T50	Device 1933 1952	data storage device
+T51	System 1965 1973	Internet
+T52	Organization 1988 1995	company
+T53	Malware 2029 2034	Mirai
+T54	System 2041 2066	Internet of Things botnet
+T55	System 2099 2107	Internet
+T56	Time 2108 2117	last fall
+T57	Device 2120 2137	connected devices
+T58	Malware 2207 2217	ransomware
+T59	Time 1046 1062	at the same time
+T60	Person 1532 1543	third-party
+T61	Time 1704 1731	at the time of writing this
+T62	Money 1759 1766	payment
+*	Coreference T22 T7 T30 T38 T31 T58 T48 T19 T6
+*	Coreference T16 T43

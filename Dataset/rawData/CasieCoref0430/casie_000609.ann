@@ -1,0 +1,63 @@
+T4	Person 9 16	victims
+T3	Location 20 26	Europe
+T8	Money 200 208	0.05 BTC
+T9	Money 210 214	$290
+T6	Malware 159 173	the ransomware
+T5	Malware 147 157	Bad Rabbit
+T27	Device 235 244	computers
+T14	Campaign 995 1017	the latest cyberattack
+T17	Malware 976 986	Bad Rabbit
+T16	Location 1024 1036	 the Russian
+T28	Location 1041 1050	Ukrainian
+T30	Malware 1062 1070	WannaCry
+T31	Malware 1075 1083	NotPetya
+T32	Time 1115 1135	 the past six months
+T20	Malware 1206 1214	WannaCry
+T21	Money 1225 1229	$300
+T22	Device 1234 1241	machine
+T24	Person 1342 1346	they
+T25	Person 1318 1325	victims
+T11	Software 685 709	an Adobe Flash installer
+T12	Malware 643 662	the malware dropper
+T13	Person 601 611	the victim
+T33	Number 0 8	Over 200
+T1	File 121 136	encrypted files
+T7	Location 270 276	Russia
+T35	Location 281 288	Ukraine
+T36	Location 322 328	Turkey
+T37	Location 333 340	Germany
+T39	Domain 418 439	 a legitimate website
+T40	Software 483 517	 the threat actor’s infrastructure
+T41	File 519 528	 a report
+T42	Malware 531 546	 the ransomware
+T43	Organization 1376 1385	Kaspersky
+T26	Time 556 563	Tuesday
+T44	Malware 440 458	 a malware dropper
+T45	Person 395 406	 the target
+T10	Vulnerability 578 586	exploits
+T46	Person 711 713	We
+T47	Number 726 737	a number of
+T48	Domain 738 758	compromised websites
+T49	Domain 778 800	news or media websites
+T50	Time 809 817	Thursday
+T51	Person 841 855	 those targets
+T52	Organization 901 915	Odessa Airport
+T53	System 919 951	 the Kiev Metro’s payment system
+T15	Campaign 1136 1147	 The ransom
+T18	Hacker-Group 1161 1181	Bad Rabbit’s hackers
+T19	Malware 1250 1258	NotPetya
+T29	Information 1308 1312	data
+T23	Money 1351 1374	 the requisite Bitcoins
+T54	Money 1432 1454	 the ransomware amount
+T38	Organization 355 373	cybersecurity firm
+T55	Organization 374 387	Kaspersky Lab
+T2	Campaign 74 91	ransomware attack
+T34	Money 102 109	Bitcoin
+*	Coreference T30 T20
+*	Coreference T31 T19
+*	Coreference T12 T44
+*	Coreference T43 T55 T38
+*	Coreference T5 T6 T17 T42
+*	Coreference T8 T9
+*	Coreference T24 T25
+*	Coreference T15 T14

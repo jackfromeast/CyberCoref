@@ -1,0 +1,72 @@
+T5	Time 54 59	today
+T4	Organization 15 48	cybersecurity company Check Point
+T3	Person 0 11	Researchers
+T2	Vulnerability 77 93	 a vulnerability
+T8	Software 280 301	FlightHub application
+T34	Organization 97 100	DJI
+T6	Device 103 117	infrastructure
+T37	Organization 274 277	DJI
+T10	Organization 348 359	Check Point
+T11	Organization 382 385	DJI
+T13	Vulnerability 504 520	 a vulnerability
+T17	Person 585 610	Check Point’s researchers
+T16	Domain 628 645	various platforms
+T35	Organization 622 625	DJI
+T23	Vulnerability 1437 1456	 this vulnerability
+T26	Time 1460 1470	March 2018
+T25	Organization 1416 1418	We
+T27	Organization 1475 1478	DJI
+T31	Vulnerability 1558 1577	 this vulnerability
+T30	Organization 1544 1547	DJI
+T39	Vulnerability 1646 1665	 this vulnerability
+T40	Person 1706 1729	Check Point researchers
+T32	Course-of-Action 1535 1542	patched
+T33	Vulnerability 1501 1519	 The vulnerability
+T19	Information 1154 1171	login credentials
+T21	Attack-Pattern 1084 1126	clicked a specially-planted malicious link
+T20	Purpose 1182 1221	allow access to other DJI online assets
+T22	Person 1044 1051	 A user
+T1	Information 171 194	corporate user accounts
+T41	Information 196 209	personal data
+T42	Information 211 222	flight logs
+T43	Information 224 230	photos
+T44	Information 232 238	videos
+T45	Hacker-Group 140 147	hackers
+T46	Person 158 166	consumer
+T47	Person 248 257	 the user
+T48	Device 303 317	 a live camera
+T9	Hacker-Group 439 451	 an attacker
+T12	Purpose 458 496	have gained access to a user’s account
+T49	Information 479 496	 a user’s account
+T14	Code 534 566	 the user identification process
+T50	Software 574 583	DJI Forum
+T51	Code 420 430	 a process
+T15	Information 650 658	 a token
+T36	Hacker-Group 741 748	Hackers
+T52	URL 761 776	malicious links
+T53	Software 820 829	framework
+T54	Information 799 807	accounts
+T55	Attack-Pattern 755 776	plant malicious links
+T56	Person 877 888	Check Point
+T58	Vulnerability 933 951	 The vulnerability
+T57	Domain 973 982	DJI Forum
+T59	Domain 983 1043	 an online forum DJI runs for discussions about its products
+T60	Domain 1068 1077	DJI Forum
+T61	URL 1091 1126	 a specially-planted malicious link
+T18	Domain 1231 1249	DJI’s web platform
+T62	Information 1282 1339	Cloud server data synced from DJI’s GO or GO 4 pilot apps
+T63	Device 1312 1320	DJI’s GO
+T64	Software 1324 1339	GO 4 pilot apps
+T65	Information 1348 1363	DJI’s FlightHub
+T24	Organization 1428 1431	DJI
+T28	Organization 1731 1742	Check Point
+T7	Code 388 406	Bug Bounty Program
+*	Coreference T34 T37 T30 T35 T11 T27 T24
+*	Coreference T31 T58 T33 T2 T23 T13 T39
+*	Coreference T22 T47
+*	Coreference T45 T9 T36
+*	Coreference T49 T1 T54
+*	Coreference T40 T10 T56 T17 T28 T25
+*	Coreference T48 T8
+*	Coreference T14 T51
+*	Coreference T59 T57 T60 T18

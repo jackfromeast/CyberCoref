@@ -1,0 +1,147 @@
+T1	Campaign 15 28	phishing scam
+T2	Organization 4 14	Google Doc
+T3	Person 56 61	users
+T4	Time 62 71	this week
+T7	Person 131 139	end-user
+T6	Hacker-Group 88 97	attackers
+T11	Person 596 603	victims
+T12	Attack-Pattern 609 624	clicking a link
+T13	Purpose 630 673	gave attackers access to their Google Drive
+T14	Hacker-Group 762 771	attackers
+T16	Person 790 797	victims
+T18	Campaign 812 820	claiming
+T19	Software 850 860	Google Doc
+T17	File 798 811	lure messages
+T21	Software 966 977	Google Docs
+T22	Purpose 979 1014	access to the user's Google account
+T35	Purpose 1140 1192	"Allow" access to the user's legitimate Google Drive
+T25	Malware 1494 1505	Google Docs
+T28	Software 1759 1771	Google Drive
+T29	Person 1779 1794	previous victim
+T33	URL 2269 2273	link
+T31	Person 2311 2328	someone you trust
+T32	Domain 2342 2350	the link
+T8	Campaign 160 176	phishing attacks
+T9	Campaign 276 289	phishing scam
+T36	Number 48 55	million
+T37	Attack-Pattern 107 181	respond to wider spread end-user awareness about how phishing attacks work
+T5	Campaign 187 193	attack
+T38	Person 205 210	users
+T39	Information 220 231	credentials
+T40	Campaign 242 244	it
+T42	Person 362 373	researchers
+T43	Campaign 391 397	attack
+T44	Campaign 401 413	game changer
+T45	Campaign 449 468	new wave of attacks
+T46	URL 492 530	third-party authentication connections
+T47	Software 546 560	cloud services
+T10	Campaign 581 587	attack
+T48	URL 620 624	link
+T49	Hacker-Group 635 644	attackers
+T50	Software 655 673	their Google Drive
+T51	URL 682 714	OAuth authentication connections
+T52	Software 732 756	third-party applications
+T15	URL 832 837	links
+T53	File 875 889	legit document
+T54	Attack-Pattern 782 860	sending victims lure messages claiming to contain links to a shared Google Doc
+T23	URL 895 899	link
+T55	Software 939 948	phony app
+T20	Information 993 1014	user's Google account
+T56	Attack-Pattern 909 928	initiates a process
+T57	Person 1023 1027	user
+T58	Domain 1051 1057	Google
+T59	URL 1063 1073	connection
+T60	Software 1086 1089	app
+T61	Person 1132 1136	user
+T62	Software 1162 1192	user's legitimate Google Drive
+T63	Information 1218 1236	Google credentials
+T64	Hacker-Group 1253 1261	attacker
+T65	Hacker-Group 1287 1295	attacker
+T66	Information 1333 1340	account
+T67	Attack-Pattern 1277 1340	gives the attacker permissions to act on behalf of your account
+T68	Protocol 1271 1276	OAuth
+T70	Domain 1098 1120	OAuth permissions page
+T69	Domain 1356 1384	real Google permissions page
+T71	Protocol 1386 1391	OAuth
+T72	Software 1420 1444	third-party applications
+T73	Information 1460 1467	account
+T74	Malware 1473 1484	application
+T75	Person 1544 1557	Jordan Wright
+T76	Person 1559 1588	R&D engineer for Duo Security
+T77	Malware 1615 1626	Google Docs
+T78	Attack-Pattern 1633 1657	ask for your permissions
+T27	Email 1727 1738	lure emails
+T26	Person 1845 1857	Travis Smith
+T79	Person 1859 1897	senior security researcher at Tripwire
+T24	Malware 1707 1711	this
+T30	Malware 1831 1838	fakeout
+T34	URL 2011 2028	link in the email
+T80	Device 2051 2076	legitimate Google servers
+T81	Person 2084 2089	Smith
+T82	Malware 1914 1918	this
+T83	URL 2159 2161	it
+T84	URL 2135 2139	link
+T85	Number 2175 2178	two
+T86	Person 2220 2234	internet users
+T87	Number 2208 2219	majority of
+T88	Person 2274 2278	they
+T89	Domain 2365 2379	trusted source
+T90	Information 2449 2467	suspicious account
+T91	Email 2469 2500	hhhhhhhhhhhhhhhh@mailinator.com
+T92	Person 2528 2541	John Bambenek
+T93	Person 2543 2591	threat research manager at Fidelis Cybersecurity
+T95	Person 2593 2595	He
+T96	Campaign 2605 2611	attack
+T97	Protocol 2643 2648	OAuth
+T98	Vulnerability 2622 2637	glaring problem
+T99	Campaign 2672 2694	passive authentication
+T100	Person 2696 2704	Netskope
+T101	Number 2727 2738	a number of
+T102	Person 2739 2755	enterprise users
+T103	Campaign 2812 2818	attack
+T104	Organization 2763 2781	various industries
+T105	Organization 2820 2826	Google
+T106	Course-of-Action 2837 2861	quickly block the attack
+T107	Campaign 2855 2861	attack
+T108	Email 2954 2960	emails
+T109	Person 2962 2970	contacts
+T110	File 2972 2983	attachments
+T111	Information 3007 3021	Google account
+T112	Person 3049 3051	he
+T113	Organization 3066 3076	enterprise
+T115	Software 3136 3139	app
+T116	Campaign 3148 3154	attack
+T117	Person 3169 3173	they
+T118	Course-of-Action 3159 3294	recommend they conduct a full audit of the activities that were performed in Google Gmail after the permissions were granted to the app
+T119	Person 3297 3305	Balupari
+T120	Campaign 3202 3212	activities
+T121	Software 3236 3248	Google Gmail
+T41	URL 2298 2300	it
+T122	Person 3156 3158	we
+T126	Pronoun 3169 3173	they
+T129	Malware 1803 1805	it
+*	Coreference T11 T16
+*	Coreference T22 T35
+*	Coreference T46 T51
+*	Coreference T70 T69
+*	Coreference T68 T71 T97 T123
+*	Coreference T20 T39 T66 T63 T73
+*	Coreference T27 T108
+*	Coreference T40 T5 T1 T8 T43 T10
+*	Coreference T95 T93 T92 T112
+*	Coreference T3 T7
+*	Coreference T44 T45
+*	Coreference T57 T61
+*	Coreference T23 T15
+*	Coreference T65 T64
+*	Coreference T75 T76
+*	Coreference T19 T21
+*	Coreference T81 T26 T79
+*	Coreference T129 T30 T74 T25 T77 T24 T82
+*	Coreference T32 T89 T33 T83 T41 T84 T34
+T94	Number 2412 2419	many of
+T123	Protocol 2662 2664	it
+*	Coreference T86 T88
+*	Coreference T103 T96
+*	Coreference T107 T116
+T114	Person 3103 3108	users

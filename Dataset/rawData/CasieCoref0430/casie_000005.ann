@@ -1,0 +1,82 @@
+T6	Software 910 929	 the Yahoo database
+T8	Software 1326 1334	database
+T9	Time 1395 1406	August 2013
+T10	Time 1420 1429	late 2014
+T11	Information 1441 1456	account details
+T13	Person 1485 1490	users
+T20	Organization 1318 1323	Yahoo
+T17	Campaign 1532 1548	 the 2014 breach
+T16	Information 1568 1588	500 million accounts
+T3	Person 302 315	Aleksey Belan
+T4	Person 320 333	Karim Baratov
+T2	Software 358 366	database
+T18	Hacker-Group 283 299	criminal hackers
+T19	Organization 350 355	Yahoo
+T22	Person 205 215	FSB agents
+T23	Person 218 230	Igor Suschin
+T24	Person 235 251	Dmitry Dokuchaev
+T25	Person 388 408	US military officers
+T27	Organization 462 470	 the FSB
+T26	Person 413 432	Russian journalists
+T12	Organization 7 24	federal officials
+T15	Time 0 5	Today
+T28	Time 58 67	 the 2014
+T29	Campaign 68 81	hack of Yahoo
+T30	Campaign 91 104	 a conspiracy
+T31	Hacker-Group 113 129	criminal hackers
+T32	Organization 133 169	 the Russian Federal Security Agency
+T33	Organization 174 177	FSB
+T1	Person 472 479	Baratov
+T34	Time 493 502	yesterday
+T35	Location 506 512	Canada
+T36	Organization 514 545	Department of Justice officials
+T37	Person 626 659	Assistant Attorney General McCord
+T38	Person 665 674	reporters
+T39	Organization 703 708	Yahoo
+T40	Campaign 724 735	 the breach
+T41	Time 739 748	September
+T42	Organization 749 761	 the company
+T43	Campaign 772 783	 the attack
+T44	Hacker-Group 790 811	state-sponsored actor
+T45	Person 832 848	security experts
+T5	Purpose 934 938	sold
+T46	Purpose 968 993	 a criminal profit motive
+T47	Purpose 1006 1028	intelligence gathering
+T48	Organization 1042 1068	 the Department of Justice
+T49	Organization 1090 1098	 the FSB
+T50	Hacker-Group 1119 1144	 its criminal contractors
+T51	Information 1162 1185	 the stolen information
+T52	Hacker-Group 1223 1239	 the contractors
+T53	Information 1281 1291	gift cards
+T54	Information 1302 1316	financial info
+T7	Time 1348 1366	two separate times
+T14	Person 1602 1625	Yahoo CEO Marissa Mayer
+T21	Course-of-Action 1657 1681	robust security measures
+T55	Person 1683 1688	Mayer
+T56	Campaign 1707 1717	 the error
+T57	Time 1777 1781	2016
+T58	Campaign 1805 1818	 the breaches
+T59	Organization 1844 1849	Yahoo
+T60	Organization 1886 1893	Verizon
+T61	Vulnerability 1902 1922	 the security issues
+T62	Organization 1983 1990	Verizon
+T63	Money 2022 2034	$350 million
+T64	Money 2040 2059	4.4 billion dollars
+T65	Money 1999 2018	 its purchase price
+T66	Information 1192 1194	it
+T67	Person 1731 1734	her
+T68	Number 1461 1481	hundreds of millions
+*	Coreference T8 T2 T6
+*	Coreference T49 T27 T33 T32
+*	Coreference T36 T48
+*	Coreference T20 T59 T19 T39
+*	Coreference T40 T17 T58 T43 T56
+*	Coreference T52 T50
+*	Coreference T30 T29
+*	Coreference T66 T51
+*	Coreference T9 T7 T28
+*	Coreference T55 T14 T67
+*	Coreference T62 T60
+*	Coreference T31 T18
+*	Coreference T4 T1
+*	Coreference T64 T65

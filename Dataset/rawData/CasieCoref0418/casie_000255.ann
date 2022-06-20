@@ -1,0 +1,101 @@
+T7	Campaign 496 507	data breach
+T6	Organization 529 535	Austal
+T9	Information 808 828	ship design drawings
+T3	Person 283 302	security researcher
+T4	Location 306 312	France
+T10	Email 941 962	staff email addresses
+T11	Information 967 987	mobile phone numbers
+T36	Campaign 793 799	breach
+T34	Campaign 2085 2106	Crypto-Locking Attack
+T35	Organization 2050 2066	Connecticut City
+T29	Attack-Pattern 2014 2043	been infected with ransomware
+T28	System 1997 2004	servers
+T27	Money 1977 1983	$2,000
+T31	Location 1959 1970	Connecticut
+T32	Location 1926 1933	the U.S
+T13	Time 1907 1922	Late last month
+T21	Campaign 1488 1495	Ransoms
+T22	Organization 1500 1509	companies
+T25	Malware 1770 1793	file-encrypting malware
+T17	Campaign 1428 1435	ransoms
+T18	Hacker-Group 1439 1446	hackers
+T16	Organization 1382 1391	Companies
+T14	Organization 0 6	Austal
+T15	Location 26 54	Henderson, Western Australia
+T37	Organization 127 140	the U.S. Navy
+T38	Organization 146 153	company
+T39	Time 227 240	late Thursday
+T1	Domain 335 342	Twitter
+T2	Information 350 371	purported stolen data
+T5	Organization 563 570	company
+T40	Organization 373 379	Austal
+T41	System 476 488	data systems
+T42	Organization 578 584	Austal
+T43	Location 603 616	United States
+T44	System 653 669	computer systems
+T45	Person 688 697	spokesman
+T46	Organization 702 708	Austal
+T47	Time 719 728	on Friday
+T48	Person 734 736	he
+T49	Campaign 220 226	breach
+T50	Campaign 779 787	incident
+T8	Attack-Pattern 800 904	exposed ship design drawings that are distributed to customers, fabrication subcontractors and suppliers
+T51	Organization 906 912	Austal
+T12	Attack-Pattern 927 987	exposed "some staff email addresses and mobile phone numbers
+T52	Person 853 862	customers
+T53	Person 864 890	fabrication subcontractors
+T54	Person 895 904	suppliers
+T55	Person 996 1007	individuals
+T56	Number 1038 1057	a "small number" of
+T57	Person 1064 1076	stakeholders
+T58	Organization 174 204	Australia's ASX stock exchange
+T59	Campaign 1102 1108	breach
+T60	Organization 1114 1121	company
+T61	Organization 1131 1137	Austal
+T62	Organization 1156 1188	Australian Cyber Security Center
+T63	Organization 1197 1222	Australian Federal Police
+T64	Organization 1224 1277	The Office of the Australian Information Commissioner
+T65	Organization 1368 1374	Austal
+T66	Location 1298 1305	country
+T19	Information 1554 1583	potentially embarrassing data
+T67	Information 1637 1641	data
+T68	Person 1668 1684	Security experts
+T69	Organization 1689 1704	law enforcement
+T70	Organization 1804 1813	companies
+T30	Location 1935 1957	the city of West Haven
+T71	Number 1994 1996	23
+T72	Person 2113 2128	city's attorney
+T73	Person 2130 2141	Lee Tiernan
+T74	Organization 2157 2177	the Associated Press
+T75	Course-of-Action 1722 1744	against paying ransoms
+T76	Location 2247 2251	city
+T24	Information 760 771	information
+T78	File 2266 2277	backup file
+T79	Location 70 77	country
+T80	Organization 102 104	it
+T81	Organization 88 100	shipbuilders
+T82	Time 269 280	a day after
+T83	Course-of-Action 443 488	it has taken steps to secure its data systems
+T20	System 1459 1467	networks
+T84	Vulnerability 1409 1435	being subjected to ransoms
+T85	Money 1602 1608	ransom
+T86	Campaign 1757 1793	incidents of file-encrypting malware
+T23	Money 1737 1744	ransoms
+T26	Course-of-Action 1972 2043	paid $2,000 to unlock 23 servers that had been infected with ransomware
+T33	Money 2072 2078	Ransom
+T88	Location 2279 2281	it
+T89	Campaign 919 921	It
+*	Coreference T35 T31 T76 T30 T88
+*	Coreference T41 T44
+*	Coreference T7 T49 T36 T59 T93 T50
+*	Coreference T66 T79
+*	Coreference T80 T81 T40 T61 T51 T14 T46 T6 T65 T42 T22 T16 T60 T70 T5 T38
+T93	Campaign 639 644	issue
+T90	Course-of-Action 1298 1335	country's data protection regulations
+*	Coreference T67 T19
+*	Coreference T17 T21
+*	Coreference T85 T23
+*	Coreference T33 T27
+*	Coreference T73 T72
+T77	Course-of-Action 2205 2207	it
+*	Coreference T77 T26

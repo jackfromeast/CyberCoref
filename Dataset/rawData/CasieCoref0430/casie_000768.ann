@@ -1,0 +1,59 @@
+T11	Campaign 779 786	attacks
+T12	Time 787 805	over the past year
+T9	Money 889 896	payouts
+T10	Attack-Pattern 823 862	infecting organizations with ransomware
+T19	Campaign 1388 1408	 a ransomware attack
+T20	Organization 1282 1319	Hollywood Presbyterian Medical Center
+T18	Money 1354 1361	$17,000
+T21	Time 1263 1276	13 months ago
+T25	Attack-Pattern 1665 1698	demand even higher ransom payouts
+T23	Organization 1504 1517	Organizations
+T22	Hacker-Group 1568 1585	ransomware actors
+T24	Attack-Pattern 1633 1660	disrupt business operations
+T4	Campaign 450 474	empty ransomware demands
+T1	Campaign 351 368	extortion attacks
+T2	Organization 379 392	organizations
+T3	Campaign 416 438	fake extortion threats
+T14	Campaign 1185 1203	Ransomware Attacks
+T13	Purpose 1212 1234	Lock Business Services
+T15	Hacker-Group 1025 1042	ransomware actors
+T16	Attack-Pattern 1083 1101	disruptive attacks
+T6	Purpose 566 579	ask for money
+T5	Attack-Pattern 540 560	data being encrypted
+T8	Organization 496 509	organizations
+T7	Hacker-Group 481 487	actors
+T26	Organization 520 537	 the organization
+T27	Malware 0 10	Ransomware
+T28	Campaign 78 88	cybercrime
+T29	Person 124 129	users
+T30	Campaign 230 240	cybercrime
+T31	Campaign 264 276	fake attacks
+T32	Time 318 336	earlier this month
+T33	Person 310 311	I
+T34	Campaign 589 613	 the non-existent threat
+T35	Hacker-Group 615 629	Cybercriminals
+T36	Money 939 944	money
+T37	Organization 950 963	organizations
+T38	Campaign 917 928	 the attack
+T39	Person 1055 1069	 their targets
+T40	Hacker-Group 1142 1159	Ransomware Actors
+T41	Information 1245 1249	Data
+T17	File 1372 1382	 its files
+T43	Person 1109 1111	we
+T45	Campaign 218 220	it
+T46	Campaign 27 44	 an opportunistic
+T47	Campaign 148 153	model
+T42	Campaign 185 194	extortion
+T48	Campaign 678 688	 an attack
+T49	Malware 852 862	ransomware
+T44	Campaign 1409 1422	 The incident
+T51	Campaign 1450 1472	those types of stories
+T52	Organization 1549 1559	themselves
+T53	Money 1684 1699	ransom payouts.
+*	Coreference T37 T8 T2 T23 T26 T52
+*	Coreference T46 T27 T47 T45 T49
+*	Coreference T1 T42
+*	Coreference T31 T3 T4 T34
+*	Coreference T35 T7 T22 T40 T15
+*	Coreference T30 T28 T48 T11 T38 T16 T14 T19 T44 T51
+*	Coreference T9 T36 T53 T18

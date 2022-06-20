@@ -1,0 +1,41 @@
+T5	Hacker-Group 4 12	bad guys
+T3	Domain 73 93	real Australian site
+T4	Attack-Pattern 99 152	the email requesting the person verify their identity
+T6	Purpose 318 365	asking for many different pieces of information
+T7	Purpose 222 263	is asked to input their login credentials
+T9	Person 215 221	victim
+T8	Domain 193 210	fake landing page
+T10	Hacker-Group 274 280	crooks
+T1	Organization 167 179	Malwarebytes
+T11	URL 26 29	URL
+T12	Email 103 108	email
+T13	Person 124 130	person
+T14	Information 144 152	identity
+T15	Information 240 263	their login credentials
+T16	Attack-Pattern 281 314	take the unusual, and nervy, step
+T17	Organization 367 379	Malwarebytes
+T18	Domain 389 398	fake site
+T19	Attack-Pattern 408 503	a high-resolution image, front and back, of the person's driver's license, passport be uploaded
+T20	Information 410 431	high-resolution image
+T21	Information 433 447	front and back
+T23	Information 465 481	driver's license
+T24	Information 483 491	passport
+T25	Hacker-Group 513 521	bad guys
+T26	Hacker-Group 561 565	they
+T27	Person 583 589	victim
+T28	Attack-Pattern 593 719	link their banking account with the site and supply account numbers, mother's maiden name, phone number and telephone passcode
+T29	Information 604 619	banking account
+T30	Domain 629 633	site
+T31	Information 645 660	account numbers
+T32	Information 662 682	mother's maiden name
+T33	Information 684 696	phone number
+T34	Information 701 719	telephone passcode
+T36	Device 762 767	phone
+T37	Attack-Pattern 721 767	An SMS text is then sent to the person's phone
+T38	Information 786 796	everything
+T39	Software 724 727	SMS
+*	Coreference T5 T25 T26 T10
+*	Coreference T9 T27 T13
+*	Coreference T1 T17
+*	Coreference T18 T30 T8
+T2	Campaign 51 68	perfectly mirrors

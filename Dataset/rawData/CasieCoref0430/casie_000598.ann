@@ -1,0 +1,115 @@
+T26	Information 2629 2639	cards data
+T24	Campaign 2586 2597	data breach
+T23	Organization 2553 2561	T.J.Maxx
+T4	Time 61 72	three years
+T2	Information 27 38	credit card
+T1	Organization 0 5	Kmart
+T14	Email 360 375	email addresses
+T13	Information 333 356	Social Security Numbers
+T12	Information 322 331	addresses
+T11	Information 315 320	names
+T10	Information 290 303	personal data
+T9	Malware 257 264	malware
+T8	Location 208 215	 the US
+T7	Organization 199 205	stores
+T5	Organization 159 164	Kmart
+T28	System 232 256	 the point-of-sale (PoS)
+T16	Malware 747 754	malware
+T18	Information 762 774	account data
+T21	Information 845 856	information
+T20	Hacker-Group 858 865	thieves
+T19	Purpose 914 941	buy high-priced merchandise
+T29	Device 784 811	 the card’s magnetic stripe
+T3	Campaign 27 45	credit card breach
+T6	Device 91 121	 its chip-and-PIN card readers
+T25	Number 190 198	 its 750
+T15	Device 406 421	 its EMV reader
+T30	Organization 438 443	Kmart
+T31	Device 448 469	EMV-enabled terminals
+T32	Organization 472 483	 its stores
+T33	Person 493 502	customers
+T34	Device 508 518	chip cards
+T35	Campaign 604 618	 the infection
+T37	Person 674 690	 those consumers
+T38	Device 699 709	chip cards
+T17	Person 814 816	he
+T39	Attack-Pattern 882 910	clone the cards and use them
+T40	Device 906 910	them
+T41	Device 887 897	 the cards
+T42	Organization 947 965	electronics stores
+T43	Organization 970 987	big box retailers
+T44	Organization 998 1020	financial institutions
+T45	Campaign 1028 1039	 the breach
+T46	Organization 1043 1048	Krebs
+T47	Campaign 1066 1071	fraud
+T48	Campaign 1106 1117	 the attack
+T49	Information 1136 1143	details
+T50	Campaign 1193 1206	 The incident
+T51	Campaign 1226 1243	previous breaches
+T52	Organization 1244 1265	 the bargain retailer
+T53	Malware 1370 1377	malware
+T54	Campaign 1408 1423	earlier attacks
+T55	System 1433 1453	 its payment systems
+T56	Malware 1473 1480	malware
+T57	Organization 1486 1491	Kmart
+T58	Course-of-Action 1518 1544	 its antivirus protections
+T59	Malware 1606 1623	family of malware
+T60	Course-of-Action 1577 1661	dealing with an entirely new family of malware or methods of infecting POS terminals
+T61	Attack-Pattern 1627 1661	methods of infecting POS terminals
+T62	Course-of-Action 1714 1731	detect the threat
+T63	Person 1739 1756	Richard Henderson
+T64	Person 1758 1784	Global Security Strategist
+T65	Email 1800 1805	email
+T66	Vulnerability 1828 1830	it
+T67	Organization 1863 1868	Kmart
+T68	Information 1876 1887	information
+T69	Campaign 1893 1905	 this attack
+T70	Organization 1915 1924	retailers
+T71	Organization 1926 1945	antivirus companies
+T72	Organization 1950 1984	network security appliance vendors
+T73	Person 1993 2001	everyone
+T74	Campaign 2230 2243	 The incident
+T75	Course-of-Action 2291 2307	payment security
+T76	Person 2317 2321	some
+T77	Person 2358 2379	cybersecurity experts
+T78	System 2406 2416	IT systems
+T79	Person 2470 2484	Csaba Krasznay
+T80	Person 2486 2515	product evangelist at Balabit
+T22	Time 2529 2551	More than 10 years ago
+T81	Number 2617 2628	100 million
+T27	Information 2788 2797	card data
+T82	Campaign 2657 2665	incident
+T83	Organization 2802 2807	Kmart
+T84	Course-of-Action 2827 2857	avoid large scale data leakage
+T85	Person 2767 2775	everyone
+T86	File 2732 2762	 a mandatory security standard
+T87	System 2062 2070	networks
+T88	Course-of-Action 2083 2115	defenses against this new threat
+T89	Vulnerability 2120 2127	 a hole
+T90	Course-of-Action 2148 2164	KMart's defenses
+T91	Course-of-Action 2191 2219	 a defense-in-depth approach
+T92	Person 2221 2223	he
+T93	Campaign 1314 1316	it
+T95	Attack-Pattern 1684 1688	they
+T96	Person 2864 2866	we
+T98	Organization 270 272	it
+T99	Vulnerability 2166 2168	it
+T100	System 2434 2438	they
+T103	Person 1567 1569	we
+T104	Organization 389 391	It
+T36	Person 630 652	independent researcher
+T105	Person 653 664	Brian Krebs
+*	Coreference T56 T53
+*	Coreference T62 T88
+*	Coreference T5 T1 T30 T67 T57 T83 T98 T104
+*	Coreference T36 T105 T46 T17
+*	Coreference T41 T40
+*	Coreference T35 T3 T45 T48 T69 T50 T74
+*	Coreference T16 T9
+*	Coreference T63 T64 T92
+*	Coreference T61 T95
+*	Coreference T99 T89
+*	Coreference T78 T100
+*	Coreference T79 T80
+*	Coreference T82 T24
+*	Coreference T54 T93

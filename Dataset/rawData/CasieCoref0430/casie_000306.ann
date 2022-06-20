@@ -1,0 +1,80 @@
+T3	Hacker-Group 32 40	scammers
+T4	Attack-Pattern 68 116	through the abuse of multilingual character sets
+T6	Domain 129 151	 these lookalike sites
+T18	Information 1416 1433	financial details
+T14	Campaign 749 763	phishing scams
+T8	Campaign 306 320	phishing scams
+T9	Campaign 445 460	a phishing scam
+T13	Person 398 404	people
+T10	Campaign 500 513	this new scam
+T12	Domain 546 565	the lookalike sites
+T11	Person 522 538	smartphone users
+T21	Organization 4 7	BBC
+T1	Purpose 59 67	trick us
+T5	Domain 157 169	domain names
+T24	Attack-Pattern 121 225	creating these lookalike sites with domain names that are almost identical to the URLs we know and trust
+T7	URL 198 207	 the URLs
+T25	Domain 268 290	fake and genuine sites
+T26	Campaign 347 355	Research
+T27	Organization 359 383	security company Wandera
+T28	Number 409 420	three times
+T29	Device 472 484	 their phone
+T30	Campaign 586 602	 A recent survey
+T31	Person 614 633	 the British public
+T32	Campaign 649 654	scams
+T33	Campaign 659 685	online security behaviours
+T34	Number 692 695	16%
+T35	Person 699 713	British adults
+T36	Campaign 731 743	online fraud
+T37	Number 783 793	one in ten
+T38	Person 797 799	us
+T39	Organization 817 826	age group
+T40	Campaign 841 853	online fraud
+T41	Number 857 864	35 – 54
+T42	Number 878 893	one-fifth (19%)
+T43	Organization 897 901	this
+T44	Person 928 934	victim
+T45	Campaign 937 944	 a scam
+T48	Person 970 980	Tony Neate
+T49	Campaign 995 1007	online fraud
+T50	Campaign 1019 1021	it
+T15	Domain 1093 1108	 a real website
+T16	Person 1137 1146	developer
+T51	Domain 1195 1209	malicious site
+T52	Email 1323 1340	 a received email
+T53	Organization 1348 1369	 a legitimate company
+T19	Hacker-Group 1388 1398	 a scammer
+T17	Attack-Pattern 1088 1108	clone a real website
+T54	Attack-Pattern 1155 1209	produce a very professional-looking but malicious site
+T55	Person 1434 1453	 The initial sender
+T56	Course-of-Action 1480 1522	Take the time to look at the email address
+T57	Email 1504 1522	 the email address
+T58	Information 1558 1567	 the name
+T60	Organization 1627 1639	 the company
+T62	Hacker-Group 1664 1676	 a fraudster
+T63	Email 1714 1724	 the email
+T64	Course-of-Action 1683 1710	take a look at the greeting
+T65	Person 1742 1756	loyal customer
+T66	Email 1780 1799	 your email address
+T67	Purpose 1410 1433	steal financial details
+T68	Organization 1834 1851	 The real company
+T72	Course-of-Action 1858 1915	address you by your full name and make it personal to you
+T73	Email 1949 1959	 the email
+T20	Campaign 2070 2086	 a phishing scam
+T74	Vulnerability 1917 1946	Careless slip-ups in the copy
+T78	Person 2125 2132	someone
+T79	Organization 2137 2158	 a legitimate company
+T81	Time 1484 1493	 the time
+T82	Person 1218 1221	you
+T84	Person 1043 1046	you
+T85	Campaign 464 466	it
+T87	Person 2088 2091	You
+T88	Pronoun 1866 1869	you
+T89	Pronoun 1912 1915	you
+T92	Pronoun 1897 1899	it
+T2	Person 946 968	CEO of Get Safe Online
+*	Coreference T6 T12
+*	Coreference T9 T85
+*	Coreference T40 T49 T36 T50
+*	Coreference T60 T53 T79 T68
+*	Coreference T2 T48

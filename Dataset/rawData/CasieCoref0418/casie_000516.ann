@@ -1,0 +1,45 @@
+T4	Vulnerability 112 126	security flaws
+T2	Organization 164 179	a security firm
+T5	Organization 32 56	the Colombian government
+T8	Vulnerability 646 673	another six vulnerabilities
+T6	Organization 630 639	The group
+T9	Vulnerability 714 726	a web portal
+T10	Device 731 741	the device
+T11	Attack-Pattern 747 818	allows anyone (even people without passwords) to access GPS coordinates
+T22	Device 826 832	device
+T21	Organization 1259 1261	we
+T20	Vulnerability 1303 1324	these vulnerabilities
+T17	Person 834 840	Anyone
+T18	Domain 869 877	the site
+T13	Information 898 909	information
+T14	Information 919 927	accounts
+T15	Information 939 952	phone numbers
+T16	File 957 978	device configurations
+T3	Device 3 15	panic button
+T7	Device 984 990	device
+T23	Attack-Pattern 1041 1098	allowing anyone to tamper or alter information in transit
+T24	Person 1050 1056	anyone
+T25	Organization 1100 1106	Rapid7
+T26	Time 1138 1146	December
+T27	Malware 1122 1134	manufacturer
+T28	Software 1170 1176	Eview 
+T29	Organization 1193 1199	Rapid7
+T30	Vulnerability 1231 1245	security flaws
+T31	Course-of-Action 1220 1245	repair the security flaws
+T19	Person 1338 1345	Heiland
+T32	Organization 1248 1250	We
+T33	Person 571 584	Deral Heiland
+T34	Person 497 498	I
+T35	Organization 622 628	Rapid7
+T36	Organization 190 196	Rapid7
+T37	Software 214 238	Eview EV-07S GPS tracker
+T38	Software 318 324	EV-07S
+T39	Person 438 439	I
+T40	Organization 260 276	Associated Press
+T41	Person 481 491	my grandma
+T44	Pronoun 530 532	it
+*	Coreference T10 T22 T7
+*	Coreference T19 T33 T34 T39
+*	Coreference T35 T36 T25 T29
+*	Coreference T32 T21
+*	Coreference T30 T20

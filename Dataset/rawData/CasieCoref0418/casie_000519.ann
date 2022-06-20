@@ -1,0 +1,134 @@
+T22	Campaign 1302 1310	WannaCry
+T69	Campaign 1427 1435	payments
+T71	Time 1377 1389	three months
+T21	Campaign 1567 1585	payments were made
+T23	Money 1526 1533	$50,000
+T20	Money 1471 1479	$140,000
+T19	Person 1436 1443	victims
+T24	Campaign 1847 1860	ransom demand
+T25	Money 1817 1833	1 or 0.5 bitcoin
+T26	Person 1997 2007	the victim
+T28	Money 1951 1972	a few hundred dollars
+T54	Person 3838 3842	they
+T56	Person 3850 3857	victims
+T60	Person 3791 3800	criminals
+T59	Person 3878 3882	they
+T61	Person 3964 3975	the victims
+T9	Device 943 946	PCs
+T10	Attack-Pattern 965 981	encrypting files
+T12	Money 1009 1013	$300
+T14	Campaign 1232 1243	the demands
+T15	Person 1247 1266	the cyber-attackers
+T17	Person 1169 1176	victims
+T16	System 1198 1211	their systems
+T18	Malware 1098 1117	the ransomware code
+T66	Malware 4113 4130	Scarab ransomware
+T68	Person 4151 4158	victims
+T29	Campaign 2161 2174	ransom demand
+T30	Person 2081 2095	some attackers
+T75	Time 2069 2079	the summer
+T33	Campaign 2209 2227	demanded a payment
+T34	Money 2231 2242	0.2 bitcoin
+T35	Money 2244 2250	$1,138
+T36	Time 2254 2265	mid-October
+T32	Malware 2189 2208	Magniber ransomware
+T40	Campaign 2317 2344	the payment wasn't received
+T37	Money 2278 2289	0.4 bitcoin
+T38	Money 2291 2297	$2,275
+T39	Time 2301 2312	mid-October
+T41	Time 2345 2361	within five days
+T1	Campaign 712 730	collecting ransoms
+T2	Hacker-Group 681 695	cybercriminals
+T5	Malware 612 622	ransomware
+T6	Time 628 646	the last two years
+T42	Campaign 2487 2506	ask for the payment
+T43	Malware 2468 2478	ransomware
+T45	Money 2510 2539	a specified amount of dollars
+T49	Campaign 2827 2836	paying up
+T46	Person 2586 2593	victims
+T48	Person 2816 2826	the victim
+T62	Campaign 4006 4028	payment scheme charges
+T64	Person 4029 4036	victims
+T63	Malware 3984 4005	The Fatboy ransomware
+T8	Malware 849 857	WannaCry
+T76	Malware 871 881	ransomware
+T51	Campaign 2990 3015	The average ransom demand
+T52	Money 3039 3060	between $300 to $1000
+T53	File 3075 3090	the ransom note
+T70	Campaign 1603 1611	WannaCry
+T73	Money 1687 1690	$1m
+T3	Hacker-Group 0 18	Ransomware authors
+T4	Money 562 569	Bitcoin
+T13	Money 655 671	digital currency
+T7	Money 1017 1024	bitcoin
+T11	Device 1071 1078	machine
+T31	Money 260 267	$19,000
+T44	Money 301 308	$16,500
+T47	Money 417 424	bitcoin
+T50	Money 228 242	cryptocurrency
+T72	Money 172 179	bitcoin
+T74	Hacker-Group 139 157	dark web operators
+T77	Money 54 68	cryptocurrency
+T78	Hacker-Group 1774 1788	cybercriminals
+T79	Money 1727 1734	bitcoin
+T80	Money 1694 1701	bitcoin
+T81	Money 1351 1358	Bitcoin
+T82	Time 2363 2379	Two months later
+T83	Money 2412 2418	$3,312
+T84	Money 2446 2452	$6,625
+T85	Hacker-Group 2693 2707	criminal gangs
+T86	Hacker-Group 2974 2988	cybercriminals
+T87	Malware 3766 3776	ransomware
+T88	Hacker-Group 3710 3719	Criminals
+T89	Hacker-Group 3555 3592	sophisticated cybercriminal operators
+T90	Hacker-Group 3203 3226	ransomware distributors
+T57	Purpose 3686 3708	sustain their business
+T65	Vulnerability 111 119	problems
+T67	Time 194 205	recent days
+T91	Money 531 560	a significant amount of money
+T92	Money 507 521	cryptocurrency
+T93	Time 472 484	now at least
+T94	Campaign 1400 1406	attack
+T95	Number 1423 1426	338
+T27	Money 2040 2047	bitcoin
+T96	Money 2117 2151	standard amounts of cryptocurrency
+T97	Money 2425 2436	0.4 bitcoin
+T98	Money 2381 2392	0.2 bitcoin
+T99	Money 2612 2640	a specific amount of bitcoin
+T100	Money 2768 2782	cryptocurrency
+T101	Money 2871 2892	a few hundred dollars
+T102	Domain 3182 3187	ZDNet
+T103	Person 3119 3130	Andy Norton
+T104	Money 3441 3448	bitcoin
+T55	Location 4040 4056	poorer countries
+T105	Location 4083 4087	ones
+T107	File 4230 4235	files
+T108	Pronoun 3472 3476	them
+T109	Pronoun 2786 2788	it
+T110	Pronoun 1410 1412	it
+T112	Pronoun 1653 1657	they
+T113	Pronoun 3878 3882	they
+T114	Pronoun 3189 3191	It
+T115	Money 275 277	it
+T116	Pronoun 2895 2896	I
+T118	Hacker-Group 124 128	them
+T119	Pronoun 750 752	it
+T120	Money 316 318	it
+T121	Pronoun 838 840	it
+T122	Pronoun 3670 3674	they
+T123	Pronoun 3326 3330	they
+T125	Pronoun 3838 3842	they
+T126	Pronoun 3613 3615	it
+T127	Pronoun 2569 2571	it
+*	Coreference T62 T21 T69
+*	Coreference T28 T101
+*	Coreference T15 T30
+*	Coreference T24 T51 T29
+*	Coreference T36 T39
+*	Coreference T61 T68 T46 T56 T26 T17 T64 T48 T19
+*	Coreference T22 T70 T8
+*	Coreference T87 T18 T66 T43 T32 T63
+*	Coreference T20 T84 T23 T38
+*	Coreference T3 T118
+*	Coreference T72 T115 T120 T47 T58 T34 T37 T25 T104 T81 T98 T27 T97 T79 T80 T4
+T58	Money 445 447	it

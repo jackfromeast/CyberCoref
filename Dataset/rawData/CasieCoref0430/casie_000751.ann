@@ -1,0 +1,93 @@
+T12	Vulnerability 319 337	 The vulnerability
+T13	System 347 369	 the PHPMailer library
+T5	Version 522 534	Core version
+T15	System 498 521	 a vulnerable WordPress
+T14	Attack-Pattern 431 460	gain access to and compromise
+T74	System 460 489	 an target application server
+T3	Person 0 46	Independent security researcher Dawid Golunski
+T1	Vulnerability 96 150	an unauthenticated remote code execution vulnerability
+T2	System 154 163	WordPress
+T6	Vulnerability 169 183	CVE-2016-10033
+T10	Software 303 318	the popular CMS
+T7	Vulnerability 208 261	an unauthorized password reset zero-day vulnerability
+T8	Vulnerability 263 276	CVE-2017-8295
+T64	Version 164 167	4.6
+T9	Version 280 299	 the latest version
+T72	Vulnerability 59 91	 a proof-of-concept exploit code
+T16	Vulnerability 679 688	 The hole
+T18	Organization 722 747	 the WordPress Foundation
+T26	Person 984 992	Golunski
+T24	Vulnerability 1064 1078	 the same flaw
+T25	Version 1019 1043	older WordPress versions
+T29	Person 1353 1361	Golunski
+T30	Vulnerability 1417 1462	 an unauthorized password reset vulnerability
+T31	Vulnerability 1464 1477	CVE-2017-8295
+T35	Vulnerability 1610 1618	the flaw
+T36	Person 1621 1646	 the WordPress developers
+T39	Organization 1569 1579	SecuriTeam
+T37	Organization 1547 1561	BeyondSecurity
+T38	Person 1539 1542	him
+T40	Campaign 1647 1661	 the discovery
+T41	Time 1697 1705	mid-2016
+T71	Vulnerability 1664 1682	 the vulnerability
+T44	Vulnerability 1722 1724	it
+T46	Software 1744 1752	 the CMS
+T43	Person 1707 1715	Golunski
+T45	Version 1728 1741	version 4.3.1
+T49	System 1755 1764	WordPress
+T47	Vulnerability 1807 1823	 a vulnerability
+T50	Attack-Pattern 1869 1936	get hold of the password reset link without previous authentication
+T52	Person 2264 2272	Golunski
+T53	Vulnerability 2282 2292	 the issue
+T55	Organization 2308 2336	 the WordPress security team
+T61	Person 2408 2410	He
+T59	Vulnerability 2441 2453	his findings
+T21	System 802 811	WordPress
+T20	Time 773 780	January
+T65	Version 812 817	4.7.1
+T68	System 1214 1217	CMS
+T67	Version 1177 1198	 these older versions
+T69	Version 1236 1250	newer versions
+T70	Version 1279 1285	v4.7.4
+T32	Organization 1483 1508	 the WordPress Foundation
+T57	Vulnerability 2386 2388	it
+T58	Organization 2357 2361	they
+T63	Course-of-Action 2465 2485	a temporary solution
+T4	Hacker-Group 395 427	unauthenticated remote attackers
+T11	Person 663 671	Golunski
+T17	Number 877 887	11 percent
+T19	System 895 917	WordPress installation
+T73	Version 946 973	 the vulnerable version 4.6
+T23	System 1101 1125	vulnerable installations
+T27	Person 1157 1163	Admins
+T28	Information 1389 1400	information
+T66	Code 1405 1413	POC code
+T33	Hacker-Group 1856 1865	attackers
+T34	Campaign 1943 1949	attack
+T42	Hacker-Group 1963 1975	 an attacker
+T48	Attack-Pattern 1976 2003	gaining unauthorized access
+T75	Information 2006 2035	 a victim’s WordPress account
+T76	Organization 2038 2052	BeyondSecurity
+T77	Vulnerability 2069 2082	vulnerability
+T78	System 2094 2103	WordPress
+T80	Information 2241 2261	 the owner’s account
+T81	Email 2214 2261	 the e-mail associated with the owner’s account
+T51	Number 2337 2351	multiple times
+T54	Course-of-Action 2498 2557	enable UseCanonicalName to enforce static SERVER_NAME value
+T22	Course-of-Action 786 817	 the release of WordPress 4.7.1
+T56	Email 2149 2173	 a password reset e-mail
+T60	Vulnerability 642 660	 the vulnerability
+T62	Organization 839 854	 the Foundation
+T79	Version 1300 1304	that
+*	Coreference T18 T32 T62
+*	Coreference T37 T76
+*	Coreference T46 T68
+*	Coreference T9 T5
+*	Coreference T19 T23 T49 T78 T21 T15 T2
+*	Coreference T12 T47 T77 T53 T57 T59 T60 T16 T24 T8
+*	Coreference T43 T52 T61 T11 T29 T38 T26 T3
+*	Coreference T70 T79
+*	Coreference T30 T35 T71 T44
+*	Coreference T58 T55
+*	Coreference T1 T6
+*	Coreference T42 T33

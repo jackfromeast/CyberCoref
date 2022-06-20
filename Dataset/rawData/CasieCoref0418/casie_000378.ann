@@ -1,0 +1,92 @@
+T4	Money 979 986	$55,000
+T9	Person 1025 1043	Hospital officials
+T14	Money 1721 1727	ransom
+T13	Money 1711 1720	1 Bitcoin
+T15	Hacker-Group 1674 1690	SamSam operators
+T16	Device 1774 1783	computers
+T17	Person 1765 1772	victims
+T2	Organization 647 659	Colorado DOT
+T18	Malware 751 761	ransomware
+T19	Malware 763 769	SamSam
+T10	Person 1143 1156	DOT officials
+T22	Course-of-Action 52 82	shut down over 2,000 computers
+T23	Number 67 72	2,000
+T24	Device 73 82	computers
+T25	System 94 101	systems
+T26	Malware 124 141	SamSam ransomware
+T27	Time 145 167	Wednesday, February 21
+T30	Organization 211 236	antivirus provider McAfee
+T31	Course-of-Action 194 350	working with its antivirus provider McAfee to remediate affected workstations and safeguard other endpoints before before reintroducing PCs into its network
+T32	Organization 250 271	affected workstations
+T33	Device 330 333	PCs
+T34	System 343 350	network
+T35	Person 353 366	DOT officials
+T36	Organization 372 383	local press
+T37	System 396 411	crucial systems
+T38	System 439 444	those
+T39	Device 454 479	road surveillance cameras
+T41	Device 517 523	others
+T40	Organization 594 600	agency
+T1	Money 677 683	ransom
+T46	Person 716 725	officials
+T47	Malware 788 798	ransomware
+T48	Attack-Pattern 811 870	infected hospitals, city councils, and ICS firms in January
+T49	Organization 820 829	hospitals
+T50	Organization 831 844	city councils
+T51	Organization 850 859	ICS firms
+T52	Time 863 870	January
+T53	Hacker-Group 876 883	hackers
+T54	Money 894 902	$300,000
+T55	Campaign 914 921	attacks
+T6	Person 934 941	victims
+T7	Organization 946 962	Indiana hospital
+T3	Course-of-Action 963 1023	agreed to pay a $55,000 ransom demand despite having backups
+T56	File 1016 1023	backups
+T8	Money 1085 1091	ransom
+T58	File 1134 1141	backups
+T59	Course-of-Action 1077 1091	pay the ransom
+T60	Course-of-Action 1097 1141	restore all its computers' data from backups
+T61	Person 1162 1166	they
+T11	Campaign 1209 1222	ransom demand
+T62	Person 1227 1231	they
+T64	Course-of-Action 1167 1257	don't intend to follow suit by paying the ransom demand and they will restore from backups
+T65	Malware 1261 1278	SamSam ransomware
+T66	Malware 1297 1318	The SamSam ransomware
+T67	Malware 1324 1334	ransomware
+T69	Organization 1368 1380	single group
+T70	Campaign 1382 1391	Infection
+T71	Hacker-Group 1405 1414	attackers
+T72	Attack-Pattern 1415 1492	gain access to a company's internal networks by brute-forcing RDP connections
+T73	System 1432 1459	company's internal networks
+T74	Campaign 1463 1492	brute-forcing RDP connections
+T75	Hacker-Group 1494 1503	Attackers
+T76	Attack-Pattern 1509 1568	try to gain access to as many computers on the same network
+T77	Device 1539 1548	computers
+T78	System 1556 1568	same network
+T79	Malware 1613 1630	SamSam ransomware
+T80	Hacker-Group 1591 1595	they
+T81	Attack-Pattern 1605 1647	run the SamSam ransomware to encrypt files
+T82	File 1642 1647	files
+T83	Campaign 1656 1672	recent campaigns
+T12	Hacker-Group 1789 1801	SamSam group
+T84	Time 1829 1850	in the winter of 2016
+T85	Campaign 1875 1886	new attacks
+T86	Campaign 1894 1905	new attacks
+T87	Organization 1949 1966	Bleeping Computer
+T88	Organization 1968 1979	Secureworks
+T89	Organization 1985 1996	Cisco Talos
+T90	Purpose 1699 1727	asked for a 1 Bitcoin ransom
+*	Coreference T4 T54
+*	Coreference T15 T12
+*	Coreference T56 T58
+*	Coreference T67 T18 T65 T66 T79 T47 T26 T19
+*	Coreference T75 T85 T86 T71 T80
+T21	Organization 4 41	Colorado Department of Transportation
+T96	Organization 43 46	DOT
+*	Coreference T21 T96 T2
+T97	Person 173 190	agency's IT staff
+T28	Domain 529 545	agency's Twitter
+T29	System 623 644	employees' IT network
+*	Coreference T10 T61 T62
+T5	File 1250 1257	backups
+*	Coreference T13 T14

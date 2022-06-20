@@ -1,0 +1,129 @@
+T4	Person 71 79	shoppers
+T2	Attack-Pattern 13 79	using fake websites to lure in Cyber Monday and Christmas shoppers
+T1	Hacker-Group 0 8	SCAMMERS
+T5	Purpose 84 100	take their money
+T9	Person 395 403	shoppers
+T7	Hacker-Group 375 383	scammers
+T6	Purpose 473 501	hand over their card details
+T12	Domain 523 536	fake websites
+T11	Hacker-Group 503 507	They
+T15	Person 579 585	people
+T16	Purpose 591 633	giving away their data and payment details
+T13	Organization 552 569	genuine retailers
+T20	Attack-Pattern 776 807	click on links to fake websites
+T17	Attack-Pattern 709 750	Phishing emails containing tempting deals
+T19	Person 764 772	shoppers
+T23	Hacker-Group 2094 2104	fraudsters
+T22	Person 2129 2135	people
+T25	Hacker-Group 2902 2910	scammers
+T26	Organization 2931 2936	Tesco
+T27	Attack-Pattern 2937 2967	are running a fake competition
+T28	Purpose 2985 3008	steal your bank details
+T30	Domain 19 32	fake websites
+T3	Money 95 100	money
+T31	Time 44 56	Cyber Monday
+T32	Device 163 170	iPhones
+T33	Hacker-Group 224 234	fraudsters
+T34	Course-of-Action 102 182	Be wary of "too good to be true" offers on Fingerlings toys, iPhones and fashion
+T35	Organization 253 274	City of London Police
+T36	Money 303 315	£2.96billion
+T37	Time 319 342	the end of Cyber Monday
+T38	Person 281 289	shoppers
+T39	Person 344 357	fraud experts
+T8	Attack-Pattern 389 468	tempt shoppers with suspiciously good deals so they buy their counterfeit items
+T40	Information 451 468	counterfeit items
+T41	Information 489 501	card details
+T29	Attack-Pattern 516 569	set up fake websites that look like genuine retailers
+T14	Information 609 633	data and payment details
+T43	Organization 665 677	Action Fraud
+T44	Organization 682 707	the City of London Police
+T45	Email 709 724	Phishing emails
+T46	Campaign 736 750	tempting deals
+T18	URL 785 790	links
+T47	Domain 794 807	fake websites
+T48	Time 832 844	Cyber Monday
+T49	Time 849 874	over the Christmas period
+T50	Hacker-Group 893 901	Scammers
+T51	Attack-Pattern 906 933	using social media websites
+T52	Domain 912 933	social media websites
+T53	Domain 942 950	Facebook
+T54	Domain 952 971	re-selling websites
+T55	Domain 980 987	Gumtree
+T56	Domain 992 1015	online auction websites
+T57	Domain 1024 1028	eBay
+T58	Person 1039 1057	Christmas shoppers
+T59	Person 1059 1066	experts
+T60	Device 1077 1090	Mobile phones
+T61	Device 1106 1119	Apple iPhones
+T62	Device 1142 1146	item
+T63	Person 1152 1158	people
+T64	Hacker-Group 1175 1185	fraudsters
+T65	Number 1212 1233	Seventy-four per cent
+T66	Device 1241 1248	mobiles
+T67	Hacker-Group 1261 1271	fraudsters
+T68	Device 1277 1284	iPhones
+T69	Device 1302 1332	Electrical and household items
+T70	Device 1334 1343	computers
+T71	Person 1401 1408	victims
+T72	Device 1420 1434	Apple MacBooks
+T73	Organization 1436 1439	Ugg
+T74	Organization 1450 1461	Fingerlings
+T75	Course-of-Action 1472 1527	be wary of "too good to be true" offers for these items
+T77	Hacker-Group 1598 1606	scammers
+T78	Number 1638 1649	30 per cent
+T79	Person 1679 1690	young women
+T80	Person 1529 1557	Women aged between 20 and 29
+T76	Number 1548 1550	20
+T81	Number 1555 1557	29
+T82	Organization 1700 1706	police
+T83	Person 1724 1732	everyone
+T84	Course-of-Action 1740 1759	stay on their guard
+T85	Person 1763 1769	anyone
+T86	Person 1779 1785	victim
+T87	Hacker-Group 1789 1818	Christmas shopping fraudsters
+T88	Number 1830 1836	15,000
+T89	Person 1837 1845	shoppers
+T90	Money 1862 1872	£11million
+T91	Hacker-Group 1876 1884	scammers
+T92	Time 1885 1920	over the Christmas period last year
+T94	Organization 1972 1997	the City of London Police
+T95	Time 2032 2057	an expensive time of year
+T96	Person 2062 2066	many
+T97	System 2072 2080	internet
+T21	Campaign 2159 2170	cheap deals
+T98	Attack-Pattern 2124 2170	lure people in with the promise of cheap deals
+T99	Person 2172 2174	He
+T100	Hacker-Group 2191 2201	fraudsters
+T101	Campaign 2211 2217	tracks
+T102	Course-of-Action 2219 2318	be cautious of where and from whom you’re buying, especially if it is technology at a reduced price
+T103	Money 2305 2318	reduced price
+T105	Person 2321 2331	Tony Neate
+T104	Person 2333 2355	CEO of Get Safe Online
+T107	Attack-Pattern 2414 2556	rush into making a quick purchase online to secure a must have gift or bargain without taking the time to check that everything is as it seems
+T108	Campaign 2433 2447	quick purchase
+T109	Time 2512 2516	time
+T110	Course-of-Action 2563 2650	taking a couple of minutes to familiarise yourself with a few simple online safety tips
+T111	Time 2570 2589	a couple of minutes
+T112	Number 2619 2624	a few
+T113	Person 2735 2741	victim
+T114	Campaign 2745 2757	online fraud
+T115	Number 2770 2779	plenty of
+T116	Campaign 2780 2815	Black Friday and Cyber Monday scams
+T117	Time 2823 2836	at the moment
+T118	Person 2839 2841	we
+T119	Campaign 2858 2871	latest tricks
+T120	Hacker-Group 2880 2890	fraudsters
+T121	Time 2892 2901	Meanwhile
+T24	Campaign 2951 2967	fake competition
+T122	Information 2996 3008	bank details
+*	Coreference T94 T35 T44
+*	Coreference T30 T12 T47
+*	Coreference T33 T1 T7 T10 T11 T50 T64 T120 T67 T23 T100 T91 T25 T77 T87
+T10	Hacker-Group 436 440	they
+*	Coreference T19 T9 T4 T58 T89 T38
+*	Coreference T48 T31
+*	Coreference T60 T62
+T42	Person 1922 1952	Detective Chief Superintendent
+T93	Person 1953 1967	Pete O’Doherty
+*	Coreference T93 T42 T99
+*	Coreference T105 T104

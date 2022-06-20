@@ -1,0 +1,58 @@
+T10	Campaign 773 789	was not breached
+T16	Organization 643 653	McDonald's
+T11	Campaign 1108 1112	pull
+T12	Information 1113 1129	user information
+T13	System 1135 1142	the API
+T14	Organization 1086 1088	it
+T15	Organization 999 1007	Fallible
+T18	Campaign 1312 1325	obtain access
+T19	Information 1333 1359	users personal information
+T2	Campaign 499 503	seal
+T4	Organization 483 485	it
+T5	Organization 462 470	McDonald
+T3	Vulnerability 504 512	the hole
+T1	System 516 523	the API
+T20	Campaign 1420 1434	remain unfixed
+T17	Vulnerability 1398 1407	the issue
+T28	Campaign 1753 1770	hasn't been fixed
+T24	Campaign 1638 1647	blog post
+T22	Time 1629 1637	March 18
+T21	Vulnerability 1614 1623	the issue
+T23	Organization 1581 1589	Fallible
+T26	Campaign 1734 1742	contends
+T25	Vulnerability 1743 1752	the issue
+T27	Organization 1725 1733	Fallible
+T6	Campaign 195 200	found
+T8	Vulnerability 185 193	The flaw
+T7	Organization 204 229	payments company Fallible
+T9	Campaign 409 417	the leak
+T29	Campaign 1893 1906	data breaches
+T34	Organization 1013 1015	it
+T35	Person 586 587	I
+T38	Person 452 453	I
+*	Coreference T10 T29
+*	Coreference T16 T5 T4 T36 T32 T37 T14 T40 T31 T41 T33 T43
+*	Coreference T12 T19
+*	Coreference T13 T1 T39
+*	Coreference T17 T25 T21 T30
+*	Coreference T8 T9 T3
+T36	Organization 541 543	it
+*	Coreference T15 T34 T23 T27 T49 T50
+T32	Organization 791 799	McDonald
+T37	Organization 1026 1034	McDonald
+T39	System 1201 1204	API
+T40	Organization 1453 1461	McDonald
+T31	Organization 1533 1535	it
+T41	Organization 1689 1699	McDonald's
+T30	Vulnerability 1814 1816	it
+T33	Organization 1794 1804	McDonald's
+*	Coreference T38 T35
+T42	Location 1822 1827	India
+T43	Organization 28 36	McDonald
+T44	Location 42 47	India
+T45	Organization 386 394	Fallible
+*	Coreference T7 T45
+*	Coreference T42 T44 T46
+T46	Location 1037 1042	India
+T49	Organization 1362 1370	Fallible
+T50	Organization 1439 1447	Fallible

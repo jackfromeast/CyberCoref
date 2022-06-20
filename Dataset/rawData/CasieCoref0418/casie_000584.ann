@@ -1,0 +1,99 @@
+T13	Information 1395 1419	the business information
+T14	Software 1447 1451	HANA
+T12	Hacker-Group 1356 1367	an attacker
+T11	Campaign 1473 1481	stealing
+T10	Information 1509 1530	sensitive information
+T2	Time 280 289	this week
+T1	Organization 276 279	SAP
+T4	Vulnerability 305 334	highly critical vulnerability
+T5	Software 339 347	SAP HANA
+T18	Vulnerability 1599 1610	the problem
+T17	Organization 1587 1590	SAP
+T6	Vulnerability 1009 1032	The major vulnerability
+T8	Organization 1051 1076	ERP security firm Onapsis
+T23	Vulnerability 1817 1838	these vulnerabilities
+T21	Campaign 1796 1807	the threats
+T24	Time 1785 1794	Last year
+T25	Time 21 30	this week
+T26	Person 127 148	cybersecurity experts
+T27	Software 176 219	enterprise resource planning (ERP) software
+T28	System 80 123	enterprise's most critical business systems
+T3	Vulnerability 255 274	vulnerability front
+T29	Course-of-Action 290 347	patched a new, highly critical vulnerability for SAP HANA
+T30	File 417 430	survey report
+T31	Person 442 464	security professionals
+T32	Hacker-Group 504 513	attackers
+T33	Vulnerability 538 553	vulnerabilities
+T34	Campaign 607 618	ERP attacks
+T35	Time 626 637	near future
+T36	Software 639 647	SAP HANA
+T37	Software 654 677	in-memory data platform
+T38	Organization 686 697	enterprises
+T39	Information 708 712	data
+T40	Software 731 748	business software
+T41	Organization 757 770	Organizations
+T42	Software 775 777	it
+T7	Software 1080 1118	SAP HANA's User Self-Service component
+T9	Vulnerability 1132 1164	CVSS vulnerability rating of 9.8
+T15	Number 1161 1164	9.8
+T43	File 1207 1233	month's SAP Security Notes
+T44	Campaign 1383 1389	action
+T45	Person 1538 1555	Sebastian Bortnik
+T46	Person 1557 1585	head of research for Onapsis
+T16	Course-of-Action 1591 1610	patched the problem
+T47	Number 1671 1673	35
+T20	Vulnerability 1674 1689	vulnerabilities
+T19	Information 1309 1320	credentials
+T48	Vulnerability 1249 1251	it
+T49	Attack-Pattern 1269 1286	remote compromise
+T50	Campaign 1463 1471	creating
+T51	Campaign 1483 1491	altering
+T52	Campaign 1500 1508	deleting
+T53	File 1619 1654	month's round of SAP Security Notes
+T54	Vulnerability 1740 1755	vulnerabilities
+T55	Number 1734 1739	eight
+T56	Vulnerability 1718 1722	them
+T22	Number 1962 1964	36
+T57	Organization 1965 1978	organizations
+T58	Campaign 2001 2008	attacks
+T59	Software 2043 2064	SAP's Invoker Servlet
+T60	Vulnerability 2026 2039	vulnerability
+T61	Software 2090 2108	SAP Java platforms
+T62	Time 2110 2119	This week
+T63	File 2127 2133	report
+T64	Organization 2139 2162	Crowd Research Partners
+T65	Number 2174 2180	89% of
+T66	Person 2181 2197	security experts
+T67	Campaign 2214 2221	attacks
+T68	System 2230 2241	ERP systems
+T69	Campaign 2311 2318	attacks
+T70	Number 2257 2263	1 in 3
+T71	Person 2264 2271	experts
+T72	Campaign 2394 2401	attacks
+T73	Organization 1912 1919	US-CERT
+T74	File 1931 1937	report
+T75	Organization 2342 2353	enterprises
+T76	Campaign 2436 2440	them
+T77	File 2444 2450	report
+T78	Time 2451 2460	last year
+T79	Organization 2466 2483	Ponemon Institute
+T80	Software 2600 2612	SAP platform
+T81	Number 2496 2513	more than half of
+T82	Organization 2514 2525	enterprises
+T83	Organization 2552 2556	firm
+T84	Course-of-Action 2577 2612	detect a breach in the SAP platform
+T85	Campaign 2586 2592	breach
+T86	Time 2557 2573	a year or longer
+T89	Software 894 896	it
+*	Coreference T1 T17
+*	Coreference T24 T78
+*	Coreference T25 T62 T2
+*	Coreference T43 T53
+*	Coreference T42 T80 T36 T5 T37 T89 T14
+*	Coreference T4 T3
+*	Coreference T45 T46
+*	Coreference T6 T9 T48
+*	Coreference T56 T20 T23
+*	Coreference T66 T71
+*	Coreference T58 T69
+*	Coreference T76 T72

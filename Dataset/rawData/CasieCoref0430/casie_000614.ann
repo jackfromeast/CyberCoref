@@ -1,0 +1,85 @@
+T6	Hacker-Group 114 121	HACKERS
+T5	Malware 137 151	the ransomware
+T4	Organization 168 182	overseas banks
+T2	Organization 209 226	Cadbury factories
+T8	Location 230 239	Australia
+T9	Time 240 249	last week
+T15	Money 817 821	$400
+T20	Location 866 877	the Ukraine
+T19	Malware 838 849	the malware
+T21	Time 878 890	last Tuesday
+T29	Malware 1665 1679	the ransomware
+T30	Purpose 1885 1898	ask for money
+T32	Malware 1825 1842	the Petya malware
+T23	Person 1038 1045	victims
+T24	Money 1022 1029	$13,000
+T36	Person 978 991	 its creators
+T13	File 326 345	The new ransom note
+T11	Money 416 428	100 Bitcoins
+T12	Money 439 447	$340,000
+T14	Malware 524 551	the Petya/Goldeneye malware
+T27	Person 1149 1156	victims
+T33	Person 2038 2045	victims
+T16	Campaign 47 68	NotPetya cyber attack
+T7	Person 2016 2029	Mr FitzGerald
+T25	File 2128 2140	 their files
+T34	Malware 1915 1925	ransomware
+T37	Person 1776 1803	ESET senior research fellow
+T38	Person 1804 1819	Nick FitzGerald
+T31	Purpose 1859 1873	kill computers
+T39	Attack-Pattern 1930 1942	 a mechanism
+T40	Purpose 1946 2004	help hide the trail of a gang of cyber terrorists or spies
+T41	Hacker-Group 1968 1995	 a gang of cyber terrorists
+T42	Hacker-Group 1999 2004	spies
+T43	Person 2007 2009	he
+T28	Hacker-Group 552 564	 The hackers
+T44	Domain 376 389	 the Dark Web
+T45	Money 1624 1629	money
+T46	Purpose 1700 1713	make a profit
+T47	Campaign 1754 1774	industrial espionage
+T48	Campaign 1722 1750	 a form of digital terrorism
+T49	Organization 1405 1426	Australian businesses
+T50	Organization 1497 1514	Cadbury factories
+T51	Location 1518 1526	Tasmania
+T52	Location 1531 1539	Victoria
+T53	Organization 1541 1569	TNT Express courier services
+T54	Organization 1599 1608	DLA Piper
+T55	Organization 1575 1598	the offices of law firm
+T56	Malware 1238 1248	ransomware
+T57	Number 1269 1275	16,000
+T58	Device 1276 1285	computers
+T59	Number 1289 1291	64
+T60	Location 1292 1301	countries
+T61	Organization 1316 1339	security firm Clavister
+T62	Organization 1380 1398	European companies
+T63	Campaign 1345 1368	crippled the operations
+T64	File 1210 1222	 their files
+T26	Information 1185 1200	 a security key
+T65	Money 953 973	Bitcoin transactions
+T22	Email 1067 1087	 their email address
+T66	Person 1104 1124	 its German provider
+T67	Money 825 832	Bitcoin
+T68	System 924 941	computer networks
+T17	Purpose 764 797	 the ransomware’s initial request
+T18	Attack-Pattern 570 620	opened a chat room and offered to decrypt one file
+T69	Person 635 641	buyers
+T70	Information 462 485	 a private security key
+T71	File 509 551	file locked by the Petya/Goldeneye malware
+T10	Money 402 412	 a payment
+T1	Campaign 261 281	 a new ransom demand
+T72	Money 302 312	more money
+T73	Time 318 324	before
+T74	Hacker-Group 0 7	HACKERS
+T75	Time 23 32	last week
+T76	Person 2100 2104	they
+T3	Organization 184 198	power stations
+T77	Money 1609 1620	 The demand
+T79	Money 1165 1176	 the ransom
+*	Coreference T2 T50
+*	Coreference T7 T38 T37 T43
+*	Coreference T34 T32 T29 T56
+*	Coreference T10 T11 T12
+*	Coreference T76 T33
+*	Coreference T55 T54
+*	Coreference T6 T74 T28
+*	Coreference T15 T67

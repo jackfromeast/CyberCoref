@@ -1,0 +1,133 @@
+T20	Campaign 1489 1495	ransom
+T22	Attack-Pattern 1477 1484	hold it
+T26	Person 1422 1423	I
+T25	Person 1560 1563	you
+T27	Person 1571 1573	me
+T18	Malware 1174 1188	the ransomware
+T16	Malware 1204 1212	WannaCry
+T17	Organization 1133 1156	National Health Service
+T12	Person 1228 1235	victims
+T5	Hacker-Group 889 897	a hacker
+T4	Malware 741 751	Ransomware
+T2	Attack-Pattern 779 829	locks or encrypts a computer user's data and files
+T3	Attack-Pattern 841 859	holding it hostage
+T1	Campaign 588 606	ransomware attacks
+T41	Time 2184 2188	2016
+T43	Organization 2220 2257	Hollywood Presbyterian Medical Center
+T44	Organization 2259 2269	a hospital
+T45	Location 2273 2284	Los Angeles
+T40	Hacker-Group 2307 2314	hackers
+T39	Money 2293 2303	40 bitcoin
+T29	Money 1928 1932	$300
+T31	Person 1955 1962	victims
+T32	Hacker-Group 1906 1917	the hackers
+T33	Malware 1896 1904	WannaCry
+T46	Campaign 2529 2547	ransomware attacks
+T37	Time 1983 1996	over 72 hours
+T34	Person 1971 1975	they
+T36	Money 2027 2031	$600
+T7	Campaign 928 946	Ransomware attacks
+T8	Time 974 978	2016
+T9	Time 984 988	2015
+T13	Hacker-Group 1304 1311	Hackers
+T11	Person 9 24	Robert Herjavec
+T15	Person 29 60	investor on ABC's "Shark Tank,"
+T30	Money 69 89	the price of bitcoin
+T47	Person 106 108	he
+T48	Person 163 207	the CEO of cybersecurity firm Herjavec Group
+T49	Person 209 211	he
+T50	Hacker-Group 257 264	hackers
+T51	Money 271 285	cryptocurrency
+T52	Person 288 289	I
+T53	Person 321 329	my enemy
+T54	Money 338 343	funds
+T55	Person 346 348	he
+T56	File 362 382	CNBC's "Squawk Alley
+T57	Money 410 424	cryptocurrency
+T58	Person 491 499	Herjavec
+T59	Campaign 444 449	hacks
+T60	Organization 505 510	Money
+T61	Person 528 536	Herjavec
+T62	Money 564 578	cryptocurrency
+T63	Money 609 623	Cryptocurrency
+T64	Person 644 646	he
+T66	Malware 714 724	ransomware
+T67	Money 694 709	form of payment
+T68	Software 765 773	software
+T69	Information 876 887	information
+T6	Number 957 970	6,000 percent
+T70	Organization 1016 1028	IBM Security
+T71	File 1005 1010	study
+T72	Time 1037 1041	2017
+T73	Number 1043 1050	200,000
+T74	Device 1051 1060	computers
+T75	Number 1064 1067	150
+T76	Location 1068 1077	countries
+T77	Organization 1091 1101	businesses
+T78	Organization 1103 1114	governments
+T79	Location 1128 1131	U.K
+T10	Money 1256 1263	payment
+T19	Device 1288 1297	computers
+T14	Money 1347 1361	cryptocurrency
+T80	Person 1406 1414	Herjavec
+T81	Money 1538 1552	virtual wallet
+T21	Device 1443 1451	computer
+T23	Information 1455 1475	personal information
+T24	Information 1506 1518	instructions
+T82	Person 1614 1615	I
+T83	Person 1579 1582	you
+T84	Person 1621 1629	Herjavec
+T85	Money 1657 1671	bitcoin wallet
+T86	Number 1696 1702	number
+T87	Money 1709 1717	payments
+T88	Organization 1739 1766	bank or credit card company
+T89	Person 1781 1791	middle man
+T90	Person 1794 1802	Herjavec
+T91	Money 1822 1827	money
+T92	Person 1878 1888	individual
+T28	Money 1942 1949	bitcoin
+T35	Time 2048 2054	a week
+T93	Hacker-Group 2036 2040	they
+T94	Information 2062 2073	information
+T95	System 2104 2124	Trump administration
+T96	Location 2136 2147	North Korea
+T97	Location 2155 2179	originator of the attack
+T98	Campaign 2173 2179	attack
+T42	Malware 2190 2200	ransomware
+T99	Purpose 2213 2257	coerce Hollywood Presbyterian Medical Center
+T38	Organization 2320 2334	New York Times
+T100	Number 2349 2352	sum
+T101	Money 2368 2375	$17,000
+T102	Money 2377 2384	Bitcoin
+T103	Money 2395 2405	$10,779.90
+T104	Time 2409 2425	Tuesday, March 6
+T105	Organization 2440 2453	CoinMarketCap
+T106	Money 2473 2481	40 coins
+T107	Money 2494 2502	$431,196
+T108	Information 2575 2593	online information
+T109	Course-of-Action 2549 2593	take steps to secure your online information
+T110	Device 2606 2614	computer
+T111	Information 2619 2623	data
+T112	Software 2656 2670	cloud services
+T113	Course-of-Action 2688 2702	authentication
+T114	Course-of-Action 2707 2724	complex passwords
+T115	Person 2727 2735	Herjavec
+T116	Course-of-Action 2752 2803	anti-virus [software] installed and kept up to date
+T117	Software 2752 2773	anti-virus [software]
+T121	Pronoun 1971 1975	they
+T123	Person 455 457	we
+T124	Device 1482 1484	it
+T133	Malware 849 851	it
+T135	Hacker-Group 1380 1384	them
+T136	Money 1370 1372	it
+*	Coreference T16 T33 T18
+T65	Organization 659 671	CNBC Make It
+T119	Money 674 676	It
+*	Coreference T63 T119
+*	Coreference T66 T4 T133
+*	Coreference T136 T14
+*	Coreference T13 T135
+*	Coreference T84 T26 T27 T82 T48 T49 T11 T15 T47 T55 T58 T61 T64 T80 T52 T90 T115
+*	Coreference T93 T32
+*	Coreference T44 T43
+*	Coreference T106 T107

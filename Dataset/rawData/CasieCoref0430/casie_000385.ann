@@ -1,0 +1,117 @@
+T2	Organization 0 5	Cisco
+T3	Vulnerability 28 52	critical vulnerabilities
+T4	Software 56 68	Policy Suite
+T5	Attack-Pattern 75 134	permit attackers to cause havoc in the software's databases
+T64	Organization 146 161	 the tech giant
+T63	Vulnerability 206 221	vulnerabilities
+T62	Attack-Pattern 234 285	place enterprise users at risk of information leaks
+T7	Vulnerability 336 360	 The first vulnerability
+T8	Vulnerability 362 375	CVE-2018-0374
+T11	Attack-Pattern 483 575	allow an unauthenticated, remote attacker to connect directly to the Policy Builder database
+T10	Vulnerability 457 475	 the security flaw
+T9	Vulnerability 426 456	 an unauthenticated bypass bug
+T13	Software 795 813	Cisco Policy Suite
+T26	Version 823 838	prior to 18.2.0
+T14	Vulnerability 852 877	 The second vulnerability
+T15	Vulnerability 879 892	CVE-2018-0375
+T16	Vulnerability 896 921	 a default password error
+T17	Vulnerability 922 939	 The CVSS 9.8 bug
+T19	Software 953 973	 the Cluster Manager
+T20	Software 977 995	Cisco Policy Suite
+T21	Attack-Pattern 1006 1080	allow an unauthenticated, remote attacker to log in to a vulnerable system
+T23	Vulnerability 1102 1131	 The serious security problem
+T25	Software 1350 1363	 the software
+T56	Version 1364 1379	prior to 18.2.0
+T30	Software 1666 1684	Cisco Policy Suite
+T57	Version 1685 1709	versions prior to 18.2.0
+T33	Organization 1654 1659	Cisco
+T32	Attack-Pattern 1564 1651	allow the attacker to make changes to existing repositories and create new repositories
+T27	Vulnerability 1406 1420	 The third bug
+T28	Vulnerability 1422 1435	CVE-2018-0376
+T29	Vulnerability 1448 1478	unauthenticated access problem
+T36	Vulnerability 1723 1748	 The fourth security flaw
+T37	Vulnerability 1750 1763	CVE-2018-0377
+T38	Software 1773 1825	the Open Systems Gateway initiative (OSGi) interface
+T39	Software 1829 1847	Cisco Policy Suite
+T40	Attack-Pattern 1915 2003	permits attackers to circumvent security processes and directly connect to the interface
+T42	Vulnerability 2113 2132	 This vulnerability
+T43	Software 2141 2153	Policy Suite
+T58	Version 2154 2178	versions prior to 18.1.0
+T60	Vulnerability 2356 2365	 the bugs
+T61	Organization 2296 2301	Cisco
+T49	Organization 2412 2417	Cisco
+T48	Vulnerability 2431 2453	seven now-patched bugs
+T55	Vulnerability 2481 2501	 The vulnerabilities
+T53	Vulnerability 2511 2543	command injection security flaws
+T54	Vulnerability 2544 2572	 a remote code execution bug
+T52	Vulnerability 2578 2609	arbitrary file overwrite issues
+T51	Software 2464 2480	SD-WAN solutions
+T46	Vulnerability 2287 2291	them
+T44	Course-of-Action 2251 2258	patches
+T65	Time 136 145	This week
+T1	Number 19 27	a set of
+T67	Hacker-Group 82 91	attackers
+T68	Software 109 134	 the software's databases
+T69	Campaign 101 106	havoc
+T66	Campaign 170 190	 a security advisory
+T70	Number 201 205	four
+T71	Person 240 256	enterprise users
+T72	Campaign 268 285	information leaks
+T73	Campaign 287 305	account compromise
+T74	Campaign 307 325	database tampering
+T75	System 387 394	 a CVSS
+T6	Number 409 412	9.8
+T12	Vulnerability 597 605	 The bug
+T76	Hacker-Group 509 524	remote attacker
+T77	Software 547 575	 the Policy Builder database
+T78	Organization 591 596	Cisco
+T79	Campaign 642 656	authentication
+T80	Campaign 692 713	identity verification
+T81	Software 715 739	Policy Builder databases
+T82	Attack-Pattern 664 793	there is no requirement for identity verification, Policy Builder databases can be accessed and tampering with without limitation
+T83	Campaign 783 793	limitation
+T18	Hacker-Group 1032 1047	remote attacker
+T22	System 1060 1080	 a vulnerable system
+T85	Information 1086 1101	 a root account
+T86	Hacker-Group 1221 1230	 a hacker
+T87	Information 1176 1199	static user credentials
+T88	Information 1204 1217	root accounts
+T89	Information 1247 1265	 these credentials
+T90	Hacker-Group 1267 1271	they
+T91	Person 1282 1294	 a root user
+T92	Code 1319 1337	arbitrary commands
+T93	Attack-Pattern 1276 1337	become a root user and are able to execute arbitrary commands
+T94	Version 1339 1347	Versions
+T24	Campaign 1511 1525	authentication
+T95	Campaign 1539 1557	successful exploit
+T96	Hacker-Group 1569 1582	 the attacker
+T97	Software 1611 1623	repositories
+T98	Software 1635 1651	new repositories
+T31	Campaign 1868 1882	authentication
+T34	Software 1889 1908	 the OSGi interface
+T35	Hacker-Group 1923 1932	attackers
+T99	Software 1947 1965	security processes
+T100	Software 1989 2003	 the interface
+T101	File 2016 2021	files
+T102	Hacker-Group 2039 2043	they
+T103	Purpose 2005 2112	access any files contained within they wish, and modify any content which is accessible through the process
+T104	Software 2100 2112	 the process
+T41	Vulnerability 2218 2240	 these vulnerabilities
+T45	Number 2431 2436	seven
+T47	File 2588 2592	file
+*	Coreference T11 T21
+*	Coreference T56 T58 T57 T26
+*	Coreference T61 T49 T78 T33 T2 T64
+*	Coreference T87 T89
+*	Coreference T97 T98
+*	Coreference T34 T100
+*	Coreference T46 T41 T60
+*	Coreference T9 T10 T7 T8 T12
+*	Coreference T14 T15 T16 T17 T23
+*	Coreference T13 T20 T30 T43
+*	Coreference T90 T86
+*	Coreference T27 T28 T29
+*	Coreference T36 T37 T42
+*	Coreference T77 T81
+*	Coreference T102 T35
+*	Coreference T55 T48

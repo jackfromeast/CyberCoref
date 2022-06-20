@@ -1,0 +1,57 @@
+T13	Malware 625 631	RawPOS
+T7	Malware 580 589	backdoors
+T8	Malware 565 575	keyloggers
+T6	Information 603 623	valuable information
+T10	Campaign 483 494	PoS threats
+T9	Information 504 531	credit card mag stripe data
+T2	Information 88 92	data
+T4	Malware 0 6	RawPOS
+T19	Information 786 813	data from driver’s licenses
+T20	Location 824 830	the US
+T31	Information 850 867	payment card data
+T22	Hacker-Group 869 878	criminals
+T24	Information 888 899	information
+T25	Information 921 930	full name
+T26	Information 932 945	date of birth
+T27	Information 947 959	full address
+T28	Information 961 967	gender
+T29	Information 969 975	height
+T30	Information 977 995	hair and eye color
+T33	Time 36 44	recently
+T1	Information 187 194	barcode
+T11	Campaign 215 233	credit card swipes
+T34	Campaign 235 237	it
+T35	Campaign 175 194	use of this barcode
+T36	Person 262 268	people
+T37	Information 300 324	driver’s license barcode
+T38	Location 348 358	pharmacies
+T39	Location 360 372	retail shops
+T40	Location 374 378	bars
+T41	Location 380 387	casinos
+T42	Organization 399 413	establishments
+T43	Information 427 429	it
+T44	Person 432 455	Trend Micro researchers
+T45	Malware 546 556	components
+T5	Attack-Pattern 676 702	modifying the regex string
+T14	Purpose 706 729	capture the needed data
+T16	Malware 733 756	This particular variant
+T17	Information 998 1018	This additional info
+T18	Hacker-Group 1041 1050	criminals
+T21	Person 1067 1078	card holder
+T23	Campaign 1140 1180	fraudulent card-not-present transactions
+T46	Campaign 1087 1101	identity theft
+T47	Number 1082 1086	many
+T48	Malware 1182 1188	RawPOS
+T49	Malware 1216 1249	Point-of-Sale RAM scraper malware
+T50	Malware 1260 1262	It
+T51	Malware 1271 1282	incarnation
+T52	Time 1315 1319	2009
+T53	Person 1338 1349	researchers
+T54	Malware 1351 1353	it
+T55	Hacker-Group 1372 1385	threat actors
+T56	Organization 1410 1458	businesses operating in the hospitality industry
+*	Coreference T4 T48 T13 T50 T54
+*	Coreference T37 T12 T43
+T12	Information 110 159	victims’ driver’s license’s 2-dimensional barcode
+*	Coreference T35 T34
+*	Coreference T17 T24

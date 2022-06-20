@@ -1,0 +1,104 @@
+T37	Malware 2143 2175	the Plone CMS 0day attack vector
+T38	Person 2126 2127	I
+T48	Person 1804 1805	I
+T46	Vulnerability 1818 1829	my findings
+T61	Campaign 1214 1221	noticed
+T62	Vulnerability 1227 1249	the Plone 0day exploit
+T60	Person 1211 1213	he
+T26	Attack-Pattern 1260 1291	working against the CMS backend
+T28	Person 1917 1918	I
+T55	Vulnerability 2002 2011	the 0-day
+T56	Hacker-Group 1976 1986	The hacker
+T53	Attack-Pattern 2015 2031	offered for sale
+T15	Vulnerability 319 343	a zero-day vulnerability
+T47	System 346 382	 the Plone Content Management System
+T14	Time 262 279	December 22, 2016
+T16	Hacker-Group 280 291	 the hacker
+T19	Vulnerability 434 454	a 0day vulnerability
+T24	Person 418 419	I
+T17	Time 398 416	22nd December 2016
+T20	Software 458 467	Plone CMS
+T22	Software 556 581	python modules of the CMS
+T23	Vulnerability 522 539	The vulnerability
+T42	Course-of-Action 1196 1199	fix
+T43	Organization 1171 1179	 the FBI
+T44	Person 1161 1168	experts
+T21	Vulnerability 1200 1209	the issue
+T33	Time 1386 1390	2007
+T31	Organization 1325 1329	they
+T45	Version 1351 1366	ver 6.2-RELEASE
+T9	Hacker-Group 44 46	he
+T3	Hacker-Group 4 10	hacker
+T4	File 64 76	backup files
+T5	File 78 92	acc_102016.bck
+T6	File 94 108	acc_112016.bck
+T7	File 110 123	old_acc16.bck
+T30	Information 131 145	Leaked records
+T10	Information 154 167	accounts data
+T34	Information 179 184	names
+T11	Information 186 210	SHA1 Encrypted Passwords
+T12	Information 212 222	SHA1 salts
+T13	Email 228 234	emails
+T2	Information 17 38	 the FBI.GOV accounts
+T51	Information 1755 1774	 the whole contents
+T52	Information 1777 1794	 the backup files
+T50	Person 1738 1739	I
+T1	Software 490 510	 the most secure CMS
+T8	Hacker-Group 582 593	 The hacker
+T18	Location 624 631	Germany
+T25	Location 636 642	Russia
+T35	Campaign 667 676	 the hack
+T39	Location 682 684	US
+T40	Person 727 737	CyberZeist
+T41	Organization 738 746	 the FBI
+T64	Person 757 760	him
+T65	Attack-Pattern 764 781	pass on the leaks
+T66	Person 784 785	I
+T67	Attack-Pattern 822 839	pass on the leaks
+T68	Organization 843 847	them
+T69	Person 853 854	I
+T70	Attack-Pattern 870 885	hacking FBI.GOV
+T71	Domain 878 885	FBI.GOV
+T72	Organization 943 946	FBI
+T73	Organization 965 969	They
+T74	Person 996 997	I
+T75	Person 925 926	I
+T76	Organization 1022 1026	they
+T77	Person 1050 1051	I
+T78	Attack-Pattern 1082 1097	hacking FBI.GOV
+T79	Domain 1090 1097	FBI.GOV
+T32	Time 1456 1485	15th December 2016 at 6:32 PM
+T80	Attack-Pattern 1510 1528	exploiting FBI.GOV
+T81	Domain 1521 1528	FBI.GOV
+T82	File 1617 1634	 the backup files
+T27	Malware 1943 1966	 the 0day attack vector
+T36	Vulnerability 2090 2100	 this 0day
+T49	Person 2215 2225	CyberZeist
+T54	Hacker-Group 2265 2276	 The hacker
+T57	Information 652 676	 the news about the hack
+T58	Person 1109 1120	 The expert
+T83	System 1343 1366	FreeBSD ver 6.2-RELEASE
+T63	Organization 2323 2331	Barclays
+T84	Organization 2333 2343	Tesco Bank
+T86	Organization 2299 2311	 his victims
+T85	Organization 2348 2355	the MI5
+T95	Person 1100 1102	he
+T98	Person 890 891	I
+T103	Organization 906 910	them
+T106	Campaign 710 712	it
+T59	Campaign 235 249	 The intrusion
+T88	Campaign 1142 1153	 the attack
+*	Coreference T37 T27
+*	Coreference T55 T36
+*	Coreference T14 T17
+*	Coreference T40 T49 T95 T64
+*	Coreference T65 T67
+*	Coreference T79 T71 T81
+*	Coreference T43 T41 T72 T68 T103 T73 T76
+*	Coreference T50 T38 T44 T60 T58 T28 T48
+*	Coreference T3 T9
+*	Coreference T20 T47 T1
+*	Coreference T35 T59 T106 T88
+*	Coreference T66 T69 T98 T75 T74 T77
+*	Coreference T62 T21 T23 T19
+*	Coreference T54 T56

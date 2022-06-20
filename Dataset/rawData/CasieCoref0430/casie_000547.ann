@@ -1,0 +1,101 @@
+T56	Person 2259 2265	Wardle
+T60	Vulnerability 2287 2294	the bug
+T61	Organization 2298 2303	Apple
+T58	Person 2271 2273	he
+T55	Person 1994 2008	Patrick Wardle
+T52	Person 2041 2043	he
+T51	Vulnerability 2025 2040	a vulnerability
+T54	Attack-Pattern 2066 2116	allow an attacker to bypass the privacy safeguards
+T9	System 1983 1988	macOS
+T10	System 2120 2126	Mojave
+T1	System 184 190	Mojave
+T3	System 168 173	macOS
+T6	Course-of-Action 263 280	interface updates
+T5	Course-of-Action 286 302	security patches
+T11	Vulnerability 1092 1124	eight CVE-listed vulnerabilities
+T17	System 1062 1068	Mojave
+T15	Vulnerability 1033 1060	a half-dozen security holes
+T12	Course-of-Action 971 988	the Mojave update
+T18	Vulnerability 1140 1171	two remote code execution flaws
+T20	Vulnerability 1187 1200	CVE-2018-4336
+T21	Vulnerability 1202 1215	CVE-2018-4344
+T22	Vulnerability 1221 1240	weak RC4 encryption
+T23	Vulnerability 1242 1255	CVE-2016-1777
+T45	Course-of-Action 1708 1721	these patches
+T46	System 1745 1750	macOS
+T8	Version 1751 1756	10.14
+T50	Time 1824 1833	last week
+T48	System 1789 1809	the operating system
+T47	Version 1768 1785	previous versions
+T62	Course-of-Action 2374 2379	a fix
+T24	Vulnerability 1263 1273	'4344 flaw
+T26	Organization 1292 1300	eggheads
+T43	Attack-Pattern 1647 1694	allow an attacker to access the user's Apple ID
+T42	Vulnerability 1621 1634	CVE-2018-4324
+T40	Software 1610 1619	App Store
+T41	Vulnerability 1591 1604	CVE-2018-4321
+T39	Software 1578 1589	Auto Unlock
+T38	Vulnerability 1564 1569	flaws
+T37	Vulnerability 1544 1557	CVE-2018-4333
+T36	Software 1528 1542	Crash Reporter
+T35	Vulnerability 1493 1524	a restricted memory access flaw
+T34	Vulnerability 1477 1490	CVE-2018-4353
+T32	Software 1453 1475	the operation firewall
+T33	Vulnerability 1433 1449	a sandbox escape
+T30	Vulnerability 1417 1430	CVE-2018-5383
+T31	Device 1406 1415	Bluetooth
+T29	Vulnerability 1378 1402	a traffic intercept flaw
+T28	Vulnerability 1358 1369	Other flaws
+T66	Organization 0 5	Apple
+T67	System 44 69	 the Mac operating system
+T2	Organization 351 356	Apple
+T4	Course-of-Action 404 415	 the update
+T64	Software 590 609	 the Stacks utility
+T68	Organization 675 680	Apple
+T69	System 758 763	macOS
+T70	Software 736 753	Home applications
+T71	Software 719 730	Voice Memos
+T72	Software 705 709	News
+T73	Software 711 717	Stocks
+T74	System 788 791	iOS
+T75	Software 772 782	 the tools
+T76	Software 798 828	 the Mac Continuity Camera app
+T77	Person 838 843	users
+T78	File 859 867	pictures
+T79	Device 872 889	 their iOS device
+T80	Organization 891 896	Apple
+T81	System 912 922	 the macOS
+T14	Course-of-Action 993 1060	a patch bundle that addresses more than a half-dozen security holes
+T13	Course-of-Action 1082 1124	fixes for eight CVE-listed vulnerabilities
+T16	System 1174 1185	 the kernel
+T19	Organization 1303 1356	 the UK government's eavesdropping nerve center, GCHQ
+T25	Hacker-Group 1652 1664	 an attacker
+T27	Information 1674 1694	 the user's Apple ID
+T44	Course-of-Action 1815 1823	fixed up
+T49	Person 1869 1883	one researcher
+T65	System 1935 1951	operating system
+T84	System 1967 1973	Mojave
+T53	Hacker-Group 2071 2083	 an attacker
+T85	Course-of-Action 2093 2116	 the privacy safeguards
+T86	Course-of-Action 2147 2224	prevent an unauthorized app from accessing things like users' contact details
+T87	Software 2154 2174	 an unauthorized app
+T88	Code 2243 2255	 the exploit
+T57	File 2340 2367	 the proof-of-concept video
+T59	Information 2402 2419	technical details
+T63	Information 2318 2367	release details beyond the proof-of-concept video
+T89	Time 2446 2454	November
+T90	System 237 239	It
+T92	Pronoun 1836 1838	It
+T91	System 142 152	 The 10.14
+T7	Version 923 955	version of the App Store service
+*	Coreference T10 T1 T17 T84 T91 T8 T90
+*	Coreference T65 T67 T48
+*	Coreference T61 T80 T68 T2 T66
+*	Coreference T9 T3 T81 T46 T69
+*	Coreference T22 T23
+*	Coreference T29 T30
+*	Coreference T33 T34
+*	Coreference T37 T35
+*	Coreference T55 T52
+*	Coreference T56 T58
+*	Coreference T60 T51

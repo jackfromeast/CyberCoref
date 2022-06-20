@@ -1,0 +1,105 @@
+T8	Campaign 1118 1138	 a ransomware attack
+T19	Location 1100 1107	Ontario
+T18	Organization 1075 1096	Canadian town Midland
+T20	Location 1067 1073	Alaska
+T17	Time 1141 1169	 the first week of September
+T21	Organization 1044 1063	 the town of Valdez
+T23	Purpose 1272 1288	demanding ransom
+T25	Hacker-Group 1171 1178	Hackers
+T24	Attack-Pattern 1256 1270	blocked access
+T1	Campaign 129 149	 a ransomware attack
+T5	System 56 88	 their flight information system
+T6	Organization 0 27	Bristol Airport authorities
+T2	Money 177 194	the ransom demand
+T3	Organization 150 166	 The authorities
+T4	System 217 238	 the affected systems
+T27	Campaign 1724 1737	data breaches
+T28	Organization 1748 1768	financial businesses
+T14	Attack-Pattern 883 943	 its looks for all .exe (executable) files and encrypts them
+T15	Purpose 945 979	preventing users from running apps
+T16	Malware 839 854	 the ransomware
+T7	Campaign 559 577	ransomware attacks
+T9	System 503 515	 The servers
+T11	Time 615 639	the first week of August
+T10	Organization 518 535	 the US-based PGA
+T22	Campaign 1025 1041	 the cyberattack
+T12	Campaign 740 758	phishing campaigns
+T29	Time 110 118	two days
+T30	Time 244 252	two days
+T31	Information 254 279	flight status information
+T32	Time 384 404	 the last few months
+T33	Campaign 429 441	cyberattacks
+T34	Organization 452 461	hospitals
+T35	Organization 463 482	city administration
+T36	Organization 487 502	sporting events
+T37	Campaign 590 611	 the PGA Championship
+T38	Malware 647 657	ransomware
+T39	Malware 665 697	Everlasting Blue Blackmail Virus
+T40	System 713 724	Windows PCs
+T41	Campaign 731 735	spam
+T42	Attack-Pattern 760 833	flashes former US President Barrack Obama’s image with the ransom message
+T43	Email 814 833	 the ransom message
+T44	System 871 882	 the system
+T45	File 902 925	.exe (executable) files
+T13	Software 1189 1207	 the city database
+T26	Information 1218 1251	fire, water, and waste management
+T46	Person 1310 1331	cybersecurity experts
+T47	Campaign 1334 1355	 the fileless attacks
+T48	Attack-Pattern 1367 1381	hard to detect
+T49	Campaign 1382 1396	 These attacks
+T50	Attack-Pattern 1400 1466	not install a malicious software to infiltrate a victim’s computer
+T51	Malware 1411 1432	 a malicious software
+T52	Device 1446 1466	 a victim’s computer
+T53	Course-of-Action 1497 1517	anti-virus solutions
+T54	Organization 1547 1564	Ponemon Institute
+T55	Number 1566 1569	35%
+T56	Campaign 1577 1589	cyberattacks
+T57	Time 1593 1597	2018
+T58	Attack-Pattern 1603 1611	fileless
+T59	Organization 1619 1658	security solution provider Carbon Black
+T60	Campaign 1671 1687	fileless attacks
+T61	Number 1702 1705	50%
+T62	Campaign 1770 1786	Fileless attacks
+T63	Software 1794 1818	legitimate Windows tools
+T64	Software 1827 1837	PowerShell
+T65	Attack-Pattern 1870 1920	provide hackers unrestricted access to Windows API
+T66	Hacker-Group 1878 1885	hackers
+T67	Code 1909 1920	Windows API
+T68	Software 1926 1960	Windows Management Instrumentation
+T69	Software 1996 2008	 these tools
+T70	Hacker-Group 2010 2017	hackers
+T71	Purpose 2018 2042	gain control over the PC
+T72	Device 2035 2042	 the PC
+T73	Software 2057 2085	 the organization’s database
+T74	Person 2118 2141	researchers at F-Secure
+T75	Vulnerability 2165 2178	vulnerability
+T76	Device 2189 2192	PCs
+T77	Campaign 2214 2225	 the attack
+T78	Code 2250 2270	 a special programme
+T79	Device 2278 2290	 a USB drive
+T80	Attack-Pattern 2233 2308	carried off using a special programme through a USB drive connected to a PC
+T81	Device 2303 2308	 a PC
+T82	Code 2315 2329	 the programme
+T83	Hacker-Group 2330 2341	 the hacker
+T84	Attack-Pattern 2346 2427	disable the memory overwriting by rebooting the system, without a proper shutdown
+T85	Campaign 2428 2439	 The attack
+T86	System 2466 2480	company system
+T87	System 2507 2527	 the company network
+T88	Campaign 1528 1532	them
+T89	File 939 943	them
+T91	Money 985 996	 the ransom
+T90	Campaign 2204 2213	cold boot
+*	Coreference T17 T11
+*	Coreference T16 T38 T39
+*	Coreference T29 T30
+*	Coreference T40 T67 T44
+*	Coreference T13 T73
+*	Coreference T55 T61
+*	Coreference T25 T83 T70 T66
+*	Coreference T72 T76 T81
+*	Coreference T85 T62 T47 T77 T8 T49 T88 T60 T90
+*	Coreference T78 T82
+*	Coreference T3 T6
+*	Coreference T4 T5
+*	Coreference T89 T45
+*	Coreference T69 T63

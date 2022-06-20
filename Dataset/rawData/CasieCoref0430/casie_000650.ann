@@ -1,0 +1,91 @@
+T9	Location 634 640	Oregon
+T10	Location 645 665	Southwest Washington
+T3	Domain 514 529	a shortened URL
+T2	Email 564 587	 a spear-phishing email
+T4	Campaign 501 512	that attack
+T8	Campaign 2398 2416	ransomware attacks
+T13	Organization 2323 2345	 the healthcare sector
+T11	Attack-Pattern 2291 2311	using RaaS platforms
+T12	Hacker-Group 2269 2289	ransomware operators
+T14	Hacker-Group 0 22	Amateur cybercriminals
+T15	Malware 84 112	 an off-the-shelf ransomware
+T16	Organization 56 78	 the healthcare sector
+T17	Person 127 175	security researchers at Forcepoint Security Labs
+T18	Organization 214 244	cybersecurity software company
+T19	Organization 177 187	Forcepoint
+T20	Person 249 264	Roland Dela Paz
+T21	Person 265 309	 a senior security researcher at the company
+T22	File 322 334	 a blog post
+T23	Organization 340 364	Forcepoint Security Labs
+T24	Malware 379 421	 a ransomware-as-a-service (RaaS) platform
+T25	Software 430 442	Philadelphia
+T26	Campaign 451 466	 a cyber attack
+T27	Campaign 469 495	 a healthcare organization
+T1	Purpose 611 628	infect a hospital
+T5	Organization 617 628	 a hospital
+T6	Person 671 678	 a user
+T7	URL 688 697	 the link
+T28	Domain 698 707	 the site
+T29	Domain 720 744	 a personal storage site
+T30	Purpose 748 778	download a malicious DOCX file
+T31	File 769 778	DOCX file
+T32	Person 781 789	Dela Paz
+T33	Person 797 799	He
+T34	File 810 823	 the document
+T35	Organization 930 942	organization
+T36	Information 881 919	 a signature of a medical practitioner
+T37	Number 944 949	Three
+T39	Malware 1127 1168	 a variant of the Philadelphia ransomware
+T38	File 1062 1085	 a malicious Javascript
+T40	Purpose 1105 1168	downloads and executes a variant of the Philadelphia ransomware
+T41	Information 979 998	patient information
+T42	File 1019 1028	 the file
+T43	Person 1038 1047	 the user
+T44	Version 1185 1199	 a new version
+T45	Malware 1202 1226	 the Stampado ransomware
+T46	Malware 1228 1241	Philadelphia 
+T47	Malware 1243 1277	 an unsophisticated ransomware kit
+T48	Money 1286 1308	 a few hundred dollars
+T49	Person 1312 1318	anyone
+T50	Malware 1334 1336	it
+T51	Domain 1398 1405	Youtube
+T52	Person 1408 1410	he
+T53	File 1347 1385	 a video advertisement of Philadelphia
+T54	Person 1418 1426	Dela Paz
+T55	File 1443 1457	 the blog post
+T56	Malware 1475 1487	 the malware
+T57	Person 2438 2440	he
+T58	Person 2187 2202	 the researcher
+T59	Organization 2145 2168	healthcare organization
+T60	Person 2141 2144	one
+T61	Organization 2075 2099	 the ransomware business
+T62	Device 1681 1699	 the ransomware C2
+T63	Organization 1559 1582	healthcare organization
+T64	Code 1521 1539	 the tailored bait
+T65	Malware 1583 1608	 the encrypted JavaScript
+T66	Campaign 1635 1647	hospitalspam
+T67	Campaign 1716 1729	hospital/spam
+T68	Attack-Pattern 1917 1939	 a distribution method
+T69	Attack-Pattern 1880 1915	using spam (spear phishing emails) 
+T70	Email 1892 1913	spear phishing emails
+T71	Campaign 1830 1844	 the campaign 
+T72	Organization 1870 1879	hospitals
+T73	Hacker-Group 1813 1823	 the actor
+T74	Malware 1961 1994	ransomware-as-a-service platforms
+T75	Malware 2003 2015	Philadelphia
+T76	Hacker-Group 2045 2059	cybercriminals
+T82	Pronoun 1942 1944	He
+*	Coreference T2 T70
+*	Coreference T4 T26
+*	Coreference T14 T76
+*	Coreference T15 T39
+*	Coreference T17 T21
+*	Coreference T22 T55
+*	Coreference T24 T74
+*	Coreference T6 T43
+*	Coreference T31 T42
+*	Coreference T75 T25 T46
+*	Coreference T16 T35 T27 T59 T13 T63
+*	Coreference T72 T67 T5 T66
+*	Coreference T50 T47
+*	Coreference T57 T58 T54 T20 T32 T33 T52

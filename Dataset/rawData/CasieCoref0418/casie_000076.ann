@@ -1,0 +1,46 @@
+T3	Campaign 746 764	ransomware attacks
+T5	Hacker-Group 717 724	Hackers
+T4	Time 765 774	last year
+T6	Money 795 807	$209 million
+T1	Purpose 349 362	ransom demand
+T2	Person 289 307	Democratic leaders
+T7	Hacker-Group 340 347	hackers
+T8	Organization 15 39	PennLive Editorial Board
+T9	Email 40 59	penned@pennlive.com
+T10	Time 70 79	last week
+T11	Person 85 114	Pennsylvania Senate Democrats
+T12	Number 133 135	11
+T13	Organization 142 160	progressive groups
+T14	Campaign 195 201	attack
+T15	Hacker-Group 205 220	Russian hackers
+T16	Hacker-Group 277 287	Great Bear
+T17	Purpose 384 398	data destroyed
+T18	Organization 404 420	Associated Press
+T19	Campaign 456 462	attack
+T20	Device 494 510	computer network
+T21	Hacker-Group 557 573	cyber-terorrists
+T22	Location 605 618	United States
+T23	Hacker-Group 635 649	foreign threat
+T24	Hacker-Group 674 677	one
+T25	Number 734 745	638 million
+T26	Person 809 836	PennLive's Wallace McKelvey
+T27	Time 846 855	Wednesday
+T28	Organization 885 908	security firm SonicWall
+T29	Time 919 938	more than 167 times
+T30	Number 943 954	3.8 million
+T31	Campaign 955 962	attacks
+T32	Time 973 977	2015
+T33	Hacker-Group 1054 1061	hackers
+T34	Campaign 1177 1198	presidential campaign
+T35	Person 1066 1111	former presidential candidate Hillary Clinton
+T36	Organization 1120 1149	Democratic National Committee
+T37	Person 1002 1005	you
+T38	Person 1212 1215	you
+*	Coreference T4 T10
+*	Coreference T15 T16 T21
+T42	Person 184 188	prey
+*	Coreference T2 T11
+*	Coreference T24 T23
+*	Coreference T31 T3 T34
+*	Coreference T19 T14
+*	Coreference T33 T5

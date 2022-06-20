@@ -1,0 +1,79 @@
+T2	Device 54 61	laptops
+T4	Information 86 112	voter registration records
+T5	Information 128 133	names
+T7	Time 222 234	last weekend
+T9	Time 1834 1842	March 27
+T3	Location 0 9	Hong Kong
+T11	Organization 12 28	electoral office
+T12	Number 50 53	two
+T1	Person 191 206	chief executive
+T13	Location 215 221	region
+T14	Organization 241 244	REO
+T15	Device 254 261	laptops
+T17	Organization 298 312	AsiaWorld Expo
+T18	Organization 316 341	large conference facility
+T19	Organization 350 384	Chek Lap Kok International Airport
+T20	Location 390 412	north of Lantau Island
+T21	Person 415 417	We
+T22	Person 435 441	voters
+T23	Campaign 450 458	incident
+T24	Organization 465 468	REO
+T25	Organization 480 483	REO
+T27	Person 500 515	affected voters
+T28	Campaign 526 534	incident
+T29	Time 535 554	as soon as possible
+T30	Information 561 565	data
+T32	Organization 679 682	REO
+T31	Number 644 652	multiple
+T33	Campaign 722 732	encryption
+T34	Campaign 663 673	encryption
+T35	Number 767 771	many
+T36	Person 772 778	voters
+T37	Organization 802 819	Channel News Asia
+T38	Location 834 843	Hong Kong
+T39	Number 848 859	3.7 million
+T40	Person 860 877	registered voters
+T41	Location 879 888	Hong Kong
+T42	Person 891 929	Privacy Commissioner for Personal Data
+T43	Information 916 929	Personal Data
+T44	Campaign 946 959	investigation
+T45	Time 965 973	March 26
+T46	Organization 979 997	Election Committee
+T47	Person 1005 1015	Carrie Lam
+T48	Person 1023 1064	first female chief executive of Hong Kong
+T49	Location 1055 1064	Hong Kong
+T50	Location 1097 1170	Hong Kong Special Administrative Region of the People's Republic of China
+T51	Campaign 1176 1184	election
+T52	Number 1193 1209	every five years
+T53	Device 1215 1222	laptops
+T54	System 1238 1251	backup system
+T55	Campaign 1260 1268	election
+T56	Organization 1270 1273	REO
+T58	Location 1292 1320	Hall 7 of the AsiaWorld Expo
+T59	Device 1339 1364	closed-circuit television
+T8	Organization 1370 1394	South China Morning Post
+T60	Information 1461 1469	passcode
+T61	Information 1477 1488	access card
+T62	Organization 1573 1577	SCMP
+T63	Device 1587 1596	computers
+T64	Device 1597 1607	themselves
+T65	Person 1636 1649	investigators
+T66	Device 1670 1679	equipment
+T67	Person 1547 1563	anonymous source
+T68	Device 1722 1729	laptops
+T69	Time 1760 1768	March 22
+T70	Time 1790 1804	two days later
+T16	Hacker-Group 1810 1815	theft
+T57	Device 1848 1857	computers
+T71	Organization 1916 1920	SCMP
+T74	Pronoun 1500 1502	It
+*	Coreference T23 T28
+*	Coreference T56 T25 T14 T32 T24
+*	Coreference T41 T49 T3 T38
+*	Coreference T34 T33
+*	Coreference T62 T71
+T6	Person 137 170	members of its Election Committee
+*	Coreference T17 T18
+*	Coreference T47 T48
+*	Coreference T51 T55
+*	Coreference T63 T64 T68 T15 T2 T53 T57

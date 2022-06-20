@@ -1,0 +1,68 @@
+T13	Organization 1400 1405	Three
+T14	Time 1338 1351	Last November
+T5	Software 1420 1440	its upgrade database
+T7	Information 1469 1478	the names
+T8	Information 1480 1493	phone numbers
+T9	Information 1495 1504	addresses
+T10	Information 1509 1523	dates of birth
+T11	Person 1540 1549	customers
+T2	Information 1032 1050	their private data
+T1	Person 984 993	customers
+T12	Organization 0 5	Three
+T15	Person 44 53	customers
+T16	Organization 66 99	 the British mobile phone company
+T17	Domain 102 109	website
+T18	Person 116 126	themselves
+T20	Information 144 163	customers’ accounts
+T21	Information 175 185	 the names
+T22	Information 187 196	addresses
+T23	Information 198 249	call histories and data usage of complete strangers
+T25	Organization 250 263	 The Guardian
+T26	Person 282 290	customer
+T27	Person 292 303	Andy Fidler
+T28	Software 310 324	 the Three app
+T29	Device 327 344	 his mobile phone
+T30	Person 369 371	he
+T31	Domain 392 407	Three’s website
+T34	URL 509 518	 the link
+T36	Information 540 542	It
+T37	Information 551 560	 the name
+T38	Information 562 569	address
+T39	Information 571 596	how much they were paying
+T40	Person 580 584	they
+T41	Information 598 640	the phone numbers they had rung and texted
+T42	Person 616 620	they
+T43	Information 656 668	bank details
+T44	Person 690 692	He
+T45	Campaign 798 815	 a malicious hack
+T46	Domain 830 860	Three’s official Facebook page
+T47	Campaign 772 793	 a technical screw-up
+T48	Person 709 712	one
+T49	Person 868 889	 A Three spokesperson
+T50	Person 900 904	they
+T51	Course-of-Action 905 951	are aware of the problem and are investigating
+T3	Attack-Pattern 1025 1058	having their private data exposed
+T53	Time 1072 1076	long
+T54	Organization 1106 1144	 The Information Commissioner’s Office
+T55	Campaign 1183 1207	 this potential incident
+T56	Organization 1218 1223	Three
+T57	Person 1233 1237	they
+T58	Organization 1242 1254	 the company
+T59	Information 1289 1305	customer details
+T60	Course-of-Action 1159 1224	it will be “looking into this potential incident involving Three”
+T61	Organization 1159 1161	it
+T62	Campaign 1374 1398	 an unconnected incident
+T4	Number 1532 1539	130,000
+T6	Number 979 983	many
+T63	Person 491 492	I
+T65	Pronoun 1233 1237	they
+T72	Pronoun 1306 1308	it
+T19	Information 464 485	stranger’s phone bill
+T24	Information 530 538	 my bill
+*	Coreference T56 T13 T12
+*	Coreference T17 T31
+*	Coreference T55 T62
+*	Coreference T30 T27 T26 T44 T63 T48
+*	Coreference T18 T15 T50
+*	Coreference T24 T36
+*	Coreference T54 T61

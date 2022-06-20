@@ -1,0 +1,79 @@
+T2	Course-of-Action 299 313	hardware fixes
+T1	Vulnerability 318 347	the Spectre and Meltdown bugs
+T26	Device 273 285	desktop CPUs
+T27	Device 235 240	chips
+T6	Device 419 430	gaming CPUs
+T5	Course-of-Action 450 457	the fix
+T8	Course-of-Action 782 785	fix
+T9	Vulnerability 805 809	bugs
+T12	Course-of-Action 918 943	those same security fixes
+T15	Device 888 904	Xeon-class chips
+T14	Device 870 882	the X-series
+T13	Device 837 868	second set of new 9th-gen chips
+T17	Course-of-Action 1031 1047	software updates
+T16	Organization 1004 1009	Intel
+T18	Vulnerability 1079 1109	these possible vulnerabilities
+T20	Course-of-Action 2175 2183	patching
+T25	Organization 2035 2040	Intel
+T23	Vulnerability 2100 2132	these potentially critical flaws
+T21	Vulnerability 2184 2203	the vulnerabilities
+T22	Device 2207 2217	a hardware
+T24	Time 2235 2239	2018
+T10	Time 365 377	recent years
+T28	Device 14 37	announced 9-series CPUs
+T3	Time 619 631	recent years
+T4	Campaign 561 568	attacks
+T29	Device 496 504	hardware
+T30	Time 725 735	since 2014
+T7	Device 817 825	hardware
+T11	Vulnerability 1258 1282	security vulnerabilities
+T19	Vulnerability 1583 1608	rogue data cache load bug
+T31	Device 1389 1397	hardware
+T34	Course-of-Action 2001 2033	implemented hardware protections
+T35	Organization 1413 1415	we
+T36	Device 1056 1060	them
+T37	Campaign 1186 1188	it
+T38	Organization 2085 2087	it
+T39	Device 642 646	they
+*	Coreference T10 T3
+T40	Organization 0 5	Intel
+*	Coreference T26 T27 T28 T44 T45 T39 T47 T48 T67
+T44	Device 394 396	it
+T45	Device 465 470	chips
+*	Coreference T2 T5 T8 T12 T69 T34
+T46	Organization 704 709	Intel
+*	Coreference T40 T46 T16 T25 T52 T35 T68 T38
+T47	Device 737 742	these
+T48	Device 762 766	ones
+*	Coreference T9 T1 T11 T18 T23 T21
+*	Coreference T7 T29 T31
+T49	Device 953 957	they
+*	Coreference T13 T49 T36 T58
+T51	Course-of-Action 1123 1128	fixes
+*	Coreference T17 T51 T57 T66
+T52	Organization 1144 1149	Intel
+T53	Campaign 1152 1178	recent desktop press event
+*	Coreference T37 T53
+T54	Device 1207 1229	new desktop processors
+T55	Course-of-Action 1348 1359	protections
+T56	Course-of-Action 1238 1249	protections
+*	Coreference T55 T56
+T57	Course-of-Action 1455 1485	software and microcode updates
+T58	Device 1525 1530	chips
+T59	Vulnerability 1547 1558	Meltdown V3
+*	Coreference T59 T19 T33
+T61	Vulnerability 1319 1327	Meltdown
+T62	Vulnerability 1308 1315	Spectre
+T60	Vulnerability 1335 1339	L1TF
+T63	Vulnerability 1614 1631	L1 terminal fault
+*	Coreference T60 T63
+T66	Course-of-Action 1682 1712	Software and microcode changes
+T32	Vulnerability 1750 1757	Spectre
+*	Coreference T62 T32
+T33	Vulnerability 1794 1805	Meltdown V3
+T67	Device 1727 1737	same chips
+T68	Organization 1908 1913	Intel
+T69	Course-of-Action 1955 1975	hardware-level fixes
+T70	Device 1894 1900	laptop
+T71	Device 1977 1981	Some
+*	Coreference T70 T71

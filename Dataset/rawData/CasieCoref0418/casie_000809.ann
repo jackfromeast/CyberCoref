@@ -1,0 +1,54 @@
+T10	Campaign 1318 1324	leaked
+T11	Information 1325 1346	highly sensitive data
+T7	Campaign 1275 1281	hacked
+T20	System 1307 1313	server
+T12	Hacker-Group 1259 1269	The hacker
+T1	Organization 1286 1306	Catalan Police Union
+T8	Campaign 1436 1443	leaking
+T9	Information 1444 1460	personal details
+T16	Person 1464 1479	police officers
+T4	Campaign 1394 1400	hacked
+T14	Hacker-Group 1382 1388	hacker
+T15	System 1416 1422	server
+T2	Organization 1401 1415	Spanish Police
+T3	Hacker-Group 4 11	hackers
+T5	Hacker-Group 294 301	hackers
+T13	Time 541 558	1 year (365 days)
+T17	Person 491 509	Bilderberg members
+T18	Money 1155 1162	€10,000
+T19	Money 1170 1176	£8,000
+T21	Money 1178 1185	Bitcoin
+T22	Hacker-Group 454 461	hackers
+T23	Money 1577 1591	800 euros/$889
+T24	Hacker-Group 915 932	HackBack movement
+T25	Hacker-Group 962 977	HackBack hacker
+T26	Hacker-Group 1002 1010	HackBack
+T27	Time 1117 1132	some months ago
+T28	Hacker-Group 806 808	we
+T29	Person 655 658	you
+T30	Person 635 638	you
+T31	Person 819 822	you
+T33	Person 798 801	you
+T34	Hacker-Group 785 787	we
+T35	Person 533 536	you
+T37	Person 479 483	them
+*	Coreference T18 T19 T21
+T38	Domain 19 30	deface page
+T39	Domain 97 101	site
+*	Coreference T38 T39 T45
+T40	File 50 57	message
+T41	File 195 202	message
+*	Coreference T41 T40 T6
+T42	Organization 231 247	Bilderberg group
+T43	Organization 318 323	group
+*	Coreference T43 T42
+*	Coreference T5 T3 T22 T34 T28
+T44	Person 324 331	members
+*	Coreference T37 T44 T17 T35 T30 T29 T33 T31
+T6	File 842 849	message
+T45	Domain 881 892	deface page
+T46	Hacker-Group 901 910	Anonymous
+*	Coreference T26 T25 T12 T14
+T36	Organization 1191 1233	Kurdish anticapitalist group “Rojava Plan”
+*	Coreference T4 T7
+*	Coreference T8 T10

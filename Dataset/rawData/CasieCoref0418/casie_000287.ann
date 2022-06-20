@@ -1,0 +1,114 @@
+T2	Information 144 153	passwords
+T6	Domain 0 10	Allrecipes
+T11	Person 241 246	users
+T8	Information 429 437	password
+T14	Time 336 354	prior to June 2013
+T21	Information 532 540	password
+T22	Domain 552 566	allrecipes.com
+T19	Person 570 577	members
+T18	Information 611 625	their accounts
+T17	Time 626 644	prior to June 2013
+T25	Information 872 881	passwords
+T26	Email 837 852	email addresses
+T24	Person 939 950	our members
+T36	Domain 857 871	allrecipes.com
+T33	Information 2478 2486	password
+T34	Purpose 2536 2564	unlock other online accounts
+T35	Purpose 2613 2627	launching spam
+T37	Purpose 2589 2609	monetise their theft
+T40	Email 74 79	email
+T41	System 32 59	food-focused social network
+T3	Organization 186 205	unknown third-party
+T4	Email 214 219	email
+T12	Domain 225 229	site
+T13	Domain 331 335	site
+T44	Time 375 389	four years ago
+T9	Email 458 463	email
+T15	Organization 677 701	unauthorized third party
+T16	Information 712 723	information
+T45	Person 482 484	We
+T46	Person 737 739	us
+T47	Person 741 743	we
+T48	Domain 971 975	site
+T49	Person 997 1002	users
+T50	Domain 955 958	its
+T51	Information 1019 1038	Allrecipes password
+T52	Person 1056 1060	they
+T53	Information 1084 1092	password
+T54	Domain 1114 1117	net
+T55	Person 1151 1153	we
+T56	Person 1173 1180	members
+T57	Domain 1211 1225	allrecipes.com
+T58	Time 1235 1244	June 2013
+T59	Information 1267 1275	password
+T60	Person 1277 1279	We
+T61	Campaign 1357 1378	unauthorized activity
+T62	Person 1380 1383	You
+T63	Information 1412 1420	password
+T64	Domain 1424 1438	allrecipes.com
+T65	Domain 1456 1461	sites
+T66	Person 1472 1475	you
+T67	Information 1489 1497	username
+T68	Information 1502 1510	password
+T69	Organization 1536 1546	Allrecipes
+T70	Information 1595 1604	questions
+T71	Organization 1618 1625	Twitter
+T72	URL 1665 1669	link
+T73	Domain 1710 1717	website
+T74	Information 1676 1717	advisory on the front page of its website
+T75	URL 1735 1739	link
+T76	Campaign 1798 1813	security breach
+T77	Organization 1839 1849	Allrecipes
+T78	Organization 1923 1927	them
+T80	Person 2045 2059	affected users
+T81	Information 2210 2219	Passwords
+T82	Vulnerability 2308 2313	risks
+T83	Person 2343 2348	users
+T84	Organization 2085 2092	Twitter
+T85	Person 2121 2133	Twitter user
+T86	Email 2373 2386	email address
+T87	Person 2413 2417	them
+T30	Hacker-Group 2433 2439	hacker
+T31	Purpose 2631 2666	phishing attacks against your inbox
+T5	Person 99 104	users
+T1	Email 124 139	email addresses
+T7	Email 411 424	email address
+T20	Email 514 527	email address
+T23	Information 906 913	account
+T39	Number 1756 1765	plenty of
+T27	Campaign 1970 1981	data breach
+T28	Information 2182 2190	password
+T29	Email 2460 2473	email address
+T32	Information 2521 2532	credentials
+T38	Information 2556 2564	accounts
+T92	Person 2268 2271	you
+T96	Organization 1642 1644	it
+T98	Organization 1611 1613	it
+T99	Campaign 1863 1865	it
+T101	Pronoun 583 587	they
+T102	Person 2565 2568	you
+T103	Information 2286 2288	it
+T108	Organization 1743 1745	it
+*	Coreference T71 T84
+*	Coreference T72 T75
+*	Coreference T86 T29
+*	Coreference T62 T66
+*	Coreference T40 T4
+*	Coreference T12 T6 T13
+T42	Information 265 287	allrecipes.com account
+*	Coreference T11 T5
+T10	Person 304 323	a registered member
+*	Coreference T7 T1
+*	Coreference T8 T2
+*	Coreference T46 T47
+*	Coreference T50 T48
+*	Coreference T49 T52
+*	Coreference T59 T51
+*	Coreference T64 T57 T36
+*	Coreference T63 T68
+T43	Campaign 1570 1576	breach
+*	Coreference T98 T69 T96 T108
+*	Coreference T76 T27 T99
+T79	Person 1959 1964	users
+*	Coreference T103 T81
+*	Coreference T78 T77

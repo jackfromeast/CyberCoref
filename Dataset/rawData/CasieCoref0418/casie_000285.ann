@@ -1,0 +1,160 @@
+T12	Information 897 906	passwords
+T11	Information 908 923	encryption keys
+T10	Information 925 942	payment card data
+T9	Information 946 960	health records
+T18	Organization 1263 1273	Cloudflare
+T19	Person 1286 1294	customer
+T20	Information 1295 1309	HTTPS sessions
+T21	Organization 1314 1318	Uber
+T22	Organization 1320 1326	FitBit
+T23	Organization 1328 1335	OKCupid
+T30	Vulnerability 3370 3372	it
+T1	Attack-Pattern 232 264	leaked customer data from memory
+T2	Hacker-Group 283 292	attackers
+T4	Vulnerability 298 301	bug
+T15	Time 1020 1026	Feb 17
+T16	Person 1030 1074	Google Project Zero researcher Tavis Ormandy
+T5	Information 828 855	internal Cloudflare headers
+T7	Information 860 876	customer cookies
+T36	Person 174 180	Prince
+T40	Time 21 27	a week
+T43	Time 120 129	yesterday
+T44	Campaign 135 154	lengthy post-mortem
+T37	Vulnerability 211 224	vulnerability
+T34	Number 336 353	1.2 million times
+T45	Number 359 364	6,500
+T47	Domain 365 370	sites
+T3	Information 384 392	criteria
+T48	Time 428 443	In the meantime
+T49	Organization 445 455	Cloudflare
+T50	Organization 479 485	Google
+T51	Organization 496 519	search engine providers
+T52	Domain 529 541	cached sites
+T53	Device 582 588	memory
+T54	Information 565 576	leaked data
+T55	Information 642 654	cached pages
+T56	Number 628 634	80,000
+T57	Organization 591 593	We
+T58	Person 783 789	Prince
+T59	Number 686 692	number
+T60	Organization 701 703	we
+T61	Software 717 731	search engines
+T62	Domain 757 762	sites
+T63	Person 796 802	Prince
+T6	Campaign 808 813	leaks
+T8	Campaign 971 976	leaks
+T13	Vulnerability 982 995	vulnerability
+T14	Information 1105 1116	crypto keys
+T64	Information 1118 1127	passwords
+T65	Information 1129 1138	POST data
+T66	Information 1143 1157	HTTPS requests
+T67	Domain 1168 1191	Cloudflare-hosted sites
+T68	Information 1198 1202	data
+T69	Information 1214 1222	requests
+T70	Person 1224 1231	Ormandy
+T71	Organization 1252 1257	tweet
+T17	Organization 1340 1346	others
+T72	Vulnerability 1380 1390	Cloudbleed
+T73	Information 1400 1404	data
+T74	Vulnerability 1429 1432	bug
+T75	Person 1487 1493	Prince
+T76	Person 1500 1506	Prince
+T77	Vulnerability 1526 1529	bug
+T78	Domain 1556 1563	webpage
+T81	Code 1612 1616	HTML
+T83	Organization 1676 1686	Cloudflare
+T24	Software 1758 1771	stream parser
+T85	Organization 1747 1757	Cloudflare
+T86	Information 1796 1803	content
+T89	Campaign 1872 1896	Automatic HTTPS Rewrites
+T93	Campaign 1964 1989	Email Address Obfuscation
+T94	Information 2015 2038	un-terminated attribute
+T95	Information 2043 2046	key
+T96	Domain 2056 2060	page
+T97	Person 2067 2086	particular customer
+T98	Device 2119 2125	memory
+T99	Device 2140 2147	servers
+T100	Information 2170 2184	infrastructure
+T102	Device 2261 2267	memory
+T103	Device 2271 2291	Cloudflare’s servers
+T104	Person 2294 2300	Prince
+T105	Vulnerability 2312 2315	bug
+T106	Software 2327 2333	parser
+T107	Information 2355 2378	un-terminated attribute
+T108	Domain 2395 2399	page
+T109	Device 2455 2461	memory
+T110	Domain 2481 2485	page
+T111	Software 2513 2519	parser
+T113	Information 2576 2580	data
+T25	Information 2617 2625	contents
+T115	Information 2186 2194	Contents
+T116	Device 2634 2649	adjacent memory
+T112	Device 2543 2558	adjacent memory
+T117	Domain 2676 2680	page
+T118	Code 2690 2701	flawed HTML
+T119	Person 2704 2710	Anyone
+T120	Domain 2734 2739	pages
+T121	Device 2754 2760	memory
+T122	Information 2786 2797	random text
+T123	Person 2806 2812	Prince
+T124	Hacker-Group 2822 2830	attacker
+T125	Domain 2864 2869	sites
+T126	Information 2875 2892	numerous requests
+T127	Vulnerability 2908 2911	bug
+T128	Information 2932 2939	results
+T130	Information 2975 2996	sensitive information
+T131	Person 2998 3004	Prince
+T132	Hacker-Group 3070 3076	hacker
+T27	Vulnerability 3099 3102	bug
+T133	Information 3131 3135	data
+T26	Person 3218 3224	Prince
+T28	Time 3240 3252	last 12 days
+T134	Information 3278 3282	logs
+T135	Information 3305 3313	evidence
+T39	Hacker-Group 3333 3339	hacker
+T38	Vulnerability 3359 3362	bug
+T31	Organization 3386 3388	We
+T32	Person 3445 3451	Prince
+T136	Person 3457 3477	Cloudflare customers
+T137	Information 3491 3509	leaked cached data
+T138	URL 3521 3525	link
+T139	Email 3543 3569	parserbug@cloudflare[.]com
+T140	Number 3576 3581	2,000
+T144	Vulnerability 3665 3681	malicious script
+T145	System 3624 3642	keylogger campaign
+T35	Information 239 252	customer data
+T41	System 1583 1601	Cloudflare network
+T79	Number 1664 1675	a number of
+T80	Information 2958 2970	useless data
+T82	Person 3035 3037	we
+T129	Person 3143 3145	we
+T29	Organization 3163 3189	Google’s Project Zero team
+T33	Vulnerability 3213 3215	it
+T143	Course-of-Action 3207 3212	patch
+T141	Domain 3582 3597	WordPress sites
+T146	Software 2418 2420	it
+T147	Software 2340 2342	it
+T149	Person 1094 1096	he
+T152	Vulnerability 405 407	it
+T154	Domain 2103 2105	it
+*	Coreference T6 T8
+*	Coreference T49 T85 T18 T83 T46
+*	Coreference T116 T112
+*	Coreference T108 T110 T117
+T42	Person 70 84	Cloudflare CEO
+T142	Person 85 99	Matthew Prince
+*	Coreference T42 T142 T36 T58 T63 T149 T76 T104 T123 T26 T32
+T46	Organization 38 48	Cloudbleed
+*	Coreference T37 T4 T152 T13 T74 T30 T38 T27 T77 T105 T127 T33
+*	Coreference T57 T60
+T84	Information 1712 1726	Those features
+*	Coreference T94 T95
+*	Coreference T96 T154
+T101	Information 2208 2227	customers’ requests
+T155	Campaign 1825 1854	rewriting HTTP links to HTTPS
+*	Coreference T155 T89
+T87	Campaign 1900 1946	hiding email addresses on a page from spammers
+*	Coreference T87 T93
+*	Coreference T147 T106 T146 T111
+*	Coreference T25 T113
+T88	Information 2592 2611	customers’ requests

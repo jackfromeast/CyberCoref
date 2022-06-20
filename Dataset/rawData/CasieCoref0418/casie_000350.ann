@@ -1,0 +1,141 @@
+T53	Time 1582 1592	October 23
+T55	Hacker-Group 1602 1617	notorious group
+T54	Hacker-Group 1619 1629	MoneyTaker
+T35	File 1815 1826	attachments
+T34	File 1840 1849	documents
+T36	Organization 1855 1858	CBR
+T1	Campaign 51 68	phishing campaign
+T2	Organization 0 5	Banks
+T3	Location 9 15	Russia
+T4	Time 16 21	today
+T26	Hacker-Group 127 134	hackers
+T12	Attack-Pattern 431 450	open the attachment
+T28	Purpose 463 487	check the latest details
+T18	Information 1195 1208	email address
+T25	Person 1186 1192	sender
+T22	Campaign 1535 1555	their spear-phishing
+T24	Hacker-Group 1486 1505	The Silence hackers
+T23	Organization 1564 1577	Russian banks
+T44	File 2479 2487	messages
+T43	Hacker-Group 2465 2469	them
+T40	File 2534 2551	fraudulent emails
+T45	Campaign 2689 2703	spear-phishing
+T47	Organization 2639 2654	multiple groups
+T46	Organization 2659 2685	the Central Bank of Russia
+T50	Hacker-Group 3298 3302	they
+T48	Campaign 3288 3296	phishing
+T49	Hacker-Group 3268 3275	Silence
+T13	Email 853 870	legitimate emails
+T16	Organization 876 879	CBR
+T39	Hacker-Group 2325 2333	attacker
+T38	File 2372 2385	CBR documents
+T41	Person 2427 2450	Russian banks employees
+T20	Campaign 1448 1462	spear-phishing
+T29	Organization 1433 1438	Banks
+T56	Number 43 50	massive
+T57	Purpose 74 134	aimed to deliver a tool used by the Silence group of hackers
+T58	Software 93 97	tool
+T5	Organization 110 123	Silence group
+T59	Organization 140 145	group
+T60	Campaign 182 211	legitimate infosec activities
+T61	Organization 256 272	financial sector
+T6	Email 278 295	fraudulent emails
+T7	File 368 388	malicious attachment
+T9	Person 417 427	recipients
+T10	File 440 450	attachment
+T11	Information 473 487	latest details
+T62	Campaign 496 560	standardization of the format of CBR's electronic communications
+T64	Campaign 670 676	attack
+T66	Campaign 766 793	official CBR correspondence
+T15	Hacker-Group 829 838	attackers
+T14	Hacker-Group 884 899	Silence hackers
+T67	Campaign 923 980	legal side of reverse engineering and penetration testing
+T68	File 1032 1076	documentation used by financial institutions
+T69	Organization 1054 1076	financial institutions
+T70	Organization 1090 1105	banking systems
+T71	Time 1134 1139	today
+T72	Organization 1141 1149	Group-IB
+T19	Hacker-Group 1164 1173	attackers
+T17	Attack-Pattern 1174 1208	spoofed the sender's email address
+T73	Campaign 1243 1287	DKIM (DomainKeys Identified Mail) validation
+T74	Campaign 1289 1293	DKIM
+T75	Course-of-Action 1333 1431	prevent forged email addresses by adding to the message a signature that confirms its authenticity
+T76	Information 1348 1363	email addresses
+T21	Organization 1470 1485	different group
+T77	Hacker-Group 1523 1527	ones
+T78	Campaign 1637 1653	similar campaign
+T27	Information 1713 1726	email address
+T30	Number 1861 1878	Three out of five
+T31	File 1879 1884	files
+T33	File 1890 1911	empty decoy documents
+T80	Organization 1946 1968	the Meterpreter Stager
+T81	Attack-Pattern 1702 1726	spoofed an email address
+T82	Attack-Pattern 1800 1858	contained five attachments disguised as documents from CBR
+T83	Campaign 1987 1993	attack
+T84	Hacker-Group 1995 2002	hackers
+T85	Attack-Pattern 2003 2036	used self-signed SSL certificates
+T86	Person 2044 2061	Rustam Mirkasymov
+T87	Person 2063 2118	Group-IB Head of Dynamic Analysis of malware department
+T88	Person 2123 2150	threat intelligence expert.
+T90	Hacker-Group 2217 2233	MoneyTaker group
+T91	Person 2247 2263	security experts
+T92	Hacker-Group 2280 2291	perpetrator
+T93	Information 2157 2162	clues
+T94	Hacker-Group 2311 2318	Silence
+T95	Attack-Pattern 2499 2551	pass even eyes trained in spotting fraudulent emails
+T42	Hacker-Group 2553 2575	Silence and MoneyTaker
+T96	Campaign 2599 2606	threats
+T97	Organization 2610 2615	banks
+T98	Organization 2629 2637	Group-IB
+T99	Organization 2747 2759	organization
+T100	Organization 2784 2806	financial institutions
+T101	Organization 2814 2821	country
+T102	Organization 2871 2875	them
+T103	Campaign 2838 2865	constant communication flow
+T104	Person 2877 2887	Mirkasymov
+T106	Organization 2951 2957	groups
+T107	Organization 2972 2995	financial organizations
+T108	Person 3026 3032	expert
+T109	Campaign 3072 3088	drive-by attacks
+T110	System 3105 3112	network
+T111	Vulnerability 3117 3132	vulnerabilities
+T112	Attack-Pattern 3149 3257	access the internal nodes that enable them to withdraw money from ATMs, process cards or interbank transfers
+T113	Money 3204 3209	money
+T114	Device 3215 3219	ATMs
+T116	Campaign 3238 3257	interbank transfers
+T115	Information 3221 3234	process cards
+T51	File 3339 3346	message
+T52	Attack-Pattern 3348 3391	paying attention to both content and design
+T117	Organization 3398 3406	Group-IB
+T118	Person 3409 3435	threat intelligence expert
+T119	Hacker-Group 1005 1009	they
+T121	Hacker-Group 3187 3191	them
+*	Coreference T54 T90 T55 T39 T43
+*	Coreference T34 T38
+*	Coreference T36 T16
+*	Coreference T46 T126 T125
+*	Coreference T45 T48
+*	Coreference T17 T81
+*	Coreference T86 T104 T88
+T125	Organization 347 350	CBR
+T126	Organization 319 345	the Central Bank of Russia
+T8	Email 394 401	message
+*	Coreference T6 T8
+*	Coreference T10 T7
+T63	Organization 604 643	day International cybersecurity company
+T65	Organization 644 652	Group-IB
+*	Coreference T63 T65 T106 T72 T98 T59 T117 T5
+*	Coreference T15 T14 T119
+*	Coreference T24 T77
+T32	Organization 1732 1785	the Financial Sector Computer Emergency Response Team
+T122	Organization 1787 1794	FinCERT
+*	Coreference T32 T122
+*	Coreference T33 T31
+*	Coreference T42 T96
+*	Coreference T100 T102
+T105	Hacker-Group 2898 2920	Silence and MoneyTaker
+*	Coreference T49 T50
+*	Coreference T121 T105
+T79	Number 1917 1920	two
+T89	Device 2175 2233	server infrastructure associated with the MoneyTaker group
+T120	Attack-Pattern 2353 2385	have had access to CBR documents

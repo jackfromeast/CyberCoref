@@ -1,0 +1,47 @@
+T6	Malware 1081 1095	The ransomware
+T21	Attack-Pattern 1105 1136	connect to a C&C server to work
+T23	File 1152 1167	the ransom note
+T2	Money 1010 1014	$100
+T3	Money 1033 1041	0.18 BTC
+T4	Person 1047 1059	 its victims
+T19	File 986 1002	The ransom notes
+T12	Campaign 1688 1705	paying the ransom
+T15	Campaign 260 268	poses as
+T16	System 268 279	 a software
+T18	Malware 178 192	the ransomware
+T20	Malware 156 161	Netix
+T7	Purpose 284 324	creating valid Netflix login credentials
+T17	System 221 253	Netflix Login Generator v1.1.exe
+T9	Campaign 1380 1394	pay the ransom
+T11	Person 1366 1376	the crooks
+T10	Person 1345 1352	Victims
+T8	Malware 882 892	ransomware
+T13	Attack-Pattern 934 984	appends the encrypted files with the .se extension
+T14	Attack-Pattern 893 929	employs AES-256 encryption algorithm
+T1	System 1228 1235	Windows
+T5	Version 1236 1237	7
+T22	Version 1241 1243	10
+T24	Version 1319 1333	other versions
+T25	System 1336 1343	 the OS
+T26	Malware 1288 1298	ransomware
+T27	File 325 334	 The file
+T28	Person 434 439	Users
+T29	File 460 469	 the file
+T30	Information 576 587	 a username
+T31	Information 592 600	password
+T32	Person 0 22	Aspiring Netflix users
+T33	Malware 132 142	ransomware
+T34	Path 794 802	C:\Users
+T35	Information 832 838	videos
+T36	Information 824 830	images
+T37	Information 840 853	archive files
+T38	Information 859 875	Office documents
+T39	Pronoun 1603 1606	you
+T40	Pronoun 1303 1305	it
+T41	Pronoun 1464 1468	they
+T42	Pronoun 1495 1499	they
+T43	Pronoun 732 734	it
+*	Coreference T23 T19
+*	Coreference T4 T10
+*	Coreference T12 T9
+*	Coreference T26 T18 T33 T8 T6

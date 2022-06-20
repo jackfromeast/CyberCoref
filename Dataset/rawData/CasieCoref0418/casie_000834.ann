@@ -1,0 +1,133 @@
+T2	Campaign 206 214	is found
+T3	Device 238 245	GoAhead
+T1	Vulnerability 170 178	The flaw
+T5	Campaign 351 366	have been found
+T6	Person 370 400	security researcher Pierre Kim
+T4	Vulnerability 329 350	other vulnerabilities
+T7	Device 442 478	the Wireless IP Camera (P2P) WIFICAM
+T8	Campaign 510 521	affected by
+T11	System 534 564	the custom embedded web server
+T10	Vulnerability 522 530	the flaw
+T9	Device 502 509	devices
+T12	Campaign 565 577	can be found
+T19	Organization 688 696	Polaroid
+T18	Organization 676 682	Netcam
+T17	Organization 666 674	Logitech
+T15	Organization 650 656	D-Link
+T14	Organization 627 638	300 vendors
+T13	Device 603 616	camera models
+T16	Organization 658 664	Foscam
+T30	Campaign 804 809	noted
+T29	Person 800 803	Kim
+T20	Attack-Pattern 718 757	allows an attacker to steal credentials
+T21	Vulnerability 699 717	This vulnerability
+T25	Campaign 819 825	shared
+T27	Vulnerability 855 863	the flaw
+T28	Attack-Pattern 867 920	allow an attacker to achieve root shell on the device
+T26	Person 811 813	He
+T23	Campaign 944 951	present
+T22	Vulnerability 922 943	Other vulnerabilities
+T24	Device 960 974	a  RTSP server
+T31	Device 990 996	camera
+T32	Attack-Pattern 1061 1112	allowing attackers to watch what the camera streams
+T33	Campaign 2101 2109	revealed
+T36	Organization 2094 2100	Shodan
+T35	Device 2134 2152	vulnerable cameras
+T34	Attack-Pattern 2173 2184	be hijacked
+T45	Campaign 2416 2424	revealed
+T44	Organization 2405 2415	SecuriTeam
+T46	Time 2425 2430	today
+T47	Campaign 2474 2484	disclosure
+T48	Vulnerability 2485 2498	vulnerability
+T49	Campaign 2499 2508	affecting
+T50	System 2527 2549	the GoAhead web server
+T52	Campaign 2551 2561	Discovered
+T51	Person 2565 2608	independent security researcher Istvan Toth
+T53	Vulnerability 2610 2627	the vulnerability
+T54	Attack-Pattern 2648 2693	sending a malformed request to the web server
+T55	Attack-Pattern 2707 2764	disclose device credentials to the attacker in clear text
+T40	Campaign 2373 2376	fix
+T41	Vulnerability 2377 2381	this
+T42	Software 2345 2352	GoAhead
+T43	Organization 2319 2330	the company
+T39	Software 2217 2224	GoAhead
+T38	Vulnerability 2186 2205	The vulnerabilities
+T59	Vulnerability 2699 2701	it
+T60	Device 2049 2053	them
+T61	Device 1858 1862	they
+*	Coreference T10 T1 T27 T68 T21
+*	Coreference T13 T31 T75 T77 T82 T84 T87 T91 T102
+*	Coreference T20 T28
+*	Coreference T33 T45
+*	Coreference T53 T48 T59
+T63	Device 2 25	generic wireless camera
+T64	Organization 44 59	Chinese company
+T65	Malware 162 168	botnet
+T66	Device 247 280	a lightweight embedded web server
+*	Coreference T66 T3 T11 T50 T42 T111 T114 T39
+T67	Device 413 439	one of the branded cameras
+*	Coreference T67 T7 T63
+T68	Vulnerability 320 324	This
+T69	Device 311 318	devices
+*	Coreference T69 T9
+T70	Hacker-Group 728 736	attacker
+*	Coreference T29 T26 T95 T6 T103
+T62	Vulnerability 828 839	PoC exploit
+T71	Hacker-Group 876 884	attacker
+T72	Code 896 906	root shell
+T73	Device 914 920	device
+*	Coreference T70 T71
+*	Coreference T4 T22
+T74	Hacker-Group 1070 1079	attackers
+T75	Device 1098 1104	camera
+T77	Device 1193 1199	camera
+T78	Software 1221 1239	mobile Android app
+T80	Protocol 1295 1298	UDP
+T81	Software 1345 1348	app
+*	Coreference T78 T81
+T82	Device 1377 1383	camera
+T83	Hacker-Group 1412 1420	attacker
+T84	Device 1465 1471	device
+T86	Hacker-Group 1524 1532	attacker
+*	Coreference T86 T83 T90 T92 T97 T100
+T87	Device 1545 1551	camera
+T88	File 1554 1572	configuration file
+T90	Hacker-Group 1645 1653	attacker
+T91	Device 1662 1668	camera
+T92	Hacker-Group 1696 1704	attacker
+T93	Information 1722 1733	credentials
+T94	Information 1604 1615	credentials
+*	Coreference T94 T93 T99 T101 T113 T123
+T95	Person 1736 1739	Kim
+T97	Hacker-Group 1819 1827	attacker
+T98	Device 1837 1853	internal cameras
+*	Coreference T98 T61 T104 T60 T35
+T99	Information 1912 1923	credentials
+T100	Hacker-Group 1935 1943	attacker
+T101	Information 1971 1982	credentials
+T102	Device 1990 1996	camera
+T103	Person 1999 2002	Kim
+T104	Device 2027 2034	devices
+T105	System 1884 1892	Internet
+T106	System 2063 2071	Internet
+*	Coreference T105 T106 T121
+T107	Campaign 1045 1059	authentication
+T108	Organization 2284 2302	Chinese OEM vendor
+T109	Software 2256 2266	web server
+T110	Organization 2307 2316	EmbedThis
+*	Coreference T43 T110
+*	Coreference T38 T41
+T111	Software 2683 2694	web server,
+T112	Hacker-Group 2742 2750	attacker
+T113	Information 2723 2734	credentials
+T114	Software 2771 2789	GoAhead web server
+T115	Device 2836 2846	IP cameras
+T116	Device 2813 2829	embedded devices
+T117	Device 2869 2885	embedded devices
+T118	Organization 2888 2898	SecuriTeam
+*	Coreference T44 T118
+T119	Person 2920 2926	owners
+T120	Device 2941 2947	device
+T121	System 2957 2964	network
+T122	Information 3057 3067	IP address
+T123	Information 746 757	credentials

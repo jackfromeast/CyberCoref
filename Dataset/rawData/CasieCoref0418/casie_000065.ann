@@ -1,0 +1,87 @@
+T25	Vulnerability 4 7	bug
+T31	Attack-Pattern 42 68	make a self-spreading worm
+T8	Hacker-Group 407 423	white hat hacker
+T7	Vulnerability 438 450	several bugs
+T9	Software 454 459	Steam
+T11	Attack-Pattern 610 674	put malicious javascript code inside a Steam user's profile page
+T13	Attack-Pattern 680 743	the code will execute whenever someone visits that profile page
+T12	Time 576 585	this week
+T15	Person 547 567	security researchers
+T14	Person 529 542	Several users
+T22	Vulnerability 1644 1647	bug
+T20	Person 1575 1583	Grossman
+T34	Time 1662 1677	Tuesday morning
+T23	Person 1588 1598	Jake Davis
+T28	Person 1600 1623	a former LulzSec hacker
+T26	System 1808 1814	Google
+T27	System 1818 1826	Facebook
+T3	Vulnerability 1842 1861	high-severity issue
+T36	Vulnerability 1828 1830	it
+T1	Course-of-Action 162 167	fixed
+T4	Organization 121 143	Steam's operator Valve
+T2	Vulnerability 172 175	bug
+T5	Time 176 189	earlier today
+T35	Organization 159 161	it
+T17	Vulnerability 1143 1146	bug
+T19	Time 1160 1175	Tuesday at noon
+T16	Campaign 914 928	Phishing scams
+T30	Hacker-Group 87 94	hackers
+T32	Person 99 119	security researchers
+T33	Number 205 216	125 million
+T37	Person 217 237	monthly active users
+T38	Domain 245 253	platform
+T39	Code 259 266	exploit
+T40	Campaign 286 291	havoc
+T41	Number 296 308	thousands of
+T42	Person 309 315	people
+T43	Organization 329 336	company
+T6	Person 509 511	me
+T45	Attack-Pattern 365 402	specially crafted profile gets popped
+T10	Vulnerability 591 593	it
+T46	Code 614 639	malicious javascript code
+T47	Domain 649 674	Steam user's profile page
+T48	Code 684 688	code
+T49	Domain 731 743	profile page
+T50	Attack-Pattern 745 794	without any need for the victim to click anywhere
+T51	Vulnerability 809 812	bug
+T52	Vulnerability 827 861	cross-site scripting vulnerability
+T53	Vulnerability 866 869	XSS
+T54	Software 896 901	Steam
+T44	Time 906 911	years
+T55	Malware 933 938	virus
+T56	Attack-Pattern 1044 1047	XSS
+T57	Person 1055 1072	Jeremiah Grossman
+T58	Person 1076 1095	web security expert
+T59	Person 1115 1133	Valve spokesperson
+T18	Course-of-Action 1151 1156	fixed
+T60	Hacker-Group 1231 1238	hackers
+T61	Vulnerability 1250 1252	it
+T62	Person 1259 1271	spokesperson
+T63	Vulnerability 1331 1334	bug
+T64	Person 1355 1378	moderators of the Steam
+T65	Course-of-Action 1403 1446	refrain from visiting other user's profiles
+T66	Person 1394 1399	users
+T67	Course-of-Action 1449 1499	Do NOT click suspicious (real) steam profile links
+T68	URL 1480 1499	steam profile links
+T69	Course-of-Action 1504 1533	Disable JavaScript on Browser
+T70	Code 1512 1522	JavaScript
+T71	Software 1526 1533	Browser
+T72	Person 1538 1547	moderator
+T21	Campaign 1705 1712	attacks
+T29	Hacker-Group 1718 1726	bad guys
+T73	Vulnerability 1760 1762	it
+T24	Person 1869 1877	Grossman
+T74	Person 1889 1944	Chief of Security Strategy at security firm SentinelOne
+T75	Hacker-Group 1739 1743	they
+*	Coreference T9 T54
+*	Coreference T34 T19
+*	Coreference T47 T49
+*	Coreference T59 T62
+*	Coreference T35 T4 T43
+*	Coreference T74 T24 T20
+*	Coreference T2 T25
+*	Coreference T8 T30
+*	Coreference T51 T52 T53 T56 T10 T3 T17 T63 T22 T36
+*	Coreference T58 T57
+*	Coreference T23 T28
+*	Coreference T75 T29

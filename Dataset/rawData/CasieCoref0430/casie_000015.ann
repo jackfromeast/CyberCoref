@@ -1,0 +1,133 @@
+T10	Hacker-Group 1207 1216	Attackers
+T7	Device 1307 1314	servers
+T18	Organization 1288 1304	 an organization
+T9	Information 1324 1328	data
+T5	Hacker-Group 940 954	Cybercriminals
+T3	Information 969 977	W-2 data
+T17	Information 1044 1064	employee information
+T11	Hacker-Group 2727 2737	fraudsters
+T13	Information 2751 2759	tax info
+T14	System 2765 2783	employer databases
+T20	Information 2680 2689	data sets
+T15	Person 997 1012	 a company exec
+T2	Person 1026 1028	HR
+T16	Person 1032 1039	payroll
+T21	Time 0 10	Every year
+T22	Hacker-Group 12 26	cybercriminals
+T23	Person 62 73	individuals
+T24	Time 79 88	this year
+T25	Time 38 48	tax season
+T26	Campaign 216 233	tax-related scams
+T27	Campaign 248 257	W-2 fraud
+T28	Person 259 270	Researchers
+T29	Organization 274 285	IBM X-Force
+T30	Organization 286 330	 the tech giant's security research division
+T31	Campaign 377 392	tax-themed spam
+T32	Time 401 414	December 2016
+T33	Time 419 429	March 2017
+T34	Campaign 456 464	activity
+T35	Campaign 468 486	consumer tax fraud
+T36	Person 516 518	we
+T37	Person 585 597	Limor Kessem
+T38	Person 599 642	executive security advisor for IBM Security
+T39	Person 657 660	she
+T40	Campaign 667 690	tax fraud on businesses
+T41	Hacker-Group 716 734	advanced attackers
+T42	Time 736 745	This year
+T43	Organization 747 751	they
+T44	Campaign 766 792	social engineering attacks
+T45	Organization 796 817	smaller organizations
+T46	Organization 823 830	schools
+T47	Organization 832 843	non-profits
+T48	Organization 849 860	restaurants
+T49	Hacker-Group 864 874	fraudsters
+T50	Purpose 884 915	aim for the "low-hanging fruit"
+T1	Attack-Pattern 981 1012	pretending to be a company exec
+T4	Attack-Pattern 1017 1064	emailing HR or payroll for employee information
+T51	Purpose 1111 1126	collect refunds
+T52	Purpose 1083 1106	file fraudulent returns
+T53	Hacker-Group 1141 1145	they
+T54	Attack-Pattern 1155 1205	request a wire transfer to a specific bank account
+T55	Attack-Pattern 1255 1277	bypass the fake emails
+T56	Email 1261 1277	 the fake emails
+T6	Attack-Pattern 1282 1337	breach an organization's servers to steal data directly
+T8	Purpose 1318 1328	steal data
+T57	Person 1344 1350	Kessem
+T58	Attack-Pattern 1367 1381	using W-2 data
+T59	Information 1373 1381	W-2 data
+T60	Campaign 1396 1401	scams
+T61	Hacker-Group 1403 1413	fraudsters
+T62	Purpose 1419 1442	sell it on the dark web
+T63	Domain 1430 1442	the dark web
+T64	Information 1492 1503	information
+T65	Information 1516 1521	Fullz
+T66	Person 1534 1545	 the victim
+T67	Information 1548 1555	address
+T68	Information 1557 1569	contact info
+T69	Information 1571 1615	Social Security and driver's license numbers
+T70	Information 1626 1649	W-2 and W-9 information
+T71	Money 1672 1679	$40-$50
+T72	Attack-Pattern 1680 1690	in Bitcoin
+T73	Domain 1693 1706	 the Dark Web
+T74	Information 1656 1662	record
+T75	Information 1716 1726	 this data
+T76	Money 1731 1734	$50
+T77	Information 1739 1745	record
+T78	Campaign 1747 1763	harmful activity
+T79	Campaign 1788 1797	tax fraud
+T80	Person 1799 1805	Kessem
+T81	Hacker-Group 1813 1827	Cybercriminals
+T82	Attack-Pattern 1832 1853	buy and use this data
+T83	Information 1843 1853	 this data
+T84	Campaign 1864 1869	scams
+T85	Campaign 1875 1889	identity theft
+T86	Software 1893 1917	online loan applications
+T87	Time 1948 1968	 the filing deadline
+T88	Person 1994 2003	Americans
+T89	Person 2016 2022	people
+T90	Time 2042 2063	after April 1 in 2016
+T92	Hacker-Group 2072 2082	fraudsters
+T93	Campaign 2125 2147	Tax-related cybercrime
+T94	Time 2165 2179	April 18, 2017
+T91	Time 2223 2236	 the deadline
+T95	Person 2204 2210	people
+T96	Person 2244 2250	Kessem
+T97	Email 2340 2357	tax-themed emails
+T98	Attack-Pattern 2368 2405	 their tax scam strategies will shift
+T99	Time 2411 2424	 the deadline
+T100	Hacker-Group 2428 2442	cybercriminals
+T101	Purpose 2453 2466	stealing data
+T102	Purpose 2470 2501	infecting machines with malware
+T103	Malware 2494 2501	malware
+T104	Person 2511 2518	victims
+T105	Person 2579 2583	they
+T106	File 2608 2641	potentially malicious attachments
+T107	Person 2643 2649	Kessem
+T108	Person 2660 2671	Researchers
+T19	Domain 2698 2710	the Dark Web
+T12	Hacker-Group 2795 2799	they
+T109	Attack-Pattern 2742 2783	stealing tax info from employer databases
+T110	Information 2804 2806	it
+T111	Person 2813 2827	 the taxpayers
+T114	Information 1424 1426	it
+T113	Number 353 365	1400% growth
+T112	Number 2005 2015	54 million
+*	Coreference T13 T68 T110
+*	Coreference T24 T42
+*	Coreference T28 T108
+*	Coreference T34 T78
+*	Coreference T56 T97
+*	Coreference T8 T101
+*	Coreference T60 T35 T27 T93 T31 T26 T40
+*	Coreference T64 T17 T65
+*	Coreference T73 T19 T63
+*	Coreference T74 T77
+*	Coreference T75 T9 T3 T20 T59 T83 T114
+*	Coreference T89 T95
+*	Coreference T90 T94
+*	Coreference T87 T99 T91
+*	Coreference T111 T36 T39 T37 T96 T80 T57 T107 T38 T43
+*	Coreference T105 T66 T104
+*	Coreference T30 T29
+*	Coreference T18 T45
+*	Coreference T61 T10 T22 T5 T100 T81 T49 T53 T92 T11 T12

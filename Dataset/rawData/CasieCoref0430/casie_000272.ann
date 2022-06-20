@@ -1,0 +1,152 @@
+T56	Hacker-Group 1204 1206	he
+T13	Campaign 1292 1300	the hack
+T60	Information 1255 1270	the stolen data
+T54	Hacker-Group 1159 1161	he
+T15	Information 1169 1194	the Verizon email account
+T26	Information 2242 2256	home addresses
+T27	Information 2258 2264	emails
+T28	Information 2270 2283	phone numbers
+T29	Person 2289 2294	users
+T34	Attack-Pattern 2432 2467	used the access over these accounts
+T37	System 2643 2674	the sales distribution channels
+T59	Information 2619 2632	their details
+T40	Person 2596 2609	all customers
+T38	Information 2679 2712	email marketing software accounts
+T18	Organization 1304 1311	KeepKey
+T22	Money 1335 1345	30 Bitcoin
+T23	Money 1348 1355	$30,000
+T6	Hacker-Group 1331 1334	him
+T24	Hacker-Group 1429 1441	the attacker
+T57	Money 1651 1666	 the 30 Bitcoin
+T63	Organization 1585 1596	the company
+T49	Domain 3163 3177	Ethereum forum
+T47	Information 3178 3193	database backup
+T48	Time 3204 3214	April 2016
+T45	Attack-Pattern 3088 3128	reset the passwords for various accounts
+T41	Attack-Pattern 3006 3031	took over a mobile number
+T3	Time 2973 2988	Two weeks later
+T4	Organization 3042 3063	 the Ethereum Project
+T5	Person 3066 3072	admins
+T9	Person 13 30	Darin Stanchfield
+T11	Time 82 95	Christmas Day
+T12	Time 97 108	December 25
+T14	Hacker-Group 114 134	 an unknown attacker
+T42	Information 148 167	 a new phone number
+T51	Attack-Pattern 139 202	activated a new phone number with Stanchfield's Verizon account
+T52	Attack-Pattern 204 208	This
+T69	Time 365 384	A few minutes later
+T72	Information 428 441	email account
+T73	Attack-Pattern 403 441	taken over Stanchfield's email account
+T74	Attack-Pattern 446 482	proceeded to request password resets
+T76	Software 495 503	services
+T80	Information 570 578	profiles
+T81	Time 580 590	In no time
+T83	Domain 657 668	other sites
+T84	Person 631 644	Stanchfield's
+T85	Information 645 653	accounts
+T86	Attack-Pattern 609 668	taken over several of Stanchfield's accounts on other sites
+T90	Information 697 712	Twitter account
+T88	Organization 729 738	KeepKey's
+T91	Software 739 752	side services
+T93	Software 807 831	email marketing software
+T92	Information 762 802	accounts for sales distribution channels
+T94	Time 836 853	less than an hour
+T98	Person 949 959	 his staff
+T99	Information 980 1001	the hijacked accounts
+T100	Organization 1056 1063	KeepKey
+T101	Software 1050 1072	other KeepKey services
+T97	Person 880 895	the KeepKey CEO
+T102	Information 1141 1148	details
+T1	Purpose 1162 1194	hacked the Verizon email account
+T19	Purpose 1207 1212	stole
+T17	Time 1446 1460	two more hours
+T103	Information 1504 1523	all but one account
+T104	Organization 1524 1538	 the company's
+T105	Information 1539 1554	Twitter profile
+T106	Course-of-Action 1423 1554	stall the attacker for two more hours, during which time they regained access to all but one account, the company's Twitter profile
+T109	Organization 1623 1631	 the FBI
+T2	Hacker-Group 1713 1725	the attacker
+T61	Organization 1736 1743	KeepKey
+T114	Organization 1865 1872	KeepKey
+T115	Money 1884 1896	 the Bitcoin
+T116	Device 1922 1938	hardware devices
+T117	Person 1950 1955	users
+T120	Device 2054 2070	USB storage unit
+T121	Device 2102 2104	it
+T126	Device 2312 2327	KeepKey devices
+T127	Time 2328 2339	in the past
+T125	Attack-Pattern 2225 2283	managed to steal home addresses, emails, and phone numbers
+T32	Purpose 2471 2502	steal any KeepKey customer data
+T131	Time 2569 2578	 a 30-day
+T36	Time 2774 2782	December
+T133	Person 2828 2835	Bo Shen
+T134	Person 2837 2848	the founder
+T137	Attack-Pattern 2907 2971	stolen at least $300,000 worth of Augur and Ether cryptocurrency
+T138	Money 2923 2931	$300,000
+T139	Information 3015 3031	 a mobile number
+T140	Information 3082 3084	it
+T141	Information 3112 3128	various accounts
+T46	Attack-Pattern 3141 3193	downloading a copy of Ethereum forum database backup
+T142	Campaign 3269 3290	the first two attacks
+T143	Vulnerability 3296 3315	the security breach
+T144	Organization 3319 3326	KeepKey
+T87	Organization 678 685	KeepKey
+T58	Hacker-Group 1073 1086	 The attacker
+T145	Hacker-Group 1022 1035	 the intruder
+T146	Hacker-Group 1213 1226	 The attacker
+T16	Money 1375 1386	 the ransom
+T108	Campaign 1574 1583	 the hack
+T107	Time 1561 1571	 the night
+T119	Device 2021 2032	 The device
+T20	Campaign 859 870	 the attack
+T82	Hacker-Group 591 604	 the attacker
+T70	Hacker-Group 385 398	 the attacker
+T53	Hacker-Group 216 229	 the attacker
+T10	Campaign 56 67	 the attack
+T68	Information 300 327	 the password reset details
+T67	Information 341 364	activated phone number.
+T79	Email 544 557	email address
+T55	Person 1101 1119	 the KeepKey staff
+T95	Hacker-Group 1761 1774	 the attacker
+T110	Device 1851 1863	 its devices
+T113	Device 2149 2160	 the device
+T122	Campaign 2164 2194	 the Christmas security breach
+T30	Hacker-Group 2195 2208	 the attacker
+T25	Device 2363 2377	 those devices
+T35	Hacker-Group 2418 2431	 the attacker
+T123	Information 2452 2467	 these accounts
+T128	Organization 2545 2557	 the company
+T39	Hacker-Group 2717 2730	 the attacker
+T129	Hacker-Group 2784 2791	someone
+T130	Information 2806 2824	 the mobile number
+T66	Hacker-Group 2999 3005	hacker
+T150	Organization 1480 1484	they
+T43	Information 187 202	Verizon account
+T44	Person 173 184	Stanchfield
+T50	Attack-Pattern 233 257	request a password reset
+T62	Information 261 287	 his Verizon email account
+T64	Person 414 425	Stanchfield
+T7	Person 32 55	KeepKey founder and CEO
+T8	Person 509 529	 the KeepKey founder
+T21	Organization 1394 1411	 the KeepKey team
+T65	Money 1806 1829	 its customers' Bitcoin
+T71	Money 2005 2020	Bitcoin wallets
+T31	Information 2481 2502	KeepKey customer data
+T33	Organization 2852 2880	Bitcoin venture capital firm
+T75	Organization 2881 2897	Fenbushi Capital
+*	Coreference T13 T108
+*	Coreference T11 T12
+*	Coreference T143 T122
+*	Coreference T87 T61 T18 T114 T144 T88 T100 T63 T104 T128
+*	Coreference T119 T113 T121
+*	Coreference T44 T9 T64 T84 T7 T8 T97
+*	Coreference T52 T51
+*	Coreference T82 T70 T53 T58 T66 T6 T56 T146 T39 T30 T95 T35 T2 T24 T54
+*	Coreference T10 T20
+*	Coreference T62 T72 T43
+*	Coreference T22 T23 T16
+*	Coreference T21 T150
+*	Coreference T126 T25
+*	Coreference T134 T133
+*	Coreference T33 T75
+*	Coreference T139 T140

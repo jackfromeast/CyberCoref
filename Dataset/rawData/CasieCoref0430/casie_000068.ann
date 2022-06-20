@@ -1,0 +1,72 @@
+T6	Campaign 1185 1200	MongoDB attacks
+T13	Purpose 1213 1226	demand ransom
+T15	Attack-Pattern 1231 1243	erasing data
+T14	Hacker-Group 1205 1212	hackers
+T26	Person 1254 1261	victims
+T1	Campaign 59 77	ransomware attacks
+T3	Software 29 46	MongoDB databases
+T2	Hacker-Group 79 93	cybercriminals
+T4	Device 119 140	ElasticSearch servers
+T7	Hacker-Group 164 171	Hackers
+T8	Vulnerability 243 275	weak and easy-to-guess passwords
+T35	Campaign 470 482	 the attacks
+T11	System 544 565	ElasticSearch servers
+T12	Hacker-Group 483 502	 the cybercriminals
+T9	Campaign 1290 1311	ElasticSearch attacks
+T17	Purpose 1332 1347	demand a ransom
+T18	Money 1351 1363	0.2 Bitcoins
+T19	Hacker-Group 1312 1331	 the cybercriminals
+T22	Person 1486 1493	victims
+T24	Money 1440 1459	$20,000 in Bitcoins
+T16	Campaign 1496 1515	 the MongoDB attack
+T23	Person 1543 1555	 the victims
+T20	Time 5 15	days after
+T27	Number 16 25	thousands
+T10	Device 197 213	insecure servers
+T5	Software 277 290	ElasticSearch
+T28	Software 293 320	 a Java-based search engine
+T29	Organization 339 350	enterprises
+T30	Person 411 445	security researcher Niall Merrigan
+T31	Number 538 543	3,000
+T32	Person 567 575	Merrigan
+T33	Organization 581 591	IBTimes UK
+T34	Time 619 635	 the 12th of Jan
+T36	Campaign 602 616	 the first one
+T37	Organization 594 596	We
+T38	Hacker-Group 708 724	 The first actor
+T39	Hacker-Group 781 806	 a second and third actor
+T40	Device 855 862	servers
+T41	Hacker-Group 865 874	Attackers
+T42	Device 887 899	open servers
+T43	Vulnerability 915 932	no authentication
+T44	Attack-Pattern 961 992	 a number of services and tools
+T45	Person 1009 1022	system admins
+T46	Person 1027 1037	developers
+T47	System 1055 1085	 these unauthenticated systems
+T48	Hacker-Group 1109 1118	attackers
+T49	Time 1173 1184	 The recent
+T50	Time 1277 1289	 the ongoing
+T51	Person 1390 1406	BleepingComputer
+T52	Organization 1430 1438	Merrigan
+T21	Information 1573 1584	 their data
+T25	Campaign 1613 1620	 a scam
+T53	Person 1622 1637	 the researcher
+T55	Campaign 1608 1610	it
+T56	Hacker-Group 757 759	it
+T54	Course-of-Action 653 680	tracking the different IOCs
+T57	Attack-Pattern 676 680	IOCs
+T58	Attack-Pattern 682 706	Indicators Of Compromise
+T59	Money 1338 1347	 a ransom
+T60	Money 1531 1542	 the ransom
+*	Coreference T13 T17
+*	Coreference T12 T2 T19 T7
+*	Coreference T18 T24 T59 T60
+*	Coreference T22 T23 T26
+*	Coreference T32 T52 T37
+*	Coreference T10 T40 T42 T4 T11
+*	Coreference T28 T5
+*	Coreference T35 T1
+*	Coreference T58 T57
+*	Coreference T56 T38
+*	Coreference T43 T8
+*	Coreference T55 T25 T16

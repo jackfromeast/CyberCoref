@@ -1,0 +1,116 @@
+T20	Software 509 533	Thunderbird email client
+T22	Software 557 564	Firefox
+T23	Software 569 580	Firefox ESR
+T18	Vulnerability 462 489	reported memory safety bugs
+T16	Organization 443 450	Mozilla
+T15	Person 407 439	community members and developers
+T7	Vulnerability 124 147	a critical security bug
+T6	Vulnerability 89 110	These vulnerabilities
+T8	Software 182 189	Firefox
+T9	Software 194 214	Firefox ESR browsers
+T58	Organization 172 179	Mozilla
+T65	Attack-Pattern 772 790	run arbitrary code
+T67	Attack-Pattern 674 691	memory corruption
+T66	Vulnerability 650 654	bugs
+T3	Organization 0 7	Mozilla
+T2	Vulnerability 27 50	multiple security flaws
+T4	Software 58 69	Thunderbird
+T50	Version 70 74	60.3
+T10	Organization 235 242	Mozilla
+T12	Vulnerability 251 274	multiple security flaws
+T13	Software 300 311	Thunderbird
+T14	Vulnerability 327 351	a critical security flaw
+T51	Version 312 316	60.3
+T59	Time 224 233	Last week
+T25	Organization 792 799	Mozilla
+T26	Vulnerability 810 818	the bugs
+T27	Software 822 829	Firefox
+T28	Software 834 845	Firefox ESR
+T29	Software 856 867	Thunderbird
+T52	Version 830 832	63
+T53	Version 846 850	60.3
+T54	Version 868 872	60.3
+T32	Vulnerability 977 992	vulnerabilities
+T34	Software 1003 1014	Thunderbird
+T35	Organization 931 938	Mozilla
+T37	Organization 1956 1963	Mozilla
+T38	Vulnerability 1972 1996	multiple vulnerabilities
+T39	Software 2025 2036	Thunderbird
+T40	Software 2041 2048	Firefox
+T41	Time 2049 2059	last month
+T42	Organization 2076 2083	Mozilla
+T45	Vulnerability 2103 2140	critical code execution vulnerability
+T47	Software 2151 2162	Thunderbird
+T48	Software 2169 2176	Firefox
+T49	Software 2184 2195	Firefox ESR
+T55	Version 2196 2200	60.1
+T56	Version 2163 2167	60.2
+T57	Version 2177 2179	61
+T45	Vulnerability 2103 2140	critical code execution vulnerability
+T47	Software 2151 2162	Thunderbird
+T56	Version 2163 2167	60.2
+T48	Software 2169 2176	Firefox
+T57	Version 2177 2179	61
+T49	Software 2184 2195	Firefox ESR
+T55	Version 2196 2200	60.1
+T61	Vulnerability 1777 1782	flaws
+T63	System 1922 1929	browser
+T1	Course-of-Action 21 50	fixed multiple security flaws
+T68	Person 75 87	email client
+T5	Course-of-Action 243 274	patched multiple security flaws
+T11	File 369 396	Mozilla’s security advisory
+T17	Vulnerability 597 601	bugs
+T19	Vulnerability 603 617	CVE-2018-12390
+T21	Course-of-Action 804 818	fixed the bugs
+T24	Vulnerability 902 929	critical memory safety bugs
+T30	Course-of-Action 944 958	released fixes
+T31	Number 1030 1035	three
+T33	Vulnerability 1036 1051	vulnerabilities
+T69	Vulnerability 1103 1121	memory safety bugs
+T70	Vulnerability 1123 1137	CVE-2018-12389
+T71	Number 1144 1149	three
+T72	Vulnerability 1150 1169	high severity flaws
+T73	Vulnerability 1183 1197	CVE-2018-12391
+T74	Information 1199 1226	HTTP Live Stream audio data
+T75	Software 1261 1268	Firefox
+T76	Device 1273 1280	Android
+T77	Vulnerability 1417 1431	CVE-2018-12392
+T78	Vulnerability 1538 1552	CVE-2018-12393
+T79	Vulnerability 1292 1295	bug
+T80	Information 1318 1328	audio data
+T82	Software 1384 1399	Firefox browser
+T83	Device 1404 1411	Android
+T36	Software 1351 1376	HTTP live stream playback
+T60	Hacker-Group 1467 1475	attacker
+T81	Campaign 1493 1510	exploitable crash
+T84	Attack-Pattern 1514 1532	exploiting the bug
+T85	Vulnerability 1529 1532	bug
+T43	Course-of-Action 2084 2098	released a fix
+T44	Version 2004 2024	previous versions of
+T46	Course-of-Action 1964 1996	patched multiple vulnerabilities
+T86	Vulnerability 1628 1661	out-of-bounds write vulnerability
+T87	Campaign 1730 1737	exploit
+T88	Organization 1739 1746	Mozilla
+T89	Email 1811 1816	email
+T90	Software 1824 1843	Thunderbird product
+T62	File 1887 1891	mail
+T91	Vulnerability 1913 1918	risks
+T92	Person 696 698	we
+*	Coreference T10 T37 T25 T16 T3 T58 T42
+*	Coreference T34 T4 T29 T20 T47 T13 T90 T39
+*	Coreference T31 T71
+*	Coreference T75 T40 T82 T48
+*	Coreference T76 T83
+*	Coreference T6 T2 T12
+*	Coreference T8 T22 T27
+*	Coreference T23 T9 T28 T49
+*	Coreference T7 T14
+*	Coreference T33 T72
+*	Coreference T69 T70
+*	Coreference T79 T73
+*	Coreference T80 T74
+*	Coreference T77 T85
+*	Coreference T53 T54 T51 T50
+*	Coreference T86 T78
+*	Coreference T17 T19 T66
+*	Coreference T91 T61

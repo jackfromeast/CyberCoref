@@ -1,0 +1,83 @@
+T5	Device 91 104	Pixel devices
+T4	Device 67 86	the supported Nexus
+T1	Organization 0 6	Google
+T6	Course-of-Action 120 143	Android security update
+T14	Time 337 347	last month
+T13	Version 310 336	its latest Android version
+T11	Organization 281 297	the search giant
+T9	Course-of-Action 219 235	the first update
+T10	Device 244 251	devices
+T48	Version 268 275	9.0 Pie
+T49	System 260 267	Android
+T16	Vulnerability 362 377	vulnerabilities
+T17	Organization 349 351	It
+T18	Vulnerability 497 516	the security issues
+T21	Organization 418 424	Google
+T25	Device 742 760	Essential Products
+T26	Device 829 848	the Essential Phone
+T28	Vulnerability 991 1000	24 issues
+T29	Course-of-Action 935 957	Android security patch
+T30	Time 970 980	2018-09-01
+T31	Organization 871 877	Google
+T35	Vulnerability 1056 1065	35 issues
+T33	Time 1039 1049	2018-09-05
+T32	Course-of-Action 1008 1026	the security patch
+T38	Vulnerability 1084 1099	vulnerabilities
+T44	Software 1365 1372	library
+T43	Software 1350 1359	framework
+T42	Software 1329 1348	the Android runtime
+T40	Vulnerability 1315 1321	issues
+T41	Course-of-Action 1306 1308	it
+T47	Device 1724 1741	all Pixel devices
+T18	Vulnerability 497 516	the security issues
+T51	Time 24 38	September 2018
+T2	Course-of-Action 11 62	released the September 2018 Android security update
+T3	Time 110 119	September
+T7	Course-of-Action 144 170	fixes as many as 59 issues
+T8	Vulnerability 164 170	issues
+T52	Number 161 163	59
+T12	Course-of-Action 179 205	two different patch levels
+T15	Course-of-Action 352 377	addresses vulnerabilities
+T53	Person 473 478	users
+T19	Course-of-Action 522 560	have been fixed through the new update
+T20	Device 585 592	devices
+T22	Time 601 610	September
+T54	Course-of-Action 611 634	Android security update
+T55	Device 644 660	Pixel 2 ₹ 38,499
+T56	Device 662 681	Pixel 2 XL ₹ 36,950
+T57	Device 683 688	Pixel
+T58	Device 690 707	Pixel XL ₹ 66,991
+T59	Device 709 716	Pixel C
+T60	Device 718 726	Nexus 5X
+T61	Device 732 740	Nexus 6P
+T24	Course-of-Action 781 848	released the newest Android security update for the Essential Phone
+T23	Course-of-Action 864 869	fixes
+T62	File 885 915	latest security bulletin notes
+T63	Time 925 934	September
+T27	Course-of-Action 981 1000	addresses 24 issues
+T64	Vulnerability 1166 1211	security issue related to the media framework
+T65	Software 1196 1211	media framework
+T66	Hacker-Group 1229 1244	remote attacker
+T50	Attack-Pattern 1245 1298	execute arbitrary code using a specially crafted file
+T67	File 1294 1298	file
+T39	Course-of-Action 1309 1321	fixes issues
+T68	Organization 1374 1380	Google
+T69	File 1411 1418	reports
+T70	Device 1527 1541	Google devices
+T71	Vulnerability 1485 1491	issues
+T72	Campaign 1433 1454	customer exploitation
+T73	Time 1547 1556	September
+T74	Course-of-Action 1557 1580	Android security update
+T75	Number 1590 1592	15
+T76	Course-of-Action 1593 1607	security fixes
+T77	Number 1612 1617	three
+T78	Course-of-Action 1618 1636	functional updates
+T45	Course-of-Action 1638 1674	The update improves software version
+T46	Version 1658 1674	software version
+T79	Device 1708 1720	car speakers
+*	Coreference T22 T3 T73 T51 T63
+*	Coreference T17 T1 T21 T31
+*	Coreference T2 T6 T54
+T34	Course-of-Action 1050 1055	fixes
+T36	Course-of-Action 1071 1077	update
+*	Coreference T41 T36

@@ -1,0 +1,156 @@
+T32	Location 1443 1451	New York
+T31	Organization 1409 1439	the Erie County Medical Center
+T38	Malware 1468 1474	SamSam
+T69	Time 1396 1407	Last spring
+T34	Campaign 1605 1608	pay
+T35	Money 1623 1630	$44,000
+T33	Organization 1577 1589	the hospital
+T36	Campaign 1631 1637	ransom
+T41	Money 1837 1846	4 bitcoin
+T42	Money 1857 1864	$55,000
+T44	Malware 1747 1769	the new SamSam variant
+T46	Time 1738 1745	January
+T43	Campaign 1869 1875	ransom
+T47	Hacker-Group 1877 1886	Attackers
+T48	Attack-Pattern 1887 1941	gained entry by using a vendor’s username and password
+T49	Time 1947 1961	Thursday night
+T59	Hacker-Group 2943 2953	the hacker
+T61	Hacker-Group 3038 3053	a cybercriminal
+T6	Person 265 268	You
+T5	Person 279 281	us
+T3	Money 282 293	0.7 BitCoin
+T7	Device 312 314	PC
+T8	Money 318 328	3 BitCoins
+T9	Device 374 378	PC’s
+T65	Time 8 18	Last month
+T66	Person 20 29	employees
+T67	Organization 37 74	Colorado Department of Transportation
+T2	Organization 381 385	CDOT
+T54	Person 2155 2159	They
+T56	Campaign 2219 2229	the attack
+T28	Time 1194 1215	from 2016 to mid 2017
+T24	Organization 1217 1224	victims
+T26	Money 1230 1241	$25 million
+T27	Campaign 1245 1251	ransom
+T29	Organization 1275 1301	one out of five businesses
+T18	Person 745 752	victims
+T15	Attack-Pattern 609 649	use ransomware to encrypt computer files
+T16	Hacker-Group 601 608	Hackers
+T13	Campaign 568 576	payments
+T10	Malware 436 446	ransomware
+T11	Location 508 516	the U.S.
+T12	Location 521 536	internationally
+T14	Money 589 599	$1 billion
+T22	Campaign 900 908	payments
+T23	Money 925 935	$1 billion
+T21	Time 886 895	every day
+T20	Device 859 868	computers
+T70	Email 93 100	message
+T71	Device 110 126	computer screens
+T72	File 154 159	files
+T73	Hash 179 198	RSA-2048 encryption
+T4	Information 340 356	ALL Private Keys
+T1	Organization 404 410	others
+T74	Hacker-Group 474 504	lucrative criminal enterprises
+T75	Organization 547 550	FBI
+T76	Malware 613 623	ransomware
+T77	File 644 649	files
+T78	File 658 662	them
+T79	Information 684 694	secret key
+T17	Money 712 728	digital currency
+T80	Money 734 741	bitcoin
+T81	File 762 767	files
+T82	Person 784 791	victims
+T19	Malware 822 832	Ransomware
+T83	Number 841 858	more than 100,000
+T84	Location 942 945	U.S
+T86	Time 989 1012	during the October 2017
+T87	Organization 1013 1035	Cambridge Cyber Summit
+T88	Organization 1044 1047	FBI
+T89	File 1062 1092	study by researchers at Google
+T90	Person 1071 1092	researchers at Google
+T91	File 1094 1105	Chainalysis
+T92	Organization 1107 1141	University of California San Diego
+T93	Organization 1146 1178	NYU Tandon School of Engineering
+T25	File 1259 1264	files
+T30	File 236 241	files
+T94	Information 250 261	private key
+T95	Information 1341 1345	data
+T96	File 1365 1394	2016 report by Kaspersky Labs
+T37	Device 1484 1508	misconfigured web server
+T99	Organization 1523 1539	The Buffalo News
+T100	Time 1647 1656	six weeks
+T101	Money 1708 1719	$10 million
+T40	Information 1920 1928	username
+T45	Information 1933 1941	password
+T102	Organization 1967 1975	hospital
+T103	Time 1995 2009	Monday morning
+T104	Person 2011 2038	Colorado security officials
+T50	Time 2137 2153	more than a week
+T51	Number 2100 2105	2,000
+T52	Device 2106 2124	employee computers
+T68	Organization 2067 2071	CDOT
+T105	Campaign 2072 2089	ransomware attack
+T106	Attack-Pattern 2095 2132	took 2,000 employee computers offline
+T64	Person 3527 3551	computer security expert
+T107	Person 3499 3500	I
+T108	Information 3493 3497	data
+T53	Information 2201 2229	few details about the attack
+T63	Malware 2261 2293	variant of the SamSam ransomware
+T55	Person 2295 2315	Security researchers
+T109	Organization 2321 2334	Cisco’s Talos
+T110	Email 2353 2367	SamSam message
+T111	Organization 2373 2388	The Denver Post
+T112	Time 2402 2409	January
+T113	Malware 2423 2437	SamSam variant
+T114	Money 2459 2471	30.4 bitcoin
+T115	Money 2482 2490	$325,217
+T116	Person 2512 2518	people
+T117	Course-of-Action 2574 2591	patching software
+T118	Course-of-Action 2593 2620	using anti-malware software
+T119	Information 2638 2647	passwords
+T120	Information 2652 2660	accounts
+T121	File 2678 2683	files
+T122	Email 2685 2691	emails
+T123	URL 2695 2700	links
+T124	Information 2706 2724	unfamiliar sources
+T125	Information 2741 2757	familiar sources
+T126	Organization 2849 2855	Dufour
+T127	Organization 2759 2766	Webroot
+T57	Organization 2887 2910	Cybersecurity companies
+T128	Organization 2916 2923	Webroot
+T129	File 2985 2990	files
+T58	Hacker-Group 3129 3138	criminals
+T60	Information 2544 2561	computer security
+T130	File 3158 3171	family photos
+T131	Information 3175 3188	business data
+T132	Information 3250 3254	data
+T133	Person 3236 3239	you
+T62	Organization 3306 3312	Dufour
+T134	Malware 3372 3393	strains of ransomware
+T135	Vulnerability 3404 3432	coding and encryption errors
+T39	Organization 1783 1799	Indiana hospital
+T85	Person 947 970	Deputy Attorney General
+T137	Person 971 976	Rod J
+T142	Malware 2252 2254	it
+T144	Organization 1549 1551	it
+T146	Organization 1639 1641	It
+*	Coreference T46 T112
+*	Coreference T75 T88
+*	Coreference T126 T62 T107
+*	Coreference T127 T128
+*	Coreference T2 T67 T68
+*	Coreference T30 T72
+*	Coreference T10 T76 T19
+*	Coreference T85 T137
+*	Coreference T77 T78 T81
+*	Coreference T11 T84
+T136	Organization 1800 1814	Hancock Health
+*	Coreference T39 T136 T102
+*	Coreference T33 T144 T31 T146
+*	Coreference T41 T42
+*	Coreference T54 T104
+*	Coreference T142 T63 T113 T44
+*	Coreference T56 T105
+*	Coreference T114 T115
+T139	Money 3272 3278	ransom

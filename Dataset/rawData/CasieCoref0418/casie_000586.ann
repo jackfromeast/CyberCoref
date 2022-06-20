@@ -1,0 +1,77 @@
+T44	Vulnerability 1537 1550	CVE-2018-7431
+T45	Vulnerability 1572 1577	issue
+T46	Attack-Pattern 1583 1643	allows an authenticated attacker to download arbitrary files
+T48	Vulnerability 1676 1689	vulnerability
+T52	Vulnerability 1780 1795	vulnerabilities
+T51	Organization 1728 1734	vendor
+T38	Vulnerability 1377 1390	CVE-2018-7429
+T39	Attack-Pattern 1434 1485	sending a specially crafted HTTP request to Splunkd
+T26	Vulnerability 1058 1066	DoS flaw
+T29	Vulnerability 1078 1091	CVE-2018-7432
+T27	Vulnerability 1032 1052	severe vulnerability
+T30	Attack-Pattern 1116 1161	using malicious HTTP requests sent to Splunkd
+T20	Vulnerability 972 985	CVE-2018-7427
+T33	Organization 1289 1296	company
+T31	Vulnerability 1243 1248	issue
+T2	Organization 0 6	Splunk
+T3	Vulnerability 34 49	vulnerabilities
+T5	Organization 462 468	Splunk
+T6	Vulnerability 454 460	issues
+T24	Organization 837 843	Splunk
+T13	Course-of-Action 738 743	fixes
+T15	Vulnerability 753 768	vulnerabilities
+T16	Course-of-Action 793 802	bug fixes
+T25	Course-of-Action 709 724	future releases
+T11	Software 636 653	Splunk Enterprise
+T12	Software 658 670	Splunk Light
+T18	Organization 876 887	the company
+T14	Vulnerability 854 866	severe issue
+T19	Vulnerability 907 938	cross-site scripting (XSS) flaw
+T20	Vulnerability 972 985	CVE-2018-7427
+T22	System 942 959	the Web interface
+T35	Organization 1302 1309	company
+T38	Vulnerability 1377 1390	CVE-2018-7429
+T36	Vulnerability 1327 1364	denial-of-service (DoS) vulnerability
+T46	Attack-Pattern 1583 1643	allows an authenticated attacker to download arbitrary files
+T40	Vulnerability 1496 1500	flaw
+T42	Organization 1518 1524	vendor
+T44	Vulnerability 1537 1550	CVE-2018-7431
+T45	Vulnerability 1572 1577	issue
+T52	Vulnerability 1780 1795	vulnerabilities
+T57	Course-of-Action 16 49	addressed several vulnerabilities
+T1	Software 53 63	Enterprise
+T4	Software 68 82	Light products
+T53	Campaign 270 289	business operations
+T49	Campaign 1819 1826	attacks
+T41	Course-of-Action 1496 1510	flaw addressed
+T43	Hacker-Group 1593 1615	authenticated attacker
+T50	File 1628 1643	arbitrary files
+T56	Software 1653 1670	vendor Django app
+T59	Organization 130 147	Splunk Enterprise
+T60	Organization 164 177	organizations
+T61	Information 223 227	data
+T62	Information 233 248	various sources
+T63	Device 404 410	server
+T64	System 415 422	network
+T65	Course-of-Action 367 433	automates log analysis and integrate server and network monitoring
+T7	Course-of-Action 480 511	upgrading to the latest release
+T9	File 569 598	Securing Splunk documentation
+T34	Packet 1462 1474	HTTP request
+T47	Hacker-Group 1422 1430	attacker
+T37	Course-of-Action 1315 1364	addressed a denial-of-service (DoS) vulnerability
+T28	Packet 1132 1145	HTTP requests
+T21	Number 1005 1022	CVSS score of 8.1
+T10	Software 295 307	Splunk Light
+*	Coreference T39 T30
+*	Coreference T5 T24 T2
+*	Coreference T13 T16
+*	Coreference T1 T11 T59
+*	Coreference T12 T10
+*	Coreference T35 T33 T18
+T17	Vulnerability 92 96	them
+*	Coreference T17 T3
+*	Coreference T14 T19 T20
+*	Coreference T27 T26 T29 T31
+*	Coreference T36 T38
+*	Coreference T40 T44 T45 T48
+*	Coreference T51 T42

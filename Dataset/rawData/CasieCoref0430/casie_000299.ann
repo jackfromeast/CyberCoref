@@ -1,0 +1,35 @@
+T1	Campaign 553 568	breach incident
+T5	Time 500 524	the last couple of years
+T6	Organization 444 458	Trump’s hotels
+T7	Information 538 552	 a credit card
+T2	Information 575 609	personal and financial information
+T3	Person 613 619	guests
+T8	Device 4 19	targeted server
+T9	Domain 20 44	secure2.donaldjtrump.com
+T11	Organization 77 89	Ars Technica
+T12	Device 118 129	 the server
+T14	Hacker-Group 187 197	 a defacer
+T15	Location 203 207	Iraq
+T17	Location 259 263	Iraq
+T18	Organization 285 294	countries
+T19	Person 301 309	citizens
+T20	Organization 350 367	the United States
+T21	Person 330 335	Trump
+T23	Person 403 424	Rudy 'Cyber' Giuliani
+T24	Person 442 443	?
+T4	Attack-Pattern 575 631	personal and financial information of guests were stolen
+T25	Person 664 676	 the readers
+T26	Person 683 688	Trump
+T27	Device 711 724	Android phone
+T28	Organization 728 733	Tweet
+T29	Information 738 759	 his official account
+T30	Device 839 852	 an old phone
+T31	System 859 866	Android
+T32	System 876 934	 the most vulnerable and targeted mobile operating systems
+T33	Person 770 786	 the congressmen
+T34	Campaign 808 825	 an investigation
+T10	Time 57 71	Sunday evening
+T35	Attack-Pattern 134 207	displaying a deface page along with a message left by a defacer from Iraq
+T36	Person 430 433	you
+*	Coreference T15 T17
+*	Coreference T21 T26

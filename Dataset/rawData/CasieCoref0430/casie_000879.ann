@@ -1,0 +1,73 @@
+T13	Campaign 1250 1258	suspects
+T7	Organization 1243 1249	Arctos
+T8	Campaign 1294 1303	exploited
+T9	Vulnerability 1304 1319	vulnerabilities
+T10	System 1323 1347	an old Apache web-server
+T11	Software 1351 1383	any additional services/plug-ins
+T12	System 1395 1405	the server
+T6	Campaign 1195 1219	spear-phishing campaigns
+T3	Campaign 928 942	usually demand
+T4	Money 943 949	$1,000
+T2	Attack-Pattern 904 927	using Cerber ransomware
+T1	Hacker-Group 896 903	hackers
+T14	Domain 804 808	them
+T15	Person 1061 1063	he
+T16	Person 1418 1420	He
+T5	Domain 4 8	site
+T18	URL 21 38	 a malicious link
+T19	Device 51 65	 the computers
+T20	Organization 86 92	Arctos
+T21	Person 103 114	Palani Bala
+T22	Person 116 127	Arctos' CTO
+T23	Domain 142 154	HPCL's  site
+T24	Campaign 186 193	attacks
+T25	Person 242 247	users
+T26	Malware 251 266	Nemucod malware
+T27	Malware 292 309	Cerber ransomware
+T28	Device 314 329	 their machines
+T29	Campaign 196 226	 the pseudo-Darkleech campaign
+T30	Campaign 331 340	Darkleech
+T31	Campaign 343 367	 a long-running campaign
+T32	Malware 402 409	malware
+T33	Vulnerability 378 390	exploit kits
+T34	Vulnerability 455 467	exploit kits
+T35	Malware 558 575	Cerber ransomware
+T36	File 534 554	 the executable file
+T37	Person 610 614	Bala
+T38	Software 489 516	 a behavior analysis engine
+T39	Software 650 670	Arctos Ateles engine
+T40	Person 707 711	Bala
+T41	Hacker-Group 718 732	 the attackers
+T42	Domain 777 782	sites
+T43	Malware 852 859	malware
+T44	Device 873 882	computers
+T45	Person 884 891	Experts
+T46	Malware 910 927	Cerber ransomware
+T47	Person 966 980	infected users
+T48	Organization 680 686	Arctos
+T49	Malware 982 999	Cerber ransomware
+T50	Domain 1050 1059	 the site
+T51	Money 1141 1150	 a ransom
+T52	Malware 1101 1107	Cerber
+T53	Malware 1159 1174	 The ransomware
+T54	Person 1221 1237	security experts
+T55	Hacker-Group 1258 1277	 the HPCL attackers
+T56	Person 1407 1411	Bala
+T57	Organization 1606 1613	CERT-In
+T58	Organization 1639 1643	HPCL
+T59	Organization 1437 1441	HPCL
+T17	Device 1444 1453	webserver
+*	Coreference T22 T21 T37 T40
+*	Coreference T5 T23 T50
+*	Coreference T19 T28 T44
+*	Coreference T31 T30
+*	Coreference T36 T35 T32 T27 T43 T46 T49 T52 T53
+*	Coreference T33 T34 T9
+*	Coreference T38 T39
+*	Coreference T14 T42
+*	Coreference T41 T1 T55
+*	Coreference T47 T25
+*	Coreference T20 T48 T7
+*	Coreference T45 T15 T54
+*	Coreference T16 T56
+*	Coreference T59 T58

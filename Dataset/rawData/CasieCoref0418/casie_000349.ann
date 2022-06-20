@@ -1,0 +1,85 @@
+T2	Information 39 55	Aadhaar ID cards
+T5	Domain 78 96	government portals
+T29	Person 30 37	Indians
+T11	Information 252 267	Aadhaar numbers
+T9	Domain 294 301	portals
+T13	Information 1248 1283	personally identifiable information
+T14	Software 1316 1336	the leaked databases
+T31	Information 1371 1384	bank accounts
+T18	Information 1476 1495	the Aadhaar numbers
+T20	Information 2053 2068	Aadhaar numbers
+T22	Information 2140 2179	the personally identifiable information
+T28	Purpose 2188 2203	being published
+T24	Vulnerability 2594 2599	holes
+T23	Campaign 2247 2252	steal
+T21	Hacker-Group 2233 2243	fraudsters
+T27	Information 2263 2271	identity
+T30	Person 2253 2260	someone
+T1	Organization 129 166	Centre for Internet and Society (CIS)
+T4	Number 15 29	more than 100m
+T3	Information 4 11	details
+T6	Number 181 188	numbers
+T8	Number 73 77	four
+T10	Domain 206 214	websites
+T16	Number 226 251	[the] estimated number of
+T7	Number 289 293	four
+T32	Number 318 333	130-135 million
+T33	Information 366 381	Aadhaar numbers
+T34	Information 457 474	biometric ID card
+T35	Organization 482 516	fundamental part of Indian society
+T36	Organization 582 592	government
+T37	Person 518 524	anyone
+T38	Attack-Pattern 534 632	not signed up faces being denied access to many government and private-sector services and schemes
+T39	Organization 641 651	government
+T40	Information 685 689	card
+T41	Number 745 760	vast amounts of
+T42	Information 761 774	personal data
+T43	Hacker-Group 824 839	cyber-criminals
+T44	Purpose 814 820	misuse
+T46	Campaign 863 875	disclosures 
+T45	File 909 968	Information Security Practices of Aadhaar (or lack thereof)
+T47	File 972 985	Documentation
+T48	Number 1012 1027	Aadhaar Numbers
+T49	Information 1033 1073	Sensitive Personal Financial Information
+T50	Number 1097 1101	four
+T51	Location 1105 1110	India
+T52	Domain 1122 1140	government portals
+T53	Information 1164 1174	ID numbers
+T12	Campaign 1233 1238	leaks
+T54	Person 1287 1300	beneficiaries
+T55	Person 1304 1312	subjects
+T56	Number 1347 1370	the estimated number of
+T15	Number 1402 1406	100m
+T57	Organization 1413 1461	Unique Identification Authority of India (UIDAI)
+T17	Campaign 1528 1533	leaks
+T58	Organization 1548 1566	The Times of India
+T59	Person 1594 1602	official
+T60	Information 1640 1661	While Aadhaar numbers
+T61	Information 1681 1702	biometric information
+T62	Software 1716 1732	leaked databases
+T63	Campaign 1752 1758	threat
+T64	Information 1773 1787	Aadhaar number
+T65	Person 1851 1859	official
+T66	Information 1880 1894	Aadhaar number
+T67	Information 1923 1942	bank account number
+T68	Number 1994 2000	lot of
+T19	Information 2346 2367	stolen Aadhaar number
+T69	Campaign 2307 2312	fraud
+T70	Time 2374 2378	time
+T71	System 2420 2429	ID system
+T72	Campaign 2498 2504	cracks
+T73	Hacker-Group 2526 2536	fraudsters
+T26	Organization 2564 2574	government
+T25	Course-of-Action 2585 2599	plug any holes
+T74	Person 2601 2603	We
+T76	Person 2273 2274	I
+T75	Course-of-Action 2620 2655	keeping a close eye on developments
+T78	Information 2214 2218	them
+T82	Domain 1209 1211	it
+*	Coreference T5 T52 T9 T10 T82
+*	Coreference T14 T62
+*	Coreference T22 T49 T13 T78
+*	Coreference T12 T17
+*	Coreference T53 T18 T66 T48 T60 T20 T11 T64 T33 T19
+*	Coreference T32 T16
+*	Coreference T45 T47

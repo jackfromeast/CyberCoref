@@ -1,0 +1,75 @@
+T1	Campaign 1031 1042	might steal
+T6	Information 1043 1055	his password
+T2	Person 1026 1030	they
+T9	Device 1120 1134	another device
+T8	System 1138 1170	the White House internal network
+T10	Information 1203 1224	sensitive information
+T7	Information 1070 1088	important accounts
+T12	Campaign 952 964	were to hack
+T4	Person 944 951	someone
+T5	Device 979 996	his Twitter-phone
+T3	Person 965 970	Trump
+T11	Time 1324 1328	2014
+T13	Hacker-Group 1330 1337	hackers
+T14	System 1348 1372	 the White House network
+T15	Person 17 22	Trump
+T16	Device 85 98	Android phone
+T17	Device 223 236	Android phone
+T18	Device 416 429	Android phone
+T19	Organization 521 537	 the White House
+T20	Organization 458 508	 the Pentagon's Defense Information Systems Agency
+T21	Person 610 615	Trump
+T22	Hacker-Group 688 695	hackers
+T23	Person 792 797	Trump
+T24	Person 881 901	security researchers
+T25	Organization 330 341	White House
+T26	Person 1386 1396	 the Obama
+T27	Device 808 819	cell phones
+T28	Organization 122 141	 The New York Times
+T29	Information 1555 1576	sensitive information
+T30	Email 1617 1632	member's emails
+T31	Information 1643 1654	information
+T32	Device 1758 1780	personal Android phone
+T33	Person 1750 1755	Trump
+T34	Hacker-Group 1687 1699	data hackers
+T35	Person 1101 1105	they
+T36	Hacker-Group 1713 1717	they
+T37	Person 650 653	him
+T38	Campaign 756 760	they
+T42	Device 1282 1286	they
+T43	Person 300 302	he
+T44	Person 196 198	he
+T45	Device 378 380	it
+T46	Campaign 590 594	they
+T47	Campaign 1445 1447	it
+T48	Campaign 638 642	they
+T49	Person 29 36	himself
+T50	Device 248 258	secure one
+T40	Device 294 299	phone
+T39	Device 437 445	 the one
+T51	Device 543 563	communications tools
+T52	Campaign 564 575	 The source
+T53	Campaign 179 185	report
+T54	Device 625 636	cell phones
+T55	Device 681 684	one
+T56	Device 840 845	phone
+T57	Campaign 859 870	 the source
+T58	Person 934 939	Trump
+T59	Person 923 929	itself
+T41	Person 1228 1233	Trump
+T60	Device 1259 1268	computers
+T61	Time 1374 1385	At the time
+T62	Campaign 1422 1436	 the intrusion
+T63	System 1479 1487	networks
+T64	System 1532 1539	network
+T65	System 1838 1845	network
+*	Coreference T8 T14 T63 T64 T65
+*	Coreference T16 T17 T32 T18 T50 T40 T45 T39 T51 T54 T55 T27 T56 T5 T9
+*	Coreference T19 T25
+*	Coreference T22 T34 T13 T4 T2 T35 T36
+*	Coreference T3 T33 T21 T23 T15 T49 T44 T43 T37 T59 T58 T41
+*	Coreference T52 T46 T53 T48 T38 T57 T24
+*	Coreference T6 T7 T10 T29
+*	Coreference T60 T42
+*	Coreference T11 T61
+*	Coreference T62 T47

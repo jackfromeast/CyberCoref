@@ -1,0 +1,93 @@
+T4	Device 81 96	their computers
+T3	Time 41 55	Friday morning
+T2	Location 18 25	Atlanta
+T1	Person 0 14	City employees
+T17	Location 108 128	 the Atlanta airport
+T7	System 180 197	municipal systems
+T8	Time 201 209	Thursday
+T13	Hacker-Group 1821 1834	The attackers
+T14	Money 1862 1869	$51,000
+T16	System 1899 1910	 the system
+T10	Information 1357 1368	information
+T11	Campaign 1388 1398	the attack
+T6	Campaign 151 197	a ransomware attack that hit municipal systems
+T5	Person 214 223	employees
+T18	Device 313 329	 their computers
+T19	Person 336 340	they
+T20	Organization 356 379	 the municipal IT group
+T21	Organization 380 413	 the Atlanta Journal Constitution
+T22	Time 445 461	Friday afternoon
+T23	Person 463 506	Atlanta chief operating officer Richard Cox
+T24	System 516 525	 the WiFi
+T15	System 101 105	WiFi
+T25	Location 529 577	Hartsfield–Jackson Atlanta International Airport
+T26	Location 629 638	 The city
+T27	Course-of-Action 659 684	mitigating the ransomware
+T28	Malware 669 684	 the ransomware
+T30	Person 746 755	reporters
+T31	Campaign 769 780	 the attack
+T32	Location 946 953	Atlanta
+T33	Person 967 991	who is behind the attack
+T34	Campaign 980 991	 the attack
+T35	Person 992 1002	 the mayor
+T36	Location 1072 1081	 the city
+T37	Person 1110 1113	she
+T38	Time 1212 1234	early Thursday morning
+T39	Campaign 1196 1207	 The attack
+T40	Person 1236 1243	Bottoms
+T41	Person 1264 1273	employees
+T42	Course-of-Action 1286 1313	monitor their bank accounts
+T43	Information 1293 1313	 their bank accounts
+T44	Person 1322 1336	city officials
+T9	Information 1427 1452	your personal information
+T45	Location 1466 1485	the City of Atlanta
+T47	Person 1516 1563	 a customer who goes online and pays your bills
+T48	Person 1567 1579	any employee
+T49	Person 1587 1597	 a retiree
+T46	Person 1663 1670	Bottoms
+T50	Malware 1676 1691	 The ransomware
+T51	Person 1723 1732	customers
+T52	Money 1740 1749	pay bills
+T53	Information 1761 1786	court-related information
+T54	Person 1807 1814	Bottoms
+T12	Money 1873 1889	digital currency
+T55	Purpose 1893 1910	unlock the system
+T56	Location 1912 1921	 The city
+T57	Organization 1937 1945	 the FBI
+T58	Organization 1950 1971	local law enforcement
+T59	Course-of-Action 1975 1997	investigate the attack
+T60	Campaign 1986 1997	 the attack
+T61	Person 1999 2002	Cox
+T62	Time 2039 2047	two days
+T63	Location 2096 2100	city
+T64	Person 2082 2084	he
+T65	Person 2147 2150	Cox
+T66	Device 2119 2128	computers
+T68	Person 798 800	we
+T69	Person 830 832	we
+T71	Person 936 939	she
+T75	Person 1274 1278	they
+T76	Person 1628 1630	we
+T77	Person 298 302	them
+T78	Person 878 880	We
+T80	Person 1509 1512	you
+T81	Person 2181 2183	he
+T82	Person 1599 1601	we
+T83	Person 256 260	they
+T84	Person 904 906	we
+T85	Person 1645 1648	you
+T29	Person 689 694	Mayor
+T72	Person 695 715	Keisha Lance Bottoms
+T67	Person 1186 1189	Cox
+*	Coreference T4 T18 T66
+*	Coreference T60 T11 T39
+*	Coreference T10 T9 T53
+*	Coreference T1 T5 T83 T77 T19
+*	Coreference T68 T69
+*	Coreference T78 T84
+*	Coreference T29 T72 T71 T35 T37 T40 T54 T46
+*	Coreference T2 T32 T36 T45 T56 T63
+*	Coreference T31 T34
+*	Coreference T75 T41
+*	Coreference T14 T12
+*	Coreference T67 T61 T64 T65 T81

@@ -1,0 +1,51 @@
+T9	Organization 631 671	at least one major financial institution
+T6	System 620 627	systems
+T3	Information 472 488	personal details
+T4	Person 492 501	customers
+T12	Organization 515 540	one of the big four banks
+T10	Campaign 1801 1819	extraction of data
+T11	Hacker-Group 1823 1838	cyber attackers
+T1	Time 0 12	After a week
+T2	Campaign 240 253	cyber attacks
+T13	Person 105 180	bankers attending The Australian Financial Review Banking and Wealth Summit
+T14	Person 263 325	straight-shooting chief executive of Insurance Australia Group
+T15	Person 327 339	Peter Harmer
+T16	Organization 384 392	his firm
+T17	Domain 431 439	dark web
+T18	Organization 450 453	IAG
+T19	Person 442 444	He
+T5	Information 546 557	information
+T20	Money 584 600	$25 per customer
+T7	Information 695 708	customer data
+T21	Organization 1349 1351	we
+T22	Organization 1120 1122	We
+T24	Organization 1266 1268	we
+T25	Organization 1045 1047	We
+T27	Person 1110 1112	he
+T28	Person 1569 1571	He
+T29	Person 944 948	they
+T32	Person 903 905	He
+T33	Person 803 805	he
+*	Coreference T15 T14 T19 T8 T33 T32 T27 T28
+*	Coreference T18 T16 T23 T25 T22 T24 T21 T45
+*	Coreference T5 T3 T7
+T8	Person 717 723	Harmer
+T23	Organization 818 821	IAG
+T34	Course-of-Action 858 891	company's cyber-security facility
+T35	Location 895 901	Sydney
+T36	Person 915 930	chief executive
+*	Coreference T29 T36
+T37	System 1058 1065	systems
+T38	Domain 1133 1141	dark net
+T39	Information 1164 1168	data
+T30	Person 1293 1306	our employees
+T31	Information 1308 1313	names
+T40	Information 1318 1327	addresses
+T41	Hacker-Group 1425 1432	hackers
+T42	System 1449 1455	system
+T43	Person 1458 1464	Harmer
+T44	Money 1555 1567	$500 million
+T45	Organization 1600 1603	IAG
+T46	Money 1642 1653	$14 billion
+T26	Person 1854 1861	bankers
+T47	Time 1843 1852	Wednesday

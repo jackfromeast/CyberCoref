@@ -1,0 +1,73 @@
+T3	System 33 44	its systems
+T1	Malware 65 91	a complex ransomware virus
+T4	Time 0 18	Nearly three weeks
+T18	System 154 166	phone system
+T11	System 990 1015	the card-swipe mechanisms
+T10	System 969 986	main file servers
+T9	Attack-Pattern 936 955	locked down systems
+T8	Malware 919 928	BitPaymer
+T7	Malware 895 909	the ransomware
+T15	Campaign 1762 1779	the ransom demand
+T13	Campaign 1280 1307	a demand for a sum of money
+T12	Attack-Pattern 1255 1274	locks up the system
+T19	Malware 1060 1069	BitPaymer
+T2	System 176 209	its geospatial information system
+T14	Person 241 250	residents
+T20	Money 273 291	property-tax bills
+T21	Person 332 338	people
+T22	Location 347 356	Anchorage
+T23	Organization 571 606	Federal Emergency Management Agency
+T24	System 619 643	local government systems
+T25	Person 1198 1214	authorized users
+T26	Malware 1143 1155	Trojan horse
+T27	Malware 1083 1102	cocktail of malware
+T29	Campaign 1550 1561	cyberattack
+T30	Time 2660 2667	Aug. 15
+T31	Time 1962 1971	This week
+T32	Time 1951 1960	June 2017
+T33	Campaign 1849 1855	attack
+T34	Person 1857 1863	Mat-Su
+T35	Malware 1901 1918	BitPaymer package
+T36	Person 1624 1629	Wyatt
+T37	Malware 1643 1659	Trojan component
+T38	Time 1687 1692	May 3
+T39	Person 1578 1584	Mat-Su
+T40	Organization 2016 2048	Professional Golfers Association
+T41	Money 2647 2656	tax bills
+T42	Person 2600 2610	homeowners
+T43	Campaign 2233 2239	attack
+T44	Domain 2210 2226	BleepingComputer
+T45	Person 2380 2385	Wyatt
+T46	Organization 2521 2524	FBI
+T47	Organization 2475 2488	organizations
+T48	Time 2574 2580	Aug. 2
+T49	Person 2278 2284	Mat-Su
+T50	Organization 2247 2250	PGA
+T16	Organization 94 128	Alaska’s Matanuska-Susitna Borough
+T17	Location 301 308	borough
+T51	Time 426 435	last week
+T52	Course-of-Action 689 703	recent updates
+T53	Device 749 762	phone servers
+T54	Time 810 816	a week
+T55	System 822 835	other systems
+T5	Campaign 866 889	the borough’s encounter
+T6	Number 2466 2468	20
+T56	Number 324 331	106,000
+T57	Money 2558 2570	tax payments
+T58	Person 1445 1447	us
+T59	Campaign 1397 1401	they
+T60	Pronoun 1925 1927	it
+T62	Pronoun 1252 1254	it
+T63	Pronoun 1233 1235	it
+*	Coreference T9 T12
+*	Coreference T8 T19 T7 T27
+*	Coreference T26 T37
+*	Coreference T30 T48
+*	Coreference T36 T45
+*	Coreference T34 T49 T39
+*	Coreference T43 T33
+T61	Person 1482 1492	Eric Wyatt
+T28	Organization 1462 1481	borough IT Director
+*	Coreference T28 T61
+T64	Campaign 1341 1347	pieces
+*	Coreference T59 T64

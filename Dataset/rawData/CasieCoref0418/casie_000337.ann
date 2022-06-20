@@ -1,0 +1,49 @@
+T4	Campaign 682 695	data breaches
+T7	Attack-Pattern 744 766	using fileless methods
+T3	Information 227 231	data
+T1	Hacker-Group 194 207	threat actors
+T5	Purpose 275 311	support ongoing espionage objectives
+T6	Purpose 318 348	enable future acts of sabotage
+T8	Organization 4 10	NJCCIC
+T9	Attack-Pattern 46 90	fileless and “non-malware” intrusion tactics
+T10	Organization 109 122	organizations
+T2	Purpose 218 231	stealing data
+T11	Attack-Pattern 235 271	establishing persistence on networks
+T12	System 263 271	networks
+T13	Campaign 291 300	espionage
+T14	Campaign 332 348	acts of sabotage
+T15	Number 373 377	most
+T16	Organization 378 391	organizations
+T17	Organization 478 491	organizations
+T18	Time 400 409	currently
+T19	Organization 456 462	NJCCIC
+T20	Course-of-Action 492 615	reevaluate the capabilities and efficacy of their current cybersecurity technologies and processes, as well as their staffs
+T21	Person 603 615	their staffs
+T23	Campaign 726 733	attacks
+T24	Attack-Pattern 797 829	fileless and non-malware tactics
+T25	Organization 831 844	organizations
+T26	Course-of-Action 856 982	adopt a comprehensive cyber risk management framework and implement robust cybersecurity best practices and defensive measures
+T27	System 878 909	cyber risk management framework
+T28	Organization 1055 1068	organizations
+T29	Course-of-Action 1082 1171	employ enhanced logging, monitoring, and analysis of all network, host, and user activity
+T30	Software 1139 1146	network
+T31	Campaign 1158 1171	user activity
+T32	File 1148 1152	host
+T33	Attack-Pattern 1184 1200	fileless tactics
+T34	Organization 1212 1223	enterprises
+T35	Software 1244 1264	third-party products
+T36	Course-of-Action 1320 1466	full system endpoint protection with memory and registry monitoring, behavioral analytics, next-generation firewalls, and email content inspection
+T37	System 1325 1331	system
+T38	Campaign 1377 1387	monitoring
+T39	Device 1357 1363	memory
+T40	File 1368 1376	registry
+T41	Campaign 1400 1409	analytics
+T42	Software 1411 1436	next-generation firewalls
+T43	Email 1442 1447	email
+T44	Campaign 1456 1466	inspection
+T45	Attack-Pattern 437 450	these tactics
+T46	Pronoun 627 631	they
+T47	Pronoun 363 365	we
+*	Coreference T8 T19
+*	Coreference T10 T16 T17 T25 T28 T46
+*	Coreference T45 T9 T11 T7 T24 T33

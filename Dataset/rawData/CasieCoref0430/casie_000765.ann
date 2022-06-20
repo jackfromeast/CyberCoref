@@ -1,0 +1,62 @@
+T7	Campaign 434 445	be taken to
+T13	Person 392 395	you
+T12	Attack-Pattern 396 414	click on this link
+T11	Person 416 419	you
+T14	Domain 464 470	a page
+T15	Purpose 485 513	provide personal information
+T10	System 446 459	a fake server
+T23	Campaign 1062 1076	claiming to be
+T24	Organization 1082 1087	Apple
+T25	Email 1044 1061	 a phishing email
+T8	Campaign 218 227	receiving
+T6	Email 228 254	an authentic looking email
+T9	Software 270 285	the Apple Store
+T26	File 256 263	invoice
+T27	Person 189 208	A Westwood resident
+T1	Campaign 107 112	steal
+T5	Person 44 61	Apple Store users
+T4	Email 77 92	phishing emails
+T2	Information 113 141	your Apple ID log in details
+T3	Information 153 187	personal and financial information
+T17	Campaign 576 581	steal
+T18	Hacker-Group 557 566	Criminals
+T19	Information 586 597	information
+T21	Purpose 628 653	hijack your Apple account
+T22	Purpose 655 679	commit credit card fraud
+T20	Purpose 709 728	steal your identity
+T16	Domain 1145 1163	 the Apple website
+T29	Information 815 834	credit card numbers
+T30	Information 802 811	passwords
+T31	Information 776 792	personal details
+T32	Email 840 845	email
+T28	Information 861 885	 a genuine Apple account
+T33	URL 944 949	links
+T34	Email 952 962	 the email
+T36	Person 850 853	you
+T37	Person 1088 1091	you
+T38	Person 603 606	you
+T39	Person 887 890	you
+T40	Person 1015 1018	you
+T41	Email 1104 1106	it
+T42	Person 478 481	you
+T43	Person 761 764	you
+T44	Information 622 624	it
+T46	Person 1032 1035	you
+T47	Information 901 903	it
+T48	Organization 1110 1114	them
+T49	Email 339 349	 the email
+T45	URL 359 366	 a link
+T35	URL 404 414	 this link
+T50	Information 493 513	personal information
+T51	Information 525 555	full credit/debit card details
+T52	Information 714 728	 your identity
+T53	Software 729 745	 The Apple Store
+T54	Organization 909 914	Apple
+*	Coreference T25 T4 T6 T49 T32 T34 T41
+*	Coreference T1 T17
+*	Coreference T35 T45 T33
+*	Coreference T44 T19 T3 T50 T51 T31
+*	Coreference T9 T53
+*	Coreference T47 T28
+*	Coreference T46 T40 T39 T36 T27 T5 T13 T11 T42 T38 T43 T37
+*	Coreference T54 T24 T48

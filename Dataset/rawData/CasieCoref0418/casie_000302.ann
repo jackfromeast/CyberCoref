@@ -1,0 +1,252 @@
+T15	Campaign 1653 1656	hit
+T47	Time 1683 1687	2016
+T27	Malware 1634 1644	Ransomware
+T26	Malware 1734 1744	ransomware
+T25	Organization 1754 1763	hospitals
+T24	Organization 1657 1667	healthcare
+T20	Campaign 1901 1908	paid up
+T22	Attack-Pattern 1866 1881	disrupting care
+T21	Attack-Pattern 1844 1864	encrypt patient data
+T23	Organization 1792 1800	provider
+T13	Hacker-Group 1817 1824	hackers
+T14	Organization 1888 1900	the provider
+T30	Software 3390 3406	network software
+T31	Vulnerability 3407 3412	flaws
+T33	Campaign 3642 3646	find
+T35	Vulnerability 3647 3686	a new zero-day networking software flaw
+T37	Attack-Pattern 3691 3713	wide-spread ransomworm
+T42	Campaign 5380 5398	have already fixed
+T44	Vulnerability 5417 5436	the vulnerabilities
+T45	Attack-Pattern 5445 5466	use to spread malware
+T43	Organization 5372 5379	vendors
+T3	Campaign 362 386	used ransomware to steal
+T5	Money 397 409	$209 million
+T4	Organization 415 430	U.S. businesses
+T7	Time 443 464	first quarter of 2016
+T6	Hacker-Group 346 361	cyber criminals
+T2	Attack-Pattern 133 147	encrypts files
+T52	Malware 86 103	crypto-ransomware
+T50	Course-of-Action 5664 5671	patched
+T38	Campaign 3847 3855	stealing
+T39	Information 3875 3886	credentials
+T40	Hacker-Group 3888 3897	attackers
+T28	Device 3858 3866	computer
+T9	Attack-Pattern 1263 1270	was hit
+T12	Person 1341 1345	they
+T32	Malware 1274 1284	ransomware
+T53	Organization 1929 1956	The New Jersey Spine Center
+T19	Organization 1961 1986	Marin Healthcare District
+T18	Malware 2004 2014	Cryptowall
+T11	Time 22 26	2016
+T48	Malware 43 53	ransomware
+T54	File 142 147	files
+T55	File 158 162	them
+T56	Malware 216 228	Cryptolocker
+T57	Time 232 241	late 2013
+T58	Malware 243 260	crypto-ransomware
+T59	Time 279 283	2016
+T60	Organization 341 344	FBI
+T61	Organization 504 518	Kaspersky Labs
+T62	Time 520 553	from January to September of 2016
+T65	Organization 584 593	companies
+T66	Number 618 629	300 percent
+T67	Malware 660 670	ransomware
+T68	Hacker-Group 636 649	threat actors
+T69	Campaign 731 738	attacks
+T70	Time 742 746	2016
+T71	Malware 753 760	variant
+T72	Time 777 787	early 2016
+T73	Malware 829 831	It
+T74	File 849 867	mapped file shares
+T75	Device 897 910	remote drives
+T76	File 877 892	networked share
+T77	Campaign 929 935	attack
+T78	Person 950 957	experts
+T79	Malware 967 969	it
+T80	Number 989 996	100,000
+T81	Person 997 1004	victims
+T82	Hacker-Group 1041 1048	hackers
+T83	Organization 1072 1119	San Francisco Municipal Transport Agency (MUNI)
+T84	Time 1026 1039	More recently
+T85	Time 1148 1161	late November
+T8	Campaign 1290 1321	forced them to offer free rides
+T10	Time 1322 1334	for two days
+T86	File 1360 1365	files
+T87	Malware 1382 1389	Popcorn
+T88	Malware 1427 1445	ransomware variant
+T89	Time 1449 1457	December
+T90	Person 1470 1477	victims
+T91	Hacker-Group 1483 1492	attackers
+T92	Person 1510 1514	them
+T93	Person 1587 1594	friends
+T94	File 1613 1618	files
+T95	Number 1716 1726	88 percent
+T1	Purpose 179 193	ransom is paid
+T96	Purpose 1901 1927	paid up or recovered files
+T17	Campaign 1992 2000	attacked
+T16	Attack-Pattern 2022 2092	encrypted electronic health records, backup files and the phone system
+T97	Organization 2094 2101	MedStar
+T98	Location 2134 2141	the D.C
+T99	Location 2146 2160	Baltimore area
+T100	System 2197 2206	IT system
+T101	Course-of-Action 2176 2234	shut down its entire IT system and revert to paper records
+T102	Organization 2280 2330	California’s Hollywood Presbyterian Medical Center
+T103	Organization 2332 2396	The University of Southern California’s Keck and Norris Hospital
+T104	Organization 2398 2419	Kansas Heart Hospital
+T105	Organization 2421 2444	Alvarado Medical Center
+T106	Organization 2446 2470	King’s Daughter’s Health
+T107	Organization 2472 2499	Chino Valley Medical Center
+T108	Organization 2504 2526	Desert Valley Hospital
+T109	Hacker-Group 2538 2547	Criminals
+T110	Malware 2610 2620	ransomware
+T111	Time 2667 2671	2017
+T112	Hacker-Group 2692 2696	they
+T113	Malware 2644 2648	them
+T114	Person 2763 2764	I
+T115	Time 2841 2853	In this year
+T116	Person 2869 2870	I
+T117	Malware 2924 2934	ransomworm
+T118	Malware 2945 2952	variant
+T119	Malware 2996 3006	ransomware
+T120	Time 3008 3017	Years ago
+T121	Malware 3038 3045	CodeRed
+T122	Malware 3019 3032	network worms
+T123	Malware 3047 3058	SQL Slammer
+T124	Malware 3079 3088	Conficker
+T125	Malware 3133 3137	worm
+T126	Malware 3151 3158	malware
+T127	Attack-Pattern 3164 3299	automatically spreads itself over a network, using either legitimate network file sharing features, or network software vulnerabilities
+T128	Time 3301 3312	In the past
+T129	Malware 3336 3341	worms
+T130	Malware 3353 3361	examples
+T131	Attack-Pattern 3430 3456	propagate through networks
+T132	Malware 3567 3572	worms
+T133	Malware 3581 3585	they
+T134	Malware 3609 3611	it
+T34	Person 3629 3638	black hat
+T135	Hacker-Group 3751 3760	attackers
+T136	Vulnerability 3793 3808	networking flaw
+T137	Malware 3832 3842	ransomware
+T139	Software 3947 3957	Powershell
+T141	Vulnerability 4027 4040	vulnerability
+T142	Malware 4062 4072	ransomware
+T143	Malware 4100 4104	worm
+T144	Person 4126 4132	victim
+T145	Malware 4134 4136	it
+T146	Malware 4159 4165	itself
+T147	Device 4175 4183	computer
+T148	Malware 4184 4186	it
+T149	System 4207 4220	local network
+T140	System 3988 4003	Windows network
+T138	System 3913 3931	Windows networking
+T150	Hacker-Group 4274 4283	criminals
+T151	Malware 4341 4360	ransomware variants
+T152	Hacker-Group 4392 4396	they
+T153	Malware 4426 4436	ransomware
+T154	Malware 4441 4445	worm
+T155	Time 4459 4468	next year
+T156	Time 4473 4477	2017
+T157	Person 4479 4480	I
+T158	Malware 4502 4512	ransomworm
+T159	System 4583 4597	local networks
+T160	Person 4634 4640	victim
+T161	Malware 4644 4654	ransomware
+T162	Campaign 4721 4727	combat
+T163	Person 4779 4785	people
+T164	Malware 4807 4817	ransomware
+T165	Course-of-Action 4752 4758	Backup
+T166	Number 4841 4852	100 percent
+T167	Course-of-Action 4897 4907	Backing up
+T168	Information 4913 4917	data
+T169	Malware 4997 5007	ransomware
+T170	Campaign 5008 5014	attack
+T171	Course-of-Action 5037 5043	backup
+T172	Information 5059 5063	data
+T173	Malware 5065 5075	ransomware
+T174	Course-of-Action 5109 5128	Patch your software
+T175	Malware 5151 5161	ransomware
+T176	System 5180 5187	systems
+T177	Person 5204 5209	users
+T178	Malware 5298 5305	malware
+T179	Hacker-Group 5322 5331	attackers
+T180	Vulnerability 5354 5359	flaws
+T181	Software 5345 5353	software
+T41	Course-of-Action 5482 5510	keep your patches up to date
+T36	Campaign 5547 5574	forced or automated attacks
+T46	Malware 5606 5617	ransomworms
+T49	Vulnerability 5632 5644	network flaw
+T51	Hacker-Group 5645 5649	they
+T182	Course-of-Action 5673 5700	Implement Killchain Defense
+T183	Number 5768 5779	100 percent
+T184	Malware 5783 5793	ransomware
+T185	Course-of-Action 5797 5803	itself
+T186	Malware 5894 5904	ransomware
+T187	Campaign 5905 5911	attack
+T188	System 5927 5955	Intrusion Prevention Systems
+T189	Hacker-Group 5995 6004	criminals
+T190	Malware 6019 6029	ransomware
+T191	Software 6031 6040	AntiVirus
+T192	Malware 6075 6094	ransomware variants
+T193	System 6105 6148	modern advanced threat protection solutions
+T194	Code 6181 6208	zero-day ransomware samples
+T196	Device 6293 6301	computer
+T197	Organization 6305 6317	organization
+T198	Course-of-Action 6324 6343	combine all of them
+T199	System 6345 6386	Unified Threat Management (UTM) solutions
+T195	Number 2118 2120	10
+T200	Malware 110 127	nefarious variant
+T201	Organization 713 721	industry
+T202	System 799 806	systems
+T203	Organization 1245 1249	city
+T204	System 3200 3207	network
+T205	Vulnerability 3267 3299	network software vulnerabilities
+T206	File 3222 3245	legitimate network file
+T207	File 2032 2057	electronic health records
+T208	File 2059 2071	backup files
+T209	System 3492 3508	internal network
+T210	System 2080 2092	phone system
+T211	System 3470 3478	Internet
+T212	Person 3520 3522	we
+T213	System 4610 4618	Internet
+T214	Software 5722 5741	security technology
+T215	Campaign 6227 6241	these defenses
+T216	Pronoun 4767 4768	I
+T217	Pronoun 4479 4480	I
+T218	Pronoun 4706 4709	you
+T220	Pronoun 1163 1166	you
+T222	Pronoun 6339 6343	them
+T225	Pronoun 5019 5022	you
+T229	Hacker-Group 694 698	they
+T230	Pronoun 4237 4240	you
+T232	Pronoun 1600 1603	you
+T233	Person 2626 2629	you
+T235	Pronoun 5471 5474	you
+T236	Pronoun 5759 5762	you
+T237	Pronoun 1124 1127	you
+T239	Pronoun 5865 5868	you
+T241	Pronoun 3520 3522	we
+T242	Pronoun 3112 3115	you
+T243	Pronoun 5512 5515	you
+T244	Pronoun 5703 5706	You
+*	Coreference T23 T14
+*	Coreference T30 T181
+*	Coreference T31 T180
+*	Coreference T44 T141 T205
+*	Coreference T11 T59
+*	Coreference T126 T178
+*	Coreference T136 T49
+*	Coreference T183 T166
+*	Coreference T165 T171 T167
+*	Coreference T168 T172
+*	Coreference T209 T140 T138 T159 T149 T204
+*	Coreference T211 T213
+*	Coreference T142 T119 T184 T134 T132 T88 T158 T175 T133 T79 T145 T173 T161 T151 T192 T113 T46 T154 T27 T153 T32 T129 T125 T110 T169 T137 T73 T164 T143 T26 T117 T71
+*	Coreference T146 T185 T148
+*	Coreference T12 T81
+*	Coreference T54 T55
+T248	Campaign 555 573	ransomware attacks
+*	Coreference T68 T229
+*	Coreference T90 T92
+*	Coreference T112 T109
+*	Coreference T116 T114
+*	Coreference T152 T150

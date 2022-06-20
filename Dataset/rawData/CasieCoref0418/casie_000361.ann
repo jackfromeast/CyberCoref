@@ -1,0 +1,193 @@
+T30	Time 331 343	since Friday
+T29	Device 296 313	Windows computers
+T28	Malware 251 264	WannaCry worm
+T31	Organization 356 369	car factories
+T32	Organization 386 396	FedEx Corp
+T33	Organization 401 434	Britain's National Health Service
+T2	Malware 454 466	hacking tool
+T1	Device 492 501	computers
+T3	Attack-Pattern 503 540	shutting them down by encrypting data
+T5	Money 572 578	US$300
+T39	Vulnerability 2737 2741	flaw
+T40	Organization 2677 2686	Microsoft
+T38	System 2745 2752	Windows
+T7	Vulnerability 1364 1377	vulnerability
+T8	Version 1381 1395	older versions
+T9	System 1399 1406	Windows
+T24	Campaign 1948 1959	data breach
+T26	Time 1943 1947	2012
+T12	Campaign 1256 1273	ransomware attack
+T15	Course-of-Action 1454 1478	issued a security update
+T14	Organization 1444 1453	Microsoft
+T16	Time 1482 1487	March
+T22	Course-of-Action 1594 1619	releasing a similar patch
+T20	Organization 1561 1568	company
+T21	Time 1540 1556	Over the weekend
+T25	Time 1667 1671	2014
+T10	Organization 0 10	Businesses
+T11	System 33 63	Windows-based computer systems
+T34	Campaign 83 103	massive cyber attack
+T35	Time 104 120	over the weekend
+T42	Organization 170 179	Microsoft
+T43	Person 227 240	legal experts
+T44	Campaign 217 225	lawsuits
+T45	Number 278 295	more than 200,000
+T27	Organization 442 448	others
+T46	Attack-Pattern 467 501	spreads silently between computers
+T47	Device 512 516	them
+T48	Device 589 593	them
+T49	Organization 608 617	Microsoft
+T50	Device 619 628	computers
+T51	Malware 645 655	ransomware
+T52	File 669 685	security patches
+T53	System 690 714	various Windows versions
+T54	System 741 751	Windows XP
+T55	Vulnerability 656 751	did not have security patches for various Windows versions installed or were running Windows XP
+T56	Organization 763 770	company
+T57	Version 798 815	outdated versions
+T58	System 819 826	Windows
+T60	Person 889 905	Christopher Dore
+T59	Organization 955 965	Edelson PC
+T61	Person 909 951	lawyer specializing in digital privacy law
+T62	Organization 968 970	It
+T63	System 1016 1029	those systems
+T64	Organization 1046 1056	Businesses
+T65	Campaign 1068 1080	legal claims
+T66	Organization 1084 1088	they
+T67	Software 1107 1115	services
+T68	Campaign 1131 1137	attack
+T69	Person 1144 1159	Edward McAndrew
+T70	Person 1163 1182	data privacy lawyer
+T71	Organization 1186 1199	Ballard Spahr
+T72	Person 1276 1278	he
+T73	Person 1306 1317	individuals
+T74	Person 1319 1328	consumers
+T75	Person 1333 1341	patients
+T76	Malware 1344 1352	WannaCry
+T13	Malware 1499 1507	WannaCry
+T17	Malware 1518 1525	malware
+T79	Organization 1646 1653	company
+T80	System 1672 1674	it
+T81	File 1614 1619	patch
+T82	File 1463 1478	security update
+T83	Person 1700 1704	Dore
+T84	Organization 1710 1719	companies
+T85	Campaign 1731 1742	disruptions
+T86	Organization 1751 1755	they
+T87	Organization 1772 1781	Microsoft
+T89	Course-of-Action 1764 1788	run the Microsoft update
+T90	Organization 1800 1804	they
+T91	Version 1816 1830	older versions
+T92	System 1834 1841	Windows
+T93	Campaign 1853 1861	lawsuits
+T94	Organization 1908 1920	His law firm
+T95	Organization 1926 1934	LinkedIn
+T96	Person 1970 1981	individuals
+T97	Organization 2020 2027	company
+T98	Organization 2043 2045	it
+T99	Organization 2087 2095	LinkedIn
+T100	Money 2108 2123	US$1.25 million
+T101	Time 2127 2131	2014
+T102	Person 2137 2150	Scott Vernick
+T103	Person 2154 2174	data security lawyer
+T104	Organization 2178 2192	Fox Rothschild
+T105	Organization 2209 2218	companies
+T106	Person 2225 2227	he
+T107	Malware 2247 2255	WannaCry
+T108	Person 2281 2289	consumer
+T109	Campaign 2290 2298	lawsuits
+T110	Person 2300 2302	He
+T111	Campaign 2337 2349	cyber attack
+T112	Information 2391 2404	personal data
+T113	Campaign 2366 2387	widespread disclosure
+T114	Person 2452 2461	consumers
+T115	Person 2464 2466	he
+T116	Person 2473 2480	Vernick
+T117	Organization 2486 2496	businesses
+T118	Course-of-Action 2512 2533	update their software
+T119	Software 2525 2533	software
+T120	Campaign 2545 2553	scrutiny
+T121	Organization 2559 2590	the US Federal Trade Commission
+T122	Organization 2592 2597	which
+T123	Time 2602 2612	previously
+T124	Organization 2618 2627	companies
+T41	Malware 2772 2780	WannaCry
+T125	Person 2795 2808	legal experts
+T126	Organization 2815 2824	Microsoft
+T127	Software 2831 2839	software
+T128	Organization 2840 2842	it
+T129	Organization 2897 2904	company
+T130	Vulnerability 2927 2944	security breaches
+T131	Person 2951 2964	Michael Scott
+T132	Person 2968 2977	professor
+T133	Organization 2981 3004	Southwestern Law School
+T134	Organization 3006 3012	Courts
+T135	Person 3056 3058	he
+T136	Person 3065 3074	Alex Abdo
+T137	Person 3078 3092	staff attorney
+T138	Organization 3096 3132	the Knight First Amendment Institute
+T139	Organization 3136 3155	Columbia University
+T140	Organization 3162 3171	Microsoft
+T141	Organization 3176 3200	other software companies
+T142	Campaign 3228 3236	lawsuits
+T143	Organization 3256 3261	court
+T144	Person 3359 3361	he
+T145	Organization 3398 3420	software manufacturers
+T147	Vulnerability 3437 3442	flaws
+T148	Software 3446 3460	their products
+T149	Campaign 3519 3531	cyber attack
+T150	Organization 3535 3566	the US National Security Agency
+T151	Software 3574 3593	stolen hacking tool
+T152	Malware 3626 3634	WannaCry
+T153	Organization 3640 3643	NSA
+T154	Campaign 3673 3692	request for comment
+T155	Person 3694 3711	Jonathan Zittrain
+T156	Person 3715 3753	professor specializing in internet law
+T157	Organization 3757 3775	Harvard Law School
+T158	Organization 3782 3788	courts
+T159	Campaign 3815 3823	lawsuits
+T160	Organization 3836 3842	agency
+T161	Campaign 3883 3919	disclosure of top secret information
+T162	Information 3897 3919	top secret information
+T163	Organization 3941 3944	NSA
+T164	Organization 3980 3982	it
+T165	Organization 4072 4082	government
+T166	Organization 4196 4199	NSA
+T167	Person 4202 4206	Dore
+T168	Person 4138 4139	I
+T169	Course-of-Action 26 63	update Windows-based computer systems
+T170	Information 536 540	data
+T171	Organization 1865 1869	they
+T176	Pronoun 2300 2302	He
+T178	Pronoun 3858 3862	they
+T181	Pronoun 2407 2409	It
+T185	Pronoun 3359 3361	he
+*	Coreference T91 T8 T57
+*	Coreference T83 T167 T168
+*	Coreference T85 T120
+*	Coreference T95 T99
+*	Coreference T102 T116
+*	Coreference T119 T127
+*	Coreference T141 T145
+*	Coreference T1 T50 T47 T48 T29
+*	Coreference T66 T117 T64
+*	Coreference T124 T86 T129 T84 T98 T79 T97 T105 T90 T171
+*	Coreference T106 T72 T103 T70 T69
+*	Coreference T115 T110 T114
+*	Coreference T40 T87 T49 T140 T14 T128 T126 T42
+*	Coreference T135 T132
+*	Coreference T144 T137
+*	Coreference T163 T164 T166 T153
+T4	Campaign 550 568	demanding a ransom
+T172	Money 562 568	ransom
+*	Coreference T172 T5
+*	Coreference T51 T2 T41 T76 T28 T13 T107 T152
+*	Coreference T60 T61
+T36	System 1418 1427	Windows 7
+T6	System 1432 1442	Windows XP
+T18	System 1529 1538	Windows 7
+*	Coreference T18 T36
+T19	System 1624 1634	Windows XP
+*	Coreference T6 T54 T58 T19 T80
+*	Coreference T92 T38
+*	Coreference T155 T156

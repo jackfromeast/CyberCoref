@@ -1,0 +1,47 @@
+T2	Hacker-Group 489 497	phishers
+T7	Purpose 608 631	go fill in your details
+T3	Information 430 469	fake Verizon Unlimited Twitter accounts
+T4	Attack-Pattern 529 552	bogus offers to upgrade
+T8	Campaign 980 1000	phishing email scams
+T10	Organization 926 933	Verizon
+T9	Person 951 960	customers
+T12	Information 1155 1172	 an email account
+T14	Person 1216 1226	recipients
+T5	Information 1182 1196	Verizon Online
+T6	Organization 1232 1239	Verizon
+T3	Information 430 469	fake Verizon Unlimited Twitter accounts
+T16	Time 362 377	Since last week
+T17	Organization 33 40	Verizon
+T18	Organization 93 111	competitors Sprint
+T19	Number 62 73	a couple of
+T20	Organization 116 124	T-Mobile
+T21	Organization 142 144	it
+T22	Money 148 158	 the taxes
+T23	Money 166 171	rates
+T24	Money 160 164	fees
+T25	Organization 200 202	it
+T26	Person 214 228	 its customers
+T27	Organization 230 237	Verizon
+T28	Organization 256 281	 the unlimited data party
+T29	Money 286 293	 an $80
+T30	Money 311 314	$45
+T1	Money 529 534	bogus
+T15	Money 583 593	 the offer
+T31	Information 618 631	 your details
+T32	Information 662 682	fake Twitter account
+T33	Attack-Pattern 692 764	offering Verizon Unlimited “FREE for 12 months” in exchange for retweets
+T34	Time 729 738	12 months
+T36	Information 771 790	VZUnlimited account
+T38	Number 967 979	a variety of
+T39	Campaign 1022 1026	scam
+T40	Time 1053 1057	2014
+T41	Email 1100 1119	 a phishing message
+T42	Time 1125 1142	 this past Sunday
+T11	Email 1198 1210	 the message
+T13	Attack-Pattern 1211 1338	told recipients that Verizon would be replacing its “Classic” version of email service with a new, updated version as of Monday
+T43	Version 1258 1280	 its “Classic” version
+T44	Software 1284 1297	email service
+T45	Version 1302 1325	 a new, updated version
+T46	Time 1332 1338	Monday
+*	Coreference T3 T32 T36
+*	Coreference T10 T17 T27 T6 T21 T25

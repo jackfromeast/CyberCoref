@@ -1,0 +1,35 @@
+T5	Campaign 124 134	the breach
+T8	Time 72 93	over the winter break
+T7	Location 30 41	Valley Glen
+T6	Organization 0 26	Los Angeles Valley College
+T2	Information 779 792	personal data
+T4	Person 770 776	anyone
+T9	Person 140 149	officials
+T10	Time 155 162	Tuesday
+T11	Campaign 56 71	 a cyber attack
+T12	Campaign 163 174	 The attack
+T13	Campaign 193 217	malicious cyber activity
+T14	Organization 228 254	Los Angeles Valley College
+T15	Person 287 356	Los Angeles Community College District Chancellor Francisco Rodriguez
+T16	Campaign 364 370	attack
+T17	Time 403 420	over the holidays
+T18	Organization 453 482	local and federal authorities
+T19	Person 526 535	Rodriguez
+T20	Campaign 572 586	 this incident
+T21	Course-of-Action 590 671	ensuring that the security and privacy of our students and employees is protected
+T22	Person 649 658	employees
+T23	Information 621 644	privacy of our students
+T3	Campaign 698 709	 the attack
+T1	Organization 810 849	Los Angeles Sheriff’s cyber crimes unit
+T24	Person 869 930	Deputy Caroline Rodriguez of the Sheriff’s Information Bureau
+T25	Organization 897 930	 the Sheriff’s Information Bureau
+T26	Organization 936 944	 The FBI
+T27	Campaign 1001 1012	 the attack
+T28	Course-of-Action 432 523	working closely with local and federal authorities to learn more about its potential impact
+T29	Information 674 692	Additional details
+T30	Person 425 427	we
+T31	Information 738 740	it
+*	Coreference T6 T14
+*	Coreference T11 T5 T12 T13 T16 T3 T27 T20
+*	Coreference T30 T19 T15
+*	Coreference T31 T29

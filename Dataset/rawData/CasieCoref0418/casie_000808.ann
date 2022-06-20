@@ -1,0 +1,68 @@
+T8	Vulnerability 118 131	vulnerability
+T6	System 160 175	gaming platform
+T7	Version 140 152	all versions
+T15	Organization 223 251	Context Information Security
+T16	Person 177 209	Tom Court, a security researcher
+T11	Vulnerability 268 271	bug
+T14	Time 302 310	Thursday
+T20	Vulnerability 373 376	bug
+T19	Person 328 342	the researcher
+T17	Attack-Pattern 402 445	perform remote code execution (RCE) attacks
+T34	Vulnerability 596 609	vulnerability
+T35	Attack-Pattern 621 641	cause a client crash
+T22	Campaign 1627 1639	was reported
+T24	Organization 1643 1648	Valve
+T25	Time 1652 1663	20 February
+T23	Vulnerability 1609 1626	The vulnerability
+T29	Campaign 1733 1748	was then pushed
+T31	Course-of-Action 1752 1768	a stable release
+T32	Time 1772 1780	22 March
+T30	Course-of-Action 1722 1732	This patch
+T26	Campaign 1668 1677	was fixed
+T27	Course-of-Action 1681 1695	a beta release
+T28	Time 1706 1720	12 hours later
+T3	Vulnerability 20 42	critical vulnerability
+T2	Organization 0 5	Valve
+T4	Software 50 62	Steam client
+T36	Time 95 112	at least 10 years
+T1	Course-of-Action 10 17	patched
+T5	Hacker-Group 385 398	threat actors
+T10	Time 464 478	July last year
+T12	Software 535 540	Steam
+T13	Vulnerability 667 706	separate information leak vulnerability
+T18	Software 746 768	Valve's Steam software
+T21	Protocol 783 791	protocol
+T33	Protocol 807 821	Steam Protocol
+T37	Protocol 857 860	UDP
+T38	Protocol 1196 1206	UDP packet
+T39	Protocol 866 874	protocol
+T40	Information 1323 1335	64kb of data
+T41	Person 1900 1905	Court
+T42	Code 1917 1932	vulnerable code
+T43	Person 2115 2124	developer
+T44	System 2186 2193	systems
+T45	Code 2303 2307	code
+T46	Person 2337 2347	researcher
+T48	Code 2050 2052	it
+T51	Code 2220 2224	they
+T52	Code 1963 1965	it
+*	Coreference T8 T3 T11 T20 T34 T56 T58 T23 T61
+*	Coreference T6 T4 T54 T12 T18
+*	Coreference T19 T16 T49 T41 T46
+T9	Organization 484 489	Valve
+*	Coreference T9 T2 T24
+T47	Course-of-Action 490 527	added modern ASLR exploit protections
+T53	Course-of-Action 568 576	addition
+*	Coreference T53 T47
+T54	Software 629 635	client
+T55	Code 541 552	source code
+*	Coreference T33 T21 T39
+T56	Vulnerability 955 968	vulnerability
+T57	Hacker-Group 1150 1158	attacker
+T58	Vulnerability 1222 1229	exploit
+T49	Person 1463 1468	Court
+*	Coreference T27 T30
+T61	Vulnerability 1806 1809	bug
+*	Coreference T52 T42 T48 T51 T45
+T62	Person 2007 2017	developers
+*	Coreference T62 T43

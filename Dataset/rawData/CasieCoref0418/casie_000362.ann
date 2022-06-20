@@ -1,0 +1,83 @@
+T2	Person 176 195	security researcher
+T4	Device 34 56	multi-function devices
+T3	Device 14 29	office printers
+T5	Attack-Pattern 77 110	leak information and execute code
+T37	Device 123 146	multiple attack vectors
+T12	Person 317 319	he
+T6	Person 207 218	Jens Müller
+T10	Vulnerability 296 311	vulnerabilities
+T33	Organization 228 251	Ruhr-Universität Bochum
+T17	Device 846 862	HP LaserJet 1200
+T16	Device 891 902	Dell 3130cn
+T15	Device 907 931	Samsung Multipress 6345N
+T14	Vulnerability 939 983	vulnerable line printer daemon (LPD) service
+T32	Device 874 879	4250N
+T31	Device 864 869	4200N
+T18	Vulnerability 1232 1245	vulnerability
+T19	Person 1173 1179	Müller
+T21	Attack-Pattern 1264 1285	remote code execution
+T23	Person 1589 1591	He
+T29	Organization 1688 1690	HP
+T28	Organization 1679 1683	Dell
+T27	Organization 1670 1677	Lexmark
+T26	Organization 1661 1668	Minolta
+T25	Organization 1654 1660	Konica
+T30	Organization 1645 1652	Brother
+T24	Device 1631 1639	printers
+T7	Device 1710 1714	they
+T35	Information 82 93	information
+T36	Code 106 110	code
+T1	Location 255 262	Germany
+T9	Campaign 282 292	advisories
+T11	Device 392 400	printers
+T13	Vulnerability 406 420	vulnerabilites
+T38	Organization 431 438	vendors
+T39	Code 489 499	PostScript
+T40	Code 504 511	PJL/PCL
+T41	Code 454 480	page description languages
+T42	Vulnerability 431 480	vendors not separating page description languages
+T43	Device 545 552	printer
+T44	Malware 575 591	harmful commands
+T45	Person 611 617	anyone
+T46	Person 647 653	Müller
+T47	Person 660 667	Müller 
+T48	Campaign 685 692	attacks
+T49	Domain 696 722	his Hacking Printers wiki,
+T50	Attack-Pattern 736 756	accessing print jobs
+T51	Attack-Pattern 760 812	credentials disclosure and bypassing device security
+T52	Information 760 771	credentials
+T8	Software 950 983	line printer daemon (LPD) service
+T55	Number 1018 1029	150 or more
+T57	Software 1073 1084	LPD service
+T58	Device 1092 1105	above devices
+T59	Device 1118 1125	printer
+T60	Device 1161 1163	it
+T61	Attack-Pattern 1042 1105	Sending a long username to the LPD service on the above devices
+T62	Course-of-Action 1137 1151	manual restart
+T20	Information 1198 1207	shellcode
+T63	Information 1212 1226	return address
+T64	Number 1287 1291	More
+T65	Device 1292 1300	printers
+T66	Person 1345 1347	he
+T67	Campaign 1384 1409	denial of service attacks
+T68	Attack-Pattern 1384 1401	denial of service
+T69	Device 1418 1443	printers that support PJL
+T71	Attack-Pattern 1449 1513	permanently damage the non-volatile random access memory (NVRAM)
+T72	Device 1566 1573	devices
+T73	Person 1575 1581	Müller
+T74	Campaign 1603 1627	NVRAM destruction attack
+T75	Attack-Pattern 1603 1620	NVRAM destruction
+T22	Device 1731 1739	Printers
+T76	System 1760 1768	networks
+T77	Device 1772 1786	USB interfaces
+T56	Device 1310 1315	above
+T78	File 1549 1557	settings
+*	Coreference T12 T47 T73 T23 T46 T19 T6 T66
+*	Coreference T43 T11
+*	Coreference T59 T60
+*	Coreference T10 T13
+T34	Device 1472 1505	non-volatile random access memory
+T53	Device 1507 1512	NVRAM
+*	Coreference T34 T53
+*	Coreference T7 T24 T22
+*	Coreference T65 T72

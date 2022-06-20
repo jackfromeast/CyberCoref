@@ -1,0 +1,121 @@
+T12	Vulnerability 717 730	 the zero-day
+T10	Person 685 708	Cisco Talos researchers
+T13	Vulnerability 754 779	proof-of-concept exploits
+T22	Course-of-Action 2438 2445	A patch
+T21	Software 2450 2471	Apache Struts servers
+T3	Time 363 373	last month
+T4	Organization 377 383	Apache
+T9	Attack-Pattern 419 471	allows an attacker to execute commands on the server
+T8	Vulnerability 404 417	CVE-2017-5638
+T7	Vulnerability 385 402	The vulnerability
+T24	Software 548 573	some Struts installations
+T6	Software 316 329	Apache Struts
+T5	Vulnerability 302 312	a zero-day
+T17	Attack-Pattern 1751 1785	displayed its standard ransom note
+T16	Attack-Pattern 1730 1745	encrypted files
+T15	Attack-Pattern 1719 1728	took over
+T18	Person 1795 1802	victims
+T25	Malware 1712 1718	Cerber
+T26	Hacker-Group 32 55	ten groups of attackers
+T27	Software 119 132	Apache Struts
+T28	Campaign 265 279	 their attacks
+T29	Hacker-Group 280 291	 the groups
+T1	Software 495 534	 the Jakarta Multipart parser component
+T2	Hacker-Group 575 584	Attackers
+T30	Device 606 618	Linux server
+T14	Time 809 820	early March
+T32	Campaign 822 829	attacks
+T33	Person 851 861	F5 experts
+T34	Hacker-Group 889 898	attackers
+T35	Software 908 924	Struts instances
+T36	Device 936 949	Linux servers
+T37	Hacker-Group 957 961	they
+T38	Attack-Pattern 975 1006	installing the PowerBot malware
+T39	Malware 985 1006	 the PowerBot malware
+T40	Malware 1007 1034	 an IRC-controlled DDoS bot
+T41	Malware 1049 1056	PerlBot
+T42	Malware 1060 1068	Shellbot
+T43	Campaign 1079 1086	attacks
+T44	Hacker-Group 1093 1099	groups
+T45	Attack-Pattern 1112 1145	installing a cryptocurrency miner
+T46	Malware 1122 1145	 a cryptocurrency miner
+T47	Malware 1154 1160	minerd
+T48	Money 1176 1202	 the Monero cryptocurrency
+T49	Campaign 1213 1220	attacks
+T50	Organization 1232 1262	 the SANS Technology Institute
+T51	Hacker-Group 1269 1278	attackers
+T52	Malware 1289 1303	Perl backdoors
+T53	Campaign 1312 1319	attacks
+T54	Attack-Pattern 1325 1391	targeted Struts running on Windows Both SANS and F5 experts report
+T55	Time 1403 1411	March 20
+T56	Hacker-Group 1419 1432	 these groups
+T57	Attack-Pattern 1445 1500	targeting Struts instances installed on Windows systems
+T58	System 1485 1500	Windows systems
+T59	Software 1455 1471	Struts instances
+T19	Hacker-Group 1874 1883	attackers
+T60	Organization 1972 1984	 the F5 team
+T61	Campaign 1961 1970	campaigns
+T62	Information 1934 1944	Bitcoin ID
+T64	Campaign 1906 1914	campaign
+T65	Money 2030 2041	84 bitcoins
+T66	Person 2056 2066	F5 experts
+T67	Money 2104 2115	2.2 Bitcoin
+T68	Money 2044 2052	$100,000
+T69	Money 2118 2124	$2,600
+T70	Organization 2253 2255	F5
+T71	Time 2218 2223	today
+T72	Time 2295 2303	March 29
+T73	Organization 2312 2316	SANS
+T74	Organization 1365 1369	SANS
+T75	Person 1374 1384	F5 experts
+T76	System 1352 1359	Windows
+T77	Software 2508 2514	Struts
+T78	Time 2305 2310	Today
+T79	Campaign 2351 2364	 the campaign
+T80	System 2407 2414	Windows
+T23	Software 2709 2734	Struts-based applications
+T81	Campaign 2698 2705	attacks
+T11	Time 4 21	more than a month
+T63	System 79 107	systems running applications
+T82	Attack-Pattern 137 157	installing backdoors
+T83	Attack-Pattern 66 132	compromising systems running applications built with Apache Struts
+T84	Malware 159 168	DDoS bots
+T85	Malware 170 191	cryptocurrency miners
+T86	Malware 196 206	ransomware
+T87	Device 220 232	 the machine
+T88	System 244 249	Linux
+T89	System 253 260	Windows
+T90	Organization 633 656	cyber-security firms F5
+T31	Software 1334 1340	Struts
+T91	Code 1528 1540	exploit code
+T92	Hacker-Group 1542 1551	attackers
+T93	Attack-Pattern 1552 1583	executed various shell commands
+T94	Purpose 1587 1690	run the BITSAdmin utility and then downloaded (via Windows' built-in FTP support) the Cerber ransomware
+T96	Malware 1590 1612	 the BITSAdmin utility
+T97	Course-of-Action 1842 1867	recover data from backups
+T98	Information 1850 1854	data
+T99	Information 1997 2015	particular account
+T100	Domain 2487 2506	 the Struts website
+T101	Malware 2375 2392	Cerber ransomware
+T102	Software 2397 2403	Struts
+T103	Domain 2661 2676	public websites
+T104	Domain 2647 2656	Intranets
+T105	Software 2533 2546	MVC framework
+T106	Purpose 2551 2588	creating modern Java web applications
+T107	Organization 2756 2786	cyber-security firm AlienVault
+T109	Pronoun 2225 2227	It
+T20	Malware 1668 1690	 the Cerber ransomware
+*	Coreference T12 T5
+*	Coreference T35 T59 T24
+*	Coreference T65 T67
+*	Coreference T75 T33 T66
+*	Coreference T71 T78
+*	Coreference T73 T74
+*	Coreference T58 T76 T89 T80
+*	Coreference T92 T81 T19
+*	Coreference T31 T102 T27 T77 T21 T6
+*	Coreference T7 T8
+*	Coreference T34 T37
+*	Coreference T39 T41 T42
+*	Coreference T46 T47
+*	Coreference T20 T25

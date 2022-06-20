@@ -1,0 +1,106 @@
+T13	Money 1632 1643	$10 million
+T15	Organization 1593 1613	Victim organizations
+T14	Campaign 1647 1653	ransom
+T16	Device 1692 1706	Android phones
+T17	Malware 1727 1734	SLocker
+T4	Purpose 906 923	demanding payment
+T5	Device 879 901	 their Android devices
+T6	Attack-Pattern 854 876	locking users' screens
+T7	Malware 818 829	The malware
+T8	Device 1029 1040	 the camera
+T9	Device 1016 1024	speakers
+T10	Device 999 1014	 its microphone
+T11	Device 977 988	 the device
+T21	Attack-Pattern 928 988	taking over administrative rights and controlling the device
+T1	Purpose 624 641	demanding payment
+T3	Attack-Pattern 589 616	blocks access to the device
+T20	Device 652 661	the phone
+T18	Money 2352 2363	 the ransom
+T19	Person 2326 2332	People
+T23	Malware 4 44	variants of an Android ransomware family
+T24	Time 61 81	 the past six months
+T25	Version 94 109	unique versions
+T26	Malware 147 155	variants
+T27	Time 172 179	October
+T28	Time 182 204	 the start of December
+T29	Person 211 228	Michael Covington
+T30	Person 230 276	vice president of product strategy for Wandera
+T31	Information 298 302	data
+T32	Malware 305 320	 the ransomware
+T33	Time 321 326	today
+T34	Malware 346 368	 the mobile ransomware
+T35	Attack-Pattern 369 393	use a range of disguises
+T36	Purpose 397 412	avoid detection
+T37	Malware 413 436	 The SLocker variations
+T38	Attack-Pattern 441 467	repackaged as altered icon
+T39	File 512 528	executable files
+T2	Malware 530 537	SLocker
+T40	Attack-Pattern 538 576	encrypts images, documents, and videos
+T41	File 555 564	documents
+T42	File 547 553	images
+T43	File 570 576	videos
+T44	Device 605 616	 the device
+T45	Information 665 678	 its contents
+T46	Person 680 703	Chief security officers
+T47	Person 707 719	 their teams
+T48	Malware 779 786	SLocker
+T49	Person 800 816	security experts
+T50	Attack-Pattern 834 841	morphed
+T22	Person 1042 1057	Bogdan Botezatu
+T51	Person 1059 1082	senior e-threat analyst
+T52	Organization 1088 1099	Bitdefender
+T53	Device 1105 1127	 an Android smartphone
+T54	Malware 1142 1149	SLocker
+T55	Attack-Pattern 1168 1284	broadcast highly sensitive information presented during a closed-door boardroom meeting without the user's knowledge
+T56	Information 1178 1206	highly sensitive information
+T57	Person 1263 1272	 the user
+T58	Person 1299 1318	Wandera's Covington
+T59	Person 1418 1432	 the employees
+T60	Device 1556 1568	 their phone
+T61	Information 1573 1577	data
+T62	Organization 1534 1538	they
+T12	Information 1664 1681	confidential data
+T63	Person 1717 1723	victim
+T64	Person 1749 1756	Wandera
+T65	Malware 1768 1786	Android ransomware
+T66	Time 1804 1808	2014
+T67	Hacker-Group 1816 1824	creators
+T68	Malware 1827 1857	 the Reveton/IcePol ransomware
+T69	Device 1862 1865	PCs
+T70	Device 1892 1907	Android devices
+T71	Malware 1921 1940	 the Android.Trojan
+T72	Malware 1942 1949	Koler.A
+T73	Malware 1965 1987	Android.Trojan.SLocker
+T74	Person 2002 2024	Bitdefender's Botezatu
+T75	Time 2029 2049	 the first two years
+T76	Malware 2051 2058	SLocker
+T77	Malware 2080 2104	Android malware families
+T78	Time 2139 2143	2016
+T79	Person 2151 2159	Botezatu
+T82	Information 2280 2291	information
+T83	Device 2296 2313	 their smartphone
+T84	Person 2316 2318	he
+T85	Device 2364 2382	 The mobile device
+T86	Device 2404 2426	 the personal computer
+T87	Malware 2437 2444	SLocker
+T88	Malware 2497 2521	Android malware families
+T89	Hacker-Group 2526 2538	cyberthieves
+T90	Malware 2546 2574	new types of Android malware
+T91	Malware 2621 2628	SLocker
+T92	Person 2642 2650	Botezatu
+T81	Person 2263 2269	people
+T93	Person 1580 1582	he
+T97	Malware 1484 1486	it
+T98	Number 138 146	 the 100
+*	Coreference T4 T1
+*	Coreference T19 T81
+*	Coreference T29 T58 T30 T93 T64
+*	Coreference T31 T61 T56 T12
+*	Coreference T66 T78
+*	Coreference T53 T85 T83 T44 T16 T60 T20 T70 T5 T11
+*	Coreference T22 T92 T74 T79 T51 T84
+*	Coreference T26 T23 T34 T68 T37 T71 T77 T88
+*	Coreference T48 T2 T7 T54 T97
+*	Coreference T62 T59
+*	Coreference T15 T63
+*	Coreference T76 T73 T87 T91

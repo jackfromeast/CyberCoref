@@ -1,0 +1,52 @@
+T6	Vulnerability 105 151	a critical remote code execution vulnerability
+T8	Vulnerability 170 183	CVE-2018-3110
+T7	Vulnerability 153 161	The flaw
+T9	Organization 235 241	Oracle
+T11	Vulnerability 275 282	the bug
+T12	System 320 340	 the Oracle Database
+T13	System 361 382	the underlying server
+T16	Vulnerability 710 718	The flaw
+T15	System 762 784	Oracle Database Server
+T17	Vulnerability 807 833	a remote code exploit flaw
+T33	System 738 758	the JavaVM component
+T19	Organization 1244 1253	Microsoft
+T22	System 1313 1320	Windows
+T23	Software 1322 1328	Office
+T24	Software 1334 1362	Internet Explorer/Edge today
+T21	Course-of-Action 1293 1308	security update
+T32	Software 1463 1481	Experience manager
+T31	Software 1443 1457	Creative Cloud
+T30	Software 1427 1441	Acrobat/Reader
+T29	Software 1413 1425	Flash Player
+T28	Vulnerability 1395 1409	security holes
+T26	Course-of-Action 1385 1390	fixes
+T27	Organization 1368 1373	Adobe
+T1	Course-of-Action 32 38	update
+T2	Organization 0 6	Oracle
+T3	Software 39 62	their database software
+T34	Version 557 565	11.2.0.4
+T35	Software 533 548	Database Server
+T36	Version 567 575	12.1.0.2
+T37	Version 577 585	12.2.0.1
+T38	Version 591 593	18
+T4	Course-of-Action 1233 1242	 this fix
+T5	Organization 1184 1217	IT departments and administrators
+T10	Campaign 1053 1059	attack
+T14	Protocol 910 923	 the protocol
+T40	Vulnerability 838 840	it
+T18	Vulnerability 406 425	 this vulnerability
+T20	Organization 427 433	Oracle
+T25	Person 459 468	customers
+T41	Person 19 28	customers
+T42	Version 521 529	versions
+T43	Course-of-Action 625 640	Oracle's update
+T44	Vulnerability 719 725	itself
+T45	Course-of-Action 1109 1126	 The Oracle patch
+T46	Course-of-Action 1567 1571	this
+T39	Organization 497 503	Oracle
+*	Coreference T7 T16 T6 T8 T11 T18 T44 T40
+*	Coreference T35 T15 T12
+*	Coreference T9 T2 T20 T39
+*	Coreference T41 T25
+*	Coreference T42 T34 T36 T37 T38
+*	Coreference T21 T46 T1 T43 T45

@@ -1,0 +1,76 @@
+T24	Version 1384 1402	the latest version
+T25	Software 1406 1420	the Git client
+T26	Software 1422 1436	Github Desktop
+T27	Software 1441 1445	Atom
+T14	Course-of-Action 1146 1151	fixed
+T16	Vulnerability 1117 1136	 This vulnerability
+T15	Version 1159 1166	v2.19.1
+T17	Version 1251 1256	1.4.2
+T18	Version 1273 1284	1.4.3-beta0
+T19	Version 1291 1297	1.31.2
+T20	Version 1308 1320	1.32.0-beta3
+T35	Software 1155 1158	Git
+T32	Version 1213 1220	v2.17.2
+T33	Version 1226 1233	v2.18.1
+T31	Version 1204 1211	v2.16.5
+T30	Version 1195 1202	v2.15.3
+T29	Version 1186 1193	v2.14.5
+T36	Software 1303 1307	Atom
+T37	Software 1286 1290	Atom
+T38	Software 1258 1272	Github Desktop
+T34	Software 1236 1250	GitHub Desktop
+T2	Organization 0 15	The Git Project
+T3	Time 26 35	yesterday
+T4	Vulnerability 35 85	 a critical arbitrary code execution vulnerability
+T5	Software 89 116	the Git command line client
+T6	Software 118 129	Git Desktop
+T7	Software 135 139	Atom
+T8	Attack-Pattern 151 208	allow malicious repositories to remotely execute commands
+T28	Device 225 232	machine
+T11	Vulnerability 233 252	 This vulnerability
+T10	Vulnerability 270 289	 the CVE-2018-17456
+T12	Vulnerability 322 338	CVE-2017-1000117
+T13	Vulnerability 339 369	option injection vulnerability
+T1	Vulnerability 389 402	vulnerability
+T9	Code 403 426	 a malicious repository
+T39	Attack-Pattern 431 501	create a .gitmodules file that contains an URL that starts with a dash
+T40	File 437 456	 a .gitmodules file
+T41	URL 470 477	 an URL
+T42	Attack-Pattern 506 518	using a dash
+T43	Software 525 528	Git
+T44	Code 589 601	 the command
+T45	URL 616 624	 the URL
+T46	Purpose 667 712	perform remote code execution on the computer
+T47	Device 699 712	 the computer
+T48	Code 729 759	git clone --recurse-submodules
+T49	Software 762 765	Git
+T50	File 786 802	.gitmodules file
+T51	URL 806 812	 a URL
+T52	File 838 840	it
+T53	Code 858 883	 a "git clone" subprocess
+T54	URL 888 896	 the URL
+T55	Attack-Pattern 906 945	set to a string that begins with a dash
+T56	Code 946 974	 this "git clone" subprocess
+T57	URL 985 993	 the URL
+T58	Purpose 1026 1055	executing an arbitrary script
+T59	Person 1086 1095	 the user
+T60	Code 1105 1114	git clone
+T61	Organization 1321 1337	 The Git Project
+T22	Person 1367 1372	users
+T21	Course-of-Action 1373 1402	upgrade to the latest version
+T23	Code 535 548	 a repository
+T63	Code 554 588	 the --recurse-submodules argument
+T62	Code 1476 1498	malicious repositories
+*	Coreference T18 T20
+*	Coreference T17 T19
+*	Coreference T37 T7 T36 T27
+*	Coreference T26 T6
+*	Coreference T2 T61
+*	Coreference T40 T50 T52
+*	Coreference T43 T35 T49
+*	Coreference T56 T53 T48
+*	Coreference T41 T45 T54 T51 T57
+*	Coreference T4 T11 T10
+*	Coreference T12 T13 T1 T16
+*	Coreference T38 T34
+*	Coreference T25 T5

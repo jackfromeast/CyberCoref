@@ -1,0 +1,78 @@
+T7	Organization 146 158	SecurityWeek
+T4	Software 117 144	a popular piece of software
+T2	Vulnerability 82 106	critical vulnerabilities
+T5	Attack-Pattern 53 74	be at risk of hacking
+T1	System 14 46	industrial control systems (ICS)
+T11	Organization 209 236	3S-Smart Software Solutions
+T20	Organization 749 769	security firm CyberX
+T28	Person 771 781	Phil Neray
+T25	Device 896 903	devices
+T30	Organization 1733 1741	ICS-CERT
+T32	Attack-Pattern 1847 1912	attackers can potentially gain remote code execution capabilities
+T16	Organization 457 484	3S-Smart Software Solutions
+T35	Course-of-Action 1946 1953	a patch
+T33	Organization 1915 1932	3S-Smart Software
+T13	Organization 400 412	SecurityWeek
+T37	Number 1 13	Thousands of
+T3	Vulnerability 176 181	flaws
+T6	Software 192 203	application
+T8	Vulnerability 242 259	potential problem
+T9	System 264 267	ICS
+T10	Software 299 330	hardware-independent middleware
+T38	Software 288 295	CODESYS
+T39	System 353 389	Industrial Internet of Things (IIoT)
+T40	System 394 397	ICS
+T14	Vulnerability 426 431	issue
+T12	Course-of-Action 510 515	patch
+T17	Person 612 623	IT managers
+T18	System 705 708	ICS
+T21	Vulnerability 724 729	flaws
+T19	Person 783 849	vice president of industrial cybersecurity and marketing at CyberX
+T22	Vulnerability 869 884	vulnerabilities
+T26	Software 970 978	software
+T27	Software 981 988	CODESYS
+T36	Device 1019 1026	devices
+T41	Device 1036 1066	programmable logic controllers
+T42	Device 1071 1095	human machine interfaces
+T43	Organization 1097 1103	CyberX
+T44	Device 1123 1130	devices
+T45	Organization 1166 1200	critical industrial infrastructure
+T46	Organization 1212 1224	power plants
+T47	Organization 1226 1251	oil and gas installations
+T48	Organization 1257 1294	chemical and pharmaceutical factories
+T49	Vulnerability 1307 1320	vulnerability
+T50	Vulnerability 1322 1335	CVE-2017-6027
+T51	Hacker-Group 1347 1355	attacker
+T52	File 1366 1381	arbitrary files
+T53	Device 1389 1407	CODESYS Web Server
+T55	Vulnerability 1465 1469	flaw
+T56	Vulnerability 1471 1484	CVE-2017-6025
+T57	Hacker-Group 1524 1533	attackers
+T58	Attack-Pattern 1547 1594	crash the application or execute arbitrary code
+T59	Software 1557 1568	application
+T60	Code 1580 1594	arbitrary code
+T29	Vulnerability 1811 1826	vulnerabilities
+T31	Hacker-Group 1847 1856	attackers
+T34	Organization 1959 1965	CyberX
+T61	Campaign 1985 2000	rollout process
+T62	Number 2025 2035	a range of
+T63	Hacker-Group 1614 1623	attackers
+T64	Vulnerability 1638 1643	flaws
+T65	Device 1697 1731	critical industrial infrastructure
+*	Coreference T7 T13
+*	Coreference T16 T11 T33
+*	Coreference T38 T27 T10
+*	Coreference T40 T9 T18 T1
+*	Coreference T43 T34
+*	Coreference T45 T65
+*	Coreference T50 T49
+*	Coreference T2 T3 T21 T22
+*	Coreference T14 T8
+T15	Organization 559 585	all affected organizations
+*	Coreference T28 T19
+T23	Device 918 936	CODESYS Web Server
+T66	Version 937 962	v2.3 and earlier versions
+*	Coreference T55 T56
+*	Coreference T64 T29
+T24	Attack-Pattern 1431 1452	remote code execution
+*	Coreference T53 T23

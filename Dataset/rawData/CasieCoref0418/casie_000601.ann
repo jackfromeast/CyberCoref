@@ -1,0 +1,91 @@
+T1	Campaign 36 49	a data breach
+T2	Person 74 83	customers
+T4	Location 87 95	the U.K.
+T7	Information 216 239	Wonga account passwords
+T24	Person 205 214	customers
+T8	Campaign 698 717	unauthorised access
+T13	Organization 654 659	Wonga
+T9	Information 721 738	the personal data
+T12	Location 778 784	Poland
+T11	Location 767 773	the UK
+T10	Person 750 763	its customers
+T14	Information 988 997	that data
+T17	Time 981 987	Friday
+T19	Time 950 959	last week
+T18	Organization 912 923	the company
+T16	Person 1065 1074	customers
+T20	Time 1078 1086	Saturday
+T23	Person 1722 1731	customers
+T3	Number 66 73	245,000
+T26	Number 106 112	25,000
+T27	Person 113 122	customers
+T28	Location 126 132	Poland
+T29	Organization 172 175	BBC
+T6	Person 280 285	users
+T30	Information 299 307	password
+T31	Organization 177 179	It
+T32	Organization 185 187	it
+T33	Organization 316 321	Wonga
+T34	Person 342 351	customers
+T35	Person 1675 1685	regulator 
+T21	Email 1697 1718	fake lawyers’ letters
+T22	Organization 394 398	bank
+T25	Vulnerability 402 416	potential risk
+T36	Organization 426 428	it
+T37	Organization 434 436	it
+T38	Campaign 494 500	breach
+T39	Organization 461 483	financial institutions
+T40	Organization 523 528	Wonga
+T41	Vulnerability 534 543	questions
+T42	Person 615 627	spokesperson
+T43	Organization 636 643	company
+T44	Vulnerability 942 949	problem
+T15	Organization 1092 1124	U.K.’s data protection regulator
+T45	Organization 1130 1133	ICO
+T46	Campaign 1171 1177	breach
+T47	Person 1211 1227	ICO spokesperson
+T48	Vulnerability 1251 1259	question
+T49	Organization 1296 1313	All organisations
+T50	Information 1344 1375	customers’ personal information
+T51	Course-of-Action 1339 1382	keep customers’ personal information secure
+T52	Person 1390 1392	we
+T53	Person 1421 1423	we
+T54	Time 1482 1486	2014
+T55	Organization 1491 1499	company 
+T56	Money 1517 1529	$340 million
+T57	Organization 1581 1621	U.K.’s Competition and Markets Authority
+T58	Money 1735 1742	arrears
+T59	Organization 1753 1759	Wonga 
+T60	Software 1803 1847	real-time automated decision-making platform
+T61	Number 1919 1926	330,000
+T62	Person 1927 1936	customers
+T63	Number 1984 1990	45,000
+T64	Person 874 883	customers
+T65	Time 2195 2199	2015
+T66	Money 2205 2218	£80.2 million
+T67	Organization 2095 2119	U.K. financial regulator
+T68	Money 2071 2087	short-term loans
+T69	Organization 2150 2166	Wonga’s business
+T70	Vulnerability 2001 2010	questions
+T71	Money 1965 1969	fees
+T72	Money 1769 1797	substantial tech investment 
+T73	Money 1533 1545	unpaid loans
+T74	Person 786 788	We
+T75	Organization 814 825	authorities
+T76	Organization 902 910	Guardian
+T77	Organization 1874 1876	it
+T5	Organization 0 16	Payday loan firm
+T78	Organization 17 23	Wonga 
+T81	Person 830 832	we
+T85	Organization 1650 1652	It
+*	Coreference T4 T11
+*	Coreference T12 T28
+*	Coreference T1 T46 T38
+*	Coreference T37 T36 T40 T59 T13 T5 T78 T33 T43 T18 T77 T55 T85
+*	Coreference T52 T53
+*	Coreference T31 T32 T29
+*	Coreference T74 T81
+*	Coreference T45 T15
+*	Coreference T56 T73
+T79	Money 2178 2184	losses
+*	Coreference T66 T79

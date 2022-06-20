@@ -1,0 +1,91 @@
+T4	Version 4 8	10.3
+T19	System 0 3	iOS
+T2	Vulnerability 52 58	 a bug
+T20	Purpose 95 107	extort money
+T21	Person 113 122	iOS users
+T23	Software 154 160	Safari
+T22	Attack-Pattern 123 150	through a JavaScript pop-up
+T27	Hacker-Group 226 239	 the scammers
+T28	Person 249 258	iOS users
+T26	Attack-Pattern 293 318	abused JavaScript pop-ups
+T25	Attack-Pattern 322 351	create an endless pop-up loop
+T29	Attack-Pattern 369 387	locked the browser
+T10	Purpose 522 534	extort money
+T9	Hacker-Group 488 501	 the scammers
+T12	Person 572 583	 the victim
+T24	Attack-Pattern 502 518	used the pop-ups
+T15	Purpose 782 792	paid a fee
+T14	Person 777 781	they
+T13	Attack-Pattern 739 769	"locked" out from using Safari
+T16	Hacker-Group 640 653	 The scammers
+T18	Attack-Pattern 654 701	abused the handling of pop-ups in Mobile Safari
+T17	Person 720 729	 a person
+T7	Attack-Pattern 431 457	Using "scareware" messages
+T8	Person 472 487	law enforcement
+T3	Time 33 45	this morning
+T1	Hacker-Group 72 80	scammers
+T5	Organization 178 206	mobile security firm Lookout
+T30	Domain 212 224	Ars Technica
+T31	Person 390 399	 the user
+T32	Course-of-Action 419 425	bypass
+T6	Attack-Pattern 462 487	posing as law enforcement
+T33	Software 550 556	iTunes
+T34	Purpose 598 635	unlock the browser for a sum of money
+T35	Number 621 629	a sum of
+T36	Money 630 635	money
+T37	Software 688 701	Mobile Safari
+T38	Course-of-Action 812 839	simply clear Safari's cache
+T39	Campaign 859 870	 The attack
+T40	Software 910 929	 the Safari browser
+T41	Code 942 946	code
+T42	Campaign 993 999	attack
+T43	Malware 1005 1012	Pegasus
+T44	Attack-Pattern 1018 1047	breaks out of the app sandbox
+T45	Purpose 1051 1080	install malware on the device
+T46	Malware 1059 1066	malware
+T47	Device 1069 1080	 the device
+T48	Hacker-Group 1085 1098	 The scammers
+T49	Attack-Pattern 1099 1169	registered domains and launched the attack from the domains they owned
+T50	Domain 1179 1195	police-pay[.]com
+T51	Hacker-Group 1202 1216	 the attackers
+T52	Purpose 1253 1338	scaring users looking for certain types of material on the Internet into paying money
+T53	Money 1333 1338	money
+T54	Course-of-Action 1374 1408	fixed by clearing the Safari cache
+T55	Vulnerability 1339 1364	 The endless pop-up issue
+T56	Software 1391 1402	 the Safari
+T57	Person 1419 1424	users
+T58	Course-of-Action 1484 1515	regain access to their browsers
+T59	Money 1475 1480	money
+T60	Campaign 1517 1529	Pop-up scams
+T61	System 1558 1561	iOS
+T62	Version 1562 1566	10.3
+T63	Organization 1571 1576	Apple
+T65	Software 1677 1687	Safari app
+T11	Course-of-Action 47 58	fixes a bug
+T68	Money 529 534	money
+T67	Software 604 616	 the browser
+T69	Money 786 792	 a fee
+T70	Person 801 805	they
+T71	Campaign 958 972	 this campaign
+T72	Domain 1110 1117	domains
+T73	Campaign 1130 1141	 the attack
+T74	Domain 1146 1158	 the domains
+T75	Hacker-Group 1159 1163	they
+T76	Person 1261 1266	users
+T77	System 1307 1320	 the Internet
+T78	Person 1445 1449	they
+T79	Software 1500 1515	 their browsers
+T64	Campaign 1618 1625	Pop-ups
+T83	Attack-Pattern 426 428	it
+*	Coreference T4 T62
+*	Coreference T19 T61
+*	Coreference T56 T65 T40 T37 T79
+*	Coreference T36 T68
+*	Coreference T60 T64
+*	Coreference T1 T27 T9 T16
+*	Coreference T28 T21 T31
+*	Coreference T25 T83
+*	Coreference T14 T17 T70
+*	Coreference T75 T48 T51
+*	Coreference T39 T73 T71
+*	Coreference T57 T78

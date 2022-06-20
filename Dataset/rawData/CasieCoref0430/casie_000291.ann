@@ -1,0 +1,88 @@
+T21	Campaign 1194 1221	custom information-stealing
+T29	Hacker-Group 1165 1173	Greenbug
+T22	Attack-Pattern 1222 1242	remote access trojan
+T23	Malware 1247 1250	RAT
+T24	Malware 1261 1275	Trojan.Ismdoor
+T39	Purpose 2292 2322	conduct the disk-wiping attack
+T36	Hacker-Group 2194 2202	Greenbug
+T28	Email 1374 1389	phishing emails
+T6	Purpose 1393 1407	infect victims
+T27	Hacker-Group 1352 1360	Greenbug
+T1	Campaign 75 88	data breaches
+T2	Location 92 107	the Middle East
+T3	Malware 168 195	disk-wiping malware variant
+T18	Attack-Pattern 825 854	rendering the device unusable
+T16	Malware 752 761	Disttrack
+T4	File 774 779	files
+T8	Attack-Pattern 784 823	overwrite a system’s master boot record
+T7	Person 0 20	Security researchers
+T9	Number 118 122	each
+T10	File 197 205	Reports 
+T11	Organization 210 218	Symantec
+T12	Campaign 251 261	intrusions
+T14	Campaign 290 325	 an infamous 2012 hacking operation
+T13	Location 350 355	Saudi
+T17	Organization 356 372	energy companies
+T19	Hacker-Group 373 401	 The mysterious perpetrators
+T20	Campaign 408 442	 the destructive 2012 cyberattacks
+T25	Organization 455 462	Shamoon
+T26	Organization 482 495	hacking group
+T30	Malware 523 535	 The malware
+T31	Organization 548 568	 the enigmatic group
+T32	Malware 571 584	W32.Disttrack
+T33	Malware 589 604	W32.Disttrack.B
+T34	Campaign 625 643	 the 2012 incident
+T35	Person 672 696	digital forensic experts
+T40	Time 712 721	Nov. 2016
+T15	Attack-Pattern 766 779	corrupt files
+T41	Information 793 823	 a system’s master boot record
+T43	Malware 857 864	Threats
+T44	Campaign 931 947	targeted attacks
+T45	Person 950 970	security researchers
+T46	Campaign 1021 1040	Saudi energy breach
+T47	Time 1045 1051	Monday
+T48	Organization 1053 1061	Symantec
+T49	Organization 1077 1079	it
+T50	Hacker-Group 1106 1113	Shamoon
+T51	Hacker-Group 1126 1147	cyber espionage group
+T52	Hacker-Group 1155 1163	Greenbug
+T53	Software 1316 1350	credentials stealing hacking tools
+T5	Attack-Pattern 1370 1407	use phishing emails to infect victims
+T54	Hacker-Group 1408 1418	 The group
+T55	Organization 1437 1460	Middle Eastern aviation
+T56	Organization 1462 1472	government
+T57	Organization 1474 1512	investment and education organizations
+T60	Time 1553 1575	June and November 2016
+T61	Malware 1577 1591	Trojan.Ismdoor
+T62	Organization 1618 1631	organizations
+T63	Location 1640 1656	 the Middle East
+T64	Malware 1714 1721	malware
+T65	Hacker-Group 1730 1752	nation state attackers
+T66	Malware 1683 1697	Trojan.Ismdoor
+T67	Campaign 1767 1793	 the information gathering
+T68	Hacker-Group 1808 1821	 the attacker
+T69	System 1827 1839	 the network
+T70	Hacker-Group 1886 1908	nation state attackers
+T71	Organization 1973 1983	CyberScoop
+T72	Person 1954 1967	 Jon DiMaggio
+T73	Organization 1911 1919	Symantec
+T74	Person 1927 1954	threat intelligence analyst
+T75	Purpose 1601 1656	against multiple organizations based in the Middle East
+T76	Person 1985 1996	Researchers
+T77	Number 2036 2044	 the two
+T78	Hacker-Group 2045 2059	hacking groups
+T79	Hacker-Group 2062 2069	Shamoon
+T80	Hacker-Group 2074 2082	Greenbug
+T83	Hacker-Group 2237 2244	Shamoon
+T38	Attack-Pattern 2247 2288	collects the necessary information needed
+T84	Hacker-Group 2214 2232	 the espionage arm
+T85	Number 2019 2022	one
+T37	Hacker-Group 1072 1076	what
+T42	Organization 1514 1538	Symantec’s research team
+T58	System 2127 2155	 a victim’s computer network
+*	Coreference T11 T73 T48 T49
+*	Coreference T61 T24 T66
+*	Coreference T65 T70 T68
+*	Coreference T20 T34 T14
+*	Coreference T37 T52 T36 T27 T29 T80 T84
+*	Coreference T79 T50 T83

@@ -1,0 +1,63 @@
+T1	Campaign 193 206	 the incident
+T3	Information 238 251	personal data
+T9	Person 359 385	local and foreign citizens
+T8	Information 331 349	credit card number
+T7	Information 299 329	Hong Kong Identity Card number
+T6	Information 282 297	passport number
+T4	Information 261 265	name
+T5	Information 267 280	date of birth
+T2	Campaign 160 180	data breach incident
+T11	Organization 132 159	 the Cathay Pacific Airways
+T12	Campaign 1391 1402	data breach
+T10	Person 4 42	Privacy Commissioner for Personal Data
+T13	Person 78 100	Mr Stephen Kai-yi WONG
+T14	Number 220 237	 a vast amount of
+T15	Person 386 443	 The office of the Privacy Commissioner for Personal Data
+T16	Location 445 454	Hong Kong
+T17	Location 44 53	Hong Kong
+T18	Person 456 460	PCPD
+T19	Course-of-Action 504 531	initiate a compliance check
+T20	Organization 487 499	 the airline
+T21	Person 532 557	 The Privacy Commissioner
+T22	Organization 565 577	 the airline
+T23	Course-of-Action 581 628	notify the affected clients as soon as possible
+T24	Person 690 697	Mr Wong
+T25	Information 770 788	 the personal data
+T26	Person 791 803	 its clients
+T27	Organization 708 721	organisations
+T28	Course-of-Action 727 759	take effective security measures
+T29	Person 807 836	 an external service provider
+T30	Person 850 867	 a data processor
+T31	Organization 868 885	 the organisation
+T32	Information 937 950	personal data
+T33	Attack-Pattern 956 1008	unauthorised or accidental access, processing or use
+T34	Person 1010 1017	Mr Wong
+T35	Information 1089 1128	 their personal accounts of the airline
+T36	Person 1037 1048	 the public
+T37	Information 1142 1162	credit card accounts
+T38	Course-of-Action 1176 1234	contact the airline and the related financial institutions
+T39	Organization 1183 1195	 the airline
+T40	Organization 1199 1234	 the related financial institutions
+T41	Person 1237 1241	They
+T42	Course-of-Action 1254 1282	change the account passwords
+T43	Course-of-Action 1287 1350	enable two-factor authentication to protect their personal data
+T44	Information 1330 1350	 their personal data
+T45	Person 1352 1359	Mr Wong
+T46	Organization 1467 1476	 the PCPD
+T47	Organization 1421 1433	organisation
+T48	Organization 1491 1500	 the PCPD
+T49	Person 1577 1584	clients
+T50	Organization 1523 1540	 the organisation
+T52	Person 1164 1168	they
+T53	Person 1057 1061	they
+T54	Person 55 75	Privacy Commissioner
+*	Coreference T8 T37
+*	Coreference T2 T12 T1
+*	Coreference T16 T17
+*	Coreference T22 T20 T39
+*	Coreference T26 T49
+*	Coreference T44 T3 T25 T32
+*	Coreference T34 T45 T24 T10 T21 T54 T13
+*	Coreference T48 T18 T46 T15
+*	Coreference T30 T29
+*	Coreference T53 T36 T52 T41

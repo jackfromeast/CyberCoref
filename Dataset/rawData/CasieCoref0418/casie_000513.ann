@@ -1,0 +1,42 @@
+T6	Purpose 646 697	transferring their super into self-managed accounts
+T1	Hacker-Group 537 551	Cybercriminals
+T7	Purpose 701 731	applying for hardship payments
+T8	Money 4 17	$2.2 trillion
+T9	Organization 18 52	Australian superannuation industry
+T10	Campaign 69 75	attack
+T11	Hacker-Group 81 95	cybercriminals
+T12	Organization 156 174	Palo Alto Networks
+T13	Hacker-Group 381 395	cybercriminals
+T2	Attack-Pattern 600 608	phishing
+T5	Attack-Pattern 613 638	steal victims’ identities
+T4	Information 619 638	victims’ identities
+T3	Organization 740 745	banks
+T14	Money 747 758	super funds
+T15	Hacker-Group 820 825	fraud
+T16	Organization 903 912	Palo Alto
+T17	Hacker-Group 919 933	Cybercriminals
+T18	Malware 984 991	malware
+T19	Time 1067 1071	2017
+T20	Time 1100 1112	a decade ago
+T21	Hacker-Group 1171 1185	cybercriminals
+T22	Money 1123 1143	superannuation funds
+T23	Course-of-Action 878 901	recovering stolen money
+T24	Person 1278 1302	superannuation providers
+T25	Hacker-Group 1440 1454	cybercriminals
+T26	Person 1470 1492	Palo Alto Regional CSO
+T27	Person 1497 1511	APAC Sean Duca
+T28	Vulnerability 1373 1396	potential vulnerability
+T29	Money 399 410	super funds
+T30	Money 420 434	superannuation
+T31	Attack-Pattern 512 517	theft
+T32	Attack-Pattern 578 588	techniques
+T33	Person 791 807	victims of fraud
+T34	Number 1046 1053	350,000
+T35	Number 1086 1089	300
+T36	System 1562 1603	antivirus and intrusion detection systems
+T37	Course-of-Action 1527 1544	security strategy
+T38	Vulnerability 1463 1467	them
+*	Coreference T1 T17 T25 T11 T21 T13
+T39	Organization 297 299	it
+*	Coreference T12 T39 T16
+*	Coreference T28 T38

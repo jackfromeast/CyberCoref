@@ -1,0 +1,65 @@
+T4	Organization 230 240	The vendor
+T5	Information 298 306	accounts
+T11	Organization 268 277	SunTzu583
+T12	Person 310 327	PlayStation users
+T2	Software 371 390	an unknown database
+T16	Information 575 583	accounts
+T15	System 527 546	PlayStation servers
+T13	Software 485 497	the database
+T27	Person 587 604	PlayStation users
+T31	Software 1205 1207	it
+T33	System 1225 1243	third party server
+T30	System 1158 1177	PlayStation servers
+T28	Software 1117 1129	the database
+T18	Time 905 918	February 2017
+T8	Information 75 99	Gmail and Yahoo accounts
+T10	Time 0 9	Last week
+T24	Information 996 1010	their accounts
+T26	Time 932 947	five months ago
+T25	Person 956 973	PlayStation users
+T19	Time 777 781	2015
+T6	Organization 10 18	HackRead
+T7	Number 65 74	1 million
+T9	Organization 45 51	vendor
+T21	Organization 141 147	vendor
+T34	Time 127 130	Now
+T35	Person 211 228	PlayStation users
+T36	Person 199 206	victims
+T3	Number 290 297	640,000
+T37	Money 336 345	USD 35.71
+T38	Money 347 357	0.0292 BTC
+T1	Information 398 406	accounts
+T39	Information 439 459	clear-text passwords
+T40	Email 415 421	emails
+T41	Organization 474 483	SunTzu583
+T14	Organization 606 615	SunTzu583
+T42	Number 783 794	2.5 million
+T44	Device 801 813	Xbox 360 ISO
+T22	Information 819 839	Playstation accounts
+T17	Domain 880 888	Dark Web
+T20	Campaign 720 750	PlayStation-related activities
+T45	Information 646 654	accounts
+T46	Domain 678 684	sites 
+T47	Information 692 696	they
+T23	Organization 1083 1089	vendor
+T29	Organization 1251 1259	HackRead
+T32	Information 1280 1309	authenticity of this database
+T48	System 1301 1309	database
+T49	Information 1330 1344	account on PSN
+T50	Domain 1341 1344	PSN
+T51	Information 1376 1384	password
+T52	Information 1400 1418	different password
+T53	Domain 1428 1433	sites
+T54	Device 841 848	PSP ISO
+T57	Person 1318 1321	you
+T59	Person 1245 1247	We
+T60	Software 552 554	it
+*	Coreference T28 T48 T13 T2 T60 T31
+*	Coreference T30 T15
+*	Coreference T6 T29
+*	Coreference T4 T9 T23 T21
+*	Coreference T41 T11 T14
+*	Coreference T46 T53
+*	Coreference T37 T38
+T43	Information 795 799	Xbox
+*	Coreference T45 T47

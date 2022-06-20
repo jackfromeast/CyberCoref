@@ -1,0 +1,70 @@
+T3	Domain 181 193	GameStop.com
+T2	Information 157 172	info from cards
+T5	Hacker-Group 568 575	hackers
+T8	Hacker-Group 706 713	hackers
+T7	Information 737 749	CVV2 numbers
+T11	Hacker-Group 858 869	the hackers
+T10	Information 893 913	these security codes
+T13	Information 1579 1586	details
+T17	Organization 4 11	company
+T18	Person 68 79	Brian Krebs
+T19	Organization 97 99	it
+T20	File 112 143	notification from a third party
+T1	Domain 224 237	 the Dark Web
+T21	Person 239 244	Krebs
+T22	Information 285 311	financial industry sources
+T23	Time 363 381	mid-September 2016
+T24	Time 385 417	 the first week of February 2017
+T25	Organization 419 427	GameStop
+T26	Information 450 468	 these data points
+T27	File 474 493	Brian Krebs’ report
+T28	Person 583 595	Vishal Gupta
+T29	Person 597 611	CEO of Seclore
+T30	Email 617 622	email
+T31	Information 637 656	credit-card numbers
+T6	Information 801 816	 this CVV2 data
+T32	Software 819 839	 their own databases
+T9	Hacker-Group 1023 1034	 the crooks
+T33	File 1039 1051	 the reports
+T34	Hacker-Group 1126 1139	 the bad guys
+T35	Time 1168 1188	the Christmas season
+T36	Time 1574 1577	now
+T14	Attack-Pattern 1637 1650	attack vector
+T37	Organization 1680 1692	 the company
+T38	Location 1723 1741	 the United States
+T39	Person 1788 1796	consumer
+T40	Campaign 1905 1912	attacks
+T41	Time 1889 1898	 a future
+T42	Person 1991 2000	retailers
+T43	Person 1874 1877	You
+T44	Person 2042 2051	John Gunn
+T45	Person 2053 2056	CMO
+T46	Organization 2058 2077	VASCO Data Security
+T47	Organization 2095 2107	 the Amazons
+T48	Organization 2112 2120	Walmarts
+T49	Organization 2174 2193	consumers’ business
+T50	Person 2196 2213	GameStop shoppers
+T51	Information 2233 2258	 their purchase histories
+T52	Person 1334 1349	Jonathan Sander
+T53	Person 1351 1354	CTO
+T54	Organization 1356 1380	STEALTHbits Technologies
+T55	Person 1458 1467	consumers
+T56	Person 1502 1506	they
+T57	Organization 1156 1160	them
+T60	Person 1278 1282	they
+T61	File 1098 1100	it
+T63	Person 1518 1522	they
+T64	Person 1232 1236	they
+T65	Campaign 2030 2034	them
+T4	Campaign 505 525	 the GameStop breach
+T12	Campaign 1057 1081	 the Gamestop.com breach
+T15	Person 1194 1219	tons of distant relatives
+*	Coreference T18 T21
+*	Coreference T28 T29
+*	Coreference T52 T53
+*	Coreference T44 T45
+*	Coreference T33 T61
+*	Coreference T11 T8
+*	Coreference T64 T15 T60
+*	Coreference T40 T65
+*	Coreference T56 T63 T55

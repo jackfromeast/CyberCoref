@@ -1,0 +1,73 @@
+T29	Information 1224 1240	 the stolen data
+T27	Hacker-Group 1185 1198	 the attacker
+T26	Information 1131 1150	payment information
+T11	Organization 285 299	 the companies
+T15	Organization 257 261	they
+T13	Information 345 349	data
+T14	Person 326 334	customer
+T9	Organization 151 159	FlexiSpy
+T8	Organization 138 146	Retina-X
+T5	Hacker-Group 205 212	hackers
+T6	Hacker-Group 215 228	hacker groups
+T7	Time 243 252	last week
+T2	Organization 104 108	they
+T3	Organization 0 16	Retina-X Studios
+T17	Hacker-Group 683 696	 the attacker
+T18	Device 719 728	 a server
+T22	Information 739 754	database tables
+T19	Organization 759 768	Net Orbit
+T20	Organization 770 782	PhoneSheriff
+T21	Organization 787 797	TeenShield
+T23	Campaign 1010 1027	was also breached
+T30	Information 973 1009	 A third-party photo storage account
+T31	Software 40 74	consumer-grade monitoring products
+T32	Organization 17 28	 the makers
+T33	Organization 169 182	spyware maker
+T4	Hacker-Group 355 361	hacker
+T10	Code 372 384	SQL exploits
+T12	Vulnerability 420 431	 a weakness
+T34	Version 434 469	 a decompiled and decrypted version
+T35	Software 472 499	 a now-discontinued product
+T36	Vulnerability 500 518	 The vulnerability
+T37	Software 532 551	 the coded software
+T38	Software 570 583	 the database
+T39	Code 587 608	 the eventual exploit
+T40	Person 612 636	unauthorized individuals
+T41	Organization 638 650	 the company
+T16	Information 798 809	 The tables
+T42	Information 835 850	login usernames
+T43	Information 852 869	subscription keys
+T44	Information 871 886	device metadata
+T45	Information 888 901	text messages
+T46	Information 903 916	GPS locations
+T47	Information 918 939	contacts’ information
+T48	File 941 972	apps installed and website logs
+T24	File 1034 1042	accounts
+T49	Time 1058 1077	February 21st, 2017
+T25	Hacker-Group 1247 1249	he
+T28	Organization 1327 1344	 the other victim
+T50	Organization 1346 1354	FlexiSpy
+T51	Organization 1278 1282	They
+T52	Software 1372 1386	their software
+T53	Organization 1094 1098	They
+T57	Person 1172 1176	they
+T58	Person 2098 2100	we
+T59	Organization 1991 1995	they
+T60	Organization 1946 1950	They
+T1	Campaign 122 136	 a data breach
+T54	Purpose 558 583	 a breach of the database
+T55	Purpose 1404 1423	monitor individuals
+T56	Software 1428 1442	 the monitorer
+T62	Software 1652 1671	monitoring software
+T63	Person 1770 1793	 the user of the device
+T64	Organization 1836 1848	 the company
+T65	Software 2038 2051	 the software
+*	Coreference T26 T47
+*	Coreference T11 T41
+*	Coreference T3 T32
+*	Coreference T37 T52 T65 T56 T62
+*	Coreference T9 T15 T33 T53 T57 T51 T64 T60
+*	Coreference T5 T6 T17
+*	Coreference T36 T12
+*	Coreference T25 T27
+*	Coreference T28 T50

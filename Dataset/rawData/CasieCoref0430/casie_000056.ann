@@ -1,0 +1,65 @@
+T8	Attack-Pattern 453 516	dumped the private key used to generate the market's .onion URL
+T9	Information 459 475	 the private key
+T2	Vulnerability 243 265	 an SQL injection flaw
+T3	Campaign 208 217	 the hack
+T5	Hacker-Group 197 207	Cipher0007
+T22	Hacker-Group 291 302	 The hacker
+T24	Vulnerability 317 340	 the SQL injection flaw
+T25	Device 362 381	the market's server
+T19	Hacker-Group 1376 1387	 the hacker
+T18	Vulnerability 1441 1447	 a bug
+T20	Person 1450 1469	 the AlphaBay staff
+T4	Time 1368 1375	January
+T15	Hacker-Group 518 528	Cipher0007
+T12	Information 592 629	details on the database configuration
+T14	Information 640 657	login information
+T10	Hacker-Group 2 8	hacker
+T26	Hacker-Group 38 48	Cipher0007
+T27	Domain 59 94	 the Sanctuary Dark Web marketplace
+T28	Hacker-Group 95 106	 The hacker
+T29	Campaign 116 127	 the breach
+T30	Time 127 143	 a few hours ago
+T31	Campaign 168 182	 his intrusion
+T32	Hacker-Group 235 237	he
+T1	Software 268 290	 the market's database
+T23	Hacker-Group 310 312	he
+T33	Attack-Pattern 344 381	upload a shell on the market's server
+T34	Code 350 358	 a shell
+T7	Hacker-Group 383 385	He
+T35	Malware 395 409	 this backdoor
+T6	Purpose 413 448	access various parts of the backend
+T36	URL 492 516	 the market's .onion URL
+T16	Hacker-Group 539 541	he
+T37	Software 546 583	 the market's phpMyAdmin installation
+T11	Domain 682 717	 the market's phpMyAdmin login page
+T38	Hacker-Group 781 792	 the hacker
+T13	File 806 819	 a screengrab
+T39	Code 835 845	 the shell
+T40	Device 848 878	 the Sanctuary market's server
+T41	Information 879 917	 the market's 1024 bit RSA private key
+T42	Information 922 975	 the market's root account database login information
+T43	Domain 976 997	 The Sanctuary market
+T44	Domain 1000 1024	 a small Dark Web market
+T45	Person 1162 1196	 The admin of the Sanctuary market
+T46	Hacker-Group 1301 1311	Cipher0007
+T47	Money 1397 1427	 an unspecified Bitcoin reward
+T17	Attack-Pattern 1486 1545	allowed an attacker access to over 218,000 private messages
+T21	Hacker-Group 1493 1505	 an attacker
+T48	Number 1521 1528	218,000
+T49	Organization 1547 1555	AlphaBay
+T50	Organization 1567 1590	biggest Dark Web market
+T51	Hacker-Group 1634 1646	 an attacker
+T52	Information 1659 1702	 the operations of many sellers and vendors
+T53	File 1605 1615	 those PMs
+T54	Hacker-Group 770 773	his
+T55	Software 1058 1074	digital products
+T56	Software 1083 1093	data dumps
+T57	Malware 1095 1102	malware
+*	Coreference T2 T24
+*	Coreference T25 T40
+*	Coreference T43 T44 T27
+*	Coreference T34 T39 T35
+*	Coreference T31 T29 T3
+*	Coreference T23 T22 T46 T5 T15 T26 T10 T28 T32 T7 T16 T38 T54 T19 T21
+*	Coreference T41 T9
+*	Coreference T42 T14

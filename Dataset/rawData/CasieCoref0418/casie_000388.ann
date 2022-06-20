@@ -1,0 +1,82 @@
+T8	Course-of-Action 297 300	fix
+T9	Course-of-Action 278 287	an update
+T11	Vulnerability 301 303	it
+T10	Vulnerability 252 265	vulnerability
+T13	Device 308 315	devices
+T12	Course-of-Action 358 375	the latest update
+T15	Vulnerability 392 394	it
+T36	Software 1219 1227	software
+T34	Device 1203 1205	it
+T37	Device 1180 1197	the Huawei Mate S
+T40	Version 1228 1251	version CRR-L09C432B380
+T18	Organization 501 507	Huawei
+T20	Organization 562 574	Huawei PSIRT
+T17	Vulnerability 522 535	vulnerability
+T6	Vulnerability 144 177	privilege elevation vulnerability
+T3	Vulnerability 28 45	new vulnerability
+T1	Organization 0 6	Huawei
+T4	Device 81 99	the Huawei Honor 7
+T5	Device 104 121	the Huawei Mate S
+T24	Vulnerability 681 696	vulnerabilities
+T25	Software 700 716	various products
+T26	Software 721 729	services
+T22	Person 596 601	Nicky
+T27	Campaign 812 836	vulnerability disclosure
+T31	Organization 785 791	Huawei
+T32	Person 742 748	Mr. Wu
+T29	Device 929 947	the Huawei Honor 7
+T28	Vulnerability 907 920	vulnerability
+T33	Software 964 972	software
+T38	Version 973 987	versions newer
+T2	File 208 222	arbitrary file
+T7	Software 233 246	Huawei Themes
+T14	Vulnerability 331 335	this
+T41	Person 413 415	we
+T42	Course-of-Action 462 468	update
+T43	Device 485 492	devices
+T44	Time 396 411	As of right now
+T16	Person 514 516	us
+T23	Person 731 733	We
+T45	Protocol 765 773	protocol
+T46	Course-of-Action 749 836	followed proper protocol to contact Huawei and coordinated the vulnerability disclosure
+T48	Organization 840 844	they
+T49	Person 860 869	customers
+T50	Person 891 893	We
+T30	Time 1010 1017	Meaning
+T51	Device 1035 1042	Honor 7
+T52	Organization 1048 1054	Huawei
+T53	Software 1067 1092	 PLK-UL00C17B385 firmware
+T54	Device 1115 1121	device
+T55	Campaign 1140 1146	attack
+T56	Campaign 1153 1159	attack
+T35	Course-of-Action 1210 1215	fixed
+T57	Device 1279 1285	Mate S
+T58	Organization 1291 1297	Huawei
+T60	Campaign 1396 1409	remote attack
+T61	Malware 1533 1548	malicious theme
+T62	Device 1557 1563	device
+T64	Person 1497 1504	someone
+T66	Device 1651 1653	it
+T67	Software 1666 1671	theme
+T68	File 1688 1703	malicious files
+T69	Person 1266 1269	you
+*	Coreference T42 T9 T12
+*	Coreference T36 T33
+*	Coreference T55 T27 T56
+*	Coreference T52 T1 T31 T58 T48 T18
+*	Coreference T41 T16 T23 T50
+T19	Organization 610 649	 Tencent’s Security Platform Department
+T39	Version 993 1008	PLK-UL00C17B385
+*	Coreference T15 T14 T3 T6 T10 T11 T17 T28
+T21	Person 578 583	Nicky
+T70	Person 585 593	Wu Huiyu
+*	Coreference T22 T21 T70 T32
+*	Coreference T13 T43
+*	Coreference T29 T51
+*	Coreference T34 T37 T57
+T47	Device 1568 1570	it
+T63	Device 1581 1583	it
+*	Coreference T47 T62 T63
+T65	Campaign 1627 1643	theme pack check
+*	Coreference T65 T66 T67
+T59	Software 1314 1342	the CRR-L09C432B380 firmware

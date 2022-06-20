@@ -1,0 +1,90 @@
+T2	Person 237 249	Argentinians
+T7	Person 330 336	people
+T10	Information 867 887	the personal details
+T12	Person 903 917	U.S. consumers
+T13	Person 962 969	British
+T14	Person 974 992	Canadian residents
+T1	Person 0 13	Investigators
+T6	Organization 19 32	Hold Security
+T11	Organization 36 72	Wisconsin-based security consultancy
+T15	Time 77 94	Tuesday afternoon
+T16	Software 109 150	unsecure internal customer service portal
+T17	Organization 155 166	the company
+T19	Number 230 236	14,000
+T3	Number 307 324	tens of thousands
+T21	Number 355 367	thousands of
+T22	Information 368 398	credit-related dispute records
+T23	Information 410 435	national identity numbers
+T24	Person 440 452	Argentinians
+T26	Number 545 548	100
+T28	Person 566 598	customer service representatives
+T29	Person 658 669	Brian Krebs
+T30	Person 650 657	blogger
+T31	Organization 684 691	Equifax
+T33	Organization 771 778	Equifax
+T9	Number 891 902	143 million
+T34	Information 933 958	as-yet-unspecified number
+T35	Person 994 1005	Alex Holden
+T39	Information 1047 1058	Information
+T40	Organization 1059 1079	Security Media Group
+T41	Domain 1085 1104	the Equifax website
+T42	Location 1109 1118	Argentina
+T43	Number 1144 1145	3
+T44	Person 1157 1159	He
+T45	Person 1165 1167	he
+T46	Vulnerability 1222 1232	the breach
+T47	Course-of-Action 1214 1232	uncover the breach
+T48	Person 1234 1240	Holden
+T49	Person 1245 1265	veteran investigator
+T50	System 1304 1317	Adobe Systems
+T52	Campaign 1329 1342	data breaches
+T53	Time 1346 1350	2013
+T54	Person 1358 1360	he
+T55	Organization 1377 1384	Equifax
+T56	Organization 1434 1441	Equifax
+T59	Time 1532 1538	Sept 7
+T60	Person 1545 1563	Meredith Griffanti
+T63	Location 1595 1608	Latin America
+T65	Information 1644 1662	public information
+T66	Person 1683 1692	consumers
+T67	Organization 1711 1734	customer service center
+T68	Person 1739 1752	the employees
+T69	Person 1786 1789	she
+T70	Organization 1797 1799	We
+T71	Time 1817 1829	at this time
+T72	Person 1835 1848	any consumers
+T73	Person 1850 1859	customers
+T74	Information 1864 1875	information
+T75	Software 1883 1914	commercial and credit databases
+T76	Organization 1945 1947	we
+T77	Location 2007 2017	the region
+T78	Person 2020 2029	Griffanti
+T79	Course-of-Action 1953 2017	continue to test and improve all security measures in the region
+T4	Information 197 216	national ID numbers
+T5	Campaign 277 281	leak
+T20	Domain 342 349	website
+T25	Information 498 521	usernames and passwords
+T27	Organization 556 563	company
+T32	Domain 697 704	website
+T8	Campaign 847 853	breach
+T58	Campaign 1512 1518	breach
+T57	Campaign 1480 1484	leak
+T64	Information 1614 1618	data
+T80	Organization 1519 1521	it
+T81	Domain 479 481	It
+*	Coreference T56 T31 T55 T33 T37 T80
+*	Coreference T60 T78 T38 T69
+*	Coreference T17 T27 T6 T11
+*	Coreference T5 T57
+*	Coreference T20 T32 T81
+*	Coreference T44 T45 T35 T48 T90 T49 T54
+*	Coreference T4 T23
+T89	Money 400 405	faxes
+T18	Campaign 169 191	Argentinian operations
+*	Coreference T30 T29
+*	Coreference T2 T24
+T90	Person 1007 1039	founder and CTO of Hold Security
+T36	Organization 1322 1328	Target
+T37	Organization 1447 1449	it
+T38	Person 1565 1590	the company's spokeswoman
+*	Coreference T70 T76

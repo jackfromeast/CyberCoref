@@ -1,0 +1,99 @@
+T10	Campaign 1866 1884	ransomware attacks
+T5	Campaign 862 876	ransom payment
+T6	Person 880 890	the police
+T1	Campaign 282 297	ransom payments
+T2	Time 298 307	last year
+T4	Hacker-Group 239 253	cybercriminals
+T3	Money 263 278	over $1 billion
+T8	Campaign 1085 1100	refusing to pay
+T7	Person 996 1008	Texas police
+T9	Hacker-Group 1101 1115	cybercriminals
+T15	Attack-Pattern 1579 1595	encrypt the data
+T13	Malware 1643 1655	fake malware
+T14	Hacker-Group 1534 1548	cybercriminals
+T12	Person 1624 1637	their victims
+T17	Hacker-Group 3214 3223	criminals
+T18	Number 326 332	3,500%
+T19	Number 529 533	218%
+T20	Number 558 562	112%
+T21	Number 577 580	93%
+T22	Malware 9 26	modern ransomware
+T23	Time 205 209	2016
+T24	Person 216 227	researchers
+T25	Campaign 395 415	ransomware campaigns
+T26	Number 504 507	50%
+T27	Time 511 515	2016
+T28	Person 417 429	Carbon Black
+T29	Malware 440 450	ransomware
+T30	Malware 474 481	malware
+T31	Malware 611 621	ransomware
+T32	Organization 719 743	law enforcement agencies
+T33	Malware 1276 1299	Ransomware-as-a-Service
+T34	Malware 1301 1305	RaaS
+T35	Hacker-Group 1248 1257	Attackers
+T36	Campaign 1186 1196	cybercrime
+T37	Organization 1222 1246	law enforcement agencies
+T38	Attack-Pattern 2048 2063	file encryption
+T39	Attack-Pattern 2067 2086	database encryption
+T40	Attack-Pattern 2109 2164	demonstrating a great scalability of ransomware tactics
+T41	Hacker-Group 2026 2035	Criminals
+T42	Device 1925 1932	mobiles
+T43	Device 1937 1946	smart TVs
+T44	Hacker-Group 2193 2206	hacking teams
+T45	Malware 2869 2879	ransomware
+T46	Campaign 2741 2772	large-scale attacking campaigns
+T47	Campaign 2822 2834	(cyber)crime
+T48	Campaign 2966 2976	cybercrime
+T49	Organization 3059 3072	organizations
+T50	Organization 3093 3096	FBI
+T51	Malware 3134 3144	ransomware
+T52	Organization 3406 3427	cybersecurity vendors
+T53	Organization 3434 3445	SentinelOne
+T54	Campaign 3383 3399	financial losses
+T55	Organization 3225 3228	PwC
+T56	Organization 3267 3279	organization
+T57	Person 1826 1830	they
+T58	Pronoun 2984 2985	I
+T59	Information 2338 2340	it
+T60	Person 1779 1783	them
+T63	Campaign 1212 1214	it
+*	Coreference T6 T7 T68
+*	Coreference T18 T26
+*	Coreference T23 T27
+*	Coreference T32 T37 T74
+T64	Campaign 80 110	evolving sectors of cybercrime
+T65	Campaign 64 67	one
+T66	Malware 191 201	ransomware
+T62	Campaign 349 379	criminal use of infrastructure
+T67	Campaign 801 827	this type of digital crime
+T68	Person 923 938	police officers
+*	Coreference T36 T64 T63
+T69	Person 1175 1182	victims
+*	Coreference T9 T35 T4 T41 T14 T47 T75
+*	Coreference T33 T34 T70 T73 T78
+T70	Malware 1488 1498	ransomware
+T71	Money 1367 1393	$195,000 of monthly profit
+T72	Money 1613 1618	money
+*	Coreference T71 T72
+T11	Person 1661 1668	victims
+*	Coreference T11 T12 T60 T57 T77
+T73	Malware 1706 1716	ransomware
+T74	Organization 1732 1756	law enforcement agencies
+T75	Hacker-Group 1810 1819	offenders
+T76	Campaign 2218 2238	ransomware campaigns
+T77	Person 2264 2270	victim
+T78	Malware 2146 2156	ransomware
+T79	Information 2273 2287	sensitive data
+*	Coreference T79 T59
+T80	Hacker-Group 2365 2374	attackers
+T81	Money 2342 2358	Cryptocurrencies
+T82	Money 2393 2401	payments
+*	Coreference T81 T82
+T84	Hacker-Group 2560 2574	cybercriminals
+*	Coreference T49 T50
+*	Coreference T17 T84 T44 T80
+*	Coreference T55 T56
+T61	Campaign 3296 3304	incident
+*	Coreference T48 T61 T46 T22 T45 T31 T51 T29 T65 T66 T25 T13 T30 T67 T10 T76
+*	Coreference T52 T53
+*	Coreference T1 T5 T54

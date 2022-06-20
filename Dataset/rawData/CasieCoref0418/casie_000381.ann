@@ -1,0 +1,63 @@
+T9	Campaign 0 20	A scareware campaign
+T10	Malware 76 90	MyMobileSecure
+T11	Person 94 103	iOS users
+T12	Attack-Pattern 104 142	via rogue ads on popular torrent sites
+T7	Software 148 155	VPN app
+T4	Attack-Pattern 388 417	an ear-piercing beeping sound
+T3	Attack-Pattern 422 464	claims the device is infected with viruses
+T1	Domain 370 381	pop-up page
+T5	Attack-Pattern 466 498	Tapping on ‘Remove Virus’ button
+T6	Purpose 45 103	pushes a ‘free’ VPN app called MyMobileSecure to iOS users
+T8	Software 54 68	‘free’ VPN app
+T13	Domain 121 142	popular torrent sites
+T14	Person 186 197	researchers
+T15	Information 206 222	privacy policies
+T16	Campaign 280 301	malvertising campaign
+T17	Software 321 324	app
+T18	Device 337 343	iPhone
+T19	Domain 353 366	certain sites
+T2	Device 433 439	device
+T20	Malware 457 464	viruses
+T21	Software 512 521	App Store
+T22	Software 538 541	app
+T23	Device 559 573	mobile devices
+T24	System 616 627	ad networks
+T25	Time 628 638	these days
+T27	Domain 690 694	blog
+T28	Hacker-Group 706 727	aggressive affiliates
+T29	Attack-Pattern 754 780	use these kinds of tactics
+T30	Purpose 784 837	drive traffic to game apps or even tech support scams
+T31	Software 801 810	game apps
+T32	Campaign 819 837	tech support scams
+T33	Software 865 877	free VPN app
+T34	Person 879 884	users
+T35	Organization 899 933	MobileXpression research community
+T36	Time 936 947	Often times
+T37	Organization 949 959	affiliates
+T38	Person 989 991	we
+T40	Attack-Pattern 1017 1069	force the installation of various pieces of software
+T41	Campaign 1027 1039	installation
+T42	Software 1061 1069	software
+T39	Person 1072 1078	Segura
+T43	Organization 1120 1130	affiliates
+T44	Organization 1162 1189	software vendors themselves
+T45	Campaign 1195 1211	scammy behaviors
+T46	Purpose 1212 1248	end up reflecting poorly on everyone
+T47	Person 1240 1248	everyone
+T48	Person 1277 1280	one
+T49	Software 1312 1327	VPN application
+T50	Person 1382 1394	average user
+T51	Course-of-Action 1404 1444	take the time to review the fine details
+T52	Time 1413 1417	time
+T53	Campaign 1494 1511	online activities
+T54	Software 1513 1517	this
+T55	Person 1545 1547	he
+T56	Software 1472 1475	VPN
+*	Coreference T8 T7
+*	Coreference T16 T9
+*	Coreference T22 T17
+T26	Person 646 669	Malwarebytes researcher
+T59	Person 670 683	Jérôme Segura
+*	Coreference T38 T39 T26 T59 T55
+*	Coreference T43 T37
+*	Coreference T56 T49

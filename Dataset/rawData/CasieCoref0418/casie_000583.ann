@@ -1,0 +1,88 @@
+T5	Hacker-Group 96 106	Fraudsters
+T38	System 129 139	Office 365
+T9	Information 161 178	login credentials
+T11	Attack-Pattern 188 223	using convincing fake login screens
+T33	Person 1306 1309	you
+T29	Person 1247 1251	they
+T31	Email 1264 1281	fraudulent emails
+T25	Attack-Pattern 615 664	use the stolen credentials to log into Office 365
+T24	Email 674 691	fraudulent emails
+T26	Hacker-Group 599 609	fraudsters
+T21	Domain 502 519	a fake login page
+T22	Purpose 520 564	asking for their email username and password
+T18	File 413 434	The fictitious emails
+T19	Person 488 498	the victim
+T13	Organization 323 333	a business
+T14	Organization 335 347	organization
+T15	Person 352 362	individual
+T16	Person 363 373	the victim
+T17	Campaign 225 248	Fraudster email attacks
+T1	Campaign 0 22	A recent phishing scam
+T4	Software 69 94	Office 365 email services
+T3	Person 51 60	consumers
+T2	Organization 36 46	businesses
+T27	Information 1186 1204	your email account
+T35	Information 1731 1754	your financial accounts
+T34	Information 1708 1719	information
+T37	Person 1694 1697	you
+T6	Information 129 148	Office 365 accounts
+T7	Attack-Pattern 152 178	stealing login credentials
+T8	Email 383 389	emails
+T10	Organization 398 406	business
+T12	URL 443 458	malicious links
+T41	File 462 473	attachments
+T20	Attack-Pattern 479 519	redirect the victim to a fake login page
+T42	Information 575 586	information
+T23	Attack-Pattern 669 720	send fraudulent emails to the victim’s contact list
+T43	Campaign 739 743	scam
+T44	Information 699 720	victim’s contact list
+T39	Person 748 751	you
+T40	Software 756 766	Office 365
+T45	Email 771 776	email
+T46	Person 778 780	we
+T47	Person 791 794	you
+T50	Email 817 860	Emails containing hyperlinks or attachments
+T49	File 849 860	attachments
+T51	Information 1059 1070	information
+T52	Person 949 952	you
+T53	Email 970 975	email
+T54	URL 1024 1029	links
+T55	File 1031 1042	attachments
+T56	Person 1072 1074	We
+T57	Person 1090 1093	you
+T58	Person 1117 1131	email contacts
+T59	Device 1136 1141	phone
+T60	Email 1145 1165	a safe email address
+T61	Person 1176 1180	them
+T28	Software 1317 1327	Office 365
+T30	Campaign 1370 1384	types of scams
+T32	Software 1347 1362	phishing target
+T62	Software 1431 1440	platforms
+T63	Software 1408 1426	email applications
+T64	Email 1486 1492	emails
+T65	Person 1533 1556	someone you do not know
+T66	URL 1570 1575	links
+T67	Information 1579 1590	attachments
+T68	Course-of-Action 1639 1656	security measures
+T69	Organization 1667 1681	email provider
+T36	Person 1799 1801	us
+T70	Person 1760 1762	us
+T71	Person 1822 1824	we
+T72	Person 1836 1839	you
+T73	Course-of-Action 1845 1911	protecting your accounts and notifying the appropriate authorities
+T74	Information 1861 1869	accounts
+T75	Information 1888 1911	appropriate authorities
+T76	Person 976 979	you
+T77	Person 896 899	you
+T81	Person 1591 1594	you
+T94	Person 1237 1241	them
+*	Coreference T40 T28 T38
+*	Coreference T54 T66
+*	Coreference T55 T67
+T48	URL 835 845	hyperlinks
+*	Coreference T1 T43
+*	Coreference T52 T76 T47 T39 T77
+*	Coreference T61 T58 T94 T29
+*	Coreference T57 T33
+*	Coreference T72 T37
+*	Coreference T70 T36 T71

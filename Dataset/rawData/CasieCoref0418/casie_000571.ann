@@ -1,0 +1,92 @@
+T6	Organization 116 127	the company
+T8	Vulnerability 138 153	vulnerabilities
+T2	Organization 11 17	Oracle
+T4	Course-of-Action 41 68	critical patch update (CPU)
+T5	Time 73 80	Q3 2018
+T3	Time 0 9	Yesterday
+T9	Campaign 636 642	update
+T10	Organization 613 622	companies
+T11	Software 652 664	applications
+T13	Vulnerability 686 695	each flaw
+T37	Vulnerability 1779 1794	vulnerabilities
+T46	Vulnerability 269 284	Vulnerabilities
+T47	Vulnerability 385 402	the exploit chain
+T15	Software 855 872	Oracle GoldenGate
+T16	Vulnerability 799 816	the vulnerability
+T18	Vulnerability 968 978	This issue
+T19	Software 994 1029	standalone GoldenGate installations
+T21	Software 1300 1308	products
+T22	Vulnerability 1221 1236	vulnerabilities
+T34	Software 1586 1623	the Oracle Sun Systems Products Suite
+T33	Software 1559 1580	the Oracle Siebel CRM
+T31	Software 1544 1557	Oracle Retail
+T32	Software 1537 1542	MySQL
+T30	Software 1518 1535	Oracle JD Edwards
+T29	Software 1487 1516	Oracle Insurance Applications
+T28	Software 1461 1485	Oracle Fusion Middleware
+T27	Software 1415 1459	the Oracle Enterprise Manager Products Suite
+T26	Software 1396 1413	Engineering Suite
+T25	Software 1368 1391	the Oracle Construction
+T24	Software 1345 1366	Oracle Communications
+T23	Software 1317 1343	the Oracle Database Server
+T38	Organization 1921 1927	Oracle
+T39	Time 1915 1919	2018
+T42	Vulnerability 1977 1982	flaws
+T45	Time 1994 2011	last year in 2017
+T44	Organization 1983 1985	it
+T1	Course-of-Action 18 80	released its quarterly critical patch update (CPU) for Q3 2018
+T48	Version 86 101	October edition
+T49	Course-of-Action 128 153	fixed 301 vulnerabilities
+T7	Vulnerability 162 171	301 flaws
+T50	Number 173 175	45
+T51	Number 182 204	severity rating of 9.8
+T52	Number 211 222	scale of 10
+T53	Number 250 267	maximum 10 rating
+T36	Course-of-Action 365 379	authentication
+T54	Hacker-Group 425 446	low-skilled attackers
+T55	Organization 500 522	Oracle's security team
+T56	Information 541 552	information
+T57	Vulnerability 564 577	vulnerability
+T58	Time 585 596	coming days
+T59	Information 672 679	details
+T12	Person 723 731	everyone
+T60	Hacker-Group 747 755	bad guys
+T61	Time 761 764	now
+T62	Information 766 784	little information
+T63	Number 835 846	10.0 rating
+T14	Software 876 902	data replication framework
+T64	Number 922 941	large quantities of
+T65	Information 942 953	information
+T17	Software 1059 1073	Oracle product
+T66	Number 1044 1052	numerous
+T67	Software 1087 1097	GoldenGate
+T68	Software 1147 1169	Oracle Database Server
+T69	Software 1171 1174	DB2
+T70	Software 1176 1181	MySQL
+T71	Software 1183 1189	Sybase
+T72	Software 1191 1200	Terradata
+T73	Software 1206 1212	others
+T74	Number 1243 1246	9.8
+T20	Number 1637 1657	staggering number of
+T75	Vulnerability 1658 1671	patched flaws
+T76	Number 1674 1677	301
+T77	Course-of-Action 1692 1721	Oracle's biggest recorded CPU
+T78	Course-of-Action 1742 1757	July 2018's CPU
+T79	Time 1742 1751	July 2018
+T35	Course-of-Action 1765 1794	addressed 334 vulnerabilities
+T80	Number 1775 1778	334
+T81	Number 1796 1798	55
+T82	Number 1814 1817	9.8
+T83	Organization 1903 1910	ERPScan
+T84	Person 1894 1910	folks at ERPScan
+T40	Course-of-Action 1928 1956	patched 1119 vulnerabilities
+T85	Number 1962 1976	same number of
+T43	Course-of-Action 1986 1993	patched
+T41	Vulnerability 1941 1956	vulnerabilities
+T86	Number 1936 1940	1119
+*	Coreference T2 T38 T44
+*	Coreference T32 T70
+*	Coreference T23 T68
+*	Coreference T20 T85
+*	Coreference T8 T7 T46
+*	Coreference T18 T16

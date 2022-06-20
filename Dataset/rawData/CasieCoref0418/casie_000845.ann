@@ -1,0 +1,47 @@
+T1	Campaign 84 95	data breach
+T3	Organization 0 39	The Intercontinental Hotels Group (IHG)
+T2	Information 99 120	customer card details
+T4	Time 145 149	2016
+T5	Campaign 368 387	unauthorized access
+T6	Information 391 408	payment card data
+T7	Time 415 431	December 29 2016
+T8	Campaign 1680 1693	data breaches
+T9	Information 585 595	track data
+T10	Malware 564 571	malware
+T12	Organization 2098 2102	them
+T13	Person 1602 1604	he
+T14	File 324 326	It
+T15	Information 761 763	it
+T16	Organization 187 192	group
+*	Coreference T3 T16 T17
+T17	Organization 233 236	IHG
+T18	File 154 171	a lengthy missive
+*	Coreference T18 T14
+T19	Malware 455 462	malware
+T20	Organization 502 512	properties
+T21	Organization 237 243	hotels
+*	Coreference T21 T20 T24 T31 T33
+*	Coreference T19 T10 T28 T40
+*	Coreference T2 T9 T6 T15 T23 T29
+T22	Device 793 814	affected hotel server
+T23	Information 850 867	guest information
+T24	Organization 883 901	IHG-branded hotels
+T28	Malware 1072 1079	malware
+T29	Information 1099 1108	card data
+T30	Organization 1123 1134	hotel group
+T31	Organization 1170 1177	outlets
+T32	Person 1185 1194	customers
+T33	Organization 1229 1235	hotels
+T34	Campaign 1252 1258	breach
+*	Coreference T1 T34 T8
+T35	Person 1312 1327	Ilia Kolochenko
+T36	Person 1329 1352	CEO of High-Tech Bridge
+*	Coreference T35 T36 T38 T13
+T37	Organization 1366 1384	the hotel industry
+T38	Person 1421 1422	I
+T39	Organization 1881 1895	hotel business
+*	Coreference T37 T39
+T40	Malware 1985 1992	malware
+T41	Campaign 2032 2050	current IHG breach
+T42	Organization 2063 2068	firms
+*	Coreference T42 T12

@@ -1,0 +1,172 @@
+T69	Information 2278 2288	a password
+T67	Hacker-Group 2256 2267	an attacker
+T70	Purpose 2304 2315	gain access
+T71	Information 2330 2337	account
+T105	Person 2318 2327	 a victim
+T73	Hacker-Group 2339 2350	An attacker
+T74	Person 2367 2377	the victim
+T75	Email 2378 2386	an email
+T77	Attack-Pattern 2406 2444	clicking through a password reset link
+T6	Attack-Pattern 184 206	execute arbitrary code
+T4	Attack-Pattern 76 120	let an attacker gain access to user accounts
+T5	Attack-Pattern 122 159	carry out web-cache poisoning attacks
+T3	Vulnerability 49 64	vulnerabilities
+T1	Software 0 35	Vanilla Forums open source software
+T7	Software 216 242	open source forum software
+T9	Vulnerability 256 271	vulnerabilities
+T10	Attack-Pattern 283 327	let an attacker gain access to user accounts
+T11	Attack-Pattern 329 366	carry out web-cache poisoning attacks
+T12	Attack-Pattern 391 413	execute arbitrary code
+T16	Vulnerability 451 470	the vulnerabilities
+T13	Organization 415 428	Legal Hackers
+T14	Person 430 444	Dawid Golunski
+T17	Attack-Pattern 500 537	an unauthorized remote code execution
+T18	Vulnerability 538 551	vulnerability
+T19	Software 555 563	software
+T20	System 586 600	Vanilla Forums
+T115	Attack-Pattern 472 495	a host header injection
+T23	Person 602 610	Golunski
+T22	Vulnerability 619 630	 the issues
+T25	Time 652 659	January
+T24	System 634 648	Vanilla Forums
+T27	Person 670 684	a support team
+T29	Vulnerability 823 842	the vulnerabilities
+T30	Time 843 851	Thursday
+T31	Organization 756 767	the company
+T32	Time 728 739	five months
+T35	Vulnerability 908 927	the vulnerabilities
+T33	Person 883 897	The researcher
+T37	System 978 992	Vanilla Forums
+T108	Version 961 974	version (2.3)
+T39	Software 1024 1042	the forum software
+T40	Person 994 996	He
+T46	Organization 1222 1234	 the company
+T45	Software 1237 1265	free and open source product
+T49	Vulnerability 1301 1314	vulnerability
+T50	Vulnerability 1325 1339	CVE-2016-10033
+T47	Person 1267 1275	Golunski
+T54	Time 1391 1404	last December
+T52	Person 1378 1380	he
+T51	Vulnerability 1352 1377	a PHPMailer vulnerability
+T60	Campaign 1795 1799	says
+T61	Person 1786 1794	Golunski
+T62	Vulnerability 1800 1816	the second issue
+T63	Vulnerability 1818 1857	the host header injection vulnerability
+T64	Vulnerability 1859 1873	CVE-2016-10073
+T66	System 1903 1915	the software
+T106	Version 1888 1899	version 2.3
+T110	Vulnerability 2236 2244	 the bug
+T79	Campaign 2871 2875	says
+T80	Vulnerability 2747 2764	the vulnerability
+T81	Attack-Pattern 2776 2803	lead to web-cache poisoning
+T78	Person 2862 2870	Golunski
+T87	Person 3158 3166	Golunski
+T88	Vulnerability 3177 3196	the vulnerabilities
+T89	System 3200 3214	Vanilla Forums
+T90	Time 3223 3231	December
+T91	Software 3248 3260	the software
+T93	Person 3267 3269	he
+T94	Vulnerability 3302 3305	bug
+T95	System 3292 3301	PHPMailer
+T100	Person 3609 3617	Golunski
+T99	Software 3595 3604	WordPress
+T98	Vulnerability 3574 3591	RCE vulnerability
+T96	Vulnerability 3544 3559	vulnerabilities
+T97	System 3524 3543	 the Vanilla Forums
+T102	Time 3628 3637	last week
+T104	System 3667 3670	PHP
+T103	System 3653 3662	PHPMailer
+T107	Version 3605 3608	4.6
+T112	Vulnerability 3752 3767	vulnerabilities
+T113	Vulnerability 3699 3711	The exploits
+T119	Hacker-Group 3790 3815	unauthenticated attackers
+T121	Software 3886 3910	a vulnerable application
+T120	System 3820 3834	server headers
+T114	Attack-Pattern 3914 3949	dynamically create a sender address
+T42	Course-of-Action 1204 1209	fixed
+T43	Vulnerability 1150 1169	the vulnerabilities
+T59	Campaign 1572 1581	is pushed
+T58	Course-of-Action 1566 1571	a fix
+T85	Campaign 2998 3001	fix
+T82	System 2904 2918	Vanilla Forums
+T84	Vulnerability 2964 2973	the issue
+T83	Time 2944 2951	January
+T116	Vulnerability 1441 1463	the same vulnerability
+T55	System 1467 1481	Vanilla Forums
+T57	Attack-Pattern 1485 1506	sending a web request
+T117	Attack-Pattern 1516 1558	a payload is passed within the HOST header
+T118	Hacker-Group 1406 1417	An attacker
+T2	Email 4089 4108	From/Sender address
+T8	Person 4068 4072	user
+T15	Organization 3966 3976	Threatpost
+T122	Person 2396 2400	them
+T124	Software 3108 3110	it
+T125	Person 799 802	him
+T126	Person 2446 2448	he
+T128	Software 2952 2954	it
+T129	Person 2960 2963	him
+T130	Person 3336 3338	he
+T21	Hacker-Group 79 91	 an attacker
+T26	Information 107 120	user accounts
+T28	Campaign 132 159	web-cache poisoning attacks
+T34	Code 192 206	arbitrary code
+T36	Hacker-Group 286 298	 an attacker
+T38	Information 314 327	user accounts
+T41	Campaign 339 366	web-cache poisoning attacks
+T44	Code 399 413	arbitrary code
+T48	Person 1087 1102	Lincoln Russell
+T53	Person 1104 1140	a senior developer at Vanilla Forums
+T56	Person 1582 1590	Golunski
+T65	Person 1606 1611	users
+T68	Information 1635 1656	support email address
+T86	Information 1709 1726	 an email address
+T92	Vulnerability 1916 1926	 The issue
+T101	Software 1951 1970	 the forum software
+T111	Hacker-Group 2085 2097	 an attacker
+T123	Software 2049 2059	 the forum
+T133	Domain 2132 2148	the email domain
+T131	Email 2470 2475	email
+T134	Hacker-Group 2581 2594	 the attacker
+T135	Device 2522 2538	attackers_server
+T136	Device 2597 2603	server
+T137	Hacker-Group 2621 2634	 the attacker
+T138	Email 2020 2026	emails
+T139	Person 2659 2675	 the victim user
+T140	URL 2686 2705	 the malicious link
+T141	Person 2708 2716	Golunski
+T142	URL 2539 2563	 The password reset link
+T143	URL 2422 2444	 a password reset link
+T145	Person 2932 2940	Golunski
+T146	Person 2890 2897	Russell
+T147	Software 3048 3060	 this server
+T132	Vulnerability 3352 3383	 an unauthenticated RCE exploit
+T148	Device 3472 3479	servers
+T151	Information 3932 3949	 a sender address
+T152	Person 3952 3960	Golunski
+*	Coreference T105 T74 T122
+*	Coreference T118 T119 T73 T67 T111
+*	Coreference T6 T12
+*	Coreference T4 T10
+*	Coreference T1 T7
+*	Coreference T11 T5 T81
+*	Coreference T25 T83
+*	Coreference T31 T46
+*	Coreference T108 T106
+*	Coreference T54 T90 T102
+*	Coreference T60 T79
+*	Coreference T95 T103
+*	Coreference T18 T3 T88 T29 T112 T16 T9 T35 T22 T43 T96 T113
+*	Coreference T37 T55 T89 T82 T20 T97 T24 T39 T91 T66 T101 T123 T128 T124
+*	Coreference T28 T41
+*	Coreference T33 T40
+*	Coreference T53 T48 T146
+*	Coreference T50 T49 T116
+*	Coreference T68 T86 T133
+*	Coreference T63 T64 T62 T92 T110 T94 T80 T84
+*	Coreference T75 T131
+*	Coreference T135 T136 T147
+*	Coreference T134 T137
+*	Coreference T140 T142 T143
+*	Coreference T93 T130 T87 T14 T23 T125 T47 T52 T56 T61 T126 T141 T78 T145 T129 T100 T152
+*	Coreference T132 T98
+*	Coreference T139 T8

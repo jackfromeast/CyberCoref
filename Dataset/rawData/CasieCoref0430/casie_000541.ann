@@ -1,0 +1,70 @@
+T22	Campaign 1562 1583	 this phishing attack
+T8	Hacker-Group 1635 1644	attackers
+T25	File 1651 1665	legitimate ads
+T29	Time 1625 1633	December
+T6	Person 1676 1690	brand managers
+T7	Person 1695 1706	influencers
+T26	File 1779 1787	 The ads
+T14	Information 1809 1819	an account
+T9	Organization 1831 1852	 the official Twitter
+T10	Information 1853 1868	support account
+T2	Hacker-Group 1109 1122	threat actors
+T4	Person 1174 1179	users
+T32	Attack-Pattern 1127 1165	using the promise of verified accounts
+T15	Campaign 59 79	 a phishing campaign
+T11	Domain 2 13	 a new blog
+T13	Person 19 47	researchers from Proofpoint 
+T12	Course-of-Action 107 133	Twitter Brand Verification
+T16	Person 143 154	 the actors
+T17	Information 1879 1902	 The fraudulent account
+T18	Organization 1926 1933	Twitter
+T19	Person 2012 2042	a very low number of followers
+T20	Information 2047 2061	a suspect name
+T21	Person 1599 1621	Proofpoint researchers
+T5	URL 1711 1718	 a link
+T24	Domain 1721 1778	 a phishing site purporting to offer account verification
+T23	Information 923 934	 an account
+T28	Person 1008 1021	Twitter users
+T27	Person 1076 1088	 an impostor
+T30	Person 1027 1031	they
+T3	Purpose 1169 1214	lure users into a credit card phishing scheme
+T31	Campaign 1184 1214	 a credit card phishing scheme
+T1	File 189 201	targeted ads
+T33	Organization 205 212	Twitter
+T34	Person 214 219	users
+T35	URL 252 270	 the phishing link
+T36	Hacker-Group 272 281	Attackers
+T37	Attack-Pattern 319 348	social engineering approaches
+T38	Attack-Pattern 353 390	extending them across social channels
+T39	Person 392 397	Users
+T40	Organization 402 408	brands
+T41	Course-of-Action 442 469	avoid getting snared by ads
+T42	File 466 469	ads
+T43	Course-of-Action 442 524	avoid getting snared by ads, accounts, and messages that initially look legitimate
+T44	Information 471 479	accounts
+T45	File 485 524	messages that initially look legitimate
+T46	Campaign 531 543	 this attack
+T47	Organization 560 567	Twitter
+T48	Campaign 573 580	 a scam
+T49	Software 609 630	social media platform
+T50	Course-of-Action 660 680	account verification
+T51	Domain 681 695	 The full blog
+T52	Course-of-Action 751 768	Verified accounts
+T53	Organization 793 800	Twitter
+T54	Course-of-Action 804 917	help brands differentiate themselves from fraudulent, impersonation, and parody accounts on the social media site
+T55	Information 846 892	fraudulent, impersonation, and parody accounts
+T56	Domain 895 917	 the social media site
+T57	Organization 1063 1068	brand
+T58	Course-of-Action 1538 1558	account verification
+T59	Course-of-Action 1339 1366	multiple verification steps
+T60	Organization 1255 1262	Twitter
+T61	Course-of-Action 1216 1236	Account verification
+T62	Course-of-Action 1389 1410	 a quick verification
+T63	Organization 1456 1466	businesses
+T64	Information 959 961	it
+T65	Hacker-Group 363 367	them
+*	Coreference T60 T53 T47 T33 T18
+*	Coreference T65 T36
+*	Coreference T64 T23
+*	Coreference T28 T30
+*	Coreference T22 T31 T48 T46

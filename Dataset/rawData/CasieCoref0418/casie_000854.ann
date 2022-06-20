@@ -1,0 +1,59 @@
+T3	Vulnerability 29 64	the existence of two high-risk bugs
+T1	Hacker-Group 9 17	a hacker
+T11	Vulnerability 310 329	the vulnerabilities
+T12	Time 330 347	earlier this week
+T13	Vulnerability 376 387	these flaws
+T14	Attack-Pattern 394 427	be used to steal private messages
+T15	Organization 431 439	AlphaBay
+T9	Hacker-Group 289 299	Cipher0007
+T47	Vulnerability 78 94	this information
+T22	Vulnerability 662 672	these bugs
+T45	Organization 632 636	they
+T21	Organization 573 581	AlphaBay
+T43	Vulnerability 1147 1158	the methods
+T44	Hacker-Group 1159 1161	he
+T41	Hacker-Group 1121 1131	Cipher0007
+T39	Organization 1178 1186	AlphaBay
+T40	Organization 1190 1201	the company
+T4	Hacker-Group 151 161	Cipher0007
+T6	Information 188 204	private messages
+T8	Hacker-Group 124 130	hacker
+T18	Information 530 534	them
+T17	Hacker-Group 510 520	Cipher0007
+T19	Information 441 453	The messages
+T28	Organization 942 950	AlphaBay
+T29	Hacker-Group 913 915	he
+T27	Hacker-Group 979 989	Cipher0007
+T30	Information 1006 1017	screenshots
+T26	Information 961 977	private messages
+T33	Hacker-Group 1041 1051	Cipher0007
+T48	Information 1090 1105	the stolen data
+T35	Course-of-Action 1264 1267	fix
+T38	System 1232 1252	the trading platform
+T37	Person 1214 1228	the developers
+T36	Vulnerability 1268 1277	the flaws
+T49	Information 734 742	messages
+T31	Hacker-Group 697 707	Cipher0007
+T7	Number 726 733	218,000
+T2	Number 180 187	200,000
+T5	Person 244 249	users
+T10	Person 250 256	buyers
+T16	Person 261 268	sellers
+T20	Information 212 220	messages
+*	Coreference T26 T49 T20 T19 T6 T25 T18 T34 T42 T48
+*	Coreference T45 T40 T28 T21 T15 T39 T46
+*	Coreference T41 T4 T44 T9 T17 T31 T27 T33 T1 T8 T29
+*	Coreference T3 T47 T11 T22 T13 T36 T50
+*	Coreference T5 T10
+T23	Organization 364 370	Reddit
+T24	Organization 98 104	Reddit
+*	Coreference T24 T23
+T25	Information 411 427	private messages
+T32	Information 475 483	PGP keys
+T34	Information 770 785	hacked messages
+T42	Information 858 866	messages
+T46	Organization 1023 1031	AlphaBay
+T50	Vulnerability 1072 1077	flaws
+T51	System 823 836	site’s system
+*	Coreference T51 T38
+T52	Person 1279 1298	Cellular” Customers

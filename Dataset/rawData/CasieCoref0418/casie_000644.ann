@@ -1,0 +1,103 @@
+T12	Version 604 622	version 3.04.05.05
+T11	Organization 575 582	company
+T18	Course-of-Action 597 602	a fix
+T43	Vulnerability 635 645	the issues
+T46	Course-of-Action 728 738	the update
+T24	Person 1436 1446	Maxim Rupp
+T23	Vulnerability 1508 1516	the bugs
+T2	System 60 90	popular web-based SCADA system
+T3	Organization 99 108	Honeywell
+T4	Vulnerability 12 48	remotely exploitable vulnerabilities
+T5	Attack-Pattern 130 146	expose passwords
+T35	System 251 284	Honeywell’s XL Web II controllers
+T34	Vulnerability 215 224	The flaws
+T44	Version 234 247	some versions
+T7	Vulnerability 545 560	vulnerabilities
+T9	Time 561 569	Thursday
+T16	Vulnerability 1657 1682	a pair of vulnerabilities
+T20	Attack-Pattern 1766 1804	let an attacker unlock a house’s doors
+T19	Organization 1737 1748	the company
+T21	Time 1629 1642	Two years ago
+T36	Person 1643 1645	he
+T17	System 1686 1698	Tuxedo Touch
+T42	Attack-Pattern 1808 1835	modify its climate controls
+T27	Vulnerability 2287 2291	they
+T28	Time 2309 2315	August
+T49	Vulnerability 1593 1597	bugs
+T47	Person 1573 1577	Rupp
+T40	Information 986 994	password
+T41	Attack-Pattern 1005 1031	accessing a particular URL
+T38	Hacker-Group 961 965	they
+T14	Hacker-Group 940 949	attackers
+T32	Organization 2199 2210	The company
+T29	Time 2266 2280	September 2016
+T31	Vulnerability 2234 2249	vulnerabilities
+T1	Course-of-Action 2250 2262	were patched
+T26	Organization 1922 1931	Honeywell
+T30	Organization 1937 1953	US-based company
+T52	Time 2082 2088	Friday
+T53	Person 2090 2118	a spokesperson for Honeywell
+T54	Location 2171 2177	Europe
+T55	Location 2186 2197	Middle East
+T56	Software 2147 2158	controllers
+T57	Location 2038 2044	Europe
+T58	Location 2053 2064	Middle East
+T59	File 1968 1987	ICS-CERT’s advisory
+T60	Software 2017 2025	products
+T15	Person 1451 1482	independent security researcher
+T48	Location 1492 1499	Germany
+T22	Software 1536 1543	Twitter
+T51	Time 1547 1571	the beginning of January
+T25	System 286 293	systems
+T6	Course-of-Action 627 645	address the issues
+T13	Person 650 655	users
+T10	Organization 675 716	local Honeywell Building Solutions branch
+T33	Organization 757 764	company
+T45	Number 794 798	five
+T61	Vulnerability 799 814	vulnerabilities
+T39	Hacker-Group 1036 1044	attacker
+T62	URL 1114 1117	URL
+T63	Campaign 1068 1089	path traversal attack
+T64	URL 1177 1180	URL
+T65	Hacker-Group 1383 1391	attacker
+T8	Hacker-Group 165 174	attackers
+T37	Information 137 146	passwords
+T66	Attack-Pattern 160 213	give attackers a foothold into the vulnerable network
+T67	System 206 213	network
+T68	Organization 356 366	wastewater
+T69	Organization 368 374	energy
+T70	Organization 380 403	manufacturing companies
+T71	Organization 426 516	Department of Homeland Security’s Industrial Control Systems Cyber Emergency Response Team
+T72	Organization 518 526	ICS-CERT
+T73	File 408 416	advisory
+T74	System 770 781	controllers
+T75	Information 868 877	passwords
+T76	System 886 897	controllers
+T77	Information 912 922	clear text
+T78	URL 1028 1031	URL
+T79	Information 1140 1150	parameters
+T80	Code 1197 1213	new user session
+T81	Code 1243 1259	new user session
+T82	System 1272 1283	controllers
+T83	Software 1315 1333	session identifier
+T84	Code 1412 1434	authenticated sessions
+T50	Device 1601 1620	Honeywell equipment
+T85	Software 1702 1728	home automation controller
+T86	Hacker-Group 1773 1781	attacker
+T87	System 1878 1911	Honeywell’s XL Web II controllers
+T88	Vulnerability 1528 1532	them
+T90	System 119 121	it
+*	Coreference T43 T23 T49 T88
+*	Coreference T3 T26
+*	Coreference T35 T87
+*	Coreference T30 T11 T32 T33 T19
+*	Coreference T54 T57
+*	Coreference T55 T58
+*	Coreference T78 T64 T62
+*	Coreference T86 T14 T8 T65 T39 T38
+*	Coreference T40 T75 T37
+*	Coreference T56 T82 T74 T76
+*	Coreference T80 T81
+*	Coreference T36 T47
+*	Coreference T2 T90
+*	Coreference T31 T27 T16

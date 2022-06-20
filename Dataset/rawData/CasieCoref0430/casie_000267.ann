@@ -1,0 +1,160 @@
+T42	Person 2297 2304	victims
+T40	Hacker-Group 2349 2363	 the attackers
+T39	Attack-Pattern 2373 2388	took their data
+T45	Device 2266 2273	servers
+T43	Campaign 2224 2239	MongoDB attacks
+T47	Organization 2393 2402	companies
+T56	Purpose 2956 2962	ransom
+T54	Attack-Pattern 2883 2930	used unpatched phpBB forums to hijack databases
+T51	Hacker-Group 2873 2882	attackers
+T53	Campaign 2841 2848	attacks
+T52	Time 2820 2824	2015
+T59	Campaign 2856 2865	RansomWeb
+T50	Device 2752 2765	MySQL servers
+T2	System 24 31	MongoDB
+T3	System 33 46	ElasticSearch
+T4	System 48 54	Hadoop
+T5	System 56 63	CouchDB
+T6	System 69 86	Cassandra servers
+T15	Campaign 878 894	their ransacking
+T16	Hacker-Group 896 905	attackers
+T10	Money 212 226	 a 0.2 Bitcoin
+T13	Money 228 232	$235
+T11	Attack-Pattern 173 201	leaving a ransom note behind
+T9	Attack-Pattern 145 167	deleting their content
+T8	Attack-Pattern 106 143	hijacking hundreds of MySQL databases
+T7	Attack-Pattern 88 97	attackers
+T28	File 1598 1610	ransom notes
+T30	Attack-Pattern 1687 1711	get in contact via email
+T32	Attack-Pattern 1800 1841	redirecting users to a Tor-hosted website
+T29	Person 1676 1683	victims
+T34	Person 1992 1999	victims
+T57	File 1878 1895	 the ransom notes
+T37	Person 2081 2094	their victims
+T36	Hacker-Group 2032 2046	 the attackers
+T25	Attack-Pattern 1424 1443	delete it afterward
+T24	Attack-Pattern 1392 1419	dump the database's content
+T23	Hacker-Group 1371 1380	attackers
+T22	Purpose 1189 1210	 their ransom demands
+T19	Attack-Pattern 1137 1174	left a table inside it called WARNING
+T21	Attack-Pattern 1091 1132	created a new database called PLEASE_READ
+T20	Hacker-Group 1081 1090	attackers
+T18	Attack-Pattern 1048 1079	gaining access to MySQL servers
+T35	Attack-Pattern 320 339	brute-force attacks
+T58	Device 343 373	Internet-exposed MySQL servers
+T61	Number 387 396	plenty of
+T62	Campaign 397 402	those
+T63	Software 423 428	MySQL
+T65	System 460 476	database systems
+T66	Campaign 482 489	attacks
+T67	Device 499 508	 a server
+T68	Location 512 527	the Netherlands
+T70	Time 590 601	February 12
+T72	Time 646 650	time
+T73	Hacker-Group 651 660	attackers
+T75	Software 701 706	MySQL
+T76	Information 707 720	root accounts
+T77	Person 722 735	Investigators
+T78	Campaign 745 752	attacks
+T81	IP 805 818	109.236.88.20
+T79	Organization 832 850	 a hosting company
+T83	Organization 858 869	WorldStream
+T86	Device 1066 1079	MySQL servers
+T87	Software 1105 1113	database
+T88	Software 1121 1132	PLEASE_READ
+T89	Hacker-Group 1227 1236	attackers
+T90	Information 1250 1267	the WARNING table
+T91	Information 1277 1279	it
+T92	Software 1307 1315	database
+T93	Software 1340 1343	one
+T94	Person 1345 1358	Investigators
+T95	Hacker-Group 1503 1512	attackers
+T97	Attack-Pattern 1513 1559	deleted the databases without dumping any data
+T98	Attack-Pattern 1445 1486	leaving only the one holding their ransom
+T99	Number 1842 1850	 The two
+T100	Number 1905 1909	four
+T101	Number 1914 1917	six
+T102	Person 1812 1817	users
+T103	Domain 1820 1841	 a Tor-hosted website
+T104	Domain 1586 1593	website
+T105	Number 1594 1597	Two
+T106	Number 1629 1645	 the hundreds of
+T107	Campaign 1646 1663	confirmed attacks
+T26	File 1665 1668	one
+T31	Attack-Pattern 1716 1735	confirm the payment
+T108	File 1742 1752	 the other
+T109	Attack-Pattern 1753 1798	used a completely different mode of operation
+T111	Hacker-Group 1561 1570	Attackers
+T112	Domain 1851 1868	Bitcoin addresses
+T113	Person 1942 1967	albeit GuardiCore experts
+T114	Money 1974 1978	that
+T115	Person 2002 2004	We
+T38	Person 2130 2134	they
+T118	Information 2171 2181	 your data
+T119	Number 2259 2265	41,000
+T120	Information 2311 2315	logs
+T121	Course-of-Action 2305 2338	check logs before deciding to pay
+T41	Information 2484 2495	 their data
+T46	Course-of-Action 2442 2495	ask the attacker for proof they still have their data
+T122	Time 2737 2751	the first time
+T49	Purpose 2785 2791	ransom
+T123	Software 2921 2930	databases
+T126	Money 2415 2426	 the ransom
+T127	Organization 2531 2539	IT teams
+T130	System 2593 2627	 an automated server backup system
+T129	Information 2651 2663	root account
+T131	Software 2640 2650	 the MySQL
+T132	Information 2695 2723	hard-to-brute-force password
+T1	Campaign 5 20	 the ransacking
+T14	Campaign 289 301	 the attacks
+T17	Campaign 566 578	 the attacks
+T69	Time 612 631	lasted for 30 hours
+T71	IP 762 782	 the same IP address
+T80	Organization 787 803	 the Netherlands
+T82	Campaign 970 980	 the hacks
+T84	IP 1015 1027	 the same IP
+T27	Information 1457 1465	 the one
+T85	Software 1520 1534	 the databases
+T96	Hacker-Group 2148 2161	 the attacker
+T110	Attack-Pattern 2250 2273	hit over 41,000 servers
+T48	Hacker-Group 2445 2458	 the attacker
+T117	Purpose 2792 2807	 The same thing
+T55	Attack-Pattern 2935 2951	hold websites up
+T135	Software 1157 1159	it
+T139	Hacker-Group 2469 2473	they
+T142	Information 1431 1433	it
+T124	Purpose 202 241	asking for a 0.2 Bitcoin ($235) payment
+T12	Organization 256 288	breach detection firm GuardiCore
+T60	Attack-Pattern 674 720	brute-force their way into MySQL root accounts
+T64	Attack-Pattern 906 941	didn't behave in a constant pattern
+T74	Hacker-Group 988 993	group
+T125	Attack-Pattern 1242 1267	created the WARNING table
+T137	Information 1396 1419	 the database's content
+T141	Campaign 1473 1486	 their ransom
+T33	Money 1918 1926	payments
+T44	Course-of-Action 2343 2388	see if the attackers actually took their data
+T116	Information 2377 2388	 their data
+T133	Course-of-Action 2505 2509	this
+T128	Course-of-Action 2540 2574	follow standard security practices
+T134	Course-of-Action 2588 2627	using an automated server backup system
+T136	Course-of-Action 2632 2663	deleting the MySQL root account
+T138	Course-of-Action 2676 2723	using a strong and hard-to-brute-force password
+*	Coreference T68 T80
+*	Coreference T75 T131 T63 T65 T45 T50 T86
+*	Coreference T76 T129
+*	Coreference T77 T94
+*	Coreference T118 T41 T116
+*	Coreference T87 T88 T135 T93
+*	Coreference T71 T84 T81
+*	Coreference T91 T90
+*	Coreference T13 T10
+*	Coreference T62 T40 T66 T36 T111 T89 T107 T95 T17 T20 T73 T23 T14 T78 T16 T96
+*	Coreference T83 T79
+*	Coreference T15 T1
+*	Coreference T142 T137 T27
+*	Coreference T114 T33
+*	Coreference T115 T113 T38
+*	Coreference T37 T34 T102 T29
+*	Coreference T59 T53
+*	Coreference T139 T48
+*	Coreference T49 T117 T56

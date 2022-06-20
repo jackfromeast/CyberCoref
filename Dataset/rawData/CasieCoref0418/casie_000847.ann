@@ -1,0 +1,96 @@
+T29	Campaign 827 837	disclosing
+T30	Vulnerability 838 857	the vulnerabilities
+T37	Campaign 1145 1149	said
+T36	Vulnerability 1150 1158	the bugs
+T34	Campaign 1095 1104	confirmed
+T35	Vulnerability 1121 1140	the vulnerabilities
+T33	Organization 1086 1094	AlphaBay
+T2	Campaign 285 294	disclosed
+T3	Vulnerability 295 332	the existence of two "high-risk" bugs
+T1	Hacker-Group 273 283	Cipher0007
+T4	Hacker-Group 251 257	hacker
+T5	Time 228 245	Earlier this week
+T6	Campaign 377 381	said
+T7	Hacker-Group 366 376	the hacker
+T28	Campaign 411 423	be exploited
+T8	Vulnerability 382 404	the two security flaws
+T9	Attack-Pattern 427 450	snatch private messages
+T23	Campaign 90 100	disclosing
+T24	Vulnerability 101 133	the existence of a vulnerability
+T25	Person 73 85	a researcher
+T21	Campaign 928 935	warning
+T31	Hacker-Group 869 879	Cipher0007
+T22	Vulnerability 965 997	the potentially devastating bugs
+T20	Attack-Pattern 1010 1056	compromise the privacy and identities of users
+T46	Campaign 1910 1929	may have been known
+T48	Vulnerability 1792 1812	these security flaws
+T45	Person 1837 1861	law enforcement agencies
+T42	Campaign 1956 1966	discovered
+T44	Hacker-Group 1945 1955	the hacker
+T43	Vulnerability 1967 1975	the bugs
+T19	Hacker-Group 452 462	Cipher0007
+T18	System 486 494	AlphaBay
+T10	Campaign 499 504	steal
+T11	Information 505 529	the first and last names
+T12	Person 533 539	buyers
+T13	Person 544 551	sellers
+T14	Information 553 562	nicknames
+T15	Information 564 573	addresses
+T16	Information 579 607	the tracking IDs of packages
+T39	Campaign 1533 1552	close the loopholes
+T41	Time 1480 1499	several hours later
+T49	Campaign 2162 2171	is leaked
+T51	Person 2111 2115	they
+T50	Information 2135 2161	their personal information
+T53	Campaign 1181 1186	slurp
+T52	Hacker-Group 1167 1177	the hacker
+T55	Information 1206 1214	messages
+T17	Campaign 155 160	steal
+T32	Information 174 190	private messages
+T38	Person 148 151	him
+T26	Organization 1500 1508	AlphaBay
+T27	Number 166 173	200,000
+T56	Vulnerability 1933 1937	them
+T59	Vulnerability 1374 1378	them
+*	Coreference T37 T6
+*	Coreference T42 T23 T2 T29
+*	Coreference T1 T31 T19 T4 T7 T64 T52 T73 T76 T44
+*	Coreference T33 T26 T18
+*	Coreference T10 T17
+*	Coreference T32 T9 T55 T62 T63 T65 T66 T69 T72 T75 T82 T50
+T40	Organization 0 48	One of the largest trading posts on the Dark Web
+T54	Organization 50 58	AlphaBay
+*	Coreference T40 T54 T38 T68 T71 T77
+T58	Person 209 214	users
+T60	Person 219 226	sellers
+T61	Organization 341 347	Reddit
+T62	Information 434 450	private messages
+*	Coreference T60 T13
+*	Coreference T12 T58 T70 T78 T47 T51
+T63	Information 645 653	messages
+T64	Hacker-Group 689 695	hacker
+T65	Information 735 751	private messages
+T66	Information 781 789	messages
+T67	Organization 861 867	Reddit
+*	Coreference T61 T67
+T68	Organization 940 961	Dark Web trading post
+T69	Information 1025 1047	privacy and identities
+T70	Person 1051 1056	users
+T71	Organization 918 926	AlphaBay
+T72	Information 1256 1264	messages
+T73	Hacker-Group 1311 1319	attacker
+T74	Vulnerability 1348 1353	flaws
+*	Coreference T59 T74 T3 T8 T35 T30 T24 T22 T36 T43 T79 T48 T56
+T75	Information 1399 1417	stolen information
+T76	Hacker-Group 1444 1454	Cipher0007
+T77	Organization 1557 1578	Dark Web marketplaces
+T78	Person 1615 1620	users
+T79	Vulnerability 1714 1729	vulnerabilities
+T80	Organization 1892 1902	operations
+T81	Organization 1765 1775	businesses
+*	Coreference T81 T80
+T47	Person 1984 1989	users
+T82	Information 2060 2067	privacy
+T83	Information 2077 2085	PGP keys
+T84	Information 675 683	PGP keys
+*	Coreference T84 T83

@@ -1,0 +1,48 @@
+T12	Campaign 572 583	discovering
+T3	Code 595 613	PowerShell scripts
+T15	Organization 488 501	Kaspersky Lab
+T13	Campaign 659 673	was discovered
+T14	Vulnerability 679 696	the NETSH utility
+T4	Attack-Pattern 700 727	used for tunnelling traffic
+T16	Campaign 332 342	discovered
+T17	Organization 355 368	security team
+T1	Organization 345 352	 a bank
+T7	Campaign 376 385	detecting
+T18	Code 386 402	Meterpreter code
+T19	System 410 429	the physical memory
+T8	Campaign 476 485	explained
+T9	Person 460 475	the researchers
+T2	Person 0 25	Kaspersky Lab researchers
+T5	Campaign 60 67	attacks
+T6	Organization 107 117	businesses
+T10	Organization 91 96	banks
+T11	Campaign 150 164	 these attacks
+T22	Hacker-Group 175 189	 the criminals
+T23	Malware 240 247	malware
+T24	Campaign 267 279	 the attacks
+T25	Campaign 310 316	threat
+T26	Device 454 456	DC
+T27	Device 432 452	 a domain controller
+T28	Campaign 545 557	 this attack
+T21	Hacker-Group 753 766	 the attacker
+T29	Organization 732 743	 the victim
+T20	Software 774 785	Meterpreter
+T30	Software 802 820	Metasploit payload
+T31	Hacker-Group 833 842	attackers
+T32	Software 929 934	NETSH
+T33	Software 936 949	network shell
+T34	Software 954 985	 a Windows command-line utility
+T35	Device 1031 1046	network devices
+T36	Hacker-Group 1047 1061	 The attackers
+T37	Software 1084 1107	 the Windows SC utility
+T38	Code 1150 1168	PowerShell scripts
+T39	Device 1211 1231	compromised machines
+T40	Device 746 750	host
+*	Coreference T5 T11 T24 T25 T28
+*	Coreference T27 T26
+*	Coreference T9 T2
+*	Coreference T22 T21 T31 T36
+*	Coreference T20 T30
+*	Coreference T32 T33 T34
+*	Coreference T38 T3
+*	Coreference T40 T39

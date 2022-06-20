@@ -1,0 +1,91 @@
+T18	Information 903 934	financial or credit information
+T16	Campaign 872 894	have also been exposed
+T2	Information 819 833	chat room data
+T14	Information 844 857	the room name
+T15	Information 862 867	topic
+T1	Campaign 93 105	have exposed
+T6	Organization 0 7	HipChat
+T5	Information 106 117	their names
+T4	Information 119 134	email addresses
+T3	Information 146 166	password information
+T7	Campaign 197 210	have accessed
+T8	Information 211 219	messages
+T9	Hacker-Group 183 192	attackers
+T10	Information 224 231	content
+T11	System 235 245	chat rooms
+T12	Campaign 507 524	have been exposed
+T13	Information 484 497	The passwords
+T22	Campaign 1212 1220	affected
+T23	Device 1221 1229	a server
+T24	System 1233 1250	the HipChat Cloud
+T25	Vulnerability 1269 1284	a vulnerability
+T27	Campaign 1768 1778	was stolen
+T26	Information 1748 1767	account information
+T28	Person 1807 1816	its users
+T30	Time 1655 1659	2015
+T19	Campaign 1031 1040	an attack
+T20	Campaign 1046 1053	exposed
+T21	Information 1054 1082	sensitive work-related chats
+T29	Time 2152 2156	2015
+T31	URL 376 379	URL
+T32	Domain 389 408	company.hipchat.com
+T33	Information 21 42	 its users' passwords
+T34	Person 438 443	users
+T35	Campaign 469 482	 the incident
+T36	Organization 410 417	HipChat
+T37	Information 653 667	 the passwords
+T17	Organization 945 957	 the company
+T38	Organization 2298 2305	HipChat
+T39	Information 2046 2055	passwords
+T40	Email 2082 2091	 an email
+T41	Information 2128 2141	 the password
+T42	Person 2104 2109	users
+T43	Information 1878 1894	 their passwords
+T44	Information 1937 1954	login information
+T45	Person 1839 1855	security experts
+T46	Campaign 1823 1831	breaches
+T47	Organization 1355 1367	 the company
+T48	Domain 1338 1349	HipChat.com
+T49	System 1384 1401	Atlassian systems
+T50	Information 1675 1689	user passwords
+T51	Information 751 759	password
+T52	Course-of-Action 1461 1490	isolated the affected systems
+T53	Course-of-Action 1495 1525	closed any unauthorized access
+T54	Organization 1528 1535	HipChat
+T55	Person 1453 1455	we
+T56	Software 1161 1163	it
+T57	Organization 54 56	it
+T58	Person 2008 2012	them
+T59	Person 1918 1922	they
+T60	Information 795 797	it
+T61	Person 2121 2125	them
+T62	Campaign 1209 1211	It
+T63	Campaign 63 83	 a security incident
+T64	Organization 247 254	HipChat
+T65	Person 21 31	 its users
+T66	Organization 558 570	 the company
+T67	Information 576 585	 The data
+T68	Organization 729 736	HipChat
+T69	Organization 799 806	HipChat
+T70	Organization 964 971	HipChat
+T71	Software 985 1002	messaging service
+T72	Software 1113 1125	 The service
+T73	Person 1145 1154	Atlassian
+T74	Campaign 1172 1194	 the security incident
+T75	Organization 1416 1428	 the company
+T76	Person 1436 1438	We
+T77	Software 1585 1607	 the messaging service
+T78	Organization 1661 1668	HipChat
+T79	Person 1863 1868	users
+T80	Person 1956 1961	Users
+T81	Protocol 2321 2346	two-factor authentication
+T82	Protocol 2239 2264	two-factor authentication
+*	Coreference T6 T57 T64 T36 T66 T68 T69 T17 T70 T47 T75 T54 T78 T38
+*	Coreference T65 T34 T28 T42 T61
+*	Coreference T35 T63 T74 T62
+*	Coreference T13 T3 T33 T67 T37 T51 T60 T50 T43 T44 T39 T41
+*	Coreference T21 T2
+*	Coreference T72 T71 T56 T77
+*	Coreference T76 T55
+*	Coreference T79 T59 T80 T58
+*	Coreference T81 T82

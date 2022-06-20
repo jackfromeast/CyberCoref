@@ -1,0 +1,113 @@
+T42	Vulnerability 3288 3299	the problem
+T39	Vulnerability 3243 3252	the issue
+T40	Time 3257 3265	May 2017
+T5	Person 147 158	researchers
+T11	Attack-Pattern 343 380	resulting in a full system compromise
+T10	Attack-Pattern 285 341	permits attackers to exploit the WordPress PHP framework
+T9	Vulnerability 277 284	the bug
+T7	Person 242 271	Secarma researcher Sam Thomas
+T14	Person 891 914	The security researcher
+T13	Vulnerability 920 942	the core vulnerability
+T16	Vulnerability 1564 1592	The issue of unserialization
+T17	Time 1621 1625	2009
+T19	Vulnerability 1643 1658	vulnerabilities
+T21	Vulnerability 1746 1760	CVE-2017-12934
+T22	Vulnerability 1762 1776	CVE-2017-12933
+T23	Vulnerability 1782 1797	CVE-2017- 12932
+T31	Vulnerability 2969 2986	The vulnerability
+T32	Time 3062 3071	last year
+T34	Vulnerability 3073 3082	The issue
+T37	Time 3103 3115	several days
+T35	Person 3120 3126	Thomas
+T36	Vulnerability 3144 3156	his findings
+T3	Time 53 59	a year
+T2	Vulnerability 0 32	A severe WordPress vulnerability
+T28	Vulnerability 2422 2440	the security issue
+T29	Time 2444 2457	February 2017
+T25	Vulnerability 2169 2175	Issues
+T45	Vulnerability 1969 1978	 the flaw
+T46	Vulnerability 1909 1927	 the vulnerability
+T1	Course-of-Action 2211 2244	fixed with a configuration change
+T24	File 2221 2237	 a configuration
+T47	Person 3166 3189	 a Secarma spokesperson
+T48	Domain 3195 3200	ZDNet
+T38	Course-of-Action 3239 3252	fix the issue
+T41	Course-of-Action 3280 3299	address the problem
+T49	Number 3335 3346	a number of
+T50	Time 3347 3353	months
+T51	Person 3389 3406	 the spokesperson
+T52	Domain 3414 3419	ZDNet
+T53	Software 3439 3448	WordPress
+T54	Course-of-Action 3458 3464	update
+T55	Person 3468 3470	we
+T30	Campaign 3018 3061	 the WordPress HackerOne bug bounty program
+T12	File 2880 2887	reports
+T33	Vulnerability 2920 2932	 the exploit
+T43	Hacker-Group 2865 2874	attackers
+T56	System 2837 2847	mechanisms
+T57	Person 2778 2780	We
+T58	Person 2764 2770	Thomas
+T59	File 2594 2608	 a white paper
+T4	Domain 121 146	websites running the CMS,
+T60	System 137 145	 the CMS
+T6	Organization 168 214	 the BSides technical cybersecurity conference
+T61	Location 218 228	Manchester
+T62	Time 232 240	Thursday
+T8	Domain 384 395	 the domain
+T63	File 418 423	files
+T64	Hacker-Group 448 457	attackers
+T65	File 468 493	 a crafted thumbnail file
+T66	Purpose 506 530	trigger a file operation
+T67	Vulnerability 730 742	 these flaws
+T68	Campaign 773 795	information disclosure
+T69	Campaign 861 889	remote code execution attack
+T70	Vulnerability 817 821	they
+T71	Vulnerability 577 589	 the exploit
+T72	Code 703 723	 the platform's code
+T73	System 1798 1838	 The WordPress content management system
+T26	System 1840 1843	CMS
+T44	Number 1856 1867	millions of
+T74	Person 1868 1878	webmasters
+T75	Domain 1889 1896	domains
+T76	Software 1943 1962	 a vast victim pool
+T15	Software 1706 1717	PHP systems
+T18	Number 2065 2073	a lot of
+T20	Vulnerability 2074 2089	vulnerabilities
+T77	Person 2150 2156	Thomas
+T78	Organization 2378 2385	Secarma
+T79	Code 1298 1302	code
+T80	Hacker-Group 1329 1349	 an avenue attackers
+T81	Attack-Pattern 1354 1361	exploit
+T82	Purpose 1374 1405	compromise PHP-based frameworks
+T83	Software 1385 1405	PHP-based frameworks
+T84	Information 967 980	 a CVE number
+T85	Path 1037 1057	/wpincludes/post.php
+T86	Hacker-Group 1067 1076	attackers
+T87	Vulnerability 1137 1145	 the bug
+T88	Vulnerability 599 672	eXternal Entity (XXE -- XML) and Server Side Request Forgery (SSRF) flaws
+T89	Organization 1545 1557	 the company
+T90	Vulnerability 1463 1485	critical vulnerability
+T91	Information 1427 1451	attacker-controlled data
+T92	Attack-Pattern 1511 1543	 the execution of malicious code
+T93	Organization 2182 2186	they
+T94	Campaign 2335 2347	 the attacks
+T95	Information 2545 2572	 your CMS Technical details
+T96	File 2610 2614	.PDF
+T97	Organization 2488 2500	TechRepublic
+T99	Person 2009 2010	I
+T100	Person 2348 2349	I
+T27	Person 2386 2403	 the CMS provider
+*	Coreference T34 T9 T28 T38 T39
+*	Coreference T40 T29
+*	Coreference T22 T23 T21
+*	Coreference T32 T3
+*	Coreference T45 T67 T70
+*	Coreference T48 T52
+*	Coreference T60 T26
+*	Coreference T8 T75
+*	Coreference T71 T33 T81
+*	Coreference T19 T46 T31 T20 T2 T13 T90
+*	Coreference T43 T94 T86 T64 T80
+*	Coreference T47 T51 T55
+*	Coreference T35 T58 T57 T77 T99 T100
+*	Coreference T93 T78

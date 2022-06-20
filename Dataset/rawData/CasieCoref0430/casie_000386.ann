@@ -1,0 +1,90 @@
+T18	Person 1255 1269	 their victims
+T17	Malware 1219 1241	 this KillDisk variant
+T16	Hacker-Group 1197 1212	cyber criminals
+T13	Person 1327 1340	those victims
+T19	Malware 1383 1399	 this ransomware
+T22	Campaign 727 747	 a ransomware attack
+T12	Money 682 690	$216,000
+T1	Attack-Pattern 836 874	infect both desktop and server systems
+T11	Attack-Pattern 581 592	encrypts it
+T10	Money 627 639	222 bitcoins
+T8	Attack-Pattern 538 553	wiping the data
+T2	Attack-Pattern 597 615	displays a message
+T3	Malware 568 580	 the malware
+T4	Malware 0 8	KillDisk
+T5	Number 13 19	one of
+T6	Malware 19 34	 the components
+T7	Malware 50 75	 the Black Energy malware
+T20	Hacker-Group 80 101	 a group of attackers
+T21	Time 110 123	December 2015
+T23	Attack-Pattern 127 202	hit several Ukrainian power stations, cutting power for thousands of people
+T24	Number 183 195	thousands of
+T25	Location 139 148	Ukrainian
+T26	Device 149 163	power stations
+T27	Time 203 211	 A month
+T28	Malware 225 227	it
+T29	Organization 244 264	 a major news agency
+T30	Location 268 275	Ukraine
+T31	Malware 289 297	KillDisk
+T32	Campaign 315 328	other attacks
+T33	Number 352 359	several
+T34	Organization 372 392	 the shipping sector
+T35	Person 407 454	security researchers from antivirus vendor ESET
+T36	Version 464 484	 the latest versions
+T37	Malware 515 525	ransomware
+T38	Device 558 567	 the disk
+T39	Information 544 553	 the data
+T40	Information 590 592	it
+T9	Purpose 616 655	asking for 222 bitcoins to restore them
+T41	Information 651 655	them
+T42	Number 705 717	large sum of
+T43	Money 718 723	money
+T44	Malware 798 826	 a Linux variant of KillDisk
+T46	System 860 874	server systems
+T47	Person 875 896	 the ESET researchers
+T48	Time 902 910	Thursday
+T49	Domain 914 918	blog
+T50	Code 924 947	 The encryption routine
+T51	System 984 996	 the Windows
+T52	System 1000 1010	 the Linux
+T53	Version 1011 1019	versions
+T54	System 1028 1033	Linux
+T55	Information 1057 1077	 The encryption keys
+T56	Device 1115 1144	 a command-and-control server
+T57	Hacker-Group 1149 1163	 the attackers
+T58	Information 1186 1190	them
+T59	Information 1274 1294	 the decryption keys
+T60	File 1305 1317	 their files
+T14	Attack-Pattern 1242 1317	cannot supply their victims with the decryption keys to recover their files
+T61	Number 1347 1371	 the extremely large sum
+T62	Person 1401 1422	 the ESET researchers
+T63	Campaign 1472 1497	 the encryption mechanism
+T65	Version 1501 1519	 the Linux version
+T64	Person 1569 1580	 the victim
+T66	File 1591 1601	 the files
+T67	Hacker-Group 1621 1643	 the KillDisk creators
+T68	Campaign 1654 1670	 this encryption
+T69	Hacker-Group 1697 1701	they
+T70	Time 1732 1743	in the past
+T71	Campaign 1747 1766	destruction of data
+T72	Malware 1778 1793	 the ransomware
+T73	Hacker-Group 1834 1838	they
+T74	Number 1857 1871	a large sum of
+T75	Money 1872 1877	money
+T15	Money 1372 1380	demanded
+T76	Purpose 1747 1766	destruction of data
+T77	Purpose 1842 1877	walk away with a large sum of money
+*	Coreference T64 T18 T13
+*	Coreference T25 T30
+*	Coreference T47 T62
+*	Coreference T52 T54
+*	Coreference T61 T42 T74
+*	Coreference T63 T68
+*	Coreference T4 T6 T28 T31
+*	Coreference T37 T3
+*	Coreference T39 T40 T41
+*	Coreference T43 T12
+*	Coreference T58 T55
+*	Coreference T17 T44 T19
+*	Coreference T66 T60
+*	Coreference T67 T69 T73

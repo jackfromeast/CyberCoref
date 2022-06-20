@@ -1,0 +1,80 @@
+T8	Organization 141 147	Abbott
+T7	Device 220 234	its pacemakers
+T11	System 252 277	remote monitoring systems
+T13	Vulnerability 285 311	severe cybersecurity flaws
+T14	Device 315 326	the devices
+T2	Vulnerability 93 115	severe vulnerabilities
+T4	Device 125 139	its pacemakers
+T5	Organization 4 23	device manufacturer
+T16	Course-of-Action 332 337	patch
+T18	Course-of-Action 554 580	the latest firmware update
+T20	Organization 597 629	the Food and Drug Administration
+T21	Time 630 639	last week
+T22	Time 539 548	last year
+T17	Course-of-Action 513 532	The planned updates
+T26	Course-of-Action 641 651	The update
+T23	Device 689 728	implantable cardioverter defibrillators
+T24	Device 733 793	implantable cardiac resynchronization therapy defibrillators
+T10	Organization 680 686	Abbott
+T35	Vulnerability 1388 1409	those vulnerabilities
+T33	Organization 1355 1361	Abbott
+T29	Time 1185 1189	2016
+T30	Person 1193 1205	Muddy Waters
+T31	Organization 1210 1230	security firm MedSec
+T28	Vulnerability 1163 1168	flaws
+T32	Attack-Pattern 1238 1292	allow an unauthorized user to access the defibrillaors
+T36	Attack-Pattern 1297 1328	modify the programming controls
+T1	Person 236 247	programmers
+T3	Course-of-Action 281 326	fix severe cybersecurity flaws in the devices
+T9	Course-of-Action 148 216	released its second and final round of planned cybersecurity updates
+T6	Course-of-Action 343 379	update the battery performance alert
+T12	Device 394 400	device
+T15	Person 480 487	patient
+T37	Course-of-Action 381 441	allowing the device to monitor for abnormal battery behavior
+T25	Number 669 676	350,000
+T38	Device 799 806	devices
+T39	Organization 839 853	St Jude Medica
+T40	Organization 33 48	St Jude Medical
+T41	Organization 862 868	Abbott
+T42	Time 878 887	last year
+T43	Time 892 901	that time
+T44	Person 903 910	St Jude
+T45	Vulnerability 952 972	defibrillator issues
+T46	Attack-Pattern 985 1008	rapid battery depletion
+T47	Organization 1014 1017	FDA
+T48	Organization 1024 1031	St Jude
+T49	Device 1056 1063	devices
+T50	Vulnerability 1090 1096	defect
+T51	Organization 1111 1117	agency
+T52	Vulnerability 1130 1135	flaws
+T27	Organization 1346 1353	St Jude
+T34	Organization 1415 1418	FDA
+T53	Course-of-Action 1444 1459	firmware update
+T54	Course-of-Action 1465 1558	reduce the risk of patient harm due to premature battery depletion and potential exploitation
+T55	Vulnerability 1566 1571	flaws
+T56	Device 1579 1586	devices
+T57	Course-of-Action 1592 1598	update
+T58	Course-of-Action 1639 1646	patches
+T59	Attack-Pattern 1658 1677	unauthorized access
+T60	Course-of-Action 1683 1689	update
+T61	Vulnerability 1719 1724	flaws
+T62	Course-of-Action 1771 1778	patches
+T63	Time 1759 1768	last year
+T64	Organization 1793 1802	officials
+T65	Course-of-Action 1863 1879	firmware upgrade
+T66	Device 1922 1930	products
+T68	Person 1999 2010	Robert Ford
+T69	Person 2012 2055	executive vice president of medical devices
+T70	Person 2059 2065	Abbott
+*	Coreference T7 T4
+*	Coreference T10 T41 T70 T8 T33
+*	Coreference T22 T63 T42 T43
+*	Coreference T47 T34
+*	Coreference T40 T44 T27 T48 T39
+*	Coreference T56 T49 T38 T14
+*	Coreference T52 T28 T35 T55
+T71	Time 49 58	last year
+*	Coreference T26 T18
+*	Coreference T50 T45
+*	Coreference T13 T2
+*	Coreference T69 T68

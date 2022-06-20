@@ -1,0 +1,45 @@
+T2	Campaign 55 71	phishing attacks
+T3	Person 75 81	gamers
+T1	Hacker-Group 32 39	hackers
+T4	Purpose 111 140	steal their login credentials
+T9	Attack-Pattern 82 107	using two types of emails
+T7	Hacker-Group 142 149	Hackers
+T8	File 162 168	emails
+T6	Person 172 197	World of Warcraft players
+T12	Person 223 227	they
+T10	Purpose 279 321	putting their Blizzard account credentials
+T14	Hacker-Group 705 715	the hacker
+T16	Information 729 745	your information
+T17	Purpose 775 790	used personally
+T13	Purpose 764 771	be sold
+T18	Campaign 1173 1187	phishing scams
+T22	Person 1233 1248	 the recipients
+T21	Person 575 578	you
+T23	Person 12 30	 the Graham Cluley
+T5	Email 340 350	 the email
+T24	Campaign 1188 1197	 this one
+T25	Email 1343 1352	 an email
+T26	Person 1369 1375	sender
+T27	Email 810 822	 this e-mail
+T28	Person 831 842	your friend
+T29	Software 857 886	World of Warcraft In-Game Pet
+T30	Campaign 948 952	scam
+T31	Vulnerability 963 985	 the two obvious flaws
+T32	Email 988 998	 the email
+T33	Email 1142 1152	 the email
+T34	Domain 1056 1070	Battle dot net
+T20	Email 584 594	 the email
+T11	Attack-Pattern 635 683	enter the login details of your blizzard account
+T19	Information 640 683	 the login details of your blizzard account
+T15	Software 481 490	 the game
+T35	Email 503 516	 these emails
+T38	Person 628 631	you
+T39	Person 692 695	you
+T42	Pronoun 1332 1335	you
+T44	Person 205 209	them
+T45	URL 273 275	it
+T43	URL 256 263	 a link
+*	Coreference T4 T10
+*	Coreference T44 T6 T12
+*	Coreference T43 T45
+*	Coreference T1 T7

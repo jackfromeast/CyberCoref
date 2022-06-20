@@ -1,0 +1,48 @@
+T8	Email 28 59	an interesting phishing message
+T6	Person 15 23	a client
+T3	Email 79 93	a fake message
+T4	Person 99 108	their CEO
+T1	Person 61 65	They
+T5	Purpose 167 194	end up with a wire transfer
+T2	Email 130 163	 a "start the conversation" email
+T7	Email 209 214	email
+T10	Software 256 277	Sr Management circles
+T11	Person 293 296	you
+T13	Organization 357 372	another company
+T12	File 379 402	technical warning signs
+T14	Person 460 461	I
+T15	Person 487 489	us
+T16	Person 491 493	we
+T17	Software 571 582	spam filter
+T18	Software 591 609	 Their SPAM filter
+T19	Software 618 652	 the SPF (Sender Policy Framework)
+T21	Software 689 697	 the SPF
+T22	Vulnerability 772 784	 the problem
+T23	File 821 824	SPF
+T24	File 886 902	 this SPF record
+T25	Domain 916 928	 this domain
+T26	Person 871 883	mail senders
+T27	File 954 964	 their SPF
+T28	Software 1048 1065	 this spam filter
+T29	Person 1074 1086	mail senders
+T30	File 1089 1105	 this SPF record
+T31	Domain 1119 1131	 this domain
+T32	Organization 1159 1170	mail sender
+T33	Organization 1137 1141	YOLO
+T35	Version 1187 1194	RFC7208
+T34	File 1177 1185	 the RFC
+T36	Pronoun 1775 1776	I
+T37	Pronoun 460 461	I
+T38	Pronoun 487 489	us
+T39	Pronoun 2304 2306	it
+T40	Pronoun 293 296	you
+T41	Pronoun 2930 2934	they
+T42	Pronoun 61 65	They
+T43	Pronoun 1985 1988	you
+T44	Pronoun 491 493	we
+T45	Pronoun 2069 2070	I
+T46	Pronoun 1794 1797	You
+*	Coreference T17 T28 T18
+*	Coreference T27 T23 T21
+*	Coreference T24 T30
+*	Coreference T25 T31

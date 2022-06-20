@@ -1,0 +1,99 @@
+T2	Campaign 11 28	ransomware attack
+T1	System 102 117	computer system
+T13	Malware 2 10	GandCrab
+T15	Organization 68 99	 a Florida Keys school district
+T5	Campaign 223 242	a ransomware attack
+T3	System 141 160	The computer system
+T4	Organization 164 194	a Florida Keys school district
+T7	Campaign 471 488	ransomware attack
+T6	Organization 412 441	Monroe County School District
+T8	Organization 446 456	the victim
+T14	Malware 459 470	 a GandCrab
+T9	Campaign 1834 1848	ransom demands
+T10	Organization 1782 1811	Monroe County School District
+T16	Malware 1860 1870	ransomware
+T11	Attack-Pattern 1871 1888	locks up a system
+T12	Campaign 1893 1908	demands payment
+T17	Time 1147 1154	Sept 12
+T18	Malware 1052 1056	them
+T19	Person 1508 1510	we
+T20	Organization 1986 1988	it
+T21	Organization 1336 1340	they
+T22	Person 2110 2112	We
+T23	Campaign 1716 1718	it
+T24	System 748 750	it
+T25	Malware 1006 1008	It
+T26	Malware 1160 1162	it
+T27	Organization 1253 1255	it
+T28	Malware 951 955	They
+T29	Person 1609 1611	we
+T30	Person 1002 1004	us
+T31	Organization 43 53	 a Comcast
+T32	Time 133 139	a week
+T33	Time 209 215	a week
+T34	Campaign 243 256	 The problems
+T35	Organization 285 298	 the district
+T36	Device 346 355	computers
+T37	Organization 357 364	Comcast
+T38	Malware 490 498	GandCrab
+T39	Campaign 536 566	 the leading ransomware threat
+T40	Organization 585 593	district
+T41	System 770 781	 the system
+T42	Organization 701 703	IT
+T43	Organization 714 722	Symantec
+T44	Person 783 793	Pat Lefere
+T45	Person 795 857	executive director of operations and planning for the district
+T46	Organization 863 880	 the Miami Herald
+T47	Malware 899 902	one
+T48	Malware 906 916	 a variant
+T49	Organization 922 930	Symantec
+T50	Organization 1067 1075	Symantec
+T51	Malware 1102 1110	GandCrab
+T52	Malware 1173 1185	 the variant
+T53	Organization 1194 1222	 the Florida school district
+T54	Organization 1226 1244	 the IT department
+T55	System 1315 1326	 the system
+T56	Malware 1368 1383	 the ransomware
+T57	System 1417 1428	 the system
+T58	Vulnerability 1265 1277	 the problem
+T59	Vulnerability 1354 1360	issues
+T60	Person 1442 1444	We
+T61	Information 1471 1475	data
+T62	Information 1520 1524	data
+T63	Organization 1573 1590	 the Miami Herald
+T64	Person 1527 1562	district superintendent Mark Porter
+T65	Person 1647 1656	employees
+T66	Campaign 1670 1687	 The cyber attack
+T67	System 1879 1888	 a system
+T68	File 1942 1957	encrypted files
+T69	Organization 1966 1979	 the district
+T70	Campaign 2004 2013	extortion
+T71	Person 2015 2021	Lefere
+T72	File 2125 2130	files
+T73	Organization 2153 2166	 The district
+T74	System 2206 2227	 the computer systems
+T75	Person 2265 2271	Lefere
+T76	Organization 2276 2289	 the district
+T77	Device 2304 2310	server
+T78	Device 2337 2341	they
+T79	File 2145 2151	backup
+T80	File 972 977	files
+T81	Device 1028 1035	servers
+*	Coreference T1 T3 T41 T24 T55 T57 T67
+*	Coreference T13 T14 T38 T39 T51 T26
+*	Coreference T7 T5 T2 T34
+*	Coreference T15 T4 T35 T53
+*	Coreference T32 T33
+*	Coreference T31 T37
+*	Coreference T8 T6 T40 T10 T69 T20 T73 T76
+*	Coreference T44 T45 T30 T71 T22 T75
+*	Coreference T47 T48 T28 T25 T18 T56 T16
+*	Coreference T43 T49 T50
+*	Coreference T42 T54 T27 T21
+*	Coreference T58 T59
+*	Coreference T60 T19 T29
+*	Coreference T61 T62
+*	Coreference T46 T63
+*	Coreference T66 T23
+*	Coreference T68 T72 T80
+*	Coreference T77 T78

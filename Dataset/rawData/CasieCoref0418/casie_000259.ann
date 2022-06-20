@@ -1,0 +1,50 @@
+T1	Vulnerability 37 68	unpatched memory corruption bug
+T14	Code 152 160	exploits
+T18	Person 625 636	Researchers
+T6	System 669 693	fully-patched Windows 10
+T17	System 698 724	Windows 8.1 client systems
+T5	Vulnerability 656 660	flaw
+T20	System 741 778	server equivalents of these platforms
+T21	System 780 799	Windows Server 2016
+T22	System 804 826	Windows Server 2012 R2
+T11	Person 939 949	researcher
+T10	Person 953 982	the moniker “PythonResponder”
+T8	Vulnerability 1002 1010	zero day
+T9	Code 1017 1038	proof-of-concept code
+T2	Attack-Pattern 81 134	be exploited to cause denial of service (DoS) attacks
+T12	Vulnerability 166 179	vulnerability
+T15	Software 190 193	SMB
+T16	Software 195 215	Server Message Block
+T13	Person 0 23	Microsoft Windows users
+T23	Software 238 246	platform
+T24	Code 280 342	specially-crafted server response that contains too many bytes
+T25	Time 435 440	Feb 2
+T26	Person 441 454	CERT advisory
+T19	Vulnerability 832 845	vulnerability
+T27	Vulnerability 898 902	flaw
+T28	Code 919 927	exploits
+T7	Domain 1056 1062	GitHub
+T30	Hacker-Group 1204 1220	remote attackers
+T31	Attack-Pattern 1226 1259	causing denial of service attacks
+T3	Campaign 113 134	service (DoS) attacks
+T32	Person 1101 1106	users
+T33	Software 1134 1137	SMB
+T34	System 1159 1172	local network
+T35	System 1180 1183	WAN
+T36	Campaign 1244 1259	service attacks
+T37	Person 461 465	user
+T38	Device 480 500	malicious SMB server
+T39	System 515 536	Windows client system
+T40	Attack-Pattern 541 604	crash and display a blue screen of death (BSOD) in mrxsmb20.sys
+*	Coreference T18 T11
+*	Coreference T2 T31
+*	Coreference T12 T19 T1 T5 T27 T8
+*	Coreference T15 T33 T16
+*	Coreference T3 T36
+T43	Purpose 238 258	platform's inability
+T44	Code 592 604	mrxsmb20.sys
+T45	Person 610 618	advisory
+*	Coreference T45 T26
+*	Coreference T28 T14
+*	Coreference T32 T37
+T4	Course-of-Action 1116 1183	blocking outbound SMB connections from the local network to the WAN

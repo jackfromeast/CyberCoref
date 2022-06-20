@@ -1,0 +1,69 @@
+T36	Version 1503 1512	KB2863821
+T35	Version 1489 1498	KB4461522
+T34	Software 1455 1467	Outlook 2010
+T37	Organization 1520 1529	Microsoft
+T38	Time 1540 1551	November 15
+T10	Vulnerability 172 199	its critical security flaws
+T6	Organization 102 111	Microsoft
+T8	Software 142 154	Outlook 2010
+T1	Course-of-Action 53 80	the critical security fixes
+T3	Software 12 28	new Outlook 2010
+T40	Organization 0 9	Microsoft
+T13	Vulnerability 469 501	four remote code execution flaws
+T11	Course-of-Action 443 453	the update
+T41	Organization 406 415	Microsoft
+T15	Course-of-Action 552 564	a new update
+T16	Organization 578 587	Microsoft
+T20	Version 697 707	KB 4461585
+T21	Software 712 724	Outlook 2010
+T18	Time 678 687	this week
+T19	Organization 668 677	Microsoft
+T22	Course-of-Action 741 748	patches
+T23	Vulnerability 753 767	the four flaws
+T25	Organization 799 808	Microsoft
+T27	Organization 819 821	it
+T26	Vulnerability 831 847	the crash issues
+T28	Version 858 868	KB 4461529
+T30	Course-of-Action 870 886	The fixed update
+T31	Organization 910 919	Microsoft
+T44	System 922 937	download center
+T13	Vulnerability 469 501	four remote code execution flaws
+T2	Organization 226 235	Microsoft
+T5	Time 236 253	earlier this week
+T42	Version 308 318	KB 4461529
+T45	Vulnerability 363 383	Outlook 2010 crashes
+T12	Person 652 666	Woody Leonhard
+T14	File 950 974	Microsoft Update Catalog
+T17	Organization 1612 1621	Microsoft
+T24	Person 1634 1639	users
+T29	Software 1234 1267	Office 2010 Click-to-Run editions
+T33	Software 1277 1302	Microsoft Office 365 Home
+T39	Organization 1305 1314	Microsoft
+T43	Organization 1322 1331	Microsoft
+T46	Domain 1112 1137	Microsoft Download Center
+T47	Software 1153 1172	Microsoft Installer
+T48	Software 1197 1208	Office 2010
+T49	Course-of-Action 0 35	Microsoft's new Outlook 2010 update
+T4	Vulnerability 93 100	crashes
+T7	Course-of-Action 116 154	released a new update for Outlook 2010
+T50	Vulnerability 216 223	crashes
+T51	Time 328 350	November Patch Tuesday
+T52	Course-of-Action 270 318	64-bit version of the security update KB 4461529
+T9	Vulnerability 397 404	crashes
+T53	Course-of-Action 697 724	KB 4461585 for Outlook 2010
+T54	Software 1038 1049	Office 2010
+T55	Software 1062 1077	Office 365 Home
+T56	Course-of-Action 995 1005	the update
+T57	Organization 976 985	Microsoft
+T58	Course-of-Action 1429 1512	updates available for the Outlook 2010 non-security updates KB4461522 and KB2863821
+T32	Course-of-Action 1659 1666	updates
+T61	Course-of-Action 1210 1212	It
+T62	Course-of-Action 1560 1564	they
+*	Coreference T34 T3 T8 T21
+*	Coreference T33 T55
+*	Coreference T37 T41 T40 T25 T57 T6 T43 T16 T31 T17 T2 T19 T39 T60 T27
+*	Coreference T48 T54
+T60	Organization 507 509	it
+*	Coreference T23 T13
+*	Coreference T9 T45
+*	Coreference T30 T56 T61

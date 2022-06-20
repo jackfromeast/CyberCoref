@@ -1,0 +1,162 @@
+T1	Attack-Pattern 271 322	threatening to wipe all of the iPhones in the cache
+T3	Organization 266 268	it
+T33	Organization 34 54	hacking organization
+T32	Organization 81 101	Turkish Crime Family
+T4	Campaign 364 377	is asking for
+T10	Time 444 464	the April 7 deadline
+T8	Money 407 415	$100,000
+T6	Money 385 392	$75,000
+T5	Organization 354 363	The group
+T25	Campaign 3209 3237	various former data breaches
+T26	Organization 3260 3265	Apple
+T23	Campaign 3156 3173	previously stolen
+T24	Information 3174 3191	Apple credentials
+T36	Person 3074 3081	hackers
+T31	Hacker-Group 3442 3453	the hackers
+T28	Information 3493 3517	individual user accounts
+T29	Attack-Pattern 3518 3573	via breaking the passwords of each of the user accounts
+T30	Attack-Pattern 3577 3625	have acquired access to the Apple iCloud servers
+T12	Campaign 829 848	a major data breach
+T11	Organization 810 815	Apple
+T13	Campaign 908 916	breaches
+T14	System 935 942	systems
+T15	System 953 959	iCloud
+T16	Information 964 972	Apple ID
+T35	Organization 927 932	Apple
+T20	Campaign 1059 1081	previously compromised
+T21	Organization 1082 1102	third-party services
+T19	Campaign 1035 1053	have been obtained
+T18	Information 1014 1023	passwords
+T17	Information 994 1009	email addresses
+T34	Information 986 990	list
+T22	Campaign 2570 2594	a real ransomware attack
+T7	Number 560 571	559 million
+T9	Number 626 637	200 million
+T37	Number 641 652	300 million
+T38	Organization 504 507	TCF
+T39	Organization 466 486	Turkish Crime Family
+T40	Information 160 171	credentials
+T41	Email 243 248	email
+T42	Information 3930 3939	passwords
+T43	Information 3948 3961	Apple account
+T44	Information 3836 3844	password
+T45	Device 4002 4015	Apple devices
+T46	Hacker-Group 3968 3975	hackers
+T47	Information 4049 4058	passwords
+T48	Person 4096 4101	users
+T49	Device 4129 4136	devices
+T50	Person 4159 4167	end-user
+T51	Device 4232 4238	device
+T52	Person 4241 4252	Apple users
+T53	Device 4445 4451	device
+T54	Person 4689 4695	Bailey
+T55	Device 4505 4511	device
+T56	Device 4557 4600	small NAS (Network Attached Storage) device
+T57	Information 4341 4350	passwords
+T58	Information 3740 3754	weak passwords
+T59	Person 3755 3761	people
+T27	Person 3628 3630	he
+T60	Information 3657 3669	user account
+T61	Device 3776 3785	computers
+T62	Information 3790 3798	accounts
+T63	Email 1605 1612	@me.com
+T64	Email 1592 1600	@mac.com
+T65	Hacker-Group 1727 1734	hackers
+T66	Organization 1739 1759	Apple security teams
+T67	Information 1938 1952	iCloud account
+T68	Person 1502 1513	Apple users
+T69	Campaign 1284 1291	attacks
+T70	Person 1318 1323	users
+T71	Information 1335 1351	strong passwords
+T72	Information 1164 1177	user accounts
+T73	Course-of-Action 1119 1160	monitoring to prevent unauthorized access
+T74	Person 2139 2144	users
+T75	Information 2175 2184	passwords
+T76	Device 2969 2974	phone
+T77	Device 2793 2800	iPhones
+T78	Organization 2387 2400	organizations
+T79	Hacker-Group 2450 2462	hacker group
+T80	Person 2990 3035	director of security research and development
+T81	Person 2976 2988	Lamar Bailey
+T82	Email 3059 3064	email
+T83	Person 2199 2212	John Bambenek
+T84	Person 2214 2261	threat systems manager of Fidelis Cybersecurity
+T85	Organization 2240 2261	Fidelis Cybersecurity
+T86	Information 2020 2047	allegedly breached accounts
+T87	Number 2017 2019	54
+T88	Email 2095 2110	email addresses
+T89	Organization 1965 1970	ZDNet
+T90	Organization 1104 1106	We
+T91	Organization 1837 1841	they
+T92	Hacker-Group 2596 2600	they
+T93	Hacker-Group 2756 2760	they
+T94	Organization 140 142	It
+T96	Person 3806 3808	he
+T98	Hacker-Group 3881 3885	they
+T99	Campaign 3405 3407	it
+T101	Organization 153 155	it
+T102	Person 3391 3393	he
+T103	Organization 1293 1295	we
+T104	Person 4139 4141	he
+T105	Hacker-Group 2651 2655	they
+T107	Person 8 11	you
+T108	Person 2524 2526	he
+T109	Person 4197 4201	they
+T110	Organization 499 503	them
+T111	Information 2070 2074	they
+T112	Hacker-Group 2806 2810	they
+T113	Organization 1981 1983	it
+T115	Campaign 1467 1469	it
+*	Coreference T8 T6 T2
+*	Coreference T25 T12 T13 T69 T115
+*	Coreference T23 T20
+*	Coreference T24 T40 T120
+*	Coreference T35 T11 T26 T121 T90 T103 T66
+*	Coreference T37 T7 T9 T117 T118
+*	Coreference T49 T45 T53 T55 T51
+*	Coreference T54 T81 T80 T102 T27 T96 T104
+*	Coreference T63 T64
+*	Coreference T43 T72 T60 T28 T62 T67 T122
+*	Coreference T75 T71 T57 T18 T44 T58 T47 T42 T136
+*	Coreference T76 T77
+T116	Organization 67 73	itself
+T2	Money 338 344	ransom
+T117	Number 699 705	number
+T118	Number 707 709	it
+T119	Organization 750 753	TCF
+T120	Information 777 788	credentials
+T121	Organization 850 855	Apple
+*	Coreference T14 T34
+T122	Information 1539 1547	accounts
+T123	Organization 1663 1674	Motherboard
+T124	Organization 538 549	Motherboard
+*	Coreference T124 T123 T129
+T125	Organization 1765 1768	TCF
+T126	Information 1825 1836	information
+T127	Information 1702 1714	conversation
+*	Coreference T127 T126 T128
+T128	Information 1858 1871	YouTube video
+T129	Organization 1891 1902	Motherboard
+*	Coreference T89 T113 T131
+T130	Organization 2053 2056	TCF
+*	Coreference T86 T111
+T131	Organization 2116 2122	outlet
+T132	Person 2273 2275	he
+*	Coreference T83 T84 T132 T108
+T133	Hacker-Group 2298 2310	hacker group
+*	Coreference T85 T78
+*	Coreference T93 T112 T33 T116 T32 T39 T94 T101 T3 T5 T110 T38 T119 T31 T36 T79 T65 T46 T125 T91 T133 T92 T105 T95 T98
+T134	Person 2881 2890	consumers
+T135	Person 2925 2930	their
+*	Coreference T134 T135
+T136	Information 2950 2961	information
+T137	Campaign 3309 3327	widespread problem
+T138	Campaign 3331 3346	password re-use
+*	Coreference T137 T138 T99
+T95	Hacker-Group 3823 3830	hackers
+*	Coreference T50 T109
+T97	Course-of-Action 4396 4412	added protection
+T106	Course-of-Action 4364 4389	two-factor authentication
+*	Coreference T106 T97
+T100	Campaign 4644 4654	investment
+*	Coreference T56 T100

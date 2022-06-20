@@ -1,0 +1,133 @@
+T1	Campaign 60 84	the latest document dump
+T2	Organization 88 136	the online whistle-blower organization WikiLeaks
+T9	Organization 1273 1282	WikiLeaks
+T8	Person 1319 1350	a former U.S. government hacker
+T5	Person 831 837	people
+T4	Information 847 869	classified information
+T10	Campaign 1768 1786	the documents dump
+T11	Location 8 12	U.S.
+T12	Organization 13 23	spy agency
+T13	Person 155 164	Americans
+T14	Campaign 176 192	deeply concerned
+T15	Person 222 234	 A spokesman
+T16	Location 239 247	the U.S.
+T17	Organization 248 275	Central Intelligence Agency
+T18	Time 295 304	Wednesday
+T19	Number 327 337	 the 8,771
+T20	Campaign 394 415	WikiLeaks' intentions
+T21	Organization 426 453	 the Intelligence Community
+T22	Organization 475 482	America
+T23	Person 564 578	U.S. personnel
+T24	Person 659 661	us
+T25	Attack-Pattern 604 666	equip our adversaries with tools and information to do us harm
+T26	Attack-Pattern 417 523	to damage the Intelligence Community's ability to protect America against terrorists and other adversaries
+T28	Organization 717 728	White House
+T29	Person 745 756	Sean Spicer
+T30	Time 778 787	Wednesday
+T31	Person 797 806	reporters
+T32	Location 806 814	 the U.S
+T3	Campaign 893 903	disclosure
+T33	Purpose 909 964	undermines our security, our country and our well-being
+T34	Person 967 969	he
+T35	Person 975 984	reporters
+T36	Person 993 1015	President Donald Trump
+T37	Campaign 1020 1039	extremely concerned
+T38	Organization 1066 1074	 the CIA
+T39	Person 1076 1082	Spicer
+T40	File 1121 1145	 the WikiLeaks documents
+T41	Person 1151 1214	several cybersecurity experts and former intelligence officials
+T42	Organization 1238 1241	VOA
+T6	Person 1355 1384	 a U.S. intelligence official
+T43	Organization 1390 1393	VOA
+T44	Person 1438 1455	 a CIA contractor
+T45	Person 1500 1528	someone with the permissions
+T46	Person 1561 1574	Alex McGeorge
+T47	Organization 1588 1624	Threat Intelligence at Immunity Inc.
+T48	Hacker-Group 1625 1633	 a cyber
+T49	Campaign 1664 1683	government agencies
+T50	Person 1685 1693	McGeorge
+T51	Organization 1746 1755	WikiLeaks
+T52	Organization 1798 1806	 the CIA
+T53	Attack-Pattern 1810 1833	entire hacking capacity
+T54	Person 1929 1931	he
+T55	Person 1868 1870	we
+T56	Information 1945 1969	 the WikiLeaks documents
+T57	Information 1985 2020	online transcripts of conversations
+T58	Organization 2029 2048	intelligence agency
+T59	Person 2049 2058	employees
+T60	Device 2121 2134	mobile phones
+T61	System 2140 2145	Apple
+T62	System 2149 2156	Android
+T63	Device 2157 2168	smartphones
+T64	Organization 2178 2185	Samsung
+T65	Device 2188 2205	smart televisions
+T66	Device 2223 2230	devices
+T67	Organization 2270 2279	WikiLeaks
+T68	Code 2336 2345	 the code
+T69	Software 2414 2426	cyberweapons
+T70	Location 2369 2385	 the marketplace
+T71	Location 2434 2450	 the battlefield
+T72	Campaign 2463 2481	reverse-engineered
+T73	Person 2509 2520	Jeff Bardin
+T78	Organization 2594 2616	Air Force intelligence
+T79	Time 2635 2642	Tuesday
+T81	Organization 2644 2653	WikiLeaks
+T82	Code 2695 2714	 the critical codes
+T83	Organization 2782 2790	 the CIA
+T84	Person 2891 2941	some current and former U.S. and Western officials
+T85	Location 2973 2980	Russian
+T86	Location 3018 3031	 the position
+T87	Organization 3037 3046	WikiLeaks
+T91	Person 3154 3171	Air Force general
+T92	Organization 3178 3181	CNN
+T93	Time 3182 3191	Wednesday
+T94	Person 3199 3215	former officials
+T95	Location 3222 3228	Russia
+T96	Information 3246 3250	list
+T97	System 3282 3298	 the CIA's cyber
+T98	Location 3318 3324	Russia
+T99	Organization 3342 3350	 the CIA
+T101	Time 3422 3429	Tuesday
+T102	Organization 3440 3454	 the WikiLeaks
+T103	Time 3466 3476	 A January
+T104	Information 3477 3483	report
+T105	Organization 3486 3518	 the U.S. intelligence community
+T106	Organization 3599 3619	Russian intelligence
+T107	Organization 3624 3633	WikiLeaks
+T108	Number 1938 1945	Many of
+T109	Software 2078 2086	software
+T110	Device 2103 2110	devices
+T111	Organization 2316 2320	They
+T112	Person 2995 2996	I
+T114	File 1228 1232	them
+T118	Pronoun 2499 2501	us
+T119	File 1247 1251	they
+T27	Person 669 682	CIA spokesman
+T117	Person 683 695	Jonathan Liu
+T7	Organization 1288 1290	it
+T120	File 1299 1313	 the documents
+T74	Person 2522 2592	CIO of the cybersecurity firm Treadstone 71 and a former member of U.S
+T75	Organization 2659 2661	it
+T76	Person 3128 3142	Michael Hayden
+T77	Person 3108 3127	former CIA Director
+T80	Person 3070 3105	 an agent of the Russian Federation
+T88	Person 3365 3402	former British cybersecurity official
+T89	Person 3403 3416	Jonathan Shaw
+*	Coreference T32 T16 T11
+*	Coreference T29 T39 T34
+*	Coreference T31 T35
+*	Coreference T41 T84
+*	Coreference T42 T43
+*	Coreference T52 T99 T38 T83
+*	Coreference T95 T98 T85
+*	Coreference T87 T67 T107 T81 T9 T102 T51 T7 T75
+*	Coreference T27 T117
+*	Coreference T30 T18 T93
+*	Coreference T40 T114 T119
+*	Coreference T50 T46 T54
+*	Coreference T17 T21
+*	Coreference T47 T58
+*	Coreference T73 T74
+*	Coreference T80 T77 T76 T91 T112
+*	Coreference T79 T101
+*	Coreference T88 T89

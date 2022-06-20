@@ -1,0 +1,95 @@
+T2	Person 33 42	customers
+T8	Organization 52 65	major UK bank
+T3	Hacker-Group 72 86	cybercriminals
+T5	Person 97 119	customer support staff
+T6	Organization 123 130	Twitter
+T7	Purpose 148 187	steal users' online banking credentials
+T21	Email 515 530	tailored emails
+T22	Person 534 551	potential victims
+T20	Hacker-Group 492 506	cybercriminals
+T24	Person 573 577	them
+T25	Purpose 583 604	giving up credentials
+T43	Purpose 608 626	installing malware
+T28	Person 757 771	specific users
+T39	Campaign 1970 1985	phishing attack
+T29	Campaign 1049 1064	phishing attack
+T30	Hacker-Group 1088 1102	cybercriminals
+T31	Purpose 1183 1246	enable the easy theft of credentials and small amounts of money
+T15	Hacker-Group 1312 1321	criminals
+T41	Information 1352 1356	data
+T42	Purpose 1370 1390	used to commit fraud
+T34	Information 1463 1482	banking credentials
+T38	Information 1597 1620	social security numbers
+T37	Information 1556 1586	security questions and answers
+T36	Information 1529 1554	Credit/Debit card numbers
+T35	Information 1520 1527	ATM Pin
+T26	Campaign 692 719	an Angler phishing campaign
+T19	Campaign 467 475	Phishing
+T9	Campaign 240 248	phishing
+T10	Hacker-Group 297 304	hackers
+T16	Hacker-Group 362 366	they
+T12	Information 398 402	data
+T13	Person 406 413	victims
+T17	Domain 327 360	an authentic-looking fake website
+T14	Purpose 426 465	hand over their usernames and passwords
+T1	Campaign 2 19	phishing campaign
+T46	Information 161 187	online banking credentials
+T11	Information 435 465	 their usernames and passwords
+T18	Attack-Pattern 507 627	sending tailored emails to potential victims in an effort to lure them into giving up credentials or installing malware.
+T23	Person 637 662	cybersecurity researchers
+T45	Organization 666 676	Proofpoint
+T27	Person 796 800	they
+T47	Organization 855 862	Twitter
+T48	Hacker-Group 882 896	cybercriminals
+T49	Organization 905 912	Twitter
+T50	Person 917 922	users
+T51	Attack-Pattern 923 1035	approaching genuine support accounts for banks, and attempt to hijack the conversation with a fake support page.
+T52	Information 935 959	genuine support accounts
+T53	Purpose 986 1034	hijack the conversation with a fake support page
+T54	Hacker-Group 1122 1126	they
+T55	Hacker-Group 1136 1140	they
+T56	System 1149 1169	 a corporate network
+T58	Information 1208 1219	credentials
+T59	Money 1241 1246	money
+T32	Hacker-Group 1428 1439	 the hacker
+T33	Attack-Pattern 1452 1482	collecting banking credentials
+T40	Hacker-Group 1484 1488	They
+T60	Information 1503 1514	information
+T61	Information 1626 1643	 this information
+T62	Hacker-Group 1645 1649	they
+T63	Attack-Pattern 1654 1687	circumvent some security measures
+T64	Attack-Pattern 1689 1737	make purchases/withdrawals without online access
+T65	Attack-Pattern 1742 1809	create entirely new bogus accounts using the customer's information
+T66	Information 1782 1810	 the customer's information,
+T67	Information 1762 1776	bogus accounts
+T68	Person 1817 1833	Celeste Kinswood
+T69	Organization 1837 1847	Proofpoint
+T70	Person 1891 1896	users
+T71	Person 1914 1918	they
+T72	Person 1932 1939	victims
+T74	Information 2008 2023	support account
+T75	Information 2085 2102	login credentials
+T76	Information 2122 2139	 the real account
+T77	Person 2166 2174	 the one
+T78	Person 2199 2204	Users
+T79	Time 2263 2274	ten seconds
+T80	Course-of-Action 2103 2139	 A quick search for the real account
+T4	Purpose 376 402	sit back and scoop up data
+T81	Information 1724 1737	online access
+T82	Course-of-Action 2001 2103	a real support account will be verified with a blue tick and won't directly ask for login credentials.
+T87	Person 2186 2189	you
+T90	Organization 1417 1419	we
+T92	Person 2289 2292	you
+T44	Person 1991 1999	starters
+T57	Campaign 1175 1177	it
+*	Coreference T45 T69
+*	Coreference T54 T30 T55 T48 T15 T32
+*	Coreference T62 T40
+*	Coreference T19 T9
+*	Coreference T16 T10
+*	Coreference T22 T24
+*	Coreference T49 T47
+*	Coreference T28 T27
+*	Coreference T61 T60
+*	Coreference T70 T71
+*	Coreference T29 T57

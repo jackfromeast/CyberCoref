@@ -1,0 +1,128 @@
+T23	Information 1409 1429	customer information
+T26	Information 1616 1627	information
+T30	Hacker-Group 1680 1688	scammers
+T5	Information 114 132	employee W-2 forms
+T1	Campaign 77 88	data breach
+T11	Person 327 343	payroll employee
+T12	Attack-Pattern 345 383	asking her to send all 4,000 W-2 forms
+T31	Purpose 469 516	giving the scammer personal finance information
+T14	Email 842 853	bogus email
+T20	Campaign 1301 1320	email phishing scam
+T21	Purpose 1338 1376	the disclosure of 2016 W-2 information
+T29	Person 1287 1294	victims
+T25	Campaign 1474 1487	phishing scam
+T28	Time 1462 1471	yesterday
+T24	Hacker-Group 1450 1458	scammers
+T9	Person 302 316	CEO Scott Wise
+T8	Person 283 291	Somebody
+T15	Campaign 881 896	phishing scheme
+T18	Information 1092 1103	information
+T19	Information 1074 1082	your W-2
+T4	Organization 207 216	CBS4 Indy
+T32	Person 218 235	Company officials
+T33	Time 265 281	Monday afternoon
+T34	Person 180 203	news reporting partners
+T35	Number 101 113	thousands of
+T36	Campaign 260 264	leak
+T37	Email 396 402	e-mail
+T38	Person 436 444	employee
+T39	Person 521 540	all those employees
+T42	Organization 586 589	IRS
+T2	Person 387 390	him
+T7	Organization 594 637	Indianapolis Metropolitan Police Department
+T10	Organization 930 933	IRS
+T43	Time 934 943	last year
+T13	Person 656 660	They
+T16	Person 686 705	all their employees
+T45	Information 743 764	financial information
+T46	Organization 766 789	IMPD and other agencies
+T48	Organization 1046 1049	IRS
+T49	Domain 1056 1063	website
+T17	Time 1121 1136	Tuesday evening
+T22	Organization 1138 1156	Scotty's Brewhouse
+T40	Person 542 571	Scotty’s Brewhouse executives
+T50	Time 1194 1203	Yesterday
+T51	Organization 1204 1221	Scotty’s Holdings
+T52	Organization 1223 1226	LLC
+T53	Organization 1235 1245	subsidiary
+T54	Organization 1247 1277	affiliate and managed entities
+T55	Organization 1378 1384	Scotty
+T56	Organization 1489 1495	Scotty
+T57	Organization 1522 1555	federal and local law enforcement
+T58	Organization 1564 1578	credit bureaus
+T27	Organization 1706 1712	Scotty
+T60	Person 1742 1748	victim
+T61	Hacker-Group 1752 1760	scammers
+T62	Organization 1773 1788	other companies
+T63	Person 1801 1811	Scott Wise
+T66	Organization 1845 1852	Scotty’
+T67	Person 1854 1863	employees
+T68	Person 1868 1877	customers
+T69	Organization 1914 1921	company
+T70	Organization 1926 1932	Scotty
+T71	Person 1968 1977	employees
+T72	Organization 2023 2029	Scotty
+T73	Organization 2059 2092	federal and local law enforcement
+T74	Organization 2094 2122	the Internal Revenue Service
+T75	Organization 2127 2141	credit bureaus
+T76	Person 2151 2172	the responsible party
+T77	Organization 2197 2203	Scotty
+T78	Campaign 2262 2266	scam
+T79	Organization 2305 2312	company
+T80	Person 2323 2331	employee
+T81	Organization 2347 2354	company
+T82	Person 2392 2401	employees
+T83	Time 2402 2410	one year
+T84	Person 2446 2455	employees
+T85	Information 2482 2493	information
+T86	Person 2532 2541	employees
+T87	Location 0 12	INDIANAPOLIS
+T88	Course-of-Action 679 705	notify all their employees
+T89	Campaign 2004 2021	scamming incident
+T3	Person 15 24	Officials
+T91	Organization 28 46	Scotty’s Brewhouse
+T6	Hacker-Group 139 154	unknown scammer
+T92	Information 462 467	forms
+T93	Person 422 426	Wise
+T94	Number 999 1010	400 percent
+T95	Organization 981 987	agency
+T64	Organization 1820 1842	Scotty’s Holdings, LLC
+T47	Campaign 860 870	email scam
+T97	Time 951 961	tax season
+T98	Time 963 975	At that time
+T99	Campaign 1036 1040	scam
+T59	Course-of-Action 1582 1627	limit any potential misuse of the information
+T100	Person 1813 1842	CEO of Scotty’s Holdings, LLC
+T65	Organization 2214 2225	authorities
+T96	Number 2280 2286	number
+T44	Person 352 355	her
+T90	Information 368 383	4,000 W-2 forms
+T101	Hacker-Group 480 487	scammer
+T102	Information 488 516	personal finance information
+T103	Person 715 719	them
+T108	Information 2559 2565	credit
+T110	Campaign 1342 1352	disclosure
+T114	Organization 2244 2246	it
+*	Coreference T5 T90 T92
+*	Coreference T29 T60
+*	Coreference T25 T47 T89
+*	Coreference T28 T50
+*	Coreference T9 T63 T93 T100
+*	Coreference T32 T3
+*	Coreference T10 T42 T48 T95
+*	Coreference T85 T26
+*	Coreference T57 T73
+*	Coreference T58 T75
+*	Coreference T72 T55 T66 T56 T27 T70 T77 T22 T114
+*	Coreference T78 T99
+*	Coreference T69 T62 T79 T81
+*	Coreference T86 T71 T67 T84 T38 T82 T16 T11 T80 T39 T44 T103
+*	Coreference T36 T1 T41
+*	Coreference T2 T8 T61 T30 T101 T6 T24
+T41	Campaign 648 654	breach
+*	Coreference T13 T40
+T111	Course-of-Action 710 764	give them steps to protect their financial information
+*	Coreference T14 T37
+*	Coreference T45 T102
+T104	Course-of-Action 2414 2431	credit monitoring
+T105	Course-of-Action 2472 2565	providing information regarding available resources for its employees to monitor their credit

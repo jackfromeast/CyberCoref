@@ -1,0 +1,116 @@
+T3	Domain 9 45	the Guardian’s Soulmates dating site
+T2	Domain 88 96	the site
+T4	Person 0 5	Users
+T5	Information 110 129	contact information
+T8	Information 402 417	email addresses
+T7	Information 422 430	user IDs
+T10	Information 767 782	email addresses
+T11	Person 730 737	members
+T12	Information 798 815	Soulmates account
+T19	Information 1168 1172	data
+T15	Campaign 1179 1186	extract
+T13	Information 1211 1226	email addresses
+T14	Information 1231 1238	user ID
+T16	Person 1202 1209	members
+T20	Information 2134 2145	information
+T22	Organization 2081 2090	Soulmates
+T23	Time 2091 2105	six months ago
+T24	Money 362 365	£32
+T25	Money 367 373	$41.50
+T26	Malware 3668 3675	malware
+T27	Email 1589 1618	support@guardiansoulmates.com
+T1	Person 2172 2184	Another user
+T6	Information 3151 3155	data
+T9	Information 3342 3346	data
+T17	Campaign 3547 3551	spam
+T28	Organization 1314 1316	We
+T29	Organization 2924 2926	we
+T30	Organization 2508 2510	We
+T31	Person 1939 1943	they
+T33	Email 3564 3566	it
+T34	Organization 1391 1393	we
+T35	Person 2062 2066	they
+T36	Person 1804 1808	they
+T37	Campaign 2303 2305	it
+T38	Person 2381 2382	I
+T39	Organization 1583 1585	us
+T40	Organization 676 678	We
+T41	Organization 1554 1556	we
+T42	Person 1987 1991	they
+T45	Person 1893 1897	they
+T46	Person 1567 1571	them
+T47	Organization 1471 1473	we
+T48	Organization 841 843	We
+T50	Organization 691 693	we
+*	Coreference T8 T13 T7 T14 T10
+*	Coreference T3 T2 T18 T79 T22
+T18	Domain 104 109	their
+T21	Domain 325 333	the site
+T51	Person 350 355	users
+*	Coreference T4 T51
+T52	Campaign 271 275	leak
+T53	Campaign 97 103	leaked
+*	Coreference T53 T52
+*	Coreference T24 T25
+T54	Information 467 478	information
+T55	Organization 538 545	company
+T56	Organization 135 162	UK-based Guardian newspaper
+*	Coreference T56 T55 T59 T40 T50 T61 T48 T62 T28 T34 T66 T47 T69 T72 T41 T39 T30
+T57	Information 502 506	more
+T58	Information 557 615	photos, relationship preferences and physical descriptions
+*	Coreference T57 T58
+T59	Organization 640 649	publisher
+T60	Person 761 766	their
+T61	Organization 726 729	our
+T62	Organization 936 939	our
+T63	System 940 956	internal systems
+T64	System 1013 1026	these systems
+*	Coreference T63 T64
+T65	Person 1265 1272	members
+*	Coreference T16 T65 T70 T71 T46 T73 T74 T75 T76 T36 T45 T31 T42 T90
+T66	Organization 1413 1416	our
+T67	Organization 1092 1124	third party technology providers
+T68	Organization 1431 1452	third party suppliers
+*	Coreference T67 T68
+T69	Organization 1487 1490	our
+T70	Person 1491 1498	members
+T71	Person 1532 1539	members
+T72	Organization 1528 1531	our
+T73	Person 1624 1628	user
+T74	Person 1656 1660	they
+T75	Person 1734 1739	their
+T76	Person 1776 1780	user
+T77	Campaign 1851 1855	this
+T78	Campaign 1672 1704	receiving sexually explicit spam
+*	Coreference T78 T77
+T79	Domain 1956 1964	the site
+T80	Person 2039 2043	user
+*	Coreference T80 T35
+T44	Campaign 2238 2271	breached information being public
+*	Coreference T44 T37
+*	Coreference T1 T38
+T81	Information 2364 2375	information
+T82	Information 2437 2439	it
+*	Coreference T81 T82
+T32	Organization 2680 2691	third party
+T43	Organization 2553 2578	third-party tech provider
+*	Coreference T43 T32
+T83	Campaign 2717 2724	example
+T84	Campaign 2732 2787	contractors can be the weak link in your security chain
+*	Coreference T83 T84
+T49	Organization 2818 2822	your
+T85	Organization 2854 2858	your
+*	Coreference T49 T85
+T86	Organization 2895 2897	we
+*	Coreference T86 T29 T87
+T87	Organization 3037 3040	our
+T88	Campaign 3090 3095	chain
+T89	Campaign 3054 3059	chain
+*	Coreference T89 T88
+T90	Person 3170 3185	Soulmates users
+*	Coreference T6 T9
+T91	Campaign 3403 3409	advice
+T92	Campaign 3444 3448	none
+*	Coreference T92 T91
+*	Coreference T17 T33 T93
+T93	Campaign 3618 3622	spam

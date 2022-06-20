@@ -1,0 +1,131 @@
+T14	Organization 700 709	Wordfence
+T13	Software 755 787	the 4.x branch of WordPress core
+T12	Vulnerability 809 823	similar issues
+T20	Vulnerability 980 992	similar bugs
+T18	Time 952 961	this week
+T16	Course-of-Action 921 936	security update
+T54	Version 915 920	4.9.9
+T53	System 905 914	WordPress
+T6	Version 121 126	5.0.1
+T5	Course-of-Action 99 109	The update
+T8	Vulnerability 138 149	seven flaws
+T48	System 111 120	WordPress
+T10	Time 165 173	Thursday
+T22	Vulnerability 994 1011	Three of the bugs
+T24	Course-of-Action 1023 1034	the release
+T25	Version 1048 1053	5.0.1
+T26	Vulnerability 1058 1100	cross-site scripting (XSS) vulnerabilities
+T28	Attack-Pattern 1128 1190	allow for an adversary to launch a privilege escalation attack
+T27	Vulnerability 1102 1121	Two of the XSS bugs
+T55	System 1038 1047	WordPress
+T3	Software 47 65	their CMS software
+T2	Vulnerability 85 97	serious bugs
+T50	Version 208 211	5.0
+T49	System 198 207	WordPress
+T51	Time 185 191	a week
+T34	Vulnerability 1624 1639	a third XSS bug
+T33	Software 1578 1595	WordPress plugins
+T57	Attack-Pattern 1645 1694	opens up sites to attacks launched by adversaries
+T58	Attack-Pattern 1699 1744	send specially crafted URLs to affected sites
+T37	Person 1759 1770	researchers
+T35	Vulnerability 1772 1779	the bug
+T38	System 1795 1804	WordPress
+T56	Version 1805 1808	5.0
+T41	Vulnerability 2012 2046	A PHP (Hypertext Preprocessor) bug
+T40	Software 2070 2079	WordPress
+T46	Campaign 2168 2186	publicly disclosed
+T47	Vulnerability 2187 2189	it
+T44	Vulnerability 2081 2089	This bug
+T43	Person 2135 2145	Sam Thomas
+T45	Organization 2150 2162	Secarma Labs
+T29	Software 1492 1501	WordPress
+T31	Vulnerability 1512 1522	this issue
+T59	System 1 10	WordPress
+T60	Person 15 20	users
+T1	Number 73 84	a number of
+T4	Course-of-Action 40 65	update their CMS software
+T61	Purpose 69 97	fix a number of serious bugs
+T62	Version 11 14	5.0
+T7	Vulnerability 250 255	flaws
+T9	Vulnerability 261 264	bug
+T52	System 281 290	WordPress
+T63	Campaign 292 314	user activation screen
+T64	Software 333 339	Google
+T65	Software 350 364	search engines
+T66	Vulnerability 390 442	public exposure of WordPress usernames and passwords
+T67	System 409 418	WordPress
+T68	Information 419 428	usernames
+T69	Information 433 442	passwords
+T70	Campaign 449 471	user activation screen
+T71	Software 492 506	search engines
+T72	Vulnerability 551 578	exposure of email addresses
+T74	Vulnerability 604 631	default generated passwords
+T73	Organization 654 663	Wordfence
+T75	Vulnerability 693 698	flaws
+T15	System 719 728	WordPress
+T76	Person 729 734	users
+T77	Version 743 751	versions
+T11	Version 840 843	4.x
+T78	Person 844 849	users
+T79	Person 878 888	5.0 branch
+T17	Campaign 1184 1190	attack
+T19	Person 1193 1205	Contributors
+T21	System 1222 1241	WordPress web-based
+T23	Person 1257 1280	higher-privileged users
+T80	Vulnerability 1307 1341	cross-site scripting vulnerability
+T81	Organization 1344 1353	Wordfence
+T30	Course-of-Action 1526 1575	removing the <form> tag from their HTML whitelist
+T82	Software 1561 1565	HTML
+T32	URL 1722 1726	URLs
+T83	Domain 1654 1659	sites
+T84	Campaign 1663 1670	attacks
+T85	Hacker-Group 1683 1694	adversaries
+T86	Domain 1739 1744	sites
+T36	Campaign 1831 1853	wpmu_admin_do_redirect
+T87	System 1877 1886	WordPress
+T88	Software 1887 1894	plugins
+T89	URL 1915 1918	URL
+T91	Vulnerability 1940 1976	a cross-site scripting vulnerability
+T92	Person 2001 2005	they
+T93	Protocol 2014 2042	PHP (Hypertext Preprocessor)
+T39	Time 2197 2201	2018
+T94	Organization 2202 2222	Black Hat conference
+T96	Attack-Pattern 2244 2310	allows an author to assign an arbitrary file path to an attachment
+T97	Path 2284 2293	file path
+T98	File 2300 2310	attachment
+T99	Path 2316 2325	file path
+T100	Path 2358 2380	phar:// stream wrapper
+T101	File 2397 2416	uploaded attachment
+T102	File 2478 2487	PHAR file
+T103	Vulnerability 2432 2557	object injection utilizing a “feature” of the PHAR file type which stores serialized objects in the metadata of the PHAR file
+T104	Organization 2566 2575	Wordfence
+T105	File 2548 2557	PHAR file
+T106	System 2577 2586	WordPress
+T107	File 2614 2631	unauthorized file
+T108	Vulnerability 2652 2682	unauthorized post creation bug
+T109	Vulnerability 2614 2644	unauthorized file deletion bug
+T110	Number 994 999	Three
+T111	Number 1102 1105	Two
+T112	Vulnerability 1378 1391	vulnerability
+T113	Person 1408 1430	higher-level user role
+*	Coreference T3 T4
+*	Coreference T56 T50 T25 T62 T6
+*	Coreference T75 T7 T8 T9
+*	Coreference T63 T70
+*	Coreference T65 T71
+*	Coreference T17 T84
+*	Coreference T23 T113
+*	Coreference T104 T14 T73 T81
+*	Coreference T32 T89
+*	Coreference T83 T86
+*	Coreference T40 T87 T49 T21 T53 T55 T67 T29 T38 T52 T106 T33 T48 T15 T59
+*	Coreference T97 T99
+*	Coreference T98 T101
+*	Coreference T102 T105
+*	Coreference T108 T109
+*	Coreference T47 T44 T42 T41
+T42	Vulnerability 2230 2243	vulnerability
+*	Coreference T112 T34 T31 T35
+*	Coreference T37 T92
+*	Coreference T20 T12
+*	Coreference T22 T26

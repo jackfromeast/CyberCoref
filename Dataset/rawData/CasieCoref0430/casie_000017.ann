@@ -1,0 +1,53 @@
+T7	Domain 662 671	 the site
+T6	Organization 675 717	the Polish Financial Supervision Authority
+T8	Time 751 780	the beginning of October 2016
+T9	Person 794 802	visitors
+T3	Campaign 4 19	January attacks
+T4	Organization 28 57	Polish financial institutions
+T2	Domain 66 88	the booby-trapped site
+T1	Organization 92 134	the Polish Financial Supervision Authority
+T10	Campaign 241 262	compromise and attack
+T11	Attack-Pattern 222 237	 the indicators
+T12	Organization 277 296	 the affected banks
+T13	Organization 298 316	other institutions
+T14	Organization 345 349	they
+T15	Domain 373 383	 The sites
+T16	Attack-Pattern 389 412	booby-trapped with code
+T17	Code 408 412	code
+T18	Attack-Pattern 424 505	trigger the download of malicious JavaScript files from other compromised domains
+T19	File 448 474	malicious JavaScript files
+T20	Domain 480 505	other compromised domains
+T21	Domain 507 520	sap.misapor[.
+T22	Domain 520 532	 The domains
+T23	Code 539 554	 an exploit kit
+T24	Attack-Pattern 562 621	leveraged Silverlight and Flash exploits to deliver malware
+T25	Software 572 583	Silverlight
+T26	Software 588 593	Flash
+T27	Malware 614 621	malware
+T28	Person 635 651	 the researchers
+T5	IP 812 820	 The IPs
+T29	IP 914 917	IPs
+T30	Attack-Pattern 884 898	filter traffic
+T31	Attack-Pattern 826 854	contained the first 3 octets
+T32	Code 951 963	 the exploit
+T33	Code 968 975	payload
+T34	IP 976 993	 The IP addresses
+T35	Organization 1009 1060	 a mix of public and private financial institutions
+T36	Location 1074 1084	 the globe
+T37	Person 1087 1110	BAE Systems researchers
+T38	Organization 1134 1153	 these institutions
+T39	Organization 1158 1163	banks
+T40	Location 1167 1173	Poland
+T41	Location 1174 1181	 the US
+T42	Location 1183 1189	Mexico
+T43	Location 1191 1193	UK
+T44	Location 1199 1204	Chile
+*	Coreference T7 T15 T2
+*	Coreference T35 T38
+*	Coreference T28 T37
+*	Coreference T10 T3
+*	Coreference T4 T12 T39
+*	Coreference T14 T13
+*	Coreference T22 T20
+*	Coreference T6 T1
+*	Coreference T34 T5 T29

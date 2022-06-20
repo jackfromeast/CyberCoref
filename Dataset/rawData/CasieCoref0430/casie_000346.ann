@@ -1,0 +1,52 @@
+T4	Device 37 48	iOS devices
+T2	Campaign 0 23	A malvertising campaign
+T1	Information 126 137	information
+T9	Person 119 124	users
+T6	Vulnerability 226 238	the "issues"
+T8	Information 690 701	information
+T10	Person 683 688	users
+T11	Software 53 59	 a VPN
+T3	Number 99 118	large quantities of
+T12	Campaign 139 141	It
+T13	Domain 238 247	 the site
+T5	Course-of-Action 248 301	provides a link to a program called "My Mobile Secure
+T14	URL 256 263	 a link
+T15	Number 350 355	45.4%
+T16	Malware 368 390	BROWSER TROJAN VIRUSES
+T17	Domain 415 437	recent corrupted sites
+T18	Software 326 345	 your Mobile Safari
+T19	Person 444 451	someone
+T20	Device 474 487	 their device
+T21	Software 523 529	 a VPN
+T22	Software 538 554	My Mobile Secure
+T23	Software 557 573	My Mobile Secure
+T24	Email 587 600	users' emails
+T25	Person 587 592	users
+T26	Organization 604 619	MobileXpression
+T27	Organization 620 634	 a market firm
+T7	Purpose 672 701	collecting users' information
+T28	Malware 467 472	Virus
+T29	Software 726 732	 a VPN
+T30	Campaign 745 768	 your online activities
+T31	Campaign 845 869	 a malvertising campaign
+T32	Person 887 892	users
+T33	Course-of-Action 887 1013	users should take great care to not click on suspicious ads and should consider installing an ad-blocker in their web browsers
+T34	Software 977 991	 an ad-blocker
+T35	Software 995 1013	their web browsers
+T36	Person 1015 1019	They
+T37	Software 1052 1058	 a VPN
+T38	Person 1064 1068	they
+T40	Course-of-Action 1041 1178	downloading a VPN, but they should make sure to research VPN providers and their privacy policies carefully before they choose a solution
+T41	Organization 1098 1111	VPN providers
+T39	Information 1115 1138	 their privacy policies
+T42	Software 87 89	it
+T44	Person 1156 1160	they
+T45	Software 285 301	My Mobile Secure
+T43	Domain 305 307	We
+*	Coreference T2 T31 T12
+*	Coreference T22 T23 T21 T45
+*	Coreference T11 T42
+*	Coreference T26 T27
+*	Coreference T36 T32 T44 T38
+*	Coreference T25 T10
+*	Coreference T13 T43

@@ -1,0 +1,66 @@
+T1	Campaign 57 70	has published
+T5	Person 0 34	A Russian vulnerability researcher
+T2	Vulnerability 98 122	a zero-day vulnerability
+T3	System 126 136	VirtualBox
+T23	Person 39 56	exploit developer
+T7	Campaign 249 263	the disclosure
+T24	System 357 384	supported operating systems
+T6	Campaign 275 285	is present
+T8	System 289 307	a shared code base
+T9	Software 311 338	the virtualization software
+T4	Vulnerability 265 274	the issue
+T13	Campaign 653 658	found
+T12	Person 637 652	Sergey Zelenyuk
+T11	Vulnerability 664 680	the security bug
+T14	Attack-Pattern 688 728	leveraged on virtual machines configured
+T16	System 793 831	Network Address Translation (NAT) mode
+T17	Attack-Pattern 856 907	allows the guest system to access external networks
+T15	Device 734 789	the Intel PRO/1000 MT Desktop (82540EM) network adapter
+T19	Person 1164 1172	Zelenyuk
+T22	Attack-Pattern 972 1027	allowing an attacker with root/administrator privileges
+T21	Vulnerability 956 971	a vulnerability
+T20	Device 910 951	The [Intel PRO/1000 MT Desktop (82540EM)]
+T25	Campaign 386 396	Exploiting
+T26	Vulnerability 397 414	the vulnerability
+T10	Attack-Pattern 415 467	allows an attacker to escape the virtual environment
+T27	Path 1149 1161	/dev/vboxdrv
+T18	Time 1207 1214	Tuesday
+T28	Vulnerability 208 211	bug
+T29	Person 1379 1389	researcher
+T30	Person 1216 1224	Zelenyuk
+T31	System 1589 1605	operating system
+T32	Information 1816 1820	data
+T33	Vulnerability 1957 1971	stack overflow
+T34	Vulnerability 1912 1941	overwriting function pointers
+T35	Vulnerability 1874 1882	overflow
+T36	Software 1849 1860	heap buffer
+T37	System 1830 1838	guest OS
+T38	Vulnerability 1627 1644	integer underflow
+T39	Information 1736 1755	network packet data
+T40	Person 1614 1616	he
+*	Coreference T24 T31
+*	Coreference T15 T20 T59
+*	Coreference T30 T12 T19 T29 T40
+*	Coreference T21 T2 T26 T28 T4 T11 T54 T55
+T42	Information 71 91	detailed information
+*	Coreference T42 T43
+T43	Information 230 245	initial details
+T44	Hacker-Group 425 433	attacker
+T45	Device 475 488	guest machine
+T46	Vulnerability 614 622	overflow
+T47	Vulnerability 629 636	another
+T48	Software 701 717	virtual machines
+*	Coreference T9 T48
+T49	Hacker-Group 984 992	attacker
+T50	System 867 879	guest system
+T51	Hacker-Group 1075 1083	attacker
+*	Coreference T49 T51
+T54	Vulnerability 1274 1287	vulnerability
+T55	Vulnerability 1425 1438	security flaw
+T56	Vulnerability 1510 1525	buffer overflow
+*	Coreference T46 T56
+T59	Device 1711 1726	network adapter
+T60	Vulnerability 1783 1788	state
+*	Coreference T38 T60
+*	Coreference T39 T32
+*	Coreference T47 T33

@@ -1,0 +1,101 @@
+T5	File 1708 1724	 the ransom note
+T6	Person 1731 1742	 the victim
+T8	Person 1753 1757	they
+T7	Attack-Pattern 1758 1776	have been infected
+T2	Information 429 445	payment receipts
+T3	Email 403 409	emails
+T9	File 711 721	P72732.pdf
+T10	Time 48 52	2017
+T11	Time 57 68	a few weeks
+T13	Malware 126 131	Locky
+T14	Attack-Pattern 145 198	a fresh wave of SPAM emails containing malicious docs
+T15	Email 161 172	SPAM emails
+T16	File 184 198	malicious docs
+T18	Malware 273 288	 the ransomware
+T19	Campaign 234 248	Locky's hiatus
+T20	Malware 253 257	they
+T21	Person 320 322	we
+T22	Malware 377 381	SPAM
+T1	Purpose 429 467	payment receipts with various subjects
+T23	Organization 496 514	My Online Security
+T24	Email 515 525	 the email
+T25	Number 551 554	435
+T26	Information 543 550	Receipt
+T27	Information 556 571	Payment Receipt
+T28	Number 572 576	2724
+T29	Information 578 585	Payment
+T30	Number 586 590	2677
+T32	Number 608 611	739
+T33	Information 617 624	Payment
+T34	Number 625 628	229
+T35	Email 655 668	 These emails
+T36	File 676 693	 a PDF attachment
+T37	File 727 739	 these PDFs 
+T38	Purpose 782 812	open an embedded Word document
+T39	File 799 812	Word document
+T40	Person 831 838	 a user
+T41	File 844 853	 the file
+T42	File 854 872	 the Word document
+T45	Attack-Pattern 1009 1036	clicking on Enable Content 
+T46	Purpose 1048 1073	properly see the document
+T47	Malware 994 1005	 the macros
+T48	Malware 1079 1090	 the macros
+T49	Malware 1103 1114	 the macros
+T50	Attack-Pattern 1129 1200	downloading an encrypted Locky binary from http://uwdesign.com.br/9yg65
+T51	URL 1172 1200	http://uwdesign.com.br/9yg65
+T52	File 1212 1221	 the file
+T53	Path 1236 1255	%Temp%\redchip2.exe
+T54	Attack-Pattern 1266 1316	executing the file to begin the encryption process
+T56	Domain 1365 1375	VirusTotal
+T57	Malware 1387 1404	previous variants
+T58	Malware 1406 1411	Locky
+T59	Attack-Pattern 1412 1516	deletes Shadow Volume Copies using a Scheduled Task and appends the .OSIRIS extension to encrypted files
+T60	System 1420 1440	Shadow Volume Copies
+T61	Software 1446 1463	 a Scheduled Task
+T62	File 1475 1487	 the .OSIRIS
+T63	File 1501 1516	encrypted files
+T64	File 1525 1541	encrypting files
+T65	Attack-Pattern 1550 1612	routinely send status updates to the Command & Control servers
+T66	System 1582 1612	 the Command & Control servers
+T67	IP 1623 1651	 188.120.239.230/checkupdate
+T68	IP 1656 1681	80.85.158.212/checkupdate
+T4	Attack-Pattern 1831 1854	decrypt files encrypted
+T69	Number 1865 1868	One
+T70	Person 1872 1881	my client
+T71	Malware 1896 1915	 the original locky
+T72	File 1921 1945	 the file extension name
+T73	Malware 1949 1955	.locky
+T74	Time 1959 1964	March
+T75	Time 1966 1970	2017
+T76	Malware 1983 1988	locky
+T77	Malware 2035 2040	Locky
+T78	Number 2042 2049	Lots of
+T79	Malware 2080 2115	 the original extension distributed
+T80	Time 2127 2136	long time
+T81	Malware 2138 2151	ID Ransomware
+T82	Campaign 2207 2225	 the spam campaign
+T83	Malware 2245 2260	old locky files
+T84	Attack-Pattern 2281 2294	hacked server
+T85	Course-of-Action 335 354	pay close attention
+T86	Course-of-Action 855 961	the Word document will open and the target will be greeted with the typical Malicious word document prompt
+T43	File 931 954	Malicious word document
+T44	File 1060 1073	 the document
+T87	File 1230 1232	it
+T88	File 1275 1284	 the file
+T89	Number 1344 1351	 a 7/55
+T91	Malware 1858 1863	Locky
+T100	Malware 294 298	they
+T12	Person 87 119	Malwarebytes security researcher
+T17	Person 120 124	S!Ri
+T55	Malware 1318 1330	Redchip2.exe
+T90	Attack-Pattern 1693 1695	it
+T31	Information 592 608	Payment Receipt_
+*	Coreference T10 T75
+*	Coreference T49 T47 T48
+*	Coreference T63 T64
+*	Coreference T91 T76 T58 T73 T77 T13 T20 T100 T71
+*	Coreference T8 T6
+*	Coreference T12 T17
+*	Coreference T36 T9
+*	Coreference T52 T87 T88
+*	Coreference T90 T65

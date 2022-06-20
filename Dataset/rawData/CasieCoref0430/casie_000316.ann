@@ -1,0 +1,96 @@
+T2	Information 287 298	information
+T3	Person 302 312	physicians
+T6	Information 355 369	work locations
+T5	Information 341 350	addresses
+T4	Information 321 339	cell phone numbers
+T7	File 272 281	documents
+T9	Time 3 13	March 2014
+T10	Organization 15 41	Boston Children’s Hospital
+T12	Organization 87 108	 a third-party vendor
+T13	Organization 159 165	vendor
+T14	Organization 170 193	 the pediatric facility
+T15	Organization 139 152	 the facility
+T11	Organization 199 201	it
+T16	File 211 227	online documents
+T8	Organization 239 252	 the hospital
+T1	Information 374 390	 the information
+T17	Organization 416 448	Boston Children’s infrastructure
+T18	Information 405 448	details of Boston Children’s infrastructure
+T19	Information 457 477	 the main IP address
+T20	Domain 480 508	 its organizational web site
+T21	Person 514 517	kid
+T22	Information 528 539	 this stuff
+T23	Person 572 579	someone
+T24	Purpose 594 636	damage the reputation of Boston Children’s
+T25	Person 643 656	Daniel Nigrin
+T26	Person 658 660	MD
+T27	Person 662 683	senior vice president
+T28	Person 688 691	CIO
+T29	Organization 694 724	 the division of endocrinology
+T30	Campaign 732 756	 the Cybersecurity Forum
+T31	Campaign 760 767	HIMSS17
+T32	File 778 786	 a video
+T33	Hacker-Group 791 835	 the activist hacking organization Anonymous
+T34	Organization 845 858	 the hospital
+T35	Person 877 885	 a child
+T36	Person 897 904	 a CISO
+T37	Time 905 917	for 16 years
+T38	Person 943 949	Nigrin
+T39	Hacker-Group 991 1000	Anonymous
+T40	Person 1012 1027	 a teenage girl
+T41	Organization 1032 1045	 the hospital
+T42	Organization 1107 1112	court
+T43	Person 1119 1127	 a judge
+T44	Person 1144 1154	 the child
+T45	Person 1177 1188	 The family
+T46	Hacker-Group 1247 1256	Anonymous
+T47	Organization 1277 1294	Boston Children’s
+T48	Purpose 1277 1323	Boston Children’s needed to be taught a lesson
+T49	Hacker-Group 1341 1343	it
+T50	Hacker-Group 1357 1366	Anonymous
+T51	Person 1428 1434	Nigrin
+T52	Organization 1440 1453	 The hospital
+T54	Course-of-Action 1454 1550	convened an incident response team and starting forming contingency plans for an expected attack
+T55	Campaign 1544 1550	attack
+T56	Course-of-Action 1567 1620	“going dark” and cutting itself off from the Internet
+T57	System 1607 1620	 the Internet
+T58	System 1636 1648	 the systems
+T59	Code 1653 1662	processes
+T60	Organization 1686 1699	 the facility
+T61	Time 1709 1724	In the meantime
+T62	Organization 1726 1743	Boston Children’s
+T63	Organization 1754 1766	local police
+T64	Organization 1770 1778	 the FBI
+T65	Course-of-Action 1744 1778	contacted local police and the FBI
+T67	Person 1832 1851	hospital executives
+T68	Organization 1867 1871	them
+T69	Time 1894 1913	Three weeks went by
+T70	Organization 1935 1948	 the facility
+T71	Attack-Pattern 1962 2009	low-value distributed denial of service attacks
+T73	Time 2033 2037	then
+T74	Attack-Pattern 2068 2095	attacks increased in volume
+T75	Campaign 2068 2075	attacks
+T76	Time 2097 2111	One week later
+T77	Time 2114 2131	 a Saturday night
+T78	Campaign 2132 2155	 the cat-and-mouse game
+T79	Campaign 2188 2195	attacks
+T80	Organization 2199 2213	 a third party
+T81	Course-of-Action 2199 2233	 a third party was engaged to help
+T82	Organization 2233 2246	 the hospital
+T83	Hacker-Group 2276 2285	Anonymous
+T84	Campaign 2286 2298	cyber attack
+T85	Time 2307 2315	April 14
+T86	Time 2329 2337	April 27
+T87	Hacker-Group 2351 2363	 the hackers
+T88	Attack-Pattern 2369 2441	sending 30-day levels of malicious traffic in very short periods of time
+T89	Time 2377 2383	30-day
+T90	Time 2415 2441	very short periods of time
+T91	Organization 619 636	Boston Children’s
+T93	Person 938 940	me
+*	Coreference T25 T51 T38 T27 T93
+*	Coreference T91 T17 T47 T62
+*	Coreference T60 T11 T14 T70 T15
+*	Coreference T13 T12
+*	Coreference T1 T2
+*	Coreference T10 T8 T34 T41 T52 T82
+*	Coreference T50 T46 T49 T83 T87

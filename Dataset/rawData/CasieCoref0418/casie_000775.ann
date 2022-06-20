@@ -1,0 +1,88 @@
+T2	Campaign 129 134	found
+T1	Person 107 128	the British white hat
+T3	Vulnerability 135 156	a second critical bug
+T4	Software 164 181	password manager.
+T5	Campaign 499 511	had reported
+T8	Person 475 498	Google Project Zero man
+T6	Vulnerability 512 543	a new client-side vulnerability
+T7	Software 551 568	browser extension
+T13	Campaign 698 706	disclose
+T14	Vulnerability 731 748	the vulnerability
+T12	Organization 681 683	We
+T18	Campaign 1258 1270	has reported
+T19	Organization 1274 1282	LastPass
+T17	Person 1250 1257	Ormandy
+T16	Vulnerability 1210 1234	the second vulnerability
+T30	Campaign 1534 1539	found
+T32	System 1582 1593	the service
+T31	Vulnerability 1541 1577	a bunch of obvious critical problems
+T29	Person 1531 1533	he
+T28	Time 1516 1525	last year
+T27	Organization 1495 1503	the firm
+T26	Person 1467 1474	Ormandy
+T9	Campaign 591 601	addressing
+T11	Organization 571 573	We
+T10	Vulnerability 606 619	vulnerability
+T22	Course-of-Action 1335 1338	fix
+T21	Organization 1299 1320	password manager firm
+T23	Vulnerability 1341 1358	critical zero day
+T24	Attack-Pattern 1375 1404	allowed remote code execution
+T20	Time 1284 1293	Last week
+T25	Attack-Pattern 1430 1452	steal users’ passwords
+T15	Campaign 1187 1203	phishing attacks
+T33	Software 368 376	LastPass
+T34	Version 377 383	4.1.43
+T35	Time 207 214	weekend
+T36	Time 319 331	this morning
+T37	Person 0 18	LastPass engineers
+T38	Person 287 288	I
+T39	Person 835 838	you
+T41	Person 220 222	he
+T43	Person 1869 1871	me
+T44	Course-of-Action 1143 1145	it
+T45	Person 1599 1601	he
+*	Coreference T2 T30
+*	Coreference T5 T18
+*	Coreference T19 T33 T48 T50 T11 T12 T40 T56 T62 T21 T27
+T46	Person 24 55	Google researcher Tavis Ormandy
+T47	Person 182 189	Ormandy
+T48	Organization 0 8	LastPass
+T49	Vulnerability 401 408	exploit
+*	Coreference T49 T3 T6 T10 T16
+T50	Software 433 441	LastPass
+T51	Campaign 626 632	attack
+T40	Person 670 672	it
+T52	Course-of-Action 888 892	work
+T53	Course-of-Action 756 759	fix
+*	Coreference T52 T53
+T54	Information 778 786	anything
+T55	Information 707 715	anything
+*	Coreference T54 T55
+T56	Organization 911 915	firm
+T57	Person 941 946	users
+T58	Person 969 979	themselves
+*	Coreference T57 T58
+T59	Campaign 985 1012	client-side security issues
+T60	Course-of-Action 930 935	steps
+T61	Course-of-Action 1014 1019	These
+*	Coreference T60 T61
+T62	Software 1063 1071	LastPass
+T63	Course-of-Action 1092 1117	two-factor authentication
+*	Coreference T44 T63
+*	Coreference T59 T15
+T64	Hacker-Group 1418 1426	attacker
+T42	System 1660 1674	online service
+*	Coreference T42 T32 T71
+T65	Information 1713 1733	customers’ passwords
+T66	Information 1436 1452	users’ passwords
+*	Coreference T65 T66 T72
+T67	Person 1739 1755	Twitter follower
+T68	Person 1778 1779	I
+*	Coreference T68 T67
+T69	Person 1792 1798	anyone
+T70	Person 1713 1722	customers
+*	Coreference T70 T69
+T71	System 1807 1821	online service
+T72	Information 1831 1840	passwords
+T73	Person 1843 1850	Ormandy
+*	Coreference T73 T43 T46 T47 T41 T38 T8 T17 T26 T29 T45

@@ -1,0 +1,71 @@
+T3	Email 43 62	phishing scam email
+T2	Organization 88 96	Vodafone
+T4	Organization 198 206	Vodafone
+T5	Attack-Pattern 216 240	spamming Irish mailboxes
+T9	Email 1452 1462	 the email
+T11	File 1504 1523	 the Vodafone logos
+T12	Email 1564 1574	 the email
+T13	Domain 1582 1597	 a fake website
+T17	Location 1613 1619	Mexico
+T15	Person 1641 1650	 the user
+T16	Attack-Pattern 1656 1705	submitting their account info and payment details
+T6	Campaign 245 264	 a phishing attempt
+T18	Organization 0 12	ESET Ireland
+T1	Attack-Pattern 43 96	phishing scam email, pretending to come from Vodafone
+T19	Hacker-Group 97 116	 The cybercriminals
+T20	Time 151 164	 the new year
+T7	Email 165 174	 An email
+T8	Location 225 230	Irish
+T21	Email 265 275	 The email
+T22	Person 288 303	Valued Customer
+T23	Organization 351 365	 your Vodafone
+T24	Time 379 382	now
+T26	Campaign 503 518	autopay payment
+T27	Information 532 560	your credit card information
+T28	Campaign 576 591	autopay payment
+T29	Information 611 623	Your account
+T30	Time 672 690	 the last few days
+T31	Domain 770 779	MyAccount
+T32	Money 732 755	 the total amount owing
+T33	Campaign 789 810	suspension of service
+T35	Campaign 392 425	service restriction or suspension
+T36	Money 836 842	amount
+T37	Time 843 861	before 04 Jan 2017
+T38	Domain 873 884	MyAccount  
+T39	URL 884 928	https://www.vodafone.ie/myv/services/Process
+T40	Campaign 950 972	 the payment rejection
+T41	Organization 989 998	your bank
+T42	Money 1043 1050	payment
+T43	Campaign 1086 1127	restriction or suspension of your service
+T44	Money 1195 1214	 a reconnection fee
+T45	Number 1328 1339	a number of
+T46	Software 1340 1352	online tools
+T47	Domain 1419 1428	MyAccount
+T48	Software 1433 1445	our 24×7 App
+T10	URL 1551 1561	 the links
+T14	Information 1667 1705	their account info and payment details
+T49	Email 1732 1741	 an email
+T50	Course-of-Action 1743 1772	flag it as spam and delete it
+T51	Email 1748 1750	it
+T52	Email 1754 1758	spam
+T53	Email 1770 1772	it
+T54	URL 1793 1803	 the links
+T55	Email 1807 1809	it
+T56	Number 1053 1076	 the outstanding amount
+T57	Software 449 467	NETVIGATOR service
+T58	Software 351 373	 your Vodafone service
+T59	Software 1163 1176	 your service
+T60	Software 1266 1279	 your service
+T61	Money 1237 1260	regular service charges
+T62	Software 1312 1326	 your services
+T25	Money 440 444	bill
+T63	Money 1379 1389	 your bill
+*	Coreference T4 T23 T2
+*	Coreference T16 T14
+*	Coreference T26 T28
+*	Coreference T36 T42
+*	Coreference T31 T47 T38
+*	Coreference T60 T58 T62 T59
+*	Coreference T21 T7
+*	Coreference T49 T51 T52 T53 T55
+*	Coreference T12 T9

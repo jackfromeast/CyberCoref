@@ -1,0 +1,86 @@
+T2	Malware 409 416	The app
+T1	Information 447 460	login details
+T13	Person 435 444	 the user
+T6	Attack-Pattern 1211 1216	stole
+T7	Malware 1191 1205	 a similar app
+T4	Information 1217 1238	Instagram credentials
+T5	Person 1252 1265	Turkish users
+T15	Time 1157 1164	January
+T14	Information 1947 1968	Instagram credentials
+T16	Malware 1848 1852	apps
+T17	Time 1769 1785	Six months later
+T9	Campaign 1585 1590	stole
+T10	Information 1591 1612	Instagram credentials
+T8	Malware 1575 1579	apps
+T11	Time 1616 1634	the past few years
+T18	Software 148 152	apps
+T19	Organization 286 308	Google's security team
+T20	Software 278 282	apps
+T21	Number 275 277	13
+T22	Number 132 147	seven of the 13
+T23	Person 174 196	Turkish-speaking users
+T24	Person 216 243	users from across the world
+T25	Number 61 63	13
+T26	Software 64 68	apps
+T27	Hacker-Group 104 124	 a Turkish developer
+T28	Person 10 49	ESET security researcher Lukas Stefanko
+T29	Person 245 253	Stefanko
+T30	Time 347 356	last week
+T31	Software 383 394	 these apps
+T3	Device 474 490	 a remote server
+T32	Domain 677 705	 the official Instagram site
+T33	Software 727 735	 the app
+T34	Person 916 923	victims
+T35	Information 936 952	 their passwords
+T36	Domain 769 792	 the Instagram homepage
+T37	Person 752 761	 the user
+T38	Person 1046 1054	Stefanko
+T39	Software 1063 1074	 these apps
+T40	Person 1165 1180	 the researcher
+T41	Software 1272 1275	app
+T42	Hacker-Group 1352 1359	hackers
+T43	Time 1639 1652	November 2015
+T44	Software 1667 1674	 an app
+T45	Organization 1787 1793	Google
+T12	Software 1860 1886	Who Viewed Me on Instagram
+T46	Information 987 1004	Instagram account
+T54	Software 197 206	 the rest
+T53	Person 259 261	he
+T50	Software 322 326	them
+T49	Information 467 471	them
+T55	Campaign 509 514	error
+T56	Campaign 515 525	 The error
+T57	Person 549 558	 the user
+T58	Campaign 627 637	 the error
+T59	Person 659 668	 the user
+T60	Domain 741 746	there
+T52	Person 794 796	he
+T51	Person 845 848	him
+T61	Domain 827 836	Instagram
+T62	Hacker-Group 953 963	 the crook
+T63	Hacker-Group 859 866	someone
+T64	Person 973 986	 the victim's
+T65	Information 879 891	 his account
+T66	Domain 1108 1117	Instagram
+T67	Software 1313 1330	Google Play Store
+T68	Software 331 346	 the Play Store
+T69	Information 1381 1402	Instagram credentials
+T70	Money 1472 1479	payment
+T71	Money 1142 1147	money
+T72	Information 1499 1507	accounts
+T47	Software 1682 1718	Who Viewed Your Profile - InstaAgent
+T73	Software 1893 1922	InstaCare - Who cares with me
+*	Coreference T13 T37 T24 T57 T59 T52 T51 T34 T64
+*	Coreference T6 T9
+*	Coreference T5 T23
+*	Coreference T10 T4 T14 T46 T65 T69 T72
+*	Coreference T21 T25
+*	Coreference T29 T38 T28 T53
+*	Coreference T20 T50 T26 T18 T54 T31 T2 T33 T39
+*	Coreference T1 T49
+*	Coreference T55 T56 T58
+*	Coreference T32 T60 T36 T61 T66
+*	Coreference T63 T62 T42
+*	Coreference T7 T41 T8 T44 T16 T47 T12 T73
+*	Coreference T68 T67
+*	Coreference T71 T70

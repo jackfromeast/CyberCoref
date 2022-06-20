@@ -1,0 +1,151 @@
+T11	Malware 1673 1683	ransomware
+T12	Attack-Pattern 1688 1707	encrypts everything
+T9	Device 1710 1725	 the hard drive
+T8	Hacker-Group 542 549	hackers
+T6	Person 562 581	unsuspecting people
+T7	Email 609 614	email
+T2	Person 330 339	Web users
+T3	Purpose 362 399	entering their username and passwords
+T4	Domain 405 418	fake websites
+T20	Campaign 3209 3225	phishing attacks
+T19	Information 2540 2553	email address
+T21	Person 2524 2537	 an executive
+T22	Attack-Pattern 2601 2652	wire money to a specific account for phony services
+T15	Hacker-Group 0 7	Hacking
+T23	Time 118 122	2016
+T24	Campaign 128 156	 the John Podesta email hack
+T25	Hacker-Group 183 190	hackers
+T26	Vulnerability 219 227	breaches
+T27	Campaign 162 177	big enough news
+T1	Information 370 399	 their username and passwords
+T30	Campaign 485 498	hack a system
+T29	Hacker-Group 499 512	 The attacker
+T31	Information 516 525	 the keys
+T32	Person 620 631	 the victim
+T5	Malware 526 541	 The chief tool
+T33	Purpose 557 605	lure unsuspecting people to these phony websites
+T34	Domain 584 605	 these phony websites
+T35	Organization 640 650	 a company
+T36	Information 664 682	 those credentials
+T37	Hacker-Group 697 712	cyber-criminals
+T38	Email 743 748	email
+T39	Attack-Pattern 689 748	provide cyber-criminals with access to more than just email
+T40	Information 823 837	sensitive data
+T41	Device 811 818	servers
+T42	System 800 809	intranets
+T43	Information 759 770	credentials
+T46	Time 904 909	today
+T47	Person 961 965	many
+T48	Software 989 1005	virtual machines
+T49	Software 1027 1035	software
+T50	Person 1061 1070	 the user
+T51	System 1038 1048	 the cloud
+T52	Course-of-Action 1102 1118	counter-measures
+T53	Organization 1146 1159	The Intercept
+T54	Organization 1197 1216	Amazon Web Services
+T55	Time 1251 1259	Thursday
+T56	Time 1260 1268	40 hours
+T57	Person 1298 1303	users
+T58	Organization 1308 1317	companies
+T59	Software 1341 1343	it
+T60	Software 1272 1289	virtual machinery
+T61	System 1349 1358	Windows 7
+T62	System 1363 1373	Windows 10
+T63	Person 1803 1816	 the employee
+T64	Device 1819 1833	actual machine
+T65	Malware 1777 1792	 the ransomware
+T13	Person 1623 1635	 an employee
+T10	Money 1749 1756	bitcoin
+T66	Information 1764 1768	data
+T67	System 1429 1439	 the cloud
+T68	Device 1449 1465	physical devices
+T69	Person 1480 1487	 a user
+T70	Code 1471 1480	evil code
+T71	Software 1532 1542	WorkSpaces
+T72	Software 1544 1546	it
+T73	Person 1556 1561	staff
+T76	Software 1600 1605	tools
+T77	Location 1652 1656	home
+T78	Course-of-Action 1551 1619	give staff access to all of a company’s data and tools from anywhere
+T79	Campaign 1666 1669	hit
+T80	Malware 1685 1687	it
+T14	Attack-Pattern 1730 1773	demands payment in bitcoin to set data free
+T81	Information 1838 1879	 the music, photos and personal documents
+T82	Attack-Pattern 1835 1911	all the music, photos and personal documents stored there would be locked up
+T83	Device 1919 1937	 a virtual machine
+T84	Device 1951 1970	 the virtual device
+T85	Campaign 1976 1979	hit
+T86	Information 1990 2003	personal data
+T87	Person 2019 2026	 a user
+T88	URL 2036 2043	 a link
+T89	Email 2046 2064	 a malicious email
+T91	Information 2094 2123	 their user name and password
+T92	Domain 2126 2142	 a phony website
+T93	Device 2166 2184	 a virtual machine
+T94	Information 2208 2219	information
+T95	Course-of-Action 2195 2237	prevent that information from getting lost
+T96	Organization 2264 2273	companies
+T97	Course-of-Action 2312 2343	using two-factor authentication
+T98	Organization 2674 2682	 The FBI
+T99	Campaign 2707 2712	scams
+T100	Organization 2723 2732	companies
+T101	Money 2733 2743	$5 billion
+T102	Time 2748 2767	 the last few years
+T103	Hacker-Group 2350 2371	sophisticated hackers
+T104	Information 2389 2409	specific credentials
+T105	Person 2414 2434	high level employees
+T106	Purpose 2447 2473	impersonate them digitally
+T107	Attack-Pattern 2385 2409	get specific credentials
+T16	Hacker-Group 2487 2499	 an attacker
+T108	Attack-Pattern 2506 2554	send an email from an executive’s email address,
+T18	Email 2510 2519	 an email
+T109	Person 2555 2564	Jakobsson
+T110	Person 2654 2663	Jakobsson
+T112	Software 2638 2652	phony services
+T113	Device 2768 2786	 A virtual machine
+T114	Campaign 2806 2811	trick
+T115	Organization 2813 2825	Carbon Black
+T116	Software 2835 2852	security services
+T117	Person 2857 2867	 the crowd
+T118	Campaign 2878 2885	attacks
+T119	Hacker-Group 2900 2909	intruders
+T120	Course-of-Action 2869 2909	spotting attacks and detecting intruders
+T121	Person 2928 2961	leading cybersecurity researchers
+T122	Device 3004 3017	 the machines
+T123	Person 3029 3041	Rick McElroy
+T124	Person 3042 3064	 a security strategist
+T125	Person 3094 3109	 a spokesperson
+T126	File 3076 3089	 the Observer
+T127	Course-of-Action 3112 3140	User awareness and education
+T128	Device 3227 3236	Computers
+T129	Person 3269 3274	human
+T130	System 3293 3321	Desktop-as-a-service systems
+T131	System 3327 3337	WorkSpaces
+T132	Device 3354 3363	computers
+T133	Device 3389 3405	updated machines
+T134	Course-of-Action 3342 3405	turn clunky computers into lean, mean, totally updated machines
+T135	Organization 3434 3446	Sir Lancelot
+T136	Organization 3461 3470	companies
+T137	Organization 3520 3525	firms
+T138	System 3407 3411	They
+T139	System 3493 3496	one
+T140	Course-of-Action 2287 2302	robust sign-ons
+T141	Person 2586 2597	bookkeepers
+T28	Information 425 441	that information
+T45	Information 2614 2633	 a specific account
+T143	Person 2459 2463	them
+T44	Person 839 849	Executives
+*	Coreference T63 T13
+*	Coreference T79 T85
+*	Coreference T109 T110
+*	Coreference T131 T71 T72
+*	Coreference T34 T4
+*	Coreference T32 T6
+*	Coreference T60 T59
+*	Coreference T1 T28
+*	Coreference T29 T8
+*	Coreference T36 T43
+*	Coreference T80 T11 T65
+*	Coreference T105 T143
+*	Coreference T123 T124
+*	Coreference T138 T130

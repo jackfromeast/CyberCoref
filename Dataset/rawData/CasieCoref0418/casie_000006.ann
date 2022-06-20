@@ -1,0 +1,171 @@
+T34	Attack-Pattern 2185 2204	the phishing scheme
+T35	Hacker-Group 2210 2220	Fancy Bear
+T37	Person 2276 2281	users
+T28	Hacker-Group 1504 1521	the hacking group
+T56	Hacker-Group 1492 1502	Fancy Bear
+T23	Malware 1558 1575	fake applications
+T25	Person 1590 1597	victims
+T26	Purpose 1603 1630	handing over account access
+T11	Attack-Pattern 544 568	sending out a fake email
+T12	Email 558 568	fake email
+T14	Organization 592 598	Google
+T10	Campaign 418 428	the attack
+T8	Hacker-Group 384 394	Pawn Storm
+T9	Hacker-Group 370 380	Fancy Bear
+T55	Hacker-Group 354 359	group
+T6	Attack-Pattern 456 483	sending out phishing emails
+T7	Email 468 483	phishing emails
+T15	Campaign 524 534	The attack
+T53	Person 135 142	victims
+T3	Information 158 167	passwords
+T17	Hacker-Group 680 690	Fancy Bear
+T16	Email 660 674	phishing email
+T21	Hacker-Group 937 950	hacking group
+T20	Person 969 974	users
+T22	Purpose 980 1037	giving up a special access token for their Google account
+T29	Attack-Pattern 1659 1708	abusing the screening process for OAuth approvals
+T32	Software 1768 1771	app
+T33	Organization 1788 1804	service provider
+T30	Malware 1724 1741	rogue application
+T58	Hacker-Group 1711 1720	the group
+T2	Information 98 112	email accounts
+T5	Hacker-Group 0 25	The Russian hacking group
+T4	Attack-Pattern 176 198	stealing access tokens
+T54	Information 185 198	access tokens
+T47	Campaign 3095 3101	attack
+T49	Person 3120 3125	users
+T51	Purpose 3131 3165	handing over access to their email
+T50	Attack-Pattern 3166 3210	through fake Google third-party applications
+T39	Campaign 2410 2426	phishing attacks
+T40	Person 2394 2399	users
+T43	Campaign 2825 2845	this phishing attack
+T46	Person 2798 2805	victims
+T44	Time 2849 2853	2015
+T45	Time 2859 2863	2016
+T1	Attack-Pattern 84 112	breaking into email accounts
+T52	Attack-Pattern 126 167	tricking victims into giving up passwords
+T59	Campaign 210 221	sneaky hack
+T60	Campaign 261 263	it
+T61	Attack-Pattern 268 307	circumvent Google's 2-step verification
+T62	Organization 322 347	security firm Trend Micro
+T63	Attack-Pattern 434 452	its favored tactic
+T64	Organization 485 496	Trend Micro
+T65	Time 514 521	Tuesday
+T66	Attack-Pattern 570 643	pretending to be from Google, with the title “Your account is in danger.”
+T13	Email 706 711	email
+T18	Organization 724 730	Google
+T68	Email 796 798	It
+T69	Person 813 818	users
+T70	Software 829 849	security application
+T71	Software 858 873	Google Defender
+T72	Software 889 900	application
+T74	Information 992 1037	special access token for their Google account
+T75	Person 1039 1050	Trend Micro
+T76	Person 1057 1064	Victims
+T77	Attack-Pattern 1095 1133	be redirected to an actual Google page
+T19	URL 1115 1133	actual Google page
+T78	Attack-Pattern 1145 1209	authorize the hacking group's app to view and manage their email
+T79	Malware 1159 1178	hacking group's app
+T80	Information 1204 1209	email
+T81	Person 1211 1216	Users
+T82	Attack-Pattern 1222 1287	click “allow” will be handing over what’s known as an OAuth token
+T83	Information 1276 1287	OAuth token
+T84	Information 1343 1363	password information
+T85	Software 1388 1412	third-party applications
+T86	Information 1460 1474	special tokens
+T87	Attack-Pattern 1526 1575	leveraged the protocol to build fake applications
+T88	Attack-Pattern 1585 1630	fool victims into handing over account access
+T89	Person 1632 1643	Trend Micro
+T24	Attack-Pattern 1742 1771	operates like every other app
+T27	Organization 1811 1824	security firm
+T31	Course-of-Action 1836 1864	Google's 2-step verification
+T90	Course-of-Action 1887 1921	prevent unwarranted account access
+T91	Campaign 1938 1942	hack
+T92	Organization 1957 1968	Trend Micro
+T93	Course-of-Action 1970 1998	Google's 2-step verification
+T94	Information 2029 2037	password
+T95	Information 2050 2062	special code
+T96	Device 2073 2090	user's smartphone
+T97	Person 2108 2124	Security experts
+T98	Attack-Pattern 2232 2262	sidestep this security measure
+T36	Attack-Pattern 2267 2339	tricking users into granting access through the fake Google security app
+T38	Malware 2315 2339	fake Google security app
+T57	Organization 2341 2347	Google
+T99	Organization 2363 2365	it
+T100	Organization 2442 2448	Google
+T101	Course-of-Action 2449 2490	detects and reviews potential OAuth abuse
+T102	Course-of-Action 2495 2558	takes down thousands of apps for violating our User Data Policy
+T41	Attack-Pattern 2568 2594	impersonating a Google app
+T42	Malware 2519 2558	apps for violating our User Data Policy
+T103	Software 2584 2594	Google app
+T104	Organization 2601 2608	company
+T105	Software 2648 2658	Google app
+T106	Domain 2694 2705	Google site
+T107	Software 2728 2739	Google Play
+T108	Software 2743 2759	Apple App stores
+T109	Organization 2762 2764	it
+T110	Organization 2785 2796	Trend Micro
+T111	Organization 2880 2895	Google Defender
+T112	Hacker-Group 2897 2907	Fancy Bear
+T113	Malware 2917 2927	other apps
+T114	Software 2948 2971	Google Email Protection
+T115	Software 2976 2990	Google Scanner
+T116	Attack-Pattern 2912 2990	used other apps under names such as Google Email Protection and Google Scanner
+T117	Hacker-Group 2992 2996	They
+T118	Person 3016 3027	Yahoo users
+T119	Malware 3033 3037	apps
+T120	Software 3045 3061	Delivery Service
+T121	Software 3066 3089	McAfee Email protection
+T122	Attack-Pattern 3033 3089	apps called Delivery Service and McAfee Email protection
+T48	Malware 3174 3210	fake Google third-party applications
+T123	Person 3214 3228	Internet users
+T124	Course-of-Action 3233 3331	urged to never accept OAuth token requests from an unknown party or a service they did not ask for
+T125	Domain 3284 3297	unknown party
+T126	Domain 3303 3331	service they did not ask for
+T127	Information 3255 3266	OAuth token
+T128	Organization 3334 3345	Trend Micro
+T129	Course-of-Action 3363 3377	password reset
+T130	Information 3402 3413	OAuth token
+T131	Course-of-Action 3428 3499	check what third-party applications are connected to your email account
+T132	Software 3439 3463	third-party applications
+T133	Information 3486 3499	email account
+T134	Course-of-Action 3521 3568	looking at an email account's security settings
+T135	Course-of-Action 3574 3605	revoking access where necessary
+T136	Hacker-Group 3608 3618	Fancy Bear
+T137	Campaign 3663 3670	hacking
+T138	Organization 3675 3704	Democratic National Committee
+T139	Hacker-Group 3729 3734	group
+T140	Organization 3781 3802	government ministries
+T141	Organization 3804 3823	media organizations
+T142	Organization 3836 3848	universities
+T143	Organization 3853 3864	think tanks
+T144	Person 3879 3890	Trend Micro
+T146	Hacker-Group 205 207	It
+T148	Person 3311 3315	they
+T150	Course-of-Action 2129 2131	it
+T152	Protocol 1365 1367	it
+*	Coreference T26 T51
+*	Coreference T11 T6 T63
+*	Coreference T7 T16 T12
+*	Coreference T3 T94
+*	Coreference T32 T119
+*	Coreference T2 T133
+*	Coreference T37 T118 T40 T49 T69 T81 T20 T53 T25 T76 T46
+*	Coreference T86 T95
+*	Coreference T93 T61 T31 T150 T73
+*	Coreference T115 T111 T132
+*	Coreference T136 T35 T9 T17 T112 T21 T55 T139 T28 T5 T146 T8 T56 T117
+*	Coreference T114 T121
+*	Coreference T130 T83 T127
+*	Coreference T75 T92 T110 T62 T89 T128 T27 T144 T64
+*	Coreference T10 T43 T60 T47 T15 T39 T59
+*	Coreference T13 T80 T68
+*	Coreference T99 T14 T18 T57 T100 T104 T109
+T147	Attack-Pattern 712 794	claims that Google detected several unexpected sign-in attempts into their account
+*	Coreference T70 T71 T72
+*	Coreference T30 T79 T23 T38
+T67	Protocol 1302 1316	OAuth protocol
+*	Coreference T152 T67
+T73	Course-of-Action 2246 2262	security measure
+*	Coreference T148 T123
+T145	Time 3705 3714	last year

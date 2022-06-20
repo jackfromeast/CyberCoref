@@ -1,0 +1,94 @@
+T14	Campaign 2152 2156	scam
+T15	Person 2157 2163	others
+T13	Attack-Pattern 2129 2148	use the fake emails
+T12	Hacker-Group 2113 2124	hacktivists
+T11	Hacker-Group 2099 2108	Criminals
+T16	Attack-Pattern 2167 2202	take advantage of discounts offered
+T17	Person 2206 2214	students
+T18	Person 2219 2226	faculty
+T9	Location 109 126	the United States
+T8	Organization 81 105	the largest universities
+T6	Information 59 68	passwords
+T5	Information 31 54	faculty email addresses
+T4	Person 21 26	staff
+T3	Person 12 19	student
+T2	Hacker-Group 172 187	cyber criminals
+T7	Number 0 11	Millions of
+T10	Number 74 77	300
+T1	Domain 191 203	the dark web
+T19	Hacker-Group 236 247	Hacktivists
+T20	Hacker-Group 249 261	scam artists
+T21	Hacker-Group 271 281	terrorists
+T22	Attack-Pattern 292 349	sell, trade or just give away the addresses and passwords
+T23	Information 326 349	addresses and passwords
+T25	Time 402 413	eight years
+T26	Campaign 417 438	scanning the dark web
+T27	System 458 467	Internet 
+T28	Hacker-Group 504 513	criminals
+T29	Person 531 542	researchers
+T30	Organization 552 574	security firm ID Agent
+T31	Number 593 603	14 million
+T32	Information 604 627	addresses and passwords
+T33	Organization 641 648	faculty
+T34	Person 650 655	staff
+T35	Person 657 665	students
+T36	Hacker-Group 690 705	cyber criminals
+T37	Person 670 677	alumni 
+T38	Number 717 727	79 percent
+T39	Time 772 785	the last year
+T40	Organization 792 827	nonprofit Digital Citizens Alliance
+T41	Location 838 854	Washington, D.C.
+T42	Course-of-Action 971 997	try to protect email users
+T43	Person 986 997	email users
+T44	Organization 952 965	organizations
+T45	Organization 1000 1029	Higher education institutions
+T46	Course-of-Action 1035 1101	deployed resources and talent to make university communities safer
+T47	Organization 1073 1095	university communities
+T48	Hacker-Group 1107 1155	highly skilled and opportunistic cyber criminals
+T49	Organization 1187 1199	large groups
+T51	Person 1250 1275	Deputy Executive Director
+T52	Person 1277 1288	Adam Benson
+T53	Person 1312 1314	We
+T54	Person 1344 1369	cybersecurity researchers
+T55	Course-of-Action 1315 1478	shared this information from cybersecurity researchers to create more awareness of just what kinds of things threat actors are capable of doing with a .edu account
+T56	Information 1464 1478	a .edu account
+T57	Organization 1481 1489	ID Agent
+T58	Organization 1501 1530	large Midwestern institutions
+T59	Organization 1636 1658	University of Michigan
+T60	Number 1665 1672	122,556
+T61	Email 1673 1688	email addresses
+T62	Domain 1702 1710	dark web
+T63	Organization 1724 1745	Penn State University
+T64	Organization 1751 1774	University of Minnesota
+T65	Organization 1776 1801	Michigan State University
+T66	Organization 1803 1824	Ohio State University
+T67	Organization 1829 1855	the University of Illinois
+T68	Hacker-Group 1858 1873	Cyber criminals
+T69	Number 1936 1959	a significant number of
+T70	Information 1960 1980	stolen .edu accounts
+T71	Organization 1995 2034	large and prestigious technical schools
+T72	Person 2037 2047	Brian Dunn
+T73	Person 2049 2076	ID Agent's managing partner
+T74	Email 2137 2148	fake emails
+T75	Software 2247 2255	software
+T76	Organization 2257 2286	Higher education institutions
+T77	Course-of-Action 2292 2344	taken steps to beef up their cybersecurity postures,
+T78	Organization 2366 2439	Research and Education Networking Information Sharing and Analysis Center
+T79	Time 2440 2449	last year
+T80	Person 2458 2467	officials
+T81	Organization 2497 2509	Universities
+T82	Person 2573 2580	members
+T83	Organization 2588 2608	university community
+T84	Person 2624 2634	themselves
+T85	Organization 2654 2679	Digital Citizens Alliance
+T86	Person 2682 2685	We 
+T87	Domain 2710 2740	[university-operated] websites
+T88	Course-of-Action 2759 2821	create effective passphrases and use two-factor authentication
+T89	Information 2766 2787	effective passphrases
+T90	Domain 2701 2706	pages
+T93	Organization 1594 1598	they
+*	Coreference T39 T79
+T24	File 360 392	Digital Citizens Alliance report
+*	Coreference T36 T28
+*	Coreference T51 T52
+*	Coreference T93 T58

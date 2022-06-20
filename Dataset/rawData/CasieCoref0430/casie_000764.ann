@@ -1,0 +1,86 @@
+T28	Person 1547 1573	 a legitimate staff member
+T29	Campaign 1579 1583	lure
+T30	Person 1592 1602	individual
+T31	Purpose 1606 1628	approve false invoices
+T49	Purpose 1632 1651	fraudulent payments
+T8	Information 380 392	 the account
+T4	Hacker-Group 237 248	con artists
+T2	Person 270 282	 an employee
+T3	Information 285 298	email account
+T9	Hacker-Group 393 405	 the hackers
+T11	File 442 456	false invoices
+T12	File 461 478	related documents
+T14	Location 557 565	Pakistan
+T13	Organization 531 545	health centers
+T48	Attack-Pattern 485 526	described a need to purchase solar panels
+T16	Organization 566 609	 The Connecticut-based charity organization
+T17	Time 642 650	May 2017
+T18	Money 690 700	$1 million
+T19	Purpose 656 677	approved the transfer
+T20	Location 717 722	Japan
+T21	Campaign 1349 1388	Business Email Compromise (BEC) attacks
+T23	Organization 1304 1316	 the charity
+T22	Hacker-Group 1281 1294	 The scammers
+T43	Campaign 2386 2395	BEC scams
+T44	Organization 2404 2424	enterprise companies
+T46	Location 2287 2294	Nigeria
+T47	Hacker-Group 2275 2281	 a man
+T45	Time 2265 2274	September
+T32	Campaign 1752 1761	BEC scams
+T33	Time 1688 1714	December 2016 and May 2018
+T34	Location 1841 1845	Asia
+T35	Money 1850 1869	billions of dollars
+T37	Person 1829 1837	entities
+T38	Campaign 1907 1925	 a single BEC scam
+T39	Location 1941 1948	Nigeria
+T40	Money 1968 1987	millions of dollars
+T42	Organization 2001 2022	Fortune 500 companies
+T41	Time 1889 1897	February
+T24	Campaign 1451 1461	compromise
+T25	Information 1461 1486	 a business email account
+T26	Attack-Pattern 1491 1510	brute-force hacking
+T50	Organization 143 160	 the Boston Globe
+T51	Organization 161 190	 the US arm of the non-profit
+T52	Organization 46 58	 the charity
+T53	Hacker-Group 75 85	fraudsters
+T54	Money 120 130	$1 million
+T55	Organization 4 28	 the Children Foundation
+T56	Person 207 225	children worldwide
+T1	Purpose 311 353	masquerade as the staff member in question
+T5	Money 1021 1029	$112,000
+T6	Money 852 862	 the money
+T7	Time 774 831	By the time the foundation realized the invoice was false
+T10	Organization 998 1010	 the charity
+T36	Person 1115 1128	Stacy Brandom
+T57	Person 1129 1178	 the chief financial officer of Save the Children
+T58	Organization 1183 1193	 the Globe
+T59	Person 1032 1034	We
+T60	Person 1228 1230	we
+T27	Organization 1772 1792	across 150 countries
+T61	Organization 2155 2179	any country in the world
+T62	Campaign 2023 2044	 These types of scams
+T63	Hacker-Group 2104 2119	 the fraudsters
+T64	Campaign 2207 2218	 a BEC scam
+T65	Money 2314 2326	$2.5 million
+T66	Time 2337 2347	five years
+T67	Money 2492 2523	hundreds of millions of dollars
+T68	Person 2477 2484	victims
+T70	Campaign 2071 2073	it
+T73	Person 325 341	the staff member
+T15	Organization 899 916	Save the Children
+T72	Money 960 981	all of the lost funds
+T74	Campaign 1410 1426	 These campaigns
+T75	File 1614 1628	false invoices
+T76	Hacker-Group 2452 2466	the con artist
+*	Coreference T8 T3 T25
+*	Coreference T46 T39
+*	Coreference T52 T10 T23 T55 T51 T15
+*	Coreference T53 T63 T4 T9 T22
+*	Coreference T2 T73 T28
+*	Coreference T16 T13
+*	Coreference T54 T18 T6
+*	Coreference T36 T59 T57
+*	Coreference T74 T21 T43 T64 T32 T38 T62 T70
+*	Coreference T75 T11
+*	Coreference T67 T65
+*	Coreference T47 T76

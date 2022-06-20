@@ -1,0 +1,41 @@
+T7	Person 71 109	Palo Alto Networks Unit 42 researchers
+T2	Vulnerability 126 160	two code execution vulnerabilities
+T4	Software 171 182	Adobe Flash
+T9	Version 184 193	APSB17-04
+T8	Organization 218 223	Adobe
+T8	Organization 218 223	Adobe
+T10	Person 46 48	we
+T1	File 3 44	part of Unit 42’s ongoing threat research
+T3	Campaign 218 257	Adobe’s monthly security update release
+T5	Person 271 280	customers
+T6	Organization 320 338	Palo Alto Networks
+T11	Course-of-Action 348 429	released IPS signatures providing proactive protection from these vulnerabilities
+T12	Vulnerability 414 429	vulnerabilities
+T13	Organization 438 456	Palo Alto Networks
+T14	Course-of-Action 489 542	block memory corruption based exploits of this nature
+T15	Course-of-Action 431 436	Traps
+T16	Vulnerability 519 542	exploits of this nature
+T17	Organization 544 562	Palo Alto Networks
+T18	Organization 576 587	contributor
+T19	File 591 613	vulnerability research
+T20	Organization 617 626	Microsoft
+T21	Organization 628 633	Adobe
+T22	Organization 635 640	Apple
+T23	Organization 642 656	Google Android
+T24	System 667 677	ecosystems
+T25	Vulnerability 712 727	vulnerabilities
+T26	Course-of-Action 729 769	developing protections for our customers
+T27	Person 760 769	customers
+T28	Course-of-Action 682 727	proactively identifying these vulnerabilities
+T29	Course-of-Action 775 826	sharing the information with the security community
+T30	Information 787 798	information
+T31	Organization 808 826	security community
+T32	Hacker-Group 860 869	attackers
+T33	Person 873 887	threaten users
+T34	Organization 893 914	compromise enterprise
+T35	Organization 916 926	government
+T36	Organization 932 957	service provider networks
+T38	Person 828 830	we
+*	Coreference T8 T21
+*	Coreference T2 T12 T25
+*	Coreference T13 T6 T17

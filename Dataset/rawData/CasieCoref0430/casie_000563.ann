@@ -1,0 +1,101 @@
+T4	Email 81 96	phishing emails
+T3	Time 97 102	today
+T2	Software 117 128	Google Docs
+T7	Purpose 224 305	granting the malicious application permission to access the user’s Google account
+T6	Person 211 218	victims
+T8	Email 130 140	The emails
+T9	Person 166 177	journalists
+T14	Email 481 493	The messages
+T41	Person 551 562	 the victim
+T43	Attack-Pattern 564 598	wanting to share a Google Doc file
+T27	Campaign 1432 1460	traditional phishing attacks
+T26	Purpose 1393 1411	steal OAUTH tokens
+T33	Information 1586 1614	the compromised contact list
+T29	Information 1539 1546	account
+T30	Hacker-Group 1499 1511	the attacker
+T42	Person 1525 1536	 the victim
+T20	Campaign 1176 1184	spoofing
+T21	Domain 1068 1082	the fake pages
+T11	Information 329 337	accounts
+T23	Course-of-Action 1091 1098	updates
+T25	Organization 1054 1056	We
+T24	Organization 1107 1120	Safe Browsing
+T31	File 1548 1568	the phishing message
+T19	Person 925 930	users
+T18	Email 939 947	an email
+T17	Software 962 973	Google Docs
+T34	Campaign 1788 1809	last summer’s attacks
+T38	Attack-Pattern 1941 1961	uses phishing emails
+T40	Organization 1931 1935	NATO
+T39	Organization 1901 1919	political entities
+T37	Hacker-Group 1867 1876	The group
+T35	Hacker-Group 1763 1768	APT28
+T36	Purpose 1824 1865	influence the U.S. presidential elections
+T44	Purpose 2002 2029	conduct espionage campaigns
+T45	Organization 0 6	Google
+T46	Information 38 46	accounts
+T1	Information 279 305	 the user’s Google account
+T5	Information 232 269	 the malicious application permission
+T10	Software 373 385	applications
+T47	Organization 405 411	Google
+T48	URL 443 448	links
+T49	Email 452 458	emails
+T50	Software 467 478	Google Docs
+T12	Person 512 522	 a contact
+T13	Person 534 542	contacts
+T15	Person 642 653	 the victim
+T51	Software 671 694	Google’s OAUTH2 service
+T52	Person 698 707	 the user
+T53	Software 728 765	 the attacker’s malicious application
+T54	Software 775 786	Google Docs
+T55	Information 805 826	 their Google account
+T56	Software 831 847	related services
+T57	Person 859 867	contacts
+T58	Email 869 874	Gmail
+T59	File 876 880	Docs
+T60	Information 885 889	more
+T61	Person 893 895	We
+T62	Course-of-Action 901 930	taken action to protect users
+T16	Information 1003 1011	accounts
+T63	Person 1013 1035	 a Google spokesperson
+T64	Organization 1041 1051	Threatpost
+T22	Organization 1130 1140	abuse team
+T65	Course-of-Action 1155 1184	prevent this kind of spoofing
+T66	Person 1207 1209	We
+T67	Person 1220 1225	users
+T68	Email 1236 1251	phishing emails
+T69	Email 1255 1260	Gmail
+T70	File 1263 1268	OAUTH
+T71	File 1271 1298	 an authentication standard
+T72	Person 1310 1317	 a user
+T73	Information 1331 1362	third party applications access
+T74	Information 1365 1376	 an account
+T75	Information 1473 1482	passwords
+T28	Campaign 1621 1633	 this attack
+T32	Campaign 1644 1665	the work of a spammer
+T76	Hacker-Group 1667 1689	nation-state attackers
+T77	Hacker-Group 1700 1705	APT28
+T78	Hacker-Group 1711 1721	Fancy Bear
+T79	Hacker-Group 1725 1731	Sofacy
+T80	Campaign 1749 1761	 this tactic
+T81	Malware 1963 1972	backdoors
+T82	Malware 1977 1998	data-stealing malware
+T83	Organization 2038 2049	its targets
+T84	Person 2189 2195	people
+T85	Organization 2200 2213	organizations
+T86	Person 2138 2150	Jaime Blasco
+T87	Person 2152 2181	chief scientist at AlienVault
+T88	Person 2052 2053	I
+T89	Hacker-Group 2068 2072	they
+T92	Organization 12 14	it
+T90	Campaign 2010 2029	espionage campaigns
+T91	Campaign 2084 2088	this
+T93	Campaign 2104 2108	this
+*	Coreference T35 T77 T37 T89
+*	Coreference T45 T47 T92
+*	Coreference T54 T17 T50 T2
+*	Coreference T4 T8
+*	Coreference T49 T14
+*	Coreference T28 T32
+*	Coreference T88 T86 T87
+*	Coreference T91 T93 T90

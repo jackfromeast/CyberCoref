@@ -1,0 +1,72 @@
+T16	Hacker-Group 962 966	they
+T18	Person 992 1014	a high-level executive
+T19	Organization 1018 1035	your organization
+T20	Hacker-Group 907 916	criminals
+T13	Attack-Pattern 874 905	using email spoofing techniques
+T15	Email 935 941	emails
+T21	Person 1037 1041	They
+T23	Email 1047 1058	the message
+T24	Person 1062 1073	an employee
+T26	Organization 1077 1099	the payroll department
+T25	Organization 1103 1105	HR
+T27	Purpose 1118 1197	a request for a list of the organization's employees along with their W-2 forms
+T35	Purpose 1251 1278	file fraudulent tax returns
+T39	Purpose 1283 1296	claim refunds
+T40	Purpose 1224 1247	use the W-2 information
+T28	Campaign 1518 1549	business email compromise (BEC)
+T29	Campaign 1551 1564	these attacks
+T30	Person 1595 1602	victims
+T36	Organization 1612 1625	organizations
+T38	Money 1636 1646	$1 billion
+T32	Time 1754 1758	2017
+T33	Organization 1688 1701	organizations
+T10	Information 567 588	sensitive information
+T11	Hacker-Group 532 540	scammers
+T3	Person 435 444	employees
+T2	Person 480 493	a scam artist
+T7	Information 319 332	the W-2 forms
+T6	Information 346 359	the addresses
+T8	Information 361 384	social security numbers
+T5	Information 390 408	salary information
+T34	Organization 413 419	Sunrun
+T12	Campaign 822 842	email phishing scams
+T4	Time 3 13	January 20
+T41	Email 14 23	 an email
+T42	Person 29 40	Lynn Jurich
+T43	Person 42 86	CEO of San Francisco-based solar firm Sunrun
+T44	Person 139 147	 The CEO
+T45	Email 100 138	 a payroll department employee's inbox
+T46	Person 259 272	 The employee
+T47	Number 429 434	4,000
+T1	Time 595 604	this year
+T9	Campaign 605 612	attacks
+T48	Time 624 631	earlier
+T49	Number 639 654	greater numbers
+T50	Organization 688 696	 the IRS
+T22	Hacker-Group 1310 1319	criminals
+T51	Person 1372 1378	victim
+T52	Number 1578 1594	more than 15,000
+T53	Number 1674 1687	More than 100
+T54	Person 1722 1728	victim
+T55	Campaign 1732 1750	W-2 phishing scams
+T31	Time 1647 1672	over the past three years
+T37	Information 1471 1482	 an account
+T56	Email 1428 1433	email
+T57	Money 1444 1460	 a wire transfer
+T14	Person 732 741	employers
+T17	File 163 195	copies of all employee W-2 forms
+T58	Time 495 505	Tax season
+T59	Time 248 258	tax season
+T61	Person 1345 1349	they
+T62	Person 772 776	they
+T63	Person 1483 1487	they
+*	Coreference T29 T9
+*	Coreference T36 T33 T19
+*	Coreference T10 T5
+*	Coreference T12 T55
+*	Coreference T56 T41 T15
+*	Coreference T3 T14 T46 T24 T62 T21 T61 T63
+*	Coreference T54 T30 T51
+*	Coreference T52 T53
+*	Coreference T58 T59
+*	Coreference T16 T20

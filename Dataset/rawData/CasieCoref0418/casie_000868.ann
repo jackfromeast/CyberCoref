@@ -1,0 +1,87 @@
+T2	Campaign 58 68	data theft
+T4	Campaign 70 78	takeover
+T5	Campaign 84 113	cryptocurrency mining attacks
+T3	Device 24 39	Jenkins servers
+T38	Attack-Pattern 174 191	gain admin rights
+T37	Attack-Pattern 202 227	using invalid credentials
+T7	Vulnerability 246 266	Both vulnerabilities
+T8	Person 286 306	security researchers
+T9	Organization 312 320	CyberArk
+T11	Person 349 365	the Jenkins team
+T19	Person 923 943	CyberArk researchers
+T20	Vulnerability 955 970	a vulnerability
+T23	Attack-Pattern 1006 1063	allows an attacker to provide malformed login credentials
+T39	Time 915 921	summer
+T22	Vulnerability 983 999	CVE-2018-1999001
+T25	Person 1694 1714	CyberArk researchers
+T26	Vulnerability 1731 1761	a second Jenkins vulnerability
+T27	Vulnerability 1764 1780	CVE-2018-1999043
+T29	Person 1799 1803	they
+T31	Attack-Pattern 1810 1862	allowed an attacker to create ephemeral user records
+T32	Attack-Pattern 1939 1989	authenticate using ghost usernames and credentials
+T30	Vulnerability 1782 1797	This second bug
+T13	Course-of-Action 380 385	fixes
+T15	Device 469 484	Jenkins servers
+T16	Vulnerability 427 438	both issues
+T17	Course-of-Action 415 422	patches
+T36	Vulnerability 1991 2011	Both vulnerabilities
+T34	Time 2037 2041	July
+T35	Time 2060 2066	August
+T24	Course-of-Action 2017 2022	fixed
+T1	Hacker-Group 1513 1521	attacker
+T6	Purpose 1447 1472	gain administrator access
+T10	Device 1203 1217	Jenkins server
+T14	Software 1620 1634	company's apps
+T18	Attack-Pattern 1526 1562	access private corporate source code
+T21	Attack-Pattern 1572 1595	make code modifications
+T12	Purpose 1599 1614	plant backdoors
+T28	Vulnerability 2136 2150	security flaws
+T33	Course-of-Action 2205 2221	security updates
+T40	Device 836 843	servers
+T41	Code 730 734	code
+T42	Software 516 531	web application
+T43	Organization 585 602	development teams
+T44	Hacker-Group 1246 1248	he
+T46	Person 2075 2077	we
+T47	Hacker-Group 1928 1932	they
+*	Coreference T49 T7 T16 T36
+*	Coreference T23 T31
+T48	Hacker-Group 131 138	hackers
+T49	Vulnerability 155 170	vulnerabilities
+T50	Device 237 244	servers
+*	Coreference T50 T3 T15 T53 T40 T61 T10 T64 T65 T66 T70
+T51	Software 503 510	Jenkins
+*	Coreference T51 T42 T54 T55 T62
+T52	System 642 659	code repositories
+T53	Device 738 756	production servers
+T54	Software 758 765	Jenkins
+T55	Software 779 788	component
+T56	Person 871 882	freelancers
+T57	Organization 887 898	enterprises
+T58	Hacker-Group 1016 1024	attacker
+T59	Information 1046 1063	login credentials
+T60	Information 216 227	credentials
+*	Coreference T60 T59 T72
+T61	Device 1075 1090	Jenkins servers
+T62	Software 1130 1137	Jenkins
+T63	Hacker-Group 1180 1188	attacker
+*	Coreference T58 T63 T44 T1
+T64	Device 1263 1269	server
+T65	Device 1297 1311	Jenkins server
+T66	Device 1428 1442	Jenkins server
+*	Coreference T38 T6
+T67	Code 1558 1562	code
+T68	Code 1577 1581	code
+*	Coreference T67 T68
+*	Coreference T19 T25 T29 T46
+*	Coreference T26 T27 T30 T74
+T69	Vulnerability 1641 1651	lone issue
+*	Coreference T69 T22 T20 T73
+T45	Hacker-Group 1821 1829	attacker
+T70	Device 1870 1876	server
+T71	Hacker-Group 1899 1907	attacker
+*	Coreference T45 T71 T47
+T72	Information 1978 1989	credentials
+T73	Vulnerability 2028 2033	first
+T74	Vulnerability 2050 2056	second
+*	Coreference T17 T33

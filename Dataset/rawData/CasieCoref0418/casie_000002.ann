@@ -1,0 +1,88 @@
+T3	Hacker-Group 125 141	an unknown party
+T1	Information 73 99	their personal information
+T4	Person 0 7	Members
+T5	Organization 11 43	the Girl Scouts of Orange County
+T7	Time 58 67	this week
+T8	Campaign 342 353	data breach
+T9	Person 294 307	2,800 members
+T22	Time 277 284	Tuesday
+T12	Time 543 564	from Sept 30 to Oct 1
+T17	Information 426 431	names
+T16	Information 433 444	birth dates
+T15	Information 446 460	home addresses
+T14	Information 462 486	insurance policy numbers
+T13	Information 491 517	health history information
+T6	Person 417 424	members
+T18	Attack-Pattern 146 192	gained access to an organization email account
+T20	Time 193 203	last month
+T2	Person 235 242	members
+T10	Information 166 192	organization email account
+T19	Organization 248 260	organization
+T21	Person 355 372	Christina Salcido
+T23	Person 374 388	vice president
+T24	Organization 392 410	mission operations
+T11	Person 599 601	we
+T25	Person 616 624	everyone
+T26	Email 631 636	email
+T27	Information 644 662	this email account
+T28	Person 665 672	Salcido
+T29	Time 694 704	On the day
+T30	Organization 709 721	organization
+T31	Course-of-Action 729 737	aware of
+T32	Campaign 742 748	breach
+T33	Organization 750 761	IT services
+T34	Course-of-Action 762 782	changed the password
+T35	Person 813 820	Salcido
+T36	Organization 828 860	The Girl Scouts of Orange County
+T37	Information 874 881	account
+T38	Course-of-Action 883 918	eliminated all personal information
+T39	Information 919 921	it
+T40	Organization 949 985	California attorney general’s office
+T41	Campaign 993 999	breach
+T42	Information 1013 1026	email account
+T43	Information 1089 1129	information about members dating to 2014
+T44	Time 1125 1129	2014
+T45	Person 1131 1138	Salcido
+T46	Organization 1148 1159	third party
+T47	Information 1169 1176	account
+T48	Person 1199 1202	she
+T49	Person 1252 1271	Elizabeth Fairchild
+T50	Person 1273 1284	spokeswoman
+T51	Organization 1293 1321	Girl Scouts of Orange County
+T52	Person 1328 1341	staff members
+T53	Time 1350 1355	Oct 1
+T54	Information 1365 1378	email account
+T55	Time 1393 1452	the day before “to send out non-Girl Scout related emails.”
+T56	Time 1456 1461	Oct 1
+T57	Person 1463 1476	staff members
+T58	Email 1485 1490	email
+T59	Person 1494 1501	members
+T60	Person 1538 1542	they
+T61	Course-of-Action 1571 1633	advising them to not open any unusual emails from that account
+T62	Person 1580 1584	them
+T63	Email 1601 1615	unusual emails
+T64	Information 1626 1633	account
+T65	Information 1640 1668	vast majority of information
+T66	Vulnerability 1746 1767	sensitive information
+T67	Organization 1796 1824	Girl Scouts of Orange County
+T68	Information 1834 1853	contact information
+T69	Person 1929 1936	members
+T70	Course-of-Action 1937 1973	place fraud alerts on their accounts
+T71	Person 1978 1985	members
+T72	Campaign 2023 2029	breach
+T73	Email 2063 2098	email customercare@girlscoutsoc.org
+T75	Person 2031 2035	they
+T76	Information 798 800	it
+T77	Information 1076 1078	it
+T82	Person 1510 1514	them
+*	Coreference T41 T72 T32 T8
+*	Coreference T51 T36 T67 T5 T19 T30
+*	Coreference T53 T56
+*	Coreference T4 T71 T69 T59 T82 T60 T62 T75
+*	Coreference T1 T13 T39 T17 T16 T15 T14 T10 T37 T54 T27 T47 T64 T42 T76 T77
+*	Coreference T12 T20
+*	Coreference T11 T24
+*	Coreference T35 T28 T23 T21 T45 T48
+*	Coreference T49 T50 T74
+*	Coreference T57 T52
+T74	Person 1710 1719	Fairchild

@@ -1,0 +1,111 @@
+T10	Campaign 1155 1168	have received
+T12	Person 1141 1154	our customers
+T11	File 1169 1188	scam email messages
+T14	Attack-Pattern 1189 1217	saying they are due a refund
+T16	Campaign 1270 1277	directs
+T17	Domain 1263 1269	A link
+T15	Domain 1291 1342	a fake version of the official TV Licensing website
+T19	Purpose 1362 1405	enter personal information and bank details
+T18	Person 1278 1287	customers
+T2	Email 185 191	emails
+T5	Person 159 168	criminals
+T4	Organization 214 226	TV Licensing
+T9	Person 328 331	you
+T7	Email 312 321	The email
+T13	Attack-Pattern 338 366	saying you are owed a refund
+T6	Campaign 293 310	the phishing scam
+T21	Campaign 14 18	scam
+T22	Number 36 44	over 200
+T23	Person 45 51	people
+T24	Organization 130 142	Action Fraud
+T1	Organization 232 240	watchdog
+T3	Number 270 278	over 200
+T25	File 279 286	reports
+T8	Money 375 394	TV Licence payments
+T20	Person 424 431	senders
+T26	Information 457 469	bank details
+T27	Email 485 490	email
+T28	Email 511 517	emails
+T29	Organization 587 599	TV Licensing
+T30	File 560 581	official notification
+T31	Organization 538 542	They
+T32	Organization 602 604	We
+T33	Person 626 629	you
+T34	Organization 670 672	we
+T35	Person 694 697	you
+T36	Money 724 743	TV Licensing refund
+T37	Money 747 756	85.07 GBP
+T38	File 766 797	invalid account details records
+T39	Information 829 836	account
+T40	File 857 884	TV Licensing refund request
+T41	Time 898 914	5-6 working days
+T42	Information 952 959	account
+T43	Email 1002 1007	email
+T44	Person 985 988	you
+T45	Organization 1045 1057	Action Fraud
+T46	Email 1074 1076	it
+T47	URL 1098 1103	links
+T48	Email 1115 1120	email
+T49	Domain 2361 2390	official TV Licensing Website
+T50	Money 2346 2352	refund
+T51	Person 2326 2329	You
+T52	Person 1411 1414	you
+T53	Email 1433 1446	email message
+T54	Email 1461 1463	it
+T55	Person 1468 1471	you
+T56	URL 1497 1501	link
+T57	Information 1530 1541	information
+T58	Organization 1543 1555	TV Licensing
+T59	Information 1568 1586	refund information
+T60	Email 1590 1595	email
+T61	Email 1655 1661	emails
+T62	Campaign 1668 1672	scam
+T63	Organization 1737 1749	TV Licensing
+T64	Money 1725 1731	refund
+T65	Person 1706 1709	you
+T66	Money 1803 1819	full licence fee
+T67	Person 1824 1827	you
+T68	Person 1778 1781	you
+T69	Person 1834 1841	student
+T70	Money 1864 1867	£37
+T71	Money 1884 1891	£147.50
+T72	Money 1936 1942	refund
+T73	File 1964 1974	TV Licence
+T74	File 1899 1909	TV licence
+T75	Time 1987 2000	75th birthday
+T76	Number 2025 2027	75
+T77	Device 2049 2051	TV
+T78	File 2062 2073	TV Licences
+T79	Person 2098 2109	individuals
+T80	Person 2146 2153	student
+T81	Number 2158 2165	over 75
+T82	Person 2228 2235	someone
+T83	File 2314 2324	TV licence
+T88	Person 87 90	you
+T89	Person 895 897	us
+T94	Organization 246 248	it
+T95	Person 1911 1914	You
+T96	Pronoun 1673 1677	they
+T98	Person 1196 1200	they
+T100	Person 2171 2174	you
+T101	Person 1354 1358	them
+T103	Person 2280 2284	they
+T104	Person 345 348	you
+T107	Pronoun 1706 1709	you
+T108	Person 799 801	we
+T110	Email 1039 1041	it
+*	Coreference T12 T18 T98 T101
+*	Coreference T14 T13
+*	Coreference T24 T45
+*	Coreference T47 T56
+*	Coreference T57 T59
+*	Coreference T78 T74 T73 T83
+*	Coreference T94 T1
+*	Coreference T21 T6
+*	Coreference T104 T9
+*	Coreference T37 T36
+*	Coreference T27 T7
+*	Coreference T43 T110 T46
+*	Coreference T53 T54
+*	Coreference T58 T29 T63 T4
+*	Coreference T82 T103

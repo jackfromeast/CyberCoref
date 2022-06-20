@@ -1,0 +1,94 @@
+T8	Email 239 250	fake emails
+T12	Person 231 234	you
+T7	Hacker-Group 213 222	Scamsters
+T10	Attack-Pattern 359 387	entice you with a tax refund
+T11	Person 366 369	you
+T5	Hacker-Group 96 105	scamsters
+T2	Organization 128 143	 the IRS of USA
+T3	Organization 145 155	HMRC of UK
+T4	Organization 157 170	CRA of Canada
+T6	Organization 172 202	Income Tax Department of India
+T21	Money 1674 1686	a tax refund
+T15	Person 515 535	authentic tax agents
+T13	Hacker-Group 486 500	cybercriminals
+T22	Attack-Pattern 663 727	threaten police arrest, deportation, and even license revocation
+T17	Person 1405 1418	tax inspector
+T19	File 1379 1384	email
+T18	File 1356 1375	 the recorded voice
+T25	Campaign 32 41	Tax Scams
+T26	Campaign 53 69	tax refund scams
+T1	Attack-Pattern 110 143	pretend to be from the IRS of USA
+T9	Attack-Pattern 252 263	phone calls
+T27	Attack-Pattern 265 281	recorded message
+T28	Attack-Pattern 283 286	SMS
+T29	Attack-Pattern 304 355	scare you with the possibility of some legal action
+T30	Time 395 405	tax season
+T31	Campaign 407 416	Tax Scams
+T32	Attack-Pattern 239 250	fake emails
+T33	Attack-Pattern 441 447	Emails
+T14	Person 609 618	taxpayers
+T23	Hacker-Group 619 636	 The scam artists
+T34	Hacker-Group 767 777	fraudsters
+T35	Person 866 880	elderly people
+T36	Person 885 905	immigrant population
+T37	Attack-Pattern 940 1011	methods that rely on auto-dialers, robocalling, and voice mail messages
+T38	Purpose 1015 1048	hit as many taxpayers as possible
+T39	Attack-Pattern 1094 1179	plays a recorded message warning you that it’s “the final notice” from the tax agency
+T40	Organization 1164 1179	 the tax agency
+T41	Organization 1187 1216	 the Internal Revenue Service
+T42	Organization 1218 1246	Indian Income Tax Department
+T43	Organization 1248 1270	HM Revenue and Customs
+T44	Organization 1274 1309	 the Tax department of your country
+T45	Email 1333 1342	 an email
+T16	Organization 1469 1480	 the agency
+T46	Campaign 1619 1626	Attacks
+T24	Attack-Pattern 1719 1745	social engineering tactics
+T47	File 1756 1763	message
+T48	Person 1770 1780	recipients
+T49	Person 1893 1907	U.S. taxpayers
+T50	Attack-Pattern 1764 1863	tells recipients that there’s a pending law enforcement action against them as they have evaded tax
+T51	Campaign 1908 1917	 The scam
+T52	Attack-Pattern 1918 1966	pretends to contain information about a subpoena
+T53	URL 1984 1995	 a web link
+T54	Campaign 1968 1970	It
+T56	URL 2024 2033	 The link
+T57	Domain 2051 2072	 a fraudulent website
+T58	Email 2076 2086	 the email
+T59	File 2100 2114	 an attachment
+T60	Software 2151 2165	Microsoft Word
+T61	File 2115 2124	 The file
+T62	File 2131 2144	document file
+T64	Attack-Pattern 2166 2189	opens in Protected View
+T65	Attack-Pattern 2194 2235	contains an instruction to Enable Editing
+T66	Code 2278 2294	malicious Macros
+T67	File 2303 2311	document
+T68	Malware 2322 2332	 a malware
+T70	Campaign 1314 1316	it
+T71	Campaign 2002 2004	it
+T74	Person 1843 1847	they
+T77	Person 2011 2014	you
+T78	Person 310 313	you
+T80	Campaign 1706 1710	They
+T83	Person 1835 1839	them
+T84	File 2191 2193	It
+T85	Person 2045 2048	you
+T86	Campaign 1091 1093	It
+T73	Attack-Pattern 449 460	Phone calls
+T76	Attack-Pattern 465 482	recorded messages
+T88	Attack-Pattern 1071 1089	 an automated call
+T75	Attack-Pattern 1519 1549	planning a lawsuit against you
+T69	Purpose 1661 1686	 the lure of a tax refund
+T20	Code 2239 2265	 the Enable Editing button
+T55	Campaign 2393 2403	 the cases
+*	Coreference T25 T31 T26 T86 T70
+*	Coreference T40 T16
+*	Coreference T19 T45 T58 T33 T8
+*	Coreference T53 T56
+*	Coreference T49 T11 T12 T14 T78 T77 T85
+*	Coreference T5 T7
+*	Coreference T73 T9
+*	Coreference T76 T27
+*	Coreference T23 T13 T34
+*	Coreference T80 T46 T54 T51 T71
+*	Coreference T74 T83 T48
+*	Coreference T59 T61 T62 T67 T84

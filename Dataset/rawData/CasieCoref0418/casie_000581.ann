@@ -1,0 +1,108 @@
+T3	Campaign 121 139	the ransom payment
+T4	Money 143 151	$150 USD
+T5	Person 95 98	you
+T2	Malware 0 16	A new ransomware
+T8	Person 313 316	you
+T6	Attack-Pattern 243 271	will delete files every hour
+T10	Malware 154 175	The Jigsaw Ransomware
+T9	File 226 241	the ransom note
+T18	Money 2407 2421	ransom payment
+T19	Person 2390 2398	a victim
+T22	Malware 2500 2510	ransomware
+T15	Person 1466 1476	the victim
+T11	File 63 68	files
+T12	Attack-Pattern 40 91	not only encrypts your files, but also deletes them
+T1	File 87 91	them
+T13	File 255 260	files
+T7	Person 193 209	iconic character
+T16	Campaign 290 299	infection
+T17	Money 325 331	ransom
+T21	Time 337 346	this time
+T23	Malware 377 387	ransomware
+T24	Attack-Pattern 391 402	distributed
+T25	Person 432 434	we
+T26	Campaign 451 467	types of threats
+T27	Campaign 500 520	ransomware infection
+T28	Person 585 592	victims
+T29	File 610 615	files
+T30	Malware 626 643	Jigsaw Ransomware
+T31	Campaign 665 672	threats
+T32	Malware 719 729	ransomware
+T33	File 749 754	files
+T34	Malware 835 852	Jigsaw Ransomware
+T35	Attack-Pattern 853 866	deletes files
+T36	File 861 866	files
+T37	Time 867 883	every 60 minutes
+T38	Time 919 929	Every hour
+T39	Malware 936 953	Jigsaw Ransomware
+T40	Attack-Pattern 959 972	delete a file
+T41	File 968 972	file
+T42	Device 981 989	computer
+T43	Attack-Pattern 994 1013	increment a counter
+T44	File 1063 1067	file
+T45	Time 1082 1092	every hour
+T46	Device 1030 1037	counter
+T47	Number 1123 1136	the amount of
+T48	File 1137 1142	files
+T49	Malware 1175 1185	ransomware
+T50	Campaign 1204 1221	initial infection
+T51	Malware 1232 1242	ransomware
+T52	Malware 1315 1321	Jigsaw
+T53	Attack-Pattern 1327 1367	delete a thousand, yes a thousand, files
+T54	File 1362 1367	files
+T55	Number 1334 1360	a thousand, yes a thousand
+T56	Device 1377 1394	victim's computer
+T14	Organization 1507 1524	MalwareHunterTeam
+T57	Malware 1542 1575	variants of the Jigsaw Ransomware
+T58	Money 1642 1647	money
+T59	Person 1674 1680	people
+T60	Malware 1703 1711	variants
+T61	Time 1775 1787	certain date
+T62	Malware 1759 1766	execute
+T63	Malware 1806 1824	Portuguese variant
+T64	Time 1851 1871	after April 6th 2016
+T65	Malware 1879 1886	another
+T66	Time 1908 1922	March 23, 2016
+T67	Money 1938 1967	a wide range of ransom prices
+T68	Money 1988 1994	prices
+T69	Money 2008 2011	$20
+T70	Money 2015 2022	200 USD
+T71	Person 2035 2041	people
+T72	Money 2055 2060	money
+T73	Person 2093 2097	them
+T74	Device 2129 2144	60 minute timer
+T75	File 2106 2117	ransom note
+T76	Number 2201 2220	a certain amount of
+T77	Attack-Pattern 2194 2226	delete a certain amount of files
+T78	File 2221 2226	files
+T79	Device 2259 2266	counter
+T80	Device 2288 2290	it
+T81	Device 2301 2308	counter
+T82	File 2346 2351	files
+T83	Attack-Pattern 2335 2365	cause more files to be deleted
+T84	Person 2423 2427	they
+T85	URL 2523 2544	http://btc.blockr.io/
+T20	Domain 2600 2615	bitcoin address
+T86	Number 2620 2633	the amount of
+T87	Money 2634 2642	bitcoins
+T88	Domain 2659 2666	address
+T89	Money 2687 2701	payment amount
+T90	File 2742 2747	files
+T95	Malware 2708 2710	it
+T97	Malware 1736 1740	they
+T101	Person 706 708	we
+T103	Malware 1617 1621	They
+T105	Device 2173 2175	it
+T106	Malware 1243 1245	it
+T107	Person 1577 1579	he
+*	Coreference T35 T40
+*	Coreference T53 T77
+*	Coreference T20 T88
+*	Coreference T10 T2 T23 T30 T34 T32 T39 T49 T51 T106 T52
+*	Coreference T11 T1
+*	Coreference T16 T3
+*	Coreference T103 T97 T63 T57 T60
+*	Coreference T74 T105 T91
+*	Coreference T95 T22
+T91	Device 2186 2188	it
+*	Coreference T79 T80

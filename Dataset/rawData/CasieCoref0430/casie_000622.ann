@@ -1,0 +1,77 @@
+T1	Campaign 83 105	OAUTH phishing attacks
+T2	Person 114 126	Google users
+T3	Campaign 128 147	The phishing attack
+T4	Email 171 180	an e-mail
+T5	Person 203 209	a user
+T6	File 294 304	a document
+T10	Purpose 443 495	wants full access to my Gmail as well as my contacts
+T9	Software 431 442	Google Docs
+T11	Domain 396 415	accounts.google.com
+T12	Software 374 392	the OAUTH2 service
+T13	Hacker-Group 539 551	the attacker
+T16	Software 587 598	Google Docs
+T17	Campaign 832 850	further distribute
+T19	Attack-Pattern 797 828	uses the phishied Gmail account
+T20	Person 775 787	the attacker
+T18	File 851 867	phishing e-mails
+T7	Person 0 2	We
+T25	File 15 22	reports
+T26	Person 34 48	Seren Thompson
+T27	Person 50 60	Tahir Khan
+T28	Person 65 75	Harry Vann
+T29	Information 234 252	 your contact list
+T30	Person 228 231	one
+T31	Person 310 313	you
+T32	URL 322 331	 the link
+T33	Software 341 345	Docs
+T8	Software 525 536	Google Docs
+T34	Software 463 472	 my Gmail
+T35	Person 483 495	 my contacts
+T14	Software 574 585	application
+T15	Information 636 657	 the Google Docs text
+T36	Domain 938 945	domains
+T37	Domain 960 981	googledocs.g-docs.win
+T38	Domain 982 1003	googledocs.g-docs.pro
+T39	Domain 1003 1015	 The domains
+T40	Domain 1060 1073	jsserver.info
+T41	URL 1042 1050	 the URL
+T42	Device 1097 1110	 the computer
+T43	Domain 1156 1163	domains
+T44	Domain 1201 1220	googledocs.g-docs.X
+T45	Domain 1224 1246	googledocs.docscloud.X
+T46	Domain 1186 1196	 the TLD's
+T23	Email 1493 1501	messages
+T21	Purpose 1515 1550	steal people's personal information
+T24	Information 1521 1550	people's personal information
+T22	Person 1559 1562	you
+T47	Person 1568 1579	 the sender
+T48	URL 1593 1598	links
+T49	Information 1613 1633	personal information
+T50	Email 1659 1669	 an e-mail
+T51	Email 1470 1483	 this message
+T52	Domain 1256 1260	them
+T53	Person 1313 1318	@Jofo
+T54	Organization 1342 1348	Google
+T55	Email 1393 1400	e-mails
+T56	Email 1441 1453	 the message
+T57	URL 1412 1438	malicious (phishing) URL's
+T58	Domain 663 681	 the real web site
+T59	Information 689 693	this
+T60	Information 698 712	developer info
+T61	Person 870 872	we
+T64	Person 740 743	you
+T65	Person 348 351	you
+T66	Campaign 257 259	it
+T67	Campaign 417 419	it
+T69	Person 883 885	we
+T70	Domain 1166 1170	they
+T72	Campaign 187 189	it
+*	Coreference T13 T20
+*	Coreference T32 T48
+*	Coreference T16 T9 T8 T15
+*	Coreference T43 T36 T39 T70 T52
+*	Coreference T49 T21 T24
+*	Coreference T50 T55 T1 T3 T72 T66 T67
+*	Coreference T56 T51 T23
+*	Coreference T31 T65 T64 T22
+*	Coreference T7 T61 T69

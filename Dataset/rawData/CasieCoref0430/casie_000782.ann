@@ -1,0 +1,55 @@
+T5	Purpose 132 146	demanding cash
+T2	Person 73 80	victims
+T1	Malware 46 56	ransomware
+T3	Information 256 264	pictures
+T4	Information 241 247	musics
+T6	Information 230 239	documents
+T7	Information 205 224	 your precious data
+T8	Information 275 294	kinda project files
+T9	Malware 310 322	 the malware
+T10	Malware 331 340	Resenware
+T11	Attack-Pattern 196 205	encrypted
+T12	Organization 382 399	MalwareHunterTeam
+T13	Time 436 444	Thursday
+T14	Malware 423 432	Resenware
+T15	Person 446 453	Victims
+T16	Malware 597 606	Resenware
+T17	Malware 622 634	 the malware
+T18	Organization 722 739	MalwareHunterTeam
+T19	Malware 797 809	 the malware
+T20	Person 861 868	someone
+T21	Malware 1739 1750	Ransomeware
+T22	Organization 1872 1889	MalwareHunterTeam
+T23	Malware 1701 1713	 the malware
+T24	Organization 1541 1558	MalwareHunterTeam
+T25	Time 1272 1279	in 2009
+T26	Malware 889 898	Resenware
+T28	Organization 941 947	Amazon
+T29	Person 900 904	they
+T30	Hacker-Group 1805 1806	I
+T31	Software 1382 1384	it
+T32	Malware 1812 1814	it
+T33	Software 110 120	video game
+T34	File 157 162	files
+T35	Hacker-Group 165 195	Minamitsu 'The Captain' Murasa
+T36	Software 504 530	Undefined Fantastic Object
+T37	Software 557 573	vertical shooter
+T38	Software 664 690	Undefined Fantastic Object
+T39	Software 833 841	the game
+T27	Software 929 936	 a copy
+T40	Software 971 977	copies
+T41	Software 981 1007	Undefined Fantastic Object
+T42	Software 1257 1266	 the game
+T43	Software 1338 1347	 the game
+T44	Malware 1439 1455	THIS APPLICATION
+T45	Person 1459 1462	YOU
+T46	Software 1621 1630	 the game
+T47	Hacker-Group 1667 1673	author
+T48	Malware 1657 1666	Resenware
+T49	Hacker-Group 1816 1829	 the creator 
+*	Coreference T2 T15 T20 T29 T45
+*	Coreference T10 T16 T1 T14 T21 T26 T9 T17 T23 T19 T44 T48 T32
+*	Coreference T34 T7 T6 T4 T3 T8
+*	Coreference T36 T37 T38 T39 T41 T42 T43 T31 T46 T40
+*	Coreference T18 T12 T24 T22
+*	Coreference T47 T35 T30 T49

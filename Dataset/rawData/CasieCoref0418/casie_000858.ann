@@ -1,0 +1,128 @@
+T3	Campaign 1384 1390	leaked
+T4	Time 1401 1405	2015
+T7	Person 1365 1383	TalkTalk customers
+T5	Information 1341 1349	The data
+T9	Campaign 1435 1463	three separate data breaches
+T8	Organization 1411 1422	the company
+T10	Time 1467 1480	the same year
+T1	Campaign 718 726	phishing
+T2	Person 699 712	our customers
+T17	Campaign 2312 2337	the data theft operations
+T18	Campaign 2246 2259	stealing data
+T11	Campaign 1764 1772	poses as
+T12	Person 1773 1792	a TalkTalk employee
+T14	Attack-Pattern 1798 1830	asks users to install TeamViewer
+T13	Hacker-Group 1730 1741	the scammer
+T15	Campaign 1880 1883	fix
+T16	Vulnerability 1884 1899	security errors
+T6	Person 2008 2016	victim's
+T19	Person 23 24	I
+T20	Organization 610 612	We
+T21	Organization 684 686	we
+T22	Organization 774 776	we
+T23	Software 3521 3525	they
+T24	Person 478 479	I
+T25	Organization 497 499	we
+T26	Organization 916 918	We
+T27	Organization 1090 1092	we
+T28	Hacker-Group 2885 2889	they
+T30	Person 3180 3184	they
+T31	Software 49 59	Teamviewer
+T32	Organization 70 78	TalkTalk
+T33	Person 101 111	first user
+*	Coreference T19 T33
+T34	Software 157 167	TeamViewer
+*	Coreference T31 T34 T38 T41 T51 T71 T73 T77 T80 T81 T93 T97 T102
+T35	Organization 227 235	TalkTalk
+*	Coreference T32 T35 T29 T39 T25 T20 T21 T22 T48 T26 T27 T57 T59 T61 T8 T63 T67 T70 T83 T85 T87 T96
+T36	Person 256 261	users
+T37	Number 242 246	Tens
+T29	Organization 340 348	TalkTalk
+T38	Software 360 370	TeamViewer
+T39	Organization 391 398	company
+T40	Person 429 443	representative
+*	Coreference T40 T24 T58
+T41	Software 599 609	Teamviewer
+*	Coreference T36 T2 T49 T52 T55 T60 T7 T86
+T42	Campaign 731 750	scamming activities
+T43	Domain 811 816	sites
+T44	Software 821 833	applications
+T45	System 839 850	our network
+T46	Software 530 537	network
+T47	System 378 385	network
+*	Coreference T47 T46 T45
+T48	Organization 856 858	we
+T49	Person 901 914	our customers
+T50	Software 576 588	applications
+T51	Software 936 946	teamviewer
+T52	Person 1058 1067	customers
+T53	Domain 1120 1125	sites
+*	Coreference T43 T53
+T54	Software 1126 1138	applications
+T55	Person 1151 1160	customers
+T56	Course-of-Action 990 1018	additional security measures
+T57	Organization 1227 1235	TalkTalk
+T58	Person 1227 1250	TalkTalk representative
+T59	Organization 1302 1310	TalkTalk
+T60	Person 1302 1320	TalkTalk customers
+T61	Organization 1365 1373	TalkTalk
+T62	Number 1353 1361	millions
+*	Coreference T4 T10
+T63	Organization 1526 1534	TalkTalk
+T64	Information 1535 1539	data
+*	Coreference T5 T64
+T65	Hacker-Group 1482 1490	Scammers
+T66	Person 1560 1569	customers
+T67	Organization 1619 1627	TalkTalk
+T68	Domain 1628 1634	forums
+T69	Hacker-Group 1705 1713	scammers
+*	Coreference T65 T69 T13 T74 T90 T28 T103
+T70	Organization 1775 1783	TalkTalk
+T71	Software 1820 1830	TeamViewer
+T72	Person 1841 1850	customers
+*	Coreference T66 T72 T6 T76
+T73	Software 1901 1911	TeamViewer
+T74	Hacker-Group 1986 1993	scammer
+T75	Malware 2038 2045	malware
+T76	Person 2114 2120	victim
+T77	Software 2157 2167	TeamViewer
+T78	Malware 2198 2205	malware
+*	Coreference T75 T78
+T79	Information 2255 2259	data
+T80	Software 2344 2354	TeamViewer
+*	Coreference T18 T17
+T81	Software 2374 2384	TeamViewer
+T82	Campaign 2451 2456	scams
+T83	Organization 2489 2497	TalkTalk
+T84	Organization 2552 2555	BBC
+T85	Organization 2657 2665	TalkTalk
+T86	Person 2705 2714	customers
+T87	Organization 2786 2794	TalkTalk
+T88	Course-of-Action 2500 2519	pro-active reaction
+T89	Course-of-Action 2813 2823	pro-active
+*	Coreference T88 T89
+T90	Hacker-Group 2847 2855	scammers
+T91	Software 2880 2884	apps
+T92	Software 2364 2368	Apps
+*	Coreference T92 T50 T44 T54
+T93	Software 2910 2920	TeamViewer
+T95	Person 3133 3156	TeamViewer spokesperson
+T96	Organization 3218 3226	TalkTalk
+T94	Organization 3133 3143	TeamViewer
+*	Coreference T94 T30
+T97	Software 3258 3268	TeamViewer
+T98	Organization 3290 3304	both companies
+T99	Organization 3001 3014	two companies
+*	Coreference T99 T98
+T100	Campaign 3363 3371	scamming
+T101	Campaign 3101 3109	scamming
+*	Coreference T101 T100 T82
+T102	Software 3385 3396	Team Viewer
+T103	Hacker-Group 3503 3512	criminals
+T104	Software 3616 3624	software
+T105	Software 3477 3485	software
+*	Coreference T105 T104 T106 T23
+T106	Software 3419 3427	software
+T107	Organization 3536 3540	ISPs
+T108	Organization 1554 1557	ISP
+*	Coreference T108 T107

@@ -1,0 +1,57 @@
+T2	System 790 808	corporate networks
+T12	Person 768 775	hackers
+T4	Email 150 165	email addresses
+T5	Information 167 176	passwords
+T6	IP 181 193	IP addresses
+T3	Time 90 104	September 2015
+T13	Purpose 250 268	profit financially
+T14	Hacker-Group 223 229	hacker
+T21	Information 278 296	stolen information
+T25	Campaign 58 68	The breach
+T15	Campaign 1022 1040	The initial breach
+T16	Time 1053 1067	September 2015
+T20	Hacker-Group 1076 1089	the attackers
+T19	Information 1175 1179	data
+T17	Time 1090 1099	17 months
+T7	Campaign 299 312	Data breaches
+T11	Email 0 15	Email addresses
+T22	Information 17 26	passwords
+T24	IP 31 43	IP addresses
+T23	Organization 199 209	Daily Mail
+T8	Domain 332 345	darkweb sites
+T26	Organization 395 405	Daily Mail
+T27	Person 381 385	Hunt
+T28	Person 414 428	Willy Leichter
+T29	Person 430 472	vice president of marketing at CipherCloud
+T30	Organization 479 495	eSecurity Planet
+T31	Email 499 504	email
+T32	Campaign 520 526	attack
+T33	Domain 536 549	gaming forums
+T34	Campaign 555 573	large scale breach
+T35	Person 620 625	Users
+T36	Information 636 652	common passwords
+T37	Vulnerability 654 672	security questions
+T38	Email 677 701	personal email addresses
+T39	Purpose 705 745	access personal and work-related systems
+T40	System 712 745	personal and work-related systems
+T1	Attack-Pattern 779 808	break into corporate networks
+T9	Attack-Pattern 813 842	steal massive amounts of data
+T41	Information 827 842	amounts of data
+T10	Person 868 873	users
+T42	Information 908 917	passwords
+T43	Person 919 928	Jeff Hill
+T44	Person 930 973	director of product management at Prevalent
+T18	Person 1219 1221	he
+T45	Campaign 1268 1274	breach
+T46	Hacker-Group 1313 1322	attackers
+T47	Campaign 1378 1383	theft
+T48	Information 1410 1432	remaining useless data
+T50	Person 845 847	he
+*	Coreference T12 T14
+*	Coreference T3 T16
+*	Coreference T20 T46
+*	Coreference T23 T26
+*	Coreference T28 T29 T50
+*	Coreference T43 T44 T18 T49
+*	Coreference T15 T25 T32 T45
+T49	Person 1435 1439	Hill

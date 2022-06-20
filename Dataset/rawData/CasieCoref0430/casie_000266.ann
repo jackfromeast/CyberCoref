@@ -1,0 +1,85 @@
+T11	Money 1471 1480	T$300,000
+T12	Money 1482 1491	$9,731.41
+T16	Campaign 1546 1563	made any payments
+T1	Person 0 9	Rick Wang
+T2	Person 10 22	 an official
+T3	Location 28 34	Taiwan
+T4	Organization 37 69	Financial Supervisory Commission
+T6	Email 109 118	 an email
+T7	Money 158 163	funds
+T8	Campaign 172 218	 a distributed denial of service (DDoS) attack
+T9	Software 244 249	tools
+T13	Person 254 269	cyber criminals
+T15	Course-of-Action 119 163	setting a deadline for the transfer of funds
+T19	Organization 303 316	organizations
+T18	Organization 288 298	businesses
+T20	Purpose 280 316	cripple businesses and organizations
+T21	Attack-Pattern 322 351	significant online activities
+T22	Campaign 334 351	online activities
+T23	Person 354 356	We
+T24	Number 396 400	five
+T25	Organization 401 410	companies
+T26	Time 415 426	at one time
+T27	Hacker-Group 431 447	 the same threat
+T28	Person 455 459	Wang
+T29	Person 472 486	 the regulator
+T31	Campaign 500 531	single instances of cyber-crime
+T32	Organization 533 540	FireEye
+T33	Organization 541 569	 a cybersecurity consultancy
+T34	Campaign 575 587	 the attacks
+T35	Time 716 726	last month
+T36	Location 709 715	Europe
+T37	Hacker-Group 653 685	 a previously unidentified group
+T38	Campaign 614 650	threatened denial of service attacks
+T40	Campaign 727 746	 The Taiwan attacks
+T41	Location 770 781	 the island
+T42	System 792 820	trading and financial system
+T43	Person 822 826	Wang
+T44	Person 837 839	he
+T45	Person 850 864	 the regulator
+T46	Organization 875 895	all securities firms
+T47	Course-of-Action 899 925	step up defensive measures
+T48	Email 932 938	emails
+T49	Hacker-Group 972 989	Armada Collective
+T50	Person 998 1012	Chiu Shao-chou
+T51	Person 1013 1025	 an official
+T52	Organization 1029 1103	the internet cybercrime division of Taiwan’s Criminal Investigation Bureau
+T53	Organization 1105 1144	the government’s top investigation body
+T54	Location 1065 1071	Taiwan
+T55	Hacker-Group 1145 1167	 The Armada Collective
+T56	Hacker-Group 1168 1194	 a hacking extortion group
+T57	Campaign 1215 1241	financial blackmail heists
+T58	Person 1257 1261	Chiu
+T59	Hacker-Group 1266 1276	 the group
+T60	Location 1306 1312	Taiwan
+T61	Person 1313 1326	investigators
+T62	Course-of-Action 1338 1384	looking into the original source of the emails
+T63	Email 1374 1385	the emails.
+T65	Course-of-Action 1267 1301	the group has been put under watch
+T64	Email 1386 1395	The email
+T10	Person 1494 1506	Taiwan media
+T66	Person 1565 1569	Chiu
+T67	Organization 1584 1599	brokerage firm,
+T68	Organization 1600 1623	Capital Securities Corp
+T69	Time 1633 1642	on Monday
+T70	Campaign 1645 1659	 a DDoS attack
+T71	Time 1668 1678	20 minutes
+T73	System 1685 1696	 its system
+T74	Person 1707 1721	 the regulator
+T75	Email 1767 1789	the threatening emails
+T77	Information 1416 1450	web-based digital currency bitcoin
+T5	Organization 71 74	FSC
+T14	Purpose 1396 1412	demanded payment
+T17	Organization 1732 1734	it
+*	Coreference T8 T38
+*	Coreference T34 T40
+*	Coreference T45 T74 T29
+*	Coreference T49 T55 T56 T59
+*	Coreference T54 T60 T3
+*	Coreference T75 T63 T64 T6 T48
+*	Coreference T23 T4 T5
+*	Coreference T33 T32
+*	Coreference T51 T50 T58 T66
+*	Coreference T43 T44 T1 T28 T2
+*	Coreference T11 T12
+*	Coreference T68 T67 T17

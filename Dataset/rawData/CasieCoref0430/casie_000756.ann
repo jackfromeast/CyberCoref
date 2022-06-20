@@ -1,0 +1,105 @@
+T15	Organization 17 38	Positive Technologies
+T14	Person 0 11	Researchers
+T18	Vulnerability 80 93	CVE-2017-6968
+T17	Vulnerability 53 78	 a critical vulnerability
+T19	System 98 118	Checker ATM Security
+T20	Organization 122 170	Spanish corporate group GMV Innovating Solutions
+T29	Vulnerability 516 531	 The found flaw
+T31	Attack-Pattern 552 587	remotely run code on a targeted ATM
+T10	Vulnerability 1314 1332	 the vulnerability
+T12	Organization 1366 1369	GMV
+T7	Software 1437 1450	 the software
+T6	Version 1423 1426	4.x
+T24	Version 1431 1434	5.x
+T26	Vulnerability 1661 1679	 the vulnerability
+T22	Campaign 2767 2778	disclosures
+T23	Organization 2716 2723	vendors
+T27	Vulnerability 2753 2766	vulnerability
+T28	Person 2664 2675	researchers
+T2	Campaign 734 741	pose as
+T4	System 741 760	 the control server
+T3	Hacker-Group 708 719	 a criminal
+T34	Attack-Pattern 811 873	connecting the ATM to a criminal-controlled network connection
+T9	Course-of-Action 1477 1485	 a patch
+T16	System 173 193	Checker ATM Security
+T35	Campaign 261 276	logical attacks
+T36	Attack-Pattern 292 326	enforcing application whitelisting
+T37	Attack-Pattern 328 353	full hard disk encryption
+T38	Attack-Pattern 355 423	providing ACL-based control of process execution and resource access
+T39	Attack-Pattern 425 452	enforcing security policies
+T40	Attack-Pattern 454 504	restricting attempts to connect peripheral devices
+T30	Purpose 589 637	increase the attacker’s privileges in the system
+T32	Purpose 643 676	compromise the machine completely
+T8	Vulnerability 689 707	 the vulnerability
+T33	Person 876 901	researcher Georgy Zaytsev
+T1	Attack-Pattern 784 796	ARP spoofing
+T41	Attack-Pattern 936 961	generating the public key
+T42	Device 985 1002	 the rogue server
+T43	Purpose 966 984	traffic encryption
+T44	Purpose 1012 1030	 a buffer overflow
+T45	Attack-Pattern 1123 1163	send a command for remote code execution
+T46	Attack-Pattern 1049 1118	failure on the client side to limit the length of response parameters
+T47	Device 1033 1041	 the ATM
+T48	Hacker-Group 1178 1190	 an attacker
+T49	Device 1208 1216	 the ATM
+T50	Campaign 1265 1294	unauthorized money withdrawal
+T51	Campaign 1240 1253	manipulations
+T5	Person 1493 1498	users
+T11	Campaign 1702 1709	attacks
+T13	Person 1578 1601	 A company spokesperson
+T21	Campaign 1734 1746	exploitation
+T25	Campaign 1541 1553	Exploitation
+T52	Hacker-Group 1767 1780	 the attacker
+T53	System 1835 1853	 the target system
+T54	Attack-Pattern 1792 1803	gain access
+T55	System 1806 1822	 the ATM network
+T56	File 1827 1830	log
+T57	Campaign 1865 1876	 the attack
+T58	System 1923 1938	 an ATM network
+T59	Hacker-Group 1963 1976	 the attacker
+T60	Information 1988 2002	memory address
+T61	System 2034 2041	Windows
+T62	Version 2042 2056	kernel version
+T63	System 2067 2074	Windows
+T64	Version 2075 2077	XP
+T65	Vulnerability 2138 2156	 the vulnerability
+T66	Version 2169 2170	7
+T67	System 2161 2168	Windows
+T68	Information 2199 2220	 those memory address
+T69	System 2244 2251	windows
+T70	Person 2266 2283	 the spokesperson
+T71	Person 2288 2301	 The Register
+T72	Software 2312 2320	software
+T73	Software 2322 2339	security software
+T74	Vulnerability 2357 2372	vulnerabilities
+T75	System 2386 2393	systems
+T76	Campaign 2397 2409	exploitation
+T77	Course-of-Action 2417 2426	antivirus
+T78	Course-of-Action 2437 2455	security solutions
+T79	Device 2460 2478	personal computers
+T80	Person 2525 2548	third-party researchers
+T81	Software 2562 2579	security software
+T82	Vulnerability 2516 2521	flaws
+T83	Campaign 278 280	It
+T87	Device 246 250	ATMs
+T88	Device 572 587	 a targeted ATM
+T89	Device 653 665	 the machine
+T90	Device 821 829	 the ATM
+T84	Vulnerability 1403 1405	it
+T86	Campaign 1960 1962	it
+T85	Vulnerability 2701 2705	them
+*	Coreference T19 T16
+*	Coreference T14 T28 T33 T80
+*	Coreference T13 T70
+*	Coreference T25 T76 T21
+*	Coreference T55 T58 T53
+*	Coreference T60 T68
+*	Coreference T61 T69 T67 T63
+*	Coreference T35 T83
+*	Coreference T87 T88 T89 T90 T47 T49
+*	Coreference T51 T50
+*	Coreference T20 T12
+*	Coreference T57 T11 T86
+*	Coreference T59 T52 T3 T48
+*	Coreference T73 T72 T81
+*	Coreference T85 T82 T10 T74 T17 T27 T65 T8 T26 T18 T29 T84

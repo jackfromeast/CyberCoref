@@ -1,0 +1,72 @@
+T2	Campaign 171 180	has found
+T6	Software 345 368	 its Anti-Virus product
+T5	Protocol 317 331	 its SSL proxy
+T3	Organization 158 170	Project Zero
+T1	Attack-Pattern 222 250	an SSL certificate collision
+T4	Organization 261 270	Kaspersky
+T26	Organization 149 155	Google
+T18	Campaign 1030 1038	reported
+T20	Vulnerability 1039 1046	the bug
+T19	Person 1022 1029	Ormandy
+T24	Campaign 1051 1075	received acknowledgement
+T21	Organization 1081 1090	Kaspersky
+T22	Time 1094 1104	November 1
+T27	Campaign 1203 1215	be exploited
+T28	Vulnerability 1176 1184	 the bug
+T8	Campaign 1390 1400	also found
+T9	Vulnerability 1401 1412	another bug
+T7	Person 1382 1389	Ormandy
+T10	Time 1416 1427	November 12
+T11	Attack-Pattern 1433 1502	allowed any unprivileged user to become a local certificate authority
+T12	Campaign 1559 1569	discovered
+T16	Person 1522 1558	the Project Zero security researcher
+T13	Software 1575 1600	Symantec Antivirus Engine
+T14	Vulnerability 1619 1634	buffer overflow
+T15	Attack-Pattern 1708 1730	instant blue-screening
+T23	Attack-Pattern 1735 1759	kernel memory corruption
+T17	Time 1507 1520	May last year
+T25	System 1783 1790	Windows
+T29	Software 60 80	Kaspersky Anti-Virus
+T30	Person 85 95	 its users
+T31	Software 775 795	Kaspersky Anti-Virus
+T32	Hash 302 314	 an MD5 hash
+T33	File 1944 1951	 a file
+T34	URL 1979 1986	 a link
+T35	Person 1954 1963	 a victim
+T36	Person 1839 1846	Ormandy
+T37	File 1685 1690	files
+T38	Person 1357 1364	Ormandy
+T39	Person 1248 1251	you
+T40	Person 738 741	you
+T41	Organization 927 931	they
+T42	Person 1221 1224	you
+T43	Person 1336 1339	you
+T44	Hacker-Group 557 561	They
+T45	Person 371 374	You
+T46	Person 861 863	he
+T47	Vulnerability 186 188	it
+T48	Vulnerability 2008 2010	it
+T49	Person 1975 1979	them
+T52	Person 1313 1316	you
+T53	Software 1817 1819	it
+T54	Protocol 5 18	 an SSL proxy
+T55	Person 135 148	Chris Duckett
+T56	Vulnerability 0 58	Using an SSL proxy that simplistically stored certificates
+T57	Attack-Pattern 104 130	TLS certificate collisions
+T58	Person 499 512	Tavis Ormandy
+T59	Organization 516 528	Project Zero
+T51	Organization 896 905	Kaspersky
+T60	Organization 1122 1142	 the security vendor
+T61	Software 1873 1881	Symantec
+T50	Attack-Pattern 473 485	 a collision
+*	Coreference T56 T47 T20 T28
+*	Coreference T6 T29 T31
+*	Coreference T5 T54
+*	Coreference T3 T59
+*	Coreference T40 T45 T42 T39 T52 T43
+*	Coreference T46 T58 T19 T38 T7 T16 T36
+*	Coreference T51 T41 T4 T21 T60
+*	Coreference T13 T53 T61
+*	Coreference T49 T35
+*	Coreference T48 T14
+*	Coreference T50 T1

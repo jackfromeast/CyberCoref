@@ -1,0 +1,120 @@
+T11	Hacker-Group 1162 1167	APT10
+T7	Information 1354 1375	intellectual property
+T8	Information 1380 1394	sensitive data
+T1	Campaign 386 408	spear-phishing attacks
+T2	Hacker-Group 355 360	APT10
+T4	Malware 367 381	custom malware
+T5	Hacker-Group 329 346	The hacking group
+T3	Attack-Pattern 412 443	gain access to victims' systems
+T23	Campaign 4257 4270	data breaches
+T12	Campaign 1604 1620	have exfiltrated
+T16	Hacker-Group 1582 1591	The group
+T13	Information 1638 1642	data
+T15	Person 1648 1664	multiple victims
+T14	System 1686 1694	networks
+T19	Attack-Pattern 1698 1740	stealthily move this data around the world
+T24	Campaign 4275 4285	data leaks
+T22	Purpose 1936 1947	gain access
+T21	Organization 1893 1932	legitimate Japanese government entities
+T18	Hacker-Group 1871 1876	APT10
+T26	Hacker-Group 0 32	Advanced Persistent Threat group
+T27	Location 43 48	China
+T28	Hacker-Group 60 79	attacking companies
+T29	Attack-Pattern 83 108	targeting their suppliers
+T30	Person 92 108	 their suppliers
+T31	Campaign 111 129	scale of operation
+T32	Hacker-Group 155 179	 A Chinese hacking group
+T33	Campaign 204 211	attacks
+T34	Organization 254 277	 their client companies
+T35	Purpose 282 327	facilitate the theft of intellectual property
+T36	Hacker-Group 458 462	they
+T37	Purpose 497 526	attack their client companies
+T38	System 595 611	security systems
+T39	Time 612 631	since at least 2013
+T40	Hacker-Group 660 669	attackers
+T41	Attack-Pattern 674 725	gained access to the Target retail chain in America
+T42	Location 718 725	America
+T43	Person 733 758	 an HVAC service provider
+T44	Time 760 763	Now
+T45	Hacker-Group 780 785	APT10
+T46	Hacker-Group 826 836	 The group
+T47	System 855 900	PwC's cyber-security practice and BAE Systems
+T48	Organization 919 959	 the UK's National Cyber Security Centre
+T49	Campaign 1177 1200	 the espionage campaign
+T10	Attack-Pattern 1204 1257	targeting providers of managed outsourced IT services
+T17	Organization 1272 1303	 their customers' organisations
+T6	Attack-Pattern 1322 1394	gaining unprecedented access to intellectual property and sensitive data
+T9	Hacker-Group 1409 1419	 the group
+T50	Campaign 1428 1441	 the campaign
+T51	Time 1445 1449	2014
+T52	Time 1489 1499	early 2016
+T53	Hacker-Group 1508 1522	new developers
+T54	Hacker-Group 1527 1546	intrusion operators
+T55	Organization 1742 1776	A number of Japanese organisations
+T25	Campaign 1825 1846	simultaneous campaign
+T56	Hacker-Group 1859 1864	group
+T20	Campaign 1984 1995	 the attack
+T57	Attack-Pattern 2008 2028	tools and techniques
+T58	Person 2039 2052	investigators
+T59	Hacker-Group 2069 2079	 the group
+T60	Organization 2096 2101	China
+T61	Hacker-Group 2150 2169	who is behind APT10
+T62	Organization 2196 2209	organisations
+T63	Hacker-Group 4079 4088	Companies
+T64	Person 4136 4152	 their suppliers
+T65	Course-of-Action 4173 4182	ISO 27001
+T66	Course-of-Action 3740 3749	ISO 27001
+T67	Domain 3909 3914	CREST
+T68	Course-of-Action 3957 4004	 the necessary standard of care around security
+T69	Campaign 2490 2498	campaign
+T70	Organization 2558 2571	organisations
+T72	Organization 2605 2640	 their security teams and providers
+T71	System 2650 2658	networks
+T73	Person 3466 3486	a group of teenagers
+T74	Person 3544 3565	IT services providers
+T75	Course-of-Action 3580 3620	enumerate and assess their digital risks
+T76	Course-of-Action 3669 3713	mitigate related threats and vulnerabilities
+T77	Person 3387 3399	IT providers
+T78	Person 2769 2782	Richard Horne
+T79	Person 2211 2224	Kris McConkey
+T80	Campaign 2317 2329	 this attack
+T81	Person 3009 3026	service providers
+T82	Person 3041 3048	victims
+T83	Course-of-Action 3052 3101	help prevent, detect and respond to these attacks
+T84	Person 3116 3131	Ilia Kolochenko
+T85	Campaign 3209 3221	 the attacks
+T86	Hacker-Group 3313 3318	APT10
+T88	Organization 3163 3174	SC Media UK
+T89	Time 1028 1037	late 2016
+T90	Campaign 980 1003	 the espionage campaign
+T91	Campaign 1042 1053	 the attack
+T94	Person 3104 3106	he
+T97	Campaign 1480 1482	it
+T100	Person 2760 2762	he
+T102	Person 3405 3406	I
+T104	Pronoun 2177 2179	it
+T105	Person 4068 4070	he
+T106	Person 3534 3536	he
+T107	Person 3499 3501	we
+T108	Organization 2710 2714	they
+T109	Vulnerability 637 639	it
+T110	Vulnerability 569 591	 a recognised weakness
+T103	Organization 961 965	NCSC
+T111	Campaign 1070 1124	 the largest sustained global cyber-espionage campaign
+T92	Person 2226 2280	partner for cyber-threat detection and response at PwC
+T95	Person 2784 2813	cyber-security partner at PwC
+T96	Campaign 2892 2910	 this new campaign
+T98	Campaign 2914 2930	indirect attacks
+T93	Person 3133 3156	CEO of High-Tech Bridge
+*	Coreference T27 T60
+*	Coreference T56 T9 T46 T59 T45 T86 T11 T18 T2 T5 T32 T36 T16
+*	Coreference T65 T66
+*	Coreference T110 T109
+*	Coreference T48 T103
+*	Coreference T90 T91 T111 T49
+*	Coreference T97 T50
+*	Coreference T20 T25 T80
+*	Coreference T92 T79 T100 T94
+*	Coreference T108 T70
+*	Coreference T78 T95
+*	Coreference T84 T93 T106 T102 T105

@@ -1,0 +1,69 @@
+T2	System 118 145	Aadhaar national ID systems
+T3	Information 97 104	records
+T36	Location 110 115	India
+T8	Campaign 384 391	leaking
+T10	Information 425 432	records
+T11	Information 729 741	Aadhaar data
+T14	System 810 839	Improperly configured systems
+T22	Campaign 1518 1534	the massive leak
+T23	Information 1550 1557	details
+T25	Information 1569 1580	Aadhaar IDs
+T26	Person 1582 1589	Indians
+T29	Information 1688 1692	data
+T31	Information 1704 1714	biometrics
+T33	Course-of-Action 1790 1793	fix
+T34	Vulnerability 1716 1727	the problem
+T35	Software 1794 1796	it
+T4	Organization 31 66	The Centre for Internet and Society
+T9	Time 21 27	Monday
+T24	Number 85 96	135 million
+T37	System 296 302	Aadhar
+T38	Organization 264 283	government agencies
+T39	Number 413 424	135 million
+T40	Location 475 480	India
+T41	Organization 749 784	The Centre for Internet and Society
+T16	Software 916 932	Aadhaar database
+T42	Software 967 995	government program databases
+T43	Hacker-Group 1004 1013	fraudster
+T44	Information 1023 1080	person's leaked details (names, addresses, phone numbers)
+T45	Hacker-Group 1161 1170	fraudster
+T46	Campaign 1175 1222	build comprehensive profiles on Indian citizens
+T47	Campaign 1229 1260	recreating the Aadhaar database
+T48	Organization 1386 1396	ministries
+T49	Organization 1403 1405	it
+T50	Course-of-Action 1445 1493	preparing changes to Aadhaa'rs security policies
+T51	Number 1538 1549	135 million
+T52	Campaign 178 183	leaks
+T5	System 227 250	national Aadhaar system
+T6	Information 296 307	Aadhar data
+T7	Campaign 804 808	leak
+T12	Information 852 883	details of program participants
+T15	Information 1121 1134	these details
+T18	Software 1339 1355	Aadhaar database
+T21	System 344 363	government programs
+T32	Organization 1758 1768	government
+T54	Organization 483 519	National Social Assistance Programme
+T55	Organization 521 525	NSAP
+T56	Organization 532 574	National Rural Employment Guarantee Scheme
+T57	Organization 576 581	NREGA
+T58	Organization 704 709	NREGA
+T59	Organization 588 611	Govt. of Andhra Pradesh
+T60	Organization 646 669	Govt. of Andhra Pradesh
+*	Coreference T43 T45
+*	Coreference T57 T58 T56
+*	Coreference T59 T60
+*	Coreference T54 T55
+*	Coreference T37 T5 T2
+T1	Number 339 343	four
+*	Coreference T39 T24
+*	Coreference T3 T10
+*	Coreference T40 T36
+*	Coreference T18 T16 T35
+T13	Organization 1291 1308	Indian government
+*	Coreference T13 T49
+*	Coreference T22 T7
+*	Coreference T44 T15
+T17	Person 1606 1632	victims of financial fraud
+T19	Campaign 1617 1632	financial fraud
+*	Coreference T17 T26
+T20	Campaign 1658 1682	government programs leak

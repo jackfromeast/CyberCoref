@@ -1,0 +1,99 @@
+T5	Campaign 977 986	collected
+T7	Information 987 1008	the Hacking Team data
+T6	Organization 973 976	CIA
+T1	Hacker-Group 2 27	special operational group
+T2	Organization 43 46	CIA
+T3	Hacker-Group 53 60	Umbrage
+T4	Malware 94 108	public malware
+T8	Malware 146 170	custom CIA hacking tools
+T9	File 189 197	document
+T10	Hacker-Group 203 215	Umbrage team
+T11	Purpose 84 108	reviewing public malware
+T12	Purpose 113 170	embedding selected features into custom CIA hacking tools
+T13	Purpose 220 231	its purpose
+T14	Campaign 263 275	Vault 7 dump
+T15	Organization 283 292	WikiLeaks
+T16	Hacker-Group 344 351	hackers
+T17	Hacker-Group 442 449	Umbrage
+T18	Organization 474 477	CIA
+T19	Attack-Pattern 487 537	reused malware code from multiple malware families
+T20	Code 494 506	malware code
+T21	Malware 512 537	multiple malware families
+T22	Attack-Pattern 567 602	using a generic "Known Malware" tag
+T23	Campaign 544 551	entries
+T24	File 663 679	leaked documents
+T25	Organization 685 688	CIA
+T26	Code 700 704	code
+T27	File 732 744	Umbrage file
+T28	Organization 750 753	CIA
+T29	Attack-Pattern 784 816	using code from the Hacking Team
+T30	Code 790 794	code
+T31	Hacker-Group 804 816	Hacking Team
+T32	Hacker-Group 821 842	Italian spyware maker
+T33	Malware 853 860	malware
+T34	Organization 864 883	government agencies
+T35	Time 905 909	2015
+T36	Malware 918 925	malware
+T37	File 945 960	dumped document
+T38	Time 1016 1027	August 2015
+T39	Time 1029 1045	two months after
+T40	Campaign 1050 1054	hack
+T41	File 1389 1401	leaked files
+T42	Organization 1125 1128	CIA
+T43	File 1180 1197	redacted document
+T44	Time 1214 1228	September 2015
+T45	Organization 1234 1240	Agency
+T46	File 1281 1299	Hacking Team files
+T47	Email 1311 1317	emails
+T48	File 1322 1335	internal docs
+T49	Malware 1350 1357	malware
+T50	Code 1362 1377	exploit samples
+T51	Attack-Pattern 1415 1439	reused some of this code
+T52	Purpose 1443 1452	cut costs
+T53	Code 1435 1439	code
+T54	Organization 1411 1414	CIA
+T55	Organization 1506 1518	organization
+T56	Organization 1524 1527	CIA
+T57	Attack-Pattern 1528 1567	reused code from public malware samples
+T58	Purpose 1571 1689	"misdirect attribution by leaving behind the 'fingerprints' of the groups that the attack techniques were stolen from.
+T59	Organization 1691 1700	WikiLeaks
+T60	Hacker-Group 1715 1728	Umbrage group
+T61	Malware 1746 1753	malware
+T62	Location 1766 1778	other states
+T63	Location 1794 1812	Russian Federation
+T64	Location 1924 1930	Russia
+T65	Campaign 1911 1920	DNC hacks
+T66	Organization 2072 2079	US .gov
+T67	Location 2092 2098	Russia
+T68	Malware 2012 2014	it
+T69	Organization 2027 2030	DNC
+T70	Time 1899 1908	last year
+T71	Organization 2114 2117	NSA
+T72	Organization 2118 2121	FBI
+T73	Organization 2122 2125	CIA
+T74	Organization 2126 2129	DIA
+T75	Malware 2152 2163	TOR network
+T76	Attack-Pattern 2168 2183	unmask the IP's
+T77	IP 2179 2181	IP
+T80	Organization 300 302	it
+T85	Campaign 2085 2087	it
+*	Coreference T15 T59 T80 T90 T55
+*	Coreference T10 T60 T17 T3 T1
+*	Coreference T19 T57
+*	Coreference T37 T41 T43 T9 T24
+*	Coreference T64 T67 T63
+T86	Person 317 339	government contractors
+T87	Malware 380 395	malware samples
+T88	File 410 436	internal CIA documentation
+*	Coreference T18 T2 T25 T28 T6 T42 T45 T54 T56
+T89	Malware 622 629	malware
+*	Coreference T21 T20
+*	Coreference T36 T33 T53 T30 T26
+T90	Organization 1454 1463	WikiLeaks
+T91	Code 1736 1740	code
+T92	Location 1880 1882	US
+*	Coreference T66 T92
+*	Coreference T85 T65
+T78	Organization 2210 2231	actual Russian agents
+T79	Attack-Pattern 2235 2279	bounce their traffic off numerous satellites
+T81	Purpose 2280 2309	making traces near impossible

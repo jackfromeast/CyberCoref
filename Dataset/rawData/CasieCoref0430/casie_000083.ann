@@ -1,0 +1,167 @@
+T7	Hacker-Group 1116 1126	fraudsters
+T8	Information 1133 1144	information
+T9	Purpose 1149 1190	use it illegally by impersonating victims
+T3	Person 947 953	people
+T2	Hacker-Group 932 940	scammers
+T17	Hacker-Group 2923 2938	Cyber criminals
+T16	Person 3033 3045	 A recipient
+T18	Attack-Pattern 2939 2956	use chain letters
+T19	Purpose 2960 2978	distribute malware
+T20	File 2980 2989	 a letter
+T21	URL 3001 3008	 a link
+T22	Domain 3011 3032	 a malicious Web site
+T23	Attack-Pattern 3049 3093	lured into visiting the site on some pretext
+T10	Campaign 1507 1536	 a social media phishing scam
+T24	Campaign 3236 3250	phishing scams
+T25	Attack-Pattern 3251 3276	via social media messages
+T26	Email 3344 3359	phishing e-mail
+T13	Organization 1575 1593	 the victim's bank
+T14	Campaign 2774 2782	phishing
+T5	Campaign 0 18	Social media scams
+T11	Campaign 27 36	blackmail
+T27	Campaign 38 52	identity theft
+T28	Campaign 54 70	money laundering
+T29	Campaign 75 87	dating scams
+T30	Location 123 125	SA
+T31	Time 125 135	 this year
+T32	Person 158 172	Kovelin Naidoo
+T33	Person 174 209	chief cyber security officer at FNB
+T34	Campaign 238 256	social media scams
+T35	Location 260 262	SA
+T36	Campaign 332 336	they
+T37	System 350 362	social media
+T38	Person 398 421	South African consumers
+T39	Person 423 429	Naidoo
+T40	Domain 439 448	platforms
+T41	Software 454 463	Instagram
+T42	Domain 465 472	Youtube
+T43	Domain 474 482	Facebook
+T44	Domain 487 494	Twitter
+T45	Domain 511 522	 a platform
+T46	Hacker-Group 529 539	fraudsters
+T47	Person 557 579	unsuspecting consumers
+T48	System 621 633	social media
+T49	Person 673 682	consumers
+T50	Hacker-Group 782 792	fraudsters
+T51	Person 811 825	 their victims
+T52	Information 827 847	personal information
+T53	Person 855 861	Naidoo
+T54	Person 863 869	Naidoo
+T55	Person 876 885	consumers
+T56	Course-of-Action 889 924	look out for money laundering scams
+T57	Campaign 902 924	money laundering scams
+T1	Attack-Pattern 941 984	trick people through social media platforms
+T4	Domain 962 984	social media platforms
+T58	Attack-Pattern 988 1089	claiming to have large sums of cash that they need to deposit urgently through a foreign bank account
+T59	Money 1019 1023	cash
+T60	Person 1029 1033	they
+T61	Organization 1066 1089	 a foreign bank account
+T62	Campaign 1094 1108	identity theft
+T6	Information 1153 1155	it
+T63	Person 1183 1190	victims
+T64	Campaign 1193 1215	Social media blackmail
+T65	Campaign 1227 1231	scam
+T66	Course-of-Action 1251 1304	never share personal photos or videos on social media
+T67	File 1263 1278	personal photos
+T68	File 1282 1288	videos
+T69	Domain 1292 1304	social media
+T70	Hacker-Group 1352 1360	scammers
+T71	Information 1369 1374	these
+T72	Information 1410 1414	them
+T73	Person 1418 1438	close family members
+T74	Domain 1457 1473	public platforms
+T75	Information 1449 1453	them
+T76	Attack-Pattern 1390 1473	threatening to send them to close family members or upload them on public platforms
+T77	Campaign 1483 1487	scam
+T78	Hacker-Group 1544 1554	fraudsters
+T12	Attack-Pattern 1555 1619	pretend to represent the victim's bank on social media platforms
+T79	Domain 1597 1619	social media platforms
+T80	Person 1630 1636	Naidoo
+T81	Person 1638 1655	Manuel Corregedor
+T82	Person 1657 1680	COO of Telspace Systems
+T83	Person 1687 1696	consumers
+T84	Domain 1705 1727	social media platforms
+T85	Campaign 1795 1818	dating or romance scams
+T86	Campaign 1823 1835	 these scams
+T87	Hacker-Group 1837 1846	criminals
+T88	Person 1871 1878	victims
+T89	Attack-Pattern 1847 1878	play on the emotions of victims
+T90	Purpose 1891 1913	scam them out of money
+T91	Person 1896 1900	them
+T92	Hacker-Group 1919 1923	they
+T93	Attack-Pattern 1924 1987	target certain profiles based on age, gender and marital status
+T94	Hacker-Group 2004 2017	 the criminal
+T95	Attack-Pattern 2028 2050	'build a relationship'
+T96	Person 2056 2067	 the victim
+T97	Hacker-Group 2131 2144	 the criminal
+T98	Attack-Pattern 2145 2175	plays on the victim's emotions
+T99	Purpose 2190 2199	get money
+T100	Person 2204 2215	 the client
+T101	Course-of-Action 2237 2293	create an awareness around such scams and educate people
+T102	Person 2303 2313	Corregedor
+T103	Campaign 2269 2274	scams
+T104	Campaign 2348 2360	 these scams
+T105	Domain 2395 2407	social media
+T106	Campaign 2375 2379	they
+T107	Person 2427 2432	users
+T108	Course-of-Action 2475 2573	only add people on social media sites, in particular Facebook, that they have met in person before
+T109	Domain 2494 2512	social media sites
+T110	Domain 2528 2536	Facebook
+T111	Course-of-Action 2575 2614	restrict who can see your photos, posts
+T112	Course-of-Action 2620 2676	look out for the following signs that it might be a scam
+T113	Information 2595 2607	 your photos
+T114	Information 2609 2614	posts
+T115	Person 2543 2547	they
+T116	Person 2678 2693	Denis Makrushin
+T117	Person 2695 2731	security researcher at Kaspersky Lab
+T118	Person 2860 2870	recipients
+T119	Attack-Pattern 2856 2921	ask recipients to send a small sum of money to certain addressees
+T120	Money 2894 2899	money
+T121	File 2743 2769	social media chain letters
+T15	Attack-Pattern 3125 3154	warned about a virus epidemic
+T122	Attack-Pattern 3159 3221	are offered the possibility to download an 'antivirus program'
+T123	Person 3116 3120	they
+T124	File 3374 3377	one
+T125	File 3255 3276	social media messages
+T126	File 3386 3403	 a security alert
+T127	Attack-Pattern 3404 3460	saying that someone just tried to sign into your account
+T128	URL 3545 3554	 the link
+T129	Attack-Pattern 3540 3584	click the link to check that everything's OK
+T130	Person 3600 3606	Naidoo
+T131	Person 3615 3633	social media users
+T132	Course-of-Action 3637 3685	never share their banking details with strangers
+T133	Course-of-Action 3693 3736	think twice before sending money to someone
+T134	Person 3522 3525	you
+T137	Person 1318 1321	you
+T141	Person 2107 2111	them
+T146	Person 2086 2090	them
+T147	Person 1383 1386	you
+T154	Person 3587 3589	he
+T145	Person 720 730	themselves
+T135	File 2834 2855	social media messages
+*	Coreference T2 T70
+*	Coreference T21 T128
+*	Coreference T27 T62
+*	Coreference T28 T57
+*	Coreference T30 T35
+*	Coreference T43 T110
+*	Coreference T50 T46
+*	Coreference T49 T55 T83 T38 T47 T145 T3 T60
+*	Coreference T54 T53 T130 T80 T39
+*	Coreference T81 T102 T82
+*	Coreference T89 T98
+*	Coreference T118 T16 T100 T107 T123
+*	Coreference T37 T4 T109 T40 T45 T131 T84 T69 T74 T79 T121 T48 T105
+*	Coreference T14 T24
+*	Coreference T52 T8 T6
+*	Coreference T75 T71 T72
+*	Coreference T87 T94 T92 T17 T97
+*	Coreference T106 T104 T103
+*	Coreference T32 T33
+*	Coreference T64 T65
+*	Coreference T147 T137
+*	Coreference T10 T77 T86
+*	Coreference T34 T5
+*	Coreference T141 T146 T96 T91 T88 T51 T63
+*	Coreference T117 T116 T154
+*	Coreference T124 T26 T126

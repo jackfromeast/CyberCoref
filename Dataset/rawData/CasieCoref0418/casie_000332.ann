@@ -1,0 +1,59 @@
+T8	Person 266 273	someone
+T11	Person 213 242	his payroll account's manager
+T10	Person 292 302	Scott Wise
+T1	Purpose 49 116	has received all 4,000 Scotty's Brewhouse employee's 2016 W-2 forms
+T3	Hacker-Group 39 48	A scammer
+T5	Email 149 154	email
+T12	Organization 16 28	INDIANAPOLIS
+T13	Organization 30 34	WISH
+T14	Number 66 71	4,000
+T2	Person 137 140	CEO
+T17	Information 217 232	payroll account
+T6	Email 255 260	email
+T18	Person 327 333	person
+T19	Attack-Pattern 339 400	requested all 4,000 employee's 2016 W-2 forms in a PDF format
+T20	Number 353 358	4,000
+T23	Person 425 429	Wise
+T25	Person 454 460	Martin
+T26	Organization 475 499	Internal Revenue Service
+T27	Campaign 510 516	breach
+T29	Organization 592 612	Indiana State Police
+T30	Person 614 620	Martin
+T31	Person 645 663	employees affected
+T32	Person 675 679	they
+T33	Course-of-Action 690 760	protect themselves from unauthorized use of their personal information
+T34	Information 740 760	personal information
+T35	Person 698 708	themselves
+T36	Information 765 784	suspect information
+T37	Time 803 815	at this time
+T38	Person 817 831	CEO Scott Wise
+T40	Person 913 919	victim
+T41	Hacker-Group 923 931	scammers
+T42	Number 939 943	many
+T43	Organization 944 959	other companies
+T45	Person 975 984	employees
+T46	Person 989 998	customers
+T47	Organization 1035 1042	company
+T49	Person 1089 1098	employees
+T50	Campaign 1125 1142	scamming incident
+T52	Course-of-Action 1171 1214	work with federal and local law enforcement
+T53	Organization 1181 1214	federal and local law enforcement
+T54	Organization 1220 1244	Internal Revenue Service
+T55	Organization 1249 1263	credit bureaus
+T56	Hacker-Group 1277 1305	responsible party or parties
+*	Coreference T25 T30
+*	Coreference T26 T54
+*	Coreference T34 T36
+T4	Person 156 183	Director of Human Resources
+T58	Person 184 202	Christopher Martin
+*	Coreference T4 T58
+T7	Person 308 321	company's CEO
+*	Coreference T10 T7 T2 T38
+T9	Information 72 116	Scotty's Brewhouse employee's 2016 W-2 forms
+T15	Information 359 400	employee's 2016 W-2 forms in a PDF format
+*	Coreference T31 T32 T35
+T16	Organization 877 885	Scotty's
+*	Coreference T16 T47 T40 T21
+T21	Organization 1145 1153	Scotty's
+T22	Email 447 452	email
+T24	Organization 556 587	Federal Bureau of Investigation

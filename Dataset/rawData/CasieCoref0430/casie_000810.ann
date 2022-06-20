@@ -1,0 +1,74 @@
+T2	Course-of-Action 6 17	has patched
+T1	Organization 0 5	Adobe
+T3	Vulnerability 21 36	vulnerabilities
+T4	Software 41 48	Acrobat
+T5	Course-of-Action 90 96	update
+T6	Vulnerability 118 132	critical flaws
+T7	Attack-Pattern 144 174	allow arbitrary code-execution
+T9	Time 213 225	a week after
+T8	Course-of-Action 176 196	The scheduled update
+T12	Course-of-Action 241 266	several out-of-band fixes
+T13	Software 271 283	Flash Player
+T10	Organization 226 231	Adobe
+T17	Campaign 723 730	patched
+T16	Organization 712 717	Adobe
+T18	Vulnerability 731 764	three other critical-rated issues
+T19	Attack-Pattern 776 804	lead to privilege escalation
+T21	Campaign 892 899	patched
+T23	Vulnerability 862 879	the critical bugs
+T20	Organization 881 886	Adobe
+T22	Vulnerability 900 927	43 out-of-bounds read flaws
+T24	Vulnerability 929 959	four integer overflow problems
+T25	Vulnerability 964 990	two security bypass issues
+T26	Attack-Pattern 1011 1039	allow information disclosure
+T30	Course-of-Action 1250 1258	patching
+T27	Course-of-Action 1134 1142	patching
+T28	Vulnerability 1072 1081	the flaws
+T29	Organization 1041 1046	Adobe
+T43	Course-of-Action 1518 1539	mitigated by updating
+T44	Version 1552 1568	current versions
+T45	Software 1572 1584	the software
+T32	Vulnerability 1290 1299	The flaws
+T34	Software 1355 1365	Acrobat DC
+T35	Software 1367 1384	Acrobat Reader DC
+T36	Software 1386 1398	Acrobat 2017
+T37	Software 1403 1422	Acrobat Reader 2017
+T40	Version 1449 1461	classic 2015
+T41	Version 1463 1475	classic 2017
+T42	Version 1480 1505	continuous-track versions
+T38	System 1427 1432	macOS
+T39	System 1437 1444	Windows
+T31	Organization 1161 1179	the software giant
+T14	Attack-Pattern 420 444	arbitrary code-execution
+T15	Vulnerability 388 410	 a use-after-free flaw
+T48	Vulnerability 634 654	heap-overflow issues
+T49	Vulnerability 691 710	use-after-free bugs
+T50	Number 688 690	24
+T51	Vulnerability 661 686	out-of-bounds write flaws
+T52	Number 656 660	five
+T53	Vulnerability 517 555	 The arbitrary code-execution problems
+T54	Vulnerability 569 582	buffer errors
+T55	Vulnerability 588 626	untrusted pointer dereference glitches
+T56	Number 584 587	two
+T57	Number 565 568	two
+T58	Time 506 516	this month
+T47	Time 1259 1273	within 30 days
+T60	Vulnerability 306 336	vulnerability (CVE-2018-15982)
+T61	Vulnerability 470 494	critical vulnerabilities
+T62	Time 62 75	 its December
+T63	Software 53 59	Reader
+T33	Number 18 20	87
+T64	Organization 342 344	it
+T65	Vulnerability 1186 1190	them
+T46	Software 448 453	Flash
+*	Coreference T8 T5
+*	Coreference T64 T1 T10 T16 T20 T29 T31
+*	Coreference T15 T60 T53
+*	Coreference T46 T13
+*	Coreference T23 T61
+*	Coreference T65 T28 T32
+*	Coreference T30 T27 T43
+*	Coreference T4 T34
+*	Coreference T35 T63
+*	Coreference T62 T58
+*	Coreference T17 T21

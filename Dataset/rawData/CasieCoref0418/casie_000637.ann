@@ -1,0 +1,85 @@
+T21	Campaign 106 128	a lengthy cyber attack
+T2	Organization 32 55	Eastern Carolina hotels
+T22	Time 129 138	last year
+T3	Information 175 207	customer credit card information
+T5	Location 224 244	franchised locations
+T6	Organization 258 269	Holiday Inn
+T7	Organization 271 290	Holiday Inn Express
+T8	Organization 292 309	Candlewood Suites
+T9	Organization 314 331	Staybridge Suites
+T10	Campaign 333 344	The hacking
+T11	Time 354 368	September 29th
+T12	Time 401 417	for three months
+T14	Campaign 445 468	searched for track data
+T15	Device 479 495	magnetic stripes
+T16	Hacker-Group 419 426	Hackers
+T13	Attack-Pattern 427 439	used malware
+T17	Information 512 516	name
+T18	Information 518 529	card number
+T19	Information 531 546	expiration date
+T20	Information 551 577	internal verification code
+T1	Number 70 74	1200
+T23	Location 75 84	locations
+T24	Organization 140 169	InterContinental Hotels Group
+T4	Organization 583 590	company
+T25	Location 613 629	Eastern Carolina
+T26	Organization 603 609	hotels
+T27	Time 648 664	dates of hacking
+T30	Organization 95 102	victims
+T31	Location 671 681	Greenville
+T32	Organization 684 723	Holiday Inn at 203 Greenville Boulevard
+T28	Time 738 765	September 29 to December 29
+T29	Time 811 837	September 29 to December 1
+T33	Time 1695 1721	September 29 to October 17
+T34	Time 1626 1653	September 29 to December 29
+T35	Time 1546 1573	September 29 to December 29
+T36	Time 1467 1494	September 29 to December 15
+T37	Time 1388 1415	September 29 to December 29
+T38	Time 1315 1342	September 29 to December 29
+T39	Time 1091 1118	September 29 to December 29
+T40	Time 978 1004	September 29 to November 4
+T41	Time 900 927	September 29 to December 29
+T42	Location 766 774	Havelock
+T43	Organization 777 796	Holiday Inn Express
+T44	Location 838 850	Jacksonville
+T45	Organization 853 885	Staybridge Suites on Cobia Court
+T46	Location 928 941	Morehead City
+T47	Location 1005 1014	Nags Head
+T48	Organization 1017 1076	Holiday Inn Express Oceanfront on South Virginia Dare Trail
+T49	Organization 944 963	Holiday Inn Express
+T50	Location 1119 1127	New Bern
+T51	Time 1204 1231	September 29 to December 12
+T52	Organization 1130 1178	Holiday Inn Express on Dr. Martin Luther King Jr
+T53	Location 1232 1240	New Bern
+T54	Location 1343 1351	Plymouth
+T55	Location 1416 1430	Roanoke Rapids
+T56	Organization 1354 1373	Holiday Inn Express
+T57	Organization 1243 1289	Candlewood Suites on Dr. Martin Luther King Jr
+T58	Organization 1433 1452	Holiday Inn Express
+T59	Organization 1504 1531	Holiday Inn Express at I-95
+T60	Organization 1583 1611	Holiday Inn Express Downtown
+T61	Organization 1663 1680	Candlewood Suites
+T62	Location 1654 1660	Wilson
+T63	Location 1574 1580	Wilson
+T64	Location 1495 1501	Wilson
+T65	Organization 1723 1726	IHG
+T66	System 1758 1775	encryption system
+T67	Course-of-Action 1781 1818	makes front desk payments more secure
+T68	Money 1787 1806	front desk payments
+T69	Person 1840 1846	people
+T70	Organization 1865 1871	hotels
+T71	Course-of-Action 1906 1970	review their credit card statements for any fraudulent purchases
+T72	Information 1919 1941	credit card statements
+T76	Person 1894 1898	they
+*	Coreference T2 T25
+*	Coreference T5 T23
+*	Coreference T8 T61
+*	Coreference T9 T45
+*	Coreference T26 T70
+*	Coreference T34 T41 T37 T40 T38 T35 T11 T36 T28 T51 T33 T29 T39
+*	Coreference T50 T53
+*	Coreference T7 T49 T57 T6 T52 T43 T56 T60 T58 T48 T59
+T73	Organization 1732 1734	it
+T74	Organization 1826 1828	it
+*	Coreference T69 T76
+*	Coreference T74 T73 T65
