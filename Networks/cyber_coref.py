@@ -155,7 +155,7 @@ class BertDocumentEncoder(nn.Module):
         self.distribute_model = distribute_model
 
         if args.tp_all_in_one:
-            self.bert = TypePredictor.encoder.bert
+            self.bert = TypePredictor.typePredictor.encoder.bert
         elif args.bert_name=='bert-base':
             self.bert, _ = BertModel.from_pretrained("bert-base-cased", output_loading_info=True)
         elif args.bert_name=='bert-large':

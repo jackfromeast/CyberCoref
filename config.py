@@ -25,6 +25,7 @@ def arg_parse():
     parser.add_argument('--corpus_subpath', default='casieAll_0430')
     parser.add_argument('--corpus_filename', default='_corpus_cyber.pkl')
     parser.add_argument('--corpus_len', default=100)
+    parser.add_argument('--max_sent_len', default=179)
     # train_corpus_path = ./Dataset/casie0417/train_corpus_bert_base.pkl
     # val_corpus_path = ./Dataset/casie0417/val_corpus_bert_base.pkl
     
@@ -50,7 +51,6 @@ def arg_parse():
     parser.add_argument('--cnn_char_filters', default=50, type=int, help='')
     parser.add_argument('--dropout_rate', default=0.3, help='')
     
-
     # wordLevelModel Specific
     parser.add_argument('--wl_ascoring_batch_size', default=512, help='')
     parser.add_argument('--wl_anaphoricity_hidden_size', default=1024)
@@ -65,14 +65,14 @@ def arg_parse():
     parser.add_argument('--mention_coref_gi_split', default=False, action='store_true')
 
     # Expriments for sents corelation
-    parser.add_argument('--sent_corelation', default='none', choices = ['lstm','dattn', 'none'])
+    parser.add_argument('--sent_corelation', default='none', choices = ['lstm','dattn','dot-matchPyramid', 'cos-matchPyramid', 'cos-dot-matchPyramid', 'none'])
     parser.add_argument('--sent_corel_dim', default=32)
 
     # Experiments for type prediction
-    parser.add_argument('--tp_all_in_one', action='store_true', default=False)
+    parser.add_argument('--tp_all_in_one', action='store_true', default=True)
     parser.add_argument('--insertTag', action='store_true', default=False)
     parser.add_argument('--type_dim', default=64, type=int, help='')
-    parser.add_argument('--tp_solution', default='gold', choices = ['without-tag-mean', 'without-tag-md', 'tagged-mean', 'tagged-token-md', 'tag', 'gold', 'None'])
+    parser.add_argument('--tp_solution', default='without-tag-md', choices = ['without-tag-mean', 'without-tag-md', 'tagged-mean', 'tagged-token-md', 'tag', 'gold', 'None'])
 
     # Train
     parser.add_argument('--gpus', default=1)
@@ -98,7 +98,7 @@ def arg_parse():
     parser.add_argument('--checkpoint_path', default='./Weights')
     parser.add_argument('--checkpoint_moniter_metirc', default='valid_avg_f1')
     parser.add_argument('--checkpoint_name', default='casie100-bertbasecoref-{epoch:02d}-{valid_avg_f1:.2f}')
-    parser.add_argument('--load_checkpoint_name', default='casieAll-0430-bertModel-spanbertbase-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan20-K50-epoch=32-valid_avg_f1=0.54.ckpt')
+    parser.add_argument('--load_checkpoint_name', default='casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-epoch=33-valid_avg_f1=0.61.ckpt')
 
     # Logger
     parser.add_argument('--use_logger', action='store_true', default=False)

@@ -1,7 +1,7 @@
 import os
 from config import arg_parse
-from dataLoader import load_corpus, Corpus, Document, BERTDocument, corefQADocument, wordLevelDocument
-from Models import bertCorefModel, nnCorefModel, wordLevelModel
+from dataLoader import load_corpus, Corpus, Document, BERTDocument, corefQADocument, wordLevelDocument, CyberDocument
+from Models import bertCorefModel, wordLevelModel, cyberCorefModel
 
 import pytorch_lightning as pl
 from pytorch_lightning.loggers import WandbLogger
@@ -37,8 +37,13 @@ test_corpus = val_corpus
 checkpoint_path = args.checkpoint_path + '/' + args.load_checkpoint_name
 
 # Select the Model
-if args.model == 'nnCorefModel':
-    model = nnCorefModel().load_from_checkpoint(checkpoint_path)
+if args.model == 'cyberCorefModel':
+    maxSentLen = 0
+    for doc in test_corpus:
+        cur_MaxSentLen = max([bdry[1]-bdry[0]+1 for bdry in doc.sent2subtok_bdry])
+        if maxSentLen < cur_MaxSentLen:
+            maxSentLen = cur_MaxSentLen
+    model = cyberCorefModel(MaxSentLen=args.max_sent_len).load_from_checkpoint(checkpoint_path, MaxSentLen=args.max_sent_len).to(args.device)
 elif args.model == 'bertCorefModel':
     model = bertCorefModel(distribute_model=args.distribute_model).load_from_checkpoint(checkpoint_path).to(args.device)
 elif args.model == 'wordLevelModel':
@@ -82,9 +87,9 @@ if args.model == 'wordLevelModel':
                 print("%s: %s: %s" % (word, doc.cased_words[span[0]:span[1]], gold_span))
 
 
-if args.model == 'bertCorefModel':
+if args.model == 'bertCorefModel' or args.model == 'cyberCorefModel':
     
-    spans, scores = model.forward(doc)
+    spans, scores, all_spans, all_span_scores = model.forward(doc)
     
     gold_coref_cluster = extract_gold_coref_cluster(doc)
     pred_coref_cluster = extract_pred_coref_cluster(spans, scores)
