@@ -38,3 +38,13 @@ python train.py --corpus_subpath casieAll_0430 --corpus_filename _corpus_cyber.p
 ```
 
 ## Prediction
+For the prediciton of the given documents with the trained model:
+
+Firstly, make sure that each given raw document is processed and stored as an object of class CyberDocument, which is defined in the dataLoader.py. All documents waiting to be predicted need to be integrated into the object of the corpus class and saved to a .pkl file, just like what we do in the training step.
+
+Secondly, the trained model weights should be saved in the `./Weights` directory.
+
+Finally, you can run the following command to predict:
+```
+python test.py --model cyberCorefModel --load_checkpoint_name casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-epoch=33-valid_avg_f1=0.61.ckpt
+```
