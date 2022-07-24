@@ -14,27 +14,27 @@ By the way, if you meet any error about the SSL certificate when downloading the
 
 Secondly, make sure you can access to the external network, since the code will automaticlly download the pre-trained BERT model from [the Humming Face](https://huggingface.co/). Otherwise, you should download the pre-trained BERT to the `./BERTs/` directory by yourself first, for example `./BERTs/spanbert-base-cased`, and revise the code related to loading BERT models.
  
-Finally, annotated data with the BRAT form should be put under the `./Dataset/rawData/` directory. Currently, if you want to access to our dataset, please contact Prof.Cheng Huang by codesec\[at\]scu.edu.cn.
+Finally, annotated data with the BRAT form (i.e. .txt file and .ann file for each document) should be put under the `./Dataset/rawData/` directory. Currently, if you want to access to our dataset, please contact Prof.Cheng Huang by codesec\[at\]scu.edu.cn.
 
 ## Training
 
 ### Preparing training and validation samples
-To generate the training and validation dataset for the CyberCoref model:
+It should be noted that there still serval steps to go from the raw data to the dataset ready for training and validation. Therefore, the Document class and its variants are defind in the `dataLoader.py` for better completing those steps. Each sample, i.e. a document, will create an object of those class. And the whole training dataset or validation dataset will be collected as an object of the Corpus class and saved to a .pkl file.
 ```
 python dataLoader.py --model cyberCorefModel --bert_based --bert_name spanbert-base --max_segment_len 384 --corpus_subpath casieAll_0430 --corpus_filename _corpus_cyber.pkl --train_val_ratio 0.2
 ```
-The processed training and validation dataset would be saved to the `./Dataset/casieAll_0430/train_corpus_cyber.pkl` and `./Dataset/casieAll_0430/valid_corpus_cyber.pkl`
+Then, the processed training and validation dataset would be saved to the `./Dataset/casieAll_0430/train_corpus_cyber.pkl` and `./Dataset/casieAll_0430/valid_corpus_cyber.pkl`
 
 ### Pre-train the type prediction network by the entity type prediction subtask
-More details of the type prediction network and the subtask are in the paper. The pre-trained network's weights should be saved in the `./Weights` directory. However, our pretrained nwtwork's weights can be find as `./Weights/tp-spanbert-without-tag-md-epoch=19-valid_weighted_f1=0.79.ckpt` and are ready use directly.
+More details of the type prediction network and the subtask are in the paper. The pre-trained network's weights should be saved in the `./Weights` directory and will be loaded when training the CyberCoref model as a whole. However, our pretrained nwtwork's weights can be find as `./Weights/tp-spanbert-without-tag-md-epoch=19-valid_weighted_f1=0.79.ckpt`, which is ready use directly. Due to single file size limitation, please visit [this address]() for model weights.
 
-If you want to train the type prediction network with the custom entities datatset, please refer to the `spanDataloader.py` and the `tp_train.py`.
+If you want to train the type prediction network with the custom entities datatset by yourself, please refer to the `spanDataloader.py` and the `tp_train.py`.
 
 ### Train the overall model
 There are important config keys in the `config.py` should be setup before start training. The following command is a example to train the CyberCoref model.
 
 ```
-python train.py --corpus_subpath casieAll_0430 --corpus_filename _corpus_cyber.pkl --model cyberCorefModel --bert_based --bert_name spanbert-base --tp_solution without-tag-md --segment_max_num 1 --max_epochs 50 --scheduler CosineAnnealingLR --scheduler_T_max 15 --max_span_length 20 --prune_lambda 0.3 --use_logger --logger_filename casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50  --logs_path ./Logs --save_checkpoint --checkpoint_name casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-{epoch:02d}-{valid_avg_f1:.2f}
+python train.py --corpus_subpath casieAll_0430 --corpus_filename _corpus_cyber.pkl --model cyberCorefModel --bert_based --bert_name spanbert-base --tp_solution without-tag-md --segment_max_num 1 --max_epochs 50 --scheduler CosineAnnealingLR --scheduler_T_max 15 --max_span_length 20 --prune_lambda 0.3 --save_checkpoint --checkpoint_name casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-{epoch:02d}-{valid_avg_f1:.2f}
 ```
 
 ## Prediction
