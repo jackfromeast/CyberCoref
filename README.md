@@ -48,3 +48,4 @@ Finally, you can run the following command to predict:
 ```
 python test.py --model cyberCorefModel --load_checkpoint_name casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-epoch=33-valid_avg_f1=0.61.ckpt
 ```
+![prediction_example](./prediction_example.gif)
