@@ -1,6 +1,8 @@
 # CyberCoref: Coreference Resolution for Cybersecurity Corpus
 
-This repository contains codes and models for the paper, **Coreference Resolution for Cybersecurity Entity: Towards Explicit, Comprehensive Cybersecurity Knowledge Graph with Low Redundancy**, which has been accepted by the [SecureComm 2022](https://securecomm.eai-conferences.org/2022/accepted-papers/). The implementation of CyberCoref and other replicated models are built on the pytorch-lighting framework and refers to the [ubc-coref](https://github.com/grig-guz/ubc-coref), [wl-coref](https://github.com/vdobrovolskii/wl-coref), and [coreference-resolution](https://github.com/shayneobrien/coreference-resolution). Thanks so much for their wonderful works.
+This repository contains codes and models for the paper, **Coreference Resolution for Cybersecurity Entity: Towards Explicit, Comprehensive Cybersecurity Knowledge Graph with Low Redundancy**, which has been accepted by the [SecureComm 2022](https://securecomm.eai-conferences.org/2022/accepted-papers/). 
+
+The implementation of CyberCoref and other replicated models are built on the pytorch-lighting framework and refers to the [ubc-coref](https://github.com/grig-guz/ubc-coref), [wl-coref](https://github.com/vdobrovolskii/wl-coref), and [coreference-resolution](https://github.com/shayneobrien/coreference-resolution). Thanks so much for their wonderful works.
 
 The dataset of CyberCoref is not available currently, please contact to the corresponding author's email shown on the paper for dataset request.
 
