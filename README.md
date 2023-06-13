@@ -53,3 +53,15 @@ Finally, you can run the following command to predict:
 python test.py --model cyberCorefModel --load_checkpoint_name casieAll-0430-bertModel-spanbertbase-tp-allinone-pretrained-nontag-md-2lr-lambda0.3-ca15-MaxSeg1-Seglen384-MaxSpan15-K50-epoch=33-valid_avg_f1=0.61.ckpt
 ```
 ![prediction_example](./prediction_example.gif)
+
+## Citation
+```
+@inproceedings{liu2022coreference,
+  title={Coreference Resolution for Cybersecurity Entity: Towards Explicit, Comprehensive Cybersecurity Knowledge Graph with Low Redundancy},
+  author={Liu, Zhengyu and Su, Haochen and Wang, Nannan and Huang, Cheng},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={89--108},
+  year={2022},
+  organization={Springer}
+}
+```
